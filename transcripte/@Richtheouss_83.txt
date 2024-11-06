@@ -1,0 +1,630 @@
+salut à tous salut à toutes aujourd'hui
+on va parler de créer un Personna alors
+on est dans le module sur euh cibler ses
+clients comment faire je pense que s'il
+y a bien un outil qui est utile pour
+faire en sorte de cibler ses clients
+correctement et de comprendre les
+différents canaux sur lesquels ils vont
+passer du temps bah c'est le personnage
+donc on va voir ensemble comment mettre
+en place ce document je vous ai fait
+pour l'occasion un petit template ça va
+aller vite je vais vous donner quelques
+tips mais vous allez vite comprendre que
+l'essentiel ça va être d'arriver à créer
+votre propre person a d'arriver à créer
+le document qui correspond à votre boîte
+et à vos besoins donc l'idée ici c'est
+que je vous ai créé un template hyper
+simple de Persona de base donc le
+persona c'est un outil qu'on utilise
+assez régulièrement en design mais on
+peut l'utiliser aussi en growth en
+acquisition en marketing bref on peut
+l'utiliser un peu dans tous les domaines
+du business mais donc le but c'est
+vraiment d'utiliser ce document pour
+avoir un profil type de d'une personne
+donc on va voir ensemble comment bâtir
+un profil type comme ça mais vous allez
+voir que l'idée c'est vraiment
+de de grossir le trait gen il y a a a un
+côté presque caricatural à créer un
+profil Personna parce qu'évidemment vous
+allez pas pouvoir mettre un profil
+existant le but c'est pas d'avoir un
+client que vous connaissez vous avez pu
+rencontrer ou avoir au téléphone ou ou
+juste identifi en ligne mais ça va être
+vraiment d'avoir une espèce de de de de
+personne
+méta qui regroupe tous les traits de
+caractère hyper grossi que vous voulez
+mettre en avant et que vous allez
+vouloir toucher euh donc ici pour
+l'occasion on va voir ça avec un profil
+un peu caricatural évidemment donc le
+template que je vous ai fait il est
+dispo dans les outils sur le module
+ciblé ses clients sur cette page vous
+allez voir qu'il y a plusieurs cases
+donc normalement quand vous vous allez
+arriver vous allez être en lecture seule
+donc vous allez pas pouvoir modifier
+directement ce document donc ce que vous
+allez faire c'est faire fichier créer
+une copie vous allez la mettre dans le
+dossier que vous voulez vous pouvez
+l'appeler copie de template persona je
+m'en fiche tac donc la première chose ce
+que je vous conseille de faire c'est de
+venir dupliquer ici l'onglet du template
+et de le renommer avec le nom de votre
+Personna donc là pour l'instant j'ai pas
+encore de nom parce que j'ai pas encore
+réfléchi outre mesure mais donc on va
+l'appeler Personna
+1 comme ça ça vous permettra d'avoir le
+template toujours dispo pour les autres
+personnas que vous voudrez créer parce
+qu'il y a toujours plusieurs personnas
+pour une boîte en général et ensuite de
+pouvoir modifier donc le deuxième onglet
+Personna 1 le Personna comme je disais
+c'est une personne fictive que vous
+allez euh caricaturer au maximum dans
+bah ces traits de caractère donc pour
+cette vidéo ce qu'on va faire c'est
+qu'on va prendre un des personnag de
+coup d'état des gens que j'ai pu
+observer beaucoup on a plusieurs types
+de personn entre les étudiants les
+patrons de PME les freelance les gens
+qui sont salariés mais qui sont
+intéressés par l'entrepreneuriat et
+cetera on a quand même beaucoup de
+personnes différent sur coup d'État
+parce qu'on a quand même un rich qui est
+assez élevé mais du coup je vais
+m'intéresser ici sur le personnage du
+freelance qui va être digital nomade
+ça tombe bien parce queon est en train
+de passer en remote avec la team coup
+d'État donc on va un peu caricaturer ce
+profil là et bah arriver à créer son
+profil directement dans le template donc
+pour pour la première étape ce qu'on va
+faire c'est qu'on va prendre une photo
+donc je vais taper digital nomade pour
+essayer de trouver une photo un peu
+générique et un peu caricaturale de la
+personne qu'on veut illustrer ici alors
+bon on a des photos type Jean-Michel sur
+la plage entre de lever les bras au ciel
+devant son ordi on sait pas trop
+pourquoi on va peut-être pas aller tant
+dans la caricature que
+[Musique]
+ça là on a quelque chose de sympa on va
+pas tomber non plus dans dans le
+hamac si allez on va rentrer dans l'abus
+le plus total on va prendre cette image
+là hop je la
+sauve et je viens l'ajouter du coup ici
+donc ici dans dans Google sheets il y a
+une nouvelle fonctionnalité é depuis
+quelques temps qui qui est dans
+insertion vous pouvez rajouter une image
+dans la cellule et donc vous allez
+pouvoir importer votre petite
+photo tac
+ok donc là on a une photo de notre
+digital nomade euh de notre personage
+digital nomade euh qui qui est vraiment
+caricatural hein le mec dans son HAC sur
+son ordi mais au final ça te donne déjà
+une bonne idée de qui est la personne je
+pense que la photo c'est vraiment très
+très important parce que bah ça grossile
+trait ensuite on va lui donner un nom
+alors ce ce gars-là comment on va
+l'appeler on va l'appeler euh Michell il
+faut il faut un nom que vous allez
+retenir ça ça doit vraiment devenir un
+peu quelqu'un dont vous pouvez parler
+régulièrement genre ah mais qu'est-ce
+que frerit Michel dans cette situation
+ah mais qu'est-ce qui qu'est-ce que
+voudrait voir michaell dans dans ce post
+Instagram qu'est-ce que donc il y a
+vraiment ce truc-là donc on va l'appeler
+Michell Dorman voilà et donc Michell
+Dorman il est digital nomade ensuite on
+va réfléchir à une citation donc les
+citations quand vous faites un persona
+évidemment là on a l'impression que je
+le fais à partir de de juste ma tête et
+en imaginant complètement le profil il y
+a une part de vrai évidemment mais il y
+a quand même une bonne part de bah j'ai
+parlé à des gens comme ça qui sont dans
+ce profil qui est très caricaturé encore
+une fois énormément de fois dans Coup
+d'État genre la première année j'ai fait
+600 office hours avec des gens
+différents que ce soit en visio ou sur
+place chez the family et en fait bah
+genre je me suis rendu compte qu'il y
+avait beaucoup de cette catégorie là de
+gens qui nous regardaient et qui avaient
+envie bah d'une vie plus simple et de
+pouvoir travailler sans forcément avoir
+le la pression d'être au bureau et
+cetera donc c'est à la fois une espèce
+d'imagination de ma part mais aussi
+évidemment une espè c'est plus une
+synthèse de tout ce que j'ai pu
+apprendre en côtoyant ces gens et et en
+les observant et ce que j'en ai retenu
+instinctivement par rapport à leur
+comportement ensuite ici je vous ai mis
+une petite case pour mettre une citation
+alors une citation de choses que quelqu
+que les gens vont dire donc il y a
+forcément des phrases qui vont revenir
+régulièrement les gens ont toujours des
+espèces de moto hein ils ont toujours
+des des des phrases choc qui vont
+utiliser très régulièrement pour
+justifier entre guillemets leur choix de
+vie ou même si c'est pas forcément
+justifié les illustrer quand ils vont
+discuter avec vous donc ici Michell euh
+ce qui va dire je pense par par rapport
+à sa vie de Digital nomade et sa vie
+d'entrepreneur en général c'est une
+phrase du style fais quelque chose que
+tu
+aimes et tu ne travailleras pas un seul
+jour de ta
+vie voilà c'est ce genre de truc et et
+cette citation elle est forcément très
+différente d'un profil à l'autre genre
+je veux dire michaell Dorman qui dit
+fait quelque chose que tu aimes et tu
+travailleras pas un seul jour de ta vie
+ça va être très différent de euh Jean
+machin qui va être patron de PME et qui
+va dire l'important c'est la solidité
+dans la vie et la stabilité genre il y a
+forcément des des énormes différences
+c'est pour ça que c'est important de
+faire plusieurs personnas aussi mais je
+trouve que on commence à avoir un profil
+qui se bâtit donc ensuite ce qu'on va
+faire une fois qu'on a fait cette
+citation cette photo et qu'on a choisi
+son nom on va commencer à bah lui donner
+des infos donc en général en terme d'âge
+je pense que Michael Dorman notre
+caricature du digital nomade il va avoir
+allez 32 ans il a une situation
+professionnelle qui est il est freelance
+designer ux je pense que c'est le le
+c'est le premier truc qui me vient à
+l'esprit j'en ai vu plein en fait dans
+Coup d'État sa situation perso c'est
+qu'il est en couple
+euh
+avec une
+femme et lieu bah il est nomade et en ce
+il est nomade plutôt plutôt plage voilà
+donc là sur les infos on a quelque chose
+qui est bah très large très vague mais
+qui finalement encore une fois nous
+donne une très bonne idée du truc quoi
+il a 32 ans donc ça veut dire que il est
+loin d'avoir il a fini ses études depuis
+un moment s'il a fait des
+études mais il est pas non plus en mode
+sédentaire posé avec des enfants euh il
+a une situation pro où il est freelance
+designer ux parce que c'est un métier
+qui est adapté au digital nomade parce
+que tu peux bosser juste avec un ordi à
+peu près de n'importe où euh la
+situation perso il est en couple avec
+une femme avec qui il voyage
+régulièrement bref ça nous donne quand
+même pas mal d'idées de tout ça
+maintenant on va faire une petite
+description donc
+michaell est un rêveur
+ok donc petite astuce euh sur Google
+sheets si vous savez pas vous pouvez
+utiliser la touche Contrôle pour venir
+faire des des des retours à la ligne
+donc contrôle et entrée ça fait des
+retours à la ligne et ça vous permet du
+coup d'avoir un truc un peu mieux mise
+en page donc ici on donc Michell est un
+rêveur il parcour le monde avec son ordi
+sa caméra et son drone pour découvrir de
+nouveaux paysages régulièrement il bosse
+pour différents clients en tant que ux
+designer crée des maquettes et des
+expérience léchée et un amour du détail
+important il est plutôt extraverti fait
+la fête régulièrement mais avec son
+il est plutôt extraverti fait la fête
+régulièrement mais son activité préférée
+c'est de marcher les pieds dans l'eau au
+coucher de soleil avec sa femme là on a
+une description déjà plus aboutie hein
+on sait qui est michaelll on sait on a
+sa petite photo de lui dans son hamac on
+sait ce qu'il aime faire qu qu'il a un
+amour du détail et cetera ensuite on va
+aller taper dans ses dans sa dans ses
+traits de personnalité donc est-ce qu'il
+est plutôt introverti est-ce qu'il est
+plutôt extraverti donc comme je l'ai dit
+il est plutôt extraverti donc moi ici je
+vais venir changer la couleur du ground
+de cette case tac euh est-ce qu'il est
+plutôt analytique ou créatif je pense
+que Michel il est profondément créatif
+c'est quelqu'un qui qui aime créer bon
+en tant que designer il y a évidemment
+un aspect analytique mais mais mais en
+tout cas lui dans sa définition de de sa
+vision tu sais que il est il se voit
+comme un créatif et ensuite est-ce qu'il
+est plutôt loyal ou versatile donc ça ça
+veut dire en terme de marque en terme de
+en terme de de de de Job et cetera on
+peut dire qu'il est quand même plutôt
+versatile hein vu qu'il change quand
+même régulièrement de clients il bosse
+pour différentes boîtes il change de
+pays aussi régulièrement c'est pas
+quelqu'un qui va forcément se fixer à
+une une seule chose après peut-être hein
+peut-être ça ça ça se ça se discute mais
+moi dans ce que j'ai l'habitude de voir
+à part sur les marques type Apple et
+cetera genre même si on va parler des
+marques de de de caméras de de de tout
+ça c'est des gens qui vont vouloir
+tester beaucoup de choses et ensuite
+est-ce qu'il est plutôt passif ou actif
+et ben Michell il est plutôt
+profondément actif parce que bah il
+passe sa vie à à à à bosser et à bouger
+et à découvrir de nouvelles choses donc
+voilà donc là on a une un profil de
+personnalité un petit peu plus construit
+euh et ensuite on va commencer à se
+poser des questions par rapport à notre
+produit donc par rapport à notre produit
+donc là ici moi c'est un profil de
+personnat que je crée pour coup d'État
+donc je vais me poser une première
+question qui est quelle est l'expérience
+de l avec ce genre de produit donc le le
+le genre de produit de coup d'état ça va
+être les formations en ligne ça va être
+les vidéos YouTube ça va être les
+bouquins d'entrepreneuriat aussi parce
+que finalement nous notre objectif c'est
+d'amener de l'éducation dans la vie des
+gens pour qu'ils puissent entreprendre
+plus facilement et avec plus
+d'inspiration donc finalement il y a
+quand même énormément de genr de
+produits donc moi quand je discute avec
+c'est avec ces ces personnesl qui
+rentrent dans le personnage de michaell
+ben je me rends compte que il liseent
+énormément de bouquins les genre
+d'expérience qu'il va avoir c'est qu'il
+a lu énormément de bouquins c'est un
+grand fan de la semaine de 4 heur de
+team feris qui consomme des vidéos
+YouTube régulièrement sur le sujet du
+digital Nomad et bah du du fait de
+voyager où se poser et cetera et que du
+coup c'est son c'est un aspect éducatif
+pour lui et ensuite qu'il a acheté une
+formation un jour freelance indépendant
+mais il en est pas très satisfait parce
+qu'il a pas appris grand-chose donc ça
+c'est son expérience générale évidemment
+c'est pas une personne définie mais ça
+nous donne aussi une bonne idée de où en
+est la personne dans son rapport aux
+formations en général et à ce que nous
+on peut proposer chez coup d'État ok
+donc ensuite on va se poser la question
+de ses attentes par rapport à ce genre
+de produit par rapport à à ce que à ce
+qu'il aime en général donc Michel il est
+ux designer donc en général il va avoir
+une appétence pour le design
+élevé donc il va chercher des bonnes
+expériences
+il va chercher des identités visuelles
+alléchantes finalement il va chercher
+des trucs qui ont de la gueule et il va
+vouloir quelque chose de rapide de
+concis sans bullshit parce que une des
+grandes choses qui motive michaell dans
+la vie c'est sa libertéin et donc du
+coup se sentir enfermé dans une
+formation ou dans un truc qui va lui
+prendre plusieurs heures bah ça le fait
+chier donc grosso modo voilà donc il a
+des attentes par rapport à ce à ce genre
+de produit et ensuite bah on va on va
+aller se taper bah les TR trois trucs
+les plus importants dans un personnat
+qui sont les objectifs les frustrations
+et les motivations donc les objectifs ça
+va vraiment être bah tous les aspects
+que michaell veut atteindre dans sa vie
+donc michaell peut-être que ce qu'il
+veut dans sa vie c'est
+s'assurer d'un revenu mensuel régulier
+peut-être qu'il veut s'assurer d'un
+revenu mensuel
+régulier un autre truc que Michell veut
+c'est se libérer plus de temps
+et un troisième truc que Michell veut
+c'est avoir accès à une connexion
+Internet de bonne qualité ce genre de
+trucl c'est les grands objectifs de vie
+entre guillemets de michaell qui vont
+nous permettre de de comprendre comment
+faire pour l'aider à atteindre ses
+objectifs et ça va nous permettre dans
+notre cycle de vente bah de pouvoir
+vraiment l'accompagner et lui montrer
+que ce qu'on propose va l'aider à faire
+ça peut-être que nous chez coup d'État
+on va pas pouvoir aider michaell
+énormément à avoir accès à une connexion
+Internet de bonne qualité peut-être he
+peut-être qu'il y a un truc qu'on peut
+faire pour ça peut-être que ça pourrait
+être une idée de créer un mini site coup
+d'État digital nomade sur lequel on va
+recenser tous les points Wii de la
+communauté coup d'État et où on va
+mélanger finalement le canal
+d'acquisition communauté et le canal
+d'acquisition engineering as marketing
+ça peut être une idée ce qui est
+intéressant là-dedans c'est d'avoir des
+objectifs de vie qui nous permettent de
+se poser la question de comment apporter
+de la valeur à notre utilisateur et
+ensuite les frustrations ça va être bah
+qu'est-ce qui empêche la personne
+d'atteindre ça et qu'est-ce qu'elle ne
+veut surtout pas voir donc ici les
+frustrations qu'on va relever chez notre
+profil type de michaell ça va être de je
+dois toujours chercher des clients genre
+il y a tout le temps cette cour infinie
+à trouver des clients euh il y a je
+cours après les clients pour des
+factures ça me prend du temps les gens
+qui payent pas euh le le fait de générer
+les factures et cetera euh et et briefer
+mes clients ça prendre mon temps parce
+que les allers-retours sont
+interminables les gens comprennent pas
+forcément bien comment faire et je dois
+toujours vraiment prendre de mon temps
+pour un travail qui est pas
+nécessairement payé donc ça c'est des
+frustrations qui empêche Michell de
+d'atteindre ses objectifs qui sont bah
+de s'assurer un revenu mensuel régulier
+de se libérer plus de temps et cetera et
+et ces motivations du coup ça va
+vraiment être les choses qui sont plus
+méta donc la la la la donc la la
+motivation principale de Michell c'est
+sa liberté hein genre son objectif c'est
+vraiment d'être le plus libre possible
+et d'avoir le moins de contrainte
+possible donc ça il il est motivé par la
+liberté ça va être aussi la passion
+parce qu'il aime ce qu'il fait il aime
+le travail bien fait et du coup il a
+comme je disais il a un sens du détail
+qui est élevé donc il est motivé par ces
+trucs-là en plus de cette liberté il a
+quand même envie d'un certain calme euh
+d'un d'un calme qui est de la de la
+sérénité en fait
+finalement et ça c'est ce qui recherche
+donc ça ça va vraiment être C ces
+motivations profondes émotionnelles de
+ce qu' recherche alors les motivations
+c'est un sujet sur lequel on peut
+tergiverser pendant 1000 ans c'est
+profondément émotionnel on peut faire de
+la psychologie on peut faire de la
+psychanalyse on peut faire tout ce que
+vous voulez l'idée c'est d'arriver à
+mettre des mots sur ce que vous
+ressentez que les personnes vous disent
+quand elles fitent le profil que vous
+établissez pour bah arriver à mettre des
+mots un peu sur leur psychologie donc
+vous pouvez aller prendre les arbres des
+de de la psychologie humaine et
+comprendre s'ils sont plus dans la
+catégorie de la peur s'ils sont plus
+dans la catégorie de la joie SS sont
+plus dans la catégorie de machin et en
+fonction de votre produit les
+motivations vont pas être les mêmes
+forcément euh par exemple un produit
+d'assurance va se baser beaucoup plus
+sur la peur des gens et régler le besoin
+des gens de de gérer leur propre peur
+que un business qui va faire comme coup
+d'État se baser sur l'ambition et sur le
+fait d'atteindre des objectifs de vie
+qui sont plus agréables là on va être
+plus du côté de la joie mais finalement
+bah il y a énormément de termes que vous
+pouvez fixer dans cette
+case là donc on commence à avoir un
+profil on commence à avoir un profil qui
+est de plus en plus complet hein c'est
+quand même pas mal il nous manque
+quelques trucs le social medéia par
+exemple donc on peut Michel on sait que
+c'est quelqu'un qui passe beaucoup de
+temps sur Instagram regarde plein de
+Digital Nomad il est abonné à plein de
+comptes digital Nomad et cetera et et
+aussi de ux design et donc il s'inspire
+un peu pas mal sur Instagram il passe du
+temps sur dribble pour ceux qui
+connaissent pas dribble c'est une
+plateforme pour les designers pour
+partager bah des interfaces et cetera
+euh et on sait aussi que bah il est
+plutôt WhatsApp parce que WhatsApp comme
+il est à l'international régulièrement
+bah c'est le truc qui lui permet de pas
+changer de forfait toutes les de
+secondes pour envoyer les textos mais de
+pouvoir quand même communiquer avec sa
+famille et cetera donc voilà donc on a
+une idée un peu plus précise de qui est
+michaell donc là si on prend du recul et
+que on regarde vraimentah tout ça on
+comprend bien qui est michaell Dorman
+Michael Dorman c'est ce mec dans son HAC
+sur son ordi qui kiffe sa life qui est
+un rêveur parce que il parcourt le monde
+avec son ordi sa caméra et son drone
+pour faire des vidéos raconter un peu sa
+vie faire des vlogs euh son objectif
+c'est d'être tranquille d'être libre de
+pouvoir voyager le plus possible et il a
+quelques frustrations qui sont que bah
+il court tout le temps après ses clients
+que il doit tout le temps en trouver des
+nouveaux que il y a plein de flot de son
+travail qui lui prennent beaucoup de
+temps notamment le brief client qu'il
+est motivé par la liberté la passion
+bref tout ça c'est à voir dans un
+ensemble et en fait l'avantage de faire
+cet exercice c'est que bah au début j'en
+suis à un point où je suis là genre oui
+bon je vois à peu près qui est le
+digital nomade et là j'ai mis des mots
+dessus et mettre des mots dessus bah ça
+va me permettre de vraiment cibler mes
+clients et commencer à émettre des
+hypothèses sur quel Canau utiliser dans
+dans ce module sur cibler des clients
+mon objectif c'est de vous faire passer
+le message que il va falloir faire
+marcher votre créativité à partir des
+gens que vous targetez le personnage
+c'est la base pour faire ça vous avez le
+template qui est dispo comme je l'ai dit
+en début de la vidéo sur le module vous
+allez pouvoir le le l'utiliser le COP
+copier et faire vos propres personnat
+évidemment ça n'est qu'un template il y
+a des milliers de façons différentes de
+faire des personnat ce que je vous
+invite à faire c'est de prendre les
+différentes cases que j'ai pu créer vous
+les copiez vous les collez et vous
+rajoutez les éléments qui vous
+intéressent donc par exemple ici ça peut
+être journée Médi type ça c'est on va en
+parler dans le module sur les relations
+presse journée méiaatype vous venez vous
+changez les couleurs hop la journée
+médiatype et vous allez vous demander
+parce que la personne lit et peut-être
+que bah Michael durman la journée Médi
+type de michaell ça va être que il lit
+euh il va sur
+médium il va lire un blog sur le digital
+nomade qu'il aime
+bien et euh il va lire les news sur le
+monde par exemple j'en sais rien S c'est
+un c'est un sujet sur lequel je me suis
+pas forcément renseigné mais l'intérêt
+d'avoir un personnat c'est de pouvoir
+l'enrichir de plus en plus et enrichir
+ce person ça implique de prendre mon
+template et de le péter dans tous les
+sens de faire quelque chose de
+complètement nouveau mon but comme
+d'habitude c'est pas de vous dire voilà
+voilà votre exercice faites-le bien
+envoyez-le moi et je vais vous mettre
+une note sur 20 par contre prenez mon
+template pétez-le faites quelque chose
+de trop stylé où on voit des des
+personnag hyper intéressants pour votre
+business et envoyez-les moi et j'espère
+que bah je vais être je vais être fier
+de vous j'espère surtout que ça va vous
+aider à décider de quel Canau
+d'acquisition question vous allez
+pouvoir mettre en place dans votre
+business parce que bah ici évidemment le
+Personal vous permettre de comprendre
+comment faire pour créer un produit ça
+va vous aider énormément par exemple ici
+frustration je dois toujours chercher
+des clients c'est un truc qui est revenu
+chez tous les gens à qui j'ai pu parler
+dans la communauté coup d'État du coup
+on a créé la formation trouver des
+clients c'est vrai pour la création de
+produit mais c'est vrai aussi pour le
+choix d'un canal d'acquisition parce que
+quelqu'un qui veut de la liberté de la
+passion et qui est régulièrement sur
+Instagram peut-être que ça vaut le coup
+de mettre en place une stratégie de
+contenu qui va mettre en avant ce côté
+liberté ce côté passion et qui va
+attirer les gens à aller dans un cycle
+de vente où on va lui pousser encore
+plus de passion on va lui pousser un des
+messages qui sont plus portés
+extraversion qui sont plus créatifs qui
+sont actifs dans la vie peut-être qu'on
+va reprendre ta citation et la mettre
+quelque part enfin bref le personnat il
+vous permet de sortir de votre tête
+plein plein plein d'insight que vous
+aurez récupéré en parlant aux gens comme
+je l'explique dans la vidéo principale
+de ce module et les sortirs de votre
+tête ça vous permet de émettre des
+hypothèses sur quel Canau utiliser et je
+pense que c'est vraiment la base pour
+commencer une stratégie d'acquisition
+j'espère que ça vous a plu j'espère que
+vous avez kiffé j'ai hâte de voir ce que
+vous allez faire de cet outil et puis et
+ben bon courage amusez-vous bien Ciao

@@ -1,0 +1,1866 @@
+salut JS salut Val mais je suis trop
+content de te recevoir ça me fait hyper
+plaisir toi tu as un parcours assez
+intéressant on va parler de plein de
+choses évidemment on va parler
+d'acquisition c'est la formation trouver
+des clients il y a une des étapes de ton
+parcours qui qui qui est très
+intéressante pour les gens qui nous
+regardent qu le moment où tu as lancé
+Peter donc Peter céit un chatbot pour
+mettre en relation des étudiants avec
+des des lycéens c'est ça collégien
+lycéen pour leur donner des cours
+particuliers c'est ça donc vous avez av
+lancé ce service là vous êtes dit ok
+comment on va trouver des clients vous
+avez mis en place une stratégie de viral
+marketing et vous avez fait 100000
+signup en 2 semaines en 48 heur en 48
+heur ouais 48 he c'estpque tu me
+racontes ouais avec plaisir bah écoute
+alors Peter donc c'est c'était c'est une
+aventure qui a démarré euh il y a pas
+mal de temps maintenant on avait
+commencé à travailler un petit peu
+dessus en c'était fin d'été 2016 tu vois
+c'était le moment où Facebook annoncé en
+fait le release des des chatbot donc la
+possibilité d'avoir des micro
+applications qui sont conversationnelles
+en fait directement dans Messenger donc
+on s'est dit ok si une opportunité de
+fou parce que tu as la possibilité de
+Reach plus d'un milliard de personnes
+qui sont des daily active users sur
+Messenger et tu as une toute nouvelle
+plateforme qui te permet de d'accéder
+délivrer du service de la valeur
+directement à ces gens-là en passant par
+le messaging qui est un petit peu
+l'endroit où on passe le plus de temps
+sur nos téléphones on passe du temps à
+être à discuter avec nos amis avec notre
+famille avec nos collègues donc si c'est
+un Space qui est hyper intéressant pour
+essayer de de créer des applications de
+créer la valeur autour de de ce de cet
+écosystème là donc ça c'est ça c'est un
+truc qui qui est un autre canal que
+viral marketing du coup qui est se
+pluger sur des plateformes existantes
+ouais complètement toi ce ce truc à quel
+moment tu repèds l'opportunité de [ __ ]
+il y a ce n nveau ce n c'était comment
+c'était un store c'était ça ressemble ça
+ressemble à quoi le truc des chatbot
+dans Messenger ouais en fait c'est très
+simple tu avais accès à une API chez
+Messenger et tu avais tout un tas de
+services un des plus connus c'était
+api.ai qui a été racheté maintenant par
+Google qui s'appelle dialog flow et qui
+te permettait en fait de créer des
+scénarios conversationnels directement
+dans ces outils là et tu plugais tout ça
+en fait directement dans dans laapi
+Messenger et et en fait ta page puisque
+c'était des pages facebook se mettait à
+devenir semi-intelligente on va dire euh
+et tu pouvais avoir des interactions
+conversationnelles tu pouvais avoir
+aussi bien des messages que tu envoies
+où il y a une compréhension de de ton de
+ton côté en fait avec avec ton ton
+service conversationnel donc comme
+dialogue flow qui comprenait certains
+keyword et cetera que tu pouvais tu
+pouvais identifier dans la conversation
+et qui proposait des réponses en retour
+ou bien Ctait que textuel il y avait pas
+les boutons comme
+aujourd'hui deuxème option c'est
+exactement ça c'est que tu avais des
+boutons moi je je j'ai à l'époque donc
+maintenant les les chatbots c'est un
+petit peu redescendu mais à l'époque moi
+je militais beaucoup pour dire
+que le
+conversationnel chatbot dumb
+basically et et que le
+conversationnel ça devait être buton
+driven et que tu devais avoir toujours
+ces boutons qui soni affichés parce que
+sinon les gens sont face à un vide ils
+savent pas à quoi répondre ils savent
+pas quel est le next step rappelle quand
+j'étais gamin il y avait ces jeux vidéo
+où c'était en console et tu devais dire
+je vais tout droit et du coup tu pouvais
+taper n'importe quoi et es bloqué
+exactement ouais ouais absolument c'est
+ça et il y a eu il y avait eu pas mal
+d'études qui a été fait tu avait le le
+le CEO de
+de la boîte à fermé mais bref c'était
+une grosse boîte conversationnelle
+c'était un peu l'équivalent de WhatsApp
+en mode anonyme aux US et et ils avaient
+mené pas mal d'études où ils essayent de
+créer des chatbots sans sans bouton en
+fait pour dver l'expérience et c'est une
+catastrophe parce que les gens ils
+étaient vraiment face au vide ils
+étaient face à l'inconnu et il savait
+pas quoi dire tu vois et lorsque tu dis
+un truc et que le le chatbot réagit pas
+de la façon que tu es tu tu tu attendais
+en faitah là tuas ton niveau de de
+déception
+de tu dis c'est nul et et tu reviens pas
+quoi donc c hyper important d'avoir une
+expérience qui soit
+complètement buton driven à quel point
+tu devais coder ça à l'époque euh tu
+pouvais avoir des outils qui te
+permettent j'ai plus le nom de de
+l'ensemble des outils mais tu avis pas
+mal d'outils qui existaiit et tu pouvais
+avoir du drag and drop plus
+plus chat F voilà chat fu
+exactement le tout début du cou
+complètement chat juste de lancer mais
+grosso modo toutes les plateformes sont
+à peu près arrivé en même temps je
+penseatf ouais dû se lancer courant en
+2016 tous sont arrivés à peu près en
+même temps l'opportunité é était assez
+évidente à l'époque
+euh nous on avait quand même une
+expérience qui était qui était quand
+même assez assez codé puisqu'on avait on
+avait on avait des web Pag qui pouvaient
+s'ouvrir directement dans l'expérience
+chatbot pour
+ajouter une expérience un petit peu
+augmentée et cetera mais tout ça est
+arrivé progressivement on a construit
+les choses brick par brick mais on avait
+démarré avec une expérience qui était
+qui était quand même qui était quand
+même codé on récupérait toutes les
+toutes les toutes les toutes les données
+conversationnelles de de nos
+utilisateurs sur les serveurs donc il y
+avait quand même un aspect et donc vous
+le le chatbot c'était votre produit
+absolumentat donc en fait le combien ça
+vous a combien tu estimes que ça vous a
+rapporté de leads enfin de
+d'utilisateur le fait d'être un chatbot
+tout seul sans la stratégie de viral
+marketing ok
+eu alors on est monté à plus d'un demi
+million d'utilisateurs sur ce chatbot
+euh je je serais pas à te dire mais
+parce que c'est c'est mêlé en fait ouais
+c'est mêlé mais en fait le viral
+marketing a été a été tellement
+important pour nous je pense que il a il
+a un petit peu gommé la Discovery
+organique du du chatbot même si elle a
+toujours eu lieu
+et mais c'est vrai que nous on a eu un
+effet de de viralité qui a juste été
+dingue et et on aurait jamais pu avoir
+ce système C cette boucle de viralité
+qui soit aussi forte sans la plateforme
+Messenger et sans l'aspect
+conversationnel le chatbot et cetera
+le mais ouais ça c'est éé un des points
+clés j'ai
+reviendrai je pense C hy que moi
+j'essaie de faire un peu un niveau
+d'abstraction au-dessus de comment tu
+peux espérer reproduire un peu ce genre
+de truc bon il y a beaucoup de chance il
+y a beaucoup de timing c'est compliqué
+toi cette opportunité là de dire wou il
+y a les chat bots qui sont là ça veut
+dire qu'on accède à plus d'un milliard
+de personnes qui utilise Messenger au
+quotidien et il y a il y a un vrai truc
+à faire sur ça alors que personne ne le
+voit comment ça se fait que toi tu vois
+cette opportunité là l'opportunité est
+quand même on va
+dire je v pas dire qu'elle est évidente
+euh mais si tu es dans la tête à ce
+moment-là milieu 2016 tu es forcément au
+courant qu' chbot qui sont en train d'ê
+lancer parce que contrairement à
+certaines plateformes comme par exemple
+la crypto qui sont des activités tu vois
+que des des hackerss font le dimanche tu
+vois et on construit vraiment des
+plateformes des outils on the side en
+dehors du du mass market en dehors de de
+l'audience média et cetera les chatbots
+lancé par facebook quand même des plus
+grosses entreprise de la Tex des gafard
+tu pouvais pas le rater parce que c'est
+Facebook qui déploie sa propre
+plateforme sur enfin qui crée sa propre
+plateforme qui transforme Messenger en
+plateforme et qui dit de la même façon
+qu'il avait fait 5 6 ans auparavant avec
+facebook où d'un coup ils ont transformé
+Facebook en plateforme et ils ont permis
+à plein de jeux de se construire comme
+farmville et d'autres et tu as des tu as
+desas tu as des potes qui ont été
+valorisés à plus d'un milliard qui sont
+construits sur facebook tu vois en tant
+que plateforme tu dis bah il y a la même
+opportunité qui est lancée maintenant
+sur un nouveau produit de de de la
+famille Facebook qui est Messenger tu
+peux si tu es dans la tech en
+2016 tu peux pas rater ça euh c'est
+c'est vraiment c mais entre entre ne pas
+le rater être au courant que c'est là et
+se dire wou ouais ouais complètement
+ouais ouais absolument ouais ouais
+complètement et euh donc tu as le fait
+que tu sois aware euh que tu sois au
+courant qui est le qui est cette
+opportunité qui arrive la plupart des
+entrepreneurs dans la tech surtout ceux
+qui qui étaient dans le Consumer eu
+était au courant de cette opportunité et
+ensuite il y a le fait de te dire ok
+pourquoi est-ce que je me lance pourquoi
+est-ce que je pense pareil et moi c'est
+vrai que j'avais une conviction sur le
+sur le messaging et et avec avec mon
+équipe également on partageit vraiment
+cette conviction là c'était c'est que de
+la même façon que quand on était passé
+sur les applications
+desktop donc par exemple comme Encarta
+tu vois dans les années 90 au web avec
+avec Wikipédia et toutes les
+applications qui sont créées tu avais
+gagné du temps de l'accessibilité en
+fait au au servicees c'estàd que en
+cararta avant tu devais prendre un
+celérum le mettre dans dans ta disquette
+cliquer sur je sais pas combien de
+boutons que ça s'installe que tu es
+assez d'espace
+que ensuite tu tu relances que ça prenne
+du temps à charger et cetera tout ça et
+et ton encyclopédie il fallait que tu
+ailles dans un store pour l'acheter tu
+vois enfin c'était tu vois c'est il
+fallutait que tu sois dans le bon Store
+et ceetera tu vois enfin le parcours
+entre avoir accès à l'Encyclopédie sur
+ton ordinateur et toi client utilisateur
+de Windows à l'époque il était quand
+même assez important tu vois je vais au
+store je il faut que j'installe le
+logiciel et je commence à l'utiliser tu
+vois et et et et ça c'est ça c'est un
+parcours qui est assez important et en
+fait quand internet c'est arriv d'un
+coup ce parcours il a été hyper
+simplifié c'est-à-dire que tu tapais
+juste Wikipédia sur Google et bom tu
+avais accès à ton à ton encyclopédie
+donc en fait tu as
+raccourci le l'espace d'accès entre
+entre un utilisateur et un serviceir
+pour
+AV et en fait on a vu la même
+opportunité se déployer sur les chatbot
+et c'est un truc dans lequel je crois
+entre guillemets s'il un truc je me dis
+je CIS encore toujours je me dis
+peut-être ça reviendra dans dans 5 ans
+10 ans 15 ans j'en sais rien c'est le
+fait qu'on en fait aujourd'hui quand tu
+es sur l'App Store ou sur le Play Store
+que tu veux par exemple télécharger je
+sais pas une app de ticketing par
+exemple tu dois aller sur l'App Store tu
+dois télécharger l'app donc la trouver
+la télécharger ensuite tu dois créer un
+compte et ensuite tu dois tu dois
+apprendreuser experience tu dois
+apprendre comment cet app fonctionne
+donc tu as trois steps un je télécharge
+de je crée un compte et en compte par
+app et trois j'apprends comment cette
+app fonctionne c'est quoi l'user
+experience et avec les chatbot le
+conversationnel tu élimines ces trois
+sources de friction c'est-à-dire que tu
+n'as plus à télécharger l'application
+puisquen fait elle est instant allée
+elle est elle est dans le Cloud elle est
+disponible en temps réel tu as juste à
+discuter avec la bonne page et bom
+instantanément tu as le service qui est
+disponible pas de pas de téléchargement
+de tu n'as pas de compte à créer tu as
+une identité qui est universelle en fait
+grâce à Facebook et c'est un des très
+rares produits qui capable de enfin
+c'est la seule c'est la seule société
+qui peut fournir Google enfin il y a
+quelques autres Apple également qui peut
+fournir une identité à l'échelle à une
+telle échelle en fait et donc tu as plus
+de problème de savoir qui tu es on sait
+qui tu es parce que tu connectes via le
+service et tr tu n'as pas une nouvelle
+interface à prendre une fois que tu sais
+comment un chatbot fonctionne et comment
+du conversationnel fonctionne avec du
+bouton une expérience qui qui fonctionne
+avec des boutons c'est fini tu sais le
+faire pour tous les chatbot et donc en
+fait tu as un drop au niveau de de ces
+trois niveaux de friction pour accéder à
+un service qui sont éliminés grâce au
+chatbot en fait mais on peut
+objectivement pas dire que ça a marché
+ouais bien sûr alors ça alors
+aujourd'hui les chatbots sont sont sont
+un fail total sont un échec total il y a
+tuas tu as une raison tu as une analyse
+un peu ouais moi j'ai ma petite analyse
+on a senti tu vois donc tuis on s'est
+lancé en 2016 on est le gros pic je te
+raconterai sûrement tout à l'heure en
+décembre 2016 où on a vraiment explosé
+le le le le le le nombre d'utilisateurs
+sur sur sur sur notre chatbot et ensuite
+on a vraiment senti le le virage tourné
+courant 2017 tu vois où on a vraiment
+senti que les chatbots étaient en train
+de de tomber euh à ce moment-là 2017 à
+Cambridge antica qui tombe sur tous les
+services qui sont connectés à à
+Messenger et à Facebook tu as la brin
+qui était un autre chatbot qui était
+chez the family qui faisait du
+ticketting euh qui était passé chez
+White combinator qui est super
+investisseur et et qui a dû fermer ses
+portes parce que d'un coup la PI la data
+qui était importante à faire fonctionner
+leur service a été coupé du jour au
+lendemain par facebook à cause de
+cambridgeica nous on a été un petit peu
+dans dans la fin de la tempête on
+commença à se sentir qu'il y a des des
+problèmes d'usage et de de de des
+challenges au niveau du produ market fit
+mais on a été quand même pris dans dans
+la tempête cambrigetica également et on
+sentait quand même qu'il commençait à y
+avoir une petite décalence au niveau de
+l'investissement de Facebook sur les
+chatbot dans tout le courant 2017
+et ma croyance je pense que la enfin la
+raison première pour laquelle Facebook a
+arrêté d'investir de l'énergie de la
+ressource en fait dans les chatbot c'est
+que le business model côté Facebook ne
+marchait pas c'est-à-dire que facebook
+leur modèle économique c'est je crée des
+audiences et je distribue des hats sur
+des target ciblé et la théorie dit et la
+théorie c'était de dire que le temps que
+les gens passent dans le messaging c'est
+du temps exploitable qu'on peut
+transformer en audience et qu'on peut
+monétiser avec de la publicité
+et ce que je pense Facebook avait
+peut-être peut-être mal calculé et
+c'était très difficile à l'époque de le
+savoir nous si on l'avait pas identifié
+c'est que le messaging c'est l'endroit
+c'est le Space où tu passes le plus de
+temps sur le web mais c'est aussi le
+Space qui est le plus privé pour toi tu
+veux pas savoir ce qui se passe dans une
+conversation avec un ami avec ta copine
+avec avec avec ta famille avec tes
+collègues tu tu veux que ce que tu
+partages dans ces espèces là ces espaces
+là ce soit hyper privé et en fait le
+fait que ce soit hyper privé le fait de
+recevoir de la publicité dans cet espace
+là d'un coup tu dis attends il y a
+quelqu'un qui m'écoute il y a quelqu'un
+qui qui tu imagines tu tu discutes e ça
+dit tu discutes avec ta copine et on
+part en voyage en Corse cet été et 30
+secondes après tu vois Mo- 30 % sur
+Corsica tu vois dans ton même espace
+queis tu consommes pas la même chose tu
+vois il y a il y a il y a un truc qui
+cloche là tu vois et euh et en fait tout
+quand ils ont je pense j'ai j'ai pas les
+chiffres mais je pense que quand
+Facebook a commencé à poucher des ADS
+directement dans Messenger il y a
+quelque chose qui a été cassé à ce
+niveau-là et peut-être que le heri des
+ADS il était pas au niveau qu'ils
+espéraient ils sont dit ok c'est pas
+bankable et à partir de l'âge je pense
+que la dégringolade a été elle a été
+directe parce qu'en fait la théorie du
+modèle économique des chatbot elle
+fonctionnait pas et en fait du coup
+Facebook avait aucun intérêt à pouer une
+plateforme où leur modèle leur modèle
+économique n'avait pas fonctionn
+très clair mais du coup moi il y a enfin
+ce truc qui m'intéresse c'est que tous
+les retours d'expérience que j'ai
+entendu sur ce canal là de plateformes
+existantes de se pluguer sur des
+plateformes existantes il ressemble à ça
+grosso modo c'est-à-dire à l'époque il y
+avait une super opportunité c'était
+nimpe on en a profité et ça skyrocket
+complètement et puis après c'était fini
+ou alors ça a continué tu vois genre
+typiquement le le meilleur exemple de ça
+c'est evern tu vois qui sont lancés sur
+à chaque fois les les nouveaux App Store
+l'a Store de l'iPhone l'App Store de
+l'iPad et à chaque fois il faisaient des
+downloads énervés parce que bah genre
+ils était pché par Apple c'était une
+bonne appli c'était bien foutu Apple
+avait tout intérêt à les pousser de la
+même manière que j'imagine Facebook
+aurait pu avoir intérêt à à vous pousser
+parce que vous étiez une un bon chatbot
+et cetera j'aime beaucoup ce côté
+éphémère de de l'opportunité de prendre
+une plateforme existante pour pouvoir
+grossir sur son
+dos mais il y a ce truc de
+du coup comment tu tu repèes cette
+fin faut je faut que je trouve comment
+formuler ça mais ce que j'aimerais qu'on
+arrive à transmettre aux gens qui
+regardent cette vidéo là maintenant
+c'est arrête de suranalyser les raisons
+pour lesquelles ça pourrait pas marcher
+vois juste l'opportunité et saisi là si
+tu la vois genre aujourd'hui je vois par
+exemple il y a TikTok TikTok bon il y a
+beaucoup de barrières parce que faire de
+la pub sur TikTok c'est compliqué et
+cetera par contre tu vois des comptes
+qui montent de 0 à 80000 abonnés en 24
+heures ça va hyper hyper vite et les
+gens je VO t gens me dire ouais mais
+TikTok dans un an ce sera mort mais cool
+ton job c'est d'être entrepreneur ou
+c'est d'être futurologue bien sûr et et
+c'est cet aspect là entrepreneur que
+j'aimerais bien arriver à décortiquer
+encore un peu plus avec toi quoi genre
+vous c'est quoi votre état d'esprit au
+moment où vous vous dites vas-y on y va
+quoi ouais complètement c'est c'est une
+super question et c'est vrai
+que soyez en France c'est de la chance à
+quel moment tu peux dire que
+enfin ceux qu' l' avait prédit diront
+que ils avaient raison tu vois mais
+c'est c'est impossible à dire tu vois à
+chaque fois que tu as une nouvelle
+plateforme qui est créée c'est un c'est
+un c'est une nouvelle loterie en fait et
+ceux qui sont lancés si en effet il y a
+un produit marketfed la platforme
+d'école bah c'est c'est jackpot pour eux
+et ceux qui ont raté leur opportunité
+ils ont raté l'opportunité donc donc
+quand iOS se
+lance c'était pas obvious que que ça
+allait être le succès que que cette
+plateforme ait devenir le succès qu'on
+connaît aujourd'hui la preuve c'est que
+Facebook a raté en fait le coche iOS
+Facebook a été hyper jet lagé c'est pour
+ça qu'ils ont dû faire des très grosses
+acquisition à des très gros prix comme
+WhatsApp Instagram ils ont essayé de
+racheter snapchat parce qu'ils ont raté
+le coche mobile en fait donc
+siberg en parle Mar Zuckerberg l'avait
+dit en disant ouais moi ma plus grosse
+erreur c'est d'avoir fait du du non pas
+du natif mais d'avoir fait des apps
+enfin des web app pour les apps Facebook
+en fait cé une connerie parce que les
+gens ils voulaient vraiment naviguer sur
+mobile quoi com si Mark Zuckerberg peut
+faire des erreurs sur ce sujetl tout le
+monde peut faire des erreurs abum
+complètement mais ce qui est ouais c'est
+c'est hyper intéressant ce truc de en
+fait au final repérer une opportunité de
+grossir sur le dos d'une plateforme
+c'est repérer une opportunité qui a de
+fortes chance de pas marcher également
+ouais complètement et et pour pour citer
+également mar piberg il a également dit
+que le le le le le meilleur Paris qu'il
+a pris c'est de racheter Instagram tu
+vois donc c'est de racheter son retard
+tu vois donc c'est c'est quand même ouf
+de penser ça quoi et aujourd'hui enfin
+en 2020 enfin instagram est devenu the
+network tu vois donc euh donc
+heureusement qu'il a qu'il a qu' qu'il a
+pris ce Paris à ce moment-là qui
+semblait fou aussi à l'époque tu vois et
+et et donc finalement quand quand tu
+regardes des plateformes qui atteignent
+qui sont ad scale qui atteignent une
+échelle suffisamment importante pour que
+tu pour que en fait des produits
+deviennent des plateformes c'est-à-dire
+d'autres produits peuvent se construire
+par-dessus
+euh je sais pas tu en a peut-être un par
+an tu vois tu as pas beaucoup
+d'opportunités tu tu réfléchis comme ça
+des grandes plateformes sur lesquelles
+on peut commencer à construire des
+produits après tu as des plateformes
+plus nichées euh mais tu as tous les
+Social Network LinkedIn Twitter Facebook
+insta tu as toutes ces plateformes là tu
+as euh maintenant les plateformes
+professionnel qui ont suffisamment
+grossi je pense par exemple à slack
+maintenant tu peux créer tu vois des
+expériences qui sont directement
+disponibles dans slack tu as Gmail ou tu
+peux également pluger des applicatifs
+qui sont directement connectés dans
+l'eming tu as le chrome store tu vois
+enfin tu as tout un tu as toute toute
+une série de plateformes qui sont
+maintenant à SC à snapchat maintenant
+qui est ouvert également avec qui on a
+travaillé et ces opportunités il y en a
+pas tant que ça donc après c'est avec
+quel produit vous avez fait toute une
+phase vous avez créé des des filtres
+snapchat réalité augmenté ça complèement
+ouais également et ça c'était pareil
+c'était repéré l'opportunit ouais
+absolument ouais c'était repérer
+l'opportunité essayer de essayer de
+construire essayer de construire
+pardessus c'était quoi les résultat ça
+euh c'était assez cool mais euh même
+issue de business
+model grosso modo snap s'est mis à à
+décider euh donc un des grands Paris de
+Van spagle c'est la réalité augmentée
+c'est de se dire que dans 10 ans on aura
+des lunettes en réalité augmentée qu'on
+vivra dans dans dans un monde augmenté
+avec des des des
+interactions web et qui seront qui
+seront déposé par-dessus de notre
+réalité existante donc c'est quand même
+assez c'est la Matrix quoi ça assez fou
+de se dire que les les grands entre fort
+probable mais ou oua est-ce que les
+grands entrepreneurs de la Silicon
+Valley dans dans quel futur il croi moi
+j'y crois qu'un jour ça ça
+viendra et et donc pour accélérer ce
+Paris là le le le le le le le le le ce
+que spagle envisager c'est te dire il
+faut pas attendre qu'on ait euh le
+device euh des lunettes pour commencer à
+construire
+euh les créateurs qui vont créer les
+expériences pour ce monde en réalité
+augmenté il faut directement qu'on
+commence à investir sur le mobile et
+donc ça a été le Paris qu'il a fait en
+en je sais plus quel le nom de la
+société c'est une société roumaine qui
+l'a racheté euh qui avait créé des
+filtres en réalité augmenté qui ont
+directement intégré dans snapchat et là
+c'était le début un petit peu des
+expériences en réalité augmenté et à ce
+moment-là ils ont dit ben maintenant on
+va créer un outil qui s'appelleit l
+studio qui est en fait un espèce de
+Photoshop de la réalité augmenté qui est
+directement plugé en fait à snapchat où
+tu peux cré nouveau tuas tu as un outil
+tout nouveau qui permet créer des
+nouvelles expériences ex exement qui on
+rien à voir et où snapchat a tout
+intérêt à te mettre en avant si tu en
+fais des bien complètement et donc tu
+chopes l'opportunité tu vas exactement
+ouais c'est exactement ça donc ça
+c'était un pivot de Peter c'était un
+pivot vis-à-vis du du chatbot qu'on
+avait fait on avait levé des fond et et
+on a discuté avec nos invest vous êtes
+fine pour contente un pivot et tout le
+monde a dit allez go et et donc on a
+décidé de prendre le Paris de de
+l'opportunité snapchat et et à ce
+moment-là et à ce moment-là ouais c'est
+vraiment early days quoi on était peu
+créateur on commence à créer des des
+expériences assez simples qui éta des
+des des filtres que tu pouvais porter en
+réité augmenté on en a écris un assez
+marrant qui était qui était un un chat
+tu vois et quand tu souria il y avait
+deux petits fucks qui je pas le geste
+mais de petits fu qui
+remonai qui remonai tu vois et ça ça de
+suite c'est de suite devenu viral on a
+passé en quelques jours plus d'un
+million de d'utilisateurs tu vois sur ce
+filtre et ouis c'est comme
+Dimitri ou Dimitri maintenant qui fait
+sur Instagram et ou insta maintenantas
+même une communauté qui est encore plus
+grand puite de ouf Dimitri ce qui fait
+sur insta c'est génial et il profite
+d'une communauté qui est encore plus
+large que celle de snapchat qu'on avait
+à l'époque snap à l'époque donc enfin à
+l'époque 2019 2018 2018 2019 + 2018 à
+c'était 180 millions de daily active
+user aujourd'hui je crois que insta
+c'est plus d'un milliard tu vois donc tu
+as 5in fois les volumes
+euh donc donc ouais et donc à ce
+moment-là c'est snap qui vraiment les
+premiers font le paril de dire on va on
+va créer un pool de créateurs qui vont
+créer des expériences qui vont alimenter
+en fait le contenu disponible sur
+snapchat et notamment le contenu en
+réalité augmenté donc on a commencé à
+créer des des filtres assez basiques
+après on a commencé à créer des des jeux
+on a on a commencé à tester plein de
+choses on s'est fait repérer par snap
+snap nous ont dit bon allez voulez pas
+venir à Los Angeles on va inviter
+quelques les créateurs qu'on aime bien
+et et et on va apprendre les uns les
+autres donc on a on a rejoint le Land
+crator program qui était un programme
+par snap pour vraiment prendre leur
+meilleur créateur et essayer de de de
+les aider à grossir en fait sur la
+plateforme donc ça a été ça a été ça été
+une superbe expérience et là où on a
+rencontré également des challenges ça
+étit encore une fois sur sur la
+monétisation où où en fait on pouvait
+avoir une distribution assez importante
+en fait euh de de de des expériences en
+réalité augmenté qu'on créé pour snap je
+me souviens une des questions que
+j'avais j'avais posé pendant qu'on qu'on
+était avec les équipes snap tu vois euh
+à à à Los Angeles euh et qu' qu'on
+réfléchissait un petit peu à à l'avenir
+de la plateforme c'était euh
+est-ce que les filtres aujourd'hui
+comment on les créer est-ce que vous les
+voyez comme des applications ou comme du
+contenu grosso modo est-ce que le futur
+de snap c'est l'App Store ou c'est
+YouTube est-ce qu'on est des est-ce
+qu'on est des entrepreneurs ou est-ce
+qu'on est des créateurs tu vois ça
+trèsle c'est c'est deux choses
+différentes est-ce qu'on crée du contenu
+ou est-ce qu'on crée du software et
+euh et je me souviens ça avait mis un
+petit peu un petit silence dans la salle
+et et tu as tu as et pelipski qui qui
+était vice-président de de qui est
+toujours d'ailleurs le vice-président de
+snap qui dit not notre vision c'est de
+devenir un App Store c'est de créer
+vraiment permettre de créer de
+l'applicatif et euh et c'est vrai que tu
+pouvais déjà voir dans l'un studio euh
+la capacité de coder tes expériences
+donc tu pouvais pas faire d'appel
+serveur donc on pouvait pas avoir une
+base de données externe mais tu pouvais
+avoir une base de données locale dans
+dans dans dans ton filtre qui te permett
+de créer des expérience plus interactive
+comme par exemple des jeux où tu as des
+points qui s'affichent ou tu as où on
+pouvait débloquer différents en filtre
+en fonction des scores que tu asigné on
+a on a vraiment exploré des choses assez
+dingues à l'époque et et c'était très
+très très inspirant de d'explorer tout
+ça et ça ça donne en faitp un an du coup
+ouais à l'époque ouais je te dis ça
+c'était ça qui est intéressant aussi
+c'est que tout va très vite ouais tout
+va hyper vite tout va très très vite par
+rapport à ces sujets là de
+d'opportunités j'aime beaucoup le le
+enfin j'observe un pattern en fait qui
+est comment tu trouves des grosses
+boîtes qui ont vocation à devenir des
+plateformes donc la définition du une
+plateforme c'est vraiment comme tu
+disais tout à l'heure c'est un business
+qui permet à d'autres business de se
+construire par-dessus en l'occurrence
+est-ce que tu crées des créateurs est-ce
+que tu crées des entrepreneurs et tout
+ça voir leur intérêt à eux donc par
+exemple à l'époque l'intérêt de facebook
+c'était de pousser les chatbot pour
+qu'il y ait plus d'usage de Messenger
+donc il y avait un alignement d'intérêt
+entre vous vous pouvez créer un chatbot
+qui est intéressant et donc récupérer le
+trafic euh quand c'est snapchat c'est la
+même chose leur intérêt c'est
+d'augmenter l'usage des filtres en
+réalité augmenté donc ils ont besoin de
+personnes qui sont CR qui sont
+créatrices c'est la même chose pour
+Airbnb avec craigslistè l'objectif de
+craigl de Craiglist c'était avoir plus
+d'annonce de bonne qualité bah Airbnb
+sont plugé et ils ont publié toutes
+leurs annonces et donc il y avait plus
+d'annonces de bonne qualité donc c'est
+arrivé à trouver un alignement d'intérêt
+sur une montée toujours à une époque où
+il y a pas beaucoup de créateurs ou pas
+beaucoup d'entrepreneurs qui se lancent
+là bien sûr et une fois que tu repes
+cette opportunité tu vas bien sûr mais
+en fait tu te poses pas tant de question
+que ça c'est juste tu trouves ça cool et
+et tu vas à la tu vois personnellement
+tu fit ou pas avec cette plateforme avec
+le projet avec la vision que ça a euh il
+y a aussi un autre sujet de faut être
+prêt à faire un à à à travailler des
+sujets qui n'ont jamais été travaillés
+av exactement ouais de ouf oua parce que
+créer des filtres snapchat en réalité
+augmenté c'est nouveau créer des des
+chatbot c'est nouveau genre à chaque
+fois tu dois te reformer en fait à à
+créer quelque chose de nouveau ou et
+c'est vrai que je pense avec avec avec
+mon équipe c'était vraiment ce qui nous
+excitaé aussi tu vois c'est d'arriver
+vraiment dans le dans le nouveau nouveau
+tu vois et et c'est c'est le Far West et
+tu il y a il y a tout à explorer il y a
+tout à écr il y a tout à créer il faut
+inventer les patterns il faut inventer
+la façon de créer les expériences tu
+vois et ça enfin moi c'est quelque chose
+qui me plaît beaucoup et je suis sûr
+dans dans le futur je je le referai pour
+d'autres platformes pour d'autres
+produits de de vraiment aller explorer
+le nouveau quoi et euh donc ça c'est
+assez excitanto ouais ça du sens donc
+tuas un côté explorateur et ir des
+nouvelles terres complètement vides
+ettir dessus quoiè complètement après
+c'est est-ce que est-ce que c'est la
+Californie ou est-ce que c'est un désert
+c'est c'est toujours une vraie question
+mais ok très clair donc ça pour les
+plateformes existance je pense que j'ai
+j'ai bien pigé
+l'idée maintenant sur cette stratégie de
+viral marketing là qu'est-ce qu'est-ce
+que vous avez fait qu'est-ce que vous
+avez mis en place pourquoi à ce
+moment-là genre qu'est-ce qui se passe
+dans votre tête quand vous vous dites ok
+on va mettre en place ce système de
+d'attente où les gens peuvent se
+parrainer et cetera et comment vous le
+faites complètement
+euh alors au moment donc on lance grosso
+modo Peter donc Peter le premier modèle
+qu'on voulait tester c'était de mettre
+en relation eu des collégiens des
+lycéens pour les aider à faire leur
+devoir directement sur du messaging avec
+des tuteurs donc on avait des tuteurs
+qu'on recrutaiit qui étaient des
+étudiants euh qu'on payait eu et de
+l'autre côté tu avais des élèves qui
+avaient besoin d'aide pour faire leur
+devoir et plutôt que de de faire un vidé
+call ou d'avoir un vrai tuteur qui vient
+à la maison de se dire B on va tout
+faire sur messaging c'est c'est là qui
+passe du c'est là qui con du temps et le
+l'astuce enfin le truc assez assez
+novateur je veux dire et excitant qu'on
+avait trouvé c'était dire au lieu
+que Peter en fait dans le premier modèle
+M en en relation les élèves avec des des
+des centaines ou des milliers de tuteurs
+différents on va personnaliser en fait
+en fait tous ces tuteurs dans un
+personnage qui est Petter et en fait
+lorsque tu étais un élève tu disais ok
+j'ai besoin d'aide en math sur tel
+exercice on demandait une photo de
+l'exercice nous on transmettait comme
+uber en fait la demande à un pool de de
+tuteur et le premier qui accepit la
+demande était mis en relation avec
+l'élève mais côté tuteur le le le rôle
+qui devait jouer comme au théâtre
+c'était de dire tu nes tu n'es tu es en
+fait peter tu vas jouer le rôle d'être
+Peter et pour l'élève ce qui était assez
+extraordinaire assez magique comme
+expérience c'est que pour lui à aucun
+moment il voyait qu'il avait parlé avec
+10 tuturs différents pour lui c'était
+tout le temps Peter qui qui avait la
+main sur le sujet et donc le chatbot là
+où il était complètement automatisé
+c'était pour qualifier en fait la
+demande tu as besoin d'êre dans quelle
+matière sur quel exercice quel est en
+quelle classe tu es enfin qualifier tout
+ça et ensuite Peter disait génial bouge
+pas je reviens dans un instant et 30
+secondes plus tard tu étais mis en
+relation avec un un un tuttter mais qui
+restait Peter en fait pour pour l'élève
+donc ça c'était assez magique de te dire
+waouh j'ai ce j'ai ce j'ai ce support
+disponible pour mes devoirs 24h sur 24 7
+jours sur 7 et euh toujours là pour
+m'aider gratuitement et au départ
+c'était gratuit et l'idée c'était au
+bout d'un certain temps de de de de
+vendre des abonnements payants
+euh et ça c'est assez magique tu vois
+comme expérience et en fait le départ
+donc ça c'est votre produit ouais ça
+c'est produit ça c'est vraiment la
+partie de votre produit Lafin il y a la
+partie qualification qui que vous avez
+intégré dans le chat bot qui était du
+coup le début de votre processus de de
+Sales presque quoi genre comment tu
+convertis les gens à utiliser et laquise
+complètement et et en fait c'est ça qui
+est très fort en fait dans dans tout
+tout phénomène de viralité produit
+extrêmement forte c'est enfin j'ai
+changé avec pas mal d'entrepreneurs qui
+disent ok c'est c'est quoi le gros sac
+c'est quoi la petite sauce tu vois mais
+la vraie clé du succès d'une viralité
+c'est to make something people want
+ouais et c'est vraiment la clé de la clé
+de la clé dis-toi quand tu es donc le
+moment où ça a piqué c'était la période
+de Noël 2016 dis-toi à ce moment-là tu
+as des centaines de milliers c'est pas
+des millions d'élèves en France qui euh
+qui ont leur DM de math à rendre à la
+rentrée qui veulent pas faire euh et que
+l'envie d'avoir un un un personnage qui
+va te te t'aider à faire tes dev voir
+sur Messenger en quelques clics et à qui
+tu vas pouvoir échanger de façon fun tu
+vois ça enfin c'est plus boring tu vois
+c'est l'expérience devient devient super
+attrayante euh c'est une promesse qui
+est hyper puissante pour les élèves à ce
+moment-là c'est hyper puissant euh donc
+la première chose qu'on constate c'est
+que sur les quelques utilisateurs qu'on
+commenca à avoir le le premier démarrage
+qu'on fait c'est en fait on avait créer
+une une page Facebook sur lequel on
+avait on avait euh on avait euh on avait
+rien en fait on a juste créé une page
+Facebook et on avait fait une note on
+avait préparé des des des messages qu'on
+copié collé dans dans la page facebook
+avant de d'avoir programmeré la première
+expérience Petter et j'envoie un texto à
+à mon cousin qui était au lycée à
+l'époque et je dis tu galères toujours
+en math tu as besoin de tu as besoin de
+d'aide tu tu connais tu connais Peter tu
+connais pas Peter att c'est tout le
+monde utilise ça à Paris c'est trop cool
+tu devrais regarder et donc mon petit
+cousin envo CIT une page Facebook du CIT
+une page facebook basique ouais ouais 10
+likes même pas on avait on avait créé
+des faux compes pour mettre des likes et
+tu as mon cousin qui av voit ce premier
+message qui dit salut et on et là on
+avait prévu tout un tout un tout un une
+série de messages dit du style salut
+salut salut Florent je m'appelle Peter
+écoute je vais t'aider à faire tes
+devoirs envoie-moi ton exercice dans
+quelle matière tu as besoin d'aide c'est
+quoi ta classe et av pas de chat c'est
+quoi alors ça c'est vraiment le tout
+début ça c'est c'est quelques semaines
+avant qu'on qu'on est programmé
+l'expérience qui est le pic de viralité
+et la première chose qu'on constate
+c'est que on a démarré que notre cousin
+enfin que mon cousin a démarré en fait
+la première expérience et à 2 semaines
+plus tard on a peut-être la moitié de
+son lycée qui utilise le chatbot façon
+complètement organique oui donc il y
+avait déjà le chatbot qui existait ah
+excuse-moi ouais c'est alors c'était pas
+le chatbot c'était un fake
+chatotatot piier derrière donc trouvez
+vos premiers clients et leur parler
+c'était un texto à ton cousin exactement
+et derrière alors c'est texto a mon
+cousin
+euh mon cousin se connecte au
+service il vit l'expérience il a la
+valeur de service et à la fin on lui dit
+si tu as kiffé parlesen à à trois de tes
+amis tu vois
+ete invitation parler et ensuite on a eu
+ça il a commencé à ramener des amis et
+là où on a accéléré un petit peu la
+marche et qu'ensuite quand on avait un
+utilisateur qui revenait une deuxième
+fois on lui bloquait l'usage la deuxième
+fois on lui disait pour débloquer une
+nouvelle aide au devoir faut tu ramènes
+trois personnes OK et là dès qu'il
+ramenit trois personnes on lui on
+l'aidait à faire cette VO il av une
+vraie vous avez vu une vraie différence
+entre avant ouais ouais complètement une
+fois que bien entendu tu tu crées un
+petit peu de frustration chez
+l'utilisateur c'estàd si tu as réussi à
+er l'utilisateur qu'il a eu un wow
+effect dans l'expérience qu'il a eu la
+première fois il va revouloir avoir
+cette expérience donc à ce moment-là si
+tu lui mets une barrière tu l'écoutes tu
+reveux tu reveux ton shot pas de
+problème mais tu m'aides tu
+tu en parles à TR de tes potes et là on
+te redonne l'accès au service et et là
+on toujours toujours à la main toujours
+à la main à ce momentl et vous gériez
+500 personnes ouis ouais ouais c'est ça
+ouou on a géré un peu moins 300 et
+quelques person course quoi vous
+développiez le chatbot en parall
+exactement exactement donc c'était la
+course pour pouvoir commencer à donc du
+coup si si moi demain je veux je veux
+mettre en place une expérience deal
+marketing je commence par envoyer un
+texto à mon cousin par exemple si c'est
+la cible si c'est la cible c'est c'est
+une blague mais ou c'est ça l'idée quoi
+c'est genre je vais trouver des gens
+dans mon entourage qui sont la cible et
+qui sont euh qui ont besoin de ce que je
+propose et là il y a un vrai besoin
+viscéral
+identifé je veux vraiment pas faire mon
+DM de math ça marcherait pas maintenant
+parce qu'il y a le coronavirus et que
+l'école est
+fermé mais du coup euh tu fais ça ouais
+tu proposes l'expérience tu observes que
+lui il en parle naturellement déjà à la
+base avec juste une petite demande et tu
+dis OK je vais itérer sur cette
+stratégie et je vais bloquer l'accès au
+service pour qu'il puisse accéder à plus
+ex tu tu peux pas créer quelque chose
+dans les gens tu tu peux pas créer un
+comportement que les gens n'ont pas
+naturellement tu peux que amplifier un
+comportement que les gens tu dois déjà
+observer que les gens ils on ils aient
+eu un waow effect avec ton produit qui
+soit in love avec ton product et et que
+ils en parlent naturellement si tu as
+pas ça de façon organique tu peux pas
+l'accélérer tu as pas le comportement tu
+pars de zéro 0 fois 1 milliard ça fait
+toujours zéro tu vois donc une stratégie
+de viral marketing c'est un mouvement
+d'accélération pas un mouvement de
+démarrage exactement exactement ok ouais
+pour moi le tu et et et le mouvement
+d'accélération il se produit à partir du
+moment où tu as un product market fit et
+au moins que tu as un produit market fit
+dans ta promesse peut-être tu l'auras
+pas plus tard dans ton usage tu vas
+découvrir qu' a plein de choses qui qui
+marche pas mais quand tu fais une
+promesse à quelqu'un est-ce que la
+personne fait waouh et achète
+c'est-à-dire elle vient elle vient
+vraiment se connecter sur ton site elle
+utilise le produit tu vois et ça ça
+démarre de ça et si tu as pas
+ça j'ai vu tellement d'entrepreneurs
+essayer de créer la vie verité à partir
+de rien à partir de vent ça mène nulle
+part tu vois tu tu tu vas t'essouffler
+en fait parce que tu as pas de Lage il y
+a pas de vitesse
+donc c'est enfin je trouve ton ta ta
+enin ta remarque elle est elle est
+géniale
+quoi la viralité c'est de l'accélération
+c'est pas de c'est pas c'est pas du
+démarrageage du coup une fois que tu as
+ces gens que tu as ce système là de je
+te bloque l'accès ouais comment
+tuaccélères encore ok donc arrivé à ce
+moment-là donc on on commence à avoir
+une belle traction côté élève il faut
+qu'on recrute également tous les tuteurs
+pour pouvoir commencer à gérer toutes
+ces demandes là euh et et à ce moment-là
+donc on a le la première expérience
+complètement automatisée le chatbot qui
+qui sort et on on constate en fait que
+les tuteurs qu'on recruté à ce moment-là
+on les recrutit à la V vite on les
+qualifia mal et on se rend compte que si
+on avait un mauvais tuteur l'élève
+revenait pas et s'il revenait pas il en
+parlait pas à ses potes s en parlait pas
+à ses potes on on arrêtait de croître et
+donc des compes de ça quoi avec des
+chiffres ou ouais ouais des chiffres
+ouais ouais c'est on se rend compte que
+sur 100 nouveaux et à l'époque on
+faisait tout ça on avait pas on avit pas
+connecté amplitude on faisait tout ça à
+la main moi je faisais mon Excel et je
+regardais ok il y a eu 100 nouveaux
+utilisateurs qui sont venus la semaine
+dernière sur ces 100 C sur cette
+nouvelle semaine je sais pas j'en ai que
+j'en ai que H qui ont qui ont qui sont
+encore revenus quoi ok il y a un
+problème et là on se rend compte que je
+sais pas les les 15 derniers tuteurs
+qu'on a recruté ils sont pas au même
+niveau que les précédents et donc la
+qualité du service a été dégradé donc
+les devoirs sont sont pas aussi bien
+faits qu'avant et donc les élèves disent
+ok ça m'a pas aidé ils reviennent pas et
+là on se dit ok il y a un problème à
+fixé au niveau de notre supply de tuteur
+et euh et donc on était chez the family
+et tu à Gilles qui était notre parint
+chez Peter qui me dit [ __ ] les gars si
+vousz pas assurer la qualité du service
+pas le choix vous bloquez complètement
+l'accès au service jusqu'à que vous AZ
+résolu la partie supply et donc je me
+souviens très bien je me souviens
+d'avoir vu ce message sur le slack de de
+famili à l'époque où Gill disait il vaut
+mieux que vous ayez une énorme file
+d'attente d'étudiants qui veulent
+accéder à un service de qualité que des
+gens qui accèdent tous à un service de
+merde complètement ouais c'était ça et
+et en fait l'idée c'était de se dire ok
+on bloque l'accès au services et et on
+assure donc réaugmenter la qualité du
+produit derrière en attendant et là là
+où on rajoute on va dire la cerise sur
+le gâteau que nous a que nous a que nous
+a donné Gill c'est de se dire mais si on
+commence à stocker les utilisateurs
+pourquoi essayer pas essayer de de
+déplacer la boucle de viralité qu'on
+avait observé après l'usage du produit
+avant l'usage du produit et de se dire
+que la simple promesse est suffisamment
+forte pour entraîner une boucle de
+viralité et là ça devient hyper
+intéressant donc on a tout le chat boot
+qui est programmé on essaie de de scaler
+la qualité de de de nos tuteurs qu'on en
+train de de recruter et côté liste
+d'attente on décide de mettre en place
+un système de de waiting list avec un
+avec une une boucle de viralité un petit
+peu comme avait fait je sais pas si
+comme Robin Hood avait fait donc ça
+c'est l' de trading tu vois au usou
+c'était la promesse c'était tu peux
+trader à 0 % de commission ex moi je me
+souviens j'avais j'avais 18 ans j'étais
+en mode vas-y je vais trader des trucs
+c'est sûr effectivement j'avais partager
+à plein de potes ils avaient fait une
+liste d'attente hyper efficace aussi
+ouais complètement nous on a eu deux
+succès qui nous ont été des rôle modèles
+tu avais Robin Hood et tu avais maybox
+euh qui était une app qui était racheté
+100 millions de dollars par drbox 3 mois
+après lancé c'était c'était une une app
+de deing qui était ultra simplifié très
+light très jolie enfin c'était à
+l'époque de la productivité avec sun
+rise my box céit des des belles app et
+même chose ils avit fait une petite
+vidéo waiting list tu veux y accéder
+avant tout le monde pas le choix tu veux
+inviter tes amis et donc on se dit ok
+est-ce qu'on peut répliquer cette
+recette vu qu'on a de l'excitement
+autour du produit est-ce qu'on peut la
+répliquer sur messenger pour Peter et
+donc et donc on le modèle qu'on crée
+c'est grosso modo on te fait vivre
+l'expérience comme si tu allais arriver
+jusqu'à la requette et devoir on te donc
+tu fais investir les gens ouais on fait
+investir les gens on leur fait ouais on
+leur fait passer du temps c'est-à-dire
+que on arrive tu on va te demander en
+quelle classe tu es on va te demander OK
+dans quelle matière tu as besoin d'aide
+on va te demander je sais pas on a toute
+une série de questions pour te qualifier
+au départ et ensuite les questions plus
+liées au devoir donc dans quelle matière
+tas besoin d'aide
+euh
+c'est envoie une photo de de tes voir et
+cetera ENF on les amène jusqu'au bout au
+moment où il serait censé avoir le début
+de l'interaction avec le tuteur et au
+moment où il se disent ok ça y est euh
+je vais avoir l'aide de la part de Peter
+la grosse frustration euh il y a x
+personnes qui sont devant toi dans la
+liste d'attente
+euh pour pour passer devant tout le
+monde euh partage à tes amis à chaque
+fois qu'il y a un de tes amis qui
+rejoint Peter on te fait gagner en place
+dans la liste d'attente comment tu
+traques ça tu lui donnes un lien ouais
+on avait donné un lien exactement on
+avait un lien donc qui était qui était
+un qui était un lien qui permettait en
+fait il y avait des cartes de partage
+que Messenger venait de créer ok qui
+était donc dans Messenger et là où on
+avait fait un un hack assez stylé c'est
+que on avait intégré normalement tu
+pouvais mettre qu'un bouton on avait
+intégré deux bouton où en fait tu
+partageais ta carte de partage donc on
+utilisait la fonction partage de
+Messenger c'est là qu'en fait euh on a
+vraiment gagné la la on va dire en en
+aéronautique on appelle ça la finesse de
+ton avion tu vois c'est-à-dire à quel
+point tu arrives à à gagner de la
+vitesse en fait avec le le le minimum de
+de frustration le minimum de résistance
+de l'air et en fait euh on a réussi à
+créer ça en ayant toute l'expérience qui
+soit uniquement dans Messenger à aucun
+moment tu devais sortir de Messenger et
+donc au moment où on arrivait on disait
+écoute tu dois partager cette cartelà tu
+dois inviter tr trois amis sur messenger
+tu avais la carte qui apparaît rejoint
+Peter tu avais un bouton partage et tu
+avais un bouton commencé et le bouton
+commencé il était bloqué si tu si tu
+étais l'utilisateur qui qui avait cette
+carte là mais si tu étais un utilisateur
+qui recevait la carte d'un tes potes le
+bouton commencé était actif et tu
+pouvais rejoindre Peter et refaire la
+boucle arver à la frustration et
+partager à la tro pot exactement et là
+où c'était très puissant et où vraiment
+il y avait très peu de frustration c'est
+que le bouton partage ouvrait en fait
+ton ton ton ton ton ton ton carnet
+d'adresse Messenger avec tous tes
+contacts que tu avais sur Messenger et
+ceux que tu as tes potes les plus
+proches tout en haut et avec un bouton à
+côté sind donc en fait c'est là que tu
+arrives à des niveaux de friction que je
+pense très peu de plateformes il faut
+une plateforme qui a forcément l'accès à
+l'identité pour créer une ou aujourd'hui
+aujourd'hui avec une app c'est ce qu'on
+a vu avec vibe l'autre jourouis tu as le
+bouton cher de de
+iOS et ça ouvre directement ton
+Messenger
+tout quoi aujourd'hui si tu as une app
+c'est même même en ligne je pense que tu
+dois pouvoir en web tu dois pouvoir
+faire des boutons comme ça qui ouvrent
+ton ton truc de partageouis ouais sur
+cette partie là complètement là où tu as
+un peu plus de friction par rapport à
+par rapport au Z même vibe aujourd'hui
+par rapport à nous à l'époque de
+Messenger c'est le téléchargement
+téléchargement plus inscription plus
+redécouvrir l'expérience et ça c'est
+trois blocs là nous c'était instantané
+c'està-dire que ils envoy s la carte
+elle partait elle arrivé dans dans un
+autre messaging de enfin dans un dans
+Messenger d'un de tes potes il appuyé
+sur démarrer son Messenger il switch de
+la conversation que tu étais avec ton
+pote à Peter et boom tu étais où tu
+recevais le premier message de Peter hey
+Valentin Sarah m'a dit que que tu m'a
+parlé de toi tu vois et en plus on
+personnalisait l'expérience parce qu'on
+savait de qui ça venait et donc là le
+enfin l'élève il est de suite ou quoi
+vas-y je vais t'aider à faire voir c'est
+parti et donc il refait tout le F
+les gens à devenir des ambassadeurs sans
+même qu'ils le sachent vraiment quoi si
+tu reproduis le l'effet psychologique de
+e tu devrais trop tester ce truc ouais
+complètement et c'est là que c'est
+puissant aussi tu vois d'avoir un
+personnage ce personnage il a une
+identité donc le lien émotionnel il est
+très fort avec il était extrêmement fort
+à Peter que les utilisateurs avaient et
+donc tu tu peux tu peux leur demander
+l'impossible je me souviens à un moment
+on commence à avoir le le début du pic
+et je rajoute en
+fait lorsqu'un élève était dans la liste
+d'attente et qui réenvoyait un message à
+Peter alors qu'il était encore dans la
+liste d'attente et qu'il avait pas
+partagé et euh j'avais préparé je sais
+pas une vingtaine de messages random qui
+qui pouvaient être envoyés pour
+remotiver l'élève à encore partager et
+l'un d'entre eux c'était et je te donne
+le secret pour passer devant tout le
+monde il suffit de partager la carte
+dans le groupe Messenger de ta classe et
+là tu as des élèves qui envoyé la carte
+de partage au lieu de la sprader à un
+utilisateur et la sprader à toutes leur
+classe 30 40 personnes un coup et tu as
+tu as une tu as notre notre élève qui a
+partagé à au plus de monde en fait
+dans dans chez Petter en fait elle a
+partagé elle a ramené c'est pas elle a
+partagé elle a ramené en nombre
+d'utilisateurs actifs notre numéro 1 198
+utilisateurs donc des gens qui ont
+ouvert Peter et qui sont allés au bout
+de l'onboarding et qui et qui ont qui
+ont ouvert Peter ou qui on ouvert Peter
+198 une élève qui a ramené
+198 tu vois le le coefficient de
+viralité il est dinguissime tu vois et
+je pense que ce type de coefficient
+aujourd'hui c'est quasi impossible de le
+retrouver j'ai j'ai pas de stat sur ça
+mais je crois que peut-être je me trompe
+et je dis une connerie à la caméra mais
+je crois que on est peut-être l'app je
+vais peut-être dire une grosse connerie
+là mais je pense qu'en tous les cas on
+est une des apps dans le monde qui a eu
+le plus fort tau de viralité le plus
+rapide de 1000 à 100000 utilisateurs
+passer de 1000 enfin même on avit un peu
+moins de 1000 utilisateurs actifs à
+100000 en 48h je pense qu'il y a très
+peu d'AP même Facebook même snap quand
+ils ont eu leur taux de croissance qui
+ont eu sur cette donc le point le point
+de bascule il est vraiment sur le moment
+où vous mettez cette carte et où les
+gens peuvent partager vous passez de 0 à
+1000 en combien 2 semaines euh ouais on
+passe de 0 à 1000 en un mois en 1 mois
+vous passez de 0 à 1000 en 1 mois et de
+1000 à 100000 48 he ouais et en fait le
+pic continue même au-delà le truc truc
+c'est que à l'époque on avait des
+serveurs qui étaient pas au top et
+grosso modo on a vécu des crash serveurs
+atroces c'était la période de Noël donc
+tu as Stephen notre CTO qui sort des des
+ras de famille et cetera qui va essayer
+de préparer le le le scaleup de de Peter
+parce qu'en fait quand les serveurs
+étaient don les cartes ne fonctionnaient
+plus les utilisateurs rejoignaient
+recevaient plus de message on les
+comptait plus dans la base de données
+donc en
+fait on a on a perdu des centaines de
+milliers d'élèves qu'on n pas cont ilisé
+dans notre base de données pendant ce ce
+rush là on est monté je crois à la fin
+du mois de décembre donc
+en même pas 15 jours on est monté plus
+350000 inscrits tu vois euh plus t ceux
+qu'on avait perdu c'était des centaines
+de milliers et c'est le moment où the
+family a été extraordinaire puisque on
+on a le les serveurs qui tombent the
+family qui nous qui nous donne les
+crédits on a droit à 100000 100000
+dollars de crédit chezws donc notreite
+qui a passé je crois Amazon ils ont
+écrit un un blog post sur sur sur notre
+aventure où notre s passé je crois 72 he
+avec différents interlocuteurs de de AWS
+du support pour redéployer
+l'infrastructure pour tenir la charge
+sur des centaines de milliers
+d'utilisateurs qui qui venaient taper à
+la porte du service donc enfin c'est
+c'est le moment où tu as plein de
+problèmes de riche quoi ouais ouais et
+c'est et c'est ouf
+quoi c'estin c'est crypto FO dis
+quoi ok ok donc donc il y a un truc dont
+tu as parlé qui est intéressant qui est
+le le coefficient de viralité donc c'est
+le nombre de gens qu'une personne
+inscrite à ton service va ramener dans
+ton service ex donc c'est le nombre de
+leads généré par une personne
+complètement il y a un autre facteur
+dans une stratégie de viral marketing
+qui est le le temps qu'il faut à la
+personne pour inviter ses potes
+complètement comment tu fais pour
+optimiser ça c'était juste naturel ouais
+c'est mais ça c'est grâce à la
+plateforme et c'est pour ça que je pense
+qu'
+en terme de viralité de 1000 à 100000 je
+pense qu' très peu d'AB qui qui qui nous
+battront sur ce sujet là c'est en fait
+c'est c'est grâce à Messenger c'est
+grâce à l'expérience qui est
+complètement imbriquée dans Messenger
+c'estàd que tuas les gens n'ont pas sign
+up ils ont pas à télécharger ils ont pas
+à prendre lui ton ton ton carnet de de
+contact il est directement intégré dans
+Messenger grosso modo tu appuies sur un
+bouton tu fais S et boum c'est tuas tuas
+tu as invité tout le monde et de leur
+côté pour devenir à leur tour des des
+des des diffuseurs du du du produit euh
+ben ils ont simplement eu à rejoindre
+l'expérience instantanément à descendre
+le FUNEL en c'est d'une rapidité d'une
+Simp simplcité donc tu on on pourrait
+dire que le coefficient de viralité il
+est déterminé par l'excitation que la
+personne va avoir à propos du service et
+son son niveau d'envie d'accéder au
+service et que la rapidité elle vient
+que de Luix et elle vient exactement
+comment tu crées une expérience qui est
+frictionless très peu de friction sur
+sur l'expérience vraiment ça MOS de C tu
+arrives à créer entre le moment où un
+utilisateur a partager ton lien ta
+carte le SMS qui qui permet en fait de
+de démarrer l'expérience de ton app plus
+ce lien est court et moins il y a de
+clic avant que ton utilisateur ton
+nouvel utilisateur redevienne un un
+référent en fait pour ses amis le plus
+tu optimise le nombre de
+clic le mieux tu tu optimises le temps
+le delta en fait qui qui va passer pour
+pour que pour que ta viralité elle
+augmente quoi donc comment tu raccourcis
+au maximum dans ton expérience le fait
+queun nouvel utilisateur transforme ses
+amis en utilisateurs et que cet
+utilisateur redevienne à son tour un un
+nouveau propagateur et tu tuoptimises ça
+le plus possible le plus fort tu sais
+tout retirer quoi Simp tu profites quoi
+ouais ouais et après tu profites quand
+ça marche donc c'est comme d'habitude en
+entrepreneuriat c'est globalement simple
+par contre c'est dur à faire quoi ouais
+c'est c'est c'est la technique est
+simple le faire correctement c'est ça
+que c'est dur j'espère qu'il y a des
+gens qui vont prendre ton Paris et qui
+vont éclater vos chiffre quoi ouais
+j'espère aussi ouais complètement ouais
+de oufou parce que c'est c'est trop
+intéressant en fait comme phénomène il y
+a une histoire de cible aussi ouais bien
+par que il y avait y avait il y avait
+pas d'incentif du tout il y avait pas
+d'incentif financier il y pas ouais le
+seul incentif c'était de passer
+devant et et ça c'est un truc qui c'est
+un mécanisme qui est connu chez les
+étudiant
+si tu vas targetter des gens qui ont 60
+piges ça marche peut-être moins bien
+quoi bien sûr bien sûr mais forcément
+s'ils ont 60 piges ils sont peut-être
+sur des plateformes qui sont moins
+organisé tu vois pour les systèmes de
+partage et cetera leur première
+plateforme je pense aux gens qui ont
+plus de 60 ans c'est peut-être
+maintenant l'email maintenant Facebook
+tu
+vois donc c'est des plateformes qui ont
+quand même été assez exploité où il y a
+eu pas mal de hack c'est plus facile de
+trouver des ha sur des nouvelles
+plateformes puisqu il y a encore il y a
+pas encore de sécurité il y a encore
+plein de choses qui sont pas contrôler
+tu vois nous ce qui s'est passé une
+anecdote assez marrante à raconter c'est
+que du coup pendant le pic au moment où
+on dépasse les 100000 utilisateurs on a
+un premier problème qui tombe qui est
+nos serveurs qui nous lâchent on doit
+déployer une nouvelle infrastructure et
+on a un deuxème problème qui nous est
+tombé dans dans les dans les heures qui
+ont suivi ça a été que l'algorithme de
+Facebook nous a bloqué parce qu'il a dit
+ok il y a trop d'activités sur cette
+page d'un coup il y a quelque chose
+d'anormal qui est en train de se passer
+et du coup ils ont bloqué l'accès à la
+pay et là c'était c'était un soir de
+semaine c'était 23h tu vois et d'un coup
+plus rien ne fonctionne laapi a été
+coupée et on est en train de déployer
+des serveurs pour une API qui ne nous
+répond plus et et the family qui a été
+encore magique à ce moment-là on balance
+à 23h à channel the family ok on vient
+d'être bloqué par facebook est-ce que
+vous connaissez du monde j'appelle tous
+mes potes qui on qui travaillent dans la
+tech à 23h pour est-ce que tu connais
+quelqu'un chez Facebook qui peut nous
+débloquer et petite anecdote un peu
+secrète
+mais c'est pas mal de la raconter tu as
+Serge qui a été après plus tard notre
+premier investisseur d'ailleurs tu as
+Serge alleine qui qui qui en fait avait
+travaillé avec qui vendu une boîte en
+fait à David Marcus qui qui était le le
+le le le président de Messenger et le
+numéro 2 chez Facebook et donc qui le
+connaissait personnellement ils étaient
+copains et qui lui envoie un
+message salut salut David j'ai une
+petite boîte sympa il vientent d'être
+bloqué est-ce que tu peux est-ce que tu
+peux intervenir sur le sujet et à ce
+moment-là David Marcus donc c'était
+pendant les vacances de Noël 2016 il
+était sur une île avec sa famille et il
+y avait une tempête qui était en train
+d'arriver et il savait pas tu vois si si
+ça allait bien se passer pour lui sur
+son île avec la tempête le typhon qui
+était en train d'arriver et David Marcus
+a quand même a quand même contacté les
+équipes de de
+Messenger à Palo Alto et a dit OK
+débloqué on a été débloqué dans dans les
+heures qui ont suivi quoi on peut
+laisser ça au montage ouais de ouf ouais
+ouais complètement ça c'est la c'est
+c'est pour tous les gens qui se posent
+la question de mais ils font quoi
+vraiment de Family bah ils font ça en
+faitouais complètement bah non mais ils
+le font avec tout le monde ou moi j'ai
+vécu des trucs pareil quoi et c'est
+incroyable c'est vraiment que ça la la
+vraie grosse valeur de Family c'est le
+réseau c'est incroyable ah mais c'est
+incroyable ben tu vois à quel point
+c'est game changer pour nous à ce
+moment-l qu tuas le numéro 2 de Facebook
+qui donne l'URE de nous débloquer à un
+moment où o on a des des des des
+dizaines de milliers d'utilisateurs qui
+veulent rentrer sur sur sur notre
+produit quoi
+incroyable ce ce système là là on le
+voit avec toi à une à une échelle qui
+est qui est fat quoi genre c'est quand
+même enfin 100000 personnes en 48h c'est
+vraiment beaucoup c'est ce que tu dis
+genre c'est pas c'est pas reproductible
+il y a une part de chance il y a une
+part de timing il y a une part de de
+d'intuition très forte et cetera est-ce
+que tu penses qu'on peut créer des des
+stratégies de viral marketing à une plus
+petite échelle et sur et sur d'autres
+types de business éventuellement tu vois
+si moi si je suis si je suis une boîte
+de service je suis une agence je fais du
+design et j'ai envie d'arriver à créer
+une boucle un peu similaire qu'est-ce
+que je pourrais mettre en place pour
+faire pour reproduire un peu ce
+phénomène là même si ça me rapporte pas
+100000 personnes en 2 jours tu voisou
+bien sûr sûr euh sur la partie
+reproductive je pense c'est reproductive
+je pense il faudra une nouvelle
+plateforme qui est aussi peu de friction
+tu vois pour pour amener pour pour
+atteindre cette vitesse là tu vois euh
+mais ça viendra il
+a complètement absolument et est-ce que
+ce type de de modèle là peut fonctionner
+à plus petite échelle bien évidemment je
+pense que ça peut fonctionner à toute
+échelle la la première chose qui compte
+c'est vraiment enfin why combinator make
+something people want vraiment de
+démarrer avec une expérience où les gens
+quand ils ont utilisé ton produit ton
+service qu'ils ont fait appel à ton
+agence
+ils sortent avec le smile se disent
+waouh c'était vraiment dingue et
+ensuite le le le deuxième point que tu
+dois te poster tu la deuxème question
+que tu dois te poser c'est
+la la je sais pas comment dire en
+français mais reputabilityé tu vois de
+de ton service à quel point les gens ils
+vont réutiliser ton service et avec
+quelle cadence tu vois et plus la
+cadence de demande de ton service est
+faible plus tu as d'opportun ité pour
+incentiviser un comportement de partage
+un comportement fa ça veut dire qu'il y
+a peu de repeat plus plus elle est
+courte excuse-moi ouais plus le
+repeat plus tu as du repeat plus tu peux
+leur dire bah vas-y je plus tu as
+d'opportunité plus tu as de point
+d'interaction plus tu as l'opportunité
+de demander e parle de moi tu vois donc
+ça je pense que c'est un point qui est
+très
+important donc le fait d'avoir un
+service qui est très répétable dans son
+usage ouis effectivement tu les vois
+c'est lesber à chaque fois que tu es en
+soirée tu veux inviter tes potes tu as
+toujours une opportunité de penser au
+fait que tu peux inviter complètement
+mais du coup ça veut dire que toi en en
+tant que boîte si tu veux arriver à
+profiter de ce canal là faut bien
+prendre en compte plusieurs choses faut
+prendre en compte un ce qu'on disais
+tout à l'heure
+sur ça accélère ça démarre pas genre
+faut faut pas se leurer tes premiers
+clients il viendront pas de ton viral
+marketing parce que c'est principe de la
+viralité c'est qu'il y a des gens à la
+base quoi de est-ce que estce que tu as
+un repeat qui est suffisamment fort pour
+que les gens ils se disent je vais
+inviter parce que ça sera pas juste une
+fois je vais tester
+et et est-ce
+que est-ce que je peux incentiver les
+gens c'est quoi c'est quoi qu'il faut se
+poser comme question c'est est-ce que je
+peux incentiver les gens parce que même
+si tu as pas beaucoup de repat en
+faitand je me pose les questions en live
+tu vois même si tu as pas beaucoup de
+repat tu peux quand même incentiver les
+gens à partager c'est peut-être ça le
+dernier point
+S c'est qui a une puissance parfaitement
+sous-estimée dans le fait de juste
+demander aux gens de faire des trucs
+quoi complètement parce que si tu avais
+pas mis ton le message sur la toute
+première itération de invite trois potes
+il l'aurait probablement pas fait bien
+sûr bien sûr complètement absolument et
+c'est ça la stratégie de vir marketing
+de base c'est juste e vas-y partage
+complètement et les gens son gen ah ti
+dans tous les cas c'est une transaction
+lorsque quelqu'un fait une action pour
+ta boîte pour toi il y a y a a souvent
+une forme transactionnelle euh même si
+les gens vont faire quelque
+chose par exemple vont
+partager là par exemple tuas tu as pas
+mal d'ABS qui sont en train de de de de
+gagner en viralité sur les sujets
+écologique tu vois et tu une boîte qui
+est passée chez VO combinator où il te
+propose de de payer ton ton empreunte
+carbone en fait une forme de de d'impôt
+sur ton empreunte carbone en fait où
+tuas une mensualité sur sur sur sur euh
+sur le fait que bon bah tu as tuas tu as
+eu une empreinte carbone plus ou moins
+importante ce mois-ci et tu vas contribu
+à ça et en fait il on vit dans un monde
+où les gens payent des impôts
+volontairement ouais ouais ouais super
+complètement et euh Mathias est assez
+fan de de ce business là et euh et c'est
+vrai que par exemple un incentif que tu
+peux avoir qui peut un incentif qui peut
+qui peut paraître futile mais pourquoi
+les gens partageraient le fait qu'ils
+utilisent ce service là euh ça tu peux
+avoir des des des jeux de statut en fait
+qui qui rentrent en compte donc le fait
+de dire ok regardez moi je contribue à
+sauver la planète et donc en partageant
+cette action là il y a quand même une
+transaction le service d'un côté il te
+donne le droit d'avoir du statut de dire
+ok j'ai fait une bonne action et je I
+feel good vis-à-vis de mes amis et mes
+followers sur Twitter parce que j'ai
+fait une action qui est bien et donc ça
+c'est ce que tu offre en fait au à
+l'utilisateur et de l'autre côté ce que
+l'utilisateur il t'offre il t'offre de
+l'exposition il tofre l'audience il
+t'offre le le partage de ton message en
+fait ouis et du coup des leads au finalo
+et du coup des leads au final est qui ce
+qui est intéressant c'est que du coup tu
+peux prendre tous les leviers
+psychologiques qui existent et les
+mettre dedans genre sur Peter c'était la
+frustration le fait de pouvoir débloquer
+ta frustration sur ça c'est le fil good
+de j'ai fait quelque chose de bien et
+j'ai l'impression d'être quelqu'un de
+chouette sur d'autres sujets sur bah le
+principe même de la file d'attente
+d'être devant c'est un sujet de statut
+social en gros ouais genre tous les tous
+les besoins psychologique humain tu peux
+aller taper dedans complètement et dire
+ok je vais si tu me files un coup de
+main pour trouver d'autres gens je vais
+te filer ça quoi complètement il y a un
+framework qui est ultra utilisé dans
+dans la silicone valallley il s'appelle
+the behavior model qui a été développé
+par neuroscientist s'appelle BJ fog
+c'est un petit peu le gars qui a formé
+tous les ux designers chez Facebook
+Instagram snapchat tu vois enfin c'est
+vraiment la Bible donc tu t'as bjfog
+behavior model sur google tu trouves de
+suite et en fait son modèle euh je sais
+pas si on pourra le montrer au montage
+tu vois mais c'est tu as en ordonnée tu
+as la motivation et en abscisse tu as
+l'hability en fait de de de réaliser un
+un comportement de réaliser une action
+et en fait ce ce modèle ce graphhe ce
+qu' te donne il te dit écoute si tu veux
+que un utilisateur une personne fasse
+cette action l'action que tu souhaites
+quel qu'elle soit donc dans notre cas
+dans un système de partage c'est qu'un
+utilisateur partage ton application
+partage ton produit euh tu dois avoir la
+motivation qui est suffisamment élevée
+tu dois avoir euh l'habilité de de le
+faire tu dois être capable de de de de
+produire ces actions et tu as une une
+courbe à tu as une courbe en fait qui
+apparaît sur sur ce graphe qui est euh
+la qui est une courbe de qui est le
+trigger en fait qui est
+euh tu dois avoir le niveau qui est est
+suffisamment important euh de motivation
+et d' et de d'habilité de le faire la
+capacité de le faire et si tu es
+a-udessus de cette courbe c'està-dire
+que la motivation était suffisamment
+forte en ordonnée et ton ton l'habilité
+de le faire était suffisamment forte
+également en abscisse et ben en fait dès
+que tu rentres dans cette zone là qui
+est a-udessus de la courbe la le
+comportement va se passer et en fait les
+la motivation c'est vraiment une des clé
+donc l'habilité ben ça va être le fait
+de travailler que ton expérience soit la
+plus simple possible voilà c'est V ce
+que tu veux essayer d'optimiser et pour
+la partie donc ça c'est euh il faut pas
+que ça coûte de temps faut pas que ça
+coûte d'argent il faut pas que ça les
+gens réfléchissent trop que ce soit de
+trop de Brain cycles donc tout ça c'est
+dans l'habilité que tu optimises et sur
+la motivation tu as trois grandes
+motivations selon bdjet fog pour motiver
+les gens à à faire quelque chose tu as
+l'acceptance sociale donc le fait de
+d'être accepté par les autres sur un
+comportement que tu vas faire le
+deuxième c'est l'espoir euh donc tu tu
+vas devenir euh tu tu tu seras une une
+meilleure personne ou quelque chose de
+mieux va t'arriver dans dans le futur et
+et le troisième c'est le plaisir si on
+pouvait mettre un bon exemple derrière
+ces trois points ben le le le le le le
+l'acceptance sociale ce serait Instagram
+WhatsApp enfin tous les réseaux sociaux
+l'espoir ça serait par exemple le
+Bitcoin fait je vais devenir riche plus
+tard plaisir ça pourrait être pornub tu
+vois le porno tu dis ok je je vais
+passer un bon moment et et donc tu vois
+c'est un petit peu ces trois grands
+triggers sur lesquels tu peux jouer
+enfin ces trois grandes motivations et
+de te poser la question ok qu'est-ce que
+je peux apporter est-ce que je peux
+apporter du plaisir est-ce que je peux
+apporter de l'acceptance sociale ou
+est-ce que je peux apporter de l'espoir
+et de jouer en fait avec C ces émotions
+là pour faire faire des choses aux gens
+faire des choses g parce que parce que
+ils ont ils ont cette notion de
+récompense et si la récompense paraît
+proche bah ils sont chauds et si la
+récompense paraît super B ils sont chaud
+pareil et donc là en l'occurrence sur
+une stratégie de viral marketing comme
+la tienne commefin comme don on parle
+depuis tout à l'heure c'est arriver à à
+transformer les clients en vendeurs en
+fait ou mais de la manière la plus
+simple tu dis ok si tu vends mon truc
+lourd genre tu vas tu vas tu vas choper
+quelque chose de très intéressant pour
+toi que ce soit en terme de statut
+social que ce soit en terme de plaisir
+ou que ce soit en terme de
+de de prospection de ton futur quoi
+complètement ouais
+ok et ben ça me paraît plutôt clair
+plutôt cool ouais le graph c'est encore
+plus clair ouais mais on le mettra on
+mettra mais ça me paraît plutôt clair
+effectivement c'est c'est arrivé à ad
+scale faire vendre tes clients pour toi
+complètement et optimiser tout ça
+complètement bah écoute merci beaucoup
+ben avec plaisir merci cétait trop bien
+merci TR co merci à toi

@@ -1,0 +1,543 @@
+[Musique]
+bienvenue dans ce module sur
+l'engineering as marketing alors chez
+couetar on parle beaucoup beaucoup de
+start-up he c'est notre background et
+c'est notre manière de voir le business
+parce que bah tout est en train de
+changer dans cette formation je vous
+parle de trouver des clients si vous
+avez fait quelques modules déjà depuis
+le début vous vous rendez bien compte
+que je parle quand même beaucoup de tech
+que je parle quand même beaucoup en tout
+cas d'Internet de mesures de web et
+cetera et cetera la particularité des
+start-ups c'est qu'on y développe de la
+tech c'est ce qui fait qu'elles ont très
+souvent des produits qui sont hautement
+scalables et qui donc leur permettent
+d'avoir le même coût opérationnel pour
+servir un client que pour servir un
+million de clients si tu penses à Google
+c'est ça que ça fait cette scalabilité
+c'est un des effets de la tech dans les
+start-ups mais il y en a d'autres
+notamment sur le marketing ce qui est
+hyper intéressant c'est que la plupart
+du temps les gens qui créent ces boîtes
+sont des gens qui sont ingénieurs qui
+sont des gens qui savent coder et donc
+s'ils savent créer cette tech là la
+plupart du temps ils vont finir par
+créer des petits produits sur le côté
+qui vont répondre à des besoins
+spécifiques d'une partie de leur
+audience qui vont découvrir leur service
+à travers ce service annexe donc
+l'engineering as marketing c'est ça
+c'est la discipline qui consiste à créer
+des produits séparés du produit initial
+que vous proposez qui vont vous
+permettre de récupérer des listes en
+leur apportant de la valeur finalement
+c'est un peu comme une stratégie de
+contenu une stratégie de contenu c'est
+délivrer de la valeur aux gens en amont
+pour qu'il deviennent vraiment
+intéressés par ce que vous faites qui
+vous voit comme un expert dans votre
+domaine et que donc ils viennent
+naturellement à vous en inbound et qui
+deviennent certains de vos leads et ben
+l'engineering as marketing c'est la même
+chose vous allez créer des produits qui
+amènent de la valeur et les gens vont
+venir naturellement chez vous après
+avoir utilisé ces produits finalement
+c'est un peu comme créer du contenu
+interactif le meilleur exemple que j'ai
+trouvé pour illustrer l'engineering as
+marketing c'est un truc que upspot a mis
+en place donc upspot c'est un logiciel
+de CRM et de marketing automation pour
+les boîtes qui font du sales qui te
+permet d'avoir donc des fichiers clients
+qui sont super puissants et t'aider
+grosso modo dans ta sales force pour
+vendre de plus en plus de produits eux
+ils ont mis en place un système qui
+s'appelle grader et qui en fait bah te
+permet de mesurer la performance de ton
+site web c'est assez intéressant parce
+que c'est un des cfondateurs de upspot
+qui s'est rendu compte un jour que
+pendant les sales pendant les process de
+Sales avec S leads et ben il devait
+régulièrement faire la même chose il
+devait faire un audit de la situation
+actuelle en terme de marketing de la
+boîte donc il faisait son audit il
+récupérait le site web de la boîte il
+allait dans Alexa pour regarder son
+ranking sur Google il allait sur les
+différents sur différents outils pour
+mesurer son impact en terme de
+copywriting son impact en terme de SEO
+et cetera et cetera et il envoyait
+ensuite un rapport détaillé en PDF à ses
+clients pour leur dire bon ben voilà tu
+vois bien que je suis un expert sur le
+sujet et que je peux te faire un audit
+très très rapidement et gratuitement ça
+vaudrait peut-être le coup que tu closes
+un contrat avec moi parce que que bah
+regarde comme on est fort ce Tru là il
+le faisait tout le temps tout le temps
+dans le process de Sales il le proposait
+et ça closait pas nécessairement
+derrière ça ça ça closait quand même une
+grande partie ça apportait beaucoup de
+valeur mais c'était pas non plus
+automatique donc il a décidé en bon
+ingénieur qui règle des problèmes et qui
+automatise des choses de le rendre
+automatique pour ça il a donc créé un
+site web qui s'appelait website grader
+et qui permettait à n'importe qui de
+venir sur le site de taper une URL et
+puis ça générait automatiquement en
+quelques secondes une fiche détaillée
+avec toutes les infos qu'il allait
+habituellement chercher à la main ce
+tru- il l'a partagé gratuitement à
+l'ensemble de sa communauté à l'ensemble
+de son pipe de leads et à travers sa
+stratégie de contenu puis c'est monté en
+SEO puis ça a pris de l'ampleur et
+aujourd'hui grader c'est un des outils
+qui est utilisé par les équipes
+marketing très régulièrement pour savoir
+si un site est optimisé pour le trafic
+ou pas ce qui est marrant c'est que à la
+base c'était vraiment juste un truc qui
+était là pour automatiser une action qui
+était répétitive la plupart du temps
+c'est comme ça qu'on crée des très bons
+produits hein c'est en le faisant
+d'abord à la main et do things that
+don't scale et que ensuite on finit par
+automatiser les tâches qui sont très
+très très répétitives et aujourd'hui
+encore maintenant ça représente
+plusieurs centaines de leads par mois
+qui viennent juste de grader des gens
+qui en fait viennent sur le site rentent
+leur URL récupèrent leur données et à
+l'entrée il faut laisser son adresse
+email pour avoir les résultats et donc
+du coup bah hop tu te fais retargetter
+il t'envoie des emails et on rentre dans
+une stratégie d'email marketing je vous
+renvoie au module sur l'email marketing
+pour ça mais en tout cas c'est une très
+très bonne manière d'acquérir des leads
+qui instantanément deviennent un petit
+peu plus qualifiés parce qu' un petit
+peu plus confiant envers votre marque
+bon tout ça c'est cool c'est un super
+exemple je pense que ça vous permet de
+prendre conscience un peu de ce que
+c'est l'engineering as marketing ce qui
+est intéressant c'est que c'est un canal
+qui comme le Content marketing et
+relativement inbound c'est beaucoup de
+gens qui viennent mais qui est quand
+même beaucoup beaucoup plus mesurable à
+partir du moment où vous avez des
+interactions en ligne et où vous avez
+des interactions bah ux fortes et ben
+vous avez forcément l'opportunité de
+récupérer des contacts beaucoup plus
+facilement qui vont déjà être très bien
+organisés et que vous allez pouvoir
+traiter dans votre process de Sales par
+la suite et ben voilà on va voir
+ensemble comment mettre en place une
+stratégie d'engineering as marketing
+pour votre
+[Musique]
+business alors pour ta première
+expérimentation tu vas avoir besoin de
+deux choses la première chose c'est de
+maîtriser le code ou en tout cas le No
+code que ce soit l'un ou l'autre le code
+ça veut dire savoir programmer savoir
+créer des applications qu'ell soi web ou
+qu'elle soit mobile ou quelle soit ce
+que vous voulez et puis de l'autre côté
+le No code c'est tout tout l'art de
+l'automatisation he c'est ce qu'on
+enseigne notamment dans le chapitre 1
+d'one can scale où on explique comment
+faire pour automatiser les tâches donc
+ça va être des outils comme zapier Air
+table Google sheets chat fuel plein
+plein plein d'outils comme ça qui vont
+te permettre de s'encoder pouvoir créer
+des expériences en ligne digne d'un vrai
+produit et qui vont avoir une grosse
+valeur pour les gens qui les utilisent
+le deuxième truc dont tu vas avoir
+besoin pour mettre en place cette
+expérimentation c'est d'avoir une base
+de leads déjà existante parce qu'en fait
+bah c'est le principe de tous les
+produits qui existent on peut très vite
+tomber dans le travers de build it and
+the Willcom alors qu'en fait ça n'existe
+pas genre il y a pas moyen que tu crées
+ton produit qu'il ait de la valeur pour
+les gens et que tout d'un coup les gens
+le découvrent ce qui est intéressant
+c'est de pouvoir créer un produit de le
+pousser à une première audience initiale
+et de voir quelle traction ça va amener
+c'est un canal qui est profondément lié
+à d'autres canaux je pense que c'est pas
+possible de faire de l'engineering as
+marketing comme une première action
+parce que si tu as pas déjà un minimum
+de clients ou en tout cas de gens dans
+ton audience et ben en fait personne va
+entendre parler de ce que tu fais ce que
+tu vas mesurer dans cette
+expérimentation c'est évidemment le
+nombre de gens qui vont devenir des
+leads à travers cette campagne on va
+voir ensemble comment faire pour mettre
+en place une mesure qui est efficace et
+pour vraiment savoir combien de lites
+sont rentrés à travers ce canal là et
+puis du coup bah c'est parti alors la
+première étape pour mettre en place une
+campagne comme celle-là c'est de se
+poser la question bah des besoins que
+pourrait avoir la cible de gens que tu
+veux toucher je vous envoie au module
+sur comment cibler ses clients qui va
+vous permettre de dresser des personnas
+et de vraiment vous poser la question de
+leurs besoins leur motivation leurs
+frustrations les
+objectifs tout ça ça va vous permettre
+de dégager des besoins connexes à votre
+activité peut-être qu'il y a des besoins
+pour lesquels les gens sont pas
+forcément prêts à payer en soi mais que
+vous allez pouvoir résoudre alors alors
+la manière la plus simple de faire ça
+c'est de faire comme spot dans mon
+exemple précédent c'est-à-dire de
+repérer les choses que vous faites très
+répétitivement et de les automatiser
+ça en général c'est une très très bonne
+manière de résoudre un truc parce que si
+vous faites déjà le travail et qu'il a
+de la valeur pour les gens vous avez
+vraiment aucun doute sur le fait que bah
+le produit qui va remplacer votre
+activité humaine va avoir de la valeur
+pour les gens après il faut bien faire
+le job évidemment mais c'est une autre
+histoire après ce qui est intéressant
+c'est que c'est un canal qui est
+fondamentalement créatif dans le sens où
+là je parle de start-up depuis tout à
+l'heure mais ça marche pour n'importe
+quel business si aujourd'hui tu es
+fleuriste et que tu veux trouver un
+moyen de faire de l'engineering à
+marketing peut-être que tu peux mettre
+en place un mini site Web où les gens
+vont taper l'occasion pour laquelle ils
+veulent acheter des fleur et du coup on
+tu vas leur proposer un bouquet de fleur
+qui est adapté à ce qu'il cherchent ça
+ce serait une très très bonne
+utilisation de l'engineering as
+marketing ça te permettrait d'avoir des
+gens qui vont pas forcément avoir envie
+de passer sur ton site e-commerce pour
+acheter deses fleurs ou à ta boutique
+mais qui par contre vont peut-être
+tomber sur ton outil où on va leur
+envoyer ou je sais pas quoi par d'autres
+canaux ets vont se dire ouis c'est trop
+cool que cette marque de fleurs que ce
+fleuriste propose un outil comme
+celui-là qui est bien foutu qui
+m'apporte de la valeur bah peut-être que
+je vais acheter mes fleurs chez cette
+personne ou alors si tu es une start-up
+SAS et que tu vends à des boîtes par
+exemple et bah tu vas pouvoir te poser
+la question de faire bah une analyse
+avec des questionnaires je parlais du NO
+code tout à l'heure je sais qu'il y a
+the toolbox qui fait ça très très bien
+tu vas sur leur site il te propose de
+faire un diagnostic gratuit tu remplis
+un type for et puis derrière eux ils
+recouplent les données dans unur et
+cetera et il t'envoi un email
+récapitulatif des différents outils que
+tu pourrais mettre en place dans ta
+boîte pour faire en sorte de gagner du
+temps et d'accélérer dans ton opération
+tout ça c'est des gros exemples qui
+j'espère te permettre de prendre
+conscience de la largeur de toutes les
+choses que tu peux mettre en place pour
+apporter de la valeur aux gens avec des
+produits qui sont annexes à ton business
+parce que encore une fois je vais le
+répéter c'est extrêmement créatif de
+faire ce genre de job et c'est bizarre
+parce qu'il y a cette créativité à
+travers le code qui est pas forcément
+maîtrisée par tout le monde ou à travers
+le No code mais en tout cas il y a
+vraiment cette notion de se poser
+prendre du recul et faire un truc qui te
+fait marrer un minimum et qui va
+apporter de la valeur aux gens c'est
+pour ça qu'on crée des produits c'est
+pour ça que moi j'adore faire de la tech
+et j'adore créer des choses qui sont
+belles qui sont bien foutues avec une
+bonne uxux c'est parce que à la fin je
+sais qu'il y a des gens qui vont
+l'utiliser que j'auraai pas du tout la
+main sur le nombre de gens qui vont
+l'utiliser et ça c'est très très très
+excitant bah c'est vraiment une
+sensation qui est hautement
+satisfaisante et c'est ça qu'il faut
+rechercher dans la création d'une
+campagne d'engineering à Marke c'est pas
+la performance à tout prix c'est aussi
+un petit peu la beauté du geste bon une
+fois que tu as compris quelles étaient
+les problématiques auxquelles faisait
+face ton audience et que tu commences à
+avoir des pistes d'idées de choses pour
+leur créer des solutions assees
+problématiques et ben tu vas devoir
+vraiment créer la solution en elle-même
+il y a deux choses que tu dois garder en
+tête absolument quand tu crées des mini
+applications comme celle-là c'est un que
+toi ça prenne le moins de temps possible
+et que ça coûte le moins d'argent
+possible et que deux il y ait le moins
+de friction possible à utiliser l'appli
+je sais que il y a pas mal de boîtes qui
+utilisent ça par exemple social Blade
+dont je parle dans le module sur
+l'influence marketing et dans le module
+sur le Content marketing c'est un outil
+qui te propose vraiment de la tech
+gratuitement en amont et qui derrière
+t'invite à payer des services
+supplémentaires C ces modules là des
+fois ils sont complètement à part il y a
+des boîtes de consulting gigantesques en
+SEO qui te propose un petit diagnostic
+au préalable et qui te permettent de euh
+de ensuite passer dans leur fenelle de
+sales et de accéder à leur produits en
+entier le point commun à tous ces trucs
+là encore une fois c'est que vraiment
+ils ont pris peu de temps à développer
+si on reprend l'exemple de website
+grader avec upspot c'est un truc qui a
+pris à la personne 2 TR jours de
+développement c'est très très simple
+encore maintenant si vous allez sur
+website grader vous allez vite vous
+rendre compte que la charge de travail
+elle est pas très élevée il y a une page
+avec un champ email il y a un algorithme
+d'analyse qui va chercher sur différents
+services les différentes données et puis
+il y a une page qui te dit voilà tes
+résultats et est-ce que tu veux devenir
+un lead pour upspot c'est tout ça prend
+peu de temps c'est juste que c'est bien
+fait c'est un travail qui est bien
+exécuté et qui peut te rapporter
+beaucoup de leads parce que tu règles un
+pain pour lequel les gens ne payraient
+pas nécessairement mais qui va quand
+même leur apporter de la valeur et la
+deuxième chose donc c'est d'avoir le
+moins de friction possible donc ton but
+c'est quand même de récupérer des leads
+donc tu vas pouvoir demander une adresse
+email ou quelque chose mais en tout cas
+il faut arriver à créer une expérience
+qui est très très rapide il faut faire
+en sorte que les gens quand ils
+découvrent ton produit d'engineering
+marketing et ben ils se disent ah ben
+c'est trop cool ils cliquent il a deux
+trois étapes et ils ont accès à la
+valeur le plus rapidement possible ça
+peut pas être un produit que tu as mis
+en place pendant des mois où c'est
+hautement personnalisable et je sais pas
+quoi genre c'est important que ce soit
+très très simple parce que ça reste une
+option marketing évidemment il faut y
+mettre de l'intensité il faut y mettre
+du cœur parce que ça fait partie du job
+mais concrètement tu as pas besoin de
+faire une usine à gaz il faut que ce
+soit très simple que ça te prenne le
+moins de temps possible et quand tu as
+fait tout ça et ben tu vas pouvoir
+commencer à le pousser sur des canaux
+différents tu vas pouvoir le commencer à
+le pousser notamment à travers tes
+stratégies de contenu si tu en as une à
+travers ton email marketing si tu en as
+à travers ton SEO faire remonter ce
+produit annexe sur des requêtes sur
+lequel ton produit habituel ou ton
+service habituel serait pas arrivé
+normalement bref ça va se coupler avec
+tous les autres modules que vous avez et
+vous allez pouvoir bah justement faire
+en sorte que ce produit d'engineering as
+marketing devienne un minimum viral que
+les gens en parlent ça a pas besoin de
+faire des chiffres gigantesques ça a
+juste besoin de vous rapporter quelques
+leads de temps en temps et que ce soit
+pertinent pour vous d'avoir ces leads là
+parce que ils ont déjà eu de la valeur à
+travers votre marque et que donc ils
+vous font confiance un minimum bon alors
+j'espère que vous avez saisi le concept
+général du truc et que vous avez compris
+la grande leçon qui est en fond cette
+grande leçon c'est que faire de
+l'engineering as marketing c'est quelque
+chose qui est profondément opportuniste
+c'est un truc qui peut se faire CR dans
+une situation spécifique c'est-à-dire
+quand vous avez déjà d'autres canaux qui
+sont en place et vous allez pouvoir
+communiquer sur ce mini produit que vous
+avez créé et c'est un truc qui se fait
+de manière spontanée avec des
+compétences très souvent en interne ça
+veut pas dire que vous pouvez pas
+l'externaliser par exemple vous pouvez
+très bien vous dire moi je vais mettre
+un budget de 10k payer une agence pour
+qu'elle me développe un mini site
+internet très rapidement et faire en
+sorte que ça me rapporte tant de leads
+et j'aurai une rentabilité à ce
+niveau-là la grande leçon c'est que
+c'est un canal inbound que vous avez pas
+le contrôle sur le succès que ça va
+avoir donc que ça reste une prise de
+risque d'investir du temps dans ce genre
+de mini produit mais c'est pas grave
+parce que si vous arrivez à faire un
+produit qui plaît aux gens un vous
+augmentez votre trust avec eux de vous
+générez des leads et tr vous augmentez
+vous-même votre propre expertise et
+votre propre satisfaction à créer des
+choses qui ont de la valeur pour les
+gens j'aime à croire que chez coup
+d'État dans la communauté la plupart des
+gens sont là pour apporter de la valeur
+aux gens et que l'argent Infiné est un
+moteur pour faire grossir cette activité
+de de plus en plus si vous voyez ça
+comme ça normalement passer quelques
+jours à coder quelque chose qui a
+vraiment de la valeur dont vous pouvez
+être fier qui est bien packagé qui a de
+la gueule qui a peu de friction et où
+les gens sont très contents de
+l'utiliser normalement ça devrait vous
+apporter une grande satisfaction donc
+c'est comme le canal de contenu encore
+une fois vous savez pas si ça va marcher
+en amont vous avez aucune possibilité de
+savoir si ça va fonctionner par contre
+si ça fonctionne ça peut avoir un impact
+extrêmement positif sur vos leads ça
+peut avoir un impact extrêmement positif
+sur votre acquisition de manière
+générale et peut-être que comme spot
+vous finirez dans quelques mois en me
+disant ah mais c'est trop cool depuis
+quelques mois j'ai toujours 10 lads par
+semaine qui tombent à travers de ce pipe
+là avec un truc que j'ai fait en une
+fois que j'ai amélioré quelqufois de
+temps en temps et qui au final me prend
+très peu de temps de travail bon dans ce
+module je vais essayer de vous faire pas
+mal de retour d'expérience le premier
+qui est disponible c'est celui sur
+website grader justement où j'analyse un
+petit peu comment ils ont mis en place
+le truc et combien de temps ça leur a
+pris à développer je pense que la
+meilleure manière pour vous de vous
+former à ce canal plus en profondeur que
+tout ce que je viens de vous dire c'est
+de faire c'est de vous dire ok là je
+vais passer 3 jours à coder ce truccl et
+faire en sorte de le pouer si vous en
+êtes au tout début de votre aventure et
+je sais que il y a des gens qui ont
+acheté trouvé des clients qui ont même
+pas encore de produit et qui se pose
+juste la question de comment ça se
+lancer de la meilleure manière bah
+peut-être que créer ce genre de petit
+produit c'est la meilleure façon pour
+vous un de vous entraîner à développer
+des produits deux de vous entraîner à
+trouver des gens qui utilisent ses
+produits de manière gratuite et tro de
+pouvoir un pipe de gens qui vont vouloir
+acheter un produit plus complet parce
+qu'ils ont d'abord utilisé votre produit
+gratuit c'est une notion de paid forward
+qui est hyper intéressante c'est la
+notion de je donne et peut-être qu'un
+jour à force de donner je vais recevoir
+c'est le principe de tous les canaux
+inbound qui existe celui-là est un petit
+peu particulier et il demande des
+compétences particulières je sais que
+beaucoup d'entre vous ont ces
+compétences je pense vraiment que ça
+vaut le coup qu'on voit tous ensemble en
+tant que communauté quels ont été les
+succès en termees d'engineering
+marketing parce que je pense qu'on peut
+faire des trucs vraiment marrants avec
+des ux super bonnes avec des ui super
+belles et qu'on se fasse kiffer à créer
+des trucs

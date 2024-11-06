@@ -1,0 +1,1128 @@
+tu sais genre ta peur elle vient pas de
+nulle part c'est pas juste une peur
+irrationnelle ton instinct il est bon ce
+qui est pas toujours le cas chez les
+entrepreneurs mais ton instinct il est
+bon bah éliminea quoi éliminea et la
+seule manière d'éliminer de la peur
+c'est d'avoir de l'enfant ok trop cool
+[Musique]
+salut Anthony salut Valentin salut salut
+alors du coup on se retrouve pour une
+une nouvelle office hour je suis en mode
+présentateur télé c'est bizarre je vais
+arrêter mais c'est pas grave ça sera
+peut-être marrer les gens voilà non donc
+Anthony en fait nous on se connaît
+depuis quand même un moment tu es un des
+utilisateurs de coup d'État du tout
+début quand j'ai repris l'année dernière
+donc je suis trop content de de t'avoir
+enfin sur sur une cam ça me fait très
+plaisir merci beaucoup de l'invitation
+euh donc office hour on va parler un peu
+de ton business où tu en es ce que tu
+veux ce que tu veux faire bon tu
+m'expliquer un petit peu tes premières
+problématiques euh mon but c'est de
+donner des conseils je vais essayer
+qu'il soit pertinent voilà après ADV
+viienne que pourra bon raconte déjà pour
+expliquer un petit peu aux gens où tu en
+es ce que tu fais c'est quoi le concept
+de studio matique et tes différentes
+activités ok ok donc ouais Mo du coup je
+développe cette boîte qui s'appelle
+studio matique à la base je suis
+musicien il y a 6 ans j'ai fondé un
+studio en fait de musique à Paris qui
+était ouvert 24h/ 24 c'était la première
+fois que ça se faisait sur Paris euh je
+l' fonda avec des potes euh juste parce
+que j'avais envie de faire de la musique
+avec des copains et euh on a commencé à
+équiper ce studio ça s'est hyper bien
+passé on a commencé à le louer aussi
+sauf que j'allais ouvrir les portes
+moi-même euh
+donc tous les jours je faisais des 1
+heure de trajet aller 1 heure de retour
+juste pour aller ouvrir des portes ça a
+commencé à être un peu pesant et je
+pouvais pas aller plus loin que ce que
+j'avais les gens commençaient à me
+demander des créneaux de nuit et tout ça
+donc j'ai eu l'idée de studio matique où
+en fait le but c'était de créer des
+studios de répétition pour les musiciens
+qui sot ouvert 24h sur 24 7 jours sur 7
+et que tu puisses réserver avec ton
+smartphone et y accéder à n'importe
+quelle heure peu importe que tu puisses
+sortir de soirée juste avec tes potes et
+dire [ __ ] j'irais bien jouer en studio
+me faire un petit REC ou juste kiffer le
+moment quoi et pouvoir le faire vraiment
+instantanément donc ta première étape ça
+a été avant anyone can scale de scaler
+l'ouverture de de studio c'est ça oua
+donc donc de me dupliquer ou d'avoir au
+moins site automate qui qui me permet
+d'ouvrir la porte à la base c'était
+juste ouvrir la porte au début c'était
+même les réservations donc j'avais les
+gens qui m'envoyaient à la base des SMS
+euh mais tu as pas une réservation ce
+soir de 18h ou mec je peux pas venir
+jouer de 20h à minuit ou un truc comme
+ça donc le plus dur c'est quand les mecs
+te demandent de minuit à 8h du matin ou
+euh mec il y a pas une dispo cette nuit
+là ou des trucs comme ça que des trucs
+comme ça donc euh à la base c'était les
+réservations j'ai commencé par un petit
+site WordPress un petit euh un petit
+truc de réservation les gens étaient
+assez contents je me suis rendu compte
+que ça fonctionnait que les gens on été
+aussi capablebles de réserver par
+eux-mêmes sans avoir besoin de m'envoyer
+de SMS ce qui des fois n'est pas
+toujours le cas avec certains ICOS mais
+bon après c'était la porte le problème
+donc comment tu fais pour ouvrir une
+porte à distance je commence à
+m'intéresser aux objets connectés au dev
+j'ai appris à dev pour faire ma
+plateforme et euh et du coup on en est
+arrivé à créer ce concept là qui est
+finalement un concept plus global où on
+veut vraiment changer la façon dont les
+gens interagissent avec les espaces de
+création artistiqu comment ils se
+comportent à l'intérieur quelles
+expériences ils en retirent et quel
+genre d'outil technologique on peut leur
+mettre à disposition pour décupler leur
+créativité c'est vraiment le but qu'on a
+avec studioatique en fait donc j'ai
+commencé effectivement voilà comme ça
+juste les serrures après on a développé
+d'autres choses de l'enregistrement
+automatisé avec de l'intelligence
+artificielle ce genre de truc euh qui
+est un nouveau produit qu'on qu'on a
+sorti là mais donc c'est sorti du coup
+c'est sorti je me rappelle enfin quand
+on s'est rencontré tu m' parlais dé je
+t'en parlais c'était tout neuf donc
+maintenant c'est équipé dans trois
+studios en France donc on en a un dans
+le mien à pentin chez
+notre notre premier client et notre
+principal client qui est studio bleu et
+on en a un à Montpellier aussi donc et
+on en est en attente malheureusement on
+est tombé en rupture de stock ok de
+boîtier donc ça arrive
+ok ok ça arrive donc lourd donc
+aujourd'hui l'offre c'est des studios
+dans lesquels tu peux venir à n'importe
+quelle heure parce que tu peux réserver
+en ligne et juste pointer avec ton code
+tu rentres quoi ouais euh c c truc
+d'enregistrement artificielle oup miing
+et déjà intégré c'est ça donc ça te
+permet de pas avoir besoin d'un ING son
+sur place pour faire des maquettes
+quoiit c'est ça c'est des maquettes
+exactementou c'est pas c'est pas c'est
+pas pour enregistrer un morceau qui va
+finir sur album mais c'est pour faire
+des maquettes de c'est ça ouais en fait
+on s'est rendu compte bah moi déjà en
+tant que Zico ce que je faisais quand
+j'avais des répètes pour garder une
+trace de mes répétitions et bosser à la
+maison soit tu prends ton téléphone soit
+tu prends un enregistrement portable
+genre un zoom ou un truc comme ça tu le
+mets dans ta pièce tu as toujours plein
+de problèmes tu as toujours le problème
+de t'entendre trop la trou la batterie
+après tu dois sortir la carte SD la
+mettre sur ton ordinateur tu dois
+envoyer des fichiers de 4 Go à tous tes
+potes il faut qu'il les télécharge sur
+Transfert bref déjà que les musiciens n
+on est très flémar sur ce genre de truc
+alors là c'est c'est une catastrophe
+tout tout le toute la partie enin pour
+avir enregistr unas toute la partie on
+va mettre des matelas contre les murs
+pour que ça absorbe le son ou alors tu
+dans le placard avec tes freins parce
+que c'est làas des truc un peu y a des
+musiciens qui pousent vraiment ça on
+répète en plus et ça c'est ça c'est
+assez ouf et donc là le parti de ce
+système d'enregistrement c'est d'avoir
+un boîtier où les mecs ils ont juste à
+prendre une option en ligne
+euh le pire dans tout ça en fait c'est
+que les studios vendaient à l'heure euh
+des des enregistreur zoom donc il te
+louait à l'heure genre 3 € de l'heure
+donc on a sorti ce boîtier en fait
+l'enregistrement il est à 3 € de l'heure
+donc tu payes 3 € de l'heure sauf que
+ton enregistrement il se déclenche
+automatiquement tu as même pas de bouton
+on a déjà installé des micros dans la
+salle et à la fin ton son il est mixé
+masterisé et découpé et tu le récupère
+sur ton dashboard tu peux le télécharger
+le garder à vie comme ça tu as juste à
+le partager avec tes potes tu mets leur
+email et et ça FA ite tout ce process là
+qui était juste un peu chiant donc donc
+vous votre objectif c'est d'arriver
+enfin si on veut recouper un peu avec
+any one can scale une vidéo anyone can
+scale euh c'est vraiment d'arriver à
+scaler toute cette étape de de maquetter
+tes sons ça c'est scaler tout ça en fait
+et donc vous vous le faites par du
+logiciel donc vous avez automatisé
+l'ingjesson sur les les parties
+maquetage en tout cas pas forcément le
+mixing final euh et vous avez du coup
+automatisé et standardisé tout le
+process de réservation jusqu'à ça Tu Vi
+ENR et ça te permet d'avoir un service
+qui finalement est encore meilleur que
+si tu avais un mec au petits oignons qui
+était là tout le temps dispo parce que
+si tu veux taper une des terr et
+algister à 3h du mat tu peux tu peux le
+faire ouais tu peux le faire l'idée
+c'était aussi de permettre au régisseurs
+qui normalement je prenne juste des
+réservations au téléphone d'être
+justement au petits oignons d'avoir ce
+côté technologique qui te permet d'avoir
+quelque chose qui est très presque
+personnel des fois et tout et qui
+augmente tes capacités d'avoir plus de
+choses et tout mais aussi d'avoir des
+gens qui sont maintenant vraiment dédiés
+au musicien c'était vraiment le truc et
+le le la plus grosse problématique
+c'était évidemment de qu'elle est ça et
+comment on arrive à ouvrir des studios
+en nombre comme ça comment on arrive à
+faire en sorte que bah tous les accès
+soient corrects que une personne puisse
+véritablement accéder au studio sans
+avoir besoin de l'aide humaine à
+n'importe quel moment dans le process
+quoi ça pas de sens en fait enfin
+fondamentalement moi quand je vois ton
+truc je suis là en mode mais enfin
+pourquoi je me feris chier à appeler un
+studio et demander bonjour est-ce que je
+peux venir et tout gens ont des disp et
+qui disent pas ouais finalement j'ai pas
+de dispo que tu dois rappeler tes potes
+ou des trucs comme ça donc ouf de ouf
+donc euh très bien donc voilà ouais ok
+donc je pense que là euh donc j'ai enfin
+moi ça me permet de refaire le le truc
+donc là vous avez tu m'as dit quelques
+studios à Paris ouais un gros client qui
+est studio bleu donc c'est pas vos
+studioos c'est vraiment genre vous avez
+calé votre texte sur leur studioou
+exactement
+c'est quoi vos vos nouvelles
+problématiques avec la rentrée et
+comment je peux t'aider notre principale
+problématique donc là en fait on essaie
+d'ouvrir des nouvelles villes donc on
+essaie d'ouvrir en province notamment à
+Lyon et la plus grande problématique que
+j'ai c'est que Lyon c'est une ville que
+je ne connais absolument pas ni
+personnellement ni dans mon réseau
+pourquoi vous ouvrez li alors c'est pour
+plein de raisons en fait on a fait une
+étude sur plein de villes
+euh sur plein de villes en en province
+et le truc c'est que Lyon c'est vraiment
+une ville dans lequelle il y a un besoin
+pour les musicien c'est-à-dire que les
+prix des répétitions sont plus chers
+qu'à Paris ce qui est pour moi déconnant
+à mort alors que normalement le prix en
+province toujours plus faible les
+studios sont toujours blindés là-bas ils
+ont une grande majorité de studios qui
+sont en en abonnement il y a des listes
+d'attentes donc ce qui fait qu'il y a
+plein de musiciens qui ne trouvent pas
+de studio et en plus de ça tous les
+studios sont éparpillés en province
+enfin dans pardon dans la banlieue de
+Lyon euh donc Lyon ça resté quand même
+une très bonne ville dans la mesure où
+c'est aussi 2 heures juste pour aller et
+ça reste une des plus grandes villes de
+France euh nous on peut pas ouvrir à
+Paris aussi pour une raison très simple
+c'est qu'on a des des accords en fait
+avec les studios qu'on a à Paris de de
+concurrence ce genre de choses et aussi
+parce que le marché est quand même assez
+saturé à Paris donc il y a vraiment on a
+fait une étude sur sur sur plus d'une
+dizaine de grandes villes comme ça basé
+sur des critères de population de nombre
+d'étudiants sur des critères
+d'accessibilité sur des critères de de
+développement de transport de plein de
+choses comme ça quoi qui nous
+permettaient de dire ok Lyon ça reste la
+ville qui est la plus facile à enfin la
+plus propice à l'ouverture d'un nouveau
+studio
+en dehors de Paris en tout cas j'entends
+donc donc voilà pourquoi Lyon et le
+voilà pour l'instant la problématique
+c'est que je connais pas bien le marché
+encore là-bas on l'étudie de plus en
+plus moi je suis pas musicien lyonnais
+donc c'est la la le truc qui me fait
+peur en fait c'est d'arriver évidemment
+là-bas d'ouvrir un studio et d'avoir du
+mal à le remplir ou même d'avoir même
+des comment dire je sais pas si je vais
+avoir moins de de de capacité à à
+travailler aussi sur Paris enfin il y a
+plein de trucs où je me dis j'ai mis
+tout mon énergie sur Paris et finalement
+j'ai fait le studio parce que j'étais
+aussi beaucoup là donc comment on fait
+quand on a une ville qui n'est pas la
+nôtre et et qu'on n pas véritablement
+sur place comment on fait pour que tout
+se passe bien et pour tout soit vraiment
+bah comme comme ça avait marché sur
+Paris sur le premier truc où on était
+dédié à ça et tout ça c'est ce genre de
+problématique que j'ai pour l'instant ok
+parce qu'en fait enfin bon je voilà je
+vais essayer de donner un peu mon
+expérience je suis pas un expert de
+comment Touvre d'autres villes mais je
+l'ai déjà fait une fois quoi on l'a déjà
+fait chez MEnu nextdor ouais donc ma
+précédente boîte pour ceux qui regardent
+et qui savent pas euh c'était en gros un
+concept de de de Food entre particulier
+donc je pouvais aller prendre des plats
+emportter chez ton voisin grosso modo et
+en gros on a commencé à Bruxelles on a
+fait grossir Bruxelles très fort puis on
+a ouvert Paris puis on a ouvert Londres
+OK et donc en fait tu te rends compte
+que si tu regardes un peu les autres
+boîtes genre la première méthode pour
+apprendre c'est de copier ce que les
+autres font tu vois tu as deux manières
+de le faire soit euh tu laisses une team
+sur place à Paris et toi tu te barres et
+tu vas ouvrir la ville toi-même ok c'est
+vous avez fait ça vous avec nous nous on
+a on a fait un peu les deux genre on a
+un peu mixé c'était un petit peu
+compliqué mais donc soit tu fais ça donc
+toi tu restes sur place et tu'envoies
+une team qui ouvre une autre ville ok
+soit tu fais l'inverse c'est-à-dire tu
+tu toi
+euh toi tu vas à Lyon et tu laisses une
+team sur place quoi ok d'accord vraiment
+les deux choix et et après tu as le
+spectre entre les deux évidemment bah tu
+peux jongler et essayer de déouiller
+pour que pour que ça fonctionne quoi
+nous euh chez menuexdor on s'est rendu
+compte que bah déjà on a ouvert des
+villes un peu trop tôt tu vois on a
+ouvert on a ouvert Paris alors qu'on
+était pas enfin on avait pas très bien
+compris ce qui était la valeur qui était
+perçu par nos clients et ce qu'ils
+aimaient dans Menu nextdor et cetera
+donc le reproduire dans une autre ville
+à distance c'était compliqué d'autant
+plus que gérer deux équipes dans deux
+villes différentes ça devient tout de
+suite ENF ça devent tout suite plus
+compliqué parce que bah tu dois prendre
+le train toutes les 5 minutes tu dois tu
+dois courir un peu partout et et tu es
+là en mode bon l'équipe à Paris elle est
+au top parce que je suis resté une
+semaine et puis tu te barres à Bruxelles
+et puis l'équipe à Bruxelles elle est au
+to par que je suis resté une semaine
+mais l'équipe à Paris elle est de
+nouveau un peu down c'est toujours un
+peu compliqué donc ce qu'il faut c'est
+arriver à trouver des des process qui
+fonctionnent euh toi aujourd'hui à part
+le truc de je connais pas je connais pas
+Lyon je suis pas musicien à Lyon
+qu'est-ce qui te fait flipp
+et quel moyen tu as pour tacler ce truc
+là quoi ce qui me fait flipper c'est par
+exemple de faire fausse route sur ce qui
+est vraiment les besoins à Lyon c'est ça
+en fait plutôt c'est de me dire ok je
+vais ouvrir des studios là-bas
+visiblement de ce que nous disent la
+data c'est le mieux c'est d'ouvrir un
+studio dans le centre et de l'ouvrir 24
+heur sur 24 parce que c'est quelque
+chose qui ne se fait pas et parce qu'il
+n'y a pas de studio dans le centre mais
+en fait ça se trouve je vais meer à un
+truc où du genre en fait les musiciens
+ils habitent tous en en en banlieu de
+Lyon et quand ils font de la musique ils
+font de la musique à côté de chez eux et
+c'est parce que personne n'habite en
+plein milieu de Lyon et que personne ne
+vient faire de la musique en plein
+milieu de Lyon quoi et me dire benah en
+fait j'ai ouvert un studio parce que
+c'est un investissement qui est
+considérable ouvrir un studio faut
+sonoriser les travaux tout
+ça et qu'en fait bah je me suis juste
+mais genre trompé de cible donc c'est
+c'est le genre de chose qui me qui me
+fait peur ou de me dire qu'en fait nous
+on fait ça pour les groupes donc de de
+tout style de musique mais qu'en fait la
+demande elle est plus des producteurs de
+rap qui veulent enregistrer avoir une
+cabine de ch tu vois donc c'est c'est
+comment comment j'arrive à à à trouver
+justement à vraiment cibler au mieux ce
+besoin pour être sûr d'ouvrir le studio
+qui correspond à la à la région lunis
+j'imagine qu'elle fonctionne bien
+différemment de celle de Paris ouais
+donc c'était quoi ton process à Paris
+quand tu as lancé ton premier studio euh
+quand j'ai lancé mon premier studio la B
+deson c'était très simple c'était
+c'était un peu différent en fait on
+était on était des potes on avait besoin
+d'un studio de musique et tout était
+trop cher à Paris et nous ce qu'on a
+fait c'est qu'on a mutualisé nos de coup
+juste pour faire baisser le prix des
+studios et pas avoir à payer des 20
+balles de l'heure
+donc
+après j'ai jamais réfléchi vraiment à
+ces process là en fait h c'est peut-être
+ça en fait genre en fait en fait c'est
+pas c'est pas c'est pas hyper compliqué
+dans dans le sens enfin si c'est très
+compliqué parce qu'il faut apprendre
+mais bon enfin c'est c'est notre job tu
+vois d'entrepreneur c'est d'apprendre en
+faisant quoi
+euh genre ce qui est intéressant à
+regarder c'est les les gens qui le font
+très très bien
+et le remettre en perspective avec ce
+que tu fais les gens qui ouvrent des
+villes le mieux aujourd'hui c'est uber
+genber ils sont ultra ultra bon à ouvrir
+des villes Airbnb aussi mais Airbnb il a
+un truc très particulier qui est que
+comme c'est des gens qui voyagent en
+fait tu as quelqu'un qui vient louer un
+Airbnb depuis la France à New York il
+revient en France il se dit mais
+pourquoi moi je peux pas louer mon
+appart tu vois donc cet effet de réseau
+qui est très fort chez Airbnb que toi tu
+as tu peux peut-être avoir mais qu' a un
+truc qui va se que tu vas observer avec
+le temps c'est impossible de le prédire
+tu vois mais donc si tu prends le beur
+en gros à la base ils ont ouvert une
+première ville puis ils ont ouvert une
+deuxième ville ça leur a pris 6 mois ok
+mais par contre ils ont pas juste ouvert
+une deuxième ville ils ont ouvert une
+deuxième ville et ils ont conçu le
+PlayBook pour ouvrir cette ville tu vois
+en même temps et c'est un truc qui est
+hyper important quand tu veux
+scaler géographiquement c'est ce que
+nous on faait aussi tu vois c'est
+comment tu fais pour Streamliner donc
+encore pareil tu vois ce qu'on parle de
+ce individuel dans le premier chapitre
+d' one Cancale c'est comment tu fais
+pour standardiser la façon dont tu
+travailles une certaine tâche ben en
+fait pour tu dois standardiser la façon
+dont Touvre une ville donc aujourd'hui
+tu as tu as deux manières de le faire
+pour toi qui sont un regarder comment tu
+as ouvert Paris ok te poser sur ah ouais
+mais c'est quoi le job quoi c'est quoi
+le job d'ouvrir une ville comment on l'a
+fait la première fois alors vous avez
+mis plus d'un an tu vois à ouvrir à
+ouvrir votre première ville et que ça
+tourne mais bon ça tourne maintenant
+aujourd'ui c'est c'est c'est solide
+combien ça te temps ça te prend de temps
+comme en terme d'opérationour ah ben
+maintenant ça me prend quasi plus rien
+en fait ça me prend 2h dem 3h par
+semaine juste pour aller faire le ménage
+quoi donc bord des nouveaux clients quoi
+donc là toi tu es tu es déjà tu es déjà
+donc tu es déjà dans une situation où tu
+peux te permettre de prendre du temps à
+faire d'autres trucs quoi carrément donc
+pose-toi la question quoi comment j'ai
+ouvert Paris c'était quoi les étapes et
+comment comment j'ai créé un PlayBook ce
+PlayBook il va être imparfait tu vois s
+tu vas être là en mode j'ai fait ça
+enfin c'est sûr que tu c'est un PlayBook
+qui te permet d'ouvrir une ville sur un
+an d'accord et la question c'est comment
+je fais pour ouvrir une deuxième ville
+et écrire un une deuxième version de ce
+PlayBook tu vois qui va inclure bah les
+trucs qui sont standard entre
+l'ouverture des deux villes tu vois
+genre ah j'ai ouvert Lyon ce qui était
+commun avec l'ouverture de Paris et
+l'ouverture de Lyon c'est ça ce qui
+était différent c'est ça h et en fait
+ber ils font ça ber ils ouvrent des
+villes donc à la base ils ont mis 6 mois
+ouvrir une deème ville puis 3 mois
+ouvrir la suivante puis 2 mois
+aujourd'hui ilsouvrent des ville en 48h
+ok parce qu'ils ont une équipe qui est
+dédiée à juste se poser la question de
+comment on fait pour ouvrir une ville le
+plus vite possible h et donc ouvrir une
+ville faut bien se rendre compte que si
+tu veux scaler du succès et pas juste te
+marrer à avoir des noms de ville sur ton
+site quoi ça implique que ça marche donc
+un des trucs que tu dois mettre en place
+c'est un réel objectif avec
+potentiellement une deadline de
+qu'est-ce que c'est une ville
+aujourd'hui qui marche pour moi c'est
+quoi pour pour est-ce que tu estimes que
+Paris ça marche aujourd'hui moi j'estime
+que Paris ça marche aujourd'hui ouais
+pourquoi ça ça marche parce que le taux
+d'occupation de la salle est quand même
+assez conséquent parce que le chiffre
+d'affaires est largement supérieur à ce
+queon a de charge et du coup on fait des
+bons bénéfices dessus euh et que et que
+j'ai plus besoin d'intenter d'action
+particulièr pour avoir de l'acquisition
+aussi donc les gens connaissent la
+marque euh ça on va dire enfin ça roule
+en fait fa dans dans dans l'idée dans
+l'idée ça roule donc moi c'est les les
+critères que j'ai en fait c'est je
+regarde bah voilà est-ce que est-ce que
+ça roule est-ce que ça grossit ça
+grossit encore ça grossit encore après
+bon on est toujours limité par le nombre
+d'heur qu'il y a dans une journée
+malheureusement sur des sur des business
+comme la location de salle donc plus on
+avance et plus les créneaux qui sont
+intéressants pour les gens les 18h
+minuit sont pris donc il y a toujours un
+moment où le palier bah un petit peu
+moins vite quoi enfin c'est plutôt comme
+ça donc
+là on en est on en est à ce moment-l où
+on arrive à une saturation où en fait
+les créneaux qui restent ça va être des
+créneaux de résidence de nuit ou des
+trucs comme ça ce qui est moins ouais
+moins moins utilisé quoi mais voilà pour
+moi c'est au moins me dire ok j'ai mes 7
+jours genre tous les soirs de la semaine
+qui sont pris sans que j'ai vraiment
+besoin d'intenter d'action marketing
+particulière que j'ai besoin de dépenser
+trop d'argent truc comme ça ok c'est le
+critère de sucè ça c'est un critère de
+succès d'une ville donc pose-toi la
+question de bah c'est quoi les étapes
+qui amènent à cette situation là quoi OK
+et après bah il y a pas de secret hein
+genre si tu veux le faire à Lyon que ça
+te prend que 2h dem 3h par semaine de
+gérer Paris bah bouge à Lyon et observe
+le marché genre en fait tu peux très
+bien refaire le même truc peut-être que
+tu as dans ton PlayBook une phase
+d'observation de quels sont les les les
+habitudes de de de ta cible à cet
+endroit-là tu vois et te poser la
+question de bah c'est quoi les
+paramètres que je dois prendre en compte
+pour ouvrir une ville mais c'est trucs
+qui vont venir à pror tu vois genre tu
+vas pas genre surtout écris pas le
+PlayBook de Lyon avant d'avoir ouvert
+Lyon par contre attends-toi à ce que
+ouvrir ta deuxè ville ça te prenne quand
+même plus de temps qu'ouvrir ta 10e
+c'est sûr tu vois donc c'est pas grave
+si tu passes du temps par contre il faut
+que tu te poses la question constamment
+de ok là euh bah tu vois si tu veux
+savoir s'il vaut mieux ouvrir en
+centrre-ville ou s'il vaut mieux
+targetter les groupes ou les producteurs
+de rap h demande-leur quoi annonce que
+tout ouvre à Lyon de toute façon c'est
+pareil tu vois c'est con concept est-ce
+que tu vas ouvrir un studio sans savoir
+si une seule personne va va va acheter à
+Lyon tu peux le vérifier genre tu as
+quand même plus de chance d'avoir un
+product market fit maintenant que tu
+sais ce que tu fais que tu as une vra
+value proposition qui marche déjà à
+Paris et cetera donc annonce-le tu vois
+tu peux très bien commencer à l'annoncer
+aller à Lyon ça ressemble à un cycle en
+fait finalement c'est le même cycle
+quand tu commences à entreprendre
+exctement ok d'accord m vent comme ça
+des armes qui sont beaucoup plus
+puissantes que quand tu as démarré tu
+vois tu es là enfin tu peux venir voir
+un mec lui dire j'ai une idée on va
+ouvrir peut-être un studio tu lui dis
+bah on a déjà x studio à Paris on
+voudrait le refaire à Lyon mais on veut
+être sûr qu'on le fasse bien pour vous
+et on veut vous parler à vous les
+musicos
+euh qu'est-ce que vous voulez quoi tu
+vois ok trop cool vous voulez quoi et en
+fait là tu vas déterminer des des trucs
+qui sont peut-être différents à Lyon et
+c'est là que le cette histoire de
+PlayBook d'ouverture intervient c'est
+qu'en fait tu vas dire bon benah en fait
+la différence entre la culture musicale
+à Paris et à Lyon c'est tel truc truc
+tel truc tel truc c'est vrai qu'il y a
+ça aussi la culture musicale
+effectivement d'un ville pas façon de
+toute façon quand tu vas que tu ouvres
+euh géographiquement dans une autre
+ville ou dans un autre pays tu vas te
+heurter en gros à deux gros problèmes
+qui sont le changement de culture ouais
+et le changement de loi ok grosso modo
+tu vois alors à Lyon c'est pas vrai
+parce que c'est ça reste la France tu
+vois mais par exemple si demain tu es un
+e-commerce et tu veux ouvrir euh à tes
+enfin tu veux permettre de vendre tes
+produits en Italie tu vas avoir des
+frais de douane tu vas avoir des trucs
+comme ça tu vois tous ces petits trucs
+là auquels tu penses pas forcément et
+qui du coup te te mettent des freins
+auquels tu dois penser et donc si tu
+prends ces trucsl genre culturellement
+ça veut dire quoi d'ouvrir des studios à
+Lyon et de résoudre vraiment leurs
+problèmes culturellement ça veut dire
+quoi tu des studios à Paris et que tu te
+prends je sais pas moi 6 mois pour dire
+je veux que dans 6 mois je sois au même
+point à Lyon qu'à Paris c'estàdire que
+ça tourne ok tu vas te démerder pour le
+faire tu es un entrepreneur tu vois tu
+vas tâtonner tu vas tester les trucs tu
+vas parler au g tu vas améliorer ton
+produit tu vas lancer un premier studio
+vous tes en train de lever des fonds
+donc tu vas pouvoir le faire sans être
+en mode je ENF tuas la force de frappe
+pour le faire teste-le it TER dessus et
+quand tu arrives à ce point de succès
+pose-toi en rétrospective et demande-toi
+bon ok qu'est-ce que ça a appris
+d'ouvrir Lyon c'est quoi les différences
+avec Paris et pour ma trisème ville
+comment je vais faire pour utiliser ce
+PlayBook là et l'améliorer plus vite et
+aller plus vite ok d'accord et c'est ça
+la la meilleure technique que alors
+après bon c'est ça reste de la théorie
+tu vois ça reste de la théorieouis
+j'imagine qu'en pratique il va se passer
+plein de trucs inattendus comme mais je
+pense que le le la clé de ce Tru c'est
+vraiment d'aborder l'ouverture d'une
+ville avec humilité ce que nous on n pas
+fait chez MEnu next d'or par exemple tu
+vois euh on est arrivé en mode on a
+compris comment ça marchait à Bruxelles
+les Parisiens ils sont pas tellement
+différents culturellement donc ça va
+c'est pas faux enfin tu vois genre enfin
+fondamentalement tu parles la même
+langue enfin c'est comme capitale ça
+reste de grandes capital c'est des gens
+qui vivent en ville machin et en fait tu
+te rends compte que entre Bruxelles où
+les gens ils sont 1 million à Bruxelles
+il y a 100 millions de personnes à Paris
+euh enfin à
+Paris grande zone quoi déjà ça fait une
+énorme DIF ouais carrément genre rien
+que dans la vie de tous les jours et
+c'est pour ça que ça vaut le coup aussi
+de te déplacer ou alors de trouver un
+local qui va pouvoir te raconter tu vois
+nous à Londres on avait fait ça on avait
+pris Tony qui était notre Country
+Manager UK et donc le gars était local
+tu vois de au lieu d'aller vivre 6 mois
+et de comprendre la culture toi-même
+d'avoir quelqu'un qui te raconte tu vois
+mais donc on on avait pas fait ça quoi
+quand on a ouvert à Paris une des
+grosses différences c'est que moi quand
+je vais à Bruxelles aujourd'hui je
+croise des gens dans la rue que je
+connais tu vois ok à Paris ouais tour
+the family c'est pas pareil du tout
+ouais c'est pas pareil tu vois à
+Bruxelles je sais pas enfin tu vois le
+monde de la teuf par exemple à Bruxelles
+tu vas en boîte tuas tu as quatre
+grosses bonnes boîtes quoi à Bruxelles
+tu croises forcément quelqu'un que tu
+connais qui en soiré en même temps que
+toi par parce que parce que parce que la
+ville est petite et parce que parce que
+la la taille humaine le permet quoi
+exactement à Paris mec je vais en boîte
+je connais son per tuis ouis la
+probabilité pour que tu rencontes
+quelqu'un que tu connais elle est
+beaucoup plus faible que veux dire ex
+donc tu vois donc déjà ça c'est un truc
+après à Bruxelles il y a un phénomène
+culturel qui est intéressant qui est
+que alors il une espèce de paradoxe tu
+vois chez les politiques en Belgique qui
+est que ils veulent absolument réduire
+le nombre de voitures parce que ça
+pollue et que ça fout le bordel dans les
+villes h en même temps ils mettent des
+primes aux entreprises pour donner des
+voitures de fonction donc bon le
+serpentement la queue au-delà de ce truc
+ça fait qu'en fait il y a beaucoup de
+gens qui ont des bagnoles de fonction et
+tout le monde roule en bagnole à
+Bruxelles le métro si tu caricatures
+c'est une grande croix sur Bruxelles
+donc si tu habites là ou là d'accord ça
+c'est des choses que tu peux même pas
+vraiment savoir si tu es pas finalement
+là-bas ou tu as pas été ou qu'on t'a pas
+raconté en tant que lo Etas pas
+exactement tu vois et en fait ça ça
+impliquait quoi pour menu nextor ça
+impliquait que bah les il rentrait du
+travail et aller chercher un plat à 1 km
+de chez eux c'était juste un détour de 2
+minutes en bagnole c'était ok à Paris
+aller chercher un plat à deux stations
+de métro l'enfer tu vois tu dois faire
+un changement ça veut dire que tu dois
+reprendre le métro dans l'autre sens
+enfin vraiment ton détour il a pas du
+tout la même gueule et dans les
+habitudes de des gens c'est pas du tout
+le même tu vois et on a sous-estimé ça à
+fond parce qu'on est arrivé en mode
+ouais c'est bon on a pigé on a notre
+product market fit déjà à br Bruxells on
+sait comment le refaire à Paris et en
+fait non en fait non à Paris céit ça on
+aurait enfin c'était beaucoup plus local
+on avait quelques chefs qui marchaient
+mais c'était compliqué parce que les
+gens sont aussi plus difficiles en terme
+de bouffe et cetera donc vraiment il
+faut que tu arrives toi à déterminer la
+la c'est pas un framework tu vois je je
+je suis très obsédé en ce moment par
+cette bah par justement pas par les
+framework mais par le niveau auudessus
+qui est les matrices ok d'accord et donc
+vraiment je discutis ça avec avec Momo
+qui est un des des user coup d'État
+avantti là et il me dit ouais mais mec
+je disais moi les framework ça me gonfle
+tu vois ça me gonfle parce que c'est
+toujours des gens qui disent regardez
+moi j'ai réussi à le faire comme ça donc
+faitesle pareil ça va
+marcher non ça ne marche pas comme ça on
+est des personnes différentes dans des
+contextes différents et il me dit mais
+en fait le niveau audessus ce que tu
+essayes de faire toi c'est des
+matrices ok c'est intéressant et
+pourquoi c'est intéressant parce que une
+matrice
+c'est un framework pour faire des
+framework tu vois ça paraît très
+théorique machin mais c'est pas bien
+compliqué niveau d'abstraction très
+élevé mais par contre c'est pas c'est
+pas très compliqué à comprendre en
+pratique c'est un un une matrice c'est
+vraiment juste un framework avec des
+curseurs h tu vois et donc toi ce qu'il
+faut que tu arrives à créer c'est quels
+sont les curseurs qui font que que je
+vais pouvoir ajuster en fonction de la
+Culture de la Ville d'accord tu vois ok
+donc je vais lancer Lyon quels sont les
+curseurs que je dois absolument prendre
+en compte quand je lance une ville pour
+comprendre comment aborder le lancement
+de cette ville ok tu vois les curseurs
+ça va peut-être être euh à Paris euh il
+y a euh beaucoup plus de gens qui
+enregistrent en groupe que de gens qui
+vont faire du rap c'est quoi le tu vois
+c'estutêre un curseur de c'est quoi le
+nombre moyen de gens qui vont venir
+faire une session h ok tu vois ça peut
+être aussi les horaires ça peutê aussi
+ça peut être les horaires c'est plus une
+une population qui enregistre la nuit
+c'est plus une population qui enregistre
+la journée c'est plus en périphérie de
+la ville c'est plus en centre de la
+ville c'est vrai que même le moyen de
+déplacement en fait il est aussi assez
+intéressant nous par exemple les
+musiciens à Paris ils déposent leur
+matos dans les studios la majorité du
+temps parce qu'ils veulent pas se le
+train baler dans le métro peut-être qu'à
+Lyon la majorité des gens sont comme à
+Bruxelles et utilisent une voiture et du
+coup on aura peut-être pas forcément ce
+genre de problématique et ça c'est des
+truc qu'il faut que tu découvres et en
+fait ouvrir une ville c'est un job qui
+est passionnant parce que c'est un job
+de designer en fait genre c'est vraiment
+toobserve c'est quoi les comportements
+des gens tu vois ah mais qu'est-ce
+qu'ils font c'est quoi la journée type
+de de de mes trois musiciens types tu VO
+genre dresse des personn enfin c'est
+vraiment la même chose qu' au début à
+une exception près c'est que tu fais pas
+partie de la CBE vraiment et donc il
+faut que tu arrives à détacher tes
+besoins à toi de leurs besoins à eux de
+le regarder avec un œil neutre et de te
+poser la question de bah c'est quoi les
+curseurs que je dois définir avant de
+déjà les placer tu vois et qu'est-ce qui
+est important pour moi pour arriver à un
+tel niveau de succès et évidemment ta
+deuxième B ça va te prendre plus de
+temps que ta trème au-delà des curseurs
+qui sont des des des choses variables il
+y a quand même des constant tu penses ah
+c'est sûr il y aura toujours des
+constantes ok il y aura toujours des
+constantes je connais pas assez ton
+marché pour savoir lesqu tu vois mais tu
+as toujours des constantes ENF genre
+nous chez MEnu next par exemple c'était
+que les gens ils aimaient la bonne
+bouffe tu
+vois tu targetes les bons vivant tu
+targettes les gens qui sont là pour bien
+manger pour pas trop cher céit c'était
+une de nos une de nos targets tu vois
+c'est un truc qui qui changeit pas donc
+ça veut dire que la population
+finalement elle est dans des quartiers
+souvent un petit peu plus riches un
+petit peu plus un petit peu plus j'aime
+pas le mot valise mais bobo tu vois ça
+c'était des constantes c'est genre
+comment et du coup ça veut dire attaquer
+une ville la constante c'est qu'on va
+devoir trouver le quartier qui est
+adapté à la culture menu nextor et le
+faire grossir à partir de là tu vois
+c'était une des constantes qu'on avait
+évalué après je te dis ça à postéiori on
+a jamais fait un PlayBook et on a
+vraiment ouvert comme des brutes et
+c'était nimp tu vois mais bon si c'était
+àaire tu ferais ce genre de chose cétait
+à refaire je ferais ce genre de chose
+mais en noubliant pas que le PlayBook
+pas la priorité la priorité c'est de
+faire marcher ta ville d'acc ok peu
+importe si c'est le chaos tu vois ce que
+tu me dis sur les gens ils m'ont envoyé
+des SMS et ils enregistr il faisent le
+réservation comme ça et puis il fallait
+que j'aille ouvrir à 3h du Matth parce
+que j'avais pas la clé machin c'est le
+chos aujourd'hui tu auras pas à refaire
+ces actions là parce que tu sais déjà tu
+les as déjà skalé tu vois par contre il
+y a des actions que tu vas devoir
+refaire quoi la façon dont Touvre un un
+studio comme tu dis tu es pas sûr si tu
+es pas sûr bah deviens bien sûr et
+ensuite fais-le quoi sinon tu t'exposes
+à au même problème que quand tu lances
+ton business pour la première fois
+c'està-d à faire un truc qui intéresse
+personne quoi ouis ouais il y a vraiment
+cette notion de cycle en fait finalement
+il y a cette notion de cycle une boîte
+c'est que ça une boîte c'est vraiment
+que des cycles quoi genre au début quoi
+pas eu comme ça tu tu enin vraiment
+c'est c'est c'est monter une boîte c'est
+bah générer des enfin imaginer un
+produit qui résout un problème quoi
+générer des leads pour ce intéressent
+prendre leur feedback améliorer l'idée
+jusqu'à ce que ce soit suffisamment
+intéressant et puis ensuite construire
+la première version prendre du feedback
+deuxème version prendre du feedback 3ème
+version ça te fait ta boucle de feedback
+comment tu améliores ton offre quoi et
+en parallèle tu vas mettre augmenter tes
+leads tu vas mettre convertir plus de
+vente ce qu' est des opérations et CER
+ok ça ça me parle beaucoup cette image
+de parallèle en fait parce que
+finalement tu vas avoir tes trucs
+d'augmenter les lites bon bah ça c'est
+assez général on va dire de le faire
+constamment tu vois et en parallèle tu
+vas vraiment avoir ce cycle là qui va
+être pour chaque et du coup chaque ville
+va avoir son propre cycle de de ok je
+comprends enfin en tout cas c'est l'idé
+que je m'en fais pour l'instant l'idé
+que t'en fais et après tu vois genre ça
+vaut le coup aussi de trouver quelqu'un
+éventuellement sur place tu vois qui qui
+va être passionné de musique qui va être
+une des PIST que j'avais effectivement
+avec qui tu vas pouvoir le faire parce
+que c'est un job que aujourd'hui c'est
+très difficile parce que il y a que toi
+qui peux le faire parce qu'il y a que
+toi qui a le background de Paris qui
+donc peut comparer commencer à mettre en
+place ces trucs là peut-être que tu peux
+trouver quel quelqu'un qui est vraiment
+Smart sur place qui va te suivre dans
+toute cette démarche là qui va t'aider
+machin et tu vas pouvoir lui expliquer
+l'historique et tout ça et que cette
+personne là elle pourra faire tourner la
+ville après toi ou au contraire prendre
+le relais et aller ouvrir d'autres
+villes tu vois mais ça vaut le coup de
+transmettre ce skill là c'est un skill
+qui est qui est peu utilisé qui est un
+skill de faire et en même temps
+structurer ce que tu fais ok tu vois ce
+qui est notre truc d'entrepreneur en
+fait c'est ce qu'on fait tous quand on
+veut monter des des boîtes qui un
+minimum c'est comment on fait pour pas
+juste faire le job mais se poser la
+question de qu'est-ce que c'est le job
+ok comment je le package pour que
+quelqu'un d'autre puisse le faire à ma
+place c'est là où commence en fait tout
+ce qui est ressources humaines et ce
+genre de choses et la construction d'une
+team en fait ex et la construction d'une
+team mais qui qui pour moi cette team
+enfin si tu veux ach fa des trucs
+exceptionnels quoi il faut que cette
+team elle soit libre et qu'elle soit
+autonome tu vois genre moi c'est ce que
+je dis tout le temps à la team coup
+d'État euh enfin moi je Nerine on a fait
+sa rentrée il y a 2 jours
+là
+euh je lui dis écoute tu enfin nine elle
+fait le contenu chez coup je lui dis
+écoute c'est ta boîte quoi genre ta
+boîte c'est une boîte de prod et il faut
+que tu nous fasses les meilleures vidéos
+possibles tu vois Anaï la communauté
+c'est sa boîte tu t'occupes de faire du
+C et tu t'occupes de de de de faire en
+sorte que les gens ils se régalent ça
+scale pas du tout et tu vas scaler tout
+très très très progressivement mais
+c'est ta boîte fais-toi kiffer quoi uit
+c'est la mme chose tu vois et toutes mes
+fuses tendan à à essayer de contrôler ce
+qu'il font un par un j'essaie de les
+casser au maximum parce que c'est en en
+laissant les gens libres et responsables
+de ce qu'ils font que tu crées des
+vraies organisations qui fonctionnent tu
+as vraiment de challenge en même temps
+tu vois et c'est compliqué mais c'est
+pas si dur c'est pas si dur parce que
+maintenant que je t'ai dit tout ça laiss
+dans un coin de ta tête fais le truc
+prends les opportunités ve ta live quoi
+genre fais grossir ta boîte fais marcher
+cette ville et à postéiori comm tu
+commences tu commences à structurer un
+minimum et cetera h mais jamais jamais
+structuré en amont quoi ça marche jamais
+c'est c'est c'est ce fameux truc de
+prémature scaling don dont on parle dans
+le dans la saison 1 c'est ça ouais ok d'
+exement et c'est etess c'est pas de
+enfin genre c'est un conseil qu'on donne
+tout le temps dans anyone can scale quoi
+ne standardise pas un truc que tu as que
+tu as pas compris ou qui marche pas ça
+sert à rien tu vois standardise moi un
+truc où ça cartonne tu vois h genre
+enfin ouais genre c'est c'est le truc le
+plus important quoi c'est
+que t'attaqu pas à structurer un truc
+qui marche pas jamais ok d'accord ouais
+c'est hyper intéressant il y avait pas
+mal de choses que j'avais pas vu de cet
+angle là euh qui me permettent d'en voir
+d'autres et c'est c'est c'est c'est
+hyper cool je pense que tu as raison je
+vais déjà commencer là-dessus essayer de
+travailler en fait faudrait même que
+j'allais vraiment à Lyon voir déjà ce
+qui se passe jouer avec des musiciens
+là-bas finalement en fait tu vois le
+studio quand je l'ai commencé j'ai
+commencé surtout à le remplir parce que
+j'allais jouer avec les AICOS j'étais en
+école de musique c'était facile dans les
+jams ah j'ai un studio on va jouer après
+ça devient des clients donc peut-être un
+truc pareil aussi moi je pense tu peux
+refaire ça he ouais ça me fera kiffer en
+plus c'est de la balle tu vois c'est
+trop c'est trop bien tu voir des bières
+avec avec des gens des gens là-bas et on
+va de la musique enfin tu as envie de
+les aider à pouvoir faire de la musique
+mieux ils vont être contents enfin ouais
+c'est cool teste ça quoi obser observe
+ton ton deuxième marché et et avance
+quoi mais tu vois genre toutes ces peurs
+de est-ce que ça va pas marcher et
+cetera
+elles sont là à raison parce que tu sais
+he genre tu enfin tu as la bonne
+approche ça fait un an que tu fais ce
+truc moi je vois ta progression c'est un
+délire tu vois chaque fois je suis là
+genre [ __ ] je suis fier de toi tu vois
+c'est trop bien et et donc tu sais ta
+peur elle vient pas de nulle part c'est
+pas juste une peur irrationnelle ton
+instinct il est bon ce qui est pas
+toujours le cas chez les entrepreneurs
+mais là ton instinct il est bon bah
+éliminea quoi éliminea et la seule
+manière d'éliminer de la peur c'est
+d'avoir de l'
+ok trop
+cool non mais en c'est ça l'idée quoi
+genre en vrai de quoi les gens ont peur
+les gens ils ont toujours peur de ce
+qu'ils connaissent pas tu vois ouais
+c'est vrai genre les gens les plus
+racistes les gens qui voient jamais VO
+jamais un renois dans leur life tu vois
+qu' connaissent pas en
+fait quand tu connais pas tu as peur
+c'est la désinformation qui fait la peur
+ouais bah du coup informe-toi apprends
+des trucs sur comment Lyon fonctionne et
+tu vas voir que ça va tout de suite
+devenir plus naturel quoi plus plus
+limpide et tout ça OK et ça se
+streamline l ce que tu vas faire
+naturellement à jouer avec des IOS et
+boire des bières sur ta troème ville tu
+sauras déjà alors qu'est-ce qu'on
+cherche quoi qu'est-ce qu'on cherche
+comment on étudie paf paf paf paf ta
+trème ville tu l'ouvriras en de mois tu
+vois ouais serait cool serait énorme je
+vois le truc une chose à la fin ouais
+ouais ok super merci beaucoup plir me et
+puis Bage merci à toi
+[Musique]

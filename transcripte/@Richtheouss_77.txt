@@ -1,0 +1,172 @@
+dans ce module SEO j'ai pas mal parlé
+des différentes balises qu'on allait
+utiliser bah en SEO pour remonter dans
+les résultats de recherche c'est la
+phase qui suit le le le fait d'avoir
+trouvé les quel mots clés sur lesquels
+se placer euh derrière il va falloir
+réussir à remonter dans les résultats
+une des manières de faire ça
+correctement c'est d'avoir les mots-clés
+qui sont repérables par les robots de
+Google efficacement et donc pour ça vous
+allez très souvent entendre parler dans
+vos recherches sur le SEO et et et les
+différents tutos que vous allez pouvoir
+lire au fur et à mesure de balises méta
+et ces balises méta on va voir ensemble
+ce qu'elles sont donc en fait ici on est
+sur le site de coup d'état et donc on va
+pouvoir aller voir si on fait view page
+source ici on va pouvoir voir le code
+source qui a créé la page web de ce de
+ce site en question et ici en fait donc
+vous avez une grosse partie ici qui qui
+est définie entre les balises HEAD comme
+ça et la balise slash head donc tout ça
+c'est vraiment genre tous les les
+entêtes qui sont envoyées au site et
+toutes les infos qui sont pas vraiment
+dans la structure du site mais qui sont
+des informations méta par rapport au
+site et donc vous voyez qu'il y a plein
+d'infos donc c'est des choses que nous
+on a mise volontairement sur coups
+d'État donc par exemple vous voyez les
+og titles de Facebook ça c'est ce qui
+permet quand vous partagez sur facebook
+d'avoir une image spécifique avec un
+titre spécifique et cetera ce Twitter
+aussi vous avez le code du Facebook
+pixel vous savez ce que c'est si vous
+avez regardé le module sur les social
+ADS vous avez le le le le code de
+Analytics et donc donc vous avez
+évidemment des balises qui sont comme
+cellees-ci la balise TITLE donc ici vous
+avez plusieurs balises qui sont
+intéressantes et qui vont vous permettre
+de comprendre comment une page web est
+construite la première chose qu'une page
+web fait c'est la balise TITLE donc
+cette balise TITLE une balise HTML c'est
+toujours comme ça c'est toujours un
+petit chevron ouvert un nom et un petit
+chevron fermé et c'est des noms standard
+c'est ce qu'on apprend quand on apprend
+à coder ici donc la balise TITLE elle
+contient un seul mot c'est coup d'État
+d'ailleurs on le voit ma page est
+ouverte juste ici et donc c'est le mot
+qui apparaît ici si ma Balis title
+c'était coup d'État tiit apprendre à
+entreprendre et ben ici dans mon onglais
+il y aurait écrit coup d'État tiit
+apprendre à entreprendre ce truc c'est
+le titre qui va être repris par Google
+quand vous allez taper des requêtes
+spécifiques donc si par exemple je vais
+sur Google maintenant et que je tape
+coup d'État et ben vous voyez bien que
+c'est coup d'État le titre qui est là et
+ensuite vous avez donc ça c'est la
+première chose c'est la balise TITLE là
+ce qu'on voit c'est que la balise méta
+description elle contient un texte avec
+écrit découvre les clés du succès de
+l'entrepreneuriat en vidéo et ça et ben
+en fait c'est ce qui va être repris dans
+la recherche Google juste en dessous du
+title donc coup d'État décou CR de
+l'entrepreneuriat en vidéo et en fait
+tout ça bah ça vous permet de bien
+comprendre que Google bah il vient
+scanner en fait juste ce code et qui dit
+bon ben voilà le title c'est ça je vais
+prendre ça pour l'indexer dans Google la
+métaadcription c'est ça je vais
+l'indexer dans Google de cette
+manière-là et puis il y a plein plein
+plein d'autres choses qui vont venir
+définir euh le le le le contenu de votre
+page d'une manière plus précise par
+exemple on va parler des balises H1 donc
+ici vous voyez donc si je reviens sur ma
+page d'accueil de coup d'état quand on
+n'est pas connecté et ben ici il y a
+écrit coup d'État spécial covid-19 c'est
+notre premier titre c'est le premier
+gros titre qui apparaît sur coup d'État
+et ici bah ce gros titre il est défini
+par une balise qui est H1 H1 c'est
+header one et c'est bah le titre le plus
+important le titre qui est le le un peu
+moins important c'est H2 puis H3 puis H4
+puis H5 puis H6 et en fait la hiérarchie
+de ces
+HN va vous permettre de définir pour
+Google Quelle est la hiérarchie des
+contenus et des mots-clés que vous allez
+mettre en avant donc on sait qu'ici le
+motsclé coup d'État spécial covid-19 euh
+bah c'est vraiment le truc dont cette
+page parle alors c'était volontaire au
+moment où je tourne cette vidéo parce
+que notre but c'est de faire de la promo
+pour coup d'État covid-19 au maximum
+mais il faudrait que ce serait mieux si
+les clé était plus adapté sur d'autres
+sujets là je parle de la page générale
+de coup d'état la landing page générale
+de coups d'État mais si on fait des
+landing page spécifique sur par exemple
+comment monter sa boîte et ben c'est sûr
+que dans mon H1 j'aurais écrit un truc
+comme comment monter sa boîte et que
+dans ma Mad description j'aurais écris
+un truc sur comment monter sa boîte
+aussi tu vois parce qu'en fait bah tous
+ces mots clés là plus ils sont repris
+dans des balises qui ont une hiérarchie
+élevée bah plus ils sont considérés
+comme importants quand Google vient
+scanner le code voilà c'est à peu près
+tout ici on a un H H3 il y a pas
+beaucoup plus à comprendre que ça donc
+ce qu'il faut bien comprendre c'est que
+quel que soit l'outil que vous allez
+utiliser pour créer votre site web que
+ce soit squarespace ou ou codz vous-même
+à la main ou n'importe quoi vous allez
+avoir forcément du code derrière votre
+page web et ce code là bah les balises
+qui sont importantes c'est la metta
+title et la MTA description d'ailleurs
+nous on l'a deux fois c'est pas malade
+j'ai pouvoir fixer ça ça illustre bien
+que bah c'est un travail qui est
+constamment en cours c'est un travail où
+il faut se poser la question
+régulièrement de quel mot clé on veut
+mettre en avant faire des updates sur
+son site web pour savoir bah comment
+Google va va lire notre page web comment
+il va l'indexer et donc sur quel mots-
+clé il va essayer de mettre en avant ça
+c'est le fonctionnement des balises HTML
+dans une page web je pense que vous
+aurez pigé l'idée c'est pas très
+compliqué à comprendre il faut juste
+vraiment se poser la question de comment
+Google va lire votre page parce que
+c'est comme ça que vous allez ramonter
+dans les résultats c'est comme ça qu'on
+fait du SEO en tout cas en partie la
+plus grand partie c'est quand même
+d'écrire du contenu pertinent et que
+l'expérience des gens soit bonne une
+fois qu'ils ont cliqué sur votre sur
+votre quête Google mais tout ça bah ça
+vous donne quand même pas mal les outils
+je pense pour vous y mettre voilà bon
+courage Ciao

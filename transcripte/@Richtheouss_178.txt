@@ -1,0 +1,314 @@
+bonjour bienvenue dans anyone can scale
+séance numéro 3 alors aujourd'hui on va
+voir un sujet hyper important qui est
+l'intégration des nouveaux membres dans
+l'équipe l'intégration et au management
+ce que l'onboarding et au
+produit souvent les designers ont un
+rêve un peu amusant un peu naïf au début
+quand ils font du produ development
+c'est de croire qu'il existe des
+interfaces naturellement simples
+d'utilisation et que il existe exe une
+interface suprême qui a pas encore été
+découverte que n'importe quel enfant de
+4 ans verrait et serait utilisé
+immédiatement et naturellement sans
+aucun apprentissage ce qu'on ne voit pas
+dans les produits c'est que la plupart
+des produits ont des onboarding et
+surtout répondent à des réflexes et des
+ux qu' ont déjà été appris ailleurs tout
+a une learning curve et cette learning
+curve a besoin d'être explicite la
+meilleure façon d'augmenter la rétention
+d'un produit est d'améliorer
+l'onboarding utilisateur R les
+utilisateurs addictes à l'utilisation de
+du produit augmente la chance qu'ils
+auront d'utiliser ce produit et B dans
+le management c'est exactement la même
+chose l'onboarding c'est 80 % de la
+réussite d'une intégration dans une
+équipe et l'barding doit être pensé
+comme un produit alors pourquoi d'abord
+parce que c'est la première interaction
+avec votre entreprise alors chacun a son
+mode d'onboarding par exemple à the
+family on a un boarding assez amusant
+qui un onboarding où on te met au bord
+d'une falaise on te jette dans le vide
+on voit si tu te démerdes et si tu
+arrives à survivre à ce truc tu es
+membre de l'équipe c'est le management
+du non scale pourquoi the family on peut
+se permettre de faire ça tout simplement
+parce qu'on a pas besoin de scaler et on
+a juste besoin de sélectionner des gens
+extrêmement autonomes extrêmement
+entrepreneurs et extrêmement indépendant
+donc tout ce qu'on pourrait faire pour
+augmenter leurs chance d'onboarding
+serait finalement toxique pour notre
+produit the family mais vous tous qui me
+regardez aujourd'hui vous avez le
+problème inverse vous ne pouvez pas vous
+permettre de rater l'onboarding de
+quelqu'un et vous ne pouvez pas vous
+permettre de prendre le meilleur de
+chacun donc il faut penser l'onboarding
+dès le premier jour alors les bons
+onboarding employés reposent sur trois
+secrets très simples secret numéro 1 les
+gens doivent faire du travail dès le
+premier jour tous les onboarding de boî
+de the family qui préparent au travail
+plus tard sont en général des onboarding
+qui sont stressants pourquoi parce que
+c'est un peu comme monter sur scène et
+avoir le track être préparé pour un
+travail qui vient c'est en général
+augmenter l'angoisse il faut savoir ce
+phénomène psychologique extrêmement
+important que tous les humains ont on
+stresse beaucoup plus à l'annonce d'une
+chose qu'à la réalisation de celle-ci
+par exemple on est beaucoup plus stressé
+d'attendre les résultats du bac que de
+voir qu'on a eu une mauvaise note on est
+beaucoup plus cablé à gérer la
+difficulté qui est directe et dans
+l'action que de gérer l'attente d'une
+difficulté éventuelle si votre
+onboarding repose sur une semaine ou 15
+jours de découverte où les gens vont
+apprendre des choses en dehors de leur
+métier vous allez les mettre dans
+l'angoisse de est-ce que je suis à la
+hauteur du métier pour lequel on m'a
+embauché est-ce que je suis à la hauteur
+de cette entreprise donc tout onboarding
+qui se respecte est un onboarding qui
+est fondé avant tout sur le fait de
+réaliser du travail et de réaliser
+quelque chose de concret jour 1 par
+exemple Facebook a pour comme a comme
+règle que n'importe quel développeur
+embauché chez Facebook commite un bout
+de code en prod dès le premier jour
+d'arrivée imaginez vous êtes embauché
+chez Facebook il y a des milliers de
+gens autour de vous il y a une ambiance
+incroyable il y a une boîte qui a des
+milliards d'utilisateurs et on vous fait
+commit du code qui est mis en prod dès
+le premier jour même si ce code est tout
+petit même s'il est anecdotique même si
+c'est juste un bug à corriger vous
+rentrez chez vous avec l'impression de
+déjà faire partie de la famille Facebook
+et ben c'est exactement la même chose
+dans toutes les start-ups faire faire du
+travail dès le premier jour c'est le
+meilleur moyen de s'assurer que les gens
+sont dans la partie la deuxième r d'un
+onboarding c'est qu'un onboarding n'a
+pas lieu dans un temps limité un bon
+boarding ça prend 6 mois pourquoi il y a
+des phases d'accoutumance vous avez
+besoin d' découvrir l'entreprise au fur
+et à mesure et cette information ne peut
+pas venir par exemple les très très
+mauvais onboarding de the family sont
+souvent fait par des gens intelligents
+et ingénieurs qu'est-ce qu'ils font ils
+écrivent toute la boîte dans 200 pages
+ils disent aux gens qui arrivent voilà
+j'ai écrit 200 pages qui expliquent tout
+tu lis ça tu auras tout compris et les
+gens prennent toute cette information
+retiennent un/ers de l'info angoisse de
+tout ce qu'ils ont pas retenu et
+commencent à jamais savoir s'ils sont
+dans l'action ou pas c'est comme tout
+vous avez besoin de progressivité vous
+avez besoin de comprendre que les gens
+vont être de plus en plus à l'aise et
+donc ils vont pouvoir accéder à de plus
+en plus d'infos et 3è secret de
+l'unboarding éviteer d'unboard
+l'ensemble des outils SAS en D one
+grosso modo aujourd'hui dans toute
+start-up on a des milliers des centaines
+d'outils qu'on utilise dans l'entreprise
+vous allez scaler vous vous allez
+embaucher des gens qui ne sont pas
+forcément startup compatibles un de vos
+plus grands challenges c'est de réussir
+à embaucher des gens qui n'ont jamais
+travaillé dans une start-up avant parce
+que vous n'allez pas pouvoir aller à
+1000 salariés 2000 salariés 5000
+salariés dans un pays comme la France en
+aayant que des gens qui ont des
+expériences start-up et l'une des choses
+les plus angoissantes quand vous n'avez
+jamais travaillé dans une start-up c'est
+de faire face à des dizaines et des
+dizaines d'outils SAS que vous ne
+comprenez pas et que vous avez av
+l'impression que tout le monde utilise
+comme des sorciers alors faites le
+travail déjà de simplifier votre stack
+peut-être que vous avez pas besoin de 10
+outils mais seulement d'un et ensuite
+faites en sorte que l'intégration sur
+l'ensemble de ces outils se fasse au fur
+à mesure vous devez penser les 6
+premiers mois de Tod ou les trois
+premiers mois toutd comme un processus
+d'initiation pour rentrer dans le rythme
+et être de plus en plus productif d'où
+le fait que le productivité du corps
+activité soit votre première tâche parce
+que quand les gens sont direct dans
+l'action ensuite tout le reste c'est de
+l'extra et ils peuvent petit à petit
+comprendre où ils sont comprendre le
+contexte comprendre la stratégie
+comprendre la Big Picture comprendre la
+vision il vaut mieux faire comme ça son
+onboarding partir de la tâche précise
+pour laquelle on a été embauché la
+maîtriser et élargir son champ de
+confort de compréhension et de
+compétenence plutôt que de faire
+l'inverse or la plupart des zboarding
+que je vois qui sont en général raté
+font l'inverse on commence par la Big
+Picture de l'entreprise on commence par
+la vision les gens arrivent comprennent
+rien comment ils sont connectés à ça
+vous arrivez chez SpaceX on vous
+explique qu'on va sur Mars et vous êtes
+balayeur vous vous dites pourquoi je
+suis là alors que si vous venez et que
+vous balayez que vous balayez proprement
+et qu'on vous explique que c'est
+essentiel que tout soit propre pour pas
+qu' y a d'accident Dans une fusée dans
+ce cas-là vous avez une compréhension
+rétrospective de l'importance de votre
+tâche alors l'onboarding c'est aussi un
+moment d'évaluation et de test t il ne
+faut pas hésiter à admettre que vous
+vous êtes trompé dans votre processus de
+recrutement ça coûte beaucoup moins cher
+de virer quelqu'un pendant son
+onboarding que de virer quelqu'un après
+1 an ou 2 ans d'investissement
+émotionnel donc n'hésitez pas à
+transformer aussi cet onboarding en un
+test culturel un test d'adaptation un
+test de fit un test de compréhension un
+test de tous les tests que vous ne
+pouviez pas réellement faire sans avoir
+un peu de temps et vous devez forcer
+tous les gens de votre équipe à à vivre
+cet onboarding comme une phase de test
+explicite et faire en sorte que les
+différentes portes que les gens passent
+dans cet onboarding soient des GO noo
+explicite décidé par l'entreprise un des
+trucs que j'ai appris en voyant
+énormément de startup SK c'est que quand
+on est la tête dans guidon on ne
+réfléchit pas les choses vont tellement
+vite qu'on avance c'est pour ça que un
+dirigeant a besoin de créer des étapes
+explicites des cérémoniales explicites
+où on se pose des questions qu'on se
+poserait pas si on n'avait pas ce moment
+pour seposer et la revue des nouvelles
+recrues par les anciennes et leur
+intégration et le fait d'évaluer
+collectivement leur travail est un
+moment extrêmement important de cohésion
+donc l'onboarding ce n'est pas
+simplement un processus passif dans
+lequel vous donnez des choses à
+apprendre à quelqu'un l'onboarding est
+un processus dynamique de connexion et
+de chimie pour mélanger les éléments au
+sein de votre entreprise évidemment ce n
+ce n'est pas suffisant il y a une
+troisième dimension dans l'onboarding
+qui est la transformation et
+l'amélioration de votre entreprise vous
+devez absolument évaluer l'impact de
+toutes les nouvelles recrues de façon
+objective si vous n'êtes pas capable
+d'avoir une KPI qui détermine en quoi
+cette personne permet de faire les
+choses mieux que avant et en quoi cet
+impact
+est explicitable en quoi cet impact est
+objectivable vous allez avoir un très
+gros problème de scale pourquoi parce
+que la seule façon de faire du
+nonobjectif c'est de faire du subjectif
+le subjectif demande de l'intimité et
+l'absence de distance or quand on scale
+on a plus d'intimité on ne sait plus ce
+qu'on fait et on a besoin de voir les
+gens à travers leurs chiffres et pas
+forcément à travers leurs émotions je
+sais que ça peut être dur à entendre
+c'est l'un des aspects les plus durs du
+scale c'est la déshumanisation de votre
+entreprise je sais que des gens sont
+entrepreneurs et ont des équipes pour
+l'aspect humain que ça représente un
+jour Fanny pesoda on avait une
+conversation elle m'a regardé dans les
+yeux et elle m'a dit ousama il est temps
+de faire le deuil de l'intimité il est
+temps de faire le deuil de tout ce que
+tu as connu avant parce que maintenant
+ton entreprise est rentrée dans une
+nouvelle phase c'est une phrase qui a
+été très dure à entendre pour moi c'est
+une phrase que je répète très souvent
+aux entrepreneurs et c'est sans doute
+l'un des challenges les plus émouvants
+du scale c'est de comprendre que
+l'onboarding des gens va être de plus en
+plus objectivable et de plus en plus
+fonctionnel une entreprise à scale qui
+fonctionne c'est un orchestre dans
+lequel chacun joue sa partition et
+chacun a une partition limitée ce n'est
+pas un groupe qui improvise un un jam
+autour d'une musique qui est plus ou
+moins chaotique c'est malheureusement de
+l'ordre et c'est heureusement quelque
+chose de très structuré le Scale égal
+structure vous devez prendre ce
+challenge vous devez en avoir besoin
+évidemment pourquoi on embauche des gens
+on embauche des gens pour déléguer tous
+ces process toutes cette scale et cetera
+a pour objectif de vous débarrasser de
+beaucoup de choses que vous faites et
+pouvoir le faire beaucoup plus
+rapidement beaucoup plus simplement
+beaucoup plus fort alors j'ai envie dans
+la prochaine séance de faire un truc un
+peu amusant avec vous c'est vous
+raconter mes pires histoires de
+délégation et de vous faire comprendre à
+quel point délégué ça fait souffrir
+j'espère que vous avez passé une bonne
+séance on se revoit pour la prochaine
+séance de anyone can scale à très
+bientôt

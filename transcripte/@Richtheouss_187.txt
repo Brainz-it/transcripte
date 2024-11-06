@@ -1,0 +1,1121 @@
+salut ça va ça va et toi ben ça va super
+alors aujourd'hui on va parler de growth
+machine comment on crée une growth
+machine je pense que c'est le sujet
+central de ce chapitre 2 de new onek
+scale parce que bah tout est questions
+de croissance comment on fait pour créer
+bah une machine à croissance faire en
+sorte que ça aille toujours toujours
+plus vite d'expérimenter on va reprendre
+plein de concepts qu'on donne tout le
+temps un peu de manière théorique et
+montrer un peu concrètement ce que ça
+veut dire pour les de les mettre en
+place en tant que CEO ou même en tant
+que qu'équipe finalement je te laisse la
+parole B on y
+[Musique]
+va alors déjà effectivement comme tu le
+dis la croissance c'est quelque chose
+d'important parce que la croissance
+c'est un peu le sang de la start-up
+c'est ce qui va faire que toutes les
+fonctions de la start-up vont tourner et
+c'est surtout ce qui va faire de
+permettre de mettre la start-up
+sousension un élément qu'on oublie quand
+on est entrepreneur c'est qu'on a besoin
+d'intensité et cette intensité on va la
+chercher aussi par la contrainte et la
+demande extérieure une organisation dont
+les mécanismes de croissance sont
+parfaitement au point c'est une
+organisation qui va aller vite et une
+organisation qui va aller vite va avoir
+besoin d'être de plus en plus efficiente
+donc il il y a une relation naturelle
+entre croissance efficience ambition la
+croissance amène l'ambition l'ambition
+amène l'efficience l'efficience amène la
+croissance et ce truc organique et ben
+c'est pour ça que la croissance alors
+les Américains parlent de Grof machine
+j'aime bien ce mot parce que c'est
+l'idée d'un mécanisme qui est mis en
+place alors moi je parleraiis même de
+grow
+Factory tu as d'usine de process à
+growth alors
+déjà un premier élément c'est que la
+tech a tout changé
+concernant le sujet de croissance pour
+trois raisons d'abord parce que le
+marketing et le produit ont mergé avant
+le marketing c'était de faire passer
+quelque chose qui était pas terrible
+pour quelque chose de génial c'est Mad
+quoi voilà c'est marrant je l'avais en
+tête et puis petit à petit il s'est
+passé un truc un peu c'est que les
+clients ont commencé à être informés les
+clients ont commencé à donner du
+feedback et les clients ont commencé à
+analyser la qualité intrinsèque du
+produit plus les clients ont été
+informés et moins la possibilité de les
+arnaquer a été possible et donc les
+business ont non seulement changé de
+discours mais ils ont en plus changé
+leur approche par rapport au produit la
+qualité du produit c'est aujourd'hui un
+argument marketing et cet argument
+marketing on peut pas vraiment mentir
+dessus résultat aujourd'hui quand on
+pense n'importe quel entreprise dans
+n'importe quel secteur il faut penser
+produit et marketing comme un seul bloc
+il faut se dire qu'est-ce que je peux
+mettre dans mon produit qui va améliorer
+mon marketing qu'est-ce que comment mon
+marketing peut sublimer mon produit la
+deuxième chose c'est que on a besoin de
+moins en moins d'intuition et on a de
+plus en plus de Data
+alors petit problème là problème c'est
+que on n'est pas très très bien formé à
+la data
+euh je me demande même si on devrait pas
+faire un cours de stat dans Coup d'État
+tu veux dire de de statistique pur
+mathématique ou ouais ouais ouais non
+mais peut-être même il faudrait trouver
+la version faudrait trouver quelqu'un
+qui sache le faire en en mode grand
+public mais grosso modo moi je vois
+toute la journées des entrepreneurs
+raisonner n'importe comment sur leur
+data confondre corrélation et causalité
+pas se rendre compte qu'un échantillon
+est statistiquement non
+pertinent faire dire des trucs euh un
+peu la blague de euh en Roumanie on met
+du sel devant la porte pour pas que les
+vampires viennent et personne n'a jamais
+vu de vampire c'est bien la preuve que
+ça
+marche alors ça les start-up chez moi
+tous les gens je vois des entrepreneurs
+me raconter des trucs comme ça malgré
+tout si un entrepreneur sait analyser sa
+data aujourd'hui il a quand même la
+possibilité d'avoir des datas qui a 10
+ans était très compliqué qu'est-ce que
+tu connais comme boîte qui analyse bien
+ses datas aujourd'hui parce que tu vois
+là on s'est inspiré de de plein de cours
+qu'on a trouvé sur internet c'est
+beaucoup d'Américains beaucoup de boîtes
+un peu geek très très tech donc ils ont
+une notion de la data et du rationnel
+qui est très puissante c'est vra que si
+j'ai réfléchi chez the family on a pas
+30000 boîtes qui alors pour le coup
+toutes les boîtes qui marchent à the
+family sont fort en ou voilà c'est ça
+c'est il y a pas de il y a pas de secret
+quoi fredling pfit side machin mais
+kimono par exemple c'est un exemple de
+boîte qui a une data hyper
+précise le dashboard
+kimono du gestion du backend qui est
+fait dans un Google spreadsheet en
+uisant Google data donc tu vois vraiment
+niveau geekri zéro il y a pas de il y a
+pas de logiciel il y a pas de machin ils
+ont réussi à avoir leur taux de marge
+par commande à avoir savoir quel
+commercial performe quel commercial
+performe pas à la journée et prenons un
+exemple ça c'est un bon exemple que
+j'aime bien n'importe quel C
+organisation va évaluer les commerciaux
+à 3 mois 6 mois donc grosso modo tu te
+dis pour savoir si ton mec il est bon ou
+pas tu vas mettre 3 mois à 6 mois si tu
+es capable d'avoir la data journalière
+tu peux faire deux choses d'abord tu
+peux aider quelqu'un qui à côté de la
+plaque à pas passer 6 mois à côté de la
+plaque et genre le jour où tu t'en rends
+compte bah c'est trop tard parce que tu
+rattraper 6 mois c'est quand même
+beaucoup plus compliqué que rattraper
+une semaine en terme de management il
+faut retenir cette règle très importante
+en management c'est qu'un feedback pas
+donné tout de suite c'est un feedback
+qui ne faut jamais donner ouais parce
+que si tu dis à quelqu'un il y a 3 mois
+tu as fait c tu as fait ça euh ça ça
+sert à rien comme dans toute relation qu
+comme dans comme dans toute relation
+exactement et la deuxième chose c'est
+que évidemment euh il y a un sujet dans
+le
+monde du commercial c'est que les
+commerciaux sont des boulots de
+performance tu peux être sympa
+travailler
+dur être
+incroyablement joyeux je sais pas quoi
+si tu vends pas tu justifies pas ton
+boulot en fait c'est c'est typiquement
+le genre de boulot où il y a une décor
+relation totale entre
+l'effort la bonne volonté la discipline
+et le résultat il y a des gens juste il
+vendent pas bon ben ils vendent pas ils
+vendent pas quoi si tu es capable de le
+savoir la journée ça change tout dans ta
+gestion d'abord parce que les gens dont
+tu vas te séparer tu vas pas mettre 6
+mois à t'en séparer mais tu vas
+peut-être mettre de semaines et ça en
+terme de compound ça un effet
+géométrique parce que toujours cette
+règle de quand on accélère on croit plus
+vite et la deuxième chose c'est que on
+peut se rendre compte à l'inverse que
+des gens ont des super performances
+rapidement et ils peuvent apprendre aux
+autres pourquoi ils ont ces performance
+donc c'est un truc tout bête mais d'être
+capable d'avoir cette data à la journée
+c'est essentiel il y a avant l'invention
+de Google spreadsheet c'était pas
+possible tout simplement parce que
+chacun avait son Excel fallait que
+chacun fasse sa feuille l'envoyer par
+email collecter les datas machin ça
+faisit un process qui était trop
+compliqué alors qu'aujourd'hui la data
+elle est flu ifi dans toute ton
+organisation quoi exactement et donc
+même quand on n pas ingénieur
+aujourd'hui il y a de quoi automatiser
+et récupérer la data alors évidemment
+cette data est donc accessible de plus
+en plus
+facilement ça ça veut dire que dans les
+organisations quand on parle de de de
+dat structure de Data house il faut
+aussi savoir quelle data est importante
+et quelle data est pas importante alors
+moi j'ai une règle très simple pour
+savoir si une data est importante ou pas
+c'est que je me concentre toujours que
+sur les datas sur lequel je pe avoir une
+action donc par exemple euh les datas de
+conversion sur les homepag sont des
+bonnes data parce que tu peux regarder
+ta conversion et tu peux itérer sur ta
+homepage quasiment quotidiennement pour
+voir si ça s'améliore ou pas euh par
+contre à l'inverse euh regarder des
+datas du genre qui font plaisir
+euh nombre d'inscrits en bout du
+tunnel bah je peux pas faire grand-chose
+en fait sur cette data parce que il y a
+rien d'actionnable c'est c'est c'est
+trop général c'est trop c'est trop flou
+comme sa si tu découpes en
+enétap exactement mais cette data là va
+être un résultat ça va être une vanité
+métrique mais ça va pas te donner celle
+que je donne à la presse en fait
+exactement c'est celle que tu donnes à
+la presse intéressant il y avait ce il a
+ta mère exactement ouais genre il y
+avait ce ce ce ce même là qui qui a été
+posté sur facebook l'autre jour où genre
+c'est des il sont en réunion tu vois et
+ils ont un gigantesque dashboard il
+disent vous avez vu notre nouveau
+dashboard il est incroyable et la meuf
+elle fait gen mais c'est quoi cette
+métrique qui a zéro c'est notre niveau
+de compréhension
+des avec la grpe qui
+descend c'est un très très bon même
+c'est un très bon même alors la
+différence aussi c'est que la vitesse de
+scale a augmenté aujourd'hui qu'on le
+veille ou non quand on fait une
+entreprise on doit se rendre compte
+qu'on n pas tout seul sur le marché et
+que d'autres gens bah il scal et que ce
+qui était impossible à une certaine
+génération d'entrepreneurs et maintenant
+possible alors d'ailleurs ça c'est un
+grand sujet dont il faut parler en ce
+moment je rigole beaucoup moi sur
+Twitter avec les boomers il y a beaucoup
+beaucoup
+d'hostilité avec les boomer depuis que
+cette politicienne australienne a dit un
+mec qui l'a interrompait yes ok boomer
+je crois ouais c'est devenu une insite
+moi ça fait très longtemps que que je
+j'ai ce sentiment que il y a quand même
+un clash de génération et énormément de
+gens qui donnent des conseils aux
+entrepreneurs surtout dans le monde des
+entreprises plus traditionn des PME les
+vieilles start-up machin ont tendance à
+dire moi ça fait 30 ans que je fais du
+business je sais ce qui est possible ou
+pas ouis enfin bon là il faut regarder
+les faits il y a des boîtes qui ont
+skalé à des échelles délirantes même
+sans rentrer dans les super champion à
+la uber Facebook et cetera qui sont très
+éloignés de nous si on regarde
+aujourd'hui des entreprises du
+portefeuille de the
+family tu te retrouves avec des
+entreprises qui passent de 0 à 1 million
+de chiffre d'affaires par mois en moins
+de 2 ans
+oui c'est assz courant genre pas assez à
+mon sens mais moi moi non plus je suis
+assez d'accord avec ça mais c'est
+possible on peut pas on ne peut pas
+prétendre que c'est de la fantaisie on
+peut pas prétendre que c'est un accident
+statistique et ça ça veut dire que bah
+il y a des techniques il y a des
+méthodes que toutes les entreprises
+peuvent appliquer alors une info hyper
+importante mon ch Valentin
+oui monsieur c'est que la croissance
+c'est pas l'acquisition euh c'est pas la
+même chose la croissance c'est le
+process dont l'acquisition est une
+petite partie pourquoi parce que si on a
+de l'acquisition sans conversion bah on
+a un panier percé et il y a pas de
+croissance et c'est pour ça que c'est
+hyper important de ne jamais regarder
+aucune métrique en cumulé il faut
+toujours regarder ces métriques en
+valeur absolue par exemple il faut pas
+regarder son nombre d'inscrits total
+mais il faut regarder son nombre
+d'inscrits par semaine parce que sinon
+ça monte toujours sinon ça monte
+toujours toute stat en cumulé monte et
+donc on se rend pas compte ce qu'il faut
+c'est qu'il faut que ça monte non
+seulement en en volume mais il faut que
+ça monte aussi en mouvement faut avoir
+plus de clients et cetera donc qu'est-ce
+que c'est le process de croissance c'est
+en fait tout le process qui comprend
+l'acquisition l'activation la rétention
+toutes les stratégies de revenu et de
+pricing et les méthodes de référol ça
+c'est un process complet de croissance
+avant que tu passes ouais moi il y a un
+truc une pensée qui est en train de
+devenir de plus en plus prévalente dans
+tout l'écosystème tech que je côtoie qui
+est que ce funnel
+dont je parle beaucoup dans la saison 2
+créer un produit et cetera c'est une
+très très
+mauvaise visualisation de comment
+comment fonctionne une boîte qu'est-ce
+que tu en penses de ça pourquoi tu dis
+bah le truc c'est que enfin c'est un une
+des choses dont je voulais parler un peu
+plus tard mais en fait ou c'est tu peux
+pas mettre un mec à l'acquisition un mec
+à l'acation ça fonctionne pas en fait
+non mais c'est pas ouis effectivement
+c'est pas le but du frir quoi ouais et
+c'est un truc qu'on qu'on donne beaucoup
+comme réfléchi ok cette semaine je vais
+me concentrer sur l'acquisition ou
+l'activation ou la rétention et ça et ça
+ça transforme en silo en fait les
+différentes parties de ton
+businessectivement jeavais pas vu comme
+ça et ça marche pas en fait je l'avais
+pas vu comme ça alors effectivement faut
+faut le voir pour ce que c'est à savoir
+un un funnel des flux dans ton
+entreprise pas un funnel des
+gens tu veux dire des gens de tes
+clients ou de ta team c'est c'est pas un
+framework d'organisation c'est un
+framework pour dire ok les gens ils
+arrivent là ils s'activent là il dépense
+là il réfè là c'est vraiment un parcours
+client quoi et le but du jeu c'est de
+vérifier que aucune étape de ce parcours
+client a une friction qui n'est pas
+résolvable mais la meilleure façon de de
+travailler sur cette ce framework c'est
+d'avoir des honneurs qui vont de
+acquisition à réérol par
+expérience et ça c'est ça change tout
+parce qu'en fait les types suivent toute
+la vie du client Un client peut pas êre
+dire on peut pas se dire ah bah tiens ce
+client j'ai une super stratégie
+d'acquisition mais derrière c'est pas de
+ma faute c'est les gens du référol qui
+arrivent pas les gens de de de
+l'activation qui arrivent pas à le
+convertir voilà c'est le meilleur moyen
+d'avoir une guerre en interne pour rien
+quoi absolument et d'ailleurs c'est une
+règle de base dans les start-up c'est
+qu'il faut jamais casser l'honership une
+start-up n'est pas une usine elle a pas
+besoin de division sociale du travail
+elle a besoin de commitment et d'hership
+il vaut mieux si tu as une équipe de 10
+personnes qui travaillent à
+l'acquisition vaut mieux 10 personnes
+qui font 10 expériences différentes
+complètes que d'avoir trois personnes à
+l'acquisition deux personnes à
+l'activation et cetera parce que du coup
+tu en fait c'est plus un framework donc
+non pas sur qui travaille sur quoi et
+comment j'organise ma boîte mais sur
+oublie pas dans ton travail quand tu
+crées une experri cent exactement ch ses
+étapes parce que si tu en oublies une
+c'est sûr que c'est d c'est sûr que
+c'est d ok
+compris la régie pas
+derrière je prends la télécommande
+ba-toi bien
+alors ce qui est marrant avec la Grof
+c'est que c'est l'intersection entre
+quatre
+disciplines qui jusqu'à présent ont des
+formations
+et des parcours de vie différents ça
+c'est un grand challenge de la
+transformation économique qu'on est en
+train de vivre c'est que l'école a été
+construit pour former des gens au
+product et encore des gens au marketing
+des gens à la data des gens à
+l'ingénierie et les gens adore se
+définir par leur identité éducative je
+suis
+ingénieur je suis data analyste je suis
+je sais pas quoi alors problème c'est
+que les start-ups elles ont ni besoin
+d'ingénieur ni de Data analyste ni de
+product manager ni de je sais pas quoi
+elles ont besoin de gens qui hent encore
+une fois on retourne sur ce concept
+d'honership on a besoin de gens qui se
+sentent responsable de la performance du
+bien-être de la boîte et qui ont envie
+de donner le meilleur deeux même et donc
+ça veut dire quoi c'est dire que quel
+que soit ton origine si tu veux prendre
+au sérieux le sujet de la gros machine
+tu es obligé de prendre au sérieux ces
+quatre sujets tu peux pas dire ouis moi
+je suis super fort en ingénierie mais je
+comprends rien au produ tu peux pas dire
+je comprends rien au produ mais je suis
+fort en marketing tu es obligé d'être un
+homme de la Renaissance et de prendre à
+bras le corp ta formation sur ces quatre
+sujets parce que ces sujets sont
+interdépendants il y a pas de marketing
+sans data il y a pas de Data sans
+product il y a pas de product sans
+ingénererie et les décisions que tu vas
+prendre en product tu as besoin de
+pouvoir les implémenter en ingéering
+avant d'atteindre une taille
+d'organisation et de structure où les
+gens ont plus besoin de h le concept en
+entier et où vraiment tu as une division
+sociale comme dans les grandes boîtes je
+peux te dire que tu peux atteindre des
+grandes tailles et surtout c'est même
+pas sûr que ce soit très efficace parce
+qu'en fait aujourd'hui il y a quand même
+des gens qui ont des super pouvoirs qui
+arrivent à automatiser des chos qui
+arrive à avoir du leverage et qui arrive
+à avoir une expérience complète parce
+que en fait toutes ces stacks que ce
+soit la stack produ marketing data ou
+engineering a été commoditisé par des
+outils qui permettent à des gens de
+faire 10 fois ce qu'ilaient avant avant
+un ingénieur qui devait programmer un
+login sur un site il est passé 3
+semaines aujourd'hui c'est une ligne
+donc il y a pas de raison qu'il pense
+pas marketing et et ça il faut
+absolument en interne faire des efforts
+énormes pour que tout le monde se sente
+responsable de ces quatre piliers quel
+que soit leur position dans la chaîne de
+valeur il faut forcer les ingénieurs
+alors j'ai des petites techniques moi
+par exemple l'Ingénerie j'adore leur
+faire faire du support client TR truc
+tout con tu les mets devant des vrais
+humains au début c'est comme les
+vampires avec la
+lumière c'est horrible et puis ils
+finissent par y prendre
+goût c'est terrible terrible ah mais
+c'est vrai mais c'est
+vrai sur la data c'est très simple
+petite technique toute bête tous les
+dashboard et toute la data et toutes les
+KPI doivent être envoyé à toute la boîte
+à date fixe par un email automatique un
+truc et avoir une réunion auine où cette
+data est analysée collectivement ce qui
+fait que des gens qui raisonnent mal sur
+la data peuvent être corrigés par des
+gens qui raisonnent bien et c'est un
+processus d'apprentissage collectif donc
+ça veut dire dire quoi ça veut dire que
+la growth c'est un système qui se pense
+dans un cerveau et qui est transmis au
+reste de la team par communication ou
+c'est un truc auquel tout le monde doit
+penser en fond et personne h le concept
+de growth c'est quelque chose auquel
+tout le monde doit penser personne ha le
+concept de growth c'est quelque chose
+qui doit être dans la culture de la
+boîte il faut que tout le monde sur ces
+quatre piliers il faut que les gens en
+ingénerie puissent faire des des
+feedback produ il faut que les gens en
+produ puissent faire des feedback
+marketing il faut que les gens au
+marketing sachent faire de la data il
+faut que la data alimente tout ça et que
+même si tu es suffisamment gros pour
+avoir des gens qui sont spécialisés
+parce que il y a des moments tu as des
+boîtes où oui il y a des Data analystes
+qui font les tableaux de bord parce que
+il y a tellement de Data d'expérience et
+cetera que il y a besoin d'un mec dont
+c'est le métier mais si ce mec il sait
+pas comment ça va impacter l'ingéering
+comment ça va impacter le produ et
+comment ça va impacter le marketing je
+peux te dire que ton process Grove va
+diverger la seule façon de faire
+converger le process Grove c'est que ces
+quatre pilier soit une même et seule
+équipe et que ces quatre piliers soient
+honnés par tous les membres de cette
+équipe et alors je disais pour la data
+éduquer tout le monde avec des all end
+data tous les 15 jours toutes les
+semaines facile une heure tous ensemble
+les gens posent leurs questions sur la
+data il y a une présentation c'estes kPa
+ils vont bien c'est kPa ils vont pas
+bien il y a une boîte là du portefeuille
+de the family qui a commencé à le faire
+récemment leur performance a explosé
+parce que d'un seul coup des gens se
+sont rendus compte qu'il y avait des
+trucs qui tournaient pas dans la data
+qui était en fait de leur responsabilité
+ils en avaient pas conscience avant le
+marketing ça ça vaut le coup de de
+vraiment partager avec tout le monde les
+efforts marketing les pubs le la
+communication tous les efforts marketing
+une bonne équipe marketing c'est une
+équipe qui fait autant de travail pour
+l'extérieur que l'interne vendre à
+l'interne et transformer chacun des
+salariés de son entreprise en un vendeur
+né du produit de l'entreprise ça devrait
+être l'obsession numéro 1 de tous les ce
+ça c'est un truc que je ne comprends pas
+en France à quel point des gens peuvent
+travailler dans des boîte et être des
+très mauvais vendeurs de cette boîte
+c'est une honte parce que çavoir vendre
+aux autres c'est aussi savoir vendre à
+soi et donc quand Onon travaille ça ça
+ça rend un truc plus pu et donc c'est
+hyper important de vendre en interne
+autant qu'on vend en externe si on a 20
+personnes dans son équipe et que ces 20
+personnes sont pas les premierers
+supporter fan évangéliste du produit
+mais qui va l'être
+et souvent les gens ont beaucoup de
+compllaisance à ce niveau-là ils disent
+oui mais en fait euh ils sont pas la
+cible alors j'adore j'en dis ça j'ai pas
+la CIB ah oui d'accord pas la cible mais
+il fabrique le produit donc donc il y a
+un moment même si tu es pas la CBE tu
+dois être passionné du sujet quoi par
+exemple une boîte qui nous fascine nous
+as the family qui fait ça incroyablement
+bien c'est pfit puisque tous les gens
+qui travaillent chez pfit ont l'air
+d'être passionnés par laffiche de paye
+si une boîte arrive à passionner les
+gens par un truc aussi chiant qu'une
+fiche de paye je pense que tout est
+possible je pense que le la barre elle a
+été 7 et que si ça va vite en plus enfin
+c'est un c'est un système de répétition
+quand tout le monde autour de toi est en
+train de le faire tout le temps tu te tu
+finis par fiter dans l'organisation bien
+sûr mais c'est pour ça que c'est
+vraiment une responsabilité de
+l'entrepreneur de comprendre que son
+marketing interne est aussi important
+que le marketing exérieur et donc ça
+demande du rituel ça demande des
+cérémonies ça demande par exemple chez
+uber ça c'est une histoire qu'on m'a
+raconté récemment que je ne connaissais
+pas feu Travis sulfureux CEO qui avait
+quand même des qualités euh il avait une
+un rituel en interne c'est que il avit
+tellement d'argent qu' passait leur
+temps à faire des des
+praes et en fait en interne pour
+s'entraîner Travis faisait des investor
+session avec les employés tirés au sort
+et les employés pouvaient assister au
+présentation qui était fait aux
+investisseurs et donc quand il y avait
+10 investisseurs qui venaient pour avoir
+une présentation de Travis il y avait
+toujours 10 ou 20 employés et ça c'était
+un mouvement permanent pour que 100 %
+des gens voi comment en interne la boîte
+était vendue aux invest ça c'est du
+génie ça c'est vraiment mais c'est c'est
+et ça montre que ce type il sait
+vraiment ce que c'est manager des gens
+il sait ce que c'est créer de la
+confiance du mouvement de la de de la
+pertinence et mettre les gens à égalité
+avec les investisseurs c'est aussi
+montrer aux gens de l'interne
+l'importance qu'ils ont et donc il
+vivaent ses pitch comme avec les
+employés comme un pitch avec un
+investisseur puisqueon il y avait les
+deux mais cette énergie elle est super
+super importante c'est vrai que c'est
+marrant parce que quand on a quand on a
+évoqué l'idée de lever avec coup d'État
+j'ai fait un deck et en fait les retours
+les plus intéressants que j'ai eu sur le
+deck c'est ceux de la team quoi gen tout
+le monde était là genre ouais enfin
+casser le Game de l'éducation ça vient
+de là c'est qu'à la fin j'ai juste écrit
+vite fait in the end we are here to
+break the game tu vois et était mais
+c'est incroyable c'est ça qu'on doit
+vendre et tout et c'est vrai qu' il y a
+toujours cette et ça ça te marque en
+fait en tant qu'employé enfin j'aimes
+pas trop le rapport employé entrepreneur
+mais mais ça te marque ouais ok compris
+évidemment sur le product petite
+technique pour involve tout le monde
+c'est tout simplement d'utiliser le
+produit je pense que c c'est par
+exemple le plaisir que je prends à être
+client coup
+d'État c'est je pense un plaisir que
+beaucoup de gens devrai avoir avec leur
+propre boîte il faut savoir être client
+par exemple j'avais une fois entendu
+Bernard Arnaud dire que il rêvait d'être
+anonyme pour aller dans ses boutiques
+esponer les gens alors ça peut ça peut
+avoir l'air creepy comme truc mais en
+fait c'est génial et par exemple on a un
+entrepreneur de the family qui a une
+technique que je trouve à mourir de rire
+c'est qu'ilaelle son service client et
+il invente des problèmes et évidemment
+son service client ne reconnaît pas sa
+voix et et il regarde à quel point et le
+fait de d'être à ce point involve dans
+l'expérience client c'est c'est hyper
+important récemment avec Balthasar on
+regarde plein d'interview de Steve Jobs
+on est dans une phase nostalgie Steve
+Jobs et j'ai vu une interview de Steve
+Jobs où il dit que son pouvoir spécial
+c'est que il est le client le plus
+exigeant d'Apple il est ni un ingénieur
+ni un produ développeur ni un designer
+il s'en fout de ce qui est possible ou
+pas possible non il veut avoir cet œil
+client où tout est possible il a pas
+trop conscience de la complexité de ce
+qui est possible ou pas possible parce
+que c'est ce qui fait que ça lui donne
+envie de pouer les brandaries et et ce
+bon sens client c'est quelque chose trop
+d'entrepreneur oublie notamment parce
+que ils aiment bien être expert de leur
+propre boîte ils aiment bien être expert
+de leur propre complexité ils aiment
+bien être Insider alors qu'en fait il
+faut sur le product être un bon outsider
+parce qu'il faut toujours avoir cette
+force de voir les choses avec un œil
+neuf et les gens se rendent pas compte à
+quel point le Scale est une affaire de
+détail c'est pas une affaire de
+généralité tout le monde pense que le
+Scale c'est une affaire de gens qui
+trouvent des grands trucs des choses
+impressionnantes non c'est des milliers
+de petit truc par exemple j'ai lu un
+article récemment que vous pourrez
+donner comme référence qui est dans le
+New yorkerur sur Google et qui raconte
+la crise existentielle que Google a eu
+en 1997 en 1997 Google a été down
+pendant 6 mois ou en 99
+été down pendant 6 mois pendant 6 mois
+les résultats qui étaient affichés sur
+google.com étaient des résultats qui
+avaient été indexés 6 mois avant et
+l'index de Google était tombé et
+personne ne savait pourquoi impossible
+de savoir pourquoi au sein de Google
+personne personne OK et il y a deux in
+qui ont décidé de de de ce problème
+existentiel de s'y mettre à fond et en
+fait c'était leur connaissance profonde
+du hardware qui leur a fait découvrir
+que en fait Google est en train de
+pusher les boundaries du hardware et que
+le problème était hardware et que le
+problème avait besoin d'une solution
+hard
+en fait les deux ingénieurs ont été
+jusqu'à savoir comment étaient fabriqués
+les disques durs et comprendre que
+c'était en fait la façon dont les datas
+étaient inscrit sur les disques dur qui
+posaient problèm avec le software et qu'
+fallait résoudre ce problème hardware
+par du software et ils ont réussi à
+redémarrer l'index de Google et
+redémarer Google ça c'est ça montre que
+pour scaler il faut connaître les
+détails infinis d'une entreprise et on
+peut pas connaître les détails infinis
+d'une entreprise autrement que par la
+pratique constante
+en tant
+qu'outsider je m'explique vas-y si si tu
+regardes ça comme un truc d'insider si
+tu dis le problème que Google a c'est un
+problème d'ingénerie tu vas pas aller
+regarder le hardware parce que tu vas le
+prendre comme comme ton petit job alors
+qu'en fait tu dois te dire moi je suis
+client je sais pas pourquoi ça marche
+pas mais je vais aller regarder tout cet
+ensemble qui essaie de me délivrer et
+comme ça avec un œil neuf avec un œil
+naïf je vais pouvoir découvrir le détail
+que j'avais pas vu avant et la seule
+façon de faire ça c'est d'avoir
+justement cet œil naïf cet œil externe
+l'interne c'est une menace l'interne
+c'est la c'est la routine l'interne
+c'est le fait de croire que des choses
+sert toujours vraies et l'interne c'est
+résister au changement or le changement
+lui il est naturel il est permanent et
+comment tu parce qu'il y a quand même
+une dualité entre les deux genre qui
+dans la boîte est censé être plutôt qui
+plutôt externe moi aujourd'hui je suis
+CEO mais c'est une grande blague tu vois
+parce qu'en fait on est 5 dans l'équipe
+donc je bosse un peu avec tout le monde
+donc j'ai forcément de la fierté dans
+mon taf le regarder comme un outsider
+c'est le but par lequel je je tend
+depuis que tu me l'as conseillé mais en
+fait c'est hyper dur que on fait quoi et
+ben là il il faut pratiquer il faut le
+faire et surtout il faut
+comprendre que c'est la seule façon de
+vraiment break the
+game si tu
+en fait pour le coup je pense que c'est
+le test humain le plus fondamental dans
+les entreprises qui essaient de scaler
+dans l'idée de anyone can scale c'est
+pas everyone can scale et je pense que
+l'un des critères numéro 1 de
+scalabilité c'est la capacité à regarder
+les choses avec distance et neutre mais
+qui qui dans
+Organisation il faut réussir à créer des
+organisations où tout le monde le fait
+d'ailleurs les organisations comme
+Google Facebook et uber sont des bons
+exemples d'organisation où les gens ont
+arrêté de faire ça et le jour où ils ont
+arrêté de faire ça ils ont été
+nosbrilistes prenons un exemple pourquoi
+Facebook est complètement passé à côté
+de Cambridge antica et de l'ampleur de
+cambridgetica parce qu'ils ont regardé
+ça avec un œil interne si tu regardes
+les arguments que facebook développe
+c'est quoi c'est des arguments de type
+c'est pas rationnel c'est pas sérieux
+c'est de la data qui compte pas pourquoi
+on nous emmerde et ça c'est des critères
+d'expert internes h si Facebook avait
+regarder ça avec un œil externe en
+disant [ __ ] ok ces mecs ont trahit ma
+confiance pour te dire que tu as trahi
+la confiance il faut te mettre de
+l'extérieur de l'Intérieur toi tu sais
+que tu as pas trahi la confiance tu te
+sens que tu es un mec bien mais c'est
+parce que tu regardes ce que tu es et
+pas ce que tu es perçu et cet effort là
+c'est en général le moment où les boîtes
+arrête de scaler la fin du scale de
+toute organisation c'est le jour où une
+organisation n'arrive plus à se regarder
+de
+l'extérieur même chose chez Google quand
+Google fait des contrats avec l'armement
+pourquoi c'est un
+problème parce que le don de be Evol a
+été pris très très au sérieux par les
+fans de
+Google et donc ce jour-là Google ils ont
+développé quoi comme argument ils ont
+développé des arguments internes bah non
+mais c'est notre on a une boîte
+américaine le légal nous dit qu'on n'
+pas le choix le Département de Justice
+américain est un gros client euh c'est
+beaucoup d'argent pour notre balanceheet
+tout ça ce n'est que des considérations
+internes mais si tu te places du point
+de vue externe c'est tu touches pas aux
+armes parce que tu es un mec
+bien tu vois et donc ce critère il est
+différent la même chose pour coup d'État
+je peux te le donner la la vague interne
+externe si tu regardes coup d'État de
+l'interne tu peux très vite te dire que
+le but de coup d'état c'est d'avoir des
+les meilleurs entrepreneurs qui pigent
+alors que c'est pas un effet de
+sélection dont tu as besoin sur coup
+d'État c'est un effet de réseau de
+l'externe ce que tu as envie c'est que
+du mec qui kiffe parce qu'il regarde une
+vidéo jusqu'au mec qui change
+profondément sa boîte tout ça soit un
+soit un tunnel continu il faut pas que
+le type qui juste kiffe se sente mal
+parce que sinon ça devient un effet de
+sélection et c'est plus un effet de
+réseau et B c'est typique de à quel
+point on peut regarder coup d'État de
+l'extérieur c'est pour ça que moi je
+regarde coups d'État comme un client je
+dit moi j'ai pas une boîte qui scale par
+exemple j'ai une boîte S B de famille
+c'est par définition un truc qui a pas
+besoin de scaler et ben quand j'apprends
+des choses je me dis est-ce que est-ce
+que quand même j'apprends des trucs
+est-ce que ça me motive est-ce que ça
+m'inspire est-ce que et cetera parce
+qu'en fait si moi ça me fait chier de
+regarder une vidéo je vois pas comment
+quelqu'un d'autre dehors aura envie de
+la regarder quoi h un des conseils que
+je donne beaucoup aux entrepreneurs que
+je suis
+c'est joue à ta boîte h c'est un très
+bon conseil c'est un très bon d'avoir du
+recul quo quand j'ai enregistré la
+saison 2 c'est un concept que j'avais
+pas compris donc je parlais beaucoup de
+qu'est-ce que tu fais en produit pour
+faire de la croissance genre sprint
+après sprint comment tu fais pour
+prendre des décisions qui font que tu F
+qui font que tu fais de la croissance
+avec ta boîte et en fait c'est un
+mauvais conseil parce que c'est deux
+choses extrêmement différentes genre
+aujourd'hui je me rends bien compte que
+ce qu'on fait chez coup d'État c'est que
+d'un côté on crée la valeur principale
+pour les clients et d'un autre côté on
+met en place des mécanismes de growth
+qui grosso modo font de la conversion
+donc transformer les clients enfin les
+leads en clients et de la rétention donc
+transformer les clients existants en
+clients récurrent et en fait c'est deux
+choses très différentes parce que tu vas
+pas y penser de la même manière h et
+alors il y a des trucs produits que tu
+peux mettre en place qui vont faire que
+le niveau de qualité de ton produit va
+être tel que tu vas avoir tu vas générer
+de la rétention donc ça se mélange un
+petit peu mais si tu veux avoir un vrai
+impact faire des vrais efforts de growth
+c'est des choses que tu dois penser
+séparément bien sûr
+et je pense que c'est un des sujets
+importants à aborder et donc c'est ce
+qui nous amène àah c'est quoi l'objectif
+de la growth alors effectivement
+l'objectif de la Grof c'est cette
+surcouche là que vous voyez en vert
+foncé c'est le fait de pouvoir aller
+plus vite et d'avoir donc plus de moyens
+donc la vitesse ça apporte l'efficience
+l'efficience ça apporte les moyens les
+moyens ça apporte encore plus de
+croissance plus de croissance ça apporte
+un nouveau ce nouveau cycle et vraiment
+essayer toujours toujours de penser
+cycle dans un épisode de brotherwood
+full Méal
+jacket pour devenir alchimiste ils sont
+envoyés sur une île où ils doivent
+comprendre le rapport entre ce qui se
+passe sur l'île et ce qui se passe dans
+l'univers alors c'est un épisode qui m'a
+beaucoup marqué parce qu'en fait c'est
+l'idée que tout à toutes les échelles
+c'est cette fameuse idée des fractales
+et en fait le les galaxies tournent
+autour d'un centre au sein de ces
+galaxies tournent autour d'un centre au
+sein de ça tu as des systèmes solaires
+qui tournent autour d'un d'une étoile au
+sein de ça tu as une planète qui tourne
+sur elle-même et au sein de ça tu as des
+écosystèmes qui vivent et qui vivent en
+cycle d'ailleurs je pense qu'on se rend
+pas compte à quel point à chaque fois
+qu'on perturbe un écosystème c'est
+catastrophique au-delà de l'impact
+écologique surtout parce que on perturbe
+un cycle qui a besoin de recomposé et
+c'est pas sûr que la recomposition du
+cycle soit en notre faveur euh l'exemple
+fabuleux de ça euh que j'avais appris
+quand j'étais petit qui m'avait
+traumatisé c'est que on a déréglé euh le
+le cycle des grenouilles euh en tuant
+les serpents en tuant trop de serpents
+euh euh pardon en multipliant les
+serpents on a tué les grenouilles en
+tuant les grenouilles on augmente le
+nombre de moustiques
+et en fait tout un écosystème est
+déséquilibré parce que justement une
+espèce diminue en nombre de valeurs et
+donc l'écosystème lui-même est déréglé
+et donc maintenant on commence à mettre
+des pesticides pour tuer les moustiques
+on on a mis tellement de pesticides
+qu'on a maintenant des moustiques
+résistants et cette population de
+moustiques résistants est deux fois plus
+nombreuse et on a tous les problèmes
+sanitaires qui vienent avec ça et un
+point hyper important pourquoi je
+raconte ça c'est parce que ce genre de
+problème sont souvent le résultat de
+bonnes intentions évidemment que les
+mecs qui ont mis les pesticides ils
+partaient d'une bonne intention qui
+était réduire le nombre de moustiques
+sauf qu'en fait c'est hyper compliqué
+d'appréhender la
+complexité la complexité de la nature et
+des organisation n'est pas accessible à
+nos petits cerveau et c'est un peu la
+même chose dans une boîte dans une boîte
+on doit penser des cycles mais on doit
+pas penser qu'il est possible de prévoir
+le résultat de ces cycles ou de
+maîtriser ces cycles on doit avoir cette
+force de les créer naturellement de
+faire confiance à la nature de pas être
+trop obsédé par ces process parce qu'en
+fait les procès c'est une tentative de
+mettre dans des boîtes des choses qui de
+toute façon vont arriver naturellement
+et en fait les organisations complexes
+sont hyper solides ce que Nassim Taleb
+raconte dans dans son livre antifragile
+qui est un de mes livres préférés pour
+le coup dans antifragile explique qu'en
+fait pour qu'une organisation soit
+vraiment antifragile faut qu'elle soit
+diverse faut qu'elle soit complexe faut
+qu'elle soit en réseau on peut pas si
+quelque chose est
+centralisé ça casse très très vite et
+donc il faut pas avoir trop peur du
+chaos quand on est dans une startup le
+chaos c'est pas c'est c'est c'est c'est
+c'est c'est pas une honte souvent les
+startup n'aiment pas le chaos parce que
+le chaos c'est ce qui leur donne l'air
+de pas être professionnel or les gens
+qui ont vraiment fait des choses
+extraordinaire sont des gens chaotiques
+je pensais récemment à cette anecdote
+qui me fait mourir de rire de Google et
+de leur Lego je crois que je l'ai déjà
+je l'ai pas raconté ça me dit
+rien Google au début quand ils étaient
+dans le data center ils avaient deux
+problèmes problème numéro 1 ils
+pouvaient pas acheter des boracs
+problème numéro 2 ils avaient pas
+d'employés pour gérer ses racs donc ils
+avaient créé un une sorte de rituel où
+le weekend les familles et les enfants
+des employés de Google venaient
+installer les câbles et les serveurs
+dans le data center et c'était un un
+truc de cohésion d'équipe
+le weekend et surtout il faisait ça sur
+des racs en Lego parce que il s'était
+rendu compte que les Lego avaient des
+propriété de dispersion de chaleur hyper
+efficace et donc il faisait faire au
+gosse des Lego pour faire les racs et il
+mettait les serveurs dedans c'était
+quand ça c'est bah c'était en 98 99 il
+s'avère que à l'époque il y avait un
+concurrent de Google don tout le monde a
+oublié le nom iomi qui avait levé
+beaucoup plus d'argent que Google et qui
+était fait par des gens sérieux tu vois
+des gens ont des des Angers tu vois puis
+ils avaient des beaux câbles en cuivre
+avec des trucs et tout et ces mecsl
+rigolaient en permanence à chaque fois
+qu'il voyaent les trucs de Google et les
+mecs qui travaillaient chez Google
+avaient
+honte pourtant c'est Google qui a gagné
+et c'est toujours comme ça c'est pas
+parce qu'en fait c'était des des loufoc
+non c'est parce que chez Google comme
+ils avaient pas de moyens ils étaient
+obligé de faire ce qui était essentiel
+et ils étaient obligés de le faire en
+cohésion et en force et ce qu' tu vois
+les câbles par rangés les trucs en Lego
+et cetera sont en fait une valeur
+ajoutée hors du commun et garder cet
+esprit startup et cette culture startup
+le plus longtemps possible dans une
+organisation c'est la clé pour unre
+organisation rendre cette organisation
+très antirragile parce que les mecs chez
+Google ils programmaient ce qu'ils
+avaient besoin de programmer ils
+développaient ce qu'ils avaient besoin
+de développer pendant ce tempslà chez
+ICOM il se branlent beaucoup et en fait
+ça rapporte rien de se branler il y a
+besoin à un moment donné d'avoir quelque
+chose qui soit sur le marché qui soit
+utile et qui soit essentiel et ça ça
+vient aussi du fait que les gens ont pas
+le choix parceils ont pas 36 moyens et
+ils doivent donc aller à l'essentiel le
+plus rapidement et le plus efficacement
+possible mais la honte que tu as de la
+façon dont ton organisation fonctionne
+tu dois pas avoir forcément la même pour
+le produit que tu mets sur le marché
+Infiné non bien sûr Google ça marchait
+très bien cé impressionnant et justement
+c'est tout le sujet c'est que tu dois te
+concentrer sur l'essentiel tu t'en fous
+qu'en backend ce soit le bordel si ton
+frontend est meilleur OK et donc c'est
+sur cette super transition qu'on termine
+cet
+épisode non parce qu'en fait cet épisode
+là on l' tourné avec Osama et ça a duré
+5 he en tout c'était très très long on
+s'est rendu compte qu'il y avait
+énormément de choses à couvrir pour
+arriver à à créer une growth machine
+donc on a décidé de le découper en deux
+on l' découpé sur ce premier épisode qui
+est l'introduction à la growth à la
+discipline de la growth donc je pense
+que maintenant après avoir vu l'épisode
+vous avez pigé ce que c'est et dans
+l'épisode suivant sur comment créer une
+growth machine elle-même on va vous
+montrer la méthode donc comment on fait
+cette fameuse boucle pour avoir des
+expérimentations growth qui sont créées
+hyper régulièrement et de voir bah que
+même s'il y en a peu qui ont du succès
+que la magnitude du succès de ces
+expérimentations là elle soit hyper
+forte donc on se retrouve au prochain
+épisode pour parler de vraiment la
+méthode et de qu'est-ce que vous pouvez
+mettre en place chez vous dans votre
+boîte pour arriver à faire en sorte que
+ça éclate tout

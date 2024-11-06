@@ -1,0 +1,171 @@
+bonjour j'espère que vous allez bien et
+que vous êtes prêt à conquérir le monde
+avec moi alors aujourd'hui le sujet dont
+on va parler est-ce qu'il faut recruter
+sur place pour s'internationaliser ou
+est-ce qu'il faut mieux envoyer
+quelqu'un de votre
+équipe alors il y a eu énormément de
+débats sur le sujet il y a deux écoles
+il y a plein de gens qui ont eu réussi
+leur internationalisation en envoyant
+quelqu'un il y a plein de gens qui ont
+réussi leur internationalisation en
+recrutant sur place en fait ce débat
+c'est un peu comme le débat est-ce que
+le café est bon pour la santé ou mauvais
+pour la santé il y a énormément de
+variables tellement compliquées qui
+agissent sur ce problème que si vous
+vous posez la question comme ça vous
+risquez de finir dans un débat sans fin
+le but du jeu ici c'est plutôt de se
+poser la bonne question c'est dans quel
+cas vaut-il mieux recruter quelqu'un sur
+place et dans quel cas vautt-il mieux
+envoyer quelqu'un de votre équipe en
+fait ça tient à un problème très simple
+c'est est-ce que la complexité locale
+est supérieure au produit ou est-ce que
+le produit est supérieur à la complexité
+locale je m'explique si vous vendez
+quelque chose qui peut opérer partout
+sans aucune contrainte locale dans ce
+cas-là vous feriez mieux d'envoyer
+quelqu'un de votre équipe pourquoi parce
+qu'il vient avec la culture les process
+la philosophie et apprendre le local à
+assez peu d'influence sur la croissance
+prenons un exemple très simple algolia
+vous faites un SDK de moteur de
+recherche qui soit en Chine qui soit aux
+États-Unis qui soit en France qui soit
+au Brésil c'est toujours le même produit
+donc vous avez plutôt besoin d'avoir
+quelqu'un qui connaît l'équipe qui
+connaît les process qui connaît les gens
+à la maison et qui peut obtenir des
+adaptations locales rapidement à prendre
+des adaptations locales c'est assez
+facile par exemple c'est comme ça que
+Goldman sax c'est internationalisé l'un
+des plus beaux exemples
+d'internationalisation du monde c'est
+comment une banque d'affaires comme
+Goldman SAXS a réussi à se développer
+partout à travers le monde et ben la
+façon de faire c'est qu'il prenaient des
+gens qui étaient au milieu de leur
+carrière qui étaient ambitieux qui
+avaient envie de devenir patron qui
+étaient pas encore prêt à prendre des
+responsabilité aux États-Unis et les
+envoyit développer des nouveaux marchés
+Goldman SAXS leur prenait localement des
+mentors pour apprendre les spécificité
+local mais le chemin c'est que comme
+Goldman vend de l'Advisory et que cette
+advisory est fin finalement le même
+partout puisque les mécanismes de vente
+d'une boîte de stratégie de
+positionnement et de pricing ne sont pas
+vraiment influencés par le marché local
+ce qui est influencé par le marché local
+c'est peut-être le prix les conditions
+et le légal mais tout ça s'achète auprès
+de prestataire local donc Goldman sax a
+envoyé des gens à travers le monde
+explorer les marchés et développer les
+les bonnes pratiques si ça marchait
+Goldman SAXS reprenait l'agent local et
+en faisait de devenir un dirigeant
+international et si ça marchait pas et
+ben il reprenait un nouveau une nouvelle
+personne pour réessayer le pays jusqu'à
+ce que quelqu'un réussisse à faire
+marcher le pays cette stratégie dite du
+siège qui se déploie est extrêmement
+efficace lorsque vous n'avez pas besoin
+d'adaptation culturelle je peux vous
+raconter une autre histoire
+d'internationale qui est marrante c'est
+celle de mon ami Fanny peschoda qui a
+lancé My Little Tokyo le business model
+de My Little Paris c'est de faire des
+boxes qu'on envoie avec avec des
+échantillons qui sont promus dans la
+newsletter de My Little Paris Business
+qui a été extrêmement successful
+extrêmement rentable et en forte
+croissance en France ils se sont dit que
+le Japon était une population fan de
+Paris qui aimerait recevoir des boîtes
+après un an de lancement ils se sont
+rendus compte de quelque chose d'assez
+étrange ils avaient une bonne croissance
+du nombre de nouveaux inscrits mais ils
+avaient un ch plus élevé que nulle part
+ailleurs c'est-à-dire que des gens se
+désabonnaient en masse pourquoi parce
+qu'en fait au Japon les appartements
+sont petits et les Japonais détestent
+jeter un cadeau donc quand ils
+recevaient une boîte ils affichaient la
+boîte dans leur appartement et au bout
+de deux trois boîtes ils avaient plus de
+place dans leur appartement et ils
+étaient tellement gênés à l'idée de
+jeter les boîtes qu'il préféraent se
+désabonner plutôt que faire l'affont de
+jeter la boîte reçue vous voyez ce genre
+de spécificité locale la seule façon de
+les comprendre c'est d'être local si
+vous débarquez de l'étranger et que vous
+espérez comprendre ce genre de secret
+bah bon courage parce qu'en fait il faut
+5 ans 10 ans de vie au sein d'une
+culture au sein d'un pays et le problème
+ici c'est que le produit a besoin d'une
+adaptation locale ce qui a sauvé My
+Little Paris c'est que quelqu'un de
+l'équipe qui était au Japon depuis des
+dizaines d'années a réussi à faire le
+pont entre le besoin local et la
+nécessité de produit et l'idée a été
+tout simplement de vendre des boîtes et
+d'envoyer des boîtes qui étaient
+transformable pour faire quelque chose
+une boîte on pouvait la transformer en
+origami une autre boîte on pouvait la
+brûler pour faire un T un feu parfumé
+une boîte et cetera et donc les boîtes
+ne prenaient plus de place et my little
+a arrêté d'avoir du churn vous voyez ce
+genre d'adaptation locale c'est des
+secrets très profonds dont votre produit
+a besoin de comprendre alors la question
+c'est comment savoir à priori si votre
+produit est adapté à la culture locale
+ou est-ce qu'il a besoin d'une
+transformation locale est-ce que votre
+produit est plus fort que le pays ou
+est-ce que le pays est plus fort que
+votre produit et ben il y a une façon
+toute bête de faire ça et qui est
+toujours la même chose c'est qu'il faut
+expérimenter tout simplement avant de
+faire des gros investissement avant
+d'aller sur place avant de développer
+votre entreprise de prendre des bureaux
+de faire des investissements lancer
+votre produit à l'international à
+distance et ce sera le sujet de notre
+prochaine vidéo comment faire en sorte
+de prendre le moins de risqu possible
+lorsqu'on s'internationalise pour
+réussir à maximiser ses chances de
+succès merci de nous avoir suivi dans
+cet épisode n'hésitez pas à nous
+raconter vos anecdotes drôles sur
+l'internationalisation sur usama à coup
+d'etat.co

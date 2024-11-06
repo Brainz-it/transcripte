@@ -1,0 +1,965 @@
+[Musique]
+donc pierck toi tu bosses chez the
+family ouais tout à fait euh et donc
+pour Léa on avait tout un sujet de
+d'automatisation de documents en tant
+qu'avocat tu bosses déjà avec Léa en
+fait pour automatiser une partie de ces
+documents ça j'ai déjà fait une une
+grande partie de ces documents et l'idée
+c'est de lui faire gagner beaucoup de
+temps et par exemple avec ce document
+passer plusieurs heures entre 4 et 8 sur
+sur ce document là et là aujourd'hui ça
+lu crée le document en moins de 30
+secondes ok c'est plutôt efficace c'est
+co du coup eu voilà un l'exemple de
+documents que la peut avoir là c'est les
+statuts constitutifs d'une société
+généralement les avocats ce qu'ils font
+c'est que ils ont leur template qui est
+déjà sur Word et ils mettent ils surlent
+en jaune toutes les variables qui sont
+jaunes et comme ça quand il quand ils
+ont à créer une nouvelle société ils ont
+juste à changer ces variables là et donc
+donc c'est le nom d'entreprise le
+capital l'adresse sociale la date sinon
+le reste du document c'est le même quoi
+sinon le reste du document comme vous
+pouvez le voir c'est exactement le même
+voyez tout ça c'est des parties qui
+changent pas alors là j'ai mis des
+l'orsum parce que comme c'est des
+documents legau on peut pas tout on peut
+pas partager tout les infos donc vous
+voyez là par exemple sur ce document là
+sur les sur les 36 articles je crois il
+y en a il doit y en avoir six qui
+changent ok VO c'est tous les mêm en
+fonction de la boîte en fonction de en
+fonction de la boî ça exactement donc
+euh l'idée c'est d'utiliser zapier
+zapier je crois que on en parle
+plusieurs fois dans la formation déjà
+euh zapier c'est un outil qui permet de
+connecter les API et donc là ça on va
+connecter euh
+Google sheet qui est le Excel de de
+Google et Google Doc qui est le word de
+Google
+aujourd'hui Léa quand reçoit les
+documents on lui dit ok là pour cette
+nouvelle société va y avoir va y avoir
+certains investisseurs et donc les infos
+qu'on a c'est généralement dans un
+tableau Excel c'est le nom
+l'adresse ça peut être la date de
+naissance et compagnie et la somme
+qu'ils investissent dans la société au
+départ donc là voilà là on on a notre
+liste d'investisseurs ici l'idée de
+zapierur c'est que ça fonctionne sous
+forme de trigger et ensuite
+action là nous ce qu'on veut c'est avoir
+un trigger que nous on puisse maîtriser
+lui dire ok toute ma data est
+prête vas-y shoot-moi les documents donc
+ça moi j'ai CR simplement un autre
+onglet et mon trigger il va être dans
+cette case là je la mettre tout de suite
+en jaune comme ça on est pas perdu et
+donc ça veut dire que dès que je vais
+rentrer n'importe quel data ici
+n'importe quoi je peux écrire n'importe
+quel mot des chiffres n'importe quoi ça
+va lancer le ça va lancer la la
+génération des documents en automatiqu
+donc là l'objectif final on est d'accord
+que c'est à ton ton document statut
+constitutif que tu veux pouvoir rentrer
+dans ton tableau Excel le nom de tous
+les investisseurs et ensuite trigger le
+lancement de parapier et qui génère ton
+document automatiquement OK c'est dire
+que c'est à partir d' Excel on fait
+juste un copiercollé donc du coup de de
+cette parti là ouais parce que c'est la
+seule qui change finalement et après ça
+fait tout le reste tout seul d'accord et
+donc toi dans ton dans ta partie trigger
+ici tu vas pouvoir à la fois lancer le
+truc et à la fois mettre les variables
+qui sont ça c'est quelques variables qui
+sont derrière et donc ça va te faire
+vraiment tout ton document en entier
+juste en disant parti lance ton script
+parfait
+zapier pour pour comprendre que c'est
+des variables a besoin d'une certaine
+syntaxe et elle est très simple il
+suffit de il suffit de mettre deux
+accolades deux acolades et de de coller
+tous les mots et de remettre deux
+accolades à la fin donc ça il va
+comprendre que c'est c'est une variable
+qui s'appelle non entreprise très simple
+on a juste à faire un contrô F on va
+faire
+euh nom
+entreprise
+et donc là il nous les a tous trouvé et
+on va faire un replay with d'ailleurs on
+pourrait même mettre les mettre leset
+les petits crochets
+euh hop et on va le remplacer par donc
+acolade
+acolade non
+entrepriseol
+acoladeolette voilà et là replace all
+et normalement normalement c'est bon
+changés ok seconde variable c'est le
+capital donc même
+opération contrô F on faire REPL et donc
+là on
+prend capital et on change
+en capital
+donc il en a trouvé quatre et on fait
+replace all et pouf elles sont toutes
+changé ok donc tu fais ça pour toutes t
+vari on fait pour
+touteson c'est un peu long mais une fois
+mais en fait on le fait une fois et
+ensuite ça bouge plus jamais donc làas
+toutes tes variables qui sont faites OK
+tout ce qui change dans le document tu
+as remplacé ça par juste deux acolates
+pour que puissent les reconnaître
+exactement alors maintenant il reste
+juste les phrases plus importantes du
+document que
+sont toutes les ici par exemple on a les
+S les sousign donc c'est le nom
+d'investisseur il demeure à tel endroit
+et à la fin ça dit ok tous ces gens-là
+ils constituent la société ok donc ça
+c'est les phrases les plus importantes
+il y a ça il y a toutes les questions
+d'apport tel investisseur apporte temps
+à la société au au démarrage il y a la
+répartition des parts qui est un point
+qui est assez complexe parce qu'en fait
+le premier maisons que le premier
+investisseur investisse 1000 € il aura
+la part 1 jusqu'à la part 1000 OK et
+suelui d'après il aura la part 1001
+jusqu'à euh le nombre de son
+d'investissement et le truc c'est que ça
+ça fait faire beaucoup de calcul et
+aujourd'hui
+euh il y a beaucoup d'avocats qui font
+ça à la main ce qui forcément génère pas
+mal de problèmes l'avantage I qui font
+le calcul quoi qu'il arrive ouis donc
+autant le faire une fois standardisé et
+automatisé et tu plus pour les prochains
+quoi exement et donc là j'ai changé
+toutes mes variables ce que je vais
+faire c'est qu'il faut que je leur donne
+maintenant exactement le même nom dans
+mon
+document qui est juste là j'ai tous mes
+triggers ici j'ai toutes mes variables
+qui sont ici qui sont là et maintenant
+faut que je leur donne exactement le
+même nom que dans le document pour que
+zap puisse les reconnaître et les et les
+confronter les mettre l'une en face de
+l'autre donc non entreprise moi ce que
+j'ai fait c'est que donc on avait dit
+sans espace donc ce que fait c'est mis
+entreprise capital ça pas changé siège
+là il y a un accent et zap aiment pas
+les accents du coup dans ma variable je
+l'ai changé et puis je l'ai raccourci un
+peu j'ai juste mis adresse siège parce
+que sociale on en a pas besoin
+euh date constitution et ben hop on a
+juste enleveré l'espace nombre de part
+total alors moi je l'ai appelé la
+variable je l'ai appelé nombre
+par Total comme ça et voilà donc là on a
+toutes nos variables qui sont là
+donc ça toutes les valeurs vont arriver
+ici très
+bientôt et reste les les quatre phrases
+les plus importantes dont je parlais
+tout de
+suite sous-signé apport la répartition
+desparts et les signatures et donc ça il
+va falloir aller dans une autre
+worksheet pour pouvoir faire le
+calcul donc allons voir comment ça se
+fait dans le
+document alors la forme c'est nom de
+l'investisseur virgule espace demeurant
+espace de point espace adresse de
+l'investisseur point virule ça c'est la
+syntaxe que les avocats souhaitent
+mettre ok nous il va falloir qu'on colle
+exactement à
+ça donc ce qu'on va faire c'est que on
+va on va mettre du texte et donc pour ça
+simplement on va faire on va on va
+concaténer des mots concaténer c'est les
+mettre les un les mett c'est les coller
+à les uns à la suite des autres donc je
+vais mettre dans ma première cellule
+égal
+conc
+Nate et donc là il va me dire ok
+qu'est-ce que tu veux que je mette en
+premier moi ce que j'avais en premier
+c'était nom deinvestisseur donc je vais
+aller le chercher dans le tableau qu'on
+avait et le premier investisseur c'est
+Doc Brown voilà donc là on a le nom
+d'investisseur ensuite il faut qu'on
+rajoute euh
+virgule espace demeurant a et compagnie
+donc ce qu'on va faire c'est que là
+simplement on va le mettre entre
+guillemets parce que ça ça veut dire que
+c'est du texte pur donc on a dit euh
+après Doc Brown il y a virgule espace
+demurant
+a tuas mis de tuas mis 2
+vir1 non c'est bon en fait la ah oui
+parce que tu as le ah oui c'est c'est
+après le texte c'est Virg ça c'est la
+syntaxe de Google sheet et donc moi ce
+que je veux en fait là ma valeur texte
+ça va être juste ce qui est surououi le
+virgule il et donc là on rajoute un
+espace et on ferme donc ça on lu dit ok
+après après Doc Brown toute façon
+regarde ça le met juste audessus là
+l'exemple oui d'accord ouais voilà et
+donc ensuite après ça ce qu'on veut
+c'est l'adresse donc simplement on met
+une virgule parce que c'est lui dit ok
+donc il y a le nom ce texte et encore
+une valeur et la valeur qu'on cherche
+elle est est juste là c'est
+l'adresse et donc maintenant il y a ça
+et après l'adresse il y avait un point
+virgule faut y penser donc on remet on
+fait une virgule on remet des
+guillemets ça et ensuite on dit OK et
+voilà là on a notre phrase qui est déjà
+toute faite et donc après ce qu'on peut
+faire c'est simplement la tirer et on
+descendra autant de fois qu'on a besoin
+ok la seule chose c'est que que nous
+dans notre tableau ici c'est sous forme
+de liste c'est numéro 1 numéro 2 numéro
+3 pour faire ça c'est compliqué à partir
+de plusieurs cellules de les mettre les
+unes de de les mettre ensuite dans un
+tableau et que soit numéroté sous forme
+de liste donc moi ce que j'ai fait c'est
+que j'ai un peu j'ai j'ai un peu triché
+donc là il va falloir qu'on rajoute
+quelque chose parce que en fait si on
+veut tirer la cellule comme on va voir
+là au bout d'un moment on va avoir un
+bug parce plus parce qu'il y a plus de
+valeur donc en fait il va falloir lui
+dire
+ok
+si si il y a du texte dans la dans la
+case donc
+is
+text dans la case donc c'était la
+première là Doc Brown
+clac virgule on
+concatainne et si il y a rien
+virgule on fait
+rien si on tire et ben en fait
+maintenant comme il y a plus de texte il
+affiche rien alors quand je tire je
+prends le je prends le petit coin et je
+tire là ça applique la formule alors
+après comme ça vous pouvez descendre
+jusqu'à une centaine toutçon il y a
+rarement plus de 100 ouis dans ce cas ou
+voil ok donc là maintenant tous ces
+trucs là existent mais comme on disait
+tout à l'heure moi j'ai besoin que comme
+comme ça va être sous forme de liste
+dans mon dans mon template j'ai besoin
+que ça passe à la ligne donc là on va
+utiliser une autre formule donc on se
+met dans la case d'à côté et on lui dit
+ok donc tu vas me
+concaténer cette case là et avec ça moi
+derrière je veux si il y a une valeur en
+dessous ici je veux que ça me passe à la
+ligne donc je concatainne la valeur ici
+plus un retour à la ligne donc on part
+sur
+concaténé
+concaté Nate je vais y
+arriver concatenate
+euh donc on concatène le texte de la
+première case ensuite virgule et c'est
+là qu'il y a encore une petite formule
+c'est
+si il y a du texte
+dans la case d'en
+dessous dans ce
+cas-là on met on
+fait 4 10 qui va permettre de pouvoir
+passer à la ligne et juste et si il y a
+pas de texte en dessous et ben on fait
+rien donc de petites guets à l'intérieur
+ça veut dire qu'il y aura pas de Tex sur
+rien pour que du coup dans ta dans ta
+case tu à la suite tous les trucs à la
+ligne c'est ça c'est quoi c'est quoi
+charis ça ça permet de passer à la ligne
+d'accord ok donc en fait ah oui donc
+l'idée l'idée c'est çac donc donc on
+prend le texte de la première case et si
+dans la case d'en dessous il y a du
+texte il fait la première option
+c'est-à-dire passer la ligne et si dans
+la caisse d'en dessous il y a rien et
+ben il fait rien d'accord voilà et donc
+on accepte et donc là vous voyez qu'il a
+mis il a fait un retour à la ligne et là
+si je
+tire on va tirer jusqu'à 100 comme tout
+à
+l'heure donc avec ton ta formule
+concatenate avec le retour à la ligne ça
+fait que s'il y a une dans la ligne
+suivante quelque chose tu vas mettre un
+retour à la ligne pour que ça te fasse
+dans ton document des sauts de ligne
+quoi c'est ça sauf si jamais c'est le
+dernier au quel cas tu vas pas rajouter
+une ligne à la qu exactement exactement
+ça ok donc me voilà avec mes deux
+formules là j'ai if il y a du texte dans
+dans mon tableau donc cette case là
+ce que tu fais c'est que tu me tu me
+concatenes donc tu me colles la valeur
+donc le nom du de
+l'investisseur plus du texte plus
+l'adresse de l'investisseur plus un
+pointvgule OK ou donc ensuite je peux
+tirer ma colonne la deuxième colonne ça
+me dit ok tu
+concatenes tout ce qu'il y a dans la
+case
+A1 donc la phrase que je viens de faire
+plus s'il y a du texte en dessous un
+passage à la ligne
+ce qui fait que là on a tous les
+passages à li sur tout c sauf le dernier
+comme le dernier a pas de texte ici et
+benr
+directement le truc c'est les j'ai pas
+Enie de les voir à la fin ce que je
+faiste ça je
+dis
+ici pardon
+clac et ben donc s'il y a une erreur ici
+il est censé faire quelque chose
+derrière bon nous on a envie qu'il fasse
+rien qui justement qui fasse vraiment
+rien
+donc donc on va laisser comme ça donc
+maintenant on peut tirer et on va voir
+que une fois qu'on aura passé à
+l'endroit où il y a les NA et ben en
+fait ça va plus rien afficher parce
+qu'en fait s'il y a une erreur et ben il
+affiche rien d'accord voilà et ça et et
+donc ça c'est tous les textes qu'on va
+vouloir avoir donc comme je disais tout
+à l'heure dans mon tableau ici les
+soussignés donc on peut faire le test
+tout de
+suite on va dans trigger et dans les
+soussign on va reconqu con c'est la
+formule parfaite on peut tout faire avec
+con et donc là maintenant on a plus qu'à
+choisir les champs qu'on veut concater
+moi c'est tout de la ligne de la colonne
+C hop on ferme la formule et voilà ils
+sont tous là les en dessous des autres
+donc quand on va les ajouter dans le
+document et ben ils vont tous venir se
+mettre les dessous des autres parfait
+alors là ici c'était juste un exemple
+donc il faut qu'on enlève
+ça et en fait ça et en fait ça ça va
+devenir notre nouvelle variable et c'est
+ce que nous on avait appelé dans notre
+document soussigné donc on a juste à
+l'ajouter
+[Musique]
+euh ouis il y a pas d'accent parce que
+les voilà donc là maintenant quand on va
+le rentrer dans le document bah ça va
+tous les mettre les un en dessous des
+autres en forme sous forme de liste
+parfait et donc ben maintenant on va
+faire la même chose mais avec euh les
+apports donc les apports qu'est-ce que
+c'était c'était le nom d'investisseur
+apporte à la société l'investissement
+qui fait et le symbole euro voà c'est
+exactement la même chose qu'on va faire
+alors on pourrait même aller encore plus
+vite en
+disant en faisant un copier-coller de de
+C truc là donc on va faire
+duplicate ici et en fait on va juste
+changer ce qu' là donc on va dire ok
+s'il y a texte dans la colonne tu me
+concates donc le nom de l'investisseur
+et là on va juste changer le texte qui
+est là et on va dire
+apporte à
+la
+société la somme
+de et donc là maintenant on a besoin
+d'avoir un chiffre en particulier qui
+est le qui est la la somme apportée par
+l'investisseur donc ce qu'on va faire
+c'est que on va aller on va aller la
+chercher directement moi je vois que
+dans mon tableau c'est c'est
+C2 donc on va juste faire la petite
+modification ici c'est
+C2 Bou et donc là normalement on va y a
+tout qui va se con clac ah il nous a
+manqué voyez un petit espace ici donc on
+va juste corriger il faut rajouter un
+espace
+ici som 2 et il manque le petit symbole
+euro qu'on va rajouter tout de suite
+euro et voilà et ça c'est c'est déjà
+fait parfait donc là maintenant tuas
+deux onglets un pour G Souss signé et un
+pour pour générer tes signatures c'est
+ça c'est ça il reste plus qu'à tirer la
+formule clac clac
+clac et voilà et donc là on a déjà notre
+notre tableau qui est fait et donc on va
+retourner dans notre trigger et là on a
+juste à
+faire égal concatenate
+encore et on va aller chercher la
+colonne qui va bien qui est
+celle-ci on fait ça et pouf ça arriv
+directement alors là on va passer à la
+partie qui est peut-être la plus
+compliquée c'est de la répartition des
+partart qu'on va faire c'est que on va
+repartir de ort on va redupliquer comme
+ça ça nous évite d'avoir retaper toutes
+les formules et on va
+la
+répartition par
+ok donc là voyons quelle forme ça prend
+ça prend nom de l'investisseur deux
+points nombre de
+pars et par numéroté de X à y donc c'est
+par exemple Doc Brown à 1500 par numéot
+de 1 à 1500 euh le nombre de parts total
+on l'a déjà parce que c'était une des
+variables qui avait un tout petit peu
+plus haut et la valeur d'une part on l'a
+déjà parce qu'ici c'est 1 € c'est marqué
+en brut dans le texte parce que
+généralement c'est un truc qui change
+pas trop du coup on sait que une part
+égale 1 € donc là on va même pas
+s'embêter on va partir du principe que
+l'investissement qu'il fait c'est le
+nombre de pars qu'il a dans la
+société nombre de parc ici c'est très
+simple parce que le nombre de parc qu'il
+y a
+c'est 30000 OK
+voilà donc
+euh ce qu'on peut faire maintenant c'est
+on retourne dans répartition par et on
+va changer un peu tout ce qui est là
+euh on va se mettre dans une colonne un
+tout petit peu plus loin et on va faire
+les calculs départ donc on a dit que le
+premier il avait la part numéro 1
+jusqu'à euh la par
+son numéro son investissement numéro son
+investissement non numéro son
+investissement parce que c'est une
+question d'interval oui exact ok voilà
+et le second du coup il
+a la il a la part d'après donc +
+1 et ici c'est plus et donc jusqu'à la
+part son
+investissement00 la part en fait c'est
+ça plus son
+investissement qui est ça
+ok son investissement et donc du coup là
+on voit qu'il y a un problème parce que
+lui il
+investit il investit 1000 parts et là on
+se retrouve avec 100 une part donc en
+fait ici il faut faire
+mo-1 pourquoi parce que c'est c'est
+toujours une question d'interval et donc
+maintenant qu'on a ça il y a plus
+d'erreurs possibles alors il faut pas
+tirer à partir de la première parce que
+la première elle est elle est fixe faut
+tirer à partir des autres et donc là
+maintenant il a plus qu'à tirer
+jusqu'à jusqu'à beaucoup hop et donc là
+ensuite forcément ça se cumule mais tout
+ça c'est pas grave parce que ça va être
+ce sera enlevé un tout petit peu plus
+tard vous allez voir donc là on a dit
+alors ça prenait quelle forme déjà ça
+prenait nombre l'investisseur de points
+nombre de pars par numéroté de X à y OK
+donc là on a quatre variables on a le
+nom le nombre total de part le numéro de
+la première part et le numéro de la
+deuxième part de la dernière
+part c'est parti alors donc on a dit on
+a toujours le nom de de
+l'investisseur première chose à faire
+c'est que juste derrière on sait qui
+donc tout ce qui est là on va pouvoir
+changer
+clac on va avoir deux points deux
+points et ensuite valeur qui va y avoir
+juste derrière c'est le nombre de part
+c'est le nombre de part qu'il a et donc
+chez nous c'était on va aller revérifier
+ça on va aller cliquer directement
+dessus ce sera plus simple c'était
+celle-là hop
+OK et donc ensuite il y a encore des
+choses à écrire on retourne là on a dit
+que c'était
+euh par numéroté de X de regardez me
+faire un copiercoller comme ça on est
+sûr de pas se
+tromper on retourne là et donc là on va
+recréer une zone de
+texte et on copy colle ce qu'on vient de
+mettre alors pensez bien à mettre les
+espaces avant après juste pour des juste
+pour éviter de que les mot so Doc Brown
+de 1500 par numéro et donc là maintenant
+on fait virgule ce qui est bien c'est
+oua comme tu dis à chaque fois il y a le
+il y a ça le fait c'est toute façon
+c'est incroyable comme outil hein c'est
+hyper c'est bien plus puissant qu'Excel
+quand on sait l'utiliser euh donc là la
+par numéro 1 c'est celle-là virgule
+ensuite il faut du texte parce que c'est
+la part entre entre X et Y donc on
+rajoute simplement
+et on ferme virgule c'est a non a c'est
+peut-être ah ouis en effet
+ouais tu as raison par numér a et donc
+ensuite on va prendre la valeur finale
+qui est
+celleel et comme d'habitude faut penser
+à mettre un pointule à la fin c'est la
+sytaxoc et donc là onroise pour ça
+marche et on a directement on a
+directement la phrase qui est faite donc
+maintenant on a plus qu'à tirer tout ça
+clac et voilà ça c'est fait et donc on a
+bien comme on disait au final les 30000
+parts
+effectivement donc maintenant on peut
+retourner dans
+trigger dans la dans la case répartition
+départ on a plus qu'à faire comme tout à
+l'heure
+concatenate et puis on va aller
+chercher la colonne qui va bien qui est
+celle-là
+et on ferme et voilà toutes les parts
+sont sont mises et maintenant les
+signatures il y a rien de plus simple on
+va on va créer une nouvelle une nouvelle
+page qu'on va appeler signature et les
+signatures qu'est-ce que c'est bah c'est
+simplement les noms des des actionnaires
+de la société qui sont placés les un en
+dessous des autres donc voà on est juste
+à c'est la même chose quoi on pourrait
+même faire un concatenate plus simple
+que ça et donc là on va
+faire égal
+ça on va
+tirer et comme d'habitude il va falloir
+qu'on passe à la ligne donc on va
+simplement faire un copiercoller de la
+formule qui
+là et on va la coller ici et voilà déjà
+ça vous a mis do avec le passage à ligne
+comme d'habitude jusque là a rien qui
+change et on a besoin de rien de plus
+donc on est juste à tirer plus ou moins
+et voilà on a directement tout ce qui
+est là et donc on retourne encore une
+fois dans trigger on fait
+concatenate on choisit la colonne qui
+nous arrange
+bien et voilà et il y a tout et il y a
+tout et donc maintenant ce qu'on peut
+faire c'est remplir les quelques
+dernières données qu'il va falloir qu'on
+remplisse donc n d'entreprise au hasard
+on va l'appeler ça coup d'État au
+hasard au hasard mais il y a des
+investisseurs styl che coup
+d'État capital et ben c'était la somme
+des c'était la somme qu'on a fait tout à
+l'heure B là on va pas s'envêter à faire
+une somme on va directement mettre 30000
+parce qu'on a fait le calcul tout à
+l'heure ça c'est plus simple de le faire
+la main par moins de temps et au moins
+on est sûr de qu'il y a pas
+d'erreur l'adresse et ben on va mettre
+ici c'est 25 r du petit muscle
+du petit musque à
+Paris date de la Constitution et ben ce
+sera on va dire que c'est le 1er
+janvier
+2019 et le nombre de part total et ben
+c'était le nombre qu'on avait tout à
+l'heure donc comme on a dit qu'elles
+étaient toutes cé toutes des part de 1
+et ben c'est exactement le même nombre
+que pour le capital donc B c'est
+30000 voilà donc ça c'était la partie
+sûrement la plus compliquée donc là
+c'est vraiment donc si on si on
+récapitule je peux bien
+sûr donc si on récapitule tu pars d'une
+d'une data qui est donc ça c'est un truc
+qui est envoyé enfin que que Léa va
+créer elle-même c'est ça soit soit soit
+on lui a envoyé soit c'est qui a créé
+mais c'est un truc qui est très simple
+c'est vraiment la liste des
+investisseurs avec leur adresse c'est
+l'investissement qu'ils ont fait et toi
+dans chaque onglet tu vas venir créer
+les différents euh trucs qui vont se
+mettre c'est où Ton c'est là tu donc
+toutes tes variables ici tu vas créer un
+nouvel onglet qui va te permettre de
+remplir ces variables là donc toutes les
+variables simples elles sont directement
+mises dans le trigger donc là où c'est n
+entreprise il y a rien à créer de
+spécial il faut juste écrire le nom et
+cetera et toutes les variables complexes
+genre je suis je soussigné machin avec
+tous les noms à la ligne et cetera tu
+vas créer un onglet qui permet de faire
+les calculs et d'avoir finalement le
+texte qui est euh le texte complet dont
+tu as besoin pour dans ton document
+exactement OK et après une fois que tu
+as ça il y a plus qu'à trigger zapier
+pour que ça aille remplir ton document
+exctement c'est main c'est maintenant
+que la magie opère et donc on va passer
+sur zapier zapur comme je disais tout à
+l'heure c'est trigger action nous on a
+dit que le trigger c'était cette case là
+c'est-à-dire que dès qu'on rentre
+n'importe quoi dans cette case ça va
+lancer
+zapur donc nous notre trigger c'est
+Google sheets et qu'est-ce qu'on veut
+derrière on veut que ça remplisse un
+Google Doc donc simplement Google Doc
+Google Doc cl et donc qu'est-ce que je
+veux que ça fasse je veux que dès qu'il
+y a une nouvelle ligne qui est qui est
+mise à jour donc update ici ça va
+lancer créer document from text donc ça
+va créer finalement un template et faire
+use zap hop donc là ça ouvre l'interface
+de création de
+zapierur donc voilà vous arrivez
+là-dessus Google
+sheet
+nuro clac là vous connectez bien à votre
+compte donc moi c'est pierri
+clque voilà et à partir de là vous allez
+lui dire
+ok moi je veux que ce soit dans un dans
+un spreadsheet particulier et moi c'est
+le spreadshet qui s'appelle data for
+template la worksheet nous on a dit que
+c'était donc dans le worksh
+trigger
+celleci et là il n dit ok quelle est la
+colonne exactement qui va être le
+déclencheur nousous on set une déjà et
+c'est la colonne que j'ai appelé trigger
+simplement et donc on va la choisir
+c'est la colonne
+trigger voilà juste la colonne
+A voilà donc là
+continue donc là il est parti chercher
+l'information qu'il avait et ça ça ça
+nous permettre de pouvoir
+tester
+donc
+continue
+cl donc ce que je veux c'est un Google
+Doc ah alors là tout à l'heure il nous
+proposait from text en fait nous ce dont
+on a besoin c'est from template et vous
+voyez il vous met bien dans les
+explications qu'il faut bien la
+nomenclature
+euh acolade àolade non acolade acolade
+ok donc on choisit ça
+claac on continue donc c'est bien
+connecté à mon google
+doc et donc là maintenant on va
+simplement aller chercher tout d'abord
+le
+document alors moi j'ai j'ai une petite
+astuce euh
+H qui permet juste d'aller un tout petit
+peu plus vite c'est vous faites custom
+value et vous allez chercher sur votre
+document en fait l'ID du document elle
+est unique euh partout dans le monde ce
+sera la seule c'est la seule ID que vous
+avez pour votre document et en fait
+c'est celle qui est
+ici ça c'est une petite astuce que m'a
+donné le support de zapier quand j'ai
+pas réussi à le faire sin tu dois
+chercher dans tous tes documents Google
+Docs depuis le truc zapè c'est ça et en
+fait au bout d'un moment la machine elle
+peut se prendre les pieds dans le tapis
+et et donc ça et donc ça pose problème
+là la it je sais laquelle c'est parce
+que c'est généralement celle qui est
+entre entre ces deux Slash et après il y
+a juste edit derrière qu' faut pas
+prendre et c'est exactement pareil pour
+pour pour Google sheet l'ID c'est
+celui-là voyez il y a encore edit donc
+vous savez que c'est tout ce qu'il y a
+avant voilà euh document name et ben on
+va l'appeler par exemple le
+ST
+statut
+constitutif et donc là maintenant on va
+mettre une variable comme ça ça va
+pouvoir nous permettre de de mettre le
+nom de la boîte à chaque fois et comme
+ça à chaque document que ça va créer ça
+va créer un document avec le nom de la
+boîte et où est-ce qu'on veut que ce
+soit alors moi j'ai pas envie que ce
+soit dans dans dans la racine de mon
+Google Doc j'ai envie que ce soit dans
+le dans le dossier qui s'appelle coup
+d'État anyone can
+SC
+cl et ben maintenant il reste juste à
+remplir à mettre la variable donc gole
+en face de la variable de Google ce que
+zap a fait c'est qu'il a scanné ton doc
+Google Doc cherché tous les trucs où il
+y avait des accolades et là il dit bon
+maintenant j'ai trouvé qu' ça faut que
+tu me donnes la valeur et tu vas pouvoir
+les prendre dans ton qu'est-ce que tu
+veux mettre en face et donc maintenant
+il a juste
+vous cliquez juste là sur le petit sur
+le petit plus et puis il y a juste à
+remplir donc non entreprise c'est coup
+d'État capital c'est
+ça adresse siège
+c'est adresse siège date de constitution
+c'est ça
+sous-signer ça nombre de part
+total c'est celui là et là on se rend
+compte qu'il nous manque trois variables
+qui sont apport répartition part et
+signature ce qu'on va faire c'est qu'on
+va et ça c'est parce qu'en fait on les a
+pas mis dans le document encore d'accord
+donc ce qu'on va faire c'est qu'on va
+retourner dans le document et où là on
+avit mis soussigné en fait on l'a pas
+fait pour les autres pour pour les
+autres phrases donc là ici c'était
+apport donc
+simplement apport ici c'était
+répartition par on va faire répartition
+par
+hop alors attention faut pas mettre les
+accents je vais arriver
+répartition par OK et donc là maintenant
+les etcetera il faut les enlever parce
+qu'on en a pas besoin sinon ça va
+apparaître dans votre document et ça va
+pas faire très pro et là tu laisses tes
+tes points exactement ici il va falloir
+les enlever ok hop voilà et donc là il
+nous manque le dernier qui est les
+signatures tout au
+fond ici on va
+faire
+signature et ça on enlève parce que
+c'était la même chose voilà et alors
+maintenant si vous avez pas envie
+d'avoir toutes ces zones qui sont
+surlignées en
+jaune et ben parce que c'est pas très
+joli et que ça va apparaître dans votre
+document si vousz laisser en jaune et
+ben vous faites un petit contrôle all
+donc contrôle a et vous faites non et
+pouf tout a disparu et donc on retourne
+dans un pieur et là vous voyez que
+finalement bah comme comme il manquait
+des des variables et ben il les a pas
+capté donc ce qu'on va faire c'est qu'on
+va lui dire eoh est-ce que tu peux me
+refresh etanner le doc exactement
+rcanner retourner voir les variables
+voilà et là il en a trouvé d'autres donc
+il a trouvé apport qu' en était une qui
+nous manquait
+cl c'est la fameuse armée de robot
+donama parle
+voil qui me sert
+énormément répartition
+par et
+signature DESC un petit
+peu et donc là on va faire le test et ça
+va être le moment magique
+alors on va pouvoir tester
+directement et donc là ça va permettre
+de pouvoir faire un premier document et
+donc là maintenant je vais retourner
+voir dans dans mon
+dossier statut constitutif coup d'État
+ok il a été
+créé voilà on a coup d'État société
+commerciale le B capital et donc tout ça
+ça a été fait correctement voilà vous
+voyez les sous-signés qui sont tous très
+propres cûpt
+d'État toutes les valeurs ont été ont
+été ajoutées tout ce qui a été apporté
+vous voyez c'est c'est propre il y a pas
+de passage à la ligne il y a pas
+d'erreur ici pareil dans dans le nombre
+départ il y a aucune erreur parce que
+c'est la machine qui l'a faite donc on
+est sur il y a il y a pas place pour
+pour pour l'erreur humaine en fait et
+pareil à la fin où on doit avoir toutes
+les signatures
+qui sont ici voilà voyez il y a alors
+moi ce que j'ai fait dans mon template
+simplement c'est que j'ai mis de
+l'écart de l'écart entre les lignes
+simplement pour qu'il la place pour
+parce que sinon ça va vous coller tous
+les noms et ça ça va plus fonctionner ok
+donc on a vu que ça avait fonctionné ce
+qu'on va faire c'est qu'on va c'est que
+du coup là c'était simplement le test de
+zapierur donc maintenant ce qu'il faut
+faire c'est lancer le Zap pour que à
+chaque fois que vous déclenchez dans le
+document ça fasse la même chose donc on
+va faire
+finish clac clac et vous faites
+on voilà alors maintenant il est on
+c'est-à-dire que quand vous allez
+changer vos valeurs mettons qu'on va
+mettre coup d'État
+euh real test ça va être le nom
+d'entreprise ça va nous permettre de de
+voir si le document a bien été changé pr
+élément déclencheur je fais ça on va
+attendre quelques secondes parce qu'il
+faut que zapier se lance juste derrière
+et donc on va attendre quelques minutes
+et ça devrait
+apparaître et voilà mon document est
+arrivé donc vous voyez bien qu'il a le
+il a le il est le nom qu'on lui avait
+mis voilà coup d'État Bril test et donc
+voilà là c'est un autre document il a
+bien ajouté les quelques un qu'on avait
+copier-collé et voilà et donc maintenant
+à chaque fois que vous changerez une
+valeur
+une la valeur qui a ici pour mettre
+n'importe quoi et ben ça rééditera un
+document avec toutes les valeurs qui a
+ici voilà parfait magie de zapier la
+magie de Zapi ouais trop
+bien et donc du coup ça c'est un
+mécanisme qu'on peut reproduire à tous
+les autres documents c'est un mécanisme
+qu'on reproduit aussi dans d'autres
+situations avec d'autres outils
+Z c'est un outil hyper puissant en fait
+gen fondamentalement c'est moi c'est un
+des trucs que je préfère c'est
+incroyable parce que ça te permet de
+coder sans coder d'avoir vraiment des
+automatisations et donc tu peux tout
+suivre et tout ENF ça vaut vraiment le
+coup
+de dessus quoi voilà là voyez que ici il
+a fait une tâche qui était créé un
+nouveau document à partir d'un quand
+quand une nouvelle case est est remplie
+et donc là il il vous explique
+exactement ce qu'il a fait voyez data in
+donc tout ça c'est ce qu'on a rentré
+data out c'est bah c'est le document
+qu'il a créé voilà trop bien N et voilà
+et donne le nombre de tâches et tu payes
+au nombre de tâches et c'est ça bah
+écoute lourd ben j'espère que j'espère
+que ça aidera chque-moi ça mec c'est
+lourd trop bien trop bien
+ben merci beaucoup du cartel

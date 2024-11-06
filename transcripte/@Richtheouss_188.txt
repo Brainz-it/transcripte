@@ -1,0 +1,963 @@
+bonjour J'espère que coup d'État ça vous
+plaît toujours alors comme vous l'avez
+vu dans l'épisode précédent le fait de
+faire une équipe de créer une entreprise
+qui scale ça pose des petits problèmes
+d'organisation alors j'aimerais faire
+une petite disgressiontion avec vous et
+aborder un sujet qui me passionne qui
+est celui du design des organisations
+alors en anglais on appelle ça
+organizational behavior c'est tout le
+champ d'étude qui vise à établir des
+règles des méthodes des conseils pour au
+mieux optimiser l'organisation du
+[Musique]
+travail alors petit cours d'histoire
+l'organisation du travail ça a commencé
+avec un sociologue qui a étudié ça qui
+est français qui s'appelle durkim et qui
+a essayé de comprendre comment les
+organisations changer leur mode
+d'organisation en fonction de leurs
+objectifs et il a appelé ça la division
+sociale du travail c'était l'idée Queau
+19e siècle pour la première fois on a
+commencé à spécialiser les gens dans des
+tâches pour les mettre dans des usines
+pour augmenter la productivité c'était
+la première fois de l'histoire où les
+gens n'avaient pas un métier mais une
+fonction prenons un exemple si vous êtes
+forgeron alors lorsque vous êtes
+forgeron vous faites beaucoup de
+fonctions vous avez pas quelqu'un qui
+tape le métal quelqu'un qui le chauffe
+et quelqu'un qui le met dans l'eau c'est
+la même personne qui fait tout ça enfin
+je crois que c'est ça un forgeron mais
+c'est des images un peu caricaturales et
+B c'est un peu la même chose avec la
+division sociale du travail l'idée là
+c'est que le forgeron pour être plus
+efficient plus efficace on a créé des
+usines et dans ces usines on a dit à un
+type toi tu vas mettre que dans l'eau
+toi tu vas que taper et toi tu vas que
+chauffer et comme ça on augmente la
+productivité en spécialisant les tâches
+alors petit problème de l'organisation
+sociale du travail de la division
+sociale du travail c'est que c'est
+profondément déshumanisant être à la
+chaîne et transformé en machine à tout
+le temps et tout le temps et tout le
+temps faire la même chose il y a que au
+Japon finalement où les gens semblent
+apprécier ce genre d'organisation mais
+cette première tentative un peu mal
+àroite d'organisation a ouvert un champ
+un champ incroyable qui est que les
+organisations s'inventent au fur et à
+mesure des objectifs alors dans le monde
+des start-ups il y a énormément de gens
+qui optimise et Innov dans
+l'organisation des structures alors pour
+une raison assez simple la plupart c'est
+par incompétence comme la plupart des
+créateurs de grandes entreprises et les
+créateurs de start-up n'ont jamais
+travaillé dans un boulot classique bah
+ils savent pas trop comment le boulot
+classique est organisé donc ils
+inventent un peu leur méthode en
+fonction des besoins alors il y a des
+grandes histoires et des grands cas
+d'école sur comment Google Facebook uber
+et cetera ont innové autant dans leur
+entreprise que dans leur organisation
+alors c'est un sujet moi qui m'intéresse
+beaucoup à the family et sur lequel je
+passe énormément de temps avec les
+fondateurs c'est d'essayer de comprendre
+très précisément comment leur
+organisation peut être adaptée à leur
+objectif alors entendez-moi bien un truc
+que je peut pas blairer c'est
+l'idéologie il y a d'un côté les
+partisans de l'entreprise libérée les
+partisans de l'entreprise je sais pas
+quoi les partisans de de type
+d'organisation du lin du agile du Scrum
+du pop du boom du badabou en fait le
+problème de tout ça c'est que ces
+gens-là ils préfèrent parler de religion
+plutôt que être efficace euh si votre
+entreprise a besoin d'un quart de Scrum
+3/4 de truc et et et le une pincée de
+division sociale du travail bah vous
+faites ce qu'il y a besoin et le but
+c'est pas de parler en permanence et de
+d'essayer de justifier son mode
+d'organisation non c'est de construire
+un mode d'organisation qui fait sens au
+sein de votre entreprise alors on va
+voir ensemble c'est quoi les grands
+modes d'organisation qui font sens dans
+dans les start-ups et pourquoi une
+start-up qui scale est sous une pression
+très différente des entreprises
+classiques la première euh chose à
+savoir c'est que une start-up elle doit
+se réinventer à chaque fois qu'elle
+double de taille grosso modo la bonne
+règle à avoir c'est qu'à chaque fois que
+vous doublez de taille vous vous asseyez
+une journée et vous réfléchissez à
+comment organiser le travail de votre
+entreprise et comment tout détruire pour
+reconstruire alors j'insiste beaucoup
+là-dessus une organisation ça fonctionne
+par rapport à une certaine taille
+l'organisation nécessaire pour faire
+fonctionner 50 personnes n'a rien à voir
+avec l'organisation nécessaire pour
+faire fonctionner 5000 personnes cette
+règle du doublement de la taille est une
+règle inspirée de Patrick couison le
+fondateur de stripe qui a cette petite
+cérémonie ce petit rituel c'est qu'à
+chaque fois que stripe a doublé de
+taille ils ont repris à 0 100 % de
+l'organisation 100 % des postes alors
+laissez-moi être hyper radical sur ce
+sujet-là je vous encourage le plus
+possible à remettre à plat tout il n'y a
+rien de pire dans les start-up que la
+Legacy la Legacy c'est quoi c'est le
+fait d'hériter des choses parce qu'on a
+déjà fait des choses alors le problème
+c'est que quand on grandit vite ça peut
+donner lieu à de nombreuses
+réorganisations qui donnent un peu le
+tourn aux gens et l'impression que c'est
+le chaos alors mes chers startupers
+laissez-moi vous dire que si vous aviez
+un Dieu il s'appellerait keros le dieu
+du hasard le Dieu de l'opportunité le
+dieu du Chaos n'essayez même pas de
+lutter contre cette nécessité le chaos
+est inhérent au start-up et le
+changement est nécessaire si vous ne
+vous reconstruisez pas à chaque fois que
+vous doublez de taille vous allez
+prendre le risque d'hériter de
+structures qui ne sont pas adaptées à
+votre nouveau challenge alors c'est quoi
+les tensions de scale grosso modo quand
+on est deux personnes et qu'on est deux
+fondateurs au début de son aventure on n
+pas besoin d'organisation d'ailleurs
+j'ai vu beaucoup de gens faire des des
+sprints des machins des trucs passer
+plus de temps à configurer un traot que
+travailler j'ai jamais trop compris ce
+genre de passion je sais qu'il y a des
+gens qui ont un peu une fantaisie de
+l'outil un une sorte d'esthétisme qui
+voudrait que quand il configurent un
+truc ils ont l'impression de travailler
+mais quand on est deux le fait d'être
+dans la même pièce à échangé
+informellement ça suffit largement c'est
+beaucoup plus rapide et beaucoup plus
+efficace alors l'étape d'après c'est
+quand on est qu alors quand on est qu
+l'informel fonctionne toujours mais on
+commence à avoir besoin d'une
+communication plus formelle on commence
+à avoir besoin alors la forme
+d'organisation la plus simple à ce
+stade-là c'est le point
+hebdomadaire il y a des entreprises qui
+appellent ça les standup et cetera où
+tout simplement on se dit sur quoi on va
+travailler c'est quoi les objectifs le
+but à ce stade là c'est de créer un
+niveau d'accomptabilité
+8 ça reste encore assez simple 8 on peut
+garder cette forme d'organisation et
+rajouter un petit bonus qui est un
+rapport mensuel envoyé à toute l'équipe
+fait par le SIO un simple email voilà
+les gars ce qu'on a fait ce mois-ci
+voilà où on arrive voyez à chaque étape
+l'idée c'est de réfléchir la base de
+toute organisation c'est l'information
+et comment cette information est
+dispersée alors le drame c'est que quand
+on passe de 8 à 16 arrive la première
+tension réelle d'organisation qu'est-ce
+qui se passe à 16 à 16 on est à une
+taille où tout le monde ne peut pas
+savoir ce que tout le monde fait et si
+tout le monde sait ce que tout le monde
+fait vous allez avoir le premier
+ralentissement grosso modo c'est le
+moment où il faut réussir à créer cette
+culture du je fais confiance j'ai pas
+besoin de savoir je m'explique une bonne
+organisation dans une start-up qui scale
+n'est pas mesurée à son efficacité n'est
+pas mesurée à son taux de réussite dans
+les décisions elle est mesurée par sa
+vitesse c'est assez contreintuitif mais
+la vitesse c'est ce qui fait la
+différence entre deux entreprises
+supposons une entreprise remplie de gens
+idiots complètement con et disons que
+ils ne prennent que 10 % de bonne
+décision mais ils ne prennent aucune
+décision en plus d'une heure ça veut
+dire que toutes les 10 décisions ils
+vont prendre une bonne décision et comme
+il travaillent 12h par jour ils prennent
+tous les jours une bonne décision
+maintenant imaginons une boîte avec des
+gens très intelligents ils sont capables
+de prendre des décisions intelligente
+mais il les prennent en une semaine et
+ben vous voyez la première boîte va
+prendre SEP bonnes décisions dans la
+journée et beaucoup de mauvaises
+décision mais l'autre ne prendra qu'une
+décision elle sera bonne mais elle en
+aura pris qu'une 7 contre un donc la
+rapidité quel que soit votre talent ça
+paye toujours alors évidemment plus
+votre taux de fiabilité et vos décisions
+sont bonnes mieux mais entre une bonne
+décision qui a pris du temps et une
+mauvaise décision qui a pas pris
+beaucoup de temps la mauvaise décision
+vous aidera à aller vers la bonne
+décision beaucoup plus rapidement c'est
+sans doute l'une des choses les plus
+contreintuitives du monde des start-up
+un de nos métiers à the family pour pour
+faire ce qu'elle est les gens c'est de
+les forcer à accélérer le rythme et
+accélérer le rythme ça passe par le fait
+de prendre des décisions rapidement
+quand on est 16 on commence à avoir des
+goulots d'étranglement si le CEO veut
+être au courant de ce que les 16
+personnes font en permanence il va
+devenir un point bloquant puisque dans
+une journée il pourra pas gérer le
+travail de 16 personnes c'est là où les
+start-ups diffèrent de la plupart des
+organisations classiques dans une
+organisation classique vous avez tout à
+perdre une entreprise une grande
+entreprise elle est bâtie dans la
+logique où tout doit être fait pour
+réduire le risque alors qu'une start-up
+a tout à gagner vous êtes à un stade où
+vous ne pouvez que monter ça veut dire
+que les erreurs elles coûtent pas très
+cher et les gains peuvent apporter
+beaucoup c'est pourquoi l'organisation
+sociale des start-ups doit être adapté
+au fait de chercher à réaliser des
+choses rapidement plutôt que de façon
+fiable alors je vous dis pas d'être
+idiot je vous dis pas d'aller dans
+l'excès c'est comme toutes les leçons
+c'est comme toutes les mesures de
+radicalité lorsqu'elles sont trop
+appliquées on finit avec des choses
+débiles alors en ce moment on parle
+beaucoup de wework qui a un bon exemple
+de ça maintenant j'aimerais vous
+rappeler que wework ça vaut quand même
+10 milliards ça en vaut peut-être pas 47
+mais 10 milliards ça reste beaucoup plus
+que ma boîte et la plupart de vos boîtes
+donc résultat
+essayer de réfléchir vitesse et vous
+allez voir toutes les types
+d'organisations sociales des start-up
+reposent sur l'idée que la vitesse et
+l'élément principal du design de la
+communication et de l'organisation du
+travail vous avez compris le principe 32
+c'est l'enfer 64 faut tout casser 128
+faut tout refaire
+256 là c'est le moment général de
+pleurer 512 les gens finissent en
+burnout et cetera et cetera alors
+qu'est-ce qu'on peut faire à chacune de
+ces étapes et quel type de start-up on
+peut organiser moi il y a une matrice
+que j'aime bien pour aider les
+entrepreneurs à réfléchir sur le sujet
+c'est de diviser les entreprises en
+quatre grandes catégories alors la
+première division de cette matrice c'est
+de diviser les entreprises qui ont des
+faibles marges avec les entreprises qui
+ont des grosses marges je m'explique
+dans une entreprise qui a de faibles
+marges l'organisation du travail doit
+être orienté sur l'économie c'est faire
+économiser des centimes faire attention
+à chaque
+dépense du côté des entreprises qui ont
+des fortes marges alors là c'est pas
+grave d'ailleurs si vous réfléchissez un
+peu au monde des start-ups pourquoi les
+wework uber et cetera ont tellement de
+mal c'est parce que c'est des
+entreprises qui font fctionne comme des
+entreprises software dans lesquelles il
+y a énormément de marges alors qu'en
+fait les marges sont limitées si vous
+prenez un Microsoft un Google ils ont
+des marges qui sont proches de 100 %.
+vous avez le coût initial de
+développement du software un petit peu
+de maintenance mais ensuite les revenus
+sont infinis si par contre vous avez un
+un bureau comme wework vous avez des
+coûts récurrents auxquels il faut faire
+très très attention c'est pourquoi le
+type d'organisation qui fonctionne F
+dans des entreprises où il y a des
+faibles marges c'est pas les mêmes que
+les types d'organisation qui
+fonctionnent dans les entreprises qui
+ont des hautes marges maintenant l'autre
+division de la matrice c'est est-ce que
+vous faites quelque chose de critique ou
+non critique alors je m'explique si vous
+faites une centrale nucléaire c'est
+critique parce que quand vous foirez les
+la catastrophe est dingue si vous faites
+un jeu vidéo c'est non critique parce
+que si vous foirez bah personne le voit
+alors par contre si vous faites un jeu
+massivement multijoueur là c'est
+critique puisque la fiabilité technique
+d'un jeu massivement multioueur est
+beaucoup plus importante que la
+fiabilité technique d'un jeu comme ELX
+jump si ELX jump il y a un bug bug peut
+être corrigé en 2 TR jours c'est pas
+l'enfer alors vous voyez faible marge
+critique en général ça c'est des
+entreprises qui sont un enfer et qui ont
+besoin d'une organisation dictatoriale
+où chaque décision et chaque personne
+doit avoir un certain nombre de
+framework en tête pour faire attention à
+la moindre décision qui prennent alors
+il y a une histoire que j'aime beaucoup
+c'est que les bonnes organisations
+sociales sont aussi autant créé par la
+culture que par le process par exemple
+Jeff buzos au début d'Amazon il voulait
+faire comprendre à tout le monde qu'il
+fallait compter des centimes il a trouvé
+une astuce pour ça qui est formidable
+c'est que au lieu d'acheter des bureaux
+il acheté des portes et quand les gens
+arrivaient ils devaient travailler sur
+une porte alors quand vous arrivez le
+premier jour chez Amazon vous
+travailleez sur une porte vous dites
+mais pourquoi je travaille sur une porte
+et là quelqu'un vous dit c'est parce que
+Jeff a découvert que c'était moins cher
+d'acheter des portes d'entreprise en
+faillite que d'acheter des tables et ben
+quand on vous raconte cette histoire
+instantanément vous comprenez qu'il va
+falloir compter chaque centime parce que
+c'est la culture de l'entreprise par
+exemple moi j'ai un ami qui travaille
+dans un edge F haute fréquence dans
+lequel chaque transaction est au
+microocentime et économiser un centime
+c'est important on ne peut pas faire un
+software dans lequel on économise des
+centimes et de l'autre dépenser de
+l'argent dans les bureaux ils ont des
+bureaux pas chers et chaque centime qui
+dépense il compte alors qu'il gagne des
+millions pourquoi parce que c'est une
+opération à très très faible marge et
+que la moindre économie a un impact sur
+leur profitabilité si vous travaillez
+dans une entreprise de la grande
+distribution vous saurez que chaque
+centime chaque dépense tout est contrôlé
+parce que l'idée c'est d'augmenter la
+profitabilité de l'entreprise et pour ça
+comme les marges sont très très faible
+il y a pas d'autre choix si vous
+travaillez chez Goldman sax à l'inverse
+bah là il y a pas de problème on est à
+très haute marge alors les
+environnements critiques à très haute
+marge sont des environnements
+intéressants parce que c'est dans des
+environnements dans lequels on peut
+faire un peu plus d'erreur parce qu'on
+peut payer pour les erreurs en faisant
+les marches alors attention quand je dis
+les erreurs je vous parle pas d'une
+start-up médicale qui tue quelqu'un ça
+c'est un environnement critique dans
+laquelle l'erreur est pas possible enfin
+j'espère s'il vous plaît si vous faites
+des start-up médicales faites attention
+les enfants mais à l'inverse si vous
+êtes dans un domaine je sais pas par
+exemple de hautes finances et vous avez
+des très très très fortes marges bah
+quand vous faites des erreurs vous
+perdez de l'argent ces marches peuvent
+absorber les erreurs ça peut valoir le
+coût et ces organisations peuvent
+devenir ce que Nassim Taleb appelle
+antirragile c'est-à-dire des
+organisations qui résistent au coup et
+qui résistent aux cassur des
+imprévisibles visibilité et de la
+volatilité alors quand on est une
+start-up il faut justement ne pas avoir
+peur de cette volatilité et créer une
+structure qui absorbe cette volatilité
+et cette contingence plus vous faites
+quelque chose vite plus vous le faites à
+scale et plus la probabilité que ça
+casse est forte c'est pour ça qu'il faut
+apprendre à casser et à remonter sans
+que jamais ça pose problème et pour ça
+il faut aussi créer une culture de
+l'erreur alors jeis vous raconter une
+histoire qui me fascine il y avait un
+hôpital dans lequel les gens déclaraient
+très peu d'erreur et un hôpital dans
+lequel les gens déclaraient beaucoup
+d'erreurs l'hôpital dans lequel les gens
+déclarit beaucoup d'erreurs avait moins
+de mort que l'hôpital qui ne déclarait
+aucune erreur pourquoi parce que
+l'hôpital qui déclarait aucune erreur
+fraudé toutes les erreurs médicales
+étaient caché pas partagé celui au
+contraire où il y avait beaucoup
+d'erreurs c'était un hôpital où les
+docteurs parlaient ouvertement de l'urur
+médical résultat tout le monde devenait
+meilleur et le taux de mortalité baissé
+donc vous voyez vous devez créer un
+environnement dans lequel les gens sont
+heureux de partager alors vous avez les
+autres cas les entreprises non critiques
+à faible marge les entreprises non
+critiques à haute marge où là vous
+pouvez être plus dans des environnements
+d'entreprise d' libéré euh plus flat
+moins hiérarchique avec moins de
+contrôle parce qu'encore une fois vous
+prenez moins de risque les entreprises
+en environnement critique sont une
+minorité si je prends le portefeuille de
+275 boîtes de the family on a que
+quelques boîtes qui sont en
+environnement critique euh euh la
+plupart dans le médical n'allez pas vous
+croire que vous êtes critique alors que
+vous faites quelque chose de non
+critique essayez d'être honnête par
+rapport à ça les organisations critiques
+sont différentes des organisations non
+critiques comme la majorité des
+start-ups sont des organisations non
+critiques comprenez que ce qui
+fonctionne dans le chaos c'est la
+liberté et l'empowment alors essayez de
+penser à cette règle un peu simple que
+Steve Jobs disait Steve Jobs disait
+quand j'embouche des gens intelligents
+c'est pas pour leur dire quoi faire
+c'est pour que eux me disent ce que je
+dois faire voyez ce retournement du
+management il est hyper important
+surtout dans une culture francophone où
+on est obsédé par le fait de donner des
+ordres et expliquer aux gens quoi faire
+et de toujours avoir l'impression de
+mieux faire que les autres ça veut dire
+quoi ça veut dire que dans tous les
+étapes de votre organisation le
+recrutement et la qualité du recrutement
+est plus importante que la qualité du
+management dans une start-up le
+management ça prend du temps le
+management c'est en dessous de 50
+personnes ça a pas vraiment de sens
+d'avoir besoin de management parce qu'en
+dessous de 50 personnes tout le monde
+doit être autonome tout le monde doit
+être en Power les startup gagnent autour
+d'un certain nombre d'ingrédients assez
+simples qui sont intimement liés à la
+capacité de cealer est-ce que les gens
+sont capables d'apprendre vite est-ce
+que les gens sont heureux de venir au
+travail est-ce que les gens sont
+capables de se dépasser est-ce que les
+gens ont en envie de faire des choses
+qu'il n'avit pas fait avant et est-ce
+que les gens sont assez souples alors
+cette question de la souplesse est une
+question très importante parce que ce
+qui se passe quand on réinvente une
+organisation c'est que les gens
+résistent les gens détestent le
+changement d'ailleurs c'est assez
+naturel de détester le changement
+regarder un enfant à qui on change son
+régime alimentaire en général vous
+verrez que c'est pas facile d'ailleurs
+les enfants sont très très très close
+mind sur ce qu' mange c'est bien la
+preuve qu'on naime pas le changement et
+c'est assez naturel de pas aimer le
+changement pourtant une start-up doit
+vivre dans le changement doit accepter
+ce changement et doit essayer de
+réaliser ce changement le plus possible
+et pour ça il faut mettre au clair votre
+organisation alors quelle que soit la
+forme d'organisation que vous choisissez
+que vous ayez une entreprise dans
+laquelle les gens peuvent faire ce
+qu'ils veulent ou une entreprise dans
+laquelle vous avez beaucoup de process
+quel que soit l'endroit où vous Metz le
+curseur vous devez toujours réfléchir à
+est-ce que ça améliore l'objectif de
+scale de ma boîte est-ce que je suis en
+train de faire les choses qui sont
+nécessaires ou est-ce que je fais les
+choses qui me font plaisir alors des
+fois il y a des choses dures par exemple
+il faut admettre que quand on reprend à
+zéro ça peut aussi vouloir dire de
+devoir virer des gens je m'explique si
+on dit que à chaque fois que vous
+doublez de taille vous devez reprendre à
+zéro l'ensemble de votre organisation ça
+veut dire qu'il y a des gens qui ne
+seront plus à la bonne place à ce
+moment-là alors je sais que c'est
+quelque chose de très dur à entendre je
+sais qu'en France on a une culture où le
+travail c'est un droit quand on a un
+travail c'est pour la vie blab blabla on
+est dans le monde des start-ups on n'est
+pas des ouvriers textiles dans les vouge
+on n pas de problème
+d'employabilité et donc il faut se
+comporter à la hauteur de ce challenge
+et ça veut dire être capable d'aider les
+gens à se replacer alors ces histoires
+de doublement de taille ça passe par
+deux choses soit les gens changent de
+poste et grandissent avec les
+entreprises soit ils doivent sortir et
+vous devez mettre en place un package
+pour les faire sortir
+convenablement payer ce qu'il faut pour
+que les gens sortent il vaut mieux payer
+3 mois 6 mois de salaire pour que
+quelqu'un parte heureux et reste en
+bonne entente avec vous parce qu'il
+n'est plus la bonne personne à ce
+moment-là dont l'organisation a besoin
+et il peut trouver un travail dans une
+autre organisation de cette taille où il
+est la bonne personne adaptée plutôt que
+garder quelqu'un qui n'est pas à sa
+bonne place votre obsession c'est qu'à
+chaque fois que l'entreprise double de
+de taille vous êtes capable de regarder
+le rôle de chacun et d'être sûr que
+cette personne est la meilleure personne
+que vous pouvez avoir dans ce rôle et
+que chacun des rôle est adapté à la
+structure à la taille et à l'envie de la
+boîte vous allez me dire c'est pas
+facile de virer les gens je sais c'est
+horrible j'ose même pas vous raconter
+moi la première fois que j'ai viré
+quelqu'un puis vous savez ça fait ça
+fait des années et des années que je
+fais ça je trouve pas ça plus simple de
+faire ça aujourd'hui queavant d'ailleurs
+il y a des gens qui disent oui c'est de
+plus en plus simple j'ai jamais compris
+de quoi il parl euh c'est pas censé être
+de plus en plus simple c'est toujours
+horrible de séparer de quelqu'un
+maintenant vous êtes un entrepreneur
+vous avez envie de scaler vous avez
+envie de construire quelque chose de
+grand vous avez envie d'être fier de ce
+que vous faites ça veut dire que des
+fois il faut prendre des mauvaises
+décisions d'ailleurs dans les petites
+choses secrètes sur lesquelles j'évalue
+les entrepreneurs de the family je me
+pose toujours la question de savoir à
+quel point les gens sont capables
+d'annoncer les mauvaises nouvelles la
+capacité à annoncer les mauvaises
+nouvelles démontre la capacité à aller
+loin dans l'entrepreneuriat parce que
+tout le monde sait annoncer les bonnes
+nouvelles mais les mauvaises nouvelles
+c'est pas donner à tout le monde de
+savoir correctement donc en tant
+qu'entrepreneur si vous voulez scaler
+apprenez à annoncer les mauvaises
+nouvelles alors petite astuce quand vous
+virez les gens moi j'ai remarquer avec
+l'expérience qu'il y a un contrat qui
+fonctionne plutôt bien quand vous virez
+les gens et qui repose sur trois choses
+un proposer aux gens de démissionner
+plutôt que d'être viré lorsque les gens
+démissionnent c'est un héros en France
+on a un truc qui s'appelle la Convention
+collective je sais pas quoi là rupture
+conventionnelle c'est un super outil ça
+permet aux gens de partir de dire aux
+gens qu'ils ont démissionner et d'avoir
+des des indemnités démissionner c'est
+reconnaître qu'on est plus à la bonne
+place et c'est aider la personne à avoir
+comme message qu'il était plus à la
+bonne place qu'il a envie de faire autre
+chose ça c'est quelque chose que les
+gens comprennent être viré ça reste
+quelque chose de très stigmatisant et
+soyez discipliné là-dessus si vous êtes
+en bonne entente à quelqu'un c'est juste
+qu'il est plus à la bonne place
+offrez-lui la possibilité de
+démissionner c'est cool il y a plein de
+gens qui comme ça peuvent se bâtir une
+une une carrière en allant de poste en
+poste et en étant dans des phases où ils
+sont parfaitement adaptés à la boîte et
+à l'environnement dans lequel ils sont
+la deuxième chose c'est offrer de
+l'argent alors je sais qu'on n pas la
+culture de transactionnel je sais que
+vous allez me dire ça coûte cher et
+cetera bah oui mais c'est normal les
+gens ils ont travaillé pour vous ils
+méritent d'avoir de l'argent donner des
+indemnités généreuses cette argent il
+peut avoir l'air d'être perdu mais il l'
+pas parce qu'il va créer des bonnes
+vibes et il va créer un environnement où
+les gens auront envie de venir
+travailler pour vous parce qu'ils
+sauront que quand ce sera plus le quand
+quand ils seront plus à leur place vous
+saurez les traiter humainement avec
+respect il n'y a pas de mot d'amour il
+n'y a que des preuves d'amour et
+l'argent au moment de la rupture d'un
+contrat est une forme de preuve d'amour
+dernière chose hyper importante c'est de
+recommander la personne d'ailleurs soyez
+pro actif dans la quête d'un nouveau
+travail de cette personne essayz de lui
+donner des opportunités et essayer de
+l'amener à trouver un travail ailleurs
+où la personne va être heureuse et
+contente et donner une recommandation
+c'est pas parce que quelqu'un si vous
+êtes passé par exemple de 50 à 100
+personnes et qu'à 100 personnes vous
+décidez de réorganiser votre entreprise
+et B peut-être que cette personne n pas
+faite pour le travail nécessaire à 100
+mais qu'elle était parfaite pour le
+travail de 0 à 50 et trouver une
+entreprise dans laquelle ils sont en
+train de passer de 0 à 50 et recommander
+avec amour dignité et respect cette
+personne c'est pour ça qu'il faut faire
+la distinction des licenciements pour
+cause de réorganisation des
+licenciements pour caus fautes grave
+lourdes ou raison personnell qui n'ont
+rien à voir et d'ailleurs en France on a
+une rigidité du marché du travail qui
+n'est pas acceptable je vous donne un
+conseil mettez pas de préavis trop long
+dans vos contrats il y a rien de pire
+que les gens qui viennent au travail et
+qui ne sont sont plus motivés pour y
+rester petite astuce de scale si vous
+voulez apprendre à scaler il va falloir
+apprendre à écrire je m'explique la
+communication orale c'est bien
+l'informel c'est formidable mais ça ne
+scale pas or apprendre à écrire
+correctement c'est pas donné à tout le
+monde pourtant c'est hyper essentiel
+alors moi j'ai dans mon équipe quelqu'un
+qui écrit incroyablement bien qui
+s'appelle Nicolas Collin et il a plein
+de conseils sur comment apprendre à bien
+écrire
+alors ça va vous décevoir la meilleure
+façon d'apprendre à bien écrire c'est
+d'écrire tous les jours forcez-vous à
+prendre un petit peu de temps à part
+pour mettre sur papier les enjeux la
+stratégie les objectifs tout ce que vous
+voulez communiquer et apprenez le plus
+tôt possible à communiquer à partir de
+30 personnes c'est essentiel de savoir
+écrire et et de savoir donner des
+messages alors évidemment vous pouvez
+monter sur scène réunir tout le monde
+mais ça demande une logistique qui est
+trop forte si vous êtes une entreprise
+qui passe la barre des 50 personnes il
+va falloir absolument apprendre à écrire
+des messages et à communiquer comme je
+vous l'ai dit le cœur de toute
+organisation sociale au sein d'une
+start-up c'est l'information et la
+circulation d'une information
+laissez-moi vous révéler le vrai secret
+du scale le vrai secret du scale c'est
+le moral une start-up ça ne fonctionne
+qu'à une chose quelque chose de
+complètement irrationnel qui est le
+moral des troupes si vous voulez une
+start-up c'est une organisation sociale
+qui est en faillite permanente
+structurellement une start-up ça gagne
+pas assez d'argent ça brûle trop de cash
+et c'est pas encore rentable donc par
+définition quand vous êtes en train de
+scaler vous êtes toujours en train de
+faire un Paris sur l'avenir et ce Paris
+il ne repose que sur votre capacité à
+être déterminé et la détermination ça
+vient d' ça vient du Moral votre moral
+le moral des autres alors je vais être
+très dur avec vous si vous êtes un
+entrepreneur et vous avez la vocation de
+ce qu'el est vous n'avez pas le droit de
+pas avoir le moral vous avez pas le
+droit d'être triste vous avez pas le
+droit de le montrer me dire c'est
+inhumain oui ça l' c'est pour ça que
+d'ailleurs le Scale est un exercice de
+très haute Volti maintenant ça ne veut
+pas dire que vous ne vous pouvez pas
+l'être vous devez apprendre à vous créer
+un se environment vous devez apprendre à
+vous créer une bulle avec des amis
+proches avec votre famille avec votre
+compagne avec votre compagnon de créer
+un environnement dans lequel vous pouvez
+exprimer vos émotions vos doutes et
+cetera mais ils n'ont pas leur place au
+sein de votre entreprise si vous êtes
+déprimé toute l'entreprise est déprimée
+si vous êtes au top toute l'entreprise
+sera peut-être au top mais en tout cas
+c'est pas possible de garder le moral de
+tout le monde haut si vous-même vous y
+croyez pas votre croyance aveugle dans
+la réussite probable de votre entreprise
+est nécessaire à son succès et c'est
+pour ça que les start-ups ont tendance à
+attirer des gens un peu fous parce que
+les fous ont cet avantage comparatif de
+ne pas être très réaliste si vous êtes
+du côté réaliste de la force que vous
+êtes vous fondez sur le sur vous êtes
+contre l'optimisme et vous fondez vos
+décisions sur la rationnalité pure je
+vous donne un conseil oubliez start-up
+allez faire autre chose les start-ups
+fonctionnent et sont alimentés par
+l'irrationnel parce que l'irrationnel
+est un moteur rationnel du fait de
+rester déterminé pendant plus longtemps
+que nécessaire jusqu'au moment où on
+finit par atteindre quelque chose
+d'extraordinaire le travail
+d'organisation de l'entreprise c'est la
+responsabilité du CEO c'est un travail
+relativement solitaire qui est fondé sur
+un travail de feedback continu vous
+devez en permanence prendre les feedback
+des gens sur leur rôle et cetera mais à
+la fin de la journée il ne peut y avoir
+qu'un seul décisionnaire sur sur qui
+fait quoi et encore une fois c'est pas
+quelque chose que vous devez faire en
+continu vous devez réfléchir à des
+moments vous devez vous dire ok on
+organise on garde le résultat on itre et
+s'il y a des gens qui sont pas à leur
+place vous réfléchissez est-ce qu'ils
+sont pas à leur place parce qu'ils sont
+pas la bonne personne ou est-ce qu'ils
+sont pas à leur place parce qu'il faut
+le faire différemment soyez obsédés par
+l'objectif et pas par la méthode le
+microanagement en start-up ça ne
+fonctionne pas ça un environnement dans
+les choses dans lequel les choses vont
+trop vite si les gens besoin d'être
+microanager ça ne marchera pas essayez
+de vous concentrer sur des gens qui sont
+en demande d'autonomie qui respectent la
+liberté d'ailleurs réfléchissez à cette
+valeur la liberté c'est la valeur
+fondamentale des entrepreneurs si vous
+êtes entrepreneur c'est parce que vous
+êtes un peu rebelle un peu pirate et
+vous avez envie de liberté cette liberté
+vous devez la donner comme un quelque
+chose de précieux à votre équipe et en
+échange de cette liberté vous leur
+réclamez et énormément de responsabilité
+l'environnement des start-up est pas un
+environnement dans lequel les enfants
+peuvent travailler c'est un
+environnement dans lequel il faut être
+responsable avoir le sens de cette
+responsabilité et surtout être capable
+de reconnaître quand on n'est pas
+capable de délivrer vous devez créer
+cette culture dans laquelle les employés
+peuvent vous donner le feedback de non
+ça ne marche pas non je n'y arrive pas
+et ne pas attendre la catastrophe que
+tout le monde soit dans le mur une bonne
+communication c'est encore une fois
+ingrédient essentiel à une bonne
+start-up qui qu'elle tous ces
+changements vont créer du stress chez
+les gens et les gens vont exprimer ce
+stress c'est votre rôle en tant que
+fondateur de l'ignorer il faut
+comprendre que c'est un peu comme dans
+une tempête votre rôle de capitaine
+c'est tenir la barre et d'attendre
+l'éclairci et de ne pas être trop
+sensible aux microémotions et au
+microochangement de de management qui
+vont avoir lieu une bonne start-up et
+est une dictature une dictature éclairée
+dans lequelle le dictateur prend les
+décisions nécessaires il y a pas besoin
+de convaincre les gens que c'est la
+bonne décision parce que si c'est la
+bonne décision les gens le verront
+rétrospectivement attention c'est
+pourquoi à chaque fois que vous prenez
+une décision vous risquez votre
+crédibilité vous risquez le jugement
+rétrospectif des gens si vous prenez
+trop de mauvaises décisions sur les gens
+et leur organisation ça va pas
+fonctionner alors laissez-moi vous
+donner quelques petits secrets pour
+savoir qui mettre où d'abord regarder
+les défauts des gens plutôt que leur
+qualité moi j'aime bien mettre les gens
+en place dans des endroits où je sais
+que leurs défauts vont être un super
+avantage vous avez besoin de quelqu'un à
+la conta mettez quelqu'un de rigide et
+d'angoisser vous avez besoin de
+quelqu'un au design mettez quelqu'un de
+créatif motivé et rigoureux et et
+essayer de trouver les défauts des gens
+les plus profonds et essayer de voir si
+le poste qu'ils ont améliore ou au
+contraire rend ce défaut impossible si
+vous avez des gens stressés par exemple
+vous ne pouvez pas les mettre dans des
+posts start-up le stress est un élément
+qui n'a pas sa place dans les start-up
+d'ailleurs c'est dangereux de mettre des
+gens trop stressés dans des posts
+start-up mais si vous savez que les gens
+peuvent encaisser ses angoisses ses
+doutes et cetera ignorz leur microov
+variation d'humeur leur micro variation
+d'humeur c'est pas votre problème vous
+vous AZ pas être dans les signau faibles
+vous avez pas à passer votre vie à
+essayer de savoir si tout le monde est
+content ou pas content il faut avancer
+et des fois il faut avancer à marche
+forcée et alors le problème c'est que
+c'est là où il y a quelque chose de
+subtil entre les gens qui savent faire
+et les gens qui savent pas faire si vous
+êtes trop rigide si vous donnez des
+ordres qui sont simplement pour donner
+des ordres mais qui sont pas légitimes
+où les gens rétrospectivement se disent
+pas ah oui en fait il avait raison et
+ben vous allez créer un environnement de
+crispti si au contraire les gens sont
+stressés mais que à postériori ils se
+rendent compte que vous aviez raison et
+ben c'est libérateur parce que la fois
+d'après ils vous feront un peu plus
+confiance quand il faudra à nouveau
+sauter dans le vide mais pensez à tout
+ce qui fait peur par exemple quand vous
+sautez en parachute la première fois
+c'est terrorisant quand vous l'avez fait
+10 fois 100 fois votre peur elle baisse
+et ben en fait dans votre organisation
+vous êtes là pour faire sauter tout le
+monde en parachute c'est normal qu'au
+début les les gens ont peur c'est pas
+normal qu'ils aient peur au 10è saut si
+quelqu'un fait 20 saut de parachute et a
+peur de la même façon au premier saut et
+au 20e vaut mieux qu'il arrête le
+parachute et vaut mieux lui dire d'aller
+faire autre chose que du parachute jouer
+au bridge ou faire un truc comme ça
+faire une start-up c'est sauter en
+parachute et sauter en parachute la
+première fois c'est terrifiant c'est
+normal la deuxième fois ça l'IT un peu
+moins la cè fois c'est un un plongeon
+peut être classe facile

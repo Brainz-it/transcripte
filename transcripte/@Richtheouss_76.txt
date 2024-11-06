@@ -1,0 +1,534 @@
+[Musique]
+bienvenue dans ce module SEO dans ce
+module on va parler quasiment
+exclusivement de Google il y a plein
+d'autres moteurs de recherche mais on va
+parler beaucoup de Google pourquoi
+Google parce que bah aujourd'hui quand
+les gens entendent parler de votre boîte
+donc tous les canaux inbound et cetera
+quand les gens entendre parler de votre
+boîte bah ils vont taper le nom de votre
+boîte dans Google et c'est quand même
+plutôt utile qu'il vous trouve c'est un
+très bon moyen de générer des clients
+aujourd'hui et c'est un très bon moyen
+bah de juste avoir une présence sur
+Internet de manière générale le SEO
+c'est la Search Engine Optimisation
+c'est la discipline qui consiste à
+remonter dans les résultats Google pour
+des requêtes spécifiques alors là je
+viens de vous parler de la requête de
+base qui est vraiment taper le nom de
+votre boîte mais en fait bah il peut y
+avoir des requêtes pour tout types de
+choses et que quand les gens cherchent
+quelque chose qu'ils ont envie de
+trouver sur internet ils finissent par
+tomber sur vous alors on va voir
+ensemble ce que ça implique de faire du
+SEO on va essayer de voir ensemble ce
+que ça implique en terme technique en
+terme de réflexion et comment mettre en
+place votre première expérience pour
+faire en sorte que ce canal
+d'acquisition Vienne au service bah de
+toute votre boîte parce que ce canal il
+est un peu particulier dans le sens où
+vous allez le voir dans tous les autres
+modules très souvent on va parler de SEO
+aussi parce qu'en fait tous les canaux
+inbound donc les quand les gens
+entendent parler de votre marque que ce
+soit par une stratégie de contenu ou par
+la presse par les journalistes et cetera
+peu importe en fait comment il entendent
+parler de votre boîte il y a peu de
+chance pour qu'il viennent taper
+directement l'url de votre site dans sur
+Internet ou que pire il trouve votre
+numéro de téléphone directement pour que
+vous puissiez les traiter dans votre
+cycle de vente par contre il y a de
+fortes chances pour qu'il tape quelque
+chose dans Google donc c'est très
+important je pense que c'est un canal
+que il faut maîtriser ne serait-ce qu'un
+minimum on va pas rentrer dans les
+grands détails et devenir des experts du
+SEO par contre mon but c'est que vous
+ayez vraiment compris comment ça
+fonctionne et que vous puissiez
+commencer à vous y
+[Musique]
+mettre alors avant toute chose ce qu'il
+faut comprendre c'est le fonctionnement
+de Google Google c'est une arme de robot
+qui sont constamment en train de
+craoller internet craoller c'est bah
+naviguer Internet et passer sur tous les
+sites qu'il peuvent trouver pour les
+naviguer donc c'est des robots qui sont
+des trucs automatiques qui sont créés
+par Google et qui en fait viennent et
+passent sur tous les sites qui existent
+tous ces sites ils les indexent ils les
+indexent dans une espèce de grand
+annuaire où ils disent OK et B à cet
+endroit-là j'ai trouvé un lien qui
+allait vers tel site et donc ça pointait
+vers ce site là et puis ensuite ils vont
+naviguer vers un autre site puis vers un
+autre site et puis ils vont faire comme
+ça la la totalité du web pour
+répertorier chez Google l'ensemble des
+pages Web qui existent c'est un travail
+colossal c'est aussi pour ça que Google
+est une boîte si grande et que Google
+c'est aussi ben un carrefour pour
+naviguer le web entier donc quand ces
+robots crawent le web il récupère toutes
+les infos et il crée donc cet
+index vous ensuite en tant
+qu'utilisateur de Google vous allez
+venir sur Internet et vous allez taper
+quelque chose vous allez taper une
+requête cette requête elle va être
+composée de mots clés et Google a a un
+algorithme très très puissant qui permet
+de recouper les mots- clés que vous avez
+tapés avec l'index qui a été créé par
+tous les robots de Google cet algorithme
+il est très complexe il est constamment
+changeant moi quand j'ai commencé à
+faire du SEO il y a 10 ans ça n'avait
+rien à voir avec ce que c'est
+aujourd'hui aujourd'hui c'est beaucoup
+plus puissant beaucoup plus performant
+et ça regroupe tout un tas de critères
+différents à l'époque ça devait être
+juste les mots clés qui étaient tapé
+dans une requête et trouver ce qui
+correspondait bah dans l'index de Google
+aujourd'hui ça prend aussi en compte vos
+comportements sur Internet parce que
+Google c'est exactement partout où vous
+passez ça va prendre en compte peut-être
+vos profils sociaux enfin c'est un
+algorithme qui est pas du tout ouvert on
+sait pas ce qu'il y a dedans par contre
+on sait comment on peut se comporter
+pour essayer d'être mieux traité par cet
+algorithme et d'être mis plus en avant
+par rapport à d'autres pages web pour
+réussir bah à remonter dans les
+résultats de requête cet algorithme même
+s'il est très opaque et qu'on sait pas
+exactement ce qu'il y a on a une petite
+idée de ce qu'il y a dedans on sait que
+il y a évidemment la proximité entre les
+motclés que tu as tapé dans ta requête
+et bah la page web et les mots- clés
+qu'elle contient on sait qu'il y a aussi
+la popularité de ton site est-ce qu'il y
+a beaucoup d'autres pages Web qui
+envoient via un lien vers tapage web à
+toi qui a la vitesse de chargement de
+ton site qui a l'UX l'expérience
+utilisateur qui va y avoir sur ton site
+est-ce que c'est optimisé pour le mobile
+est-ce que c'est pratique de naviguer
+est-ce que les gens passent du temps sur
+le site en lui-même et est-ce que ils
+vont pas juste sur ta page et il se
+barent directement voilà ça c'est les
+les grandes lignes de ce que fait Google
+pour trier et permettre à ses
+utilisateurs d'avoir des résultats qui
+sont les plus pertinents possibles donc
+le SEO c'est la discipline qui consiste
+à prendre en compte tous ces facteurs et
+à optimiser ta page web pour remonter
+dans les résultats de
+[Musique]
+Google alors comment on fait
+concrètement comment on fait pour lancer
+sa première expérience si vous débutez
+dans le SEO si vous vous êtes jamais
+posé la question jusqu'à maintenant
+peut-être que vous aviez déjà des sites
+Web qui existaient et que vous vous êtes
+jamais posé cette question peut-être que
+vous avez lu plein plein plein de tutos
+sur Internet et que vous êtes encore
+perdu par rapport au SEO ou peut-être
+que vous maîtrisez déjà le truc au quel
+cas bah ce module va peut-être juste
+vous rafraîchir la mémoire et vous
+synthétiser les informations un peu plus
+simplement pour lancer ta première
+expérience SEO tu vas avoir besoin de
+deux choses la première chose c'est une
+landing page c'est un site web qui
+existe et une page sur laquelle les gens
+vont pouvoir lire du contenu et qui va
+expliquer bah ce que tu vends ou en tout
+cas quelque chose la deuxième chose
+c'est que cette landing page elle doit
+être en mesure de convertir les gens
+donc tu dois avoir sur ta landing page
+un moyen de urer si les gens qui sont
+passés sur ton site ont converti en
+leads ou pas ça peut être un type form
+ça peut être un formulaire mail Chimp
+pour récupérer des adresses email ça
+peut être un formulaire de contact pour
+que les gens vous envoient un petit mail
+de manière très simple ça peut être ce
+que vous voulez mais en tout cas voilà
+ça c'est les deux choses qu'il vous faut
+c'est une landing page et un moyen de
+convertir les gens qui lisent cette
+landing page en leads ce que tu vas
+mesurer dans cette expérience c'est deux
+choses la première chose c'est le trafic
+sur ton site alors il y a une vidéo
+pratique dans ce module qui t'explique
+comment utiliser Google Analytics pour
+comprendre combien de gens sont passés
+sur ta page web et la deuxième chose
+c'est le taux de conversion de cette
+page c'est combien de gens sont devenus
+des leads par rapport au nombre de gens
+qui avaient visité la page donc c'est un
+pourcentage pour lancer ton expérience
+ça va se passer en plusieurs étapes la
+première étape c'est d'identifier les
+requêtes que les gens vont faire pour
+tomber sur ton site là je vous renvoie
+au module cibler ses clients et essayer
+de comprendre leur comportement si vous
+êtes un site de voyage par exemple et
+ben vous vous allez vous rendre compte
+très vite que les gens sur Google ils
+tapent hôtel pas cher dans telle ville
+ça c'est une requête Google au début il
+y a plein de trucs et astuces peut-être
+que vous pouvez targeter quelque chose
+de très très large peut-être que vous
+allez vouloir targetter quelque chose de
+plus restreint peut-être que vous allez
+vouloir targeter uniquement les requêtes
+qui pointent vers le nom de votre boîte
+mais en tout cas il va falloir choisir
+quand j'en ai discuté avec plusieurs
+personnes qui faisaient du SEO j'ai eu
+des retours bah assez différent en fait
+en fonction des gens mais les gens qui
+ont eu les meilleures performances c'est
+des gens qui m'ont dit qu'il fallait
+mieux aller chercher des requêtes qui
+étaient complexes parce que se placer
+sur hôtel pas cher c'est beaucoup plus
+difficile que se placer sur hôtel pas
+cher à Dublin avec un jacuzzi et un spa
+avec une acceptation pour les animaux
+domestiques tu vois la longueur de ta
+requête ça fait que peut-être que tu vas
+avoir moins de gens qui tapent cette
+requête spécifique mais que ça va être
+plus facile pour toi de te placer en
+avant sur Google dans les résultats par
+rapport à d'autres choses donc il faut
+vraiment bah choisir les requêtes que
+vous voulez targetter et en ensuite on
+va rentrer dans bah cette espèce de
+compétition de comment je fais pour
+remonter dans les résultats la deuxième
+étape je l'ai dit c'est un prérequis
+obligatoire pour pouvoir faire du SEO
+c'est de créer une landing page cette
+landing page il y a trois choses sur
+lesquelles tu vas devoir vraiment te
+concentrer pour t'assurer que Google va
+la traiter comme une bonne landing page
+la première chose c'est qu'elle réponde
+vraiment bah aux requêtes de ton
+utilisateur c'est vraiment la base de la
+base genre au final en SEO tuas sur
+internet si tu commences à fouiller un
+petit peu ce que je t'invite à faire tu
+vas très vite trouver des conseils pour
+optimiser très granulairement bah les
+performances de ton site le problème
+c'est que ces trucs granulaires ils ne
+sont qu'un petit grain dans le sablier
+par rapport à vraiment avoir un contenu
+qui est pertinent pour l'utilisateur
+parce que ce que Google va choisir de
+mettre en avant le plus bah c'est les
+pages où les gens restent et les pages
+où les gens trouvent ce qu'ils étaient
+venus chercher à la base la deuxième
+chose c'est d'avoir une bonne expérience
+utilisateur est-ce que ton site il est
+facile à naviguer est-ce qu'il y a pas
+des tonnes et des tonnes de texte que tu
+pourrais résumer en trois lignes est-ce
+que il y a beaucoup d'images est-ce que
+c'est un peu interactif est-ce que enfin
+voilà en tout cas la la question c'est
+dans la situation dans laquelle je suis
+c'est ça le principe de l'UX de
+l'expérience utilisateur est-ce que
+naviguer ce site est facile pour moi ou
+pas ça veut dire aussi est-ce qu'il est
+optimisé pour mobile Google met en avant
+énormément les qui sont optimisés pour
+mobile aussi et en fait voilà est-ce que
+si je suis dans le métro euh et que j'ai
+pas beaucoup de réseau je vais pouvoir
+charger cette page assez rapidement bref
+faut vraiment se poser la question de
+bah est-ce que ce site il va répondre
+aux attentes de mes utilisateur dans une
+expérience qui est bonne et la troisième
+chose c'est d'optimiser le nombre de
+fois où les mots-clés de la requête dans
+laquelle tu veux monter apparaissent
+dans ta page ces mots-clés il va falloir
+les faire apparaître régulièrement mais
+il va surtout falloir les faire
+apparaître de manière hiérarchique
+claire tous ces concepts-l les concepts
+de mettitle les concepts de M
+desescription les concepts de h1 les
+concepts de comment placer ses mot clés
+correctement pour optimiser les concepts
+aussi un peu du X et cetera pour créer
+une landing page je vais les aborder
+dans une vidéo pratique dans ce module
+et vous vous allez pouvoir vous rendre
+compte de ce que ça implique c'est
+vraiment pas très compliqué ça demande
+juste de mettre un petit peu les mains
+dans l'outil qui vous permet de créer de
+votre landing page et de vous poser la
+question de mais qu'est-ce que les
+robots de Google quand ils vont passer
+sur ma page vont voir en plus de se
+poser la question de ce que les robots
+de Google vont voir faut se poser la
+question de qu'est-ce que mon
+utilisateur va voir parce que ces deux
+trucsl réunis ça fait la performance SEO
+d'une bonne landing page une fois que tu
+as landing page j'ai créé et que tu
+penses qu'elle est pertinente pour les
+gens qui vont la visiter et pour les
+robots de Google tu vas pouvoir
+commencer à te référencer sur Google
+alors comme je l'ai dit les robots de
+Google ils craollent le web entier
+constamment ça veut dire que normalement
+si tu mets ton site en ligne et que il y
+a quelque part un lien qui pointe vers
+ton site les robot Google ils vont venir
+automatiquement le problème c'est que
+quand tu commences et que ta landing
+page elle vient d'être créée bah en fait
+les robot Google sont pas au courant
+qu'elle existe et ils ont aucun moyen
+d'y accéder donc ce qu'on va faire c'est
+qu'on va utiliser un outil qui s'appelle
+la Google Search console dans lequel tu
+vas pouvoir rentrer le nom de ton site
+valider le fait que ce site il
+t'appartient bien à toi et ça va te
+permettre bah à la fois de dire à Google
+e regarde mon site existe index le et de
+pouvoir mesurer plein plein plein
+d'autres choses comme bah quels sont les
+mots- clés principaux par lesquels les
+gens arrivent sur ton site et tout un
+tas de trucs c'est aussi une vidéo
+pratique dans ce module il y a une
+introduction à la Google Search console
+ça dure pas très longtemps c'est très
+simple à prendre en main une fois que
+tout ça c'est fait le SEO ça reste
+principalement une question
+d'optimisation comment je vais faire
+pour le plus régulièrement possible
+repasser sur ma landing page repasser
+sur le contenu de cette landing page
+repasser sur la position des mots clés
+l'optimisation SEO donc ce que les gens
+voient ce que les robots voient et
+comment je fais pour optimiser aussi les
+requêtes sur lesquelles je choisis de me
+placer parce que ces trois trucs là sont
+les éléments fondamentaux qui font que
+tu vas apparaître dans Google et générer
+du trafic sur ton site un trafic que tu
+vas pouvoir convertir par la suite et ça
+c'est toi qui décide de ton process de
+vente alors cette première expérience je
+pense que vous avez pigé c'est pas très
+difficile à mettre en place il faut
+compter entre 1 à 6 mois pour commencer
+à voir des premiers résultats parce
+qu'en fait bah le temps d'optimiser et
+tester de trouver des requêtes qui sont
+pertinentes et cetera en fonction de
+votre performance et de votre niveau en
+SEO he parce que c'est une vraie
+discipline vous allez mettre plus ou
+moins de temps à commencer apparaître
+dans les résultats mais comme tous les
+canaux d'acquisition bah il faut y
+mettre de l'énergie cette énergie quand
+vous savez où la mettre exactement quand
+vous avez des réflexes instinctifs de
+comment faire une page qui convertit
+comment faire une page qui est bien
+optimisée CEO bah c'est quand même plus
+simple de le faire donc vous allez
+peut-être mettre moins de temps si vous
+débutez complètement en SEO comptez de 1
+à 6 mois pour commencer à avoir vos
+premiers résultats si ça vient plus vite
+tant mieux pour vous vous aurez bien
+fait puis si ça vient dans les 1 à 6
+mois bah au moins j'aurais respecté ma
+promesse pendant ces 1 à 6 mois il faut
+absolument que vous mesuriez les deux
+choses dont j'ai parlé au début de cette
+vidéo la première chose c'est le trafic
+combien de gens passent sur ma page de
+quels motsclés ils viennent regarder la
+Google Search console régulièrement et
+cetera et cetera et mesurer la Conv
+version combien de gens qui passent sur
+mon site deviennent des gens qui
+rentrent dans mon pipe de vente
+deviennent des gens qui bah soit
+deviennent des leades soit deviennent
+utilisateurs soit deviennent
+potentiellement des clients dans ce
+module tu as accès à plein de contenus
+il y a des vidéos pratiques pour
+t'expliquer comment utiliser la Google
+Search console il y a des fiches outil
+j'ai aussi fait des vidéos pour te
+t'expliquer un peu plus en profondeur
+comment choisir les bonnes requêtes sur
+lesquelles se placer par rapport à ton
+business j'ai mis des modèles de mes
+landing page préféré que ce soit en
+terme du X de contenu ou d'optimisation
+SEO bref il y a plein de choses que vous
+allez pouvoir utiliser pour mettre en
+place votre stratégie SEO à
+vous si jamais votre expérience elle
+fonctionne et que vous voyez que ça vous
+rapporte un peu de trafic et que un peu
+de ce trafic est converti et que vous
+commencez à avoir des clients qui sont
+générés et ben vous allez pouvoir
+continuer à optimiser tout simplement en
+vous posant constamment la question de
+comment faire pour améliorer ma landing
+page mais aussi en créant d'autres
+landing Pag quand je sais que quand je
+discutais avec blondi qui est un très
+très bon expert en SEO il me disait moi
+quand j'attaque une stratégie je
+commence directement par écrire 50
+landing Pag différentes parce que comme
+ça J'augmente mes chances de passer bah
+sur une de ces pagesl en amont dans une
+des requêtes Google vous pouvez
+multiplier les tests vous pouvez
+optimiser les tests individuellement et
+vous pouvez toujours vous poser la
+question de bah sur quelle requête
+supplémentaire je veux me poster où
+est-ce que je veux apparaître et cetera
+le SEO c'est presque une compétition
+c'est presque un sport de haut niveau
+c'est comment on fait pour se poser la
+question d'être devant les autres alors
+il se trouve que vous avez de la chance
+la plupart des autres web sont pas du
+tout optimisés pour le SEO la plupart
+des autres sites web c'est des gens qui
+ont créé des landing page comme ça et
+qui se sont pas posé la question de bah
+comment je fais pour remonter dans dans
+des résultats pertinents la plupart des
+sites web vous allez les battre à plat
+de couture si vous vous y mettez un
+petit peu sérieusement au début vous
+allez peut-être avoir des petits
+chiffres mais ces petits chiffres à Fort
+d'optimisation et de régularité vous
+allez les faire devenir des gros
+chiffres et c'est très très très
+important parce qu'il y a des boîtes qui
+tournent uniquement sur le SEO il y a
+des boîtes comme flat hein il y a un use
+case dans ce module qui est Pierre de
+flat qui explique qu'il a chopé ses
+200000 premiers utilisateurs uniquement
+grâce au SEO c'est des chiffres qui sont
+gigantesque parce que c'est
+littéralement le web entier qui va
+trouver votre page à travers des
+requêtes internet donc j'insiste un
+dernier coup avant de vous laisser vous
+y mettre le SEO c'est d'abord et avant
+tout une histoire de discipline c'est
+une histoire de revenir toutes les
+semaines ou tous les jours même et se
+poser la question de où sont mes
+requêtes pertinentes comment améliorer
+mes landing page Comment améliorer ma
+conversion si vous faites ça très
+régulièrement il y a de très très fortes
+chances pour que ça fonctionne pour vous
+si vous le faites pas régulièrement si
+vous vous posez pas ces questions là ça
+ne marchera pas donc il faut le faire il
+faut se mettre cette discipline il faut
+faire en sorte de se poser la question
+régulièrement de comment améliorer mes
+performances SEO parce que vous l'avez
+peut-être déjà vu ou vous allez
+peut-être le voir dans tous les autres
+modules de la formation le SEO c'est un
+canal par lequel on peut raccrocher
+plein de autres canaux c'est très très
+important c'est très souvent au cœur de
+la stratégie de plein de boîtes même
+nous chez coup d'État on a pas un effort
+SEO qui est gigantesque on a une landing
+page quelques contenus public mais
+finalement on n' pas fait un gros effort
+mais si vous regardez que vous tapez
+coup d'AT dans Google et ben on nous
+trouve on est premier aujourd'hui ça
+représente quasiment les tris/4s de
+notre trafic quand on n'est pas en train
+de faire des grosses promos de vidéo
+quand on utilise pas notre stratégie de
+contenu le SEO c'est vraiment essentiel
+il faut se poser la question c'est pas
+très dur à prendre en main ça demande
+juste de se mettre une petite discipline
+et de se poser la question de comment je
+vais faire pour que Google reconnaisse
+mon site et que les gens arrivent chez
+moi après avoir tapé une requête bon
+courage

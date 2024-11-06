@@ -1,0 +1,1361 @@
+dans l'épisode 3 on a parlé de créer la
+première version de son produit alors
+effectivement tout l'enjeu de la
+première version ça va être de vraiment
+régler le problème qu'on a identifié
+chez les utilisateurs ça c'est c'est
+vraiment important maintenant il y a une
+vraie question qui est comment on
+s'assure que c'est vraiment le cas et
+pour ça il faut observer le comportement
+de tes
+utilisateurs N
+la première idée que j'ai envie de te
+faire passer c'est que une fois que ton
+produit est créé tu fais de la
+science créer un produit c'est un
+processus c'est pas un one shot tu vois
+je parle de première version du produit
+depuis le départ je parle de du
+processus de création du cycle de vie
+d'un produit parce qu'en fait créer un
+produit c'est jamais fini sais c'est la
+fameuse c'est c'est un peu une blague
+chez nous chez coup d'État où on raconte
+que il y a toujours nos parents qui nous
+disent ouais mais est-ce que quand vous
+aurez fini le site tu auras plus de
+travail et en fait le site il est jamais
+fini parce que c'est une constante
+amélioration et c'est une constante
+méthode scientifique pour comprendre ce
+qui marche ce qui marche pas et
+améliorer ce qui marche pas et augmenter
+ce qui marche bien si on dit qu'on va
+faire de la science j' j'ai envie de
+m'attarder un tout petit peu sur ce qui
+est la la méthode scientifique
+fondamentalement la méthode scientifique
+elle se compose de quatre étapes ça va
+être l'observation d'abord on observe on
+rassemble un maximum de données pour
+pouvoir agir ensuite une fois qu'on a
+toutes ces données on va émettre des
+hypothèses sur pourquoi ces données
+ressemblent à ça et et qu'est-ce qu'on
+peut imaginer comme raison pour pour
+pour laquelle ces données sont comme
+sont comme elles sont ensuite on va
+faire une expérimentation qui va nous
+permettre de valider ou non cette
+hypothèse et puis ensuite on recommence
+on va observer de nouveau et puis on va
+de nouveau émettre des hypothèses et
+puis on va de nouveau expérimenter oui
+non et puis de nouveau observer et
+cetera et cetera ça te permet en fait
+d'avoir un cycle infini qui te permet de
+te rapprocher de plus en plus de la
+vérité et dans le cas de la la création
+d'un produit ça va te permettre de te
+rapprocher de plus en plus d'un produit
+que les gens kiffent vraiment dans cet
+épisode l'objectif c'est de parler
+uniquement de la première étape de cette
+méthode scientifique qui est
+l'observation parce que sans observer tu
+peux imaginer énormément de choses qui
+qui se passe pas forcément dans la vraie
+vie et c'est très facile de se perdre et
+de commencer à vouloir améliorer ton
+produit dans tous les sens et même si ta
+première version est sortie d'essayer de
+de te tomber dans un cycle infini où tu
+t'en sors
+jamais pour bien observer le
+comportement de ses utilisateur la
+première étape et ça c'est dans 100 %
+des business ça va être de de parler en
+fait aux gens qui sont tes clients aux
+gens qui utilisent ton produit peu
+importe ton produit en fait que que ce
+soit un sas que ce soit une culotte ou
+que ce soit un smartphone il faut parler
+aux gens genre tout le temps tout le
+temps tout le temps je j'insisterai
+jamais assez sur la valeur que ça a de
+parler à tes utilisateurs demande-leur
+ce qu'ils aiment dans ton produit
+demande-leur ce qu'ils aiment moins ils
+vont pas forcément être honnête mais
+déjà la question qu'est-ce que tu aimes
+dans le produit elle est différente de
+est-ce que tu aimes cette fonctionnalité
+là parce que du coup tu ouvre le champ
+des possibles pour la personne à qui tu
+parles et tu lui permets de te dire bah
+je préfère cette partie-là du produit
+pour voir comment tu peux orienter le
+truc donc demande demande-leur du
+feedback direct sur ce qu'ils en pensent
+mais c'est pas là où tu vas tirer le
+plus de valeur là où tu vas tirer le
+plus de valeur c'est surtout dans le
+contexte qui entoure l'utilisation de
+ton produit demande-leur à quelles
+occasions ils l'utilisent demande-leur
+quand demande-leur où demande-leur
+comment parce que vraiment genre c'est
+hyper important nous c'est par exemple
+c'est comme ça qu'on a créé les podcast
+coup d'État genre quand quand je parlais
+aux utilisateurs de coups d'État au
+départ tout le monde m'a dit moi
+j'aicoup de coups d'État quand je fais
+la vaisselle j'coute coup d'État quand
+je suis dans mon en mettant dans mon
+canape le soir quand je rentre d'une
+journée de boulot et je me craque une
+bière et je regarde coup d'État j'ai des
+gens qui m'ont dit j'écoute en voiture
+et cetera on a créé les podcast coup
+d'État parce qu'on s'est rendu compte
+qu'il y avait plus de gens qui
+écoutaient certaines de nos conférences
+que de gens qui les regardaient juste ça
+comprendre le contexte dans lequel les
+gens utilisent ton produit ça une valeur
+gigantesque pour toi c'est c'est c'est
+c'est vraiment important un truc qui est
+vraiment intéressant pour toi aussi
+c'est de comprendre pourquoi pourquoi
+ton produit leur est utile le mieux pour
+ça c'est de reparler de la problématique
+que tu avais identifié au départ de
+t'assurer qu'elle existe toujours et que
+et que les gens ont toujours le problème
+et de voir en quoi ta solution les a
+aidé et en fait en comprenant en quoi ta
+solution les aide tu vas pouvoir
+détecter les points qui sont vraiment
+intéressants et qui ont vraiment apporté
+de la valeur émotionnelle aux gens si tu
+arrives à faire en sorte qu'ils se livre
+un minimum et en fait quand tu parles à
+tes utilisateurs c'est vraiment
+important comme à la première phase
+d'observation de creuser toujours
+toujours plus de demander pourquoi à
+chaque fois que tu as l'opportunité de
+demander pourquoi il faut le faire ça te
+permet de creuser toujours plus en
+profondeur
+dans ce que les gens aiment bien dans
+ton produit dans le dans la
+compréhension de l'usage que les gens
+font de ton produit faut poser beaucoup
+beaucoup de questions et encore une fois
+les techniques de en quoi dans quelle
+mesure et cetera fonctionne très très
+bien une autre petite technique que
+j'aime bien c'est de répéter la fin de
+la phrase où les gens vont me dire ah
+oui dans ton produit j'aime bien tel
+aspect et toi tu peux répéter la fin de
+la phrase tel aspect ah ouais mais parce
+qu'en fait ce truc est vraiment
+important parce que ça me permet de
+régler tel problème tel problème ah
+ouais ben parce qu'en fait machin et en
+fait en creusant comme ça en niveau et
+en niveau tu vas arriver à à des points
+qui sont vraiment intéressants qui sont
+vraiment profonds chez les gens et c'est
+sur ces points de friction que tu vas
+pouvoir construire des axes
+d'amélioration pour ton produit un
+dernier truc que tu peux peux faire
+quand tu parles à tes utilisateurs c'est
+observer leur comportement directement
+avec le produit par exemple si tu as un
+site web bah tu peux essayer de regarder
+comment ils s'en servent quand ils sont
+en live et il y a une erreur à à à
+surtout éviter quand tu fais ce genre
+d'exercice là où tu essayes d'observer
+le comportement des gens vis-à-vis de
+ton produit c'est d'intervenir et en
+fait c'est normal genre toi tu es tu es
+le créateur du produit ou tu es la
+créatrice du produit tu es dans une
+situation où tu vois quelqu'un en face
+de toi qui utilise ce que tu as créé
+donc tu le connais parfaitement vu que
+c'est toi qui a créé tous les rouages tu
+sais comment ça fonctionne dans le fond
+et tu te retrouves face à des gens qui
+dans la plupart des cas comprennent pas
+comment ça marche sont un peu frustrés
+mais ils seront toujours moins frustrés
+que toi j'ai vécu ça l'autre jour genre
+il y a
+un un mec que je suis un petit peu qui
+vient et qui me présente en fait un un
+produit physique qu' a créé qui est une
+sorte de de point relais qui permet aux
+gens de se connecter dessus quand on est
+en événement et qui en fait permet
+d'afficher des choses sur une télé donc
+les gens peuvent envoyer des contenus
+sur la télé et ça fait une sorte d'écran
+participatif le produit est bien
+franchement le produit est bien il est
+très complexe parce qu'il est destiné à
+des gens qui sont professionnels et qui
+donc ont besoin de de beaucoup de
+fonctionnalités différentes et cetera il
+pourrait objectivement être un peu moins
+complexe mais c'est pas ça qui était
+dérangeant c'est qu'en fait j'ai
+commencé à prendre en main son outil
+franchement j'ai trouvé ça cool et il
+était tout le temps au-dessus de mon dos
+à essayer de me de cliquer à ma place de
+me montrer
+de de de de dire ah mais oui mais là en
+fait tu trouves pas donc c'est là et en
+fait je pense vraiment que c'est une
+erreur déjà parce que moi ça me frustre
+et que ça m'empêche de jouer avec son
+truc qui était un très très bon produit
+et en plus parce que lui il rate une
+opportunité énorme d'apprendre comment
+quel est mon rapport à son produit et en
+fait toi quand tu veux faire tester ton
+produit à des gens et à des utilisateurs
+et que tu veux observer leur
+comportement surtout il faut pas
+intervenir genre c'est c'est vraiment
+important de rester en retrait de juste
+observer de loin de ranger tes
+frustrations parce qu'il y en a toujours
+beaucoup quand tu regardes quelqu'un se
+servir d'un site que tu as créé toi-même
+ou d'un produit de manière générale et
+puis de juste observer de te dire ok si
+là il ou elle galère et B je dois
+pouvoir améliorer quelque chose et être
+tout le temps en constante quête de
+l'amélioration de ton produit par
+l'observation l'observation par le fait
+de parler à ses users et d'être
+directement en contact avec eux ça
+fonctionne bien ça fonctionne très très
+bien pour les produits physiques parce
+qu'en fait tu as pas tellement d'autres
+choix pour mesurer et pour observer le
+comportement de tes utilisateurs par
+contre quand tu es une tech c'est ça
+devient vraiment
+intéressant quand tu es une tech tu vas
+avoir accès à des outils qui sont encore
+plus performant dans l'observation qui
+sont tous les outils de mesure de Matrix
+de KPI et cetera qui tout ça c'est un
+peu le le pouvoir magique de la tech qui
+fait que des boîtes comme Facebook ont
+pu grossir aussi vite qu'elles ont aussi
+parce qu'elles sont pas seulement en
+train de créer des produits que les gens
+aiment par observation à l'œil nu et au
+parler elles créent grâce à de la data
+et elles peuvent accumuler des masses
+gigantesques d'observation grâce à des
+outils surperformants si tu es un
+produit physique ou que tu as pas de
+tech tu peux quand même monitorer tout
+tous les aspects qui sont en ligne donc
+par exemple si tu as un Shopify tu vas
+pouvoir monitorer beaucoup de choses si
+tu as un site un e-commerce tu vas
+pouvoir monitorer tout le parcours des
+gens avant leur achat c'est intéressant
+ça te permet moins d'itérer sur le
+produit en lui-même mais c'est quand
+même utile de savoir se servir de ce
+genre de techno je pense en 2019 ça te
+donne un avantage qui est vraiment
+considérable mais du coup il y a deux
+questions par rapport à ça la première
+c'est qu'est-ce qu'on mesure et la
+deuxième c'est comment et je vais tâcher
+de répondre à ces deux questions là dans
+cet épisode c'est une partie qui est qui
+peut paraître un peu indigeste mais qui
+en fait est pas si complexe que ça si tu
+connais les bons outils et que tu
+cherches pas à tout apprendre dans
+l'intégralité mais que tu commences par
+quelque part le premier truc à
+comprendre c'est que tu as un objectif
+l'objectif c'est de mesurer toutes les
+métriques donc les métriques c'est
+vraiment l'ensemble des chiffres de ton
+business quoi euh toutes les métriques
+qui ont de la valeur pour ta boîte qui
+vont faire en sorte que ta boîte
+grandisse genre c'est vraiment le truc
+de base le risque qui est contraire à ça
+c'est de tout traquer si tu commences à
+à tout mesurer à tout monitorer et à
+avoir des chiffres sur tout ce qui se
+passe sur ton site y compris les choses
+qui apportent pas de croissance à ta
+boîte tu te plantes déjà parce que ça va
+te coûter cher en utilisation d'outils
+parce que ces outils sont des outils qui
+coûtent cher et en plus de ça ça va
+t'empêcher d'avoir une vision claire sur
+ce qui est important pour ta boîte et tu
+vas te mélanger les pinceaux dans tous
+les sens et c'est très compliqué par
+exemple nous chez coup d'État le les
+métriques qu'on regarde le plus c'est
+combien de gens se sont inscrits sur le
+site par semaine c'est combien ont
+marqué une vidéo comme vue et combien de
+gens ont acheté les formations payantes
+qu'on propose grosso modo c'est ce qu'on
+appelle des KPI donc des key performance
+indicator qui sont vraiment les
+matriques clés pour ton business et qui
+ont une vraie valeur si tu les suis une
+bonne manière de se représenter la
+réflexion qu'il faut avoir par rapport à
+toutes ces matrixes c'est de connaître
+le FUNEL
+donc le FUNEL c'est a a r RR et c'est un
+un FUNEL en fait de conversion qui
+reprend tout le parcours de tes
+utilisateurs à partir du moment où ils
+entendent parler de toi jusqu'au moment
+où il dépense de l'argent dans ton
+business le FUNEL il se décompose comme
+ça la première étape c'est acquisition
+donc c'est toutes les choses que tu peux
+mettre en place et tous les canaux par
+lesquels les gens sont amenés à visiter
+ton site ou ton logiciel ou n'importe
+quoi pour la première fois c'est comment
+tu fais pour les acquérir la deuxième
+étape du FUNEL art c'est c'est
+activation donc c'est vraiment une fois
+qu'ils sont sur ton site qu'ils ont
+visité ta landing page ou des choses
+comme ça combien d'entre eux se sont
+inscrit et sont devenus actifs et là on
+tombe dans une notion qui est assez
+importante quand on parle de de de
+logiciel et de software de manière
+général qui est la notion de
+d'utilisateur actif un utilisateur actif
+ça se définit pour chaque business par
+exemple chez CP d'Éat notre utilisateur
+actif c'est quelqu'un qui regarde une
+vidéo jusqu'au bout mais donc du coup il
+faut définir ce qui'est un utilisateur
+actif pour toi et ensuite monitorer le
+nombre de gens qui ont été activés à
+partir du nombre de gens qui était dans
+l'acquisition la troisième étape du
+Fenel c'est la rétention une fois que
+les gens sont activés il faut se poser
+la question de est-ce qu'ils reviennent
+est-ce qu'ils rachètent est-ce qu'ils
+refont des actions qui font de des
+utilisateurs actifs et et il faut poser
+les questions de quelle maîtrix je peux
+suivre pour faire en sorte de savoir si
+les gens reviennent utiliser mon produit
+de manière régulière ça c'est la
+rétention ensuite tu as l'avant-dernière
+étape qui est le référol où en fait
+c'est vraiment est-ce que les gens
+parlent de moi est-ce que il y a du
+bouche à oreille qui se crée est-ce
+qu'il y a des partages sur les réseaux
+sociaux qui sont faits est-ce que le
+produit est suffisamment bon pour que
+les gens aient envie de parler de moi à
+leur entourage et que donc tu crées une
+croissance organique et donc la dernière
+étape c'est le revenu c'est est-ce que
+les gens sont prêts à payer pour ce que
+je propose et et à quel point ça
+convertit et en fait ce qui est
+intéressant de regarder dans avec ce à
+travers ce Fenel c'est toutes les
+métriques qui vont te montrer quelle
+quantité de gens passe d'une étape du
+Fenel à une autre et vraiment si tu
+arrives à avoir cette logique là tu sais
+quoi traquer tu sais quoi regarder comme
+Matrix
+et une règle simple c'est de partir du
+principe que plus la la métrique que tu
+observes est basse dans le Fenel donc
+plus elle se rapproche du
+plus elle est importante c'est toujours
+plus efficace d'augmenter un taux de
+conversion entre acquisition et
+activation que d'augmenter le nombre de
+gens qui vont rentrer par le haut du
+FUNEL toujours donc ça c'est pour savoir
+ce qu'on observe l'intérêt de tout ça
+c'est vraiment d'avoir des données
+quantitatives quant au comportement de
+tes users pour pouvoir comprendre
+vraiment ce qu'ils font à l'intérieur de
+ton produit maintenant qu'on a parlé de
+tout ça et qu'on a fait beaucoup de
+théories sur ce qu'on devait traquer et
+ce qu'on devait euh mettre en place
+comme maîtrique le mieux c'est de faire
+de la pratique et je vais vous montrer
+les outils qu'on utilise chez coup
+d'État pour moi il y a vraiment peu
+d'outils qui sont performants et je
+pense qu'il y a pas besoin d'en
+connaître beaucoup plus encore une fois
+il y aura les alternatives vous pourrez
+trouver tout ce que vous voulez comme
+alternative en fouillant sur google je
+vais vous présenter les deux outils qui
+me paraissent les plus efficaces euh
+pour tracker tout le comportement des
+utilisateurs qui sont mix panel et odjar
+et et dans ces trucsl on va voir qu'il y
+a très très très peu de fonctions à
+connaître pour pouvoir commencer à
+utiliser et à traquer vraiment le
+comportement des
+users mon but c'est pas de te montrer
+comment fonctionne mix panel de manière
+exhaustive mon but c'est vraiment de
+montrer comment fonctionnent les trucs
+de bases qui vont t'être utiles pour
+traquer les matrix fondamentales de ton
+business après tu peux creuser beaucoup
+plus il y a énormément de doc il y a
+énormément d'articles si tu commences à
+prendre des plans payants la team de mix
+panel peut t'aider une mix panel
+Academie enfin c'est un outil qui est
+très très complexe et qui peut faire
+peur quand on veut le prendre en main
+mais en fait il y a pas tant de
+fonctions que ça qui sont vraiment
+essentielles et on va essayer de voir
+ces fonctions là avant avant toute chose
+le premier truc à comprendre avec
+mixpanel c'est que ça s'installe dans
+une application donc même si tu es non
+codeur et que tu travailles avec un dev
+ou avec une dev ou voilà c'est utile de
+comprendre comment ça fonctionne mix
+panel en gros c'est une sorte de grosse
+librairie de code qui va s'intégrer dans
+ton application et qui va te permettre
+d'appeler des nouvelles fonctions qui
+vont ensuite se greffer un un dashboard
+et un outil externe qui mix panel du
+coup dans lequel tu vas avoir des
+graphiques qui vont se créer et cetera
+donc à la base il faut installer mix
+panel et ensuite il va falloir tracker
+ce qu'on appelle des events pour tracker
+des events en fait ça marche comme ça
+ici avec cet exemple là on voit que
+c'est en Javascript donc c'est un des
+langages que tu peux utiliser avec mix
+panel si tu vois le code comme une
+succession d'action ordonné à
+l'ordinateur tu peux imaginer qu'à
+chaque fois qu'une action et est demandé
+par le Code tu peux y associer un
+événement un event que tu vas envoyer
+pour comprendre ce qui est un event le
+mieux c'est de prendre un exemple
+concret ici dans la documentation de mix
+panel ils prennent un exemple avec un
+event qui va s'appeler song played donc
+on peut partir du principe que par
+exemple on est sur un un logiciel
+d'écoute de musique genre Spotify
+musique des trucs comme ça et où en gros
+on veut à chaque fois que l'utilisateur
+va écouter une chanson on veut envoyer
+un événement à mix panel qui va informer
+mix panel du fait que l'utilisateur a
+joué une chanson donc à chaque fois que
+va y avoir euh un bout de code qui est
+exécuté quand l'utilisateur appuie sur
+PLAY par exemple en plus de lancer la
+chanson dans qui est le comportement
+normal de l'application on va envoyer un
+event à mix panel qui dit là
+l'utilisateur il a jouer la chanson ici
+ce qui est intéressant c'est de voir en
+fait que à la fois dans l'événement il y
+a un titre donc tu vois tu vas appeler
+ça avec une fonction qui s'appelle
+mixpanel.traack peu importe ce qui est
+important c'est qu'ici il y a le nom de
+l'événement qu'on envoie à mixpanel qui
+s'appelle song played en plus de
+d'envoyer l'information à mix panel au
+moment où l'utilisateur clique sur PLAY
+pour jouer la chanson on va pouvoir lui
+passer ce qu'on appelle des paramètres
+donc les paramètres ici il y en a deux
+c'est song artist en l'occurrence ici
+c'est The Rolling Stones et song title
+et ici c'est gimy Shelter en gros ça te
+permet d'envoyer à mix panel non
+seulement que l'utilisateur a joué euh
+une une chanson mais en plus de dire
+quelle chanson et tu vas pouvoir envoyer
+autant de paramètres que tu veux à mix
+panel pour pouvoir ensuite utiliser ces
+données là pour en faire des graphes
+différents et pour pouvoir
+comprendre quantitativement comment ça
+se passe en fait en terme d'utilisation
+sur ton application donc ça c'est pour
+les événements c'est pour les events de
+mixpel on va les appeler comme ça
+maintenant l'idée c'est que en plus des
+events dans mix panel il y a une
+deuxième catégorie de données que tu
+peux envoyer qu'on appelle la catégorie
+people ça veut dire que à la fois tu
+peux envoyer à mix panel l'information
+que quelqu'un a fait une action mais tu
+peux aussi envoyer à mix panel
+l'information que quelqu'un a modifié
+son profil ici ici on le voit dans la
+documentation de mix panel on voit qu'il
+y a un bout de code qui s'appelle mix
+panel identify qui permet de retrouver
+quel utilisateur c'est c'est pas très
+important par contre on voit qu'ici il a
+une fonction qui s'appelle
+mixpanel.pe.7 et où tu peux lui assigner
+un first name ici c'est Joe et un
+favorite musicque genre ici c'est rock
+ce qui est important avec ça c'est que
+par exemple tu vas pouvoir envoyer un
+event qui dit il a joué une chanson et
+en même temps juste juste dans la foulée
+tu vas pouvoir envoyer une modification
+du profil de cette personne où tu vas
+augmenter de 1 le nombre de fois où il a
+joué une chanson ça te permet à la fois
+d' d'avoir l'ensemble des actions qui
+ont été effectuées par tes utilisateurs
+à grande échelle mais ça te permet aussi
+de savoir pour une personne en
+particulier combien de fois elle a joué
+une chanson ça te permet de savoir d'où
+elle vient tu peux envoyer vraiment
+toutes les infos que tu veux dans mix
+panel avec ces deux trucs-là tu as
+compris comment fonctionnait mix panel
+de manière générale tu envoies des
+events tu envoies des des informations
+sur le profil de la personne et mixpanel
+va te construire tout un tas d'outils
+qui vont te permettre d'analyser ces
+données de la meilleure manière donc
+maintenant qu'on a compris comment
+fonctionnait mix panel de manière
+globale allons dans mix panel pour moi
+sur mix panel il y a trois fonctions qui
+sont vraiment intéressantes et vraiment
+utiles au départ quand on veut prendre
+en main l'outil et quand on veut
+commencer à traquer des choses
+intéressantes pour comprendre le
+comportement de ses utilisateurs tout ce
+qu'ils vont appeler les Insight donc les
+Insight c'est vraiment le le la
+variation du nombre d'occurrence d'un
+événement dans le temps il va y avoir
+tout ce qui est funnel donc tous les
+tunnels de conversion que tu vas pouvoir
+observer et les pertes que tu vas avoir
+dans les dans les parcours d'utilisateur
+que tu veux mettre en place et le
+dernier truc c'est les les observations
+de rétention ça pour moi c'est c'est
+vraiment utile parce que ça te permet de
+monitorer qui combien de gens utilisent
+ton service dans le temps et c'est c'est
+la partie rétention de ton Fenel en fait
+donc on va essayer de voir ces trucs là
+et en plus de ces trois fonctions là on
+va parler des profils d'utilisateur et
+de comment tu peux regarder le
+comportement de tous les gens qui
+utilisent ton app à travers leur profil
+et comment tu peux stocker des
+informations sur eux donc d'abord on
+commence par les Insight les Insight ça
+te permet de dresser des graphes à
+partir des événements que tu as envoyé
+donc par exemple sur coup d'État on va
+avoir un premier event qui est sign up
+sign up c'est tous les gens qui se sont
+inscrits sur la plateforme coup d'État
+si on regarde ici donc le nombre de
+signup dans les derniers 30 jours et ben
+on voit que on en a eu 2900 ici ce
+graphe là est intéressant mais tu peux
+commencer à le modifier tu vas pouvoir à
+la fois le faire en barre comme il est
+ici mais tu vas pouvoir le modéliser en
+ligne donc voir à travers le temps
+combien il y a eu de gens donc tu vois
+là on voit que le jeudi 7 mars il y a eu
+236 personnes qui sont inscrites euh et
+tu peux changer cette ce graphique là
+pour dire je veux pas le voir euh en au
+jour le jour je veux le voir semaine
+après semaine par exemple et donc là on
+voit que semaine après semaine ben on a
+eu 643 personnes puis 603 puis 641 puis
+861 et il y a des prédictions qui sont
+faites dans le futur ça c'est vraiment
+intéressant parce que ça te permet de
+voir pour un un événement aussi
+important que le signup quelle est
+l'évolution dans le temps ce qui est
+aussi intéressant c'est que tu vas
+pouvoir filtrer ces événements là avec
+des propriétés que tu as envoyé dans
+l'événement donc si ici j'ajoute un
+filtre et que je veux donc je vais
+filtrer avec une propriété un truc qui
+est intéressant c'est que du coup tu vas
+pouvoir vraiment faire le le le
+découpage de la manière dont les gens
+ont enclenché cet événement-là là par
+exemple sur le signup sur coup d'État on
+a deux manières de s'inscrire
+aujourd'hui il y a la première manière
+qui est la page d'accueil le flot
+d'inscription classique que tout le
+monde voit donc aller sur coupetat.co et
+faire je m'inscris et ensuite s'inscrire
+avec facebook ou s'insrire a avec Google
+la deuxième manière de s'inscrire elle
+va être à travers un épisode donc si par
+exemple quelqu'un t'envoie un épisode de
+coup d'État mais que tu es pas encore
+inscrit ou que tu es pas connecté à la
+plateforme et ben tu vas avoir une page
+spéciale qui en fait reprend des extrait
+de la vidéo avec marqué content de te
+revoir les gens peuvent s'inscrire par
+ce cette page là et nous dans mix panel
+quand la personne s'inscrit on va
+différencier le fait qu'elle se soit
+inscrit soit par la page d'accueil soit
+par une page comme celle-là parce que ça
+nous permet en fait de connaître les
+performances de de ces pagesl en fait et
+de par épisode si les trailers qu'on
+fait pour cette page là sont performants
+ou pas ça nous permet de prendre des
+décisions sur comment agencer cette page
+et cetera donc une fois qu'on revient
+sur mix panel en fait on va avoir une
+fonction dans l'interface de mix panel
+qui permet de faire le découpage de ces
+différentes sources d'inscription et en
+l'occurrence nous on va le faire par par
+épisode donc ça va nous permettre de
+voir par épisode combien ça nous a
+rapporté d'inscrit donc ici si on clique
+sur le petit plus à côté de sign up et
+qu'on dit qu'on veut faire le breakdown
+entre toutes les les sources qu'on a hop
+on va faire source et ben ici on voit
+que sur les 30 derniers jours en
+fonction de la source le nombre de
+signup est réparti comme sui on a 1500
+personnes qui sont inscrites sur le site
+par le flow classique donc vraiment par
+la page d'accueil sans passer par une
+des pages comme je t'ai montré ça fait
+51,88 % des gens qui se sont inscrits
+sur les 30 derniers jours c'est
+intéressant et ensuite on voit que il y
+a 305 personnes encore une fois sur les
+30 derniers jours qui sont inscrites euh
+à travers l'épisode 8 l'épisode 8 c'est
+l'épisode de pierre de flat sur comment
+orchestrer la croissance de 0 à 1
+million utilisateurs et on voit que ça
+nous a rapporté 305 personnes qui sont
+inscrites pareil coup d'État x saison 1
+épisode 7 6,16 % des gens se sont
+inscrits à travers cet épisode-là sans
+80 personnes et comme ça on peut aller
+jusqu'à tous les épisodes et en fait
+c'est vraiment intéressant parce que ça
+nous permet de voir quels sont les
+épisodes qui nous rapportent le plus
+d'inscrit et de pouvoir choisir sur
+lesquels on va agir l'intérêt de
+d'améliorer la page et le trailer de
+saison 1 épisode 4 il est plutôt faible
+comparé à changer le trailer de pierre
+pour essayer d'augmenter les
+performances et essayer de voir comment
+on peut faire pour qu'il y ait de plus
+en plus d'inscrits à travers cet épisode
+là pour bien d'insister là-dessus le
+mieux c'est que je vous montre encore un
+autre exemple qui est que ici en plus de
+la source donc de l'épisode à travers
+lequel les gens peuvent s'inscrire on va
+traquer le provider qui est est-ce que
+les gens s'inscrivent avec facebook avec
+Google ou avec leur email et ici on voit
+que c'est plutôt bien réparti donc là on
+a un graphique en barre mais comme je
+vous montrais tout à l'heure hop on peut
+le modifier pour en faire un graphique
+en en camamber donc ici voilà on voit
+que 29 % des gens s'inscrivent avec leur
+AD mail que
+37,87 % des gens s'inscrivent avec
+Google et que le reste s'inscrit avec
+Facebook et en fait ça te permet de
+comprendre est-ce que c'est intéressant
+de garder l'email de faire la
+répartition ici il y a pas grandchose à
+apprendre de cette donnée là parce que
+elle est assez bien répartie et ça
+prouve qu'il faut probablement laisser
+les trois mais en tout cas ça te donne
+une idée de ce que tu peux créer comme
+graphique dans mix panel à partir des
+événements que tu as envoyé parce que je
+rappelle que ce graphique là il est
+construit à partir d'un événement qui
+envoé voyez à chaque fois que quelqu'un
+s'inscrit et on lui transmet des
+propriétés est-ce qu'il s'est inscrit
+avec facebook est-ce qu'il s'est inscrit
+à travers un épisode à quelle date il
+s'est inscrit et cetera et cetera donc
+ça c'était pour la première partie qui
+te permet de traquer en fait les les les
+événements qui sont envoyés à travers
+mix panel et d'en faire des graphiques
+le deuxième truc dont j'ai parlé c'est
+les fenells les fenelles c'est un graphe
+qui est vraiment intéressant parce qu'il
+te permet de comprendre où est-ce que
+les gens s'arrêtent dans un parcours que
+tu as voulu créer pour eux et qui te
+permet de les faire avancer dans
+l'expérience de ton produit nous on a
+plusieurs fenels chez coup d'État le
+premier Fenel qu'on a créé c'est le
+FUNEL d'boarding donc l'onboarding de
+coup d'État je vais le je vais rappeler
+à quoi il ressemble donc si je fais le
+flow classique d'inscription sur coup
+d'État que je passe par la page
+d'accueil ok je m'inscris avec une
+adresse email prénom Valentin nom
+Richard je m'inscris sur coup d'État
+voilà il y a une première étape qui est
+l'explication de coup d'État avec une
+petite case où les gens peuvent choisir
+de s'abonner à la newsletter si les gens
+continuent hop on va avoir une deuxième
+étape qui est on est ravi de te
+commencer parmi nous et il y a un type
+form dans lequel on va poser plein de
+questions et ça nous permet ensuite nous
+de collecter des données et de pouvoir
+savoir quels sont les prochains contenus
+qu'on va créer pour qui vont intéresser
+le plus les gens qui s'inscrivent sur
+coup d'Ét de manière générale tu peux
+passer cette étape ensuite il y a
+l'étape de la contribution donc détail
+gratuit mais tu peux contribuer donc tu
+peux choisir un montant de donation à
+faire par mois là ici pour les besoins
+de ce test je vais continuer en mettant
+0 € par mois et il y a une dernière
+étape qui est bienvenue sur coup d'Etat
+un petit texte d'explication et un
+bouton qui mène à couetat.co donc la
+plateforme sur laquelle tu peux
+découvrir tous les épisodes de toutes
+les séries concretes ce qui m'intéresse
+moi dans mix panel ici c'est de voir
+quelle est la progression des
+utilisateurs au fur et à mesure de ses
+étapes et de voir combien on en perd en
+fait à chaque étape donc ici on voit
+dans le Fenel que au total on a 3,73 %
+de complessionion entre le moment où
+quelqu'un s'inscrit donc l'event signup
+qui est envoyé à mix panel et le moment
+où il y a eu un épisode watched donc
+quelqu'un a cliqué sur marquer un
+épisode comme vue le truc intéressant
+dans un FUNEL aussi c'est que tu vas
+pouvoir de la même manière que on avait
+on l'avait fait pour les événements et
+pour le les insights d'événement on va
+pouvoir les décomposer par propriété
+donc par exemple ici si on reprend le
+cette histoire de sources de tout à
+l'heure là et qu'on veut faire le
+breakdown en fonction des sources et ben
+on voit que pour chaque étape il y a des
+valeurs différentes pour les gens qui
+sont inscrits de manière classique donc
+les 1444 personnes qui sont inscrites
+qui sont pas passé par un épisode et ben
+voilà il y en a 826 donc 57,2 % qui ont
+vu la page d'explication donc ça ça
+montre bien que on est au-dessus des
+29,5 % qui a au total pourquoi parce que
+quand on regarde tous les gens qui qui
+sont inscrits à travers coup d'État to
+saison 1 épisode 8 ben il y en a zéro
+qui ont vu la page d'explication parce
+que comme je le disais juste avant elle
+existe pas dans ce flot
+là donc voilà en gros l'idée c'est que
+tu peux vraiment faire le breakdown en
+fonction des de ces choses-là mix panel
+fait plein plein de choses tu peux
+cliquer sur le taux de conversion et
+voir comment il évolue dans le temps
+donc voir si des actions que tu as mises
+en place ont un impact positif sur le
+taux de conversion là on voit queon a
+mis en place des choses et que le le le
+le taux est enfin l'impact est positif
+tu peux aussi le faire par semaine enfin
+voilà ce FUNEL là il se construit de
+manière très simple si je veux créer un
+nouveau funnel ici je vais l'appeler
+onboarding si je veux recréer le même
+FUNEL exactement je vais l'appeler
+onboarding et ici tu peux sélectionner
+parmi les events que tu envoies à mix
+panel de manière générale un event et
+ensuite construire l'ordre de ton Fenel
+donc ici je vais prendre le truc sign up
+mon étape 2 dans mon Fenel ça va être
+euh explanation viewed là exp
+explanation page viewed mon ma troisème
+étape c'est type form page viewed et
+cetera et cetera et l'idée c'est que tu
+peux construire ton Fenel comme ça et à
+la fin
+dire il faut que les utilisateurs
+convertissent sous 30 jours ou sous 10
+jours ou sous 20 jours et cetera et
+cetera c'est ce que je disais tout à
+l'heure c'est qu'en fait mix panel va
+traquer à travers le Fenel tous les gens
+qui sont passés d'une étape à l'autre
+peu importe la temporalité d tant
+qu'elles sont dans 30 jours et donc ça
+te permet toi d'avoir une vision très
+précise de qui est avancé dans mon
+parcours utilisateur que j'ai créé donc
+là on vient de voir deux choses très
+importantes qui sont les Insight qui te
+permettent de mesurer la quantité
+d'events que tu envoie de faire un
+breakdown et cetera et les fenellles qui
+te permettent de voir en fonction des
+parcours que tu crées pour tes
+utilisateurs de voir qui sont les gens
+qui suivent ce parcours et qui sont les
+gens qui le quittent la la troisème
+fonctionnalité de mix panel qui est qui
+est vraiment utile c'est la rétention un
+un grave de rétention des des coortes de
+rétention on appelle ça comme ça ça se
+ça se lit de cette manière-là ça peut
+paraître un peu complexe mais ça l''est
+pas tant que ça et c'est vraiment utile
+de voir comment ça fonctionne nous ce
+qui nous intéresse chez coup d'État
+c'est de voir les gens qui regardent un
+premier épisode et de voir qui revient
+dans le temps et re regarde des épisodes
+donc ici c'est exactement ce que permet
+mixpanel donc là on a euh Show Me people
+who did anything then came back and did
+it again donc là moi je veux pas
+anything mais je veux episode watched
+donc je veux savoir qui sont les gens
+qui ont regardé un épisode sont revenus
+et ont regardé un épisode et cetera et
+cetera le mieux pour ça c'est de le
+faire par semaine je pense que c'est
+c'est un peu plus parlant c'est quand
+même un peu plus macro et en fait de on
+va regarder ça sur les 12 dernières
+semaines donc là on voit que la semaine
+du 17 décembre il y a 385 personnes qui
+sont venues qui ont regardé un épisode
+et que moins d'une semaine après avoir
+regardé leur premier épisode il y en a
+54 % qui ont regardé leur 2è épisode
+c'est intéressant on peut en tirer des
+conclusions une semaine plus tard il y a
+18 % des 385 personnes qui sont revenu
+et qui ont regardé un épisode de nouveau
+2 semaines plus tard il y a aussi 18 % 3
+semaines plus tard 14,55 %, 4 semaines
+plus tard 16 % et on voit qu'au bout de
+10 semaines on est plus qu'à 8,83 % de
+gens qui ont regardé un épisode ce qui
+est quand même pas en soi mauvais et en
+fait on peut le faire pour toutes les
+semaines genre les gens qui on
+regardaient leur premier épisode la
+semaine du 4 mars il y en a 709 donc
+c'est la semaine dernière moins d'une
+semaine après il y en a 34,56 % qui ont
+regardé leur leur deuxè épisode donc ça
+nous permet de voir est-ce que on a des
+actions à mettre en place pour augmenter
+ces chiffresl et que ce tableau-l et
+l'air plus bleu foncé c'est aussi ce
+truc visuel qui est intéressant dans mix
+panel et en fait regarder les données ça
+te permet d'avoir des idées de te dire
+ok là il y a un problème il y a une
+problématique comment ça se fait que
+après 4 semaines on a plus que 10 % des
+gens qui regardent de nouveau un épisode
+mais que ça remonte en semaine 5
+visiblement comment ça se fait et tu te
+poses la question de savoir comment ça
+se fait que ces données sont là et pour
+ça il suffit juste d'envoyer des
+événements à mix panel et d'updater le
+profil des gens pour pouvoir les traquer
+ça m'amène à mon dernier point sur le
+sur le le l'utilisation de mix panel qui
+est que tu peux regarder par utilisateur
+ce que tout le monde fait au fur et à
+mesure c'est assez intéressant tu vas tu
+as une liste chronologique de tous les
+event qui ont été enclenchés par
+l'utilisateur et donc tu peux suivre son
+parcours au fur et à mesure du temps tu
+peux le faire individuellement ça te
+permet de faire du support ça te permet
+de
+voir les gens quand si quelqu'un te pose
+une question question sur le
+fonctionnement de la plateforme tu peux
+voir un peu quel parcours il a eu ou
+elle a eu enfin c'est vraiment utile
+donc si on prend par exemple
+euh je vais chercher quelqu'un first
+name contains
+Valentin donc je peux trouver mon profil
+mix panel donc c'est le profil qui a été
+créé dans mix panel au même moment qu'on
+a créé mon compte sur coup d'État donc
+au moment où j'ai créé mon compte sur
+coup d'Éat on a envoyé un event à
+mixpanel qui a dit j'ai sign up et on a
+envoyé la création d'un profil qui dit
+euh des informations sur moi on voit
+qu'il s'est sign up avec Google euh on
+voit qu'il est abonné à la newsletter
+enfin il y a vraiment plein d'infos
+qu'on stock sur l'utilisateur en en
+lui-même dans mix panel et surtout ici
+il y a euh l'activity feed qui en fait
+nous permet de retracer tous les
+événements mix panel qu'il a enclenché
+et qui ont été envoyés à mix panel à
+travers lui du coup bah si on remonte
+vraiment tout en en bas de son de sa
+timeline et ben on voit que euh le 13
+décembre il a regarde un épisode le 18
+décembre il a regardé un épisode le 20
+décembre le 27 décembre le 3 janvier le
+15 janvier et cetera et cetera je pense
+que là avec cette quatre fonctions qu'on
+vient de voir de mix panel tu as déjà
+une très bonne approche de tout ce que
+tu peux faire avec cet outil là et tu
+peux commencer à l'utiliser vraiment
+intelligemment maintenant qu'on a vu mix
+panel il y a un deuxième outil qui est
+lui beaucoup moins complexe donc ça va
+être beaucoup plus rapide qui s'appelle
+odjar et qui te permet en fait
+d'observer de manière un peu plus
+graphique ce que les utilisateurs font
+odjar c'est un outil qui est vraiment
+intéressant parce qu'il te permet de
+d'observer le comportement des
+utilisateurs non pas par la donnée mais
+par le réel le concret moi il y a deux
+choses qui vont m'intéresser dans odjar
+et c'est pas les pulls qui vendent c'est
+vraiment les hit map et les recording
+les hit map c'est vraiment intéressant
+parce qu'en fait tu vas donc pouvoir
+lancer une h map sur une une certaine
+page et en fait ça va te dresser le le
+la cartographie de comment l'utilisateur
+visite cette page là donc si on regarde
+une itmap de coup d'état qui je pense
+remonte un petit peu ici on peut voir
+qu'en fait il y a un nuage de points qui
+sont les zones de chaleur où les gens
+ont cliqué le plus donc c'est vraiment
+intéressant de voir que là bah forcément
+les gens cliquent sur Se connecter il y
+a des gens qui cliquent un peu partout
+sur le texte il y a des gens qui
+cliquent sur le bouton je m'inscris il y
+a moins de gens qui s'inscrivent qui
+s'inscrivent en cliquant sur ce bouton
+là hop on voit qu'il y a des zones où
+les gens cliquent sur les vidéos et et
+cetera et cetera c'est vraiment utile et
+en fait ça te permet à la fois de voir
+les clics mais ça te permet aussi de
+voir là où les gens ont passé leur
+souris donc là on voit que les gens
+passent leur souris quand même pas mal
+sur la première slide et puis que ils
+passent sur les vidéos et cetera et
+cetera et tu peux voir aussi le le
+niveau de scroll dans une h map donc là
+on voit que quasiment 100 % des gens ont
+regardé ce truc donc plus c'est rouge et
+plus çaattend vers le rouge plus il y a
+des gens qui ont regardé et plus
+çaattend vers le bleu et moins c'est le
+cas là on voit que voilà au fur et à
+mesure euh il y a de moins en moins de
+gens qui ont scrollé de plus en plus bas
+mais ça reste quand même correct parce
+qu'on voit qu'on a même pas de bleu de
+bleu foncé comme ici on voit que on est
+presque dans le vert on est dans le bleu
+turquoise sur la fin donc on est quand
+même à un niveau correct de de scroll et
+les gens savent qu'il faut scroller et
+cetera encore une fois ça ça te permet
+de prendre des décisions et de tirer des
+hypothèses sur pourquoi les gens se
+comportent comme ça alors sur une page
+comme celle-ci c'est moins intéressant
+que sur une page de de de conversion
+profonde ou ou de de choses comme ça
+mais ça te permet de te donner une idée
+ça c'est vraiment la fonction hitmap de
+odjar il faut jouer avec c'est
+intéressant ça te permet de tirer des
+hypothèses mais c'est pas la plus
+intéressante pour moi ce qui est le plus
+intéressant c'est les recordings de
+odjar ça c'est vraiment magique pour le
+coup avec les recordings odja ça va
+enregistrer vraiment l'écran de la
+personne quand elle est sur le site
+alors ça peut paraître un peu creepy ça
+peut paraître un peu étonnant mais en
+fait c'est très très utile quand il
+s'agit d'améliorer un produit parce
+qu'on voit en fait comment les
+utilisateurs s'en servent vraiment
+directement comme si on était derrière
+eux quand et qu'on regardait leur écran
+en fait donc là voilà si tu veux lancer
+un recording il suffit de choisir le
+nombre de recording ici chez côétat on a
+un plan payant de odjar donc on peut en
+enregistrer 2000 à la fois euh tu peux
+dire que tu veux enregistrer que quand
+les gens visitent une certaine page ou
+que avec un un trigger Javascript si
+jamais tu tu sais faire ça il y a des
+options de recording tu peux pe choisir
+d'enregistrer seulement les sessions où
+les gens ont passé plus de 30 secondes
+sur ton site et cetera et tu lances ton
+ton ton recording en fait ce qui est
+vraiment ouf c'est qu'après odjar tourne
+va jusqu'au
+2000 recordings que tu lui as proposé ou
+les S recording que tu lui as demandé et
+tu vas avoir des vidéos vraiment qui te
+permettent de regarder comment les gens
+se sont comportés sur ton produit
+directement sur ton écran et tu peux
+passer tes soirées à regarder un peu
+comment les gens naviguent sur le site
+et cetera et cetera et ça te permet de
+tirer des conclusions genre là hop je
+vous montre à quoi ressemble je te
+montre à quoi ressemble une vidéo voilà
+donc là on a une session de 146 minutes
+les gens sont passés sur la page d'en
+one can scale on voit qu' scroll on voit
+qu'il est en train de lire le contenu
+euh et en fait on on observe vraiment et
+et hop il s'en va il passe sur une autre
+page il clique sur Se connecter enfin
+vraiment voilà et on peut observer le
+comportement et en fait en regardant
+beaucoup de vidéos comme celle-là et en
+suivant un peu le le le comportement
+donc là on voit
+par là un truc qui est intéressant c'est
+que tous les chiffres sont floutés et
+qu'en fait il y a vraiment une une
+notion quand même de privacy enfin on
+sait pas qui sont les gens qu'on regarde
+et cetera mais ça te permet d'avoir une
+vision d'ensemble quand on regarde
+beaucoup qui te permet en fait de encore
+une fois tirer des hypothèses et de dire
+ah mais pourquoi il se comporte comme ça
+de voir des choses que tu aurais
+forcément pas vu parce que toi tu sais
+utiliser ton produit tu sais utiliser
+ton site et donc c'est très compliqué de
+de de de de faire des hypothèses sur
+comment les gens utilisent vraiment le
+site quand ils sont chez eux sans toi et
+que tu es pas là pour le mettre un peu
+la pression d'utiliser le site
+correctement c'est ça l'avantage de
+Hjar maintenant qu'on a vu ces deux
+outil donc mix panel et odjar odjar est
+sensiblement moins complexe que mix
+panel c'est clair le troisième truc dont
+je voudrais parler c'est ce qu'on
+appelle le NPS donc le NPS en anglais
+c'est le net promoteur score et en fait
+c'est une un chiffre qui varie de 0 à 10
+et qui est la réponse à la question
+est-ce que vous recommanderiez mon
+produit à quelqu'un d'autre et en fait
+le NPS il te permet de mesurer deux
+choses de manière assez précise est-ce
+que les gens utilisent mon produit dans
+le temps genre ça ça va influer sur ta
+rétention parce que si les gens te
+mettent 10 sur 10 est-ce que vous le
+recommanderiez ben en fait tuas il y a
+des chances pour qu'ils l'utilisent eux
+de manière très régulière et surtout ça
+te permet de mesurer ton référal ton
+référal genre
+vraiment si les gens te mettent 10 tu
+sais qu'il parlent de toi très souvent
+NPS ça se ça se c'est une question qui
+se pose dans des questionnaires donc là
+ici on va voir comment utiliser typeform
+pour créer un un un NPS pour pour
+demander un NPS donc par exemple tu peux
+envoyer un questionnaire à toute ta base
+email tous les gens qui sont inscrits
+sur ton produit et leur poser la
+question est-ce que vous recommanderiez
+mon produit euh à à d'autres gens et en
+fait ça te permet toi de d'avoir une
+info sur bah ouais la la qualité du
+bouche à oreille que tu as donc ici si
+je viens créer un nouveau type form je
+vais l'appeler
+NPS feedback
+form tac je fais pas de Welcome screen
+ni thank you screen mais en tout cas il
+propose
+directement ce qu'ils appellent une
+opinion
+scale et qui te permet de dire de poser
+une question donc à quel point
+commanderiez-vous coup d'État à des amis
+et les gens ensuite on pouvoir voter
+entre 0 et 10 et donc le NPS tu peux
+partir du principe que entre 9 et 10 les
+gens sont des promoteurs donc vont
+parler de ton produit autour de toi vont
+générer du bouche à oreille entre 7 et 8
+c'est des neutres donc vraiment ils sont
+ton produit l'aime bien mais c'est pas
+forcément le truc de leur vie et en
+dessous de à partir de 6 et jusqu'à é0
+c'est des détracteurs c'est des gens qui
+vont parler en mal de ton produit qui
+vont trouver ça mauvais et qui vont en
+parler en mal grosso modo l'objectif de
+demander ce NPS et d'essayer d'en faire
+une métrique
+quantitative c'est surtout de de de
+comprendre que les gens qui mettent 9 et
+10 c'est les gens que tu vas écouter
+pour créer la prochaine version de ton
+produit et cetera parce que c'est ceux
+qui sont amoureux de ton produit et qui
+ont envie de le voir aller plus loin et
+eux tu les écoutes et tu fais des
+hypothèses en fonction de leur
+comportement à eux et tous les autres
+les neutrre et encore pire les
+détracteurs tu les écoutes pas et en
+fait tant que tu as un petit no de gens
+qui sont entre 9 et 10 et qui te mettent
+un NPS à 9 ou à 10 peu importe si tu as
+8000 personnes qui trouvent ça nul ce
+que tu fais ce qui compte c'est de faire
+grossir le nombre de gens qui mettent 9
+et 10 c'est difficile à faire mais en
+tout cas c'est ça la la logique qu' a
+derrière c'est que tu cherches à avoir
+un produit dont les gens sont vraiment
+amoureux et ensuite à faire grossir ce
+nombre de gens qui sont amoureux pour le
+NPS il y a plein d'autres outils qui
+existent je pense à à statismitter par
+exemple statismitterter qui a un outil
+qui en fait va va être un une sorte de
+petit plugin que tu vas mettre sur ton
+sur ton site et tout le temps en bas du
+site va y avoir une demande est-ce que
+vous recommanderiez ce site à vos amis
+et donc les gens vont pouvoir mettre un
+NPS un peu tout le temps quand quand tu
+as toutes ces métriques et qu'elles sont
+toutes traquées je pense que c'est
+vraiment important de se mettre une
+discipline et de rassembler ces données
+là à un seul endroit et de savoir les
+communiquer parce qu'en fait quand tu
+vas avoir une équipe ça va être hyper
+important que tout le monde soit
+conscient de ces données qu'elles
+existent et tu peux pas demander à toute
+l'équipe de savoir comment marche mix
+panel comment marche odjar d'avoir le
+réflexe d'y aller régulièrement et
+cetera ce que j'ai fait pour tacler ça
+chez coup d'État c'est qu'en fait j'ai
+un tableau Excel dans lequel semaine
+après semaine je rentre toutes les
+métriques qui sont importantes du
+business et ça me permet de voir s'il y
+en a qui sont importantes à communiquer
+à l'équipe ou pas c'est le travail d'un
+d'un project manager mais au départ même
+si tu es tout seul même si tu es toute
+seule à créer ton produit il faut avoir
+la discipline de regarder les données
+régulièrement surtout au moment des
+prises de décisions nous chez codeta
+c'est toutes les semaines toutes les
+semaines on fait un un weekly meeting en
+début de semaine et on va prendre des
+décisions et pour ça il nous faut les
+données absolument on les rassemble dans
+un tableau et c'est vraiment utile de se
+mettre ça parce que tu es pas dans le
+dans l'autoc conratulation et le fait
+que ça grossisse toujours évidemment que
+tes maîtriques elle grossissent toujours
+constamment la question c'est combien de
+de nouvelles choses sont arrivé semaine
+après semaine et avec cette discipline
+là en rassemblant ça en apprenant à les
+communiquer et en apprenant à tirer des
+hypothèses de ça tu as tout pour
+comprendre ce qui va améliorer ton
+produit dans le futur tout ça c'est bien
+genre vraiment ces outils là pour
+mesurer le comportement DEES
+utilisateurs et cetera ils sont hyper
+performants ils coûtent certes un petit
+peu cher mais en tout cas ils sont
+vraiment efficaces mais c'est pas parce
+que ces outils existent que tu peux pas
+suivre les matriques de ton produit sans
+ça ces outils sont très performant pour
+automatiser l'observation pour la faire
+en masse et cetera mais le le truc
+vraiment important et que et le message
+que je va faire passer dans cet épisode
+c'est vraiment que quoi qu'il arrive
+quels que soient les outils que tu
+utilises même si tu utilises pas
+d'outils c'est important de tenir à jour
+tout le temps des tableaux de données
+auquels tu peuxac accrocher pour prendre
+des décisions parce qu'encore une fois
+on fait du business et pas de l'art et
+que là où l'art va faire ce qui lui
+plaît le business va faire ce qui plaît
+au client et vraiment c'est important de
+de d'avoir ces données là constamment tu
+peux avoir juste un Excel dans lequel tu
+vas rentrer chaque semaine le nombre de
+ventes que tu as faites mais en tout cas
+traquer un minimum de KPI traquer un
+minimum de Marix qui vont te permettre
+de prendre des décisions efficacement
+c'est hyper important il faut le faire
+parce que en fait toutes ces
+observations toute cette accumulation de
+données que tu vas avoir grâce à ses
+outils grâce à à un travail intelligent
+de d'observation sur un grand nombre de
+personnes elles vont te permettre de
+faire ce qui est la deuxième étape de la
+méthode scientifique qui est émettre des
+hypothèses et en fait ce cycle là
+d'observer puis d'émettre des hypothèses
+et d'expérimenter c'est ce qu'on va
+appeler ici le feedback Lop donc
+vraiment le fait de faire des
+allers-retours avec tes utilisateurs
+pour comprendre de quoi ils ont besoin
+et donc une fois que tu as observé leur
+comportement que tu leur as parlé va y
+avoir tout un enjeu de détecter les
+nouveaux problèmes auxquels ils vont
+faire face maintenant qu'ils ont un peu
+réglé leurs problèmes avec ton produit
+et de comprendre comment améliorer
+constamment ton produit et le feedback
+loop c'est ce dont on parle dans
+l'épisode 5

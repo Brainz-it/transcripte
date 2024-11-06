@@ -1,0 +1,2466 @@
+[Musique]
+[Applaudissements]
+coup alors aujourd'hui on va on va voir
+un sujet qui me qui me tient beaucoup à
+cœur qui s'appelle le hacker mindset
+pendant tout ce cours en fait hackur a
+deux sens hackur peut effectivement
+vouloir dire quelqu'un qui a voir avec
+la sécurité informatique et qui va
+essayer de casser des des codes
+informatiques c'est pas ça qui
+m'intéresse qui m'intéresse la
+définition originale du mot
+hackur qui vient qui vient du qui vient
+du MIT et hackur au MIT dans les années
+80 c'est quelqu'un de très smart mais
+d'une façon très particulière parce que
+être intelligent au MIT ça impressionne
+personne puisque c'est un peu le critère
+de sélection donc tout le monde est est
+rationnellement intelligent mais ce qui
+ce qui fascine au MIT c'est les gens qui
+ont de l'astuce c'estàd que pour un
+problème donné ils vont réfléchir avec
+une perspective complètement originale
+par rapport à ce problème et c'est ça
+qu'on qu'on a appelé ha cur c'est les
+gens qui étaient capable d'apporter des
+des réponses hyper originales au mots à
+la réflexion alors pourquoi aujourd'hui
+on va parler des hackurs c'est pas du
+tout en fait un ça n'a rien à voir avec
+le fait de coder pas coder et toutes ces
+histoires là ça a vraiment à voir avec
+une avec une histoire d'état d'esprit et
+il faut voir que les hackeurs sont quand
+même des gens extrêmement dominants dans
+l'entrepreneuriat contemporain et quel
+que soit le milieu et quel que soit
+l'endroit dans le monde alors pourquoi
+d'abord parce que mine de rien c'est
+c'est des gens qu'on qu'on reçu la
+formation la plus cool du monde à une
+époque où en fait cette formation était
+assez peu disponible c'est qu'il ils ont
+ils ont appris comme des autodidactes à
+une époque où finalement être
+autodidacte c'était pas la chose la plus
+valorisante du monde je pense que je
+pense que le fait d'être autodidacte est
+devenu un un fait de gloire en soi mais
+ça c'est une victoire culturelle des 20
+dernières années il y a 20 ans être
+autodidacte ça voulait simplement et
+formellement dire ne pas avoir été à
+l'école et ne pas avoir été à l'école
+voulait simplement et formellement dire
+que vous étiez un
+nul y avait il y avait aucune voie
+alternative à ça les hackurs en fait
+sont les premiers à avoir brisé le tabou
+du du self learning et et et avoir
+démontré qu'il était possible
+d'apprendre sans être dans une structure
+et la deuxè chose c'est que finalement
+vous a une façon très très simple de
+comprendre pourquoi la France malgré
+tous ces ingénieurs n'a pas
+d'entrepreneur c'est tout simplement
+parce que ingénieur est différent de
+hackur certains ingénieurs sont des
+hackeurs mais tous les hackeurs ne sont
+pas des ingénieurs et c'est le point
+extrêmement important c'est que cette
+obsession qu'on a eu de l'ingénierie
+pendant des années et des années et qui
+a voulu raconter à tout le monde que la
+seule façon d'apprendre le la la
+programmation ou faire des entreprises
+ou fabriquer des produits c'était avant
+tout de devenir ingénieur à mener en
+fait à une incompréhension générale des
+qualités des qualités
+nécessaires alors qu'est-ce que c'est le
+hacking bah le hacking c'est avant tout
+un mindset c'est c'est carrément une
+philosophie de vie il y a même un un
+manifeste qui a été écrit qui s'appelle
+le hackur manifesto qui a été écrit en
+86 année de ma naissance d'ailleurs qui
+a été écrit en 86 et qui et qui et qui
+démontre en fait les blocs de qu'est-ce
+que ça veut dire être un hackur et
+qu'est-ce que ça qu'est-ce que ça veut
+dire si on se reconnaît comme ha cœur
+donc c'est avant d'être un mouvement
+technologique c'est un mouvement
+culturel c'est un mouvement culturel
+très profond et qui est appuyé sur un
+certain nombre de précepts extrêmement
+fondamentaux le premier c'est que Don
+better than
+perfect c'est des gens qui sont obsédés
+par on va appeler ça une culture du
+doueur on l'entend souvent cette
+histoire de culture du douer vaut mieux
+faire les choses que les penser blab
+blabla et en fait s'il y a un endroit au
+monde
+ça é vrai c'est chez les hackur ce qui
+fait que quand hackur sont devenus
+entrepreneurs ils ont importé ces
+méthodes là dans l'entreprise alors
+qu'est-ce que ça veut dire
+don perf ça veut tout simplement dire
+que vous n'essayez jamais de de rien
+faire de façon parfaite vous essayez
+simplement tous les jours de faire de
+votre mieux mais pour réaliser un boucle
+un cycle complet alors y a ce dessin que
+j'adore qui me fascine depuis que je
+suis tout petit c'est comment dessiner
+une chouette
+how to draw et et vous voyez un type qui
+fait un rond un rectangle et un triangle
+et en fait je sais pas si vous
+l'imaginez mais un rond avec un
+rectangle et un triangle bah c'est une
+chouette en fait c'est juste que c'est
+la première façon la plus simple de
+dessiner une chouette une fois que vous
+avez fait ce rond ce rectangle et ce
+triangle après vous pouvez commencer à
+faire les plumes les détails le bec et
+et la grande différence entre la façon
+de une chouette et le fait de dessiner
+formellement une chouette c'est que
+quelqu'un qui va dessiner formellement
+une chouette essaiera de dessiner
+d'abord le visage de façon parfaite puis
+le corps de façon parfaite puis puis
+puis les plumes de façon parfaite et
+cetera mais il mettra beaucoup de
+perfection un hackœur il commencera par
+une une forme vulgaire de chouette et
+petit à petit il va gommer redéfinir
+regommer redéfinir et donc vous aurez
+200 versions de la chouette en fait sauf
+que dans ces 200 versions de la chouette
+il verra tous les problèmes il verra
+tous les détails et il verra justement
+pourquoi c'est pas parfait et ça c'est
+appuyé sur une sur sur une une croyance
+psychologique extrêmement profonde c'est
+qu'il est extrêmement important de voir
+les choses pour savoir si elles sont
+réussies ou pas il y a un grand il y a
+un grand fantasme dans l'entrepreneuriat
+c'est celui de de de de l'anticipation
+rationnelle c'est de se dire si je
+planifie bien les choses alors je ne
+ferai pas d'erreur et donc oh là là
+grand jamais et donc donc
+rationnellement puisque j'ai anticipé
+puisque j'ai j'ai regardé les choses en
+détail alors je ne ferai pas d'erreur et
+donc comme je ne fais pas d'erreur je
+n'aurais pas besoin de recommencer
+puisque recommencer quelque chose est la
+plus grande forme d'ineéfficience sur
+terre si je recommence quelque chose
+c'est que je suis un nul et en fait le
+hackur c'est le retournement de ce
+mindset c'est c'est de se dire si si tu
+fais quelque chose une fois c'est
+forcément que tu l'as mal fait et en
+plus si tu l'as mal fait tu vas pas
+pouvoir voir pourquoi parce que tu auras
+mis tellement d'effort à le fabriquer tu
+auras mis tellement de toi-même
+là-dedans qu' te restera rien en fait
+comme énergie pour recommencer et donc
+c'est un c'est un c'est un point de
+psychologie de base c'est beaucoup plus
+facile de jeter une journée de travail à
+la poubelle que de jeter 6 mois de
+travail à la poubelle et donc c'est ces
+fameuses
+itération c'est que il faut toujours
+toujours être dans ce cycle où
+l'obsession et de livrer des choses
+d'ailleurs le
+deuxème le deuxième moto du haur c'est
+le le chipit Fast qu'est-ce que ça veut
+dire alors évidemment c'est très très
+lié à la programmation mais mais ça ce
+n'est pas qu'un sujet de programmation
+le hacker mindset c'est l'idée que il
+faut absolument délivrer ce qu'on a
+décidé de faire le plus rapidement
+possible et donc c'est le corollaire du
+premier c'est le corollaire du si je
+m'en fiche que ce soit parfait alors
+j'ai pas besoin de réfléchir sur à
+quelle vitesse je dois le faire il y a
+une seule bonne réponse à ça c'est de le
+faire le plus rapidement possible et
+alors la dernière chose que ça implique
+et c'est ce qu'on va appeler le
+triptique de la culture à cœur c'est que
+forcément si vous faites les choses de
+façon non parfaite que vous les faites
+en le plus rapidement possible forcément
+break
+things forcément vous allez avoir des
+bugs forcément avoir des ratés forcément
+vous allez vous allez casser des choses
+et forcément vous allez vous retrouver
+dans une situation où va falloir
+l'admettre et et et passer à la suite et
+c'est pour ça qu'en fait la plupart des
+gens ont un problème avec le mindset à
+cur c'est qu'ils ont terriblement peur
+de tomber dans cette situation qui est
+le ridicule et que des gens leur disent
+mais en fait c'est ça ton truc ou c'est
+ça ton logiciel ou tu vois bien que ça
+marche pas ou machin et en fait je pense
+que le le les hackurs ont une chance
+incroyable culturellement et alors ça
+c'est c'est c'est méchant mais en fait
+c'est vrai c'est que comme ils ont tous
+été des nerds dans le dans le enfance
+ils ont ils ont un ils ont un niveau de
+de réceptivité à la moquerie qui est
+infinie c'est plus rien les
+atteint algolia rentre de White
+combinator je leur dis mais c'est quoi
+alors qu'est-ce qu'il a de tellement
+spécial Paul
+gram c'est super simple tu peux le
+critiquer devant lui ça le touche même
+pas et ça ça fait apparemment rien ne
+l'a jamais touché dans sa vie et et ça
+en fait c'est un point nerd fondamental
+c'est que forcément quand quand vous
+avez été la victime à l'école après il y
+a plus rien qui vous touche quoi et et
+et c'est ce qui rend en fait le hacker
+mindset tellement fort dans
+l'entrepreneuriat et qui rend les
+hackeurs tellement compatible pour
+devenir des entrepreneurs c'est qu'ils
+ont absolument pas peur du ridicule ne
+l'oubliez jamais la traversée
+entrepreneuriale est forcément un grand
+moment de solitude extrêmement ridicule
+je pense que la meilleure image pour se
+dire ça c'est de se dire vous êtes sur
+un rade pendant que tout le monde passe
+sur un Y et et vous êtes libre sur votre
+rade ils sont tous prisonniers sur leur
+y mais les autres sont sur un y quand
+même faut pas l'oublier et donc quand
+vous êtes sur un rade vous passez
+forcément pour pour pour le nul de
+service maintenant si le radeau passe de
+l'autre côté de la mer et que vous
+survivez au moment où vous Metz le pied
+sur l'autreriive vous devenez
+instantanément un héros parce que vous
+allez traversé sur un rade et et si vous
+mourrez en mer personne aura le moindre
+tout le monde aura un sentiment de mais
+toute façon il avait qu'à pas partir sur
+un
+radeau vous voyez vous voyez le le le
+changement de perspective c'est que être
+un héros c'est pas l'entrepreneuriat on
+n'est pas un héros en étant entrepreneur
+la seule façon d'atteindre le statut de
+héros dans l'entrepreneuriat c'est de
+passer de l'autre côté de la rive et
+forcément passer de l'autre côté de la
+rive c'est une expérience extrêmement
+solitaire des hackurs il y en a eu bien
+avant la naissance de l'informatique et
+pour bien que vous vous comprenez très
+bien mon point aujourd'hui et que encore
+une fois je vais le répéter et le
+répéter c'est pas une histoire
+d'informatique l'un des premiers grand
+haurs de l'histoire pour moi il y en a
+deux c'est Edison et pasteur alors vous
+voyez on est très très très loin avant
+l'informatique mais pourquoi pasteur est
+l'un des comme ça je vais prendre un
+français pour une fois pourquoi pasteur
+est l'un des premiers grands hackœurs de
+l'histoire
+alors je sais plus le chiffre exact mais
+c'est quand même un type qui a fait des
+millions de versions de son vaccin des
+dizaines de milliers à minima
+et et et pourquoi il a fait ça il a même
+cette citation c'est pas j'ai pas échoué
+un million de fois c'est simplement que
+il m'a fallu un million de fois pour que
+ça marche et et et c'est une bonne
+perspective alors pasteur pourquoi c'est
+un haur c'est un haur parce qu'il a pas
+de subvention il a pas de financement
+public massif personne ne croit à son
+histoire de vaccin et en plus aucune
+data scientifique ne démontre que son
+intuition est bonne rien la seule chose
+qu'il va faire c'est recommencer
+recommencer et recommencer et
+recommencer jusqu'à trouver la bonne
+solution il a pas mis au point son
+vaccin de façon théorique en pensant
+dans son labo il a pas fait de
+philosophie une armare comme disent les
+Américains il il s'est pas mis dans un
+fauteuil fermer les yeux et réfléchi
+très fort il a fait quelque chose c'est
+qu' il est l'un des premers dans
+l'histoire à avoir fait de la biologie
+expérimentale et avoir testé les choses
+par toute petite itération et de ce
+point de vue là c'est un hackur
+extraordinaire
+Edison alors vous connaissez tous
+l'histoire non peut-être que vous la
+connaissez pas en fait mais vous savez
+le servolant et le pour pour faire le
+paratonire bon alors en fait Edison
+s'est dit que l'énergie en fait pouvait
+être attiré par un élément conducteur et
+donc il a fait un un un un cervolant
+pour attirer attirer la foudre et c'est
+comme ça qu'il a découvert que l'énergie
+était qu'il y avait des éléments qui
+étaient conducteurs et d'autres non et
+c'est ce qui va mené à la découverte de
+l'électricité et ben Edison il est au
+fin fond d'une grange sans aucun moyen
+et sans aucun c'est pas quelqu'un qui a
+inventé l'électricité parce que
+quelqu'un est venu le voir en lui disant
+voilà je vais donner 100 millions sur la
+table et tu vas mettre au
+pointélectricité il a mis l'électricité
+au point dans son garage bon c'était pas
+un garage c'était une grange mais vous
+voyez l'idée est la même en fait et et
+et aujourd'hui Edison enfin Edison a
+fondé General Electric qui est l'une des
+plus grandes société américaine alors
+Edison c'est toujours un un cas un peu
+si vous tapez Edison dans Google vous
+verrez il y a des grandes controverses
+contre Tesla euh est-ce que c'est en
+fait c'est pas Tesla qui a tout inventé
+et Edison en fait l' en chemin et
+et à tout prix a volé toutes les idées
+et en fait c'était pas un cœur mais mais
+c'était un salot de costard euh
+peut-être mais mais dans ce cas-là mon
+histoire s'applique à Tesla et en fait
+c'est Tesla le hackur et tant pis pour
+Edison malheureusement j'y étais pas
+j'ai pas fait de recherche historique
+précise donc je je sais pas trop où se
+débat se place mais
+le le sujet fondamental c'est que c'est
+des gens qui à un moment de l'histoire
+on fait quelque chose de complètement
+dingue c'est qu'ils ont montré qu'il
+était possible de mettre au point des
+choses très
+compliquées sans aucun sans aucun moyen
+et et en fait c'est c'est c'est ça le
+c'est ça le sujet le sujet c'est que
+vous avez besoin de d'être convaincu en
+terme de
+mindset que vous allez pouvoir mettre au
+point des choses incroyable alors que
+vous n'avez pas de
+moyen et ça c'est l'élément fondamental
+de la culture à cœur 80 % d'entre vous
+dans cette pièce vous êtes persuadés
+qu'il existe une équation linéaire entre
+les moyens et le résultat que vous allez
+produire j'ai besoin d'argent pour
+réaliser des choses mais vous voyez pas
+qu'en fait cette équation elle est
+extrêmement fausse histoire du cvolant
+c'est Edison et c'est pas Benjamin
+Franklin Benjamin Franklin a fait
+exactement la même expérience et c'est
+ce qu'on appelle des découvertes
+simultanées pas simultané dans le temps
+mais ce que je veux dire c'est c'est
+qu'il successif voilà ils se
+connaissaient pas et ils ont fait
+exactement la même expérience sauf que
+Benjamin Franklin après il a été faire
+de la politique et Edison il a été faire
+du business vous voyez la la le même
+élément fondateur dans une vie peut
+mener à à deux trajectoires très
+différentes revenons à notre sujet le
+point c'est que vous n'avez pas besoin
+de moyens initiaux pour pouvoir réaliser
+vos rêves vous avez si vous avez le bon
+mindset vous pouvez toujours trouver une
+solution une astuce pour pouvoir
+réaliser ce que vous avez besoin pour
+passer à l'étape après et tout ça en
+fait n'a strictement rien à voir avec la
+programmation ou la technologie pourquoi
+la plupart des hackeurs ont été ont
+émerger dans une culture de la
+programmation parce que la programmation
+c'est la meilleure école pour faire ça
+et pour apprendre cet état d'esprit
+qu'est-ce que vous apprenez
+fondamentalement en apprenant à
+programmer vous apprenez que pour un
+problème donné il n'existe pas une
+solution et une seule mais il en existe
+une
+infinité si par exemple vous vous vous
+posez la question de comment faire un un
+logiciel pour que les gens me donnent
+leur infos personnell leur carte de
+crédit combien de façons différentes il
+y a de faire ce formulaire et de stocker
+ces cartes de crédit il y en a une
+infinité vous pouvez vous pouvez le
+faire vous-même vous pouvez utiliser la
+p d'une banque vous pouvez trouver des
+astuces vous pouvez les stocker dans un
+fichier vous pouvez les stocker dans une
+base de données vous pouvez les stocker
+sur votre ordinateur vous pouvez les
+écrire à la
+main vous pouvez avoir avoir les gens
+vous appellent et vous avez un cahier où
+vous notez ces informations là pu vous
+avez un cahier bien rangé par ordre
+alphabétique avec des petites étiquettes
+tout ça en fait c'est la même chose
+c'est juste que la programmation a formé
+beaucoup de gens à raisonner de cette
+façon-là et a fait que ensuite ces
+gens-l ont eu ce type de raisonnement là
+dans tout ce qu'ils ont fait dans leur
+vie sans exception et en fait c'est je
+sais pas qui a vu how I met you mover
+mais mais j'appelle ça c'est je pense
+que l'un des plus grands hackurs de
+l'histoire est Barny euh c'est évident
+puisque puisquil a ce point fondamental
+le challenge accepted alors pour tous
+ceux qui ont pas vu cette série débile
+il y a un
+personnage relativement Matam Mor dans
+dans
+matum m et à chaque fois que quelqu'un
+lui donne un défi il prend une posture
+très particulière dit challenge accept
+it et en fait c'est exactement ça le
+mindset à cœur c'est de se dire ok il y
+a quelque chose qui semble complètement
+improbable et ben je vais me mettre en
+tête d'être persuadé de pouvoir le
+réaliser
+et
+alors pourquoi les hackurs sont
+tellement nombreux dans la sécurité
+informatique encore plus que dans
+l'informatique c'est parce que si vous
+voulez un domaine où les challenges sont
+le plus élevés et où les compétences
+techniques compent le moins c'est la
+sécurité informatique al pourquoi je dis
+les compétences techniques compte le
+moins parce qu'à compét technique égal
+il y a une inégalité énorme entre de
+hackur et un problème de sécurité parce
+que c'est jamais une compétence
+technique qui fera que quelqu'un résol
+arrivera à à casser un code informatique
+par rapport à un autre ce qui fait que
+quelqu'un arrive à casser un code
+informatique c'est soit parce qu'il a un
+peu de chance il était au bon endroit au
+bon moment c'est un peu comme la
+dernière faille de sécurité là hard lead
+où où le type était pas du tout en train
+de chercher ça en train de faire des
+tests bam il a découvert la faille de
+sécurité la plus la plus importante
+depuis 15 ans ou sinon c'est parce qu'
+parce qu'il a il a la bonne astuce au
+bon moment et ça c'est une question
+d'imagination c'est pas une question de
+compétenence c'est que a il y a des
+hackeurs informatiques qui sont très
+très très incompétent fondamentalement
+en informatique c'est pour ça qu'encore
+une fois c'est pas une question
+d'ingénererie et c'est pour ça que les
+hackeurs sont tellement nombreux dans la
+question de sécurité informatique parce
+que la sécurité informatique c'est la
+façon la plus simple d'avoir des
+challenges qui sont imposés par
+l'extérieur si vous vous dites je vais
+hacker l'ordinateur d'Ugo bon bah voyez
+vous avez un challenge il il est tout
+bête si vous vous dites je vais hacker
+la NSA vous voyez bien que vous venez de
+monter le challenge de de de plusieurs
+niveaux mais c'est toujours la même
+nature de challenge et c'est facile puis
+qu'elle est à votre disposition et en
+plus il y a de l'adrénaline parce que si
+vous vous faites prendre vous risquez de
+la prison et il est là le le mindset
+hackur pourquoi les hackurs ont
+tellement peu de respect pour les règles
+c'est parce que fondamentalement dans
+leur culture ils se sont toujours senti
+au-dessus de ces règles là si vous
+pensez que l'information doit être libre
+si vous pensez que c'est c'est bien de
+copier des choses que tout ça en fait
+devrait être un grand partage anarchique
+d'information bah quelqu'un qui va
+protéger des données et en les mettant
+derrière par exemple des les vidéos la
+musique derrière des des des protections
+et bah tout simplement en fait il va il
+va il va être dans dans la situation où
+il aura un challenge évident et la règle
+n'est pas importante et donc ce rapport
+règle challenge est extrême
+important dans le mindset à cœur alors
+la deuxième chose vous vous connaissez
+cette histoire de Think out of the box
+que tous les consultants en innovation
+prennent il disent voilà il y a une
+boîte et puis il faut penser en dehors
+de la boîte alors moi je préfère la
+version hacker de Think out of the box
+qui est blue away the
+box c'est c'est cramé là la la boîte
+vous verrez ça marche autre élément de
+la culture haur la culture haur est
+forcément et elle est pas dans elle est
+pas dans la comment dire
+elle est pas dans la galvanisation et la
+glorification du système quand vous
+dites out of the box finalement vous
+respectez le
+système que vous dites la boîte elle est
+très bien sa place dans l'univers il
+suffit simplement de sortir de la boîte
+pour avoir une perspective nouvelle sur
+la boîte mais la boîte reste l'élément
+central de votre raisonnement si vous
+dites thinking out of the box en fait
+vous ditesing respect box si vous vous
+dites blow away the Box vous êtes dans
+la boîte franchement la boîte énerve on
+la crame on sort de la boîte il y a plus
+de boîte et maintenant on est dans un
+champ libre de pensée vous voyez que
+tout tout simplement vous venez de faire
+en fait un shift culturel un shift de
+pensée qui a un impact extrêmement fort
+prenons des exemples maintenant vous
+allez voir à quel point tout ça c'est
+concret les 10 premières plateformes de
+musique en ligne en
+France il y a qui dedans bah il y a des
+enfants de producteurs qui se disent
+papa va m'ouvrir des portes il y a des
+mecs qui ont des cousins producteurs il
+se disent mon cousin va m'ouvrir des
+portes il y a des mecs qui viennent de
+l'industrie musicale qu'on travaillé 20
+ans comme soufi fera des niveaux plus ou
+moins différents de l'industrie musicale
+et donc ils se disent mes anciens
+collègues me donneront des contacts et
+puis il y a des gens qui aiment écouter
+de la musique et qui ont pas d'argent
+pour écouter cette musique la dernière
+cor et puis tous sont sur la même ligne
+de départ et il démarrent alors les
+premiers qui ont papa qui est producteur
+en fait ils ont oublié quelque chose de
+fondamental c'est que finalement leur
+relation avec papa était pas si saine
+que ça et papa comprend pas trop
+pourquoi le filon veut bousiller le
+business donc lui il ne démarre même pas
+et et et et papa lui dit t'inquiète pas
+fiston un jour tu reprendras le business
+reste calme laisse les grands faire il y
+a ceux qui ont un cousin producteur
+alors
+il ils ont fait une alpha et alors ils
+ont fait une alpha comment bah ils ils
+ont été voir les gens et leur ont posé
+la question voilà est-ce que si on offre
+la musique gratuite et que vous vous
+pouvez plus vous gaver sur le dos des
+gens avec des prix complètement
+délirants ça vous
+intéresserait al les types les regardent
+disent non non non ça nous intéresse pas
+et alors ils se disent bon c'est parce
+que on l'a pas bien vendu l'histoire
+alors ils ont fait des slides de plus en
+plus beau de plus en plus incroyaable et
+puis ils sont pass comme ça de de de
+chaîne de production en chaîne de
+production
+ALX ils ont ils ont été jetés à la
+poubelle personne n a entendu parler la
+troisème catégorie les anciens de
+l'industrie musicale alors eux ils sont
+intéressants eux ils sont intéressants
+parce qu'ils jouent au billard à
+plusieurs bandes alors qu'est-ce qu'ils
+ont fait ils ont été voir des gens en
+leur expliquant qu'il venaient de
+l'industrie musicale donc social proof
+énorme qu'il fallait leur donner de
+l'argent pour mettre au point une
+plateforme en faisant travailler quatre
+ingénieurs dans une car
+payer un demimic parce que le projet
+était incroyable et qu'ils allaient leur
+filer 2 % du truc et tout ça mènerit au
+au point une plateforme avec plein de
+features plein de boutons et de
+préférence des trucs qui clignotent et
+que quand ils auraient tout ça ils
+pourrait aller voir leurs copains de
+l'industrie musicale et leurs copains de
+l'industrie musicale seraiit tellement
+impressionné que il leur donnerait tous
+les droits pour pouvoir vendre la
+musique en
+ligne voz à plusieurs bandes quoi il y a
+il y a un raisonnement de on va demander
+à un acteur de retourner à un acteur
+pour obtenir d'un acteur et alors ces
+gens-là ils ont lev beaucoup beaucoup
+beaucoup d'argent parce que comme
+l'étape numéro 1 c'est de convaincre
+quelqu'un des trois bandes et que ça a
+l'air super Smart et qu'en fait la
+plupart des gens qui avaient de l'argent
+à l'époque comprenaient pas trop comment
+se faisait une start-up et ben ils leur
+ont donné beaucoup d'argent puis à côté
+de ça et ben il y a les pirates alors
+les pirates il font quoi bah ils font un
+site pour leurs copains pour partager de
+la musique et puis en fait ils disent à
+leur copains surtout tu l'envoies à
+personne ouais ouais t'inquiète puis le
+lendemain ils l'ont partagé à 10 potes
+et en leur disant surtout bon attends je
+l'ai partagé avec toi mais surtout tu le
+dis à personne et puis en fait le site
+finit avec 100000 personnes et puis tout
+le monde adore parce que c'est vachement
+bien foutu et et là les mecs reçoivent
+une lettre et en fait Hur mindset ils
+ignorent la lettre et puis là il monte à
+un million d'utilisateur et et à ce
+moment-là en fait quand quand quand ils
+sont sur cette courbe incroyable de
+croissance il y a les types d'en face
+qui rigolent qui ont plein d'argent et
+qui
+disent moi moi quand je vais sortir mes
+connexions vous allez voir ce que vous
+allez voir ces types là sont des
+amateurs je vais les sortir du marché je
+vais je vais les trucs et puis en fait
+ce qui se passe c'est que vous n'allez
+jamais contre vos utilisateurs et puis
+un jour en fait les types se disent de
+l'autre côté mais en fait c'est ça qu'on
+appelle un business en fait on a des
+clients on on a du recuring il paraît
+qu'il y a même des gens qui pensent que
+ça vaut de l'argent bon bon bah on va
+aller chercher de l'argent et quand vous
+quand vous allez chercher de l'argent et
+que vous avez déjà des millions
+d'utilisateurs ben en fait ça se passe
+beaucoup mieux pour vous parce que d'un
+seul coup en fait c'est des gens très
+compétents qui vous donnent de l'argent
+plus des types qui ont des copains qui
+connaissent des copains et en fait
+l'industrie s'est complètement retourné
+et si vous regardez aujourd'hui les
+trois plus grosses plateformes de
+musique en ligne qui ont marché les
+trois ont commencé en piratant les trois
+il y en a pas une seule qui a commencé
+en jouant avec les règles c'est-à-dire
+en allant voir les gens et en passant
+des accords et qui a réussi pas une et
+alors ça c'est dans la musique mais
+appliquer ça à tous les domaines du
+monde demander la permission pour
+pouvoir faire des choses c'est la
+meilleure façon pour ne jamais rien
+faire parce que c'est quoi c'est c'est
+quoi le corolaire de ça corelire de ça
+c'est
+Napster parce que là vous pouvez me dire
+oui mais attends Napster tu es mignon
+mais ils ont fait le hacker mindset et
+ils ont fini en faillite et avec des LW
+suuit qui les ont ruiné pour 10 ans
+effectivement je n'ai pas dit que le
+hacker mindset menait forcément à la
+réussite j'ai dit quelque chose de plus
+subtil c'est que le seul espoir de
+réussir c'était de passer par là parce
+que à l'inverse tous ceux qui ont joué
+dans les règles ils ont tous échoué mais
+tous ceux qui n'ont pas joué dans les
+règles ont pas tous échoué mais ça ne
+veut pas dire que il y a pas un problème
+de timing il y a pas un problème de
+machin d'ailleurs Spotify aurait jamais
+été possible si naster était pas passé
+par
+làst les a tellement traumatisé ils ont
+dépensé tellement d'argent pour le tuer
+quand il y en a 10 autres qui sont venus
+les mecs on dit ok on j
+l'éponge par ici l'accord de droit en
+fait c'est ça le sujet le sujet c'est
+que
+fondamentalement toute création
+d'entreprise est un conflit
+vous avez forcément un moment ou un
+autre un conflit avec quelqu'un si vous
+ne gênez personne c'est que ce que vous
+faites n'a aucun
+sens si vous avez personne qui se dit ou
+là là là là c'est une menace que je suis
+en train de faire c'est que
+fondamentalement vous vous avez un
+problème c'est ve dire que ce que vous
+faites est pas assez ambitieux ou pas
+assez important et
+donc qu'est-ce qui en quoi l'esprit à
+cœur peut être d'une grande utilité de
+ce point de vue-l c'est que tout
+simplement blue the box break
+things ship it fast tout ça en fait ça
+vous met dans une situation où vous avez
+le bon rythme pour pouvoir avancer avec
+la bonne vitesse pour ne pas être
+empêché par qui que ce soit pourquoi les
+hackerss sont tellement dominants dans
+le business c'est pas parce qu'ils
+savent
+programmer si tous les gens qui savaient
+programmer étaient alors on serait
+dirigé par les
+ingénieurs mais si les hackurs sont
+tellement dominants dans
+l'entrepreneuriat c'est parce qu'ils ont
+la bonne attitude mentale pour gagner la
+bataille pourquoi parce que c'est pas
+des gens qui essaient de gagner la
+guerre ils gagnent des batailles et
+alors petit cours de
+tsunzu dans le dans le hackur manifesto
+tsunzu est cité en long en large et en
+travers je sais pas pourquoi le mec mais
+il y a une phrase qui m'a marqué c'est
+le le grand guerrier cherche jamais à
+gagner la guerre il se contente de
+gagner toutes les batailles et alors
+c'est hyper profond parce que ça résume
+ça résume fondamentalement l'erreur que
+font tous les
+entrepreneurs tous les entrepreneurs qui
+démarrent la première fois ils essaient
+de gagner la guerre et d'ailleurs pour
+gagner cette guerre là ils sont même
+prêts à perdre des
+batailles et ça c'est ça c'est
+terrible c'est l'inverse qu'il faut
+faire il faut mener toutes les bataille
+les unes après les autres et être
+persuadé de ne jamais en perdre
+une et parce que si vous en perdez
+jamais une vous passerait toujours à la
+bataille d'après avec encore plus de
+force c'est un c'est c'est un peu comme
+c'est un peu comme si là on jouait à un
+jeu qui était de se dire on va diviser
+la salle en deux d'ailleurs non même pas
+c'est encore plus drôle comme jeu on va
+pas diviser la salle en deux le but du
+jeu c'est de fabriquer la plus grosse
+armée le plus rapidement possible pour
+écraser tous les tous les autres vous
+avez deux façons de fabriquer l'armée la
+façon numéro 1 c'est que vous pouvez
+aller convaincre les gens de rejoindre
+votre armée s'il y a de la conviction il
+y a de la perte de légitimité les gens
+vont se dire mais pourquoi il fait ça et
+cetera et pourquoi ce serait lui pas moi
+le chef et et et tous les problèmes
+qu'il y a dans la fondation d'une boîte
+c'est que comme vous délivrez pas et
+vous avez pas de légitimité par l'action
+les gens se disent oh là là mais
+pourquoi je lui ferai confiance à lui il
+y a une deuxième méthode c'est vous
+cassez la figure de quelqu'un
+et et avant qu'il soit vraiment très mal
+tu dis bon j'arrête si tu rejoins mon
+armée puis après à de vous allez casser
+la figure d'un troisème puis à 3 vous
+allez cassé la figure d'un 4e et en fait
+vous avez gagné une légitimité par par
+par l'action alors évidemment je je ne
+veux que personne casse la figure de
+personne c'est métaphorique tout ça mais
+mais le le sujet c'est que vous êtes en
+situation d'avoir gagné des batailles et
+donc d'avoir gagné de la légitimité et
+c'est peut-être au 4e ou 5e personne que
+les gens ne discuteront même parce qu'
+dis ils sont tellement acharnés
+que je vais aller dans leur groupe j'ai
+même pas besoin de me faire casser la
+figure avant avant d'aller dans leur
+groupe et c'est et c'est ça en fait la
+chose la plus dure à comprendre c'est
+comment ne pas mener une guerre mais
+mais pick the right
+battle comment vous faites pour pour
+savoir que le premier combat que vous
+allez mener est le bon
+combat parce que c'est ça en
+fait quelle est l'erreur fondamentale
+que font la plupart des entrepreneurs
+c'est pas de c'est pas de faire
+c'est pas de faire quelque chose c'est
+de faire la
+mauvaise et comment savoir si quelque
+chose est important ou pas
+fondamentalement la chose que vous devez
+retenir et la chose que vous devez vous
+poser c'est est-ce que ce que je suis en
+train de faire va me faire changer de
+statut de légitimité ou
+pas et parce que quand je change de
+statut de légitimité alors la perception
+que les gens ont de moi change et si la
+perception que les gens ont de moi
+change alors alors je vais changer de
+dimension et et et et ça c'est la chose
+la
+plus la la plus difficile à comprendre
+il y a eu les les 5 ans d'Urban linker
+ici et j'ai j'ai demandé à donc Urban
+Linker c'est une agence de recrutement
+qui a été fondé par un garçon qui
+s'appelle Jonathan azouet j'ai demandé à
+Jonathan al c'est quoi la meilleure
+décision que tu es prise de ta vie et il
+m'a dit c'est de louer un bureau dont je
+n'avais pas les moyens parce qu'au tout
+début d'Urban linker il y avait ce
+bureau qui s'était libéré c'était pas du
+tout à notre échelle on était trois
+employés ça faisait 300 m² mais mais je
+l'ai pris quand même parce que parce que
+je me suis dit oh ben je trouverai bien
+des gens à qui le soulouer et comme ça
+si je grossis bah j'aurais de la place
+et en fait j'ai jamais vraiment eu
+besoin de la place mais ce que ça a fait
+c'est que ça a complètement changé la
+perspective que les gens avaient de moi
+que les gens qui rentraient dans ce
+bureau se disaient ah c'est incroyable
+il a un grand bureau c'est qu'il doit
+déjà être super successful ah ben je
+veux travailler avec lui et il me dit
+c'est super triste de se dire que la la
+plus belle chose que j'ai faite de ma
+vie c'est une mauvaise décision
+financière mais en fait cette mauvaise
+décision financière a été la meilleure
+décision entrepreneuriale
+elle est où la distance entre une
+décision entrepreneuriale et une
+distance de gestion c'est qu'une
+décision de gestion
+essae d'optimiser votre survie sur le
+long
+terme quand vous prenez une bonne
+décision de gestion de ne pas dépenser
+quelque chose d'économiser quelque chose
+et cetera vous prenez en fait la
+décision d'augment votre vie sur le long
+terme pourquoi parce qu'une société
+c'est juste le montant de ses gains et
+de ses dépenses mensuelles si vous
+dépensez moins bah vous avez moins
+besoin de gagner si vous avez moins
+besoin de gagner bah vous avez plus de
+probabilité de pouvoir le gagner et donc
+votre vie augmente mais il y a un
+problème dans ce raisonnement c'est que
+la seule façon de gagner c'est de
+prendre les bonnes décisions de dépenses
+et et de monter à la bonne échelle au
+bon rythme et c'est en ça en fait que
+mener des batailles c'est un problème
+très compliqué et s'être entraîné dans
+un sujet comme le hacking avant peut
+énormément aider mais parce que même
+même si vous faites pas quelque chose
+d'informatique même si vous en avez rien
+à faire de la technologie le seul sujet
+en fait c'est d'apprendre la bonne façon
+de penser face au
+problèmes vous verrez si vous apprenez à
+programmer vous verrez Queen fait soit
+vous apprenez à programmer en la pire
+façon qu'il soit c'estàd vous apprenez
+les principes th que et vous les
+descendez vous faites ce qu'on appelle
+computer science et et en fait vous
+apprenez une science soit en fait vous
+comprenez rien à ce que vous faites mais
+ça marche et quand on comprend rien à ce
+qu'on fait et que ça marche alors là on
+est à un cœur et là en fait on on on on
+on on on commence à comprendre en fait
+et à être
+confortable sur quelque chose qui vous
+aide à passer à l'étape d'après et et
+qui vous fait admettre que finalement a
+pas besoin de comprendre tous les
+détails pour continuer à construire
+d'ailleurs au passage vous vous êtes
+jamais demandé par exemple vous utilisez
+tous Dropbox vous êtes jamais demandé
+pourquoi dans Dropbox on pouvait pas
+souspartager un dossier qui avait déjà
+été partagé je sais pas si vous avez
+déjà eu ce problème mais nous on l'a
+tout le temps c'est que vous ne pouvez
+pas vous ne pouvez si vous partagez un
+sous-dossier le dossier audessus est pas
+partageable et alors c'est un truc qui
+me gonfle et je comprends pas qu'une
+boîte a autant d'argent euh n'est pas en
+fait résolu ce problème qui qui qui
+semble quand même assez idiot et en fait
+un un ingénieur de Dropbox cette semaine
+m'a expliqué euh que en fait il savait
+pas
+pourquoi j'ai dit quoi dit ben non non
+on sait rien du tout ouais ouais ça nous
+gêne aussi mais mais en fait impossible
+de retrouver pourquoi en fait ça ça fait
+et comme à chaque fois qu'on essaie de
+le faire ça crée des bugs qui sont trop
+critiques B pour l'instant les gens
+trouvent un hack eux même ils créent des
+dossiers ailleurs et puis départagent et
+repartagent et on le voit bien on voit
+bien nos utilisateurs passer des des
+heures à faire ça mais bon qu'est-ce
+qu'on peut faire et je me suis rendu
+compte qu'en fait Dropbox par exemple
+c'est c'est l'archétype type de la boîte
+fabriquée par des hackeerss tous les
+tous les ingénieurs moi j'ai j'ai des
+amis qui ont fait l'X et qui sont partis
+à Dropbox ils ont eu des surfroides ils
+sont dit mais il y a il y a pas de
+process il y a il y a aucune méthode il
+y a pas de doc quand quand tu as une
+question on dit ouais demande à DRW
+Houston le type est censé être PDG de la
+boîte mais il dit ouais la ligne de code
+elle est par là et et en fait c'est
+c'est hyper angoissant d'un point de vue
+structure parce que c'est le bordel il y
+a pas d'autres mot en fait mais pourquoi
+ce bordel est caractéristique de tous
+ces boîtes là parce que tout simplement
+si ça avait pas été le bordel et s'ils
+avaient optimisé les mauvaises choses
+ils auraient passé plus de temps à faire
+de la documentation plutôt que parler à
+leurs utilisateurs ils auraient passé
+plus plus de temps à réfléchir
+proprement les features plutôt que
+réfléchir à la façon la plus rapide de
+le faire pour la tester et la déployer
+et que quand ça marche ça
+marche et ça c'est ça c'est un un un un
+autre point c'est never fix something
+that works c'est tant que ça marche bon
+bah on continue et et et on avance en
+fait on avance on a on a on a pas de
+problème avec ça alors trois autres
+éléments que qui qui qui montre à quel
+point les hackeurs sont sont tellement
+dominants dans l'entrepreneuriat il y a
+trois autres blocs fondamentaux dans la
+culture à cur le premier c'est bring
+your
+friends je je sais pas comment
+l'expliquer mais en en 98 sur internet
+il y avait très peu de gens très très
+très très peu de gens et Internet était
+un sujet très très très facile par
+exemple l'un des premiers sites internet
+que j'ai fait euh et sur
+2 c'est un jeu vidéo et c'était tous les
+trucs et astuces et comment al j'avais
+un truc que j'adorais faire quand
+j'étais quand j'étais gosse c'était
+ouvrir les jeux en hexadécimal al là je
+vais vous parler chinois mais mais en
+fait un fichier binaire en fait à une
+représentation hexadécimale en base 16
+exactement c'est pour ça ça s'appelle
+hexadécimal et c'est plus facile à lire
+que du binaire tout simplement en fait
+c'est la façon la plus simple de se
+représenter et en fait quand vous
+regarder un fichier en hexadécimal si
+vous êtes suffisamment patient vous
+pouvez voir qu'à un moment il y a des
+problèmes de combinaison et simplement
+en changeant des lettres au hasard et en
+en testant ce que ça fait bah des fois
+vous aviez des bonus qui se libéraient
+genre vie
+infinie alors vous trouviez c'est un peu
+c'est un peu comme de la génétique vous
+finissiez par trouver la séquence qui
+code par exemple la vie et puis vous
+disz ouais mon personnage tiens je vais
+essayerette séquence et boum alors soit
+soit il était tout le temps mort et le
+jeu ne démarrait plus ça marche ça Arve
+aussi soit en fait vous aviez de la vie
+infinie et donc ceci site internet
+collecter l'ensemble des hacks
+hexadécimal que j'avais trouvé je les
+partagis avec des gens faites ça
+aujourd'hui vous vous avez 13 14 ans
+vous faites ça aujourd'hui bah vous êtes
+seul d'ici que quelqu'un sur internet le
+trouve en fait c'est assez dur et c'est
+et c'est ce qui est ce qui est drôle
+c'est que ça a jamais été aussi facile
+de de de disperser de l'information de
+très très très haute qualité sur
+l'Internet j'arrête pas de vous le dire
+la la distribution est devenue commodité
+g GAM style c'est 1ard 600 millions de
+vues très rapidement mais à l'inverse
+diffuser de la de l'information sans
+sans aucune utilité ça c'est devenu très
+dur et alors pourquoi c'est très
+différent à l'époque parce qu'à l'époque
+mon site il était quand vous tapiez
+Diablo dans Yao il y avait trois sites
+qui sortaient il y avait le mien et deux
+autres qui d'ailleurs ont été fait par
+des gens que je connais maintenant parce
+que comme je les ai vu sur Yao bah
+qu'est-ce que j'ai fait je leurais écris
+un email et on a parlé sur ICQ et on
+parlait tout le temps on a même essayé
+de faire un site ensemble après et ça et
+ça c'était l'internet des débuts
+l'internet des débuts c'est 300000 ou
+400000 personnes dans le monde 200
+million en 98 c'est rien du tout c'est
+c'est une toute petite communauté et
+c'est une toute petite communauté qui de
+toute façon fréquente très très très peu
+de site et très très très peu d'outils
+donc tout le monde est proche de tout le
+monde aujourd'hui vous avez bah tout le
+monde sur internet donc c'est la même
+chose que dans la société passer des des
+gens que vous connaissez au gens que
+vous connaissez pas ça à peu près la
+même difficulté mais même si c'est en
+ligne et que c'est facilité et et en
+fait le bring your friends vient de là
+il vient que très c'était très très
+facile au début de l'Internet d'amener
+les gens à faire des choses ensemble et
+ça a créé en fait des des communautés
+qui jusqu'à présent sont toujours
+présentes bah je me rendais compte la
+dernière fois que la maison du Bitcoin à
+Paris elle avait été créée par des
+gens que je que je voyais sur ICQ il y a
+15 ans et et j'avais j'avais même pas
+fait le lien en fait et et c'est c'est
+aussi ça en fait la alors oui pardon ICQ
+c'est un c'était MSN avant MSN c'est
+pour ceux qu' on on pas connu euh c'est
+c'est un petit logiciel de chat qui
+était incroyable et il avait des petits
+bruits qui étaient très très
+symptomatiques dès qu'il y avait un
+petit bruit vous courez à
+l'ordinateur c'était c'est c'était
+vraiment la Belle Époque bring your
+friends ça veut dire que très facilement
+tu trouves des gens pour faire des
+choses avec toi et ces gens-là amènent
+leurs amis et très très vite les
+communautés se créent de façon organique
+c'est en fait par exemple dans dans The
+Family j'ai deux types d'entrepreneurs
+je vais le formuler autrement dans
+family j'ai deux types d'entrepreneurs
+il y a ceux qui viennent me voir et qui
+me disent voilà je cherche à trouver un
+associé j'ai beaucoup de
+mal c'est dur je sais pas comment
+rencontrer des gens
+euh c'est c'est compliqué je sais pas
+comment faire confiance machin puis et à
+côté de ça vous avez les entrepreneurs
+qui viennent et vous expliquent oui
+alors je cherchais un CTO sur tel sujet
+j'ai été sur tous les forums de CO sur
+le sujet j'ai posté un message j'en ai
+trouvé un anent j'ai pris le train j'ai
+été lui parler on a bien accroché on a
+passé 6h dans un café le soir je lui ai
+proposé 40 % de ma
+boîte c'est c'est quoi la différence
+entre les deux est-ce estce est-ce que
+les autres avaient moins il y avait
+moins de gens disponibles et et et il y
+avait moins de trucs non c'est juste que
+l'autre se dit quelqu'un qui est sur un
+forum je le connais pas quelle est la
+caractéristique numéro 1 de ces gens-là
+c'est qu'ils ont un haur mindset et
+qu'il cherchent ce que le type dit sur
+un forum et qui part de l'hypothèse que
+ce que le type dit sur un forum
+représente qui il est et donc j'ai pas
+besoin de plus le connaître pour lui
+faire confiance mais ça ça ça suppose
+déjà d'avoir la culture forum d'avoir la
+culture du virtuel de faire confiance
+aux traces que les gens laissent en
+ligne et de ne pas faire de distance
+entre le monde réel et et le monde
+virtuel et donc c'est pour ça que en
+fait au bout de 6h il lui propose un il
+lui propose de s'associer parce qu'en
+fait c'est pas que il a eu besoin de 6h
+pour décider qu'il avait envie de
+s'associer avec lui c'est que ça a
+préciseur pour convaincre l'autre de
+s'associer avec lui et et et en fait il
+est il est là le sujet le le le sujet
+c'est que ce hacker mindset a a créé une
+communauté de gens qui se rend compent
+jamais qui sont derrière l'ordinateur
+mais qui ont pourtant l'impression de se
+connaître en
+fait euh deuxème chose give it away give
+it away c'est l'idée que rien ne vous
+appartient et donc vous devez passer
+votre temps à le donner alors évidemment
+ça c'est incarné dans l'open source mais
+c'est encore plus profond que l'Open
+Source c'est c'est c'est l'idée qu'en
+fait copier n'est pas
+mal prenons tiens on va on va on va
+jouer à ce petit jeu entrepreneur dans
+The Family qui a le hacker mindset
+entrepreneur qui l'a pas entrepreneur
+qui l'a pas ouais alors on développe une
+app et cette app elle doit faire la
+fonction
+a et cette fonction a euh ça fait des
+mois qu'on réfléchit dessus et là on a
+fait quelques maquettes et et voilà les
+résultats qu'on a euh euh qu'on
+a ça c'est le le non hacker mindset
+maintenant le hacker
+mindset alors on a besoin de faire a et
+on s'est dit tiens c'est marrant qui
+fait le mieux a au monde bah les gens
+qui font le mieux a au monde dans un
+autre contexte c'est les gens qui ont
+développé alpha et betêta on a été voir
+comment ils l'ont fait on l'a copié on a
+pris la synthèse des deux on l'a é dans
+notre app on a fait ça en 2 jours et au
+bout de 2 jours les utilisateurs nous
+ont dit oui mais le contexte il est
+différent parce qu'en fait votre a dans
+alpha ça marché mais là dans dans TTA ça
+marche plus et donc il faudrait plutôt
+le changer comme ça et donc en une
+semaine c'était au point et là on a
+10000 utilisateurs et on passe à la
+fonction
+B pendant ce temps-là l'équipe haute
+ouais al on comprend pas il y a personne
+sur notre truc là alors on s'est dit en
+fait c'est parce qu'on a pas de
+marketing et donc on on devrait
+peut-être faire un peu de
+com on devrait peut-être faire un truc
+comme ça tu connais une bonne agence de
+par pendant ce temps-là de l'autre côté
+ouais alors là on a été contacté par des
+journalistes il veulent écrire un
+article sur un truc mais bon on n pas
+trop à l'aise parce que tu crois qu'on
+devrait se les laisser écrire un article
+voilà et et ça c'est c'est c'est ma vie
+au quotidien j'ai un mur comme ça et et
+je vois et je vois les deux types
+d'attitudes et et c'est constant
+qu'est-ce qui se passe dans le premier
+monde bah dans le premier monde c'est
+des gens qui pensent alors il il y a la
+bonne version et la mauvaise version la
+bonne version c'est qu'ils sont
+tellement respectueux du travail des
+autres qu'ils ont pas envie de le
+piquer ça ça c'est la version noble il y
+a une version un peu moins noble c'est
+qu'ils sont tellement bouffi d'ego
+qu'ils sont persuadés qu'ils pourront
+résoudre un problème en quelques mois
+qui a pris des années à résoudre pour
+les
+autres et en fait il est
+là le point le sujet tout ça c'est
+que c'est que vous avez
+besoin de comprendre que plein de gens
+ont déjà fait plein de choses et partir
+de ce socle de connaissance là c'est
+plus facile d'innover que de repartir de
+zéro parce qu'en repartant de zéro vous
+allez refaire tout le chemin et alors
+ces gens-là ont une caractéristique
+fondamentale c'est qu'ils sont super
+contents de laisser les autres copier ce
+qu'ils font et c'est comme ça que l'Open
+Source s'est développé
+pr prenez Twitter Twitter invente un un
+framework CSS incroyable qui s'appelle
+bootstrap quel est le premier réflexe de
+Twitter c'est pas de le garder en se
+disant ah c'est génial on aura un
+meilleur CSS que les autres c'est dire
+ouais c'est pas important pour notre
+business on le donne et en fait toutes
+ces histoires d'Open Source et cetera on
+ont une brique fondamentale
+philosophique bien plus profonde que
+l'Open Source c'est pas juste cioui on
+est on aime bien donner on aime bien
+partager alors il y a beaucoup de gens
+en fait c'est le problème de tous les
+mouvement c'est que maintenant dans
+l'open source c'est rempli de gens qui
+savent pas d'où l'Open Source vient et
+qui et qui pensent que l'Open Source
+veut dire gratuit et veut dire veut dire
+je donne parce que c'est bien donner
+mais non je je donne parce que c'est la
+façon la plus rationnelle de recevoir et
+alors ça c'est le troisième point qui
+qui qui est je pense le point le plus
+fondamental et là l'un de nos combats
+les plus gros c'est le paay forward le P
+pay forward c'est quoi c'est un élément
+culturel IPI euh qui vient d'une sorte
+de représentation de l'univers très
+simple c'est que dans l'univers si on
+donne sans réfléchir alors on reçoit
+sans
+compter méditez tous là-dessus si on
+donne sans réfléchir on reçoit sans
+compter alors qu'est-ce que ça veut dire
+de façon très concrète ça veut dire que
+à chaque fois que quelqu'un vous demande
+de l'aide et ben vous lui donne l'aide
+que ça vous rapporte quelque chose ou
+que ça vous le rapporte pas et vous
+n'essayez jamais de réfléchir à à quoi
+ça vous rapporte je vous refire ma
+petite histoire hacker mindset vs non
+hacker mindset euh bonjour je suis s
+shape je rencontre une personnalité
+incroyable qui a un réseau fabuleux et
+cette personne me propose de
+m'introduire à des gens et en échange de
+ces introductions là une fois qu'elle a
+fait les intros elle vient me demander
+une commission sur l'argent qui est
+passé entre entre ces gens-là et s
+shape ça ça c'est du pas P for
+pourquoi parce que légitimement
+philosophiquement cette personne pense
+sincèrement que c'est légitime que étant
+donné qu'elle a qu'elle leur a rendu
+service et qu'ils en ont profité
+elle a raison de tirer profit d'une
+partie de ce bénéfice et d'ailleurs
+économiquement ça se tient c'est pas
+c'est pas illégitime c'est pas c'est
+pas c'est pas grave c'est juste
+économiquement profondément
+et
+économiquement d'ailleurs je vais vous
+retourner l'argument d'une façon
+économique c'était quoi le hacker
+mindset le hacker mindset c'est qu'elle
+aurait fait l'intro et elle l'aurait
+fait sans réfléchir et résultat elle
+aurait créé une dette virtuelle
+psychologique auprès des types de sape
+qui se serait dit cette nana nous
+a quand même aidé à un moment difficile
+et à un moment ou un autre ils auraient
+renvoyé
+l'ascenseur forcément mécaniquement
+et faites ça à l'échelle donc mettez ça
+puissance 10 puissance 99 puissance 1000
+et vous verrez l'impact que ça a là ce
+qui s'est passé c'est que sape ils ont
+payé la com ils ont pas cherché mais
+plus jamais il l'appelleront parce
+qu'ils considèrent qu'ils ont payé le
+service donc le graphe en fait il est
+cassé et donc pour un gain de court
+terme elle vient en fait de supprimer un
+gain de très très très long terme et
+extraordinaire pay forward c'est l'idée
+qu'économiquement le long terme vaut
+toujours plus que le court
+terme parce que à long terme les choses
+s'accumulent et que donc vous avez un
+intérêt fondamental à toujours toujours
+aider les gens autour de vous sans
+réfléchir par exemple un des pays
+forward qu'on fait c'est que on ne
+reçoit pas que les entrepreneurs de the
+family et et et Dieu sait que ça me
+coûte
+et tu sais que ça me coûte en temps en
+air en morale en tout ça mais le sujet
+il est ailleur le sujet c'est que
+peut-être qu'un jour ils deviendront des
+entrepreneurs de Family peut-être qu'un
+jour ils feront autre chose et puis
+d'ailleurs même si c'est pas le cas on
+en attend rien parce que la seule chose
+qu'on essaie de créer c'est un mouvement
+positif en faveur de l'entrepreneuriat
+donc forcément il faut payer ce coup et
+en fait payer ce coup participe à notre
+gain c'est c'est c'est
+profondément intrasèquement corrélé et
+donc le pays forward c'est cette culture
+qui veut que si vous allez dans la
+vallée vous rencontrez n'importe qui
+vous verrez que n'importe qui vous
+aidera et ça c'est incroyable de voir ça
+à l'échelle d'une ville toute personne
+qui va dans la silicone Vallé revient
+complètement surpris de l'attitude
+générale des gens mais cette attitude
+général des gens elle provientent
+quelque chose d'un mécanisme très
+rationnel en fait c'est que comme toute
+l'économie
+sur le fait que tout est fluide
+forcément s'il y a le moindre agent qui
+gripe dans la machine il est rejeté
+immédiatement par la machine et
+qu'est-ce qui se passe est-ce que ça
+veut dire qu'il y a des gens qui sont
+pas P for dans la vallé bien sû que oui
+ça veut dire a des gens qui sont pas P
+for mais qu'est-ce qui arrive au gens
+qui sont pas P for réussissent pas parce
+qu'entant pas P for il rent pas dans la
+machine rentrant pas dans la machine il
+arrivent pas à cré de valeur et la
+machine est devenue tellement grosse
+qu'elle est culturellement homogène
+à Paris c'est pas vrai à Paris si vous
+êtes pay forward vous pouvez vous sentir
+très longtemps très
+seul vous pouvez donner et donner et
+donner et tu donnes et tu donnes et tu
+donnes et puis il y a rien ça fait un
+peu début de sketch et et et en fait
+c'est pas très grave parce que c'est
+comme toute machine vous savez avant les
+voitures pour les démarrer il fallait il
+y avait une sorte de manivelle dans le
+moteur et il fallait fallait produire un
+un mouvement mécanique hyper fort pour
+démarrer la machine ben c'est exactement
+la même chose la culture du Pay forward
+vous avez forcément besoin dans un
+écosystème toxique de la démarrer très
+difficilement et vous avez de la chance
+vous êtes un petit groupe vous vous
+connaissez tous à peu près sur Facebook
+et vous pouvez tous vous rendre des
+service d'ailleurs vous le faites assez
+naturellement en fait je sais même pas
+pourquoi je fais ce cours moi mais mais
+mais mais mais peut-être que ça le
+renforcera et que vous le ferez vous le
+ferez vous le ferez encore plus alors
+l'autre l'autre alors ça j'ai posé la
+question de façon très provocatrice sur
+mon facebook ce matin je me suis demandé
+en faisant ce cours en fait je me suis
+dit mais c'est marrant ça pourquoi 90 %
+des emails que je reçois ont une réponse
+sur Google et en première
+page
+et et en fait je me suis rendu compte
+que c'est parce que le mindset haur
+n'est pas très très disponible et n'est
+pas très présent dans cet
+écosystème la règle numéro 1 d'un hacker
+c'est qu'on ne pose une question que si
+on n pas trouvé la réponse soi-même
+et le fait d'apprendre par soi-même tous
+les jours et de tous les jours monter
+son savoir personnel c'est quelque chose
+de
+fondamental c'est quoi le monde d'hier
+comparé au monde d'aujourd'hui le monde
+d'hier c'est que l'information était
+faiblement disponible vous aviez pas de
+moteur de recherche aujourd'hui vous
+pouvez poser n'importe quelle question
+dans Google et avoir une réponse ce qui
+veut dire que là dans cette pièce même
+la personne la moins informée la moins
+talentueuse la moins tout ce que vous
+voulez et infiniment plus en avance que
+la personne la plus talentueuse et la
+plus informée d' a 30 ans c'est
+mécanique il y a 30 ans il y a des types
+qui pouvait se la péter parce que il
+connaissaient des informations par
+cœur c'était les singes savants il
+savaient tout sur tout maintenant
+n'importe qui qui a un iPhone dans sa
+poche n' plus besoin de ça poser
+n'importe quelle question vous avez à
+peu près une réponse et en plus c'est
+que le début mais est-ce que la
+mentalité des gens vis-à-vis de ça a
+changé non parce que c'est quoi le
+problème de l'Internet le problème de
+l'internet c'est que pour trouver
+l'information faut savoir recouper
+l'information problème de l'internet
+c'est que quand vous lisez quelque chose
+c'est pas forcément vrai donc vous devez
+apprendre à croiser les choses vous
+devez apprendre à obtenir des infos de
+plusieurs sources différentes et obtenir
+des infos de plusieurs sources
+différentes ça demande de l'effort
+et cet effort en fait la plupart des
+gens préfèrent ne pas le faire et se
+dire bon j'ai demandé à une autorité de
+confiance comme ça j'aurais j'aurai la
+réponse et à nouveau vous avez fait un
+raisonnement de court terme contre un
+raisonnement de long terme parce que
+même si à court terme passz par votre
+autorité de référence et je suis flatté
+que ce soit moi même si à court terme
+vous passez par une autorité de
+référence ça vous apporte un gain qui
+vous avez gagné du temps à long terme
+votre perte c'est de ne pas savoir
+développer cette capacité sur les sujets
+où les autorités de référence n'y
+connaissent rien et le sujet numéro 1
+c'est
+l'innovation pourquoi les gens les plus
+innovants du monde sont les gens les
+plus
+informés si si vous regardez n'importe
+quel inventeur créateur chercheur
+entrepreneur qui a fait quelque chose
+d'important dans sa vie qu'est-ce qui
+partag tous et quelle est leur
+caractéristique commune
+fondamentale au-delà des
+caractéristiques vous pouvez imag c'est
+qu'ils ont tous un niveau
+d'information pratiquement insensé par
+rapport au sujets qui
+trait vous imaginez le prenons un
+exemple tout bête vous imaginez le
+nombre d'articles que je lis par
+semaine est-ce est-ce que je considère
+que c'est une perte de temps je pourrais
+quand même prendre mon téléphone et
+appeler des gens quand quand j'ai des
+questions je connais plein de gens qui
+sont stylé et je pourrais leur dire
+ouais là je me demande non parce que le
+sujet en fait c'est que devenir intime
+avec l'information accumuler
+l'information apprendre à la chercher
+apprendre à la croiser apprendre à la
+Challenger et apprendre à la communiquer
+ces quatre piliers fondamentales vont
+faire de vous un bon
+entrepreneur parce que fondamentalement
+l'entrepreneuriat en fait c'est ces
+quatre tâches répété répétter et répét
+et répété à l'infini à un point où vous
+devenez un un skill Master
+et et d'ailleurs petite minutes je sais
+pas si je vous l'ai déjà dit mais
+regardez tous le film Giro dream of
+sushi qui a vu Giro dream of sushi ok
+les autres regardez-le ça t'a pas plu
+ah non non non non non non non faut faut
+faut faut le regarder en entier une fois
+vous allez passer un mauvais moment vous
+allez vous faire chier mais essayez de
+comprendre ce qui se passe dans la tête
+de ce type vous vous regardez vous êtes
+un grand maître sushi
+et vous avez développé une technique
+fondamentale incroyable pour que les
+sushis que vous fabriquer soit les
+meilleurs sushis du monde comment vous
+faites pour transmettre ça comment vous
+faites pour
+scaler vous vous rendez compte que la
+seule la seule chose qui vous
+différencie de tous les autres m sushi
+du monde c'est simplement que vous avez
+fait beaucoup plus de sushis avec
+beaucoup plus d'intention que tout le
+monde cumulé et réuni et donc vous
+faites rentrer tout le monde dans un
+process qui est de leur dire tu n'auras
+le droit de faire du riz chez moi et le
+riz je le considérais comme mangeable
+que si tu l'as fait pendant 10 à 15 ans
+de
+suite personne n'a envie de faire du riz
+pendant 10 à 15 ans sans avoir de
+gratification vous imaginez aller dans
+un restaurant où vous explique que pour
+avoir le droit de mettre la nourriture
+que vous fabriquez dans la bouche d'un
+client faut en moyenne 8
+ans et encore on parle juste du riz je
+vous parle même pas de couper le
+poisson vous vous vous vous imaginez
+l'effet immédiat que ça provoque chez 99
+% des gens qui veulent un travail chez
+Giro mais chez les 1 % qui reste
+qu'est-ce qui se passe bah il rentre
+dans ce processus qui a un processus en
+fait d'accumulation de l'information il
+ils développent des choses dans leur
+cerveau qui est que quand ils entendent
+l'eau bouillir ils savent que l'eau boue
+à la bonne température ou
+pas c'est c'est très poétique ne rigolez
+pas il ils savent à la couleur du si le
+riz est mangeable ou pas parce qu'ils en
+ont tellement vu que il développent ce
+qu'on appelle de l'instinct c'est quoi
+la différence entre quelqu'un qui a de
+l'instinct et quelqu'un qui n'en a pas
+sur un sujet donné mais c'est tout
+simplement quelqu'un qui a de
+l'information et quelqu'un qui n'a pas
+d'information mais l'information ça veut
+pas dire lire quelque chose une fois ça
+c'est pas de l'information ça c'est une
+donnée la distance entre la donnée et
+l'information c'est de transformer une
+donnée en quelque chose que vous savez
+par cœur qui qui qui qui qui vous est
+intime et ça c'est vrai dans tous les
+domaines c'est vrai dans la
+programmation c'est vrai dans la
+peinture c'est
+vrai très intéressant tiens vous savez
+comment on apprend à programmer dans la
+plupart des écoles d'ingénieur moi c'est
+un truc qui me fascine on on prend les
+gens et on on leur donne une feuille de
+papier on leur dit tu vas faire ton
+programme sur une feuille de papier
+quand je dis école d'ingénieur je parle
+pas des écoles d'ingénieurs en
+informatique je parle vraiment des si
+vous allez à l' par exemple vous avez
+des cours d'algorithmique et vous prenez
+votre cahier et puis on vous fait faire
+au point V votre algorithme sur un
+cahier et seulement si votre algorithme
+est juste sur le cahier alors vous
+prenez votre ordinateur vous vous mettez
+derrière votre ordinateur et vous tapez
+votre
+programme comment apprenent les les gens
+sérieux qui font de la programmation bah
+programme un truc ça marche
+pas ti c'est bizarre il recomence qui
+font machin il complexifie factorise
+développe bla et puis ça marche quelle
+est la différence entre les deux bah
+c'est exactement la même chose que les
+les les peintres qui passent des heures
+et des heures à imaginer ce qu'ils vont
+peindre et juste ceux qui qui qui qui le
+peineent et qui corrigent et qui
+corrigent et qui corrigent et ça et ça
+s'appelle ça s'appelle faire des faire
+des esquisses faire des esquisses c'est
+la façon la plus simple d'apprendre à
+dessiner si vous apprenez à dessiner en
+passant d'œuvre parfaite en œuvre
+parfaite en fait vous vous améliorerez
+jamais tout simplement parce que vous
+développez pas le bon le bon coup de
+crayon vous développez pas le bon coupt
+et B c'est la même chose
+intellectuellement dans les sujets plus
+intellectuels quelle est quelle est la
+bonne façon d'embaucher et de virer les
+gens c'est d'embaucher 1000 personnes et
+d'en virer 1000 forcément la milliè fois
+moi je vais pas continuer mes métaphores
+dans tous les domaines mais vous voyez
+où je vais en venir c'est c'est c'est
+que
+forcément petit à petit à force de faire
+quelque chose vous vous mettez en
+situation de de de devenir maître de ce
+quelque chose et c'est là où en fait où
+où beaucoup d'entrepreneurs sombres
+c'est qu'il font leur entreprise en
+pensant que c'est un sujet de conception
+ah je vais concevoir ce que j'ai envie
+de faire je vais imaginer ce que j'ai
+envie de faire non faites-le faites-le
+tous les jours et petit à petit vous
+vous vous concevrez en fait parce que le
+travail de conception vient toujours à
+postériori du travail
+d'exécution et c'est que quand vous avez
+l'impression d'être en
+retard que vous faites bien les choses
+si vous avez l'impression d'être en
+avance et d'avoir bien préparé les
+choses vous êtes foutu l'anticipation
+c'est la pire chose que vous puissiez
+faire
+alors comment adopter ce mindset à cœur
+en dehors de la programmation bah il y a
+il y a deux grands exercices que vous
+pouvez apprendre à faire le premier
+c'est
+le fait
+d'imaginer pour chaque entreprise que
+vous essayez de faire une méthode
+artisanale de
+lancement donc par exemple vous décidez
+de faire une plateforme de vente en
+ligne de
+tabouret voilà vous voyez ce tabouret
+j'en ai 10000 dans la cave là j'ai pas
+de bol je veux les vendre en ligne
+quelle est la façon la plus rapide de
+vendre 10000 tabouré en ligne la façon
+la plus simple de vendre 10000 tabourets
+en ligne c'est d'en vendre 100 devant
+chez vous 1000 à leurs copains et les
+9000 restant enfin les 8900 restants en
+ligne qu'est-ce qui se passe si vous
+essayez de vendre 100 fois un tabouret
+et vous arrivez à le vendre 100 fois un
+tabouret c'est que forcément vous allez
+devoir parler à 1000 personnes parce que
+la probabilité que chaque personne à qui
+vous parlez de ce tabouret l'achète est
+très faible et donc au bout du milliè
+discours vous allez être super au point
+sur comment décrire ce tabouret c'est
+tout bête alors que comment font la
+plupart des entrepreneurs ils voi ce
+tabouret ils le regardent et ils font
+une description ils la mettent en ligne
+et il se disent VO c'est fait mais le
+problème c'est que c'est pas fait en
+fait vous avez pas trouvé la la phrase
+clé je vais vous avouer un
+truc il y a il y a un domaine dans dans
+lesquels ça se ça ça
+se ça ça se vérifie plus que les autres
+j'avais un jeu quand j'étais plus jeune
+c'est d'aller dans une soirée et et et
+convaincre une fille de de rentrer avec
+moi j'ai découvert qu'il y avait des
+phrases clés et et et et et et et en
+fait je testais des dizaines et des
+dizaines de phrases juste pour voir
+quand ça marchait et il y en a une qui
+est killer et qui en plus se répercute
+en ligne et marche super bien en ligne
+mais je vais pas vous la
+donner bon
+coucou à une soirée un type qui vous dit
+coucou déjà ça le classe dans une autre
+catégorie c'est pas le salut tu
+t'appelles comment non non
+coucou tu as pas encore trouvé
+chaussures à ton pied avec une bouille
+pareille et vous c'est c'est killer
+comme truc c'est le le le taux de
+réponse sur les sites de rencontre est
+de l'ordre de 80 % avec cette
+phrase j'en ai testé plein
+et et et en fait fait le sujet c'est que
+alors là en plus vous vous dites mais il
+est complètement dingue et cetera mais
+en fait non c'est parce que à force
+d'avoir testé des phrases à force
+d'avoir testé des je ne fais plus
+ça à force d'avoir testé des phrases et
+tout ça forcément en fait vous vous
+finissez par développer un très très
+grand instinct sur qu'est-ce qui parce
+que c'est pas juste la question de la
+première phrase ensuite c'est la
+question de la deuxème phrase et de la
+troè phrase et cetera mais en fait cette
+première phrase c'est CIT la façon
+d'ancrer le plus haut la personne B mais
+c'est quoi ce c'est quoi c'est quoi ce
+singl en fait et et en fait à partir de
+ça vous pouvez construire plein de
+choses alors évidemment ça ne marche pas
+dans 100 % des cas tout tout ça c'est
+juste des histoires de probabilité mais
+ça marche super bien et en fait le le
+sujet c'est que l'entrepreneuriat c'est
+la même chose vous auriez pu essayer de
+mettre en point une phrase en
+réfléchissant à qu'est-ce que la bonne
+phrase vous pouvez aussi tester des
+dizaines et des dizaines et des dizaines
+de phrases et juste voir les datas et
+juste voir où ça vient mais le le fake
+it until make it et le try it until make
+it c'est c'est quelque chose qui doit
+être une philosophie de vie c'est vous
+vous devez vraiment vous mettre en en
+position de par exemple je vous raconter
+une une anecdote moins drôle mais plus
+professionnelle en ce moment un des
+grands jeux à the family c'est de faire
+rentrer des boîtes qui ont déjà levé
+beaucoup d'argent parce que quand même
+c'est beaucoup plus simple d'aider des
+gens qui ont déjà ussi que d'aider des
+gens qui qui savent pas qui savent pas
+comment démarrer sauf que vous voyez
+bien le problème le problème c'est que
+fondamentalement un mec qui a déjà levé
+plein d'argent il va se dire mais
+qu'est-ce que the family peut m'apporter
+j'ai déjà j'ai déjà pas mal de réussite
+et tout et alors nous on pense
+sincèrement que c'est surtout à ces
+gens-là qu'on peut apporter des choses
+magiques mais ça c'est un autre débat et
+donc comme nous on est persuadé de ça
+mais que la perception de cette valeur
+est très faible il faut trouver la bonne
+façon d'argumenter la bonne façon de
+rentrer chez les gens et cetera bah
+qu'est-ce qu'on fait
+on a même pas fait une réunion à se dire
+c'est quoi les arguments on en a même
+pas fait une ce qu'on a fait c'est que
+gens et moi tous les jours on parle à
+des boîtes matures et on leur propose de
+rentrer et à chaque fois qu'on arrive à
+en faire rentrer une on se la pète
+auprès de l'autre avec quel argument
+était kure résultat nous deux on apprend
+et par exemple j'étais bloqué sur une
+boîte parce que ils arrivaient pas à
+gober le pourcentage qu'on demandait et
+et on veut pas baisser nos prix parce
+qu'on ne baisse jamais nos prix on
+négocie jamais à the family et alors
+comment vous faites pour baisser et gens
+trouvé le truc il dit tu as qu'à leur
+dire que on leur prend le pourcentage
+qu'on prend comme si ils étaient rentrés
+dans The Family qu'on applique la
+dilusion qu'on aurait vécu avec leur
+levé et que ça donne le pourcentage
+final qui n'a un pourcentage pas négocié
+c'est killer comme truc et là ils disent
+tous oui mais mais mais mais vous voyez
+le point c'est que pour pour en arriver
+là on s'est pris plein de bananes et il
+y a plein de gens qui nous ont dit non
+et en plus maintenant les gens qui nous
+ont dit non on les recontacte avec les
+nouveaux arguments et on regarde s
+disent oui et maintenant qu'ils disent
+oui on en contacte les autres et puis
+vous voyez le jeu maintenant on dit aux
+gens ouais voilà sur le dernier mois
+dans The Family il y a six boîtes qui
+sont rentrées qu' on chacune levé plus
+de 2 millions résultat toute boîte qui
+lève plus de 2 millions maintenant se
+dit ouais faudit peut-être qu'on
+envisage de rentrer dans ce
+family je suis mort de r parce que parce
+que on avait aucun service et alors
+qu'est-ce qui se passe c'est que
+maintenant qu'ils sont dans de Family
+bah on les a eu par la conviction sauf
+que il y a aucun service pour eux là pas
+du tout été pensé pour eux donc
+qu'est-ce qu'il faut faire maintenant
+faut courir et il faut créer des
+avantages et et et on est on est au
+taquet sur qu'est-ce qu'on peut faire
+alors qu'est-ce qu'on fait on fait
+beaucoup de choses à la
+main et pourquoi on fait beaucoup de
+choses à la main pour ne plus les faire
+à la main et alors de quoi a besoin une
+grande boîte elle a besoin d'être encore
+plus grande et et donc comment on fait
+ça B on fait ça en apportant des
+services à l'échelle en fait et et si et
+on aurait pu faire tout l'inverse on
+aurait pu réfléchir à quoi avait besoin
+une une boîte qui a déjà levé on aurait
+pu essayer de le mettre au point pour
+convaincre les boîtes de
+rentrer vous voyez la la grande
+différence de méthodologie ça a juste
+rien à voir et c'est et c'est ça le
+c'est ça le sujet en fait le sujet c'est
+comment faire pour donner l'envie aux
+gens de façon simple et la seule façon
+de trouver la façon la plus simple de
+donner envie aux gens c'est c'est de le
+faire et de le refaire et le refaire et
+avoir les gens en face de la meilleure
+façon de mettre au point un site
+internet c'est d'avoir les gens en face
+de vous ça peut paraître complètement
+contreintuitif mais c'est en en faisant
+des choses au-delà de la normale dans le
+physique que vous allez capter de
+l'information qui vous permettra d'avoir
+des résultat au-delà du normal dans dans
+le dans le virtuel alors prenons des
+exemples Angel list plus grande
+plateforme de de mise en relation entre
+investisseur et et
+entrepreneur list ils ont eu
+un ils ont
+eu un début assez classique ils ont levé
+de l'argentprès de leur copains ils ont
+mis au point une plateforme et la
+plateforme a rien donné très
+classique et puis à ce momentl ils ont
+fermé la plateforme et ils ont lancé
+newsletter
+où tous les jours il disait il racontait
+aux gens des Deals et cetera la
+newsletter est devenu un succès énorme
+ils ont lancé une plateforme et
+aujourd'hui c'est une boîte qui vaut
+plus d'un
+milliard et pourquoi parce que ils ont
+créé l'usage avant de créer le produit
+donc le produit n'était qu'une évidence
+par rapport au troubl de
+l'usage un autre exemple on a une boîte
+chez nous qui s'appelle bah airdtox
+airdtox ils ont commencé dans un groupe
+facebook on a switch switch et
+technologie de parking dans la ville ils
+ont commencé avec des
+des des des panneaux dans la rue pour
+dire aux gens si tu veux cette place
+paye-moi 5 €. les gens s'arrêtaient se
+disaient ah bon et c'est comme ça qu'ils
+ont qu'ils ont lancé l'AP ils l'ont
+lancé dans trois rues donc vous voyez à
+quel point en fait le le le fait de de
+trouver la bonne façon de faire de façon
+artisanale ce que vous voulez faire à
+l'échelle c'est la meilleure faç
+d'acquérir de l'information le plus
+rapidement
+possible pourquoi je vous raconte tout
+ça même si je sais que fondamentalement
+vous allez pas tous devenir des
+hackurs parce que même si vous êtes pas
+à hackur vous devez comprendre en quoi
+les hackurs vous sont supérieurs au jeux
+entrepreneurial je le dis formellement
+en quoi les hackurs vous sont supérieurs
+dans le jeu entrepreneurial parce que
+c'est la seule façon que vous allez
+pouvoir trouver pour les attirer les
+faire travailler pour vous vous avez
+deux
+choix soit vous devenez vous-même un
+hackur et et c'est un choix qui passe
+par beaucoup beaucoup d'apprentissage et
+qui passe par beaucoup beaucoup d'effort
+et qui passe
+par le le fait de vous reprogrammer le
+cerveau et les
+réflexes et surtout ne le faites pas en
+faisant une boîte vous vous faitesle en
+faisant un projet le plus rapidement
+possible ou ou faites une boîte où vous
+en fichez si ça va réussir ou pas mais
+mais mais ce que je veux dire vous
+rajoutez pas le stress de quitter votre
+boulot et et faire ça devenez un ha cur
+du dimanche avant de vouloir devenir un
+ha cur ça c'est la voix longue c'est la
+c'est c'est c'est c'est on va dire c'est
+la voix non non hackur du devenir un
+hackur trop
+tard après il y a un
+hack le
+hack c'est
+finalement prétendre en fait que vous
+être un hackur le prétendre tellement
+bien et et et et et et et le faire
+tellement bien semblant
+que les autres hackurs vont penser que
+vous en êtes un et de devenir très très
+bon à les
+diriger si vous voulez faire une boîte
+qui compte vous avez besoin d'être
+entouré de hackurs les hackurs attirent
+naturellement les autres hackurs si vous
+êtes pas un à cœur vous-même vous pouvez
+très très très bien le devenir juste
+mentalement et dans l'état d'esprit et
+en créant un vrai paradis pour les
+hackurs mais donc ça ça suppose un de
+savoir faire la différence entre un
+ingénieur et un hackur la pire chose qui
+puisse vous arriver c'est de tomber sur
+un ingénieur à la fondation de votre
+boîte et quand je dis un ingénieur je
+parle en terme de
+mentalité j'ai 80 % des boîtes que je
+vois mourir Meur sous une mentalité
+d'ingénieur c'est toujours la même
+histoire c'est un type un peu naïf qui
+rencontre un type très très très
+compétent et ce projet est complètement
+bousillé par le type
+compétent vous faites un réseau social
+dans le
+sport personne ne l'utilise le réseau
+personne ne sait à quoi il sert mais par
+contre l'ingénieur qui l'a mis au point
+a fait une base de données qui peut
+recevoir un milliard de requettes à la
+seconde
+classique et puis incroyable la base de
+données c'est d'ailleurs tellement
+incroyable que quand votre start-up aura
+fait faillite Google l'embauchera
+vous aurez payé sa formation à Google et
+en fait ça ça c'est ça c'est le point
+c'est que comprendre la culture à cœur
+ça vous évitera ces erreurs de
+recrutement vous avez besoin de filou
+vous avez besoin de gens qui avancent
+vite vous avez besoin de Loulou non
+pardon c'est pour voir si vous suivez
+vous avez besoin de gens qui par-dessus
+tout aiment apporter de la valeur dans
+le court
+terme et et si vous arrivez à créer un
+par sur terre pour ces gens-là parce que
+ces gens-là dans les entreprises
+traditionnelles sont très très très mal
+vus ces gens-là dans les entreprises
+traditionnelles n'ont aucune place ces
+gens-là dans les entreprises
+traditionnelles sont toujours la risée
+de leurs collègues parce que parce que
+forcément ils ont tendance à faire des
+choses un peu cassées ces gens-là si
+vous leur donnez le bon milieu ils
+peuvent faire des choses
+magiques donc à défaut de devenir un
+hackur dites-vous que vous allez devenir
+le dresseur de hackur le plus
+extraordinaire du monde
+parce que fondamentalement faire une
+entreprise incroyable c'est faire une
+équipe
+incroyable alors il y a deux façons de
+faire une équipe incroyable soit vous
+êtes incroyable et vous attirez les gens
+incroyables soit vous savez très très
+très très bien gérer les gens
+incroyables et vous avez très très bien
+vous mettre à leur service et à leur
+disposition c'est l'un ou l'autre je
+pense pas qu'il y en a une qui soit plus
+efficace que l'autre je pense pas qu'il
+y en a une qui soit plus courante que
+l'autre alors si vous regardez
+l'histoire de toutes les entreprises
+contemporaines c'est vraiment il y a il
+y a vraiment les les les les les deux
+choix mais ce que je veux vous dire
+c'est que le but de la session
+aujourd'hui c'est pas de vous dire ah
+vous allez tous devenir un hackur non
+c'est vous allez tous à minima créer un
+milieu qui est compatible pour le hacker
+mindset parce que c'est le hacker
+mindset qui fera que vous allez pas vous
+sombrer en fait dans la complexité de
+votre entreprise sombrer dans des verres
+d'eau c'est la façon la plus simple de
+rater sa boîte et les gens qui se noient
+dans des verres d'eau il y en a plein
+c'est c'est hyper courant cinq points
+pour pour pour pour créer un
+environnement incroyable pour un hackur
+comprenez que les hackurs aiment
+résoudre des
+problèmes c'est ni des
+gestionnaires ni des bâtisseurs ni des
+des gens qui construisent sur le long
+terme ils aiment résoudre le problème et
+passer au problème d'après
+ça veut dire plein de choses ne mettez
+jamais un hackur à la
+maintenance vous mettez un ingénieur à
+la maintenance c'est là où vous voyez
+que que tout le monde a sa place dans le
+monde mais mais si vous avez des si vous
+avez des gens qui ont cet état d'esprit
+mettez-les à la croissance mettez-les au
+nouveau par par exemple euh prenons un
+prenons un cas très classique vous avez
+un vendeur qui a un mindset
+cur il est incroyable à chaque fois qui
+dans votre entreprise il a il a chopé
+tous les premiers contrat et il a mis en
+place toutes les premières personnes qui
+ont rejoint l'équipe hyper facilement et
+il a trouvé toutes les bonnes techniques
+pour aller débaucher les vendeurs des
+autres
+boîte quelle est l'erreur fondamentale à
+ne pas faire mettre chef des
+ventes là là c'est le début de la cata
+type il va devoir faire des reporting
+des réunion gérer le les problèmes
+psychologiques des
+gens il va complètement dépérir quelle
+est la bonne chose à faire vous le
+mettez dans une nouvelle ville pour
+ouvrir une nouvelle
+équipe vous voyez la
+différence les deux sont une forme de
+promotion il y en a juste une qui est
+adaptée à la philosophie de la personne
+et une autre qui l'est pas et alors
+c'est quoi le problème avec la plupart
+des
+hackeurs des vrais hackeurs ceux qu'ont
+vraiment l'esprit bre et C au fond d'eux
+c'est qu'ils le savent même pas
+eux-mêmes et donc en fait il rêvent de
+devenir chef des
+ventes il rêve de devenir chef des
+ingénieurs il rêve de devenir chef de
+projet ou je sais pas quoi et tout
+l'enjeu pour vous est de réussir à leur
+faire comprendre que c'est pas leur
+truc et que il devrait mieux chercher
+quelque chose d'autre et et trouver leur
+place
+autrement les hackeerss font les pires
+managers du monde parce que par
+définition leur seul boulot c'est de
+casser de la structure toute
+organisation sociale à un moment donné a
+besoin d'une structure prenez Google par
+exemple Google ils ont résolu ce
+problème de façon incroyable dans Google
+vous avez deux entreprises vous avez
+l'entreprise des gestionnaires et
+l'entreprise des
+hackeurs l'entreprise des gestionnaires
+elle est responsable de
+adwards c'est processé c'est c'est
+millimétré personne a le droit de donner
+son avis ça tourne tout seul et ça
+crache 37 milliards et ça sert à quoi
+bah ça sert à ce que des gens dans un
+labo qui s'appelle Google x puissent
+faire ce qu'ils veulent comme ils
+veulent d'ailleurs tiens les sociétés
+automobiles sont Nules elles ont pas
+compris notre idée de Google Singar bon
+bah fabriquons de zéro une
+voiture on va acheter une usine on a que
+ça à faire et d'ailleurs la voiture le
+cycle de développement moyen d'une
+voiture c'est 5 à 10 ans un truc comme
+ça et ben nous on va la fabriquer en en
+12 mois parce que pourquoi
+attendre c'est juste une question de
+hack et et et la pire chose c'est que si
+Sergey Brin était resté dans la gestion
+de la boîte je pense que la boîte aurait
+sombré en
+fait très sincèrement je je pense que il
+y aurait rien qui tournerait d'ailleurs
+tout le monde disait chez Google il y a
+5 ans c'est une cata cette boîte il y a
+rien qui tourne aujourd'hui c'est la
+boîte la plus processée et la plus la
+plus brillante du monde de ce point de
+vue-là mais ça ne veut pas dire qu'il
+pas conserver à côté alors ça c'est
+c'est une forme de modèle il y a plein
+d'autres modèles c'est aussi inviter des
+fois les gens à faire autre chose de
+leur vie donc comprenez bien que le but
+du jeu pour un cur c'est de résoudre des
+problèmes euh la deuxième chose c'est
+que fondamentalement un hackur pense
+qu'il ne faut jamais résoudre le même
+problème deux
+fois et alors ça si vous voulez
+comprendre à quel point c'est quelque
+chose de profond dans la culture à cœur
+aller sur n'importe quel forum
+informatique
+et poser une question et vous allez voir
+comment vous allez vous faire
+insulter c'est c'est on dirait qu'il y a
+même des mecs qui sont payés juste pour
+ça pour venir insulter les types qui ont
+déjà ont posé une question dont la
+réponse a déjà été apportée dans le
+forum
+ouais tu sais pas utiliser le moteur de
+recherche crétin d'accord
+pardon ça c'est c'est un point important
+mais c'est un point qui est très très
+favorable à l'entrepreneuriat et qui
+vous est très favorable si vous le
+comprenez si vous si votre boulot c'est
+de gérer une petite usine de
+hackur votre boulot c'est de documenter
+ce qu'ils font parce que c'est pas eux
+qui le feront pour que les nouveaux
+hackurs n'aient jamais besoin de le
+faire alors ça peut paraître inras de se
+dire son boulot c'est de documenter le
+boulot des autres mais en fait c'est
+incroyable on n'imagine pas à quel point
+à l'intérieur d'une entreprise la
+documentation peut tout
+changer prenons un un un un exemple bête
+à the family internet tombe toutes les
+15 minutes à peu près quand on est
+chanceux
+il y a tout un process pour voir tout ce
+qui peut faire que internet marche pas
+et redémarrer internet et il y avait une
+seule personne qui le connaissait
+résultat les coupures durai une heure le
+temps que la personne vient et cetera
+maintenant qu'on a un document dans
+lequel c'est expliqué étape par étape et
+benah en fait Internet est jamais down
+très
+longtemps voyez comme un simple petit
+document Word peut tout changer parce
+que vous vous dites oui mais c'est c'est
+pas très grave mais si en fait c'est
+très grave parce que il y a toujours un
+effet Murphy comme par hasard la la
+personne n'est pas là le seul jour où
+Internet est vraiment down comme par
+hasard la
+personne s'est occupé d'autres choses
+alors qu'elle a pas vu que l'Internet
+était down et les autres ne savaient pas
+que c'était elle la personne qui avait
+et et cetera et cetera et en fait ce
+genre de problème à l'échelle peuvent
+être résolu si vous avez cette pratique
+hackur incroyable qui est de toujours
+tout documenter de façon très précise et
+et en fait les hackeurs documentent pour
+les autres mais mais il documentent
+rarement pour eux-mêmes donc vous avez
+besoin par exemple Google ils ont résolu
+ce problème de façon très simple tous
+les ingénieurs doivent documenter le
+code des autres ingénieurs mais ce qui
+s'applique au code peut s'appliquer à
+tout ça peut s'appliquer à la vente ça
+peut s'appliquer au marketing ça peut
+s'appliquer par
+exemple il y a des sociétés qui qui
+document très précisément tous les pubs
+et tous les slogans qui ne marchent pas
+sur Internet parce que qu'est-ce qui se
+passe à chaque fois quelqu'un arrive au
+document marketing bah il pense au il
+pense aux 100 premières pubs qui lui
+viennent à l'esprit et c'est tout le
+temps les mêmes
+donc savoir que ça a déjà été testé
+c'est le meilleur moyen de commencer
+c'est c'est la même histoire que tout à
+l'heure au lieu de commencer de zéro
+vous commencez de
+100 faites
+attention si vous avez des gens qui sont
+vraiment ont un esprit à cœur la chose
+qui les qui les perturbe le plus au
+monde c'est de
+s'ennuyer de les laisser jamais
+s'ennuyer c'est d'ailleurs il y a une
+phrase que je trouve très drôle
+et et et je pense que l'ennui est
+vraiment maléfique en fait chez ces
+gens-là parce que quand ils s'ennuient
+ils vont forcément trouver une façon de
+plus'ennuyer et c'est peut-être pas une
+façon qui est en votre
+faveur pour pour plein de
+raisons donc trouverz toujours des
+nouveaux challenges et gardz votre votre
+organisation sous tension
+créative vous êtes tous d'une façon ou
+d'une autre amenés à faire un business
+dont l'avantage comparatif sur les
+autres business et son imagination et sa
+créativité l'un de vos avantages
+comparatifs les plus énormes c'est la
+créativité et notamment si vous faites
+des business traditionnel vous pouvez
+croire que ce n'est pas le cas mais en
+fait la la seule chose qui sauve dans ce
+monde dans le business c'est d'être les
+plus créatifs regardez les 1000
+entreprises les plus impressionnantes du
+monde elles ont toutes réussi à être
+créatives à des endroits où on les
+attendait pas regardez Starbuck quelle
+est la différence entre Starbuck et tous
+les autres coffee makakers
+c'est qu'en terme de process et en terme
+de backend c'est les types les plus
+créatifs du secteur de très très loin
+ils arrivent à automatiser des choses
+que peu de gens pensent que c'est
+automatisable quelle est quelle est la
+différence entre
+entre prenons une entreprise qui est
+très traditionnel dans le métier de
+conseil quelle est la différence
+fondamentale entre un mckinze et les
+autres parce que on peut se dire oui
+mckin embauche les meilleurs et cetera
+c'est c'est assez faible en fait comme
+explication
+oui mais pourquoi ils ont tellement de
+moyens parce que c'est un cycle
+ouais mais justement pourquoi les gens
+payent un TJM un tout journalier moyen
+tellement élevé dans un monde où
+l'intelligence est devenu une commodité
+pourquoi ça perdure pourquoi ça se
+maintient il y en a plein d'autres qui
+ont une pourquoi le TGM de BCG est 40 %
+inférieur alors que la notoriété de BCG
+est à peu près
+équivalente en fait fondamentalement
+c'est les seuls à avoir une base de
+connaissance unifiée qui est incroyable
+chez mckinse chacune mission mène à une
+documentation de la mission incroyable
+et qui doit rentrer dans une base où
+tous les min the boy y ont accès et ça
+participe et c'est pour ça que des fois
+ça donne ce sentiment de copier-collé
+permanent mais en même temps ça rassure
+les mecs de se dire ah bah c'est cool
+c'est c'est le meilleur d'Australie qui
+réfléchit à mon problème alors que je
+suis au kentuki parce qu'ils ont réussi
+à créer cette culture unifiée avec ce
+savoir unifié c'est data unifié et ça
+c'est unique sur le sur le sur le marché
+du consulting à ce niveau-là euh
+pourquoi pourquoi
+euh euh pourquoi 5 à sec se développe
+beaucoup plus rapidement que les autres
+pressings est-ce que c'est juste
+financer non c'est c'est juste qu'ils
+ont ils ont les meilleures machines à
+laver parce qu'ils ont tweaké eux-mêm en
+fait le leur système de pressing et leur
+système c'est les seuls qui ont des
+ingénieurs qui réfléchissent à ces
+sujetsl et c'est et d'ailleurs c'est pas
+des ingénieurs pour le coup parce que
+même s'ils ont un titre d'ingénieur ils
+ont vraiment un esprit à cœur regardez
+don Dison c'est le royaume du hack c'est
+c'est des types qui font de l'Ingénerie
+très très haut niveau mais avec un
+hacker mset
+incroyable Apple Apple ils ont
+l'impression de sortir des produits
+hyper unifiés hyper léchés et cetera
+mais vous verriez le processus à
+l'intérieur de création chez Apple il
+est par
+incroyable ils impriment en 3D ils font
+du fast prototyping bien avant tout le
+monde sur le marché ils ont fait de la
+modélisation 3D ils ont créé ils ont
+créé tous ces outils de représentation
+et d'imagination avant tout le monde sur
+le
+marché et pourtant il donne le sentiment
+de ne sortir que des choses parfaites
+c'est parce qu'en fait ils le sortent à
+plusieurs échelles c'est juste l'échelle
+finale qui est votre échelle c'est
+parfait mais mais les gens il y a déjà
+des employés d'Apple là qui rentrent
+chez eux avec un iPhone 7
+c'est c'est c'est c'est c'est c'est des
+cycles produit extrêmement rapides en
+fait 4ème élément de la culture acire
+freedom is good vous devez absolument
+être obsédé par donner un maximum de
+liberté et de pouvoir à ces gens-là au
+sein de votre
+organisation l'élément culturel le plus
+culturel le plus fondamental pour ces
+gens-là c'est d'avoir beaucoup beaucoup
+beaucoup de de liberté dans ce qu'ils
+font et alors la dernière chose c'est
+que la limite à tout ça et la limite à à
+faire semblant de d'avoir cet esprit
+pour pouvoir favoriser ce cet esprit à
+votre service c'est que l'attitude n'est
+pas la compétence et qu'il y a toujours
+une limite à ça et le fait d'être
+conscient de cette limite ça vous
+évitera les critiques c'est le le fait
+de savoir que que que que vous n'êtes
+pas le meilleur à cœur de votre
+entreprise ça ça vous mettra en position
+de toujours valoriser les gens de la
+bonne façon et de laisser les gens
+pouvoir exprimer leur créativité au
+service de votre entreprise et ça veut
+dire très bien payer les gens ça veut
+leur dire donner des actions à la
+hauteur de ce qui mérite et ça veut dire
+ne surtout surtout pas être Adin sur ces
+sujetsl
+combinés parce que forcément dites-vous
+toujours que si quelqu'un d'intelligent
+travaille pas pour vous il pourra
+travailler pour quelqu'un d'autre et
+peut-être même pour votre
+concurrent et c'est là l'élément de
+guerre le plus fondamental je vous l'ai
+dit tout à l'heure le but du jeu c'est
+de gagner toutes les batailles la
+meilleure façon de gagner toutes les
+batailles c'est d'avoir les meilleurs
+soldats merci beaucoup

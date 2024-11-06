@@ -1,0 +1,2342 @@
+jusqu'à maintenant on a fait en sorte de
+créer la première version du produit à
+partir des observations qu'on a faites
+sur le marché et des conversations qu'on
+a pu avoir avec les utilisateur et on a
+fait en sorte de pouvoir traquer leur
+comportement et de leur poser les bonnes
+questions pour comprendre leurs besoins
+maintenant tout l'enjeu il va être de
+créer ce qu'on appelle un feedback loop
+donc vraiment une boucle de feedback où
+on va parler aux gens en continu et
+ensuite décider en fonction de ce qu'ils
+nous disent de ce qu'on va construire
+dans le produit au fur et à mesure
+[Musique]
+avec toutes les observations que tu fais
+l'enjeu c'est d'avoir plus d'insight un
+Insight ça se définit par une
+frustration qui est comprise par
+l'utilisateur et qui est exprimée par
+[Musique]
+l'utilisateures ins il vont te permettre
+dur constamment ton produit et d'être
+dans une dynamique où bah la résolution
+du problème est toujours de plus en plus
+forte dans cette dynamique là tu tu vas
+aller chercher de plus en plus de part
+sur ton marché pour pouvoir faire
+grossir ta boîte et être en croissance
+l'objectif de mettre en place ce
+feedback loop c'est d'arriver à trouver
+ce qu'on appelle un product market fit
+donc c'est une correspondance entre le
+produit et le marché qui fait que quand
+tu vas parler à quelqu'un qui est sur
+ton marché à chaque fois que tu vas lui
+parler de ta solution de ton produit il
+va dire ok j'achète ok j'ai vraiment
+envie d'utiliser ce truc là le temps
+qu'il faut pour arriver à cette
+situation là peut varier c'est possible
+qu' la première version de ton produit
+tu trouves un product market fit et que
+tout le monde se batte pour utiliser ton
+produit c'est possible par contre dans
+la majorité des cas il va falloir faire
+des itérations ce qu'on appelle des
+itérations donc à chaque boucle du
+feedback loop on va améliorer un peu le
+produit en fonction des des retours
+utilisateurs jusqu'à ce qu'on qu'on
+tombe sur quelque chose et qu'on a créé
+quelque chose qui intéresse vraiment les
+gens et qui va faire que dès qu'on leur
+en parle ils ont envie de d'utiliser
+c'est ce qu'on fait itérer et être en
+constante amélioration ça permet en fait
+de passer différentes étapes pour faire
+adopter son produit par le marché sur
+lequel on est c'est un concept qu'on
+définit par une courbe d'adoption c'est
+un c'est très très bien expliqué dans un
+livre qui s'appelle crossing de Kum qui
+a été écrit par Geoffrey mour et qui en
+fait explique cette théorie là qui dit
+qu'en fait pour attaquer un marché tu
+vas d'abord devoir Commencer par
+attaquer les gens qui sont ce qu'on
+appelle des innovateurs et représentent
+2,5 5 % de la population d'un marché et
+c'est les gens qui sont excités par le
+simple fait que tu crées quelque chose
+de nouveau donc en fait eux ils
+cherchent pas quelque chose de pratique
+quelque chose de bien fait dans les
+détails Léchet et cetera il cherchent
+quelque chose qui est nouveau ça c'est
+les innovateurs ensuite une fois que
+tuas tu as converti en gros ces 2,5 % du
+marché qui sont les innovateurs tu vas
+aller chercher ce qu'on appelle les
+early adopters qui sont sont 13,5 % du
+marché et qui en fait eux sont aussi
+excités par le fait que ce soit nouveau
+mais ont besoin d'un tout petit peu de
+preuve et de voir des innovateurs qui
+ont déjà commencé parce qu'il pour qu'
+pour pouvoir se dire qu'en gros c'est le
+prochain truc cool et ils ont envie
+d'être là sur le prochain truc cool ça
+c'est les or adopters ce début du marché
+là c'est vraiment des gens qui ont
+encore une fois pas besoin d'avoir
+quelque chose de léché et de de très en
+détail par contre pour aller chercher la
+catégorie suivante de la population donc
+l'urly majority donc la majorité qui
+arrive au plus tôt il va falloir passer
+un un gap qui est très important et
+c'est ça dont il parle dans le livre il
+parle de crossing de casum donc le casum
+c'est vraiment ça c'est ce ce trou qu'il
+y a entre les early adopters et Lely
+majority où en fait il va falloir
+vraiment redoubler d'effort et
+l'intensité qu'on doit mettre dans la
+résolution du problème doit être
+vraiment très forte pour passer de des
+early adopteurs à Lely majority c'est
+pour ça qu'on fait des itérations
+constantes parce qu'une fois qu'on don
+le Lely majority on continue à améliorer
+on va aller toucher la late majority et
+puis les lagards donc tous les gens qui
+sont bah peut-être un peu moins informé
+qui sont un peu plus sceptiques et qui
+du coup vont finir par utiliser le
+produit uniquement quand tout le monde
+l'utilise déjà et c'est les derniers à
+convertir sur un marché il y a deux
+choses à comprendre pour pouvoir avancer
+dans cette courbe d'adoption et faire en
+sorte de pénétrer le marché de la
+meilleure manière possible la première
+chose c'est qu'il faut distribuer plus
+fort en gros ton produit seul ne suffit
+pas une expression commune qu'on utilise
+qui est build it and the
+willcome donc si tu le crées ils vont
+venir l'acheter c'est toujours faux gen
+il faut distribuer son produit il faut
+mettre en place des canaux d'acquisition
+pour qu'il a toujours des nouvelles
+personnes qui viennent découvrir le
+produit et ça c'est un truc qu'il faut
+pas sous-estimer par contre on n'est pas
+nécessairement là pour parler de ça on
+en parle encore une fois dans l'épisode
+8 qui est l'épisode bonus de cette
+saison où on parle de tous les canaux
+d'acquisition qui existent pour combler
+ce manquel la deuxième chose c'est qu'il
+faut faire en sorte que tes users
+deviennent amoureux de ton produit il y
+a une théorie qui a été popularisée par
+le CEO d'Airbnb Brian shesky qui dit que
+c'est beaucoup plus facile pour toi
+d'avoir un produit que 1000 personnes
+aiment vraiment beaucoup plutôt qu'avoir
+un produit qu'un million de personnes
+aiment bien parce qu'en fait c'est une
+fois que tu as compris qui sont les 1000
+personne qui aiment vraiment beaucoup
+ton produit et pourquoi elle l'aime bien
+tu peux aller scaler et tu peux aller en
+fait augmenter ce nombre là augmenter
+ces 1000 personnes et les faire passer
+en un million de personnes qui sont
+amoureuses de ton produit complètement
+plutôt que d'avoir plein plein de gens
+qui aiment bien mais qui pourrai s'en
+passer ça a beaucoup plus de force en
+fait en terme d'impact le meilleur moyen
+de comprendre qui est vraiment amoureux
+de ton produit c'est peut-être pas tout
+à fait ça le terme mais mais c'est ça
+l'idée c'est de leur demander à quel
+point ils seraient déçu s'ils avaient
+plus ton produit par exemple Apple avait
+fait ça à une époque ils avaient demandé
+aux gens euh est-ce que vous seriez prêt
+à vous passer de votre iPhone et contre
+quoi vous seriez prêt à échanger votre
+iPhone dans 90 % des cas les gens
+disaient contre rien parce que l'iPhone
+était devenu vraiment indispensable et
+quand tu arrives à un niveau où ton
+produit les gens sont prêts à à ne rien
+échanger contre ne sont pas prêt à le
+perdre au point que ils veulent rien
+échanger contre
+ça c'est que tu as quelque chose de
+vraiment fort et ensuite tu fais tu fais
+augmenter ce nombre là pour arriver à ça
+et pour trouver et créer un produit qui
+a ce niveau d'intérêt de la part de ton
+marché ça ne passe que par des
+itérations il faut améliorer constamment
+écouter ce que les gens disent et
+prendre des décision sur la meilleure
+façon d'améliorer le produit au fur et à
+mesure c'est pour ça qu'encore une fois
+et j'insiste tout au long de cette
+saison sur il faut parler à tes users
+tout le temps tes utilisateurs tu dois
+être en contact permanent avec
+[Musique]
+eux qu'est-ce qu'il faut regarder à ce
+stade là quand tu as déjà un produit qui
+existe et que tu as un tracking qui est
+en place c'est que tu as une
+communication avec eux qu'est-ce qu'il
+faut regarder déjà il faut se servir des
+observations qu'on a fait avec mix panel
+ou d'autres outils sur les données
+quantitatives et essayer de s'inspirer
+et de faire des hypothèses un exemple de
+ça c'est chez coup d'État la façon dont
+on a amélioré le taux de conversion
+entre le moment où les gens s'inscrivent
+et où les gens regardent leur premier
+épisode pour donner un exemple de
+comment on prend des décisions sur ce
+qu'on va développer ensuite dans le
+produit chez coups
+d'État en fait le mieux c'est de vous
+montrer le process qu'on utilise genre
+vraiment on a tout le temps les yeux
+dans la data les yeux dans mix panel et
+en fait on regarde où sont les
+opportunités de croissance où on peut
+avoir de une action qui va amener de la
+croissance forcément donc par exemple un
+des trucs qu'on a fait récemment c'est
+qu'en fait on a regardé le Fenel de
+conversion entre le moment où les gens
+sign up où ils s'inscrivent sur la
+plateforme et le moment où ils regardent
+leur premier épisode parce que notre
+objectif c'est que le nombre de gens qui
+s'inscrivent et que le nombre de gens
+qui regardent un épisode soit le plus
+élevé possible en fait que la conversion
+entre les deux soit la plus élevé
+possible donc si je vais dans mix panel
+que je choisis un FUNEL et que je
+regarde le le signup FUNEL par
+exemple hop on voit que sur les 30
+derniers jours à peu près on a 2742
+personnes qui ont saup et on a que 25,8
+% d'entre elles euh donc 708 personnes
+qui ont regardé leur premier épisode
+après cêre après être inscrite ben en
+fait ça ça ça a quoi comme effet c'est
+que on regarde ça et objectivement on se
+dit y a quelque chose à améliorer en
+fait mon point c'est juste ça c'est
+juste de dire que en regardant la data
+on peut se rendre compte des problèmes
+qu'il y a dans le flow de notre app et
+essayer d'avoir eu des actions qui vont
+améliorer ça si on regarde en fait dans
+le temps l'évolution de ce taux de
+conversion on va voir que là il est un
+peu en baisse en plus donc on va se
+poser la question de mais pourquoi
+est-ce qu'il est en baisse est-ce que
+c'est parce que les épisodes sont moins
+intéressants il faut vraiment prendre du
+recul et se poser la question de voilà
+est-ce que c'est c'est pas forcément lié
+au produits c'est pas forcément lié
+vraiment à à à à l'expérience à des
+choses qu'on peut coder ou à des choses
+qu'on peut améliorer directement dans
+l'application dans le site web mais ça
+peut être des choses qui sont liées au
+business en général ça peut être il y a
+les vacances il y a du contexte à
+prendre en compte et cetera mais en tout
+cas le fait de pouvoir voir ce FUNEL et
+de regarder les yeux dans les yeux la
+data et de se demander mais pourquoi ce
+chiffre il est tel qu'il est et comment
+on peut faire pour l'augmenter c'est une
+très très bonne manière de prendre des
+décisions un autre truc qui est bon à
+savoir pour parler à ces utilisateurs
+constamment et et prendre des feedback
+et ensuite à partir de la donnée qu'on
+récolte et mettre des hypothèses c'est
+de savoir comment les contacter de la
+meilleure manière pour ça il y a un
+outil que j'adore mais dont vraiment je
+suis fan qui s'appelle intercom et qui
+en fait fait beaucoup de choses la
+plupart des gens connaissent intercom
+juste parce que ça permet de mettre un
+chat sur le sur un site mais en fait il
+y a beaucoup plus de puissance que ça et
+le mieux c'est que je vous montre
+pratiquement à quoi ça ressemble quand
+tu fais des observations par rapport aux
+données que tu recueilles et et que tu
+aimet des hypothèses par rapport à ça il
+y a tout le temps des moments où tu as
+besoin de parler à tes utilisateurs et
+d'engager la conversation avec eux ne
+serait-ce que pour pousser l'observation
+un peu plus loin ou pour valider une
+hypothèse que tu as émise pour ça au
+début c'est assez simple parce qu'en
+fait tu peux parler tu le connais
+peut-être tous tes utilisateurs tu leur
+parles régulièrement ça peut être sur
+Facebook sur WhatsApp enfin voilà tu as
+des canaux de conversation avec eux qui
+sont des canaux de tous les jour le
+problème c'est qu'il y a un moment où à
+force de faire des feedback loop et à
+force de faire grossir la base
+d'utilisateur de ton produit tu vas plus
+pouvoir les contacter comme ça parce
+qu'ils seront trop nombreux donc il va
+falloir utiliser des outils qui sont
+performants et qui te permettent de
+engager la conversation avec les gens de
+manière un peu plus automatique et de
+manière un peu plus efficace l'outil que
+j'utilise pour ça de manière générale
+c'est intercom intercom c'est un outil
+dont je suis complètement fan ça fait je
+pense 4 ans que je l'utilise je m'en
+suis jamais lasser et à chaque fois
+qu'il sortte quelque chose de nouveau je
+trouve ça fou vraiment c'est une boîte
+que je trouve exceptionnelle elle vaut
+1illard 275 millions de dollars ils ont
+levé 125 millions en série D récemment
+euh c'est enfin c'est une boîte qui est
+devenue vraiment solide alors bon je
+vais me faire taper peut-être un petit
+peu sur les doigts parce qu'on a une
+boîte chez the family qui s'appelle
+crisp et qui fait un outil qui est
+extrêmement similaire mais en fait c'est
+mon point sur tous les outils c'est que
+dans la plupart des cas tu vas avoir des
+alternatives qui sont aussi viables en
+terme d'outils les unes que les autres
+l'enjeu quand tu choisir un outil c'est
+de choisir c'est pas forcément de
+trouver le meilleur c'est pas forcément
+de trouver lequel est le plus efficace
+c'est vraiment de choisir parce qu'en
+fait très souvent sur un marché un peu
+concurrentiel comme celui-là qui est le
+marché du marketing automatique bah tu
+vas avoir plein d'outils différents et
+il faut juste en choisir un se mettre
+dedans et pas nécessairement en sortir à
+moins qu'il y ait une vraie raison d'en
+sortir mais j'avoue que entre crisp et
+intercom je trouve que c'est équivalent
+et le fait de devoir sortir d'intercom
+maintenant pour pour changer à crispe ça
+me paraît compliqué je pense que c'est
+c'est une réflexion autour des outils
+qui est intéressante et qui est
+importante c'est qu'il faut juste
+choisir arrêter de se poser la question
+pendant 6 mois de est-ce que je vais
+utiliser ça ou ça choisir et se mettre
+dedans maintenant pour ce qui est
+d'intercom la feature la plus connue
+d'intercom c'est celle qui te permet
+d'avoir un chat en live sur ton site en
+gros ici sur coup d'État on a une petite
+bulle en bas à droite du site
+constamment quand on est en train de
+naviguer sur le site et ça permet aux
+gens de cliquer dessus et d'engager une
+conversation avec l'équipe peu importe
+qui de notre côté ce qu'on reçoit quand
+tu écrit sur le chat c'est des messages
+directement qu'on peut assigner à
+différents à différents membres de
+l'équipe donc soit à moi soit Nicolas
+soit Thomas voilà ça c'est l'équipe
+produit euh et en fait on reçoit les
+messages donc là on a un message par
+exemple bonjour à tous quand on clique
+sur je soutiens coup d'État et ben il y
+a une faute d'orthographe il manque un e
+c'est un feedback qui est intéressant
+qui nous permet de corriger on va avoir
+des gens qui nous posent des questions
+sur leur boîes on va avoir des gens qui
+sont intéressés par une formation
+payante qu'on propose et qui vont nous
+poser des questions ça nous permet aussi
+de faire un peu de Sales donc vraiment
+ça nous permet d'avoir une porte ouverte
+sur les utilisateurs qui vont nous
+écrire directement et qu'on va pouvoir
+inviter à à nous écrire pour avoir des
+feedback qualitatifs en continu jusqu'à
+ce que ce soit intenable et qu'il y en a
+vraiment trop mais le temps d'arriver là
+on y'y est pas encore donc ça c'est la
+première feature d'intercom c'est celle
+qui permet aux utilisateurs de t'écrire
+automatiquement ce qui est trop cool
+c'est qu'en fait ça se plug à plein
+d'autres outils et que tu peux connecter
+par exemple ta page Facebook à intercom
+pour que quand les gens envoient un
+message à la page Facebook de ton
+business ça tombe dans intercom tu peux
+créer une adresse email sur laquelle les
+gens peuvent écrire et que ça tombe dans
+intercom aussi en fait en gros ça te
+permet de centraliser tous les points
+d'entrée sur lesquels les gens peuvent
+contacter ta boîte pour les mettre à un
+seul endroit et que l'équipe puisse
+gérer euh bah les conversations que tu
+puisses te passer la balle d'un membre
+de l'équipe à l'autre pour régler un
+problème différent d'un utilisateur et
+cetera et cetera donc c'est extrêmement
+performant mais ça n'est qu'une feature
+d'intercom et dans intercom il y a
+encore plus de trucs qu'on peut faire et
+pour moi le le truc qui est essentiel
+c'est de comprendre comment fonctionnent
+les profils utilisateurs et les
+propriétés qui les définissent si on va
+dans plateforme dans intercom ce qui est
+trop cool c'est qu'en fait tu peux
+dresser la liste de tous les
+utilisateurs qui utilisent ton service
+comment ça marche ça marche comme sur
+mix panel à chaque fois que quelqu'un
+s'inscrit sur le site on va envoyer dans
+le code l'information à intercom que la
+personne s'est inscrite et on va
+demander à intercom de créer un un
+compte intercom en gros pour
+l'utilisateur ça nous permet de dire ok
+là aujourd'hui on a 2062 utilisateurs
+qui sont inscrits sur coup d'État un
+jour et qui sont donc stockés dans
+intercom et où on peut retrouver la
+liste de ces gens-là ce qui est très
+puissant par rapport à tout ça c'est que
+chaque utilisateur dans intercom va
+avoir des propriétés définies qui sont
+soit défin automatiquement par intercom
+lors de leur inscription ça peut être la
+ville qui est détectée automatiquement
+en fonction de l'adresse IP
+ça va être les moments où les gens ont
+visité le site donc là on voit que cette
+personne là elle est elle est là là
+maintenant on voit que le la première
+fois où elle est venue sur le site bah
+c'était il y a 2 minutes donc ça nous
+donne des informations comme ça mais il
+y a aussi des informations custom qu'on
+peut envoyer nous-mêm à intercom pour
+définir des choses qui sont importantes
+pour le business par exemple là bon dans
+la liste il y a a a mon profil donc si
+on va sur mon profil ben on va voir
+qu'en fait il y a tout un tas de
+propriétés qui sont stocké dans intercom
+par rapport à mon profil bon l'adresse
+qui est reconnue est pas forcément la
+bonne mais par contre on va voir plein
+de choses il y a mon adresse email il y
+a mon user ID il y a la première fois
+qu'on m'a vu arrivé sur le site le jour
+où j'ai sign up le nombre de fois où où
+j'ai visité le site Le le montant de mon
+abonnement à coup d'État il y a plein de
+de propriétés en plus qu'on peut
+rajouter automatiquement en fonction de
+mon comportement sur le site par exemple
+ici on a une propriété episodes watch
+count qui est le nombre d'épisodes au
+total que j'ai regardé sur coup d'état
+bah là on voit qu'il y en a 23 on peut
+on peut voir le premier épisode que j'ai
+regardé bah c'était coup d'État
+entreprendre saison 1 épisode 2 le
+dernier épisode que j'ai regardé c'était
+coup d'Éat x saison 1 épisode 8 donc ça
+ça va nous permettre déjà de faire un
+tri en fonction des différentes
+propriétés qui sont sur un profil pour
+dresser des listes de gens qui ont fait
+des actions similaires et ça va nous
+permettre ensuite de les contacter donc
+si on retourne dans tous les
+utilisateurs et ben on se rend compte
+que donc là on a 2062 utilisateurs et en
+fait on va p pouvoir ajouter des filtres
+donc là on voit ici que on a on va on va
+filtrer sur les utilisateurs ce qui
+s'oppose au lead qui sont en fait les
+gens qui ont juste écrit dans le chat
+une fois qui sont pas forcément inscrits
+sur la plateforme qui correspondent à
+tous les filtres qu'on va ajouter
+derrière donc par exemple ici je peux
+ajouter un filtre qui va être episodes
+watch count donc le nombre d'épisodes
+qui a été regardé est plus
+grand est plus grand que 20 par
+exemple hop donc là on voit qu'il y a 46
+personnes qui ont regardé plus que 20
+épisodes sur coup d'État l'intérêt
+d'avoir cette liste c'est qu'en fait je
+peux contacter tout cette personnes là
+peut-être que cette liste est encore
+trop grande donc je vais ajouter un
+autre filtre qui est je veux que les
+gens qui se sont inscrits il y a moins
+de 60 jours par
+exemple hop là ça tombe à 6 utilisateurs
+et c'est intéressant parce qu'en fait je
+peux faire je peux émettre une hypothèse
+enfin je peux observer ça et direok ok
+comment ça se fait que ces gens sont
+inscrits à moins de 2 mois et qu'ils ont
+déjà regardé 20 épisodes et je pourrais
+mettre des hypothèses là maintenant mais
+l'avantage d'intercom c'est que ça me
+permet de les contacter directement et
+de leur dire mais alors qu'est-ce qui
+s'est passé et en fait on fait ça très
+souvent Thomas passe beaucoup de temps à
+juste prendre des segments de la base
+utilisateur de voir qui sont les gens
+les plus intéressés les plus fans de ce
+qu'on fait grosso modo et les contacts
+pour leur demander bah ce qui leur plaît
+ce qui leur plaît moins comment on peut
+améliorer ce qu'on fait et créer cet
+instinct produit qui va te permettre de
+prendre des bonnes décisions euh sans
+forcément réfléchir constamment et juste
+en en ayant cet instinct par rapport aux
+utilisateur donc ce qui est trop cool
+c'est que cette listelà elle est ici on
+a créé les filtres et en fait on peut la
+sauvegarder l'intérêt de cette list là
+c'est qu'en fait on peut euh à la fois
+voir les gens qui la composent mais on
+peut aussi sauver le segment et donc
+dire voilà je vais l'appeler euh fan
+rapide et sauver le segment et une fois
+que on a sauvé le segment et ben voilà
+je peux aller dans fan rapide et voir en
+fait la liste de ces gens-là et en fait
+tous les gens qui vont rentrer dans la
+catégorie je me suis inscrit il y a
+moins de 60 jours et j'ai regardé plus
+de 20 épisodes ils vont tomber dans
+cette liste automatiquement et donc tu
+peux revenir la consulter régulièrement
+et choisir de recontacter les gens ce
+qui est très très puissant avec intercom
+c'est ce qui suit en fait là c'est
+intéressant d'avoir la liste j'ai la
+liste de leur adresses mail et la liste
+de éventuellement leur numéro de
+téléphone si je leur ai demandé donc je
+peux les contacter
+mais ce qui est très puissant c'est
+qu'en fait je peux leur envoyer un
+message soit manuellement soit
+automatiquement donc je peux aller ici
+dans les trucs d'action par rapport à
+cette liste et dire je veux envoyer un
+message manuel à tous les gens de cette
+liste ou alors je peux leur envoyer un
+message automatique en fait c'est les
+deux features d'intercom qui sont
+vraiment exceptionnels c'est qu'elles te
+permettent de rentrer en contact
+personnellement avec un nombre de gens
+très importants on peut le faire
+directement d'ici on peut le faire aussi
+depuis les messages dans l'intercom on
+va faire ça donc ici si je vais dans ma
+manual messages on va d'abord voir
+comment envoyer un message manuel à un
+certain groupe utilisateur donc si ici
+je fais nouveau manual
+message je vais avoir le choix entre
+envoyer un message inap donc qui la
+prochaine fois que les gens vont se
+connecter sur le site en fait va
+apparaître ici va y avoir une bulle qui
+va apparaître et qui va qui va envoyer
+le message que je propose ou alors ça
+peut être une grosse fenêtre enin il y a
+différents formats que tu peux utiliser
+sur intercom ou alors je peux l'envoyer
+par email à la liste des gens que je
+vais choisir ici pour les besoins qu'on
+a je vais utiliser le truc
+inap donc par exemple ici je vais
+l'appeler message de
+bienvenue dire ok je veux que ce soit un
+post donc vraiment un gros truc qui va
+recouvrir l'écran la prochaine fois que
+la personne va se connecter et je vais
+pouvoir taper mon texte donc je vais
+pouvoir dire salut first donc là on va
+pouvoir inclure dans les messages
+d'intercom des propriétés
+d'utilisateur j'ai vu que tu avais
+regardé et là hop je peux
+inclure quelque chose comme épisode
+watch
+count et et je peux dire euh je vais
+remplacer genre donc en gros l'idée
+c'est que dans la phrase je vais pouvoir
+dire j'ai vu que tu avais regardé 23
+épisodes en l'occurrence et il faut
+indiquer ce qu'on met à la place si
+jamais la la la variable n'est pas
+remplie donc je vais mettre X en
+l'occurrence bon c'est pas c'est pas
+terrible mais c'est l'idée j'ai vu que
+tu avais regardé x épisode qu'en as-tu
+pensé
+bisous petit smile une fois que j'ai
+écrit mon message je vais pouvoir
+choisir donc est-ce que je veux
+l'envoyer comme un badge donc ça va
+juste afficher une petite notif sur le
+chat intercom la prochaine fois que la
+personne se connecte est-ce que je veux
+que ça s'affiche en en petite fenêtre ou
+est-ce que je veux vraiment que le
+message s'affiche en full en
+l'occurrence je vais utiliser ça l'idée
+ensuite c'est que tu vas devoir définir
+à qui à qui ce message va s'afficher la
+prochaine fois qu'il visite le site là
+on retombe dans la même chose que ce
+qu'on a vu dans le dans le dans le fait
+de segmenter la base utilisateur c'est
+qu'on peut ajouter des règles ici la
+règle ben on peut dire voilà je veux que
+épisode watch count soit supérieur à 20
+c'est la même chose et donc on retrouve
+encore une fois donc 46 utilisateurs on
+veut encore que le signup soit il y a
+moins de 60
+jours il y a moins de 60 jours donc on a
+les 6 personnes et donc bon je vais
+enlever ces propriétés là et je vais
+mettre une règle où je vais juste faire
+en sorte que ce soit moi
+voilà pour les besoins de l'exemple je
+vais faire en sorte que le message
+s'affiche que pour moi donc là le
+segment c'est quelqu'un qui a regardé
+plus de 20 épisodes et qui s'appelle
+Valentin Richard bon il se trouve que la
+liste contient une personne et c'est moi
+une fois que j'ai fait ça j'ai mon
+message j'ai les personnes auxquelles je
+veux afficher ce message je peux définir
+un objectif par rapport à ce message
+donc si je veux que par exemple si
+j'envoie un message qui dit tu devrais
+regarder tel épisode et ben l'objectif
+de mon message ça va être que la
+personne
+augmente le nombre de d'épisodes qu'elle
+a regardé donc je vais dire je veux que
+episodes watch count et à augmenté ou à
+baisser et cetera genre je peux choisir
+mais en tout cas en l'occurrence je veux
+que après ce message la personne regarde
+un épisode de plus et je pourrais
+ensuite avoir des stats par rapport à ce
+message qui me disent ok ça a marché
+genre 60 % des gens qui ont reçu ton
+message ont eu un une augmentation du
+nombre d'épisodes quit regarder ça me
+permet de mettre des objectifs et
+ensuite soit je peux l'envoyer à partir
+de maintenant donc immédiatement soit à
+partir seulement d'une certaine date et
+enfin je vais review mon message et je
+le set
+live ce qui fait
+que le message va partir et donc ça va
+envoyer un message manuel à tous les
+gens qui sont dans la liste en
+l'occurrence que moi donc si je vais sur
+coup d'étap.co
+hop le message s'affiche et il dit salut
+Valentin donc ça reprend mon prénom j'ai
+vu que tu avais regardé 23 bon j'ai
+oublié le mot épisode qu'en as-tu pensé
+bisous et là la personne peut répondre
+directement et ben écoute c'était cool
+et ça engage un chat et donc tu peux
+inviter les gens à la conversation mais
+tu peux aussi inviter les gens à à faire
+des choses sur ton site vraiment cette
+feature est hyper puissante ce qu'on
+vient de faire avec un message manuel
+dans l'app on peut le faire par email et
+faire en sorte que on choisit toutes les
+personnes qui ont regardé plus de 20
+épisodes et leur envoyer un email à
+toutes et du coup leur poser une
+question et il y a des stats qui sont
+faites en fonction de ça par exemple ici
+qu'est-ce que j'ai pu qu'est-ce que j'ai
+eu l'occasion d'envoyer ben voilà ici on
+voit que Thomas au produit avait envoyé
+137 mail aux gens qui avaient justement
+regardé beaucoup d'épisodes en leur
+disant salut j'ai vu que tu nous as
+rejoints depuis un moment sur le site
+j'aimerais bien avoir tes feedback en
+savoir un peu plus sur toi est-ce que tu
+aurais 20 minutes à m'accorder au
+téléphone pour discuter il y a 83 % des
+gens qui ont ouvert le
+0 % qui ont cliqué parce que
+effectivement il y a pas de il y a pas
+de de lien dans lequel cliquer par
+contre il y en a 45 % qui ont répondu et
+donc on voit les stats celui-là avait
+pas forcément d'objectif mais ça nous
+dresse des stats dans intercom qui nous
+permettent de voir la performance de cet
+email là ça c'est pour les mail manuel
+mais ce qui est encore plus puissant
+avec intercom c'est que tu peux non pas
+envoyer uniquement ponctuellement des
+mails à une liste de personnes mais tu
+peux faire en sorte que dès que
+quelqu'un entre dans une liste ça ça lui
+envoie un email automatiquement c'est le
+principe des auto messages on va voir
+juste là donc ici par
+exemple je vais pouvoir créer un nouveau
+message automatique je vais dire que je
+veux envoyer un email cette fois-ci et
+qu'en gros donc je vais mettre un sujet
+qui va être merci pour ta
+fidélité donc ici je vais écrire un
+email où je vais dire hello first name
+j'ai vu que tu avais regardé épisode
+watch count épisode ça fait hyper
+plaisir à ton avis qu'est-ce qu'on pour
+améliorer pour rendre ton expérience
+encore meilleure merci beaucoup pour ton
+temps et à très vite l'idée de ce mail
+c'est vraiment de demander un feedback
+positif ou négatif à quelqu'un qui a
+regardé beaucoup d'épisodes pour savoir
+comment s'améliorer c'est très très
+simple mais en fait c'est important et
+ensuite on peut définir une audience de
+la même manière donc vraiment là je vais
+dire tous les gens qui ont un épisode
+watch count qui est supérieur encore une
+fois 20 je reprends toujours le même
+exemple mais on pourrait faire d'autres
+choses en attendant là on a les 46
+personnes qui sont
+là on va pouvoir mettre un goal qui est
+en l'occurrence genre encore une fois
+que augmenter le nombre d'épisodes qui
+ont été
+regardés et ensuite on va pouvoir
+choisir quand est-ce qu'on l'envoie et
+l'envoyer quel effet ça va avoir une
+fois que je clique sur envoyer ce
+message ça va prendre la liste des 46
+personnes qui sont dans mes dans mes
+critères donc qui ont regardé plus de 20
+épisodes et leur envoyer ce mail
+instantanément mais comme c'est un auto
+message la prochaine fois que quelqu'un
+rentre dans la catégorie à regarder plus
+de 20 épisodes il va recevoir
+automatiquement cet email aussi ça fait
+quoi ça fait qu'en continue tous les
+gens qui vont avoir regardé beaucoup
+d'épisodes sur coup d'État on va entrer
+en contact avec eux et les inviter à
+nous donner du feedback l'intérêt de ça
+il est hyper fort parce que ça te permet
+de montrer aux gens que tu valorises
+leur feedback et que tu as envie qui
+t'en donne ça te permet de le faire
+automatiquement sans avoir à envoyer
+toi-même des mails à tout le monde à la
+main et que ça te prenne beaucoup de
+temps tu peux juste traiter les réponses
+parce qu'elles vont tomber dans le chat
+et que du coup tu vas pouvoir les gérer
+hyper simplement et avoir une
+conversation avec les utilisateurs qui
+est constante je pense que ces quatre
+fonctionnalités là c'est les plus
+intéressantes d'intercom il y en a plein
+d'autres tu peux créer un un knowledge
+Center dans lequel ça va faire une sorte
+de wiki où les gens vont pouvoir
+retrouver des infos enfin il y a
+vraiment beaucoup de choses dans
+intercom mais je pense que ces quat là
+sont importantes donc la première c'est
+de pouvoir avoir un chat sur le site qui
+va inviter les utilisateurs à prendre
+contact avec toi directement et de
+pouvoir gérer ces discussions là avec
+ton équipe directement dans l'outil
+intercom le fait de pouvoir segmenter ta
+base d'utilisateur en fonction de
+critères pour pouvoir voir la liste des
+gens qui ont fait telle ou telle chose
+le fait de pouvoir les contacter
+manuellement soit à travers l'app soit à
+travers un email pour pouvoir engager la
+conversation avec eux et le fait de
+pouvoir automatiser ce processus là et
+qu'à chaque fois que quelqu'un fait une
+action spécifique entrer en contact avec
+lui ou elle pour pouvoir engager la
+conversation ces quatre trucsl sont
+hyper puissants parce qu'il te permett
+d'avoir un lien constant avec les gens
+qui utilisent ton produit et dans le
+cadre de la mise en place d'un feedback
+loop et de l'amélioration constante de
+ton produit ça me paraît essentiel
+encore une fois intercom ça n'est qu'un
+outil il y en a plein d'autres qui
+fonctionnent j'ai parlé de crisp tout à
+l'heure il y en a d'autres je les
+connais pas tous mais en tout cas
+choisir un de ces outils là c'est
+extrêmement utile c'est des outils qui
+coûte un peu cher intercom c'est c'est
+même vraiment cher mais je pense que ça
+vaut vraiment le coup à partir du moment
+où ça te permet de créer un produit qui
+va être en constante amélioration et qui
+va servir les besoins de tes
+[Musique]
+utilisateurs quand tu parles à tes
+utilisateurs et que tu les pousses à te
+faire des feedback constamment et à te
+dire ce qu'il pens de ce que tu proposes
+et cetera il y a trois choses qu'il faut
+rechercher c'est les trois choses qui
+peuvent leur apporter de la valeur la
+valeur de manière générale tu la trouves
+toujours sous trois formes la première
+c'est gagner du temps la deuxième c'est
+gagner de l' g et la troisième c'est
+gagner de la reconnaissance sociale
+grosso modo apporter de la valeur à
+quelqu'un ça se manifeste toujours sous
+une de ces trois formes là donc quand tu
+parles aux gens tu cherches comment tu
+peux leur apporter de la valeur ça c'est
+la première chose je pense aussi qu'il y
+a un truc qui est important quand tu
+parles à tes utilisateurs c'est
+d'arriver à créer une sorte de bulle
+d'honnêteté dans laquelle les gens vont
+vraiment te dire ce qu'ils pensent pour
+ça il y a trois choses à faire la
+première c'est de les pousser
+constamment à être honnête pour les
+pousser à être honnête il faut toujours
+dire merci pour les feedback que tu
+reçois par exemple parce que si tu
+montres que tu reçois le feedback comme
+un cadeau et pas comme une menace ou une
+critique déjà ça va pousser les gens qui
+te font des feedback à t'en faire plus
+après il y a un autre truc c'est que
+pour les pousser à être honnête il faut
+rien prendre personnellement et c'est
+extrêmement difficile parce
+qu'effectivement c'est toi qui est en
+train de créer le produit et il faut
+arriver à à à se détacher en fait des
+feedback que les gens font parce qu'ils
+les font sur ton produit et pas à toi et
+on n'est pas en train de te dire que ton
+travail est mauvais on est en train de
+te dire que le produit il manque quelque
+chose ou des trucs comme ça et on te
+donne des pistes pour améliorer donc le
+mix de dire merci et de vraiment prendre
+le feedback comme un cadeau et de pas le
+prendre personnellement ça permet de
+montrer aux gens que tu attends d'eux de
+l'honnêteté et je pense que c'est
+vraiment important si vraiment tu arrive
+pas à ne pas prendre les choses
+personnellement il y a je connais des
+gens qui qui qui quand ils appellent
+leurs clients quand ils appellent leurs
+utilisateurs ils se font passer pour une
+autre personne ils disent ok j'ai été
+mandaté par une société externe qui fait
+un audit sur les clients est-ce que vous
+pouvez me dire ce que vous pensez de
+notre service et en fait bah ça te
+permet de pas prendre personnellement
+parce que tu joues un personnage donc
+c'est les critiques qu'on te fait par
+rapport à ton produit sont faites à une
+autre personne qu'à toi une personne
+fictive et ça marche franchement utilise
+la technique que tu veux mais par contre
+il faut absolument arriver à créer cette
+bulle d'honnêteté la deuxième chose pour
+créer cette bulle c'est par le paiement
+il y a pas de secret sur un produit qui
+est payant si les gens payent il y a de
+fortes chances pour qu'ils soient
+honnête avec toi parce qu'ils en veulent
+pour leur argent et c'est aussi pour ça
+que c'est important de mettre un prix
+qui est suffisamment élevé par rapport à
+la valeur de ce que tu délivres parce
+que si les gens payent un prix qui est
+trop bas ils vont pas te faire des aussi
+bons feedback que s'ils avaient payé un
+prix qui était honnête par rapport à la
+valeur que tu proposes parce qu'ils vont
+se dire bah ouais mais bon il me fait
+déjà une fleur en m'offrant un produit
+qui est qui est qui est vraiment pas
+cher par rapport à ce qu' vaut donc je
+vais pas non plus l'assassiner en fait
+c'est un problème parce que tu dois
+attendre des gens qui tend de de
+t'assassiner et qui te donne des vrais
+feedback genre c'est c'est vraiment
+l'objectif donc par le paiement ça crée
+aussi cette bulle d'honnêteté et la
+troisième chose c'est par l'amour
+existant du produit en fait tu te rends
+compte assez vite que les gens quand ils
+aiment vraiment ton produit et quand ils
+sont vraiment contents de ce que tu
+proposes et ben si tu fais n'importe
+quoi et que tu modifies le produit dans
+le mauvais sens ils vont être honnête
+avec toi ils vont dire ah mais moi
+j'adorais avant comment ça se fait que
+c'est plus le cas maintenant ils vont
+vraiment venir vers toi et l'objectif
+c'est de les encourager à faire ça et en
+faisant ces trois chosesl tu arrives à
+créer cette bulle d'honnêteté qui est
+extrêmement importante parce qu'elle te
+permet d'avoir des bons feedback et de
+les recevoir correctement en même temps
+que tu fais ça que tu prends des
+feedback utilisateurs et que tu es tout
+le temps en train de leur parler et que
+tu essayes de les rendre les plus
+honnêtes possible et de les inviter à
+l'honnêteté faut pas oublier de
+continuer à vendre et à pousser comme je
+disais il faut distribuer mais je pense
+que chaque occasion que tu as de
+discuter avec un utilisateur c'est une
+occasion que tu as de lui vendre quelque
+chose en plus ou de lui faire amener un
+ami à utiliser ton produit aussi et en
+tout cas à participer à la croissance de
+ta boîte je pense que c'est c'est
+vraiment important de faire ça tout le
+temps constamment pourquoi parce qu'en
+fait il y a un principe qui est très
+important quand tu es dans un dynamique
+de feedback loop c'est que le cash
+l'argent que tu gagnes doit driver les
+améliorations produits et pas l'inverse
+ce dire que tu vas améliorer ton produit
+donc les gens vont plus acheter c'est
+toujours une erreur et c'est une erreur
+que Pierre le CEO de flat a faite et il
+s'en est rendu compte et j'ai été lui
+demandé un peu comment ça s'était passé
+et il m'a expliqué qu'en en fait post
+product market fit c'est très compliqué
+parce qu'il faut arriver à dire non et à
+prioriser les bonnes choses et surtout
+prioriser les bonnes choses par rapport
+au business donc les choses qui
+rapportent de l'argent on va aller voir
+ce qu'il en
+[Musique]
+dit salut pierre salut ça va B oui et
+toi ça va super to le CEO de flat je su
+le CEO de flat ouais on a créer le
+google doc de partitions de musique donc
+c'est vraiment un site web très simple
+d'utilisation rien à installer très
+intuitif euh où tu peux collaborer en
+temps réel à plusieurs sur guitare de la
+tableature de la partition plus
+classique de la partition de jazz tout
+ce qui est ce qu'on appelle les lit
+sheat et cetera euh et tout ça en temps
+réel en ligne et puis après on s'est
+diversifié donc tu peux nous trouver sur
+mobile Android Apple et cetera comme
+après bah dans différentes verticales du
+marché comme l'éducation le learning ou
+même de plus en plus la consommation
+aujourd'hui ok moi j'aimerais bien qu'on
+se concentre aujourd'hui sur le le la
+façon dont vous itérez sur votre
+des améliorations à votre produit
+comment vous parlez à vos utilisateurs
+en fait pourah comprendre ce dont ils
+ont besoin aujourd'hui c'est quoi le
+est-ce qu'il y a un process comment vous
+faites historiquement et ce qu'on fait
+toujours aujourd'hui même si on on s'est
+un peu modéré pour pas y passer trop de
+temps on a toujours eu un discours très
+on est là pour vous vous pouvez nous
+parler quand vous voulez c'estàdire tu
+as quelque chose à dire c'est dès le
+mail de bienvenue reply et parle-nous tu
+vois et cetera et donc certains
+testaient disaient c'est vous êtes un
+robot non je suis j'ai des sentiments et
+je suis prêt à écouter tout ce que tu as
+à me dire donc ça en fait bah même si
+évidemment heureusement même tout le
+monde ne nous répond pas aujourd'hui on
+a trop de gens sur la plateforme on
+pourrait plus ça fait qu'en fait bah on
+a plein de gens qui disent ok ça
+j'aimerais bien que ce soit différent ça
+ça me plaît pas ça j'aimerais
+l'améliorer et cetera et cetera donc
+évidemment dans le lot on trie il y a
+des trucs qui bon bah sont pas
+réalisables à court terme il y a des
+trucs qui sont complètement idéalistes
+pas besoin de faire tout ça euh et donc
+on va on va capitaliser on va noter et
+puis après selon la pertinence par
+rapport à ma vision et comment chacun
+chaque associé chaque employé la déploie
+on voit et on décide si on a envie de
+s'aventurer là-dedans ou pas donc
+évidemment au tout départ c'était une
+position de luxe pour nous parce que
+c'està-dire que notre map de dev on
+était quand même quatre associés dev
+était complètement défini par les
+retours utilisateurs j'ai envie de ça
+j'ai envie de C donc comme le produit
+était il y avait tout à faire c'était
+assez simple ok cette semaine on va
+faire ça on va faire plaisir à je sais
+pas 40 mecs et évidemment on appliquit
+cette règle de dire que pour une
+personne qui nous parle il y en a entre
+10 et 20 qu' on pas osé nous envoyer un
+message et on essayit comme ça de garder
+une échelle un peu près cohérente par
+rapport à la taille de la de la de la
+communauté donc au début c'était bien
+pendant 2 ans ça s'est passé comme ça où
+c'était vraiment produit produit produit
+produit et on a arrivé comme ça là
+aujourd'hui maintenant que le produit
+est mature on va avoir une position un
+peu plus différente c'estàd qu'on garde
+cette écoute on capitalise dessus c'est
+juste qu'on va pondérer aussi avec la
+notion de valeur ajoutée sur est-ce que
+c'est une fature que les utilisateurs
+ont envie de payer pour il sont prêts à
+payer pour et est-ce que c'est une
+fonctionnalité qui est exigée ou pas par
+des utilisateurs payants on va commencer
+à sainder les deux et voir à qui on va
+faire plaisir en premier donc évidemment
+dans une logique de faut vivre la boîte
+doit vivre la boîte doit se développer B
+on va quand même prioriser tout ce qui
+peut amener sur du court terme de
+l'argent pour ensuite aller mieux servir
+l'intégralité de la communauté quoi ok
+donc là aujourd'hui donc il y a ce mail
+de de bienvenue en gros pour créer un
+cette cette bulle d'honnêteté et faire
+en sorte que les gens se sentent à
+l'aise de vous donner des feedback vous
+faites quoi d'autre bah après ça va être
+ça va être tu vois dès qu'on va annoncer
+quelque chose publiquement c'est sur le
+blog dans un mail newsletter ou même
+dans ce qu'on appelle les produs top de
+qui vont être sur mobile push
+notification ou sur le site web une
+petite pop-up en haut on va dire mais
+vous avez un feedback ça ne vous
+convient pas ou juste vous aviez envie
+d'autre chose dites-le nous et comme ça
+comme ça comme ça après bon ce que je te
+dis là c'est de c'est de moins en moins
+vrai
+pas qu'on le fasse plus mais on va
+inciter un peu moins les gens à venir
+nous parler pour forcer vraiment du
+feedback qualitatif sinon le travers
+dans lequel on est tombé il y a il y a 6
+mois c'était 200 messages par jour euh
+sur des petites équipes comme la nôtre
+euh c'est plus viable c'est si chaque
+personne de l'équipe passe la moitié de
+sa journée à répondre ce qui est très
+bien euh on est un centre de support on
+est plus une boîte qui est en train de
+se développer d'essayer d'aller de
+l'avant donc évidemment un message qui
+dit c'est de la bas je vous aime on le
+prend et on dit merci on envoie des
+cœurs il faut aussi comprendre que bah
+on peut on peut plus non plus inciter
+tout le monde à nous envoyer ce genre de
+message Metz plus les call to action
+genre écrivez-nous ça fait qu' on les
+met mais par contre tu vois dans
+l'application on va pu dire tui tuas un
+petit feedback écris-nous tu vois ça par
+exemple le chat a été supprimé de flat
+récemment euh parce qu'on s'est rendu
+compte que en tout cas sur nos users on
+fait du B2C donc il y a énormément de
+personnes euh le fait d'avoir un chat
+pour un oui ou pour un non les gens
+venaient nous parler mais des fois c'est
+juste ils avaient juste à cliquer sur
+aide taper leur recherche ils avaient la
+même solution le fait d'avoir un chat
+d'avoir ce sentiment de proximité
+faisait que les personnes préféraient
+nous écrire ce qui est bon légitime mais
+nous en face bah vu comment le business
+est organisé en terme de combien il paye
+et combien on gagne on peut pas non plus
+répondre à tout le monde c'est-à-dire
+que dès qu'on leur disait bah il y a
+l'aide ici ah oui tiens j'aurais dû
+regarder bon là un moment on s'est dit
+tiens c'est bizarre et en fait on a
+commencé à comparer la qualité de ce
+qu'on recevait par chat et la qualité de
+ce qu'on recevait par email et on s'est
+dit bah en fait le chat va devoir à un
+moment partir quoi ça change rien dans
+la logique et l'état d'esprit c'est
+juste que bah plutôt que de se dire pour
+un qui nous écrit il y en a 20 qu'on pas
+osé bah c'est peut-être 1 %. ou 1 pour
+200 enfin c'est selon les sujets
+évidemment et l'intensité que le mec a
+mis dans le message quoi s'il est
+survénère on se dit bon là ils sont
+peut-être plusieurs à être survenère
+quoi mais on garde cette dynamique là
+cette logique là c'est juste qu'on
+incite un peu moins à venir nous parler
+pour qu'on puisse vraiment rester quali
+sans trop non plus perdre du temps et
+continuer de délivrer hyper rapidement
+et augmenter nos revenus évidemment ok
+ouais donc il y a une priorisation de
+toutes les tâches qui vont être liées au
+bas du FUNEL quoi tu vas vraiment aller
+chercher tout ce qui est revenu tout ça
+et comment vous décidez de créer des des
+nouvelles branches complètement votre
+produit parce qu'à la base donc de
+partition maintenant on parle
+d'éducation ouis il y a tout l'aspet
+éducatif à quel moment vous vous êtes
+dit ok on va on va faire une autre
+branche quoi euh bah l'éducation ça a
+été particulier c'estàd qu'on l'a un peu
+subi au début aujourd'hui on s'épanoui
+dedans on s'éclate mais au début on l'
+un peu on l'a un peu subi c'estàdire on
+avait une masse de users qui
+grossissaient qui utilisaient et cetera
+et avec des des demandes qui étaient pas
+du tout en accord
+avec comment on voulait créer ce produit
+et on se disaittin c'est bizarre ils
+veulent tous faire une recherche dans la
+librairie personnelle de partition par
+exemple je disais mais c'est pas
+possible qui en si peu de temps peut
+créer 300 partitions soit le mec est
+hyper vénère et c'est un compositeur fou
+mais à l'époque l'état actuel du produit
+faisait que ces gens-là n'auraient pas
+été chez nous et je me disais mince euh
+et on commence à parler en fait ils
+étaient profs et on se disait ah donc
+vous êtes profes c'est quoi vos besoins
+euh et on discutait avec eux et à un
+moment on s'est dit bon bah on peut-être
+leur faire un produit en fait et on leur
+a fait un produit et ils ont commencé à
+l'utiliser ils ont commencé à basculer
+sur ce produit-là et cetera on a
+capitalisé sur tous nos acquis et on a
+juste refit un peu le packaging je
+dirais mais c'est comme ça qu'on est est
+dû à commencer après il a grandi il a
+mûri on a structuré des gens dessus
+pendant un moment pour le développer
+pour le maturer et cetera là on revient
+dessus aujourd'hui pour aller plus loin
+parce que bah on a on atteint des
+nouvelles étapes que ce soit en revenu
+que ce soit en taille d'équipe et cetera
+ok mais c'est c'est vraiment voilà on l'
+on l'a subi au travers de feedback si on
+avait pas eu cette discussion avec nos
+utilisateurs je pense qu'on aurait été
+un peu en train de pagayer à
+contrecourant quoi on aurait essayé de
+forcer des futures un usage qui est
+différent du bon quoi c'est intéressant
+parce que dans dans l'épisode 1 de cette
+saison on parle de du fait que tu dois
+choper un peu toutes les opportunités
+qui passent pourouver un produit qui est
+intéressant car pour les gens en tout
+cas et et là maintenant tu c'est une
+autre phase genre tu dois penser
+différemment ouais ouais ou ouais
+carrément c'est une autre phase
+c'està-dire qu'il faut
+enfin je sais pas si toutes les
+start-ups ont comme nous cet afflux
+d'opportunités qui sont à peu près sur
+le papier tous viables euh parce que
+nous tu est dans une vieille industrie
+donc le learning apprendre la musique
+c'est pas un truc nouveau c'est un truc
+vieillissant pas sexy l'éducation bon
+même si ça c'est un peu cassé la gueule
+l'éducation de l'école l'éducation de la
+musique à l'école euh ça revient très
+fort tuas tu as les gafas qui poussent
+énormément dessus et cetera ça ça ça se
+démocratise énormément donc tu vois Bou
+on a déjà deux marchés ou bah si tu fais
+un minimum de mat tu dis ok il y a de
+l'argent à gagner mais en plus on a
+historiquement ce le pourquoi la
+problématique à laquelle on voulait
+répondre en démarrant ce trucl qui était
+de dire la compo à plusieurs elle est
+difficile et un outil plus simple pas du
+tout avancé abordable en terme de prix
+et d'expérience utilisateur ça peut
+casser la baraque euh bah il est là
+aussi et il plaît aux gens après on a
+juste qu est un peu tout ça bidouiller
+pour aller chercher d'autres verticales
+donc
+ouais il faut il faut on les a capté on
+les comprend on continue d'apprendre en
+discutant avec nos users on comprend
+toujours un peu mieux le marché ces
+problématiques les les les les
+challenges et mais par contre ouais il
+faut pas juste faire des petits saut de
+puce dans tous les sens mais faut rester
+consistant faut rester dense et se dire
+ok ça si je structure ça et que ça me
+rapporte de l'argent je peux financer le
+suivant parce que on n pas dans une
+dynamique en tout cas nous on on est pas
+sur du venture où on a de l'argent qui
+arrive et on peut financer la nextep au
+travers de l'argent pris en en
+investissement quoi en d' augmentation
+de capital donc on est obligé de
+d'avancer en fond propre et donc bah là
+ça te force à être structuré tu peux pas
+enfin tu peux si tu as beaucoup de
+chance ou si la demande est tellement
+forte qu'en fait même si ton offre est
+pas hyper adaptée il y a suffisamment de
+gens qui payent pour c'est pas notre cas
+donc bah il faut rester danse tu prends
+les la step 1 ok donc nous c'était
+l'éditeur pour les les
+individus un par un ils sont prêts à
+payer on s'en rend compte en fait en
+fait on sert la vis on dit ok bah
+maintenant soit tu payes soit tu peux
+vraiment pas beaucoup l'utiliser et
+basta et en fait on on a flippé dessus
+mais en fait bah les gens payent ils
+sont prêts à payer ils ont pas envie de
+partir et bom tout de suite les revenus
+bah c'est c'est radical sur des sur
+enfin tu vois sur des volumes
+d'utilisateurs à échelle comme nous tout
+de suite bah on fait x 5 en ru tu vois
+et bom x 5 puis bah là ça change
+d'échelle mais au moins ça te force à
+être très très factuel et te dire ok
+j'avance oui mais parce que je me suis
+donné les moyens d'avancer quoi j'y vais
+pas en mode
+allez il y a toujours un peu de sa passe
+ou sa casse mais plus tu grossis et nous
+tu vois aujourd'hui on on est
+suffisamment gros pour se dire bon on
+peut pas non plus faire tout et
+n'importe quoi parce qu'on a on a une
+responsabilité vis-à-vis de notre
+communauté on a une responsabilité
+vis-à-vis des gens qui qui qui nous
+utilisent au quotidien et on peut pas
+péter une durite et allez les gars on a
+tout changé parce qu'on a envie de faire
+un abétess quoi là bon tu peux pas non
+plus te permettre de faire ça quoi donc
+ouais tu es forcé au focus tu es forcé à
+être consistant dans ce que tu fais il y
+a un mix de parler aux gens un peu
+continuellement et trier ce feedback là
+pour avoir que les plus pertinents
+observer la data et du coup ça ça te
+permet si tu le fais constamment sur un
+sujet précis de choisir ce que tu vas
+développer ensuite ouais ouais je pense
+que tu tu tu développes tu vas
+développer une une vraie culture de ton
+sujet qui fait que tu vas pouvoir
+imaginer et en tout cas si on se dit que
+c'est de l'intuition ALIR des intuitions
+qui sont bien plus fiables que d'autres
+quoi à chaque fois tu vois pour
+l'instant je me gourre pas c'estàd j'ai
+une intuition on fait ça ça je confronte
+aux associés je dis voilà j'ai réfléchi
+à ça voilà ma la façon dont j'ai
+réfléchi à pour arriver à cette idée là
+qu'est-ce que vous en pensez ah ouais
+c'est logique effectivement bien vu bon
+vas-y on tend tu vois l'intérêt d'être
+tout le temps connecté au terrain au
+business ouais ouais tout le temps tout
+le temps d'accumuler tu vois et après tu
+et c'est pour ça qu'en fait de plus en
+plus je me dis ok si je veux faire la
+même chose sur notre prod d'éducation
+par exemple ça veut dire que je vais
+devoir passer du temps le nez dans le
+sujet en opérationnel à la discussion
+plus que ce que je fais aujourd'hui en
+tout cas cas et et d'arriver ça ou alors
+je structure une équipe avec des gens
+qui passent tout le temps et évidemment
+moi j'ai quand même accumulé des
+connaissances dans le temps et qui me
+confrontent et qui me disent bon voilà
+on a consacré 10 he sur le sujet voilà
+notre sensation qu'est-ce que tu en
+penses et moi en fait j'ai juste
+économisé ces 10 heures de réflexion et
+après j'accumule le fruit de leur
+travail et je dis bon bah en fait on
+part à droite on part à gauche on va
+tout droit et cetera et cetera mais ça
+encore une fois c'est driv c'est driv
+par ta communauté et ça doit être
+évidemment
+drivé aussi par les revenus tu es
+capable de générer quoi parce qu'il faut
+il faut il faut vraiment construire un
+truc pin dans le temps quoi gagner de
+l'argent grossir il a un moment où tu es
+bloqué ououais pu puis c'est surtout
+qu'en plus tu vois par exemple sur l'du
+bon qui traîne tu vois notre prod
+d'éducation on voulait refaire tout pour
+fin mars et cetera on a rien fait ça
+nous empêche pas de le vendre je
+continue de le vendre évidemment bon bah
+les feedback s'accumulent c'est toujours
+les mêmes on le sait dans un sens ça ça
+nous conforte dans l'idée que bah tout
+ce qu'on on s'était dit mais en fait on
+augmente notre base de user payant donc
+les feedbacks sont calis les mecs ont
+payé et tu vois c'est pas juste des mecs
+qui sont passés qui ont vu de la lumière
+et ça montre juste qu'en fait on peut
+continuer de le vendre il faut pas non
+plus se stresser et se dire on doit
+faire le produit avant d'aller leur
+demander plus d'argent aux gens tu vois
+demandeleur de l'argent ils sont engagés
+dans le truc si si les gens se sentent
+écoutés et que leur feedback est
+valorisé et effectivement à un moment tu
+tu remplis ta promesse de dire c'est bon
+j'ai fait le tafà ce qu'on vous a promis
+bah c'est c'est tout banco quoi mais la
+priorité c'est ça reste l'argent quoi et
+je ce que je disais un petit peu l'année
+dernière mais là encore plus quoi je
+comprends de mieux en mieux le fait que
+ces revenu qui doivent vraiment driver
+tout ça quoi en tout cas qui doivent te
+donner le cadre de positionner les
+bonnes personnes à droite ou à gauche
+pour faire encore plus de revenus donc
+tu vas pouvoir financer mieux ton
+produit et donc avoir plus de gens qui
+utilisent et cetera et cetera et cetera
+et ça veut pas enfin être focus sur
+l'argent ça veut pas dire que tu es pas
+là pour aider les gens Infiné c'est
+juste un moyen d'aller plus de gens et
+de pouvoir faire gr sur ta boîte au
+final ouais ouais bah c'est c'est enfin
+d'être focus sur le sujet ça ça te
+permet vraiment d'être dans une position
+saine en fait donc à partir du moment où
+tu es dans une position saine vis-à-vis
+de ta communauté vis-à-vis de ton
+produit et vis-à-vis de ton tes équipes
+euh la conséquen irrémédiaable de tout
+ça c'est-à-dire que si si ça fait
+plaisir à ta communauté ton produit va
+grossir en terme d'utilisateur en tout
+cas dans le bit2c euh donc bah tu auras
+plus de de clients potentiels si dans
+ces gens-là tu as capitalisé sur ce qui
+ils avaient envie de payer pour tu
+finances donc après tu vas pouvoir
+embaucher des gens pour améliorer ton
+produit l'emmener plus loin donc tu
+risques soit de convertir plus de gens
+soit en faire venir des nouveaux tu
+grossis ta communauté et cetera et le
+cercle est hyper vertueux là aussi tu
+fais l'inverse
+ou tu tire ton produit et ton produit
+est censé tirer tes tes tes revenus donc
+ça peut marcher c'est juste que l'effort
+à fournir sur le produit va être
+beaucoup plus fort que l'effort que tu
+tu aurais à fournir pour faire remonter
+un tout petit peu tes revenus la
+frontière est mince c'estàdire que de
+convaincre les gens de payer si sur des
+rapports d'échelle chez nous en tout cas
+si si tu vois ça joue pas grandchose
+nous ça s'est joué à deux trois
+ajustements et tout de suite on on
+convertit 5 fois plus mais convertir 5
+fois plus à notre échelle ça veut dire
+que tout de suite on peut financer
+beaucoup plus de belles choses pour tout
+le monde alors que si on avait dû faire
+l'inverse et qu'on s'était serré la
+ceinture pour développer les belles
+choses déjà on aurait pas été convaincu
+qu'on allait vendre plus mais en plus on
+aurait fait un effort Passin sur nous en
+tant que fondateur ou même que ce soit
+un employé tu vois d allez travail 45 he
+mec parce que on risque de gagner un peu
+plus de sous c'est pas hyper excitant
+pour personne en tout cas pour pour pour
+l'employé ou pour le le fondateur et
+donc du coup bah tu te fatigues tes
+revenus vont peut-être monter un petit
+peu mais comme tu as eu la mauvaise
+approche la mauvaise réflexion bah tu
+passes peut-être à côté de beaucoup de
+revenus qui t'aurait permis de faire une
+future de meilleure qualité et cetera
+donc générer plus de revenus ou pas
+selon tes tes décisions stratégiques
+quoi ok génial merci beaucoup je t'en
+prie donc on se rend compte que la
+manière de prioriser les choses qu'on va
+créer pour améliorer le produit elle
+change au fur et à mesure du temps et
+surtout elle change entre le moment où
+tu es avant product market fit et le
+moment où tu es après product market fit
+mais au final les techniques pour créer
+des nouvelles fonctionnalités pour
+lancer des nouveaux produits et cetera
+elles sont toujours les mêmes dans le
+temps Paul de fredling qui nous avait
+parlé de comment ils avaient fake it
+until you make it pour leur premier
+produit continue à utiliser cette
+technique là avec ses clients actuels
+c'est c'est un un modèle d'itération que
+vous utilisez encore maintenant oui
+genre tu as des exemples de ce que vous
+faites maintenant alors que finalement
+vous avez quand même vous avez levé
+combien en tout maintenant alors on a
+déjà levé 11 millions d'euros et on ça
+sera annoncé dans les prochaines
+semaines mais on est en train de relever
+25 millions d'euros en Série B ok donc
+là enfin vous êtes plus au petit de
+cette attente en startup à coder dans
+votre coin ça devient ça devient sérieux
+et pourtant vous utilisez toujours ces
+méthodes là d'itération de montrer des
+choses qui existent pas encore h HM vous
+l'avez fait récemment oui on l'a fait
+récemment et et même si maintenant bah
+on a un produit on a un modèle qu'on
+déploie chez de plus en plus de clients
+en France et et demain en Europe
+puisqu'on ouvre la Belgique l'Allemagne
+l'Italie l'Espagne donc on est en train
+de se déployer en Europe on utilise
+toujours cette méthode pour finalement
+pour limiter les risques mais pour
+limiter les risques à l'époque c'était
+pour limiter les risques purement liés à
+fredlink on voulait pas payer quatre
+développeurs pendant 6 mois pour
+développer des futures dont dont dont on
+aurait pas forcément besoin aujourd'hui
+c'est pour diluer du risque à la fois
+chez nous chez fredl mais à la fois chez
+le client euh aujourd'hui ben je je peux
+don un exemple parce que j'étais ce
+matin chez Proctor et Gumble qui est un
+de nos plus gros clients en train de de
+de de de parler du développement des
+futurs futures et cetera et on est en
+train de se poser la question de
+développer un stack de future orienté
+data outil d'aide à la décision
+recommandation opérationnelle pour le
+client et on est en train de se poser la
+question de de la manière de de de de
+construire ce stack et on avait soit la
+possibilité de mettre 5 si développeurs
+pendant 6 mois dessus et de développer
+tout le stack mais en itérant dessus
+petit à petit soit enfin mais mais en
+tout cas d'investir directement pour le
+codé endure soit d'utiliser des
+outils en bootstrap pour essayer de de
+déjà tester l'idée voir si les
+recommandations étaient pertinentes et
+s'il y avait de l'avenir dans dans cette
+idée plutôt et de prendre eux des
+engagements chez eux puisque du budget
+validation évidemment ça implique des de
+la bande passante en interne chez eux et
+du budget et chez nous de payer des
+développeurs pour travailler sur des
+nouveaux produits ou des features
+alors qu'on a pas vraiment la la
+garantie que ça y a du roi il y a une
+vraie valeur ajoutée à les apporter ces
+features et donc on a encore maintenant
+sur cet exemple là décider d'utiliser
+des outils en bootstrap pendant un mois
+ou deux pour simplement déprocher
+démontrer une approche héroïste et
+démontrer qu'il y avait de la valeur
+dans ce qu'on était en train de
+développer et dans 2 mois on fait le
+point avec eux si c'est bon et ben on
+fera le développement et eux
+s'engageront d'ailleurs à payer une
+partie du développement de ces
+fonctionnalités et donc là pour le coup
+vous leur avez pas c'était pas fake un
+quoi vous leur avez dit clairement on va
+le vous strapper avec des outils et et
+on va voir ce que ça donne ou vous avez
+quand même fait croire que là pour le
+coup on travaille en toute transparence
+et différent au début on était quatre
+dans la cuisine de ma tante et le
+moindre signe de faiblesse là on a envie
+de se faire plus gros que le bœuf et
+dire oui oui on a des gros investes on
+est en train de se déployer partout dans
+le monde le produit sort la semaine
+prochaine vous inquiétez pas j'ai 15
+développeurs qui travaillent dessus
+alors qu'on est quatre dans une cuisine
+et qu'on a encore rien fait donc là on
+est obligé de faker là c'est différent
+ça fait 18 mois qu'on bosse avec
+proccteur on est dans dans une dans une
+relation de confiance et c'est
+simplement de leur expliquer que on a
+pas envie eux de leur faire prendre trop
+de risque et d'investir dans des
+solutions dont on sait pas forcément si
+elles ont une valeur derrière et que
+nous on n' pas envie d'investir non plus
+dans une équipe pour développer des des
+des choses dont on n'est pas sûr donc
+maintenant c'est plutôt une discussion
+en toute transparence et de et et on est
+en train de de de alors ça serait un peu
+prétentieux de dire d'apprendre le
+modèle startup à procctter parce que je
+trouve que c'est une société qui pour le
+coup nous a beaucoup impressionné
+là-dessus ils sont très dans l'itération
+très dans le dans le dans ils aiment
+tester des choses ils sont assez
+innovants et donc on a on a pas trop pas
+grand chose à dire là-dessus mais on les
+a vraiment mis dans un mode start-up et
+nous on légitime bah ce mode de
+développement et je pense que en sont
+vraiment convaincus
+aussi non seulement parce que nous ça
+nous permet de de prendre moins de
+risque mais aussi se rendre bien compte
+que de leur côté avant de de nous faire
+un chèque pour payer le développement
+pucequon leur demande d'en payer une
+partie bah vaut mieux être sûr pour pour
+avant de de commencer le développement
+donc on est on se retrouve maintenant
+même si c'est un énorme corporate et une
+start-up on se retrouve vraiment dans ce
+modèle puisque finalement c'est plus
+safe pour eux c'est plus safe pour nous
+et à la fin on on s retrouve tous les
+deux donc on est en toute transparence
+ouais ça a du sens ouais et avec le
+recul ce que vous avez fait au début
+c'està-dire te faire plus gros que le
+buf tu penses que tu aurais pu ne pas le
+faire ou c'était nécessaire non je pense
+que c'est complètement nécessaire il
+t'aurait pas cru quoi ça aurait été ça
+aurait été impossible c'est c'est on a
+du mal à à croire ce qu'on a fait ces
+trois dernières années passage de 0 à 1
+million à 15 millions de chiffrre
+d'affaires par an en 3 ans cette
+croissance nous on espérer mais déjà
+qu'elle est c'est c'est dur à imaginer
+déjà pour nous je pense que de toute
+façon n'importe qui qui n aurait vu à 4
+dans une cuisine au début sans
+investisseur sans produits de toute
+façon on a beau dire mais si si je vous
+jure c'est nous le le prochain la
+prochaine licorne européenne et c'est
+nous le prochain leader du secteur euh
+non pas que il le metent complètement en
+doute mais il y a pas grand-chose au
+début donc ils ont forcément du mal à y
+croire donc il faut réussir au début à
+trouver un peu les les les les les
+petits tips les petits il faut être
+malin un peu au début pour pour que la
+première personne vous fasse confiance
+c'est comme en boîte ah non vous êtes
+pas VIP comme dirait g mal vous êtes
+c'est une soirée VIP vous rentrez pas
+mais laissez-moi rentrer une fois
+peut-être qu'une fois après une fois ou
+deux je serai VIP et je pourrais rentrer
+donc c'est pareil c'est on vous donne
+pas de contrat si vous avez pas déjà
+travaillé avec des clients dans le
+secteur bah oui mais si si à un moment
+donné on peut pas commencer donc il faut
+être un petit peu malin pour aller
+chercher les références au début aller
+chercher la crédibilité finalement c'est
+pour ça qu'au début il s'agit pas de
+gagner de l'argent sur ses premiers
+contrats absolument ou de ou de il faut
+simplement avoir la crédibilité montrer
+à des acteurs du secteur qu'on est un
+acteur pertinent et qu'on est le bon
+acteur pour pouvoir transformer le
+secteur et donc il faut être un petit
+peu malin pour le faire et puis une fois
+qu'on a des références et qu'on a montré
+qu'on est le bon acteur on est dans une
+relation de confiance avec nos clients
+et le discours change complètement
+puisqu'on est entre guillemets du même
+côté de la table à ce moment-là 2 ans
+plus tard comme c'est le cas avec
+Proctor ok bah trop cool merci beaucoup
+et ben merci à toi la conclusion de ça
+c'est quoi la conclusion c'est que tout
+ce que tu peux vendre mais qui n'existe
+pas encore c'est ce que tu dois
+construire parce que c'est ce qui va
+amener du cash dans ta boîte et il y a
+pas de secret il a un moment où si tu
+veux faire grossir ta boîte et si tu
+veux faire grossir le mouvement et être
+amené à créer un meilleur produit qui va
+pénétrer le marché plus en profondeur il
+faut que tu arrives à générer du cash
+donc il faut prioriser tes actions un
+dernier truc à savoir quand on parle à
+ses utilisateurs une fois que le Produit
+est créé c'est que je pense qu'il faut
+leur présenter un peu les hypothèses que
+tu as les hypothèses que tu as émises en
+fonction des observations que tu fais
+pour voir un peu leur réaction et ce que
+tu cherches dans ces cas-là c'est une
+excitation réelle quand les gens te
+disent wouah c'est trop bien ça sort
+quand là tu as quelque chose de réel et
+tu as quelque chose où dont tu peux
+tirer quelque chose intellectuellement
+parlant et en terme de décision tout ce
+qui est de l'ordre de c'est intéressant
+ouais j'aime bien pourquoi pas et cetera
+c'est des feedback qui sont faux genre
+tu peux partir du principe que il
+correspondent à un nom en fait il
+correspondent à un nom ça m'intéresse
+pas et je pense que c'est important
+aussi de prendre ça en compte parce que
+si tu veux parler à tes utilisateurs et
+comprendre de quoi ils ont besoin pour
+améliorer ton produit il faut pas
+écouter les les mauvais feedback les
+mauvais feedback c'est ceux qui sont pas
+vraiment émotionnels vraiment vraiment
+fort finalement une fois que tu as
+compris ce que les gens voulaient que tu
+leur as parl que tu leur as expliqué tes
+hypothèses que tu leur as peut-être
+montré des maquettes que tu leur as en
+tout cas fait comprendre quelle était ta
+ton intention il va falloir passer à la
+définition des problèmes qu'ils ont et à
+comment résoudre ces problèmes concret
+[Musique]
+pour ça je pense qu'il y a quelque chose
+qui est très important et qu'il faut
+jamais oublier c'est qu'il faut créer
+des expériences pour créer des
+expériences quand tu vas améliorer ton
+produit il faut toujours te poser la
+question du contexte dans lequel ton
+utilisateur va évoluer au moment où il
+va utiliser ton produit pour définir un
+contexte il y a que 5 questions à se
+poser mais il faut tout le temps se les
+poser c'est qu'est-ce que je propose
+concrètement quand est-ce que
+l'utilisateur va utiliser mon produit où
+ça comment et avec qui grosso modo avec
+ces cinq questions tu peux vraiment
+comprendre le contexte dans lequel
+l'utilisateur évolue quand il utilise
+ton truc ce contexte là va te permettre
+en fait d'imaginer une solution et
+d'imaginer une vraie expérience un vrai
+ce qu'on appelle un flow utilisateur qui
+va te permettre de pas créer quelque
+chose qui est juste une solution mais
+qui va être vraiment inclus dans la vie
+de la personne un autre concept à
+prendre en compte quand tu imagines des
+solutions et que tu crées des hypothèses
+dans ta tête par rapport à ce que les
+gens t'ont dit c'est l'addiction loop
+l'addiction loop c'est un concept qui a
+aussi été écrit par near EAL qui avait
+fait la matrice de manipulation dont on
+a parlé dans l'épisode 2 qui dit qu'en
+fait dans un produit tu peux mettre en
+place un système qui va rendre les gens
+un peu addict à ce que tu proposes ce
+système il se décompose en quatre phases
+la première chose c'est qu'en fait à
+chaque fois que l'utilisateur va
+utiliser ton appli c'est parce qu'il y a
+eu un trigger donc un déclencheur qui
+fait que
+il va utiliser ton appli on va prendre
+un exemple c'est Facebook ok si on prend
+Facebook tu vas par exemple recevoir une
+notification ok tu reçois une
+notification du coup tu sors ton
+téléphone ça c'est le trigger le trigger
+il enclenche une action cette action
+c'est bah effectivement je sors mon
+téléphone j'ouvre Facebook et je clique
+sur la notif je déverrouille mon
+téléphone ça c'est une action ensuite il
+y a la partie qui est probablement la
+plus importante de la diicction loop qui
+est que il y a une variable reward donc
+une récompense variable qui fait que ton
+cerveau est en attente ton cerveau est
+en attente de savoir ce qui va être la
+prochaine chose qu'il va voir parce
+qu'il se dit ok si j'ai reçu une notif
+qu'est-ce que ça va être tu ouvres la
+notif et là tu lis un commentaire et le
+le simple fait de pas savoir ce qu'il va
+y avoir derrière la notif ça te donne
+envie de d'y revenir régulièrement déjà
+rien que ça ça te rend un peu addicte à
+Facebook par exemple sur Facebook je
+sais pas si enfin si tu as déjà remarqué
+mais en gros il y a des des fois où
+tuouvres ton appui Facebook un peu par
+réflexe tu refermes ton appui Facebook
+tu Rouvres ton appui Facebook dans la
+foulée et en fait le feed il change il
+s'actualise et c'est pas la même
+publication que tu as en premier que 10
+secondes avant c'est c'est volontaire de
+la part de Facebook parce que ça te
+permet qu'à chaque fois que tu ouvres
+l'application tu vas avoir une variable
+reward et donc ça te ça ça te donne
+envie d'y retourner hyper
+régulièrement une fois que tu as eu
+cette variable reward tu vas pouvoir
+faire ce qu'on appelle un investissement
+et c'est la dernière étape du de la
+diiction loop qui est que éventuellement
+si tu as reçu un commentaire par exemple
+sur une publication tu vas y répondre
+donc tu investis de l'énergie du temps
+et cetera dans dans facebook tu vas
+répondre aux commentaires ce qui fait
+que le prochain
+trigger va être encore plus fort parce
+que tu auras investi du temps dans
+facebook et donc tu te dis wou mais
+quelqu'un a répondu à mon commentaire
+donc je vais y revenir trigger action
+récompense variable investissement et ça
+recommence à l'infini et plus tu passes
+de fois dans cette addiction loop plus
+tu es tu es tu es tu as envie d'y
+retourner le plus régulièrement possible
+alors c'est un truc qui est un peu
+àuancé euh nireal en parle dans le
+bouquin dans hooked euh il dit que bah
+ça peut servir à à faire des bonnes
+choses comme des mauvaises choses et que
+ça reste un outil et qu'il faut arriver
+à le prendre dans le dans le bon
+contexte effectivement bon Facebook on
+peut se poser la question de savoir si
+cette addiction est est pertinente ou
+pas dans la vie des gens mais en tout
+cas c'est un concept qui est intéressant
+en terme de réflexion quand tu veux
+émettre des hypothèses sur comment aider
+les gens c'est comment tu peux faire
+pour faire en sorte qu'il reviennent
+régulièrement utiliser ton produit quand
+tu aimer des hypothèses par rapport au
+au au chiffres que tu as observé par
+rapport aux discussions que tu as pu
+avoir avec T utilisateurs et cetera il
+faut toujours te demander est-ce que ce
+que je crée est une solution à un
+problème encore une fois genre vraiment
+c'est tout le temps hyper important de
+de réfléchir ça en terme de problème en
+terme de problématique quand tu fais ça
+il faut te poser la question
+de est-ce que la solution que j'imagine
+est la solution la plus simple toujours
+en fait on est c'est un concept qui ne
+varie pas en fonction du temps au tout
+début tu te poses la question est-ce que
+c'est la solution la plus simple même
+quand tu as un product market fit et que
+ça cartonne pour toi tu te poses la
+question aussi est-ce que c'est la
+solution la plus simple une fois que tu
+as ton hypothèse à ta solution et que tu
+imagines quelle est la plus simple
+l'erreur à surtout éviter c'est de
+foncer la développer et essayer de le
+faire la même chose que quand tu crées
+ton produit à l'origine le mieux c'est
+d'en créer une première version en fait
+une première version qui peut être juste
+une maquette qui peut être juste une
+combinaison d'outils qui vont
+fonctionner ensemble et qui sont pas
+forcément parfaits et qui vont être
+peut-être un petit peu bancales mais en
+tout cas créer une première version ça
+va te permettre d'aller chercher des
+feedback initiau sur un petit groupe
+d'utilisateur c'est encore une fois ce
+qu'a fait Paul de fretlink en fait on en
+a parlé le fait de tester sur un petit
+groupe d'utilisateurs quand tu en as
+beaucoup tu vois tu vas tester sur un
+petit groupe pour voir si cette nouvelle
+fonctionnalité est un intéressante pour
+eux ça a deux effets le premier c'est
+que ça te permet de pas passer trop de
+temps à développer des featurs qui
+servent à rien donc effectivement c'est
+ça ça ça a de la valeur et le deuxième
+c'est que les gens sont contents en fait
+de participer à la création du produit
+tu les inclus dans la création du
+produit donc tu tises une relation avec
+eux donc c'est plus facile de leur
+vendre et ça ça a beaucoup de valeur et
+et en fait en demandant de l'aide dans
+la création du produit à tes
+utilisateurs tu tu les fais participer
+tu les fais contribuer à quelque chose
+de plus grand queeux et finalement en
+terme de valeur délivrée par ta boîte ça
+c'est aussi gigantesque pour illustrer
+cette histoire de de d'itération sur des
+petits groupes de
+personnes je peux on peut parler de
+facebook facebook il y a forcément des
+moments où tu t'es rendu compte qu'un
+pote à toi avait une fonctionnalité sur
+Facebook que tu avais pas toi parce
+qu'en fait ils sont constamment en train
+de tester des choses qui sont déployées
+à un petit groupe utilisateur et sil
+voit que sur ce petit groupe ça
+fonctionne ils élargissent ce groupe et
+puis ils le font dire jusqu'à ce que
+peut-être si la feature est intéressante
+comme les réactions il y a quelques
+années la la déployer à tout le monde en
+tout cas c'est vraiment important de
+avoir une approche dans le développement
+de nouvelles fonctionnalités et de
+l'amélioration de ton produit qui est
+aussi itérative et qui est aussi basé
+sur un nombre de fonctionnalités
+minimales quand tu développes des
+nouvelles fonctionnalités quand tu
+améliores ton produit et que tu essayes
+de faire en sorte que ça résolve le
+problème de tes de tes users plus en
+profondeur il faut aussi traacker et en
+fait quand tu mets met en place une
+nouvelle fonctionnalité c'est la même
+chose que quand tu crées ton produit il
+faut à chaque fois à chaque fois te
+poser la question de est-ce que j'ai mis
+en place les bons outils de mesure par
+rapport à ça et est-ce que je peux
+valider mon hypothèse de ça aide les
+[Musique]
+gens ça ça va te permettre en fait de
+itérer sur cette sur cette
+fonctionnalité là et je pense que c'est
+important d'avoir un un focus important
+d'être focalisé vraiment sur cette
+fonctionnalité là quand tu te mets à
+travailler dessus parce que tu
+développes un c'est ce que disait pierre
+de flat tu parles de de structurer
+aujourd'hui donc à ce momentlà quand tu
+décides de créer la nouvelle feature
+ouais tu te dis on va mettre on va créer
+on va séparer l'équipe en plusieurs et
+donc en a une qui sur une une qui sur
+une autre bah idéalement maintenant avec
+l'expérience je te dirais oui on aurait
+dû faire ça à l'époque avit pas de
+revenu donc c'estàd on était quatre et
+on va voir comment on peut répartir le
+temps de quatre personnes en deux donc
+c'est pas idéal quand tu fais du bout de
+strap à la rigueur c'est bien tu dis ok
+je prends des idées j'ai use case je
+vois que j'ai un besoin j'ai une demande
+bon tuas tu as quasiment tous les
+éléments pour répondre en tout cas
+euh le problème de ça est ce qu'on a vu
+dans le temps en fait c'est que à un
+moment il faut que ta matièise si tu
+veux vraiment maturer ton produit si tu
+veux vraiment capitaliser et comprendre
+ce que tuécrivent tes users il faut que
+tu passes je sais pas au moins 70 % de
+ton temps sur le sujet parce que tu vas
+tu vas naturellement y penser quand tu
+seras pas en train de de faire ça ou tu
+seras faire autre chose typiquement moi
+le sport tu vois et du coup tu ça ça
+tourne un peu parce que ça reste ton
+sujet principal au fil de ta journée tu
+as des restes tu as des rémanaissan tu
+arrives enfin moi le soir au sport je
+fais mon sport sport de fond donc je
+m'emmerde vite quand même et là boum ça
+h ça mouline et je me dis ah tien en
+fait lui il m'a dit ça ça je commence à
+comprendre pourquoi il me parlait de ça
+donc quand ouais aujourd'hui c'est c'est
+notre vraie volonté c'est de structuré
+avec des gens qui passent 70 % de leur
+temps sur les dules 70 % de leur temps
+sur le learning sur la consommation et
+cetera et évidemment bah tout ça faut le
+financer et donc c'est pour ça qu'on a
+revu notre façon de prioriser nos tâches
+en se disant ok on capitalise sur la
+valeur ajoutée on va là où on a la plus
+grosse masse donc aujourd'hui c'est les
+compositeurs individuels et on réfléchit
+à augmenter nos revenus pour aller
+financer structurer l'opportunité
+éducation pour aller mieux financer
+mieux structurer l'opportunité learning
+l'opportunité consommation et cetera et
+cetera parce que le le piège de ça est
+ce dans quoi on est tombé en fait he
+c'est que ça arrive de tous les côtés
+nous on a cette chance de de de répondre
+en fait juste en en rendant digitale une
+partition et l'écriture d'une partition
+on répond à plein de problèmes qui
+touchent de près ou de loin à la
+partition ça excite tout le monde en
+plus c'est plus joli que ce qu' existe
+donc les mecs se disent [ __ ] enfin il
+y a du neuf donc tout le monde veut
+quelque chose et comme tu réponds à tout
+le monde tout le monde prend le temps de
+te dire je veux C je veux ça je veux C
+je veux ça et donc en fait bah tu tu tu
+t'excites avec tout le monde avec tes
+users donc c'est génial c'est une bonne
+situation que je souhaite à tout le
+monde mais tu peux pas tout faire et il
+faut commencer à prioriser et nous en
+tant que dev on s'est dit allez on fait
+tout parce qu'on est des ouf du
+bootstrap et cetera donc ouais on est
+bon à ça il y a pas on a cette chance
+d'être vraiment bon dans le bootstrap
+mais mais c'est comme c'est comme faire
+des enfants tu vois c'est assez simple
+factuellement l'acte mais après derrière
+faut assumer dans le temps tu vois et et
+c'est ça qu'on a qu'on a appris à nos
+dépens et qu'on a dit bon maintenant on
+se calme ok il y a plein d'opportunités
+ok on a envie de toutes les faire donc
+ok ça c'est c'est une histoire qui va
+s'écrire sur 5 10 ans mais maintenant
+step by step il faut stabiliser
+confirmer et pouvoir attaquer la
+suivante et et c'est là où on a commencé
+à ce que je te disais au début à
+prioriser quel feature va pouvoir
+augmenter nos revenus et quel feature va
+pouvoir radicalement augmenter nos
+revenus pour pouvoir rapidement mettre
+une nouvelle personne ou sur le produit
+actuel ou sur un autre produit mais en
+tout cas de façon sain en terme de temps
+et d'énergie évidemment ok vous êes
+combien la team produit là maintenant
+donc la team produit là on est qu qu
+pleintant on est en train de switcher et
+c'est c'est très bien qu'on soit
+redescendu un petit nombre parce que ça
+n on train de switcher dans le sens où
+on est en train d'appliquer toute cette
+structure que je te parle d'accord parce
+que c'est vraiment le constat qu'on fait
+c'estàdire qu'on est retombé à 4
+euh de façon volontaire en plus donc ça
+ça c'est très très bien tombé et on est
+on rentrit dans cette vraie dynamique de
+recherche du revenu recherche
+d'augmenter
+radicalement bah le cash qui rentre pour
+pouvoir mieux financer la suite et on
+retombe à 4 donc ouais 4 avec tout ça
+sur les bras on se dit bon là on est un
+peu en sous effectif faut qu'on prenne
+des choix radicaux sur qu'est-ce qu'on
+fait aujourd'hui demain la semaine
+prochaine et et donc bah ça te force à
+vraiment de dire ok quel est l'endroit
+où je dois me concentrer en premier qui
+peut faire que dans 15 jours j'embauche
+quelqu'un ou je me donne les moyens
+d'embaucher quelqu'un donc là ça fait
+peur parce que tu te dis bon bah si je
+me gourre je risque peut-être de
+déplaire à des gens donc diminuer ma
+croissance
+ou ou autre chose et mais tu as pas le
+choix tu dois apprendre à dire non en
+fait tu dois apprendre à dire non mais
+tu dois surtout apprendre à à te modérer
+je dirais nous en tout cas c'est notre
+c'est notre travers c'est comme on s'est
+délivré très vite un produit on a on a
+on a tendance à dire allez on fait on y
+va
+et sauf qu'en fait bah il faut il faut
+il faut faut s'en occuper tous les jours
+il faut réfléchir parce que typiquement
+là on a radicalement augmenté nos
+revenus et ça s'est joué sur quatre
+détail qui aurait pu être fait il y a un
+an mais tu vois et c'est là où je me
+suis dit [ __ ] si j'avais mis vraiment
+70 % de mon temps et de ma matière grise
+sur ces détails je les aurais spoté il y
+a un an et donc en fait ça ferait un an
+que je serais en train de financer
+restructurer plus sainement tout ce que
+je suis en train de te parler et donc
+bon faut pas se flagellerer faut pas
+vivre dans le passé c'est comme ça c'est
+une belle leçon et et là on capitalise
+dessus et à chaque fois qu'on on a un
+feedback qui dit [ __ ] si je pouvais
+avoir ça par exemple sur l'éducation on
+a eu plein d'idées on a mis tout à place
+sur une road map qui aurait dû déjà être
+faite mais on a dit non on se concentre
+on reste focus et tuas un prof qui
+arrive et qui nous dit ah j'adorerai
+avoir ça ça ça ça rendrait ma vie
+meilleure bon ça confirme ma vision je
+suis content je commence à me dire allez
+les gars on s'y met là et tu du coup vu
+que tout le monde capitalise sur cette
+leçon hop tu as Vincent qui me dit reste
+en focus on se disperse pas on continue
+de monter nos revenus on ira chercher un
+mec super bon qui bossera que sur ça ça
+lui fera plaisir et on fera du dev et on
+fera de l'opé ou on fera ce qu' a besoin
+en premier quoi
+et et c'est pour ça que bah voilà on se
+flashelle pas on capitalise dessus et on
+le réapplique au quotidien au quotidien
+au quotidien quoi en traquant et en
+suivant l'utilisation que font tes
+utilisateur de de de ce que tu proposes
+de cette nouvelle fonctionnalité tu vas
+pouvoir la continuer à la développer
+jusqu'à ce que ce soit so hyper
+satisfaisant déjà les gens que tu vas
+avoir en en betta test ou qui vont
+pouvoir tester ces nouvelles
+fonctionnalités ils seront très contents
+de le faire parce que c'est
+potentiellement des innovateurs ou des
+early adopters et qui et qu'en fait ils
+vont être très contents de tester la la
+la feature même si potentiellement elle
+va pas vraiment les aider mais ils
+auront envie de voir parce que ils sont
+curieux au final ton but toi même si'ils
+sont curieux et qu'ils ont envie de de
+tester ces trucs-l c'est de vérifier si
+effectivement
+le produit la nouvelle fonctionnalité
+règle vraiment leurs problèmes parce
+qu'ils seront quand même contents mais
+toi ton but c'est de chercher si c'est
+vraiment utile pour eux pour ça bah
+voilà il faut encore que tu poses des
+questions et que tu observes le
+comportement et puis il y a des des des
+tu peux mettre en place des objectifs et
+vérifier si ces objectifs sont atteints
+et si c'est le cas c'est
+[Musique]
+bon en tout cas une fois que c'est
+satisfaisant en terme de Matrix et
+d'observation et de discussion avec les
+utilisateurs tu peux lancer la nouvelle
+version de ton produit une fois que tu
+l'as fait avec un petit groupe de
+personnes que tu as bien traqué que tu
+as bien observé que tu as des chiffres
+et que tu peux factuellement dire ça ça
+marche là tu peux le déployer à un plus
+grand nombre de personnes à une plus
+grande base utilisateurs qui va bah du
+coup pouvoir profiter de ce produit qui
+a été créé un peu discrètement sur le
+côté avec un petit nombre de gens cette
+étape là elle correspond à quoi si tu
+fais du logiciel si tu fais un sas ou
+quelque chose comme ça ça va vouloir
+dire mettre en production en fait c'est
+tu vas avoir une beta qui
+potentiellement est une version à part
+de ton site sur une autre adresse sur
+laquelle les gens vont tester des choses
+et puis ensuite tu vas mettre en
+production et donc toutes ces choses qui
+ont été testées sur lesquelles on a
+itéré au fur et à mesure PAF elle passe
+en production ce qu'on appelle en
+production euh pour la majorité des
+utilisateurs pour tous finalement si tu
+fais du hardware si tu fais du textile
+ou si tu fais des iPhones par exemple et
+ben il va falloir que tu sortes une
+nouvelle version en fait finalement
+mettre en production logiciel ça
+correspond à euh sortir un nouvel iPhone
+l'iPhone à la base c'est vraiment la
+version la plus basique de ce qui existe
+l'iPhone 1 euh il y a il y a vraiment
+énormément de fonctionnalités qui manque
+et en fonction de ce qu'ils observent
+qui est la détresse la plus importante
+dans l'absence d'une fonctionnalité pour
+les utilisateurs d'iPhone Apple décide
+de sortir une un nouvel iPhone avec des
+fonctionnalités en plus et donc ça c'est
+comme ça que tu iteres en fait au fur et
+à mesure c'est on s'entend des nouvelles
+versions de ton produit après les avoir
+testés sur un petit groupe de personnes
+et l'idée c'est que ça mais tu le fais
+en boucle une fois que tu l'as fait une
+fois tu recommences et puis ensuite tu
+recommences tu recommences tu
+recommences c'est cyclique c'est le
+principe du feedback loop c'est que
+c'est cyclique le but c'est qu'à chaque
+itération tu améliores ton produit pour
+faire en sorte qu'il règle un petit peu
+plus le problème de tes users et donc
+qu'il intéresse de plus en plus de gens
+sur la courbe d'adoption plus tu fais ça
+plus le nombre de fois où tu passes la
+boucle de d'itération et la le feedback
+loop plus tu augmentes tes chances
+d'avoir un nombre de gens importants qui
+vont vouloir utiliser ton produit c'est
+tout le principe de la courbe d'adoption
+et c'est un travail qui est répétitif
+qui est long et où en fait tu dois
+constamment apprendre des choses
+constamment construire des choses faire
+des erreurs apprendre dont on parle pas
+souvent parce qu'en fait c'est pas la
+partie la plus sexy de la création d'un
+produit pas du tout mais par contre elle
+est essentielle et cette partie làà
+cette cette itération constante je
+connais aucune boîte qui a réussi à
+créer un produit exceptionnel sans sans
+passer par là en fait même Apple a dû
+sortir 18 téléphones pour arriver au
+niveau des iPhones qu'on connaît
+maintenant et desquels la la plupart des
+gens sont extrêmement contents et contre
+lesquels les gens seraient prêts à rien
+échanger il y a un niveau d'attachement
+à un iPhone qui est très très fort et on
+sous-estime à quel point Apple n pas
+juste une armée de génie qui ont des
+idées qui sortent de leur tête mais
+Apple observe le marché observe C
+utilisateur traack tous les trucs qu'on
+fait dans nos iPhon et à partir des
+données et à partir de discussions avec
+des gens créent des nouveaux modèle et
+ça c'est vraiment un concept très
+important dans la création d'un produit
+une fois que tu as lancé ta première
+version maintenant con c'est tout ça
+maintenant qu'on sa'est itéré prendre
+des feedbacks mettre en place ce
+feedback loop et faire en sorte
+d'améliorer constamment le produit il y
+a une autre problématique qui vient
+s'insérer qui est de le faire le plus
+efficacement possible comme je disais
+l'objectif c'est de passer le plus de
+feedback loops possible donc comment on
+fait pour s'organiser de la meilleure
+manière pour faire en sorte d'abattre le
+plus de taf possible et de et et d'aller
+le plus rapidement possible vers un
+produit qui est exceptionnel c'est ce
+qu'on va voir dans l'épisode 6

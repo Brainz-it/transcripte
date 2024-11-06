@@ -1,0 +1,848 @@
+on arrive au dernier épisode de cette
+saison on a vu jusqu'à maintenant toutes
+les techniques qu'il fallait connaître
+pour pouvoir créer un produit
+exceptionnel que les gens allaient
+vraiment aimer on a parlé de
+l'observation du marché on a parlé de
+comprendre vraiment qui sont les gens
+pour qui ont créé le produit on a parlé
+de comment créer la première version de
+son produit de comment trackquer l'usage
+de son produit avec les bons outils
+ensuite on a parlé de mettre en place un
+feedback loop qui va faire une
+amélioration constante et ensuite on a
+vu comment organiser son travail de la
+meilleure manière pour être le plus
+efficace possible il nous reste un seul
+truc c'est déléguer la gestion du
+produit à une
+équipe une équipe produit c'est une
+équipe qui assure le développement
+constant et l'amélioration constante du
+produit
+pour ça bah ça implique plein de choses
+en fait ça va être des propositions de
+nouvelles offres des propositions
+potentiellement de nouveaux produits
+aussi des une observation du marché
+finalement tout ce qu'on a vu jusqu'à
+maintenant il faut pouvoir le déléguer à
+l'équipe entière on va voir dans cet
+épisode comment faire une équipe qui
+soutient ça alors déjà il y a un premier
+point qui est important avant toute
+chose avant de parler de à qui on va
+déléguer c'est pourquoi on délègue et
+ensuite comment on délègue
+[Musique]
+pourquoi on délègue mais parce qu'en
+fait si on veut construire une équipe
+dans sa boîte qui fonctionne et faire en
+sorte d'avoir une force de frappe plus
+forte il faut pouvoir déléguer déléguer
+ça implique de se libérer complètement
+d'une charge de travail ça va pas être
+faire du microanagement regarder
+constamment ce qu'une personne fait ce
+qu'une personne à qui on a délégué le
+travail fait de vérifier de passer
+derrière c'est d'arriver à transmettre
+suffisamment de connaissance pour que la
+personne puisse ensuite le faire
+elle-même et prendre les décisions
+elle-même dans
+l'ensemble de son travail et vraiment
+c'est important elle prend les décisions
+tu sais pas toi en tant qu'entrepreneur
+qui prend les décisions pour la personne
+ça c'est pourquoi on délègue et comment
+on délègue et B c'est un concept dont
+ousama a pas mal parlé dans la saison 1
+vraiment il faut arriver à se détacher
+de ce biais qu'on a de se dire que le
+travail de quelqu'un d'autre est
+forcément moins bon que le sien parce
+qu'on a créé la chose et il faut arriver
+en fait à force de répétition à montrer
+quel est le bon angle quelle est la
+bonne approche ce qu'il faut faire pour
+avoir vraiment la culture de la boîte
+qui est imprégnée de son travail et il
+faut répéter répéter répéter et montrer
+aux gens vraiment comment faire pour que
+leur travail soit le plus aligné
+possible avec les valeur de ta boîte il
+y a pas de secret ça demande du temps ça
+demande toute une phase où tu as
+l'impression que la personne elle n'y
+arrivera jamais et il faut si tu crois
+dans le potentiel de la personne il faut
+la pousser à passer cette phase où c'est
+vraiment difficile parce qu'elle
+déconstruit un peu de ses connaissances
+pour les mettre pour se mettre au
+service de ta boîte et où après elle
+reprend ses connaissances là et elle
+devient en pleine charge en pleine
+possession de ses moyens et où là elle
+va créer des choses exceptionnelles pour
+ta boîte à son tour et vraiment cette
+cette façon de déléguer elle est
+extrêmement importante à prendre en
+compte c'est difficile ça prend du temps
+mais c'est beaucoup trop important pour
+être négligé donc dans tous les épisodes
+précédents on a vu toutes les parties
+qui étaient un importante dans la
+création d'un produit maintenant il va
+falloir se demander comment on délègue
+chacune de ces parties à une personne
+différente ou comment on fait avant de
+commencer ça je voudrais juste préciser
+que ce que je vais dire c'est ma vision
+du produit c'est ma vision c'est comment
+je construis une équipe produit c'est ce
+que j'ai pu observer le problème c'est
+queil y a autant de de structure
+d'équipe produit qu'il n'y a d'équipe
+produit et que plein de gens pourront
+avoir des avis différents par rapport à
+ce que je dis l'idée c'est vous donner
+une idée d'à quoi ça ressemble et que
+vous puissiez ensuite aller vous former
+aller chercher sur google ce qui a une
+équipe produit aller trouver d'autres
+Jobs dont j'ai pas forcément parlé et
+cetera mais en tout cas je pense que
+avec tout ça vous aurez une bonne idée
+de ce qu' a une équipe produit et de
+comment la construire on va faire ça en
+liste je vais vous donner tous les jobs
+qui composent une équipe produit et
+surtout je vais vous donner tout ce que
+j'estime important en terme de soft
+skills donc les compétences vraiment
+humaines et en terme de Hard skills donc
+les compétences plutôt techniques qu'
+faut pour chaque poste que je vais
+évoquer la première partie de la
+création d'un produit c'est de
+comprendre les
+[Musique]
+utilisateurs c'est essentiel pour ça il
+y a plusieurs métiers le premier métier
+dont j'ai envie de parler c'est celui de
+product manager le product manager c'est
+la personne qui va s'assurer que les
+bonnes décisions sont prise par rapport
+au business en terme de produit et qui
+va s'assurer du bon fonctionnement du
+sprint les hard skills qui sont naire à
+un product manager c'est les suivants je
+pense qu'il faut déjà c'est pas
+obligatoire mais je pense qu'il faut
+avoir une logique de dev au moins une
+certaine logique au moins comprendre
+comment se connecte certains outils
+entre eux mais une logique informatique
+qui permet de discuter avec des
+développeurs parce que dans une team
+software tu vas avoir forcément des
+développeurs et il faut savoir
+communiquer avec eux et comprendre quel
+est leur travail c'est un truc qui est
+sous-jacent en fait à au job de product
+manager c'est qu'il faut comprendre quel
+est le travail de tous les gens qui
+compose l'équipe et pas forcément de
+savoir le faire mais au moins comprendre
+comment il fonctionne le deuxième hard
+skill qui est nécessaire pour un product
+manager ça va être de savoir faire de la
+recherche utilisateur donc de savoir
+faire toutes ces étapes que on a
+expliqué dans la dans l'épisode 2
+où parler à l'utilisateur comprendre
+quels sont leurs besoins comprendre qui
+ils sont ce qui est la racine de leur
+problématique tout ça c'est un hard
+skill qui est vraiment important pour un
+product manager et le troisième hard
+skill dont un product manager a besoin
+pour pouvoir évoluer de la meilleure
+manière c'est de savoir construire un
+parcours utilisateur pour ça ça implique
+de prendre en compte les cinq les cinq
+questions qui sont où quand comment
+pourquoi et quoi et de pouvoir savoir
+construire un parcours complet plutôt
+que juste des solutions qui viennent un
+peu comme un cheveu sur la soupe ça
+c'est les trois hard skills du product
+manager et en terme de soft skills il
+faut avoir déjà une vision business qui
+est bonne on peut pas être juste la tête
+dans le guidon en TER de produits et
+regarder le code et regarder les
+maquettes sans se poser la question de
+comment va le business et comment je
+fais en sorte que le business
+s'améliore il faut être à l'écoute de
+ton équipe anticiper ses besoins et
+comprendre ses besoins pour pouvoir les
+aider à être les meilleurs il faut
+savoir prendre des décisions facilement
+il faut savoir trancher quand il y a
+deux choses qui sont un peu similaires
+et qu'on sait pas laquelle choisir ben
+il faut en choisir une des deux il faut
+savoir prendre des décisions et être
+tranché il faut avoir des connaissances
+et culture des métiers tech de manière
+générale parce que ça te permet de
+vraiment pouvoir parler avec les gens
+qui composent ton équipe et je pense que
+c'est essentiel il faut potentiellement
+bien s'entendre avec des ux designers je
+pense que genre vraiment le job de ux
+designer dont on va parler juste après
+est un job qui est extrêmement
+complémentaire avec celui de product
+manager et pour ça il faut qu'il y ait
+une bonne entente entre les deux
+personnes et enfin il faut comprendre
+l'importance des matrix savoir les lire
+savoir les rassembler et comprendre
+vraiment à quoi elles servent et comment
+prendre des décisions à partir de ces
+matriques là avec tout ça tu peux si tu
+cherche ça dans la personnalité de
+quelqu'un et que tu cherches les hard
+skills qui sont qu'on a évoqué juste
+avant tu peux avoir un product manager
+ou une product manager qui est vraiment
+très très doué et qui va fitter dans ta
+boîte après il y a toutes les valeurs de
+ta boîte qu'il faut rajouter à ça mais
+en attendant sur ce job là je pense
+qu'il a pas besoin de beaucoup plus
+ensuite il y a un deuxième métier qui
+qui est qui a pour vocation de
+comprendre vraiment quels sont les
+problèmes des utilisateurs et d'imaginer
+des solutions en fonction de ça donc il
+y a pas de gestion il y a pas toute la
+gestion des sprints il y a pas la prise
+de décision nécessairement que peut
+avoir un product manager mais par contre
+il y a toute cette recherche et cette
+création ce job là c'est ux ui designer
+alors c'est deux jobs différents ux
+c'est user experience ui c'est user
+interface et designer bah voilà c'est
+quelqu'un qui crée
+ça souvent ça va ensemble parce que
+voilà les gens vont utiliser vont faire
+de l'UX et ensuite la décliner en ui et
+ben voilà ça ça ça peut aller très
+souvent de pair les art skills d'un ux
+ui designer c'est quoi c'est déjà comme
+un product manager savoir faire de la
+recherche utilisateur parler aux gens
+comprendre leurs besoins définir bien
+leurs problématiques et cetera savoir
+construire un parcours utilisateur aussi
+je pense que c'est extrêmement important
+et après il y a des
+skill pur donc savoir utiliser un
+logiciel de maquetage donc sketch par
+exle exemple mais aussi pe enfin ça peut
+être Photoshop ça peut être Illustrator
+mais finalement en uxui il y a besoin
+d'avoir une connaissance de ces outils
+là au moins un qui te permet de délivrer
+des maquettes pour pouvoir montrer à
+quoi va ressembler le produit et les
+solutions que tu imagines en fonction
+des problèmes que tu relèves et le
+dernier truc c'est de savoir itérer et
+de confronter ses idées et ses solutions
+au marché et de pas être juste dans son
+coin tout le temps à à à tester des
+choses qui dont on connaît pas l'intérêt
+pour les users et en terme de soft
+skills je pense qu'il y en a plusieurs
+il y a vraiment le fait de rien prendre
+personnellement je pense que un un
+designer qui prend les choses
+personnellement c'est terrible parce
+qu'en fait c'est un job dans lequel tu
+es tout le temps au contact des
+utilisateur et si tu commences à prendre
+personnellement ce qu'ils te disent
+c'est perdu genre tu finis tu finis
+dépressif gen c'est terrible genre
+vraiment il faut arriver à à se détacher
+du produit que tu crées même si c'est
+pas évident pour pouvoir prendre des
+feedback honnêtes et brutaux et pouvoir
+améliorer ton produit en fonction de ça
+ensuite je pense qu'il faut une certaine
+créativité la créativité c'est la
+capacité à remettre en cause l'ordre
+établi et finalement les les règles qui
+ont été créées par tous les gens qui
+sont passés avant soi et je pense que un
+designer doit avoir cette cette faculté
+à caricaturellement on dirait think
+outside the box voilà pour prendre Steve
+Jobs mais en tout cas voilà c'est
+vraiment ça c'est comment tu fais pour
+imaginer des solutions qui sont sont pas
+forcément intuitives mais qui sont
+simples et efficaces et la dernière
+chose pour un ux ui designer qui est
+importante je pense que c'est de
+comprendre l'importance du cûp technique
+et par là je veux dire comprendre en
+fait ce que font les développeurs j'ai
+vu trop d'équipes où les designer et les
+développeurs se parlaient pas du tout et
+comprenaient surtout pas ce que une
+équipe faisait enfin comprenaient pas
+mutuellement ce que l'autre équipe
+faisait et donc il y avait un une espèce
+d'incompréhension générale qui faisait
+que ça fonctionnait juste pas donc je
+pense qu'avec tout ça tu as une fiche de
+post qui te permet de recruter un ux ui
+designer qui va pouvoir prendre ce rôle
+de parler aux gens comprendre leurs
+besoins et imaginer des solutions en
+fonction de ça après pour cette
+problématique de comprendre qui sont les
+users donc c'est la la problématique la
+plus générale quoi il y a plein d'autres
+métiers il y en a vraiment beaucoup
+euh le problème c'est que la plupart de
+ces métiers en early stage quand tu es
+au tout début de la création de ton
+produit ou que tu es au début de la
+délégation a la création de ton équipe
+tu en as pas besoin je pense au product
+hers je pense au Scrum Master Data
+analyse data engineer data
+scientist les quality assessors les
+intégrateurs enfin vraiment il y a
+beaucoup de métiers dans une équipe
+produit je pense que une manière simple
+de le voir c'est que tous ces métiers là
+existent donc un Data sentiste par
+exemple il va faire en sorte d'analyser
+la data et de lu faire parler pour
+qu'elle puisse avoir un intérêt pour la
+team produit tous ces jobs là tous ces
+jobs complémentaires ils vont être pris
+sous la casquette du product manager le
+temps qu'on recrute ces postesl le
+product manager il a une charge de
+travail qui est assez gigantesque parce
+qu'il doit faire le job de tous les gens
+qui sont pas encore recruté dans la team
+donc je vais pas parler de tous ces jobs
+là le mieux c'est que vous alliez sur
+google pour regarder en fait tous les
+job qui existe vous pouvez taper sur
+Google le quel job compose une équipe
+produit il y a des super article sur
+médium qui parle que de ça il y a un
+article de Spotify qui est génial qui
+explique comment ils ont construit leur
+team produits comment ils l'ont scalé il
+y a vraiment beaucoup de ressources sur
+ce sujet là je pense que là je suis
+juste en train de vous donner les clés
+pour pouvoir vous informer de la
+meilleure manière par rapport à tout ça
+donc là on a parler des métiers qui
+servent à comprendre les users et à
+comprendre leurs besoins et à imaginer
+des solutions ensuite il y a tous les
+métiers qui servent à assurer
+concrètement le développement du produit
+[Musique]
+il y en a plusieurs on va parler de
+développeur backend on va parler de
+développeur fronend des autres et cetera
+le premier métier dont j'ai envie de
+parler qui va assurer le développement
+du produit c'est celui de développeur
+backend donc c'est un métier qui pour le
+coup est vraiment spécifique au métier
+software mais qui est intéressant un
+développeur backend grosso modo c'est
+toute la personne qui va créer la
+logique qui a derrière un site web ou
+derrière une appli ou derrière un
+software en général il va créer toute la
+logique qui va permettre d'afficher des
+choses à l'utilisateur il va s'opposer
+en fait au métiers de développeur
+Frontin qui lui va s'occuper de tout ce
+qu'on voit donc il y a la logique d'un
+côté et tout ce qu'on voit de l'autre
+donc les interactions le design de la
+plateforme l'intégration en HTML et en
+CSS enfin voilà donc le développeur
+backend c'est celui qui va s'occuper un
+peu de l'architecture de l'application
+là où le développeur front-end va
+s'occuper de la façade alors pour un
+développur backend il y a un truc qui
+est important c'est que au démarrage du
+développement d'une application je dis
+application peu importe si c'est web ou
+peu importe si c'est mobile ou ou quoi
+que ce soit ce sera une application au
+développement d'une application au
+démarrage c'est important d'avoir des
+skills un peu particuliers quand on est
+développeur backend qui vont être la
+mise en place d'outils qui vont
+permettre de d'assurer le le bon déroul
+du développement de manière générale
+dans l'équipe ça peut être des outils
+comme GitHub qui vont permettre de gérer
+le le l'organisation de du code entre
+les différentes personnes de l'équipe
+mais ça peut être aussi des des trucs
+comme absal qui vont te permettre de
+faire remonter les bugs qui sont qui ont
+lieu dans la plateforme pour pouvoir en
+prendre conscience et faire en sorte que
+tu puisses les corriger le plus
+rapidement possible donc je pense que
+pour un Death backend avant toute chose
+c'est pas obligatoire si on n'est pas au
+niveau du démarrage de l'application
+mais quand on démarre il faut ces skills
+là pour pouvoir organiser la team de dev
+de la meilleure manière possible ensuite
+en terme de Hard skill bah il faut que
+déjà au moins un langage backend c'est
+langage ça peut être du pH HP du not JS
+du Ruby chez nous chez coup d'Éat on
+fait on fait du Ruby et je pense que le
+deuxième skill qui est essentiel le
+deuxè art skill qui est essentiel pour
+un développeur backend c'est de savoir
+se servir de Git donc ça peut être à
+travers gitthub ça peut être à travers
+d'autres outils git c'est ce qui te
+permet en fait de organiser ton travail
+en équipe et quelqu'un qui sait pas
+utiliser git aujourd'hui va avoir
+beaucoup de mal à s'intégrer au sein
+d'une équipe et c'est tout l'enjeu de
+cet épisode c'est de vous expliquer
+comment créer une équipe de de dev et de
+produits en général en terme de soft
+skill je pense que la chose la plus
+importante et ça va être la seule dont
+je vais parler c'est de savoir bosser
+avec le reste de l'équipe vraiment
+travailler en équipe c'est essentiel
+parce qu'il y a beaucoup de développeurs
+en fait qui codent dans leur coin et et
+qui savent vraiment développer des chous
+de choses mais qui savent pas bosser en
+équipe donc ça c'est très important et
+ça et surtout je pense qu'il faut savoir
+bosser avec un développeur front là
+voilà on a le duo Nicolas Thomas chez
+coup d'État qui bosse vraiment en binôme
+ils sont back et front et et ça aide
+vraiment et là encore une fois on rentre
+dans ce que je disais tout à l'heure
+c'est que Thomas il est Product Manager
+chez coup d'État il est head of product
+mais en fait il fait du product
+management il fait du Death front il
+fait du xuifin voilà c'est une
+multiasquette parce qu'il va prendre
+tout ça sous son aile mais
+donc ça c'est en terme de soft skill
+pour les pour les développeurs backend
+et il y a un dernier truc qui est une
+question qu'on peut se poser qui est
+est-ce que que je prends un junior ou un
+senior donc un junior ça va être moins
+de 5 ans d'expérience mettons et un
+senior ça va être plus de 5 ans
+d'expérience ça dépend de l'intensité
+qu'ils y ont mise et cetera mais l'idée
+est
+là mon avis c'est qu'il faut surtout pas
+prendre un junior au début de sa boîte
+je pense que si on veut construire une
+Tech qui a un minimum solide elle sera
+jamais parfaite et c'est pas le but
+genre le but c'est pas de faire une
+application qui soit toute lisse nickel
+mais je pense qu'en terme de Bet
+il faut prendre d'abord un senior
+jusqu'à ce que ce soit intéressant de
+faire rentrer un junior dans la boîte et
+de prendre le temps de le former
+correctement au processus de travail de
+la boîte à la façon de travailler en
+équipe qu'on a et cetera mais en
+attendant au départ prendre un junior je
+pense que c'est pas forcément la
+meilleure idée ça peut en tout cas c'est
+mon avis et moi c'est quelque chose que
+je fais jamais par contre une fois que
+l'équipe produit est un peu plus grande
+et qu' a plus de développeurs et qu'on
+peut se permettre de mettre le temps
+d'un d'un dev à former un junior pour
+qu'ensuite la la force de frappe
+devienne deux fois plus grande là ça
+devient intéressant pour le développeur
+frontend maintenant donc le développeur
+front-end c'est celui qui va s'occuper
+comme je disais de la façade là où le
+développeur backend s'occupe de
+l'architecture il y a plusieurs skill à
+connaître le premier et je pense que
+c'est la base ça va être de savoir
+utiliser du HTML et du CSS donc qui sont
+les deux langages de base du web qui
+vont te permettre de de créer la
+structure de ton site euh connaître
+comment fonctionne JavaScript je pense
+qu'en 2019 c'est essentiel et même sur
+ça va lettre pour les prochaines années
+à venir je pense que c'est essentiel
+parce que il y a énormément de
+technologies qui sont basées sur
+JavaScript les framework frontain toutes
+ces choseslà sont basées sur JavaScript
+donc il faut connaître un minimum ce
+langage là ou au moins avoir une
+sensibilité il y a un hard skill
+optionnel qui va être de connaître un
+framework javascript un framework c'est
+un ensemble de fonctions qui ont été
+créées par des gens qui t'évitent
+d'avoir un recoder des choses que tu
+codes régulièrement par exemple tu vas
+avoir un framework qui est euh angular
+qui va te permettre de faire des choses
+beaucoup plus poussées beaucoup plus
+rapidement qu'avec juste JavaScript
+parce qu'ils ont créé toute une
+technologie qui est basée sur JavaScript
+et qui va te permettre de accélérer tes
+méthodes de développement donc pour un
+développeur frontain connaître un des
+framework javascript comme angular react
+des choses comme ça ça va te permettre
+de d'accélérer ton développement je sais
+que chez coueta on utilise pas de
+framework en front on utilise que du
+javascript pur euh donc ça dépend vraim
+c'est pour ça je dis que c'est optionnel
+et ensuite en terme de soft skills et
+ben ça va être à peu près les mêmes que
+celui du développeur backend il va
+falloir savoir travailler avec le reste
+de l'équipe je pense que c'est vraiment
+important et surtout avec le devback
+mais aussi avec le ux ui designer parce
+que là où le ux ui designer va
+sortir des maquettes bah le Frontin
+développeur va développer intégrer ses
+maquettes et faire en sorte qu'elle
+prenne vie et qu'ell soit réellement
+existante en terme de tech donc si ces
+deux personnes peuvent pas se parler de
+la meilleure manière ça marche pas et je
+pense que c'est vraiment important
+d'avoir un frontend développeur qui va
+être sensible aux problématiques de
+design et qui va pouvoir échanger de la
+manière la plus régulière possible avec
+ux ui designer il a un dernier job de
+dev qui est qui est intéressant parce
+qu'il est un peu à la frontière des deux
+que je viens de présenter qui est le le
+développeur full stack mon avis encore
+une fois c'est qu'il y a très peu de
+vrais développeurs stack parce qu'en
+fait ça implique que ce sont des
+développeurs qui savent faire et du
+back-end et du front-end mais très
+souvent en fait ce qu'on observe c'est
+que ces développeur là ils savent faire
+les deux certes mais ils ont une très
+forte préférence pour l'un ou l'autre et
+le problème de ça c'est qu'en fait c'est
+très très bien pour commencer parce que
+ça te permet de mutualiser les deux jobs
+dont j'ai parlé en un seul donc tu
+prends un de full stack et il peut
+s'occuper de tout très souvent ça va
+être quelqu'un qui a une connaissance
+des outils aussi pour démarrer qui a une
+connaissance de comment travailler en
+équipe enfin ça peut être très utile
+mais il y a un moment où je pense que
+c'est utile de séparer les deux pour
+avoir une personne qui est vraiment
+bonne en front une personne qui est
+vraiment bonne en back et du coup
+pouvoir euh alterner entre les deux et
+qu'il y a une vraie communication qui
+s'instore donc le DEF full stack je sais
+pas à quel point je conseillerais mais
+je pense que ce serait une erreur de
+croire que euh tous les def full stack
+sont aussi bons en bac qu'en front et
+enfin il y a toute la problématique des
+produits physiques dont j'ai pas parlé
+jusqu'à maintenant j'ai dit qu'on allait
+parler que de software que de logiciel
+mais en tout cas il y a quandme quand
+même une problématique sur les produits
+physiques mais finalement c'est la même
+chose va y avoir une gestion de la
+relation avec l'utilisateur donc là on
+va aussi avoir un product manager on va
+aussi avoir des jobs de designer qui
+vont créer des choses et de la même
+manière le Product Manager va ou la
+Product Manager va prendre toutes les
+tâches des autres Jobs tant qu'ils ne
+sont pas créés et tant que des gens ont
+pas été recrutés à ces postes là par
+contre ce qui va ce qui va différer
+c'est la façon de créer le produit
+concrètement là où un ux deser va faire
+des maquettes pour pouvoir montrer aux
+utilisateurs les faire test leur faire
+tester des choses et itérer en fonction
+de leur retour et ben en produit
+physique va falloir un prototypeur
+quelqu'un qui va être en mesure de créer
+une première version du produit physique
+pour le présenter aux utilisateurs et
+ensuite itérer en fonction c'est à peu
+près la même chose il va falloir aussi
+des ingénieurs des ingénieurs qui eux
+vont après le prototypage pouvoir créer
+bah des des des objets des produits qui
+vont être plus plus performants plus
+puissants plus poussé et qui vont être
+vendables réellement au-delà du test
+utilisateur il va y avoir tous les gens
+qui sont en chaîne de production donc
+vraiment qui vont gérer la relation avec
+les usines pour pouvoir voir comment
+produire le maximum améliorer les
+rendements enfin voilà mais grosso modo
+les jobs sont à peu près les mêmes ça
+reste de la création de produit ça reste
+du prendre des feedback du marché pour
+pouvoir créer les meilleurs produit
+possible en essayant de créer les
+versions les plus minimales possibles au
+départ quand on a une idée pour les
+valider rapidement et ensuite créer un
+produit qui va vraiment intéresser les
+[Musique]
+gens le dernier point sur l'équipe c'est
+qu'il faut assurer sa cohérence je pense
+que c'est vraiment essentiel de pas
+juste prendre des gens les uns avec les
+autres et de leur dire ok vous savez
+faire votre job chacun votre côté donc
+l'équipe
+fonctionne une manière un peu simple de
+le dire c'est de dire qu'une équipe qui
+performe bien est une équipe qui
+performe mieux
+que la somme des des performances de
+chaque
+individu alors pour ça il y a deux
+sujets qui sont importants je pense
+qu'il faut assurer la cohérence en
+interne donc déjà que les gens se
+parlent entre eux au sein d'une équipe
+produit il faut que les gens se parlent
+tous entre eux et toutes entre elles et
+il faut vraiment que les gens
+comprennent en fait ce que sont les jobs
+les uns des autres genre c'est ce que je
+dis il faut qu'un def backend comprenne
+ce qui est le job d'un def front-end il
+faut qu'il comprne aussi ce qui est le
+job d'un uxui designer et je pense que
+c'est ton travail en tant que manager en
+tant que que qu'entrepreneur et que
+créateur de cette équipe de d'arriver à
+assurer cette cohérence c'est un travail
+qui se délègue au product manager et le
+product manager doit vraiment prendre en
+compte tout ça faire en sorte que les
+gens comprennent quels sont les métiers
+les uns des autres pour pouvoir assurer
+une cohérence qui est bonne et assurer
+une direction qui est la même pour tout
+le monde je pense qu'au-delà de
+d'assurer la cohérence en interne que
+tout le monde comprenne les jobs des uns
+des autres il faut assurer la cohérence
+vis-à-vis de l'externe et donc vraiment
+s'assurer que les gens ont compris la
+mission ont compris la direction
+générale comprend comprennent pourquoi
+on fait des choix ça implique de parler
+des matrix ça implique de parler des
+observations qu'on fait avec les
+utilisateurs tout le temps à l'ensemble
+de l'équipe pour qu'ils arrivent eux
+aussi à récupérer cette instinct que tu
+crées en tant qu'entrepreneur à force de
+parler tout le temps aux gens et
+d'observer tout le temps ton marché pour
+qu'il puisse prendre des décisions
+eux-mêmes et que ton équipe soit
+vraiment en charge vis-à-vis de
+l'extérieur et qu'elle soit aussi en
+charge vis-à-vis de l'intérieur et que
+tout le monde se parle et comme je
+disais il peut y avoir des
+multicasquettes au début tous les jobs
+de l'équipe produit vont pas être
+remplis vous allez tu vas pas recruter
+15 personnes d'un coup enfin ça peut
+hein mais c'est dans des cas assez rares
+au final va y avoir le product manager
+qui va faire plein plein de choses de
+produits et tu peux répartir un petit
+peu comme tu veux je pense que c'est
+vraiment d'avoir des multicasquettes à
+un moment parce que quelqu'un qui va
+faire plusieurs jobs en même temps ça va
+être beaucoup plus facile pour lui ou
+pour elle de déléguer ça à plusieurs
+personnes une fois qu'il aura fait tous
+les jobs le le le principe de déléguer
+quelque chose à une équipe ou à
+quelqu'un d'autre s'applique de la même
+manière pour toi et pour les gens qui
+composent ta team et ton rôle en tant
+que leader en tant que que
+qu'entrepreneur c'est d'arriver à tirer
+les gens vers le haut et à faire en
+sorte qu'ils puissent devenir des
+leaders à leur tour je pense que c'est
+vraiment essentiel dans la constitution
+d'une équipe c'est vraiment essentiel en
+terme de leadership et une équipe qui
+marche c'est une équipe qui est en
+constante évolution et en constante
+amélioration si l'équipe est cohérente
+qu'elle se comprend bien qu'en interne
+ça fonctionne qu'elle comprend la
+mission qu'elle comprend la façon dont
+on veut arriver à achever la mission
+qu'on a et qu'elle a tous les skills
+hard et soft qui sont nécessaires à la
+création d'un produit et qu'elle peut
+prendre des cision elle-même sans ton
+intervention ça veut dire qu'elle peut
+mettre en place ce feedback loop elle
+peut faire en sorte d'améliorer
+constamment le produit et d'aller
+chercher toujours plus de parts de
+marché et une croissance toujours plus
+importante pour ta boîte et ça c'est
+tout l'intérêt de la création d'un
+produit c'est que tu vas pouvoir créer
+des choses qui sont plus grandes que toi
+qui sont inspirantes et qui vont te
+permettre de décorréler ton temps de
+travail de tes revenus et donc de créer
+un business model qui scale et ça c'est
+ce qui est commun à toutes les boîtes
+qui ont créé des gros business alors il
+y a des boîtes qui font des services il
+y a toutes ces boîtes de consulting il y
+a les agences tu peux faire des très
+très beaux business à partir de service
+et on a pas parlé du tout dans cette
+saison mais je pense que c'est pas
+essentiel parce que finalement créer un
+service c'est assez proche de créer un
+produit sauf que il y a pas forcément de
+tech il y a pas forcément de de création
+pure il y a juste bah voilà je vais
+apporter mon service par contre si tu as
+tout ça si tu as réussi à déléguer ça et
+que tu t'occupes plus de la gestion du
+produit et que tu peux juste prendre du
+recul et passer au niveau supérieur pour
+faire prendre des décisions stratégiques
+à ta boîte tu arrives dans un moment où
+ton job en tant qu'entrepreneur ça va
+être soit de gérer ses équipes soit
+d'aller amener ta boîte au niveau
+supérieur ça peut être en allant
+chercher des financements ça peut pe
+être en recrutant toujours plus de monde
+en créant d'autres équipes qui vont
+avoir d'autres focus pour améliorer ton
+business mais en tout cas tu vas avoir
+toutes les armes pour aller chercher un
+niveau supérieur dans ton business et
+toutes ces armesl bah on se retrouve
+dans la saison 3 et dans la saison 4 de
+coup d'état entreprendre pour en parler
+en tout cas merci d'avoir suivi cette
+saison j'espère que vous avez kiffé
+j'espère que tout était
+clair dans le produit sur coup d'État il
+y a toute ce tout un aspect qu'on est en
+train de développer qui est l'aspect
+communautaire et vraiment j'ai envie que
+si vous avez des questions si vous avez
+des témoignages de choses dont j'ai
+parlé ou dont on a pu parler avec tous
+les invités de la saison 2 euh et que
+vous avez des témoignages que vous
+pouvez faire pour apporter de la valeur
+à la communauté et faire en sorte que
+coup d'État devienne vraiment quelque
+chose de de fort sur lequel on peut
+passer du temps et sur lequel on peut
+découvrir des méthodes qui font qu'on
+crée des produits de la meilleure
+manière qu'on peut découvrir euh tout un
+tas de choses qui vont nous aider à être
+de meilleurs entrepreneurs et à bâtir
+des boîtes dont on est fier je vous
+invite vraiment à nous aider à faire ça
+et à venir participer à la communauté et
+à écrire vraiment venez écrire sur la
+communauté venez écrire sur coupetat.co
+parce qu'on a besoin de votre aide pour
+bâtir ce mouvement des gens
+entreprenants des gens qui veulent créer
+des gens qui veulent construire dans
+leur vie et j'ai vraiment hâte de
+pouvoir échanger avec vous tous sur tout
+ça merci beaucoup et à très bientôt

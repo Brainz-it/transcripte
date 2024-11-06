@@ -1,0 +1,1243 @@
+avec anyone can scale dans la communauté
+on bâtit nos empires et nos empires ça
+veut pas dire qu'on est obligé de bâtir
+des trucs gigantesques on peut s'arrêter
+un peu quand on veut mais ce qui est
+important c'est d'arriver à bâtir nos
+empires ce qu'on a envie d'avoir et
+c'est un truc que je dis tout le temps
+moi je fais coup d'État pour que les
+gens ils bâtisent des empires et qu'il a
+un vrai impact sur le monde autour d'eux
+vous avez tous passé vos premières
+étapes vous avez tous passé l'étape
+difficile de se lancer et de faire en
+sorte d'avoir un business qui tourne
+maintenant il est temps d'en faire un
+business plus gros il est temps d'en
+faire un truc qui va vraiment changer
+les choses autour de nous
+salut tout le monde ça fait trop plaisir
+de vous voir là ce soir j'ai envie qu'on
+discute enfin j'ai envie de vous
+raconter un peu ce qui nous amène ici ce
+soir le tout le cheminement qui a été
+parcouru de depuis janvier dernier parce
+qu'il s'est passé plein de choses et il
+s'est passé plein de choses plus ou
+moins difficiles il y a eu des haut et
+des bas et en gros il y a ce que je
+trouve incroyable au fait de se
+rassembler ce soir c'est que on est une
+communauté on est un début de communauté
+voilà c'est encore un peu timide dans le
+slack il y en a quelques-uns qui sont
+très actifs il y en a beaucoup qui sont
+pas encore très actifs voilà c'est
+l'occasion ce soir de se rencontrer de
+discuter d'échanger avec des gens qui
+ont des objectifs similaires au vôtre
+donc voilà on va bien se marrer mais euh
+ce que j'aime dans l'aspect des
+communautés c'est que ça se bâtit
+toujours sur énormément d'aspects
+différents mais un des aspects
+fondateurs c'est l'histoire de la
+communauté et ce soir c'est cette
+histoire là que je voudrais vous
+raconter c'est l'histoire de comment on
+a créé anyone can scale pourquoi on a
+créé any one can scale et de tout ce qui
+s'est passé depuis janvier jusqu'à
+maintenant donc si on prend si on
+reprend depuis le début et qu'on est en
+janvier ok donc tout début janvier juste
+un juste un peu après le nouvel an je
+suis avec Ousama en train de prendre un
+verre il me dit tu sais Val il y a plein
+de gens qui m'envoient des mails et qui
+me pingent sur cela et qui m'envoie
+plein de messages pour me dire que on
+parle de scale tout le temps dans les
+vidéos coups d'État mais que eux ils
+peuvent pas scaler je lui dis comment ça
+ils peuvent pas scaler on me dit bah
+ouais ils ont l'impression qu'ils ont
+des modèles non scalables ils ont des
+boîtes de services ils ont des PME ils
+ont plein de types de boîtes différents
+je dis mais qu'est-ce que c'est que ce
+truc de de type de boîte genre déjà je
+trouve ça hyper discriminant mais bon
+pourquoi pas tu vois ça a toujours été
+un truc qui qui m'énerve dans ce
+discours start-up c'est bon on est
+entrepreneur ou on est pas entrepreneur
+quoi genre le modèle on le trouve le
+modèle on itire donc voilà et donc il me
+dit ça fait un moment qu'on cherche une
+solution pour faire un peu de cash avec
+coup d'État pour arriver à faire de
+coups d'État une boîte profitable à
+l'époque c'était the family qui nous
+finançait au tout début de coup d'état
+quand j'ai repris l'année dernière c'est
+the family qui nous payait on était
+trois dans l'équipe il nous filait un
+peu de cash par-ci par là mais bon on
+savait que c'était pas une solution à
+long terme qui était viable ce Family
+est pas fait pour financer les boîtes
+qu'elle qu'elle accompagne donc il
+fallait trouver une solution pour faire
+du cash et il me dit vu qu'il y a tous
+ces gens gens qui ont ce problème de je
+veux CEER et je sais pas comment faire
+est-ce qu'on pourrait pas leur créer une
+formation pour leur apprendre à CEER
+leur boîte je suis dis bah ouais grave
+vas-y c'est parti toute façon c'est une
+idée c'est une des 1000 idées qu'on a eu
+pour faire du cash c'est celle qui
+paraît la plus prometteuse allons-y
+faisons ça c'est une idée je pense que
+la en 100 % d'entre vous ont compris ce
+concept là déjà quand on a une idée on
+essaie de valider l'intérêt du marché
+pour cette idée donc on dit vas-y on va
+faire une confér Tama on fait venir un
+max de monde on retransmet ça en
+Facebook live on fait une vidéo YouTube
+et on va raconter un peu ce qu'on va
+mettre dans cette formation et on va le
+faire dans une conf d'Ousama et puis ce
+qui est marrant c'est qu'en fait à
+l'époque on savait pas vraiment ce qu'on
+allait mettre dans la formation mais
+ousama est quand même monté sur scène
+avec une engine je sais pas qui a vu
+cette conf la toute
+première ok c'est c'est intéressant que
+la plupart d'entre vous l'ai pas vu
+parce que vous aurz peut-être pas acheté
+si vous l'aviez
+vu il était ouais il était vraiment en
+train de tousser et tout on a eu des des
+gens qui nous envoyai des des messages
+pour dire vous savez chez the family je
+pense qu'il y a un peu trop de plantes
+et clair et sec vous devriez faire moins
+de trucs é là ouais c'est juste qu'il
+avait une engine quoi et donc il fait
+cette conf et cette conf elle est un peu
+elle est un peu bancale mais elle
+commence à à présenter un peu le concept
+de anyone Cancale c'est que il y a une
+phrase qu'on répète depuis très
+longtemps à the family et à coup d'État
+maintenant c'est scale is coming la
+scalabilité c'est un phénomène magique
+assez dingue qui est le fait de pouvoir
+fournir un service à l'échelle mais de
+façon personnalisée ça fait des années à
+the family qu'on théorise le fait que la
+scalabilité sera à l'air
+entrepreneuriale que l'industrialisation
+était à l'air industriel et d'ailleurs
+c'est pour ça que cette formation est
+intéressante c'est qu'on va la
+construire comme des use cases autour de
+personnage la façon dont on va fabriquer
+cette formation ça va être complètement
+nouveau pour nous on a envie de faire
+une mise en abîme on va en faire des
+films de ces gens qu'on aura fait scaler
+malgré eux et on pense vraiment que la
+valeur d'avoir un vrai budget de
+production et que ce soit pas simplement
+une vidéo sur scène comme ça mais qui a
+une vraie réflexion de storytelling de
+montage et de mise en abîme des outils
+c'est un gros effort on va pas le
+fabriquer si les gens s'en foutent on va
+pas le fabriquer si les gens s'en
+foutent c'était vraiment notre intention
+de cette conf suite à ce Facebook C on a
+fait quatre ventes c'était pas
+incroyable genre et en fait c'était un
+moment qui était assez assez douloureux
+parce que j'étais là genre [ __ ] mais
+comment on va faire si on a fait quatre
+ventes ça inéresse personne il va
+falloir qu'on trouve un autre produit et
+cetera et en plus de ça il y a plein de
+gens qui ont regardé cette vidéo en
+Facebook live alors on avait ah il y a
+plus les palmiers ici c'est incroyable
+avant il y avait des palmiers ici et on
+avait accroché un petit trépied pour
+iPhone là on l'avait on l'avit mis là
+pour qu'on puisse rediffuser en live sur
+Facebook donc le son était pourri
+l'image était pourri il y a ple qu' Ava
+regardé ça et parmi eux il y a des gens
+qui nous ont envoyé des messages en nous
+disant écoutez je viens de regarder la
+conf d'Ousama qui présente la nouvelle
+formation any1 can scale franchement ça
+va pas du tout j'étais là gen no shit
+franchement ça va pas du tout
+ousama il a pas l'air de savoir ce qu'il
+vend il y a aucun trigger émotionnel les
+gens vont pas avoir envie d'acheter et
+grosso modo on a eu des des discours de
+gens qui nous ont dit que tant qu'on
+aurait pas compris qu'on avait besoin de
+l'aide de vrai professionnel pour faire
+no notre formation et la vendre on
+arriverait à rien faire chez coup d'État
+donc moi j'étais un peu au fond du trou
+c'était un peu compliqué et tout ça et
+il a fallu rebondir après ça et c'est là
+que la team a été assez incroyable et la
+team m'a dit non mais Val arrête tes
+conneries on a besoin de l'aidere de
+professionnel de rien du tout on fait
+comme d'habitude on fait des erreurs on
+apprend de ces erreurs et on avance et
+j'étais là genre ouais ok puis on va
+leur montrer qu'on est capable de faire
+sans l'aidere de vrais professionnel et
+qu'on va apprendre et qu'on va tracer
+notre propre chemin parce que c'est ce
+qu'on vous dit tous c'est ce qu'on vous
+dit tout le temps tracez votre propre
+chemin apprenez de vos propres erreurs
+et faites en sorte de créer quelque
+chose qui a pas été créé avant parce que
+si tout le monde se basait sur la même
+méthodologie pour faire quelque chose ça
+marcherait jamais donc on décide de bah
+prendre cette conférence de la mettre
+sur youtube et de continuer à pousser de
+faire notre landing page one can scale
+et quelques semaines plus tard on a fait
+40
+précommandes 40 précommandes ça commence
+déjà êt quelque chose d'un petit peu
+plus solide surtout sur juste une vidéo
+d'Ousama qui tousse et qui dit que c'est
+bien grosso modo
+donc on se dit bon là l'intérêt commence
+à être validé on va pouvoir commencer à
+lancer les tournages mais avant ça je
+vais appeler la plupart des gens qui ont
+fait les précommandes pour discuter avec
+eux comprendre ce qu'ils attendent et
+certains d'entre vous je vous ai eu au
+téléphone à ce moment-là Louis j' t'ai
+eu au téléphone à ce moment-là j'envois
+pas d'autres mais il y en a plein que
+j'ai eu au téléphone à ce moment-là pour
+leur demander bon ok c'est bon tu as
+précommandé ça veut dire que tu nous
+fais confiance et que tu nous aimes bien
+mais qu'est-ce que tu veux qu'est-ce que
+tu veux vraimentas tu viens de payer 699
+€ pour avoir accès en précommande à any1
+Cancale qu'est-ce qu'on peut faire pour
+toi qui va changer ta life je pose
+toutes ces questions et cetera et on
+commence à prendre beaucoup de feedback
+et on dit bon là on a suffisamment de
+feedback on comprend que les gens ils
+ont envie de d'amener leur boîte d'un
+point A qui marche un minimum déjà à un
+point x qui est j'ai amené ma boîte au
+plus gros que j'ai envie de le faire
+c'était grosso modo le l'ensemble des
+feedback donc une deuxième phase
+commence à ce moment-là qui est la phase
+de création on dit ok on a validé
+l'intérêt du marché on a fait en sorte
+de comprendre ce qu'ils avaient envie de
+faire maintenant on va créer ce truc
+cette phase elle dure de février à mai
+c'était long sa mère c'était terrible
+genre vraiment c'était c'était c'était
+très compliqué émotionnellement mais en
+même temps c'était très chouette on
+s'est bien amusé on a lancé les
+tournages on a commencé à faire des
+castings à regarder qui on pouvait
+accompagner comme personne dans anyone
+can scale pour que ce soit pertinent par
+rapport à l'ensemble de vos business et
+des gens qu'on voyait arriver dans dans
+dans anyone can scale et on a essayé de
+faire quelque chose de construit et de
+suivre des gens semaine après semaine ça
+grosso modo été plutôt un échec euh
+parce qu'à l'époque on faisait beaucoup
+de choses à la fois en fait euh coup
+d'État il faut comprendre que c'est un
+business qui a un business qui est
+profondément ancrée dans la communauté
+coup d'État donc là on a la communauté
+NU1 Cancale mais il y a la communauté
+coups d'État qui est beaucoup plus large
+qui est composée de presque 150000
+personnes euh ces gens-là la plupart des
+gens ont pas besoin d'un new one can
+scale parce que vous êtes grosso modo
+plus avancé que la plupart de des gens
+qui sont dans la communauté coups d'État
+en général et sans jugement de valeur
+genre mais par contre vous avez fait un
+petit peu plus de d'étapes quoi et en
+fait on faisait énormément de choses à
+la fois parce que il fallait rassembler
+cette communauté et une notre gros canal
+d'acquisition aujourd'hui c'est notre
+stratégie de contenu notre stratégie de
+contenu vous la connaissez c'est coup
+d'État X avec les interviews c'était des
+trucs qui étaient hyper inspirants à
+faire j'ai une dernière question pour
+toi euh c'est quoi pour toi faire ton
+coup
+d'État c'est quoi mon coup d'É coup
+d'État c'est en mode péter le game on
+peut quand même réussir à faire quelque
+chose de cool avec peu leur expliquer
+que tout est possible mon coup d'État à
+moi c'est ça euh ça c'est mon coup
+d'État c'est ça mon mon coup d'État
+réaliser les
+rêves bon Aurélien il est dans la salle
+hein merci d'ailleurs d'avoir fait cette
+interview c'était une très bonne inspi
+pour any one kcale si vous voulez des
+conseils sur comment générer des lad
+dans votre boîte alleer lui parler et là
+tu vas avoir 50 personnes qui viennent
+te
+parler parce que c'est c'est c'est un
+tueur sur ça donc on a fait coup d'État
+x donc c'était une interview par semaine
+c'était beaucoup de préparation de mon
+côté c'était beaucoup de préparation du
+côté de Nessrine qui est en régie là et
+qui réalise toutes les séries coups
+d'État et en même temps on faisait les
+on faisait les conférences bonsoir à
+tous bonsoir à toutes bienvenue chez
+coup
+d'État quelle que soit l'industrie dans
+lequelle vous évoluez si vous
+construisez la plus belle team vous
+gagnez moi je pars du principe qu'il y a
+pas d'échec y a que des enseignements
+toute aventure reste une expérience
+c'était aussi hyper inspirant c'était
+hyper chouette ça a motivé la communauté
+Nina tu étais à tous les events genre
+c'est c'était c'était vraiment c'était
+vraiment chouette de faire ces
+événements là ça nous a permis aussi de
+développer notre réseau de coup d'État
+auprès de gens qui étaient beaucoup plus
+avancé qui avait des gros succès à
+raconter enfin vraiment c'était un
+contenu qui était régulier qui était
+long à produire et qui nous prenait du
+temps et en plus de ça on avait promis
+déjà à la communauté coup d'État de
+lancer la saison 2 de coup d'état
+entreprendre qui en gros permet aux gens
+de comprendre comment passer de 0 à 1
+dans leur business avec des conseils
+très très concrets gratuitement on l'a
+lancé avec ce teaser que vous avez
+peut-être vu j'espère que vous êtes
+chaud parce que nous
+[Applaudissements]
+on et ça ça a été aussi beaucoup
+beaucoup de temps de développement vous
+comprenez que pendant les 6 mois là de
+février à mai ça fait pas 6 mois mais
+c'est pas grave pendant les les 3 mois
+de ce
+moment-là caler du temps pour tourner
+des office hours avec Ousama et des gens
+c'était compliqué on l'a fait ça c'est
+des images de ousama en office hour
+Denny one Cancale c'est les seules
+images qui sont qu'on a encore donc on a
+commencé à prendre des gens comme Léa
+comme lavinha comme Fabien et Guillaume
+que vous avez probablement vu si vous
+avez regardé certaines des ohes d'one
+can scale et en fait tous ces gens-là on
+les a on leur a fait faire des office
+hours avec ama pour essayer de commencer
+ce processus de les suivre semaine après
+semaine pour voir comment ils
+implémentent du scale dans leur boîte et
+en fait de cette expérience-là on a tiré
+on a on a fini par comprendre une des
+leçons qu'on donne tout le temps tout le
+temps chez coup d'État et qu'on avait
+pas comprise jusqu'à maintenant qui
+était que le temps et la ressource la
+plus importante d'un ou une entrepreneur
+alors ce truc on l'a répété mais des
+milliers de fois et genre vraiment on le
+dit et c'est presque devenu machinal et
+j'avais pas compris ce truc j'avais pas
+compris ce truc- dans la team on était
+encore assez éparpillé et c'est là qu'on
+s'est rendu compte est-ce que on est
+capable de faire coup d'État x coup
+d'État tox la saison 2 peut-être la
+saison 3 et en même temps produire un
+any one Cancale qui est à la hauteur de
+vos attentes est-ce qu'on était capable
+de faire ça et la réponse était
+objectivement non et on s'est dit bah il
+va falloir qu'on recentre notre temps il
+va falloir qu'on se focus c'est une de
+mes plus grosses leçons
+entrepreneuriales de l'année dernière il
+va falloir qu'on qu'on se focus par
+rapport à tout ça et cette règleel elle
+est marrante parce que elle est vraie
+mais il y a une autre règle qui se
+superpose à ça qui est que le temps
+d'Ousama Amar est la ressource la plus
+difficile à avoir dans le monde ce mec
+est juste d'une rareté incroyable et et
+genre c'est toujours très compliqué de
+l'avoir et surtout il faut faut s'y
+préparer toujours 4 semaines à l'avance
+quoi et on était très désorganisé parce
+qu'on avait tous ces trucs à faire en
+même temps donc prévoir du temps
+d'Ousama en avant c'était compliqué
+c'était extrêmement dur et donc on s'est
+retrouvé à faire les office hours que
+vous venez de voir et c'est tout on a
+jamais fait le follow-up en fait on a
+jamais fait la suite du coaching avec
+les gens donc on a pas du tout pu avoir
+ce qu'on avait prévu de faire à la base
+et on se retrouve au final en mai avec
+un niual caskel qui est loin d'être
+terminé genre on avait quasiment rien on
+avait quelques office hours quelques
+bouts de théories avec Ousama quelques
+trucs qu'on pouvait combiner ensemble
+pour en faire un un un début de produit
+et surtout on avait pas de cash on avait
+plus de cash the family pouvait plus
+nous financé parce qu'ils avaient
+d'autres d'aut d'autres trucs à faire en
+terme de d'argent et qu'ils avaient un
+peu moins d'argent qu'au début coup
+d'État on avait plus de cash et grosso
+modo la boîte était menacée de mort quoi
+en mai on se retrouve dans une situation
+où je fais un weekly meeting avec la
+team et je leur dis écoutez si on réagit
+pas là maintenant coup d'État est mort
+dans 2 mois on peut pas se payer et il
+faut qu'on sauve la boîte alors
+évidemment la marque coup d'État elle va
+jamais mourir elle est ass elle est
+associée à the family on peut toujours
+rebondir on peut toujours se démerder et
+cetera mais dans l'idée on était là
+genre [ __ ] là c'est chaud on est livré
+à nous-même il y a plus les parents the
+family pour nous filer un peu de Ch si
+on est en galère et il faut qu'on se
+débrouille par nos propres moyens et
+donc ça c'était déjà une première
+réalisation et et en plus de ça on va
+rajouter un layur de complexité sur
+cette situation qui est que dans le rush
+de cette situation là je me dis bon là
+je pars à Berlin ma copine vit à Berlin
+et du coup je faisais je fais les
+aller-etours régulièrement et je dis
+vas-y je pars à Berlin et il faut
+absolument qu'on monte rapidement nestri
+n'a pas assez de force de frappe pour
+monter elle-même donc je vais faire le
+montage des new en CAN scale je prends
+le disque dur avec les rush et les
+fichiers et je me casse à Berlin
+évidemment comme je suis un tocar on n
+jamais fait de backup de ces fichiers et
+ça ne m'est jamais jamais arrivé dans ma
+vie et je me suis fait tirer mon sac à
+Berlin dans un bar et ce moment-là je
+m'effondre mais vraiment genre je me
+souviens j'étais dans le bar et j'étais
+là genre presque par terre quoi en mode
+mais [ __ ] quel con et ma copine me dit
+mais ouais dans ton sac il y avait ton
+ordi il y avait tes papiers je j'en ai
+rien à cirer de mon ordi et de mes
+papiers genre il y avait le disque dur
+avec les fichiers d'en one Cancale c'est
+le seul moyen de faire de l'argent qu'on
+a chez coup d'État aujourd'hui et on a
+des personnes qui ont précommandé à 700
+balles un produit qu'on leur a promis et
+qu'aujourd'hui on est plus en mesure de
+le repruire quoi et était là genre
+c'est
+chaud et j'étais là genre mais [ __ ]
+mais qu'est-ce que je vais dire à la
+team lundi matin ça va être terrible ils
+vont me détester et tout ça fait des des
+mois qu'on se bat pour ce truc et tout
+genre vraiment l'enfer et et ma copine
+me dit ouais mais ton Mac il faut qu'on
+retrouve ton Mac active find my iPhone
+je genre mais j'en ai rien à carrer tu
+vois le lendemain mon mac ping il était
+midi donc il y a mon mac sur find my
+iPhone qui est retrouvé à un endroit
+elle me dit bah on y va je lu dis non
+c'est c'est perdu on a perdu dit one can
+scale j'é en fait bon elle m'a forcé on
+y est allé on a retrouvé mon Mac dans
+une boutique enfin il s'est passé tout
+un tas de trucs par contre on a jamais
+retrouvé le disque
+dur et ça c'est une histoire qu'on a pas
+raconté pendant qu'on développait parce
+que parce qu'il y en avait certains
+d'entre vous qui nous mettaient la
+pression qui n m qui était là genre et
+alors ça sort quand c'était vraiment
+affreux genre vraiment c'était un un dur
+moment et donc nouvelle phase la
+troisème phase de la création du
+chapitre 1 d' one Cancale qui est qu'il
+faut qu'on retrouve le focus dans la
+boîte et qu'il faut qu'on sauve la boîte
+et donc on se met tous à Tafer
+essentiellement sur en Cancale et là
+c'était c'était un très beau moment
+parce que je me souviens on était à la à
+la kcina napoletana qui est le petit
+resto de patte à côté d'ici et on était
+en train de déjeuner avec toute la team
+et je leur dis vous savez je pense qu'il
+faut qu'on arrête C X il faut qu'on
+arrête C to il faut qu'on arrête tous
+les tournage gratuit et qu'on fasse que
+one can scale parce que sinon on va
+crever quoi et tout le monde était là
+genre on peut pas faire ça ça à l'époque
+Dimitri était encore à moitié là c'était
+le le précédent head of conontain de
+coup d'état et et il nous dit mais les
+gars genre une stratégie de contenu
+quand vous arrêtez de poster du contenu
+ça s'arrête c'est perdu et j'étais là
+genre ouais mais de toute façon si on
+narrête pas de poster du contenu on fait
+pas any one can skale et tout s'arrête
+et donc tout le monde était plus ou
+moins chaud et cetera et au final on a
+fini par dire bon ok on arrête tout donc
+c'est pour ça qu'il y a eu une petite
+annonce en disant c'est la fin de la
+saison coup d'État x c'était pas du tout
+la fin de la saison de coup d'état x
+c'est juste qu'on avait plus le choix et
+et donc on a fait cette annonce et on a
+su retrouver on a su retrouver le focus
+et il y a un boulot de la part de toute
+l'équipe qui a été incroyable il y a
+pariante qui a commencé à designer un
+nouveau FUNEL de conversion pour en1
+Cancale donc on a dessiné vraiment tout
+un workflow assez complexe avec des
+emails automatisés avec différentes
+pages pour essayer de vous faire
+comprendre la value proposition du
+nouveau en1 C qu'on était en train de
+créer parce qu'on avait quasiment plus
+rien et que bah voilà il fallait bien
+faire quelque chose avec avec ce qu'on
+avait quoi donc on on on recrée cette
+value proposition tout ça se transforme
+en maquette
+pariante a fait un boulot de dingue sur
+les maquettes de du FUNEL anyone can
+scale derrière fils qui qui est le head
+of tech de coup d'État a fait un boulot
+de dingue aussi pour implémenter toute
+la logique pour faire en sorte que ça se
+cale avec l' qu'on reste quand même dans
+l'écosystème coup d'État avec la
+plateforme et que il y a les épisodes de
+New can scale qui apparaissent à côté
+des épisodes gratuit et cetera enfin
+qu'on arrive à à vraiment montrer que on
+tenait la route et que on était pas
+juste en galère quoi genre il a c'était
+un moment où on a on a on a fitake kit
+quoi on a fitake kit et je sais pas si
+on a make kit encore mais j'espère qu'un
+jour on va y arriver et et donc on on
+intègre toutes ces maquettes tous ces
+trucs là ça c'est il y a une vidéo qui
+sort bientôt où j'explique comment on a
+créé ce truc là qui va rentrer dans le
+pack anyone can scale eu et à partir du
+FUNEL en fait il y a un déjà un début de
+paradigme qui change chez coup d'État
+qui est que jusqu'àors on avait une
+landing page où les gens pouvaient venir
+et cliquer sur acheter la formation à
+699 € et on est passé dans un système où
+on a offert le premier épisode gratuit
+donc la plupart d'entre vous ont d ont
+vu ce truc là je pense on a offert
+l'épisode gratuit ce qui nous a permis
+de générer des leads voilà genre elles
+viennent pas de nulle part les leçons
+qu'on vous donne permis de générer des
+leads et en fait d'avoir des gens à qui
+parler et Anaï a pris le relais à ce
+moment-là elle a dit ok le nouveau fé en
+place je vais faire des calls avec tous
+les gens qui rentrent dans le Fenel et
+qui ont pas encore acheter la formation
+et elle a passé ses journées à faire des
+calls et on voyait les ventes qui
+tombaient comme ça dans ce lac et on la
+voyait raccrocher son téléphone et elle
+disait ah [ __ ] il est trop sympa je
+suis trop content qu'il rentre dans la
+communauté là genre ouais c'est cool
+parce que il y a des sous et on va
+peut-être survivre tu vois ce sera c'est
+super et elle est enfin elle est
+incroyable genre vraiment genre merci
+pour ce taf là et et donc on commence à
+à faire des calls avec la plupart
+d'entre vous pour comprendre quelle est
+la value proposition et on itère on
+itère sur le Fenel on itère sur la value
+proposition et on arrive à tomber sur un
+truc qui est on se focuse sur les boîtes
+de services parce qu'on se rend compte
+que c'est une majorité des gens à qui on
+parle on se focuse sur les boîtes de
+services et on dit voilà si tu es avocat
+si tu es graphiste si tu es freelance et
+cetera c'est c'est pour ça K c'est pour
+toi k Sky est fait on tombe sur cette
+value proposition qui est vous allez
+voir loin d'être la dernière value
+proposition d' one can scale mais à
+l'époque ça nous a permis de faire des
+premières ventes et de relancer un petit
+peu la machine et en même temps on s'est
+dit bon quitte à être vraiment dans la
+merde autant se mettre une deadline à
+assez courte parce que là on va arriver
+bientôt à l'été on va arriver bientôt au
+mois d'août et si on sort anyone can
+scale au mois d'août ça va faire un flop
+ça va être terrible donc on dit
+mettons-nous une deadline pour juillet
+et c'est à ce moment-là qu'on vous a
+tous invité dans le slack and one can
+scale et on a commencé à vous voir vous
+présenter dans le channel welcome et
+vous imaginez même pas à quel point ça
+nous a fait du bien genre on vous a tous
+vu vous inscrire raconter ce que vous
+faisiez et on est passé de de chiffres
+sur un dashboard de notre fenelle parce
+que c'était notre seul focus c'était de
+sauver la boîte à des vrais humains qui
+essayent de faire des choses des belles
+choses qui essayent de changer des trucs
+et qui essayent de faire en sorte que
+leur business il soit plus grand qui
+essayent de bâtir le truc qu'ils ont
+envie de bâtir et qui nous demande de
+l'aide pour le faire et ça a vraiment
+changé énormément de choses et c'est à
+ce moment-là que la communauté ksky il
+est né c'est à ce moment-là que notre
+notre état d'esprit par rapport à vous
+il a changé on est passé de c'est le
+truc où on ça nous a obligé à tuer tout
+le reste de notre stratégie pour pouvoir
+se concentrer dessus ah mais il faut
+absolument qu'on vous aide à bâtir des
+trucs plus grand parce que il y a moyen
+qu'on fasse du sale il y a moyen qu'on
+fasse des trucs vraiment solides et du
+coup la communauté one k SK secret et on
+reprend les tournages on reprend les
+tournages on met ousama sur cette scène
+en face caméra je lui pose des questions
+c'était un peu au quart c'était un peu
+en mode
+podcast cétait ousama aujourd'hui je
+vais vous parler d'un sujet un petit peu
+bizarre et c'était assez drôle et donc
+on a fait tous ces tournages on a
+vraiment enchaîné enchaîné et comme on
+avait pas beaucoup plus de temps que ça
+d'Ousama et ben j'ai dit bah je vais
+aussi monter sur scène et je vais aussi
+traduire en pratique tous tous les
+conseils d'Ousama ousama est un très bon
+philosophe et un très bon explicateur de
+d'état d'esprit moi j'aime bien traduire
+ça c'est Momo qui me disent ça tout le
+temps il me disent ce qui est cool avec
+toi c'est que tu arrives à traduire en
+truc actionnable ce qu'ousama propose en
+truc très méta et et donc je me suis dit
+bon bah voilà on n pas le temps c'est
+parti je me mets dans les vidéos je vais
+faire des office hours avec tout le
+monde et puis on arrive enfin au moment
+où on peut commencer à monter on sort un
+premier trailer euh on sort un trailer
+pour annoncer que ça va revenir et on se
+prépare au lancement nestrine charbon
+trop vénère pour arriver à avoir les 5
+épisodes qui sont prêts pour la release
+parce que c'était vraiment vraiment
+short et donc on arrive donc au mois de
+juillet où c'est le moment où on a
+décideré de release le premier chapitre
+de New onec scale on était très stressé
+parce que c'est pas exactement ce qu'on
+vous a promis à la base euh moi c'est un
+c'est un truc sur lequel je travaille
+énormément et je pense qu'en tant
+qu'entrepreneur c'est un truc sur lequel
+on devrait euh tous travailler c'est que
+j'ai une peur bleue de vous décevoir et
+en même temps j'ai une envie très très
+forte que vous me fassiez des feedbacks
+extrêmement honnêtes et c'est hyper
+contradictoire parce que du coup ça veut
+dire que je dois faire du masochisme
+quoi je dois aller vous voir et vous
+demander alors tu trouves que c'est
+pourri non ça va non allez dis-le dis-le
+ouais bon ok c'est pas malade et donc
+vraiment c'est c'est c'est un c'est un
+paradigme qui est compliqué et qu'on sur
+lequel on a dû travailler et donc à la
+release on sort les C épisodes que vous
+connaissez sur générer des leads sur
+standardiser automatisé déléguer au
+clients et le pricing qui sont les bases
+en fait du scale et je le vois
+rétrospectivement maintenant c'est hyper
+intéressant d'avoir commencé par ça à
+l'époque j'étais là mais pourquoi ousama
+il commence par ça c'est quand même un
+peu bizarre et tout ça maintenant je le
+vois c'est vraiment le truc fondamental
+qui va nous permettre de faire theOne
+can scale un truc vraiment fat par la
+suite mais à l'époque je comprenais pas
+donc on sort ces 5 épisodes et je me dis
+wou mais imagine les gens ils aiment pas
+et tout faut qu'on sorte aussi les
+office hours faut qu'on sorte aussi les
+retours d'expérience de Pier faut
+vraiment qu'on mette un max de contenu
+et on commence à produire beaucoup de
+contenu supplémentaire donc on a fait
+les C épisodes bonus qui sont sortis
+quasiment en même temps que le que le
+chapitre 1 et en tout on a fait 300
+ventes et 300 vent ça nous a permis de
+sauver la boîte
+et je voudrais juste vous dire merci
+pour ça parce que bah cette boîte elle
+met cher genre c'est ce que j'essaie de
+faire depuis toute ma vie quoi euh cette
+boîte elle est cher à l'équipe aussi
+parce queon y met vraiment toute notre
+énergie et savoir qu'il y a des gens qui
+sont prêts à payer pour un truc où
+franchement on était vraiment pas sûr de
+ce qu'on faisait quoi genre et on l'
+est-ce qu'on l'est à un moment dans sa
+vie d'entrepreneur je sais pas mais nous
+on était pas sûr en tout cas mais on
+s'est dit on va tout donner pour les
+régaler et on va continuer à tout donner
+pour vous régaler mais merci vraiment
+beaucoup d'avoir commandé cette
+formation et d'avoir fait en sorte que
+coup d'État génère du cash merci d'être
+là ce soir ça fait hyper hyper plaisir
+c'est vraiment
+cool merci beaucoup
+voilà je suis au bord des larmes
+salot et donc on attaque une autre
+période qui les vacances là c'était bien
+c'était bien vous imaginez même pas
+c'était incroyable genre vraiment
+c'était enfin on est tous partis au
+quatre camp du monde par exemple il est
+parti au Japon il a demandé sa femme en
+mariage anï elle est elle est partie tu
+es parti où Anaï déjà
+ouais enfin anï problème d'anï c'est
+qu'elle voyage tout le temps donc
+j'arrive plus à me rappeler quel voyage
+était à quel moment parce que chez C on
+est tous en remote donc en fait on bosse
+beaucoup de l'étranger constamment donc
+anï anï est parti Nasrine est partie
+elle s'est fait des vacances en vraiment
+tout le monde s'est reposé ça nous a
+fait beaucoup beaucoup de bien et
+c'était surtout le moment pendant ces
+vacances de prendre un peu de recul et
+d'assimiler un peu les les premiers
+feedback que vous nous faisiez parce
+qu'évidemment on n pas décroché
+complètement genre moi j'étais à Bali et
+j'étais un peu en mode allez je regarder
+le slackale j'avais un peu de de
+certains d'entre vous certaines d'entre
+vous et donc on a commencé à avoir des
+premiers feedback céit des feedback qui
+étaient pas nécessairement extrêmement
+positifs pour le dire d'une manière
+politiquement
+correcte et donc ça nous a permis quand
+même de réfléchir à tout ça de essayer
+de prendre un peu conscience mais
+c'était vraiment en tâche de fond et
+pendant les vacances on se repose et
+histoire de se créer une intuition sur
+comment on va faire le chapitre 2 et
+comment on va faire pour que ce soit de
+la balle et pendant ces vacances don
+réfléchi à tout ça et ensuite on arrive
+donc à septembre ça fait un mois déjà
+qu'on est rentré chez coup d'État j'ai
+l'impression que ça fait 2 jours ceci
+dit ça fait un mois que je bosse 18h par
+jour ça m'était pas arrivé depuis menu
+nextdor ma précédente boîte et ça fait
+un mois que je kiffe c'est quand même
+cool c'est un truc voilà mais c'est pas
+tenable je suis un peu crevé c'est pas
+tenable je pense que la team aussi mais
+en fait on a passé vraiment un mois à
+restructurer tout ce qu'on faisait à se
+poser la question de bon la boîte est
+sauvée on a un peu de cash d'avance
+comment on fait pour mettre en place une
+stratégie logique et solide qui est pas
+complètement émotionnel et pas
+complètement en réaction à ce qui se
+passe comment on fait pour relancer coup
+DTA x donc on va relancer coup Etta x
+comment on fait pour relancer coup
+etatox donc on va relancer coup detatx
+comment on fait pour produire des
+nouveaux contenus qui sont de plus en
+plus pertinents et comment on fait pour
+faire dan one can scale la meilleure
+formation que le monde a jamais vu et ça
+ça a pris du temps ça a pris beaucoup
+d'énergie c'était presque un pivot parce
+que dans le même temps il y a une autre
+réflexion qui est venue s'insérer qui
+était liée à tous les feedback qu'on a
+eu pendant août et même un peu pendant
+juillet qui était ok la formation c'est
+cool les contenus vidéos c'est cool mais
+comment j'applique moi vraiment à mon
+business et c'est une question qu'on a
+tout le temps il y a beaucoup de gens
+dans dans beaucoup d'entre vous qui nous
+ont dit à chaque fois qu'on pose la
+question qu'est-ce que vous voudriez
+voir dans anyone can scale il y a
+toujours quelques personnes qui vont
+dire du coaching personnalisé ouais bah
+ouais on sait on sait mais franchement
+enfin même moi j'arrive pas à avoir du
+temps d'Ama donc ça va être compliqué
+moi je peux vous aider je le fais avec
+plaisir Anaï elle vous elle voit plein
+d'entre vous tout le temps mais ça ser
+rien genre fondamentalement ça va aider
+certains d'entre vous notre but c'est d'
+aider un maximum c'est d'aider vraiment
+un max de monde c'est pour ça qu'on fait
+tout en ligne c'est pour qu'il ait des
+gens qui peuvent pas être là ce soir qui
+puissent regarder la vidéo sur Youtube
+après depuis le Canada et se dire ouis
+c'est trop bien je fais partie de la
+communauté any Cancale c'est pour qu'il
+a des gens qui n'importe où dans le
+monde puissent se sentir part d'un
+mouvement qui est plus grand qu'eux et
+se sentir moins seul dans la création de
+leur boîte parce que c'est ce qui est le
+plus dur quand on est entrepreneur et
+donc on se dit ouais ok ils veulent du
+coaching personnalisé et il y a cette
+idée qui a regardé l'épisode 1 de break
+the
+game ok pour ceux qui ont pas vu
+l'épisode 1 de break the game c'est une
+série documentaire que que j'ai décidé
+de réaliser sur ce qu'on fait chez coup
+d'État et le premier épisode parle de
+notre du nouveau produit qu'on est en
+train de lancer qui est une sorte de
+programme de coaching gamifié pour vous
+montrer comment passer les étapes dans
+votre boîte plutôt que de juste vous
+donner des grands concepts généralistes
+et des et des exemples et plus pour vous
+coacher c'est un truc qu'on a lancé il y
+a une semaine qui est inspiré énormément
+de la communauté ni1 can scale
+d'ailleurs il y en a certains d'entre
+vous qu'on a sélectionné pour l'alpha on
+a sélectionné 20 personnes on va
+commencer à travailler là-dessus et
+notre priorité c'est de faire en sorte
+de vous donner accès à ce à cette cette
+version gamifié de coup d'état pour les
+gens d' one can scale pour que vous
+puissiez prendre tous les conseils et
+toutes les méthodos qu'on vous donne et
+les appliquer vraiment étape par étape
+alors ça paraît flou comme ça c'est
+normal c'est parce que c'est eu beaucoup
+dans ma tête et dans ma tête c'est un
+bordel mais vous allez voir ça va être
+cool donc euh quand on a annoncé ça je
+sais qu'il y a eu pas mal de questions
+dans la communauté Cancale qui m'ont été
+envoyé pour me dire c'est cool que vous
+lanciez un jeu mais c'est quand le
+chapitre 2 on vous oublie pas on est
+toujours là euh c'est pariante qui prend
+le lead de ce de cette nouvelle version
+du produit il est en train de faire ça
+comme un chef c'est incroyable ce qu'il
+fait et ça empêche pas que avec nestrine
+on va bosser fort sur le chapitre 2 et
+ça continue et on continue nos
+opérations tout ça c'était la façon de
+restructurer coup d'État pendant le mois
+de
+septembre et là il y a une depuis une
+semaine on a attaqué une nouvelle une
+nouvelle petite étape qui était toutes
+ces intuitions tout ce qu'on a un
+peu intériorisé pendant le mois d'août
+des feedback que vous nous avez fait et
+cetera tous ces trucs là on voulait
+mettre des chiffres dessus et donc
+c'était le moment de prendre du feedback
+c'est pour ça qu' y a deux TR jours là
+on vous a envoyé un type form qui est
+anonyme pour que vous puissiez nous
+clasher et que vous soyez honnête avec
+nous et brutalement honnête on a eu 50
+réponses jusqu'à maintenant si vous avez
+pas encore répondu à stype for qui vous
+a été envoyé par mail et sur le slack je
+vous invite à y répondre et si vous
+regardez cette vidéo je vous invite à y
+répondre aussi pour qu'on ait le plus de
+feedback possible mais déjà avec 50
+feedback on a une bien meilleure vue de
+ce que vous attendez du chapitre 2 donc
+merci beaucoup pour ça parce que c'est
+vraiment incroyable genre c'est c'est ce
+qui fait que on apprend et qu'on a pas
+besoin de l'aide de vrais professionnels
+pour créer la formation parce qu'on a
+besoin de votre aide à vous et et en
+fait de ces ces feedback bon je dis
+merci et tout mais en vrai j'ai pris une
+sale claque genre il y a il y a pas mal
+de gens qui connaissaient déjà beaucoup
+les concepts qu'on a évoqué dans le
+chapitre 1 ce à quoi on s'attendait et
+grosso modo le feedback général c'est on
+veut la suite bon jusque- là jusque- là
+rien d'anormal et donc on prend on prend
+tous ces feedbacks on a installé des h
+jar pour regarder ce qui se passe dans
+le Fenel et le rapport des gens à la
+nouvelle à la value proposition d' new
+one can scale pour vraiment tout
+améliorer et créer une version upgrade
+aider de one Cancale qui va sortir avec
+le chapitre 2 pour que vous ayez un truc
+qui va vraiment vous aider à ce qu'er
+vos boîtes au-delà de automatisé
+standardisé qui sont vraiment la base de
+la base et pour aller chercher quelque
+chose de de plus profond donc c'est quoi
+la
+suite la suite c'est
+octobre on va donc tourner le chapitre 2
+créer la nouvelle value proposition dan
+one can scale et cette semaine on a eu
+un succès qui m'a fait hyper plaisir
+c'est que j'ai réussi à booker 16 heur
+d'Ousama dans les mois qui dans le mois
+qui vient
+j'espère vraiment qu'il va regarder
+cette vidéo parce que tu sais c'est
+vraiment je lui fous la pression tu vois
+et donc on a fait on on a booké 4 fois 4
+heures avec Ousama ça veut dire que
+chapitre 2 ça va être beaucoup d'Ousama
+c'est un feedback qu'on a eu pas mal ça
+va être beaucoup d'Ousama ça va être
+plus concret ça va être plus rentrer
+dans l'analyse de boîte existante genre
+on a bien compris que passer du temps à
+à faire en sorte que de coacher des gens
+et les suivre et avoir leur succès à
+postériori c'était assez hasardeux alors
+que prendre une boîte comme kimono et
+que ousama décortique complètement le
+modèle de skel qu'ils ont implémenté
+pour SK est le leur process de Sales ça
+a déjà plus d'intérêt donc on va mettre
+en place ce genre de truc on va je
+commence à voir pour mettre en place des
+fiches recettes pour que vous ayez des
+recettes à implémenter dans vos boîtes
+en fonction de vos différents trucs
+enfin voilà on est vraiment en train de
+vous créer à balle de contenu des trucs
+on va tester on va itérer je fais
+intervenir d'autres start-up de the
+family qui vont aussi itérer sur ces
+concepts là vraiment on va on va on va
+pousser à fond pour que vous puissiez
+vraiment implémenter tout ce qu'on donne
+comme conseil et que ça ce soit pas
+juste de l'inspi ce soit à la fois de
+l'inspi mais que ce soit aussi du très
+concret et que vous puissiez vraiment
+vous en servir dans vos boîtes pour
+bâtir les boîtes que vous avez envie
+d'avoir et donc ça c'est c'est c'est sur
+le produit en lui-même et sur la value
+proposition on est en train de de
+switcher parce qu'à partir du moment où
+on a fini le chapitre 1 qui est sur ce
+qu'elle est individuellement en tant que
+freelance en tant qu'indépendant ça veut
+dire on va passer au chapitre 2 qui
+est-ce qu'elle est en tant que boîte
+donc des boîtes qui ont des équipes donc
+des boîtes qui sont plus grosses donc
+des boîtes qui ont aussi une ambition
+plus grande parce que plus on avance et
+plus notre ambition grandit de manière
+générale et donc on est encore en train
+d'itérer sur cette value proposition ce
+que j'ai trouvé tout à l'heure c'est que
+c'est un truc que je dis tout le temps
+c'est que avec anyone can scale dans la
+communauté on bâtit nos empires et nos
+empires ça veut pas dire qu'on est
+obligé de battir des trucs gigantesques
+on peut s'arrêter un peu quand on veut
+mais ce qui est important c'est
+d'arriver à bâtir nos empires ce qu'on a
+envie d'avoir et c'est un truc que je
+dis tout le temps moi je fais coup
+d'État pour que les gens ils bâtisent
+des empires et qu' a un vrai impact sur
+le monde autour d'eux aujourd'hui dans
+cette salle il y a que des gens qui ont
+un vrai impact sur le monde autour d'eux
+il y a il y a il y a très peu de gens
+qui ont pas commencé ou qui sont encore
+dans le doute ou ou qui ou qui cherchent
+encore la première étape à passer vous
+avez tous passé vos premières étapes
+vous avez tous passé l'étape difficile
+de se lancer et de faire en sorte
+d'avoir un business qui tourne
+maintenant il est temps d'en faire un
+business plus gros il est temps d'en
+faire un truc qui va vraiment changer
+les choses autour de
+nous voilà je pense que j'ai à peu près
+tout dit pour pour cette histoire de
+chapitre 2 alors c'est pas beaucoup
+d'infos mais vous inquiétez pas on va
+vous tenir au courant les épisodes du
+chapitre 2 vraisemblablement ils vont
+sortir au fur et à mesure et pas en one
+shot pour éviter qu'on soit encore à
+courir 6 mois et que je perde les
+fichiers euh et et donc on va sortir les
+épisodes au fur et à mesure créer de la
+discussion on attends vous que vous nous
+fassiez beaucoup de feedback on a besoin
+de votre aide on a besoin que vous nous
+fassiez énormément de feedback que vous
+nous en en voyer envoyer à Nessrine des
+des des requêtes j'aimerais bien pour
+mon business voir une recette qui me
+permettrait de faire ça et on se
+démerdera pour trouver des gens qui
+peuvent vous expliquer ses recettes on
+va parce que les recettes sont pas pour
+moi une fin en soi par contre les
+recettes c'est pertinent pour
+s'entraîner et je pense que c'est
+important qu'on s'entraîne tous aux
+différentes disciplines qu'on qu'on met
+en qu'on met en avant dans any1 can
+scale donc voilà on a vraiment besoin de
+vous encore une fois merci merci du fond
+du cœur pour ce que vous avez fait pour
+nous et avec nous j'ai vraiment hâte de
+construire un truc de ouf avec vous et
+avec toute la team les gars est-ce que
+vous pourriez
+venir la team vas-y NES
+viens bon il en manque un ce soir c'est
+fils parce que il est en remote là il
+est il est à Barcelone si je me trompe
+pas mais la semaine prochaine on est en
+retreat tous les 5 dans la Creuse bon
+voilà c'est pas c'est pas hyper stylé
+mais la maison est cool euh la Creuse
+ouais non j'avou il y a peut-être des
+gens dans la Creuse qui n regarde et ils
+vont être là genre mais il y a une
+piscine donc on va donc on va on va se
+mettre bien euh donc on va on va en
+profiter pour pour se réunir parce que
+ça fait beaucoup de temps qu'on s'est
+pas réuni même à travers toute cette
+étape difficile on s'est pas réuni donc
+on a besoin de ce moment-là donc voilà
+nestrine que vous avez pas eu l'occasion
+de voir beaucoup qui réalisent anyone
+can scale si vous pouvez l'applaudir ça
+me fera trop plais
+Anaï qui gère la communauté je sais pas
+si vous avez vu elle a relancé le slack
+le slack jaune le coup d'État exchange
+avanth il y a 1500 inscrits dedans alors
+c'est forcément plus gros que la
+communauté any one Cancale et j'aime
+bien ce petit sentiment de il y a la
+communauté générale vous pouvez y
+participer aussi vous êtes les bienvenus
+dedans évidemment mais il y a la
+communauté one Cancale des gens qui ont
+déjà passé une étape ça va nous éviter
+d'avoir un peu du bruit et et beaucoup
+beaucoup de messages donc on va pouvoir
+échanger ça ça va être très cool merci
+anï pour le vousoul c'est
+[Applaudissements]
+un et pariante qui a une super moustache
+euh voilà vous pouvez
+l'applaudir non pariant qui a fait un
+pariant qui a fait un boulot
+exceptionnel sur le produit qui commence
+à faire un un nouveau boulot
+exceptionnel sur sur la version alpha de
+notre nouveau produit gamifié euh je
+vais le coupler à fils en même temps euh
+qui fait toute la tech et qui est tout
+le temps là pour me rappeler que il faut
+être focus c'est c'est lui hein c'est
+beaucoup lui la réflexion deêtre focus
+de couper des trucs parce que depuis le
+début en fait fil c'est il est là depuis
+le début de coup d'état depuis que j'ai
+repris il nous m'a rejoint quelques
+semaines après le tout départ et déjà
+sur le MVP de coup d'état donc la
+première version du Netflix de
+l'entrepreneuriat qui est un un concept
+qu'on va progressivement arrêter de
+donner pour coup
+d'État à la première version moi j'avais
+fait des maquettes il y en avait plein
+et tout et et il s'est posé avec moi
+pendant 2 heures et il m'a dit écoute
+mec on va enlever les tr/4 de ce que tu
+as designé quoi et c'est un job qui est
+hyper important en fait c'est hyper
+important de savoir enlever des trucs
+parce que en tant que créateur en tant
+que Builder c'est très facile d'imaginer
+beaucoup beaucoup de solutions
+différentes ce qui est important c'est
+d'arriver à en faire moins qu'elle soit
+de meilleure qualité fils est toujours
+là pour nous rappeler ça c'est des
+principes qu'on essaie d'appliquer de
+plus en plus dans la team coup d'État et
+le duo pariant et fils qui ont déjà
+monté une boîte dans l'éducation avant
+et assez explosif et je pense que tous
+les C on est prêt à à vraiment casser le
+Game de l'éducation je vous demande à
+plisir pariante s'il vous
+plaît
+etil voilà encore une fois merci je je
+le dis 100 fois mais merci d'être là
+avec
+nous on n'oublie pas faisons la fête
+parce que la fête c'est
+important allons ouais parting the ser
+matter ouis on est au bon endroit pour
+dire
+ça donc voilà merci beaucoup merci
+d'être là on va kiffer hésitez pas à
+nous poser toutes vos questions à nous
+faire tous vos feedback et connecter
+vous les uns avec les autres parce que
+c'est clair que c'est pas dans ce lac
+qu'on va apprendre à se connaître genre
+il y a juste pas moyen donc c'est
+maintenant l'occasion d'apprendre à se
+connaître pour ensuite pouvoir continuer
+ses relations dans ce lac amusez-vous
+bien et une très bonne soirée
+[Applaudissements]
+[Musique]
+du

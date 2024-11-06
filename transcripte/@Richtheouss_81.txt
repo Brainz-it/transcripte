@@ -1,0 +1,285 @@
+bienvenue dans cette vidéo sur comment
+créer une landing page alors aujourd'hui
+je vais pas parler de la création pure
+d'une landing page euh sur comment faire
+la structure d'une landing et cetera
+c'est des sujets que j'ai déjà abordé
+pas mal euh notamment dans la saison 2
+de coups d'État entreprendre je parle de
+la structure d'une landing page comment
+faire pour avoir un message performant
+et percutant ici dans trouver des
+clients je voudrais qu'on s'attarde plus
+sur la landing page au service d'un
+canal d'acquisition vous allez le voir
+dans plein plein de canaux euh
+j'explique que une landing page est
+nécessaire pour faire marcher le canal
+parce qu'elle va vous permettre de créer
+des expériences plus profondes que juste
+le canal en lui-même par exemple si je
+prends l'exemple du S dans le module sur
+S j'explique que euh tu peux pas faire
+une pub sur Google qui renvoie pas vers
+une landing page qui est la continuité
+de l'expérience de cette pub c'est
+extrêmement important donc créer une
+landing page c'est tout un art c'est une
+vraie discipline profonde mais ça doit
+pas être forcément compliqué on va voir
+ici comment faire pour bah créer une
+landing page rapidement et comment faire
+pour la pluger avec Google Analytics
+pour pouvoir mesurer les performances de
+votre site et utiliser ensuite la vidéo
+sur bah comment Analytics fonctionne
+donc ici on va on est sur squarespace
+donc squarespace c'est un de mes sites
+Web préférés qui te permet de créer ton
+propre site hein ça va très très vite ça
+coûte pas très cher et ça te permet bah
+de de d'avoir un site qui a de la gueule
+et qui est tout fait en drag and drop
+pas besoin de savoir coder très très
+simple donc vous venez sur squarespace
+vous créez un compte et vous cliquez sur
+le bouton en haut à droite créer un
+site et vous allez voir que il y a déjà
+pas mal de templat qui sont disponibles
+donc ici on va pas créer un site on va
+pas le modifier forcément de zéro mais
+admettons que vous vouliez faire une
+landing page qui va parler de votre
+podcast et ben on va faire commencer
+avec Paloma Paloma c'est le nom du
+template voilà donc vous allez donner un
+nom à votre site donc ça va être le
+podcast des entrepreneurs
+vous explique comment se servir du du du
+site vous suivez le tuto vous faites ça
+bien vous prenez du temps pour faire
+votre landing page correctement ici vous
+avez votre truc un podcast sur la
+culture les voyages et les relations bon
+le template é déjà fait pour ça c'est
+vachement bien et vous allez voir que
+bah vous pouvez modifier l'ensemble de
+la page donc en venant cliquer
+directement dans l'interface vous allez
+pouvoir avoir accès bah ici si vous
+voulez changer le titre par exemple bah
+vous allez pouvoir le modifier
+directement ici
+tac voilà terminé enregistrer bref tout
+ça ça vous permettre de créer vraiment
+euh bah un site que vous allez pouvoir
+mettre en ligne c'est devenu très très
+simple je me souviens moi quand j'ai
+commencé à faire mes premierers site
+site web c'était beaucoup plus compliqué
+que ça fallait apprendre à coder et
+cetera aujourd'hui tout est devenu
+extrêmement simple donc comme je l'ai
+dit je m'attarde pas sur la création de
+la landing page en elle-même vous allez
+pouvoir bosser là-dessus vous de votre
+côté je vous invite à le faire et j'ai
+très très hâte de voir les différentes
+landing de campagne d'acquisition que
+vous allez mettre en place mais donc ici
+il y a deux choses desquelles je veux
+parler la première c'est que en général
+sur ces sites de création de sites web
+qui sont hyper bien foutus vous avez des
+outils d'analyse qui sont déjà
+disponibles par défaut dans le site ici
+donc si vous cliquez sur outil d'analyse
+euh dans squarespace vous allez voir que
+vous pouvez voir vos ventes votre taux
+de conversion le nombre de commandes
+vous pouvez voir le trafic la géographie
+enfin bref il y a énormément de choses
+qui sont déjà disponibles directement
+dans squarespace et tout ça va vous
+permettre de mesurer finalement la
+performance de votre canal d'acquisition
+vous avez même pas forcément besoin
+d'aller plus loin que ça après si vous
+voulez aller un peu plus loin que ça en
+faisant un setup qui est très rapide et
+très facile vous pouvez utiliser analy
+Analytics c'est un outil qui est dispo
+gratuitement qui est mis à disposition
+par Google ça leur permet eux bah
+d'avoir une présence sur le web en
+entier et de savoir ce que les gens font
+sur internet mais vous de votre côté
+vous avez du coup accès à une espèce de
+base de puissance gigantesque de Google
+qui vous permet de mesurer vraiment les
+comportements que les gens vont avoir
+sur votre site et donc de pouvoir voir
+infin les performance de vos différents
+canaux d'acquisition de vos différentes
+campagnes d'acquisition pour mesurer
+toutes C ses performances pour mesurer
+tous ses comportements Analytics a
+besoin d'avoir un bout de code
+directement sur votre site donc même si
+là on a un outil qui nous permet de
+créer un site en drag and drop sans
+avoir à codé une seule ligne il faut
+bien comprendre que derrière il y a
+énormément de code qui est généré ce
+dont as besoin Analytics pour mesurer
+tout ça ça va être d'avoir sur toutes
+les pages de votre site un petit bout de
+code qui va lui permettre de renvoyer
+les infos depuis votre site vers Google
+pour ça squarespace a une fonctionnalité
+native qui vous permet d'installer
+Analytics très simplement et je vous
+montre juste après comment le faire même
+si vous êtes pas dans squarespace et que
+vous avez un autre éditeur de code donc
+ici on va aller dans
+Paramètres donc ici on va aller dans
+Paramètres on va aller dans
+avancer et on va aller dans clé API
+externe qui vont vous permettre du coup
+de il y a un petit formulaire donc
+compte numéro de compte Google Analytics
+dans Analytics quand vous allez créer
+votre compte hein donc c'est très simple
+vous tapez Analytics sur Google vous
+commencez à créer votre compte c'est
+gratuit c'est hyper simple ils vont vous
+donner un id de suivi cet ID de suivi il
+est dispo à tout moment dans les
+paramètres de Google Analytics et donc
+vous allez pouvoir le copier et venir le
+coller
+directement et venir le coller
+directement dans votre truc squarespace
+et
+enregistrer et c'est fait vraiment c'est
+hyper hyper simple de pluguer Analytics
+à un site web en 2020 tout a été été
+extrêmement simplifié pour que vous ayez
+plus qu'à vous concentrer sur votre
+créativité et sur comment créer une
+landing page qui
+cartonne là ici je vous ai montré pour
+squarespace en particulier mais en fait
+la plupart du temps vous allez pouvoir
+injecter du code directement dans le
+site web qui va être généré par votre
+éditeur donc le but ça va être de
+trouver comment faire pour injecter un
+bout de code d'Analytics qui est dispo
+au même endroit dans vos paramètres
+c'est le code de suivi ici donc il
+ressemble à ça le Global site tag là
+c'est un petit bout de code en
+Javascript que vous allez pouvoir copier
+et vous allez pouvoir venir le coller
+dans le Head de votre code sur votre
+site si vous savez pas ce que c'est je
+vous invite à vous renseigner sur Google
+hein c'est pas c'est pas très très
+compliqué en général vous avez des trucs
+comme sur squarespace ici d'injection de
+code qui sont très souvent disponibles
+uniquement pour les pour les comptes
+premium et business he ça fait partie de
+leur fonctionnalité premium mais donc
+vous allez pouvoir venir ici coller
+votre bout de code ce qui fait que dans
+tous les entêtes dans toutes les balises
+HEAD des pages de votre site vous allez
+avoir bah ce bout de code là donc
+Analytics qui va traquer les
+performances de votre site une fois que
+ça c'est fait une fois que vous avez
+Analytics qui est plugé à votre site Web
+vous pouvez déjà commencer à mesurer les
+performances de vos différents canaux
+d'acquisition il y a une autre vidéo
+dans Ce module qui s'appelle mesurer les
+performances d'un canal d'acquisition
+avec Analytics où je fais une brève
+introduction à l'outil Analytics à ce
+qu'il faut connaître dedans à comment
+serv de ces différentes fonctionnalités
+et comment avoir une vue un peu plus
+granulaire de votre business par rapport
+à votre trafic en ligne et cetera donc
+tout ça ça prend du temps ça prend du
+temps de se former ça prend du temps de
+regarder comment fonctionnent les outils
+Infiné oubliez jamais que ce qui est
+important c'est pas tant la technique
+que vous mettez dedans que le résultat
+final l'expérience à laquelle
+l'utilisateur va être confronté si vous
+arrivez à créer des expériences
+pertinentes avec des des contenus qui
+sont géniaux qui donnent envie aux gens
+de cliquer qui donnent envie aux gens
+d'avancer qui leur expliqu pourquoi
+c'est pertinent pour eux par rapport bah
+au ciblage que vous avez fait avec le
+module sur cibler des clients
+normalement avec les ces deux modulesl
+vous avez tout ce qu'il faut pour mettre
+en place des campagnes d'acquisition qui
+cartonnent et qui vont vous aider à
+avoir des performances bien plus élevées
+j'espère que ça vous donne envie de vous
+lancer là-dedans parce que bah c'est un
+travail qui est profondément cré et
+intéressant où il y a des résultats
+concrets qui s'affichent sur votre écran
+hyper
+régulièrement mettez-vous dans Analytics
+mettez-vous dans la création de landing
+page c'était il y a pendant longtemps un
+job de créatif de développeur ça allit
+toujours un tout petit peu mais c'est à
+la portée de tout le monde aujourd'hui
+de faire des landing page de malade dans
+la communauté coup d'État j'ai vu des
+landing page incroyables depuis 2 ans je
+vais sûrement en mettre quelques-unes en
+avant dans des prochaines vidéos YouTube
+j'espère que vous ferez partie de ces
+gens-là en tout cas hésitez pas à nous
+les envoyer à nous envoyer ce que vous
+faites jamais pour qu'on vous dise si
+c'est bien ou pas j'ai aucune idée de si
+une landing page va marcher ou pas par
+contre bah en tant que designer et
+qu'entrepreneur j'ai une certaine
+appétence pour les landing qui ont de la
+gueule et qui sont bien faites et si en
+plus ça convertit je suis le plus
+heureux des hommes donc j'espère que ça
+va vous faire kiffer que vous allez
+prendre du plaisir à faire tout ça parce
+que avoir un site web aujourd'hui c'est
+pas juste un truc sympa qui vous permet
+de de de d'avoir une présence sur
+Internet c'est un truc qui est essentiel
+si vous voulez mettre en place des
+canaux d'acquisition qui fonctionnent
+quel que soit votre business que vous
+soyez une boulangerie un fleuriste un
+freelance que vous soyez une PME que
+vous soyez quoi que ce soit si vous
+voulez pouvoir mettre en place la
+plupart des modules d'acquisition qu'on
+a dans cette formation trouver des
+clients vous allez avoir besoin de
+savoir créer une landing page et pour ça
+la meilleure manière de faire c'est de
+s'y mettre bon courage

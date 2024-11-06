@@ -1,0 +1,2275 @@
+première raison pour laquelle faut
+revenir au fondamentaux c'est que ça
+rend n'importe quel projet beaucoup plus
+facile à approcher beaucoup plus simple
+et la deuxième c'est que ça peut vous
+aider à voir des choses que les autres
+ont pas vu moi ça a été mon cas j'ai eu
+un coup de chance quand j'ai refait mon
+casque en partant de zéro c'est que je
+l'ai fait avec une philosophie design un
+peu différente de celle d'oculus et il
+se trouve que la mienne en gros
+permettait de réduire la quantité de
+calcul côté casque mais l'augmenter côté
+ordinateur et donc de faire un casque
+beaucoup moins cher ce qui explique
+pourquoi mon casque coûtait 100 dollars
+au lieu de 1000
+dollars ah
+bonjour à tous Je me présente je suis
+Valentin je suis le CEO de coup d'État
+il y en a certains d'entre vous qui me
+connaissent déjà je suis hyper content
+que vous soyez là ce matin c'est trop
+cool on teste en fait une série
+d'événements pour voir ce qu'on peut
+faire pour aider vraiment les gens qui
+veulent faire coup d'État pour vous
+aider en fait à amener vos boîtes à
+aller plus loin pour ça on a on a créé
+des événements qu'on a appelé des C tatx
+où on invite des entrepreneurs qui
+viennent raconter leur histoire les
+leçons qu'ils en ont tiré et vous donner
+un peu des des outils et des recettes et
+des clés pour que vous puissiez
+reproduire un peu ce qu'ils ont fait ou
+au moins vous en inspirer et l'appliquer
+à votre contexte ce matin on accueille
+quelqu'un que j'apprécie tout
+particulièrement qui s'appelle
+Maxime c'est un gars que j'ai rencontré
+il y a 6 mois qui m'a bluffé
+instantanément alors que je connaissais
+même pas son histoire et son histoire
+est assez fabuleuse parce qu'en gros il
+y a un an et demi de ça il a voulu
+s'acheter un casque de réalité virtuelle
+donc pour faire du du gaming le problème
+c'est que ce casque coûtait 1000 chez
+oculus qu'il y avait aucun casque qui
+qui coûtait moins que ça il avait pas
+l'argent pour pouvoir le faire il s'est
+dit puisque je peux pas me l'acheter je
+dois pas être le seul dans cette
+situation là je vais recréer une un
+casque complètement et en fait il a fini
+par créer un casque qui coûtait 100
+dollars ce casque a une technologie qui
+est meilleure que la plupart des autres
+casques et aujourd'hui il a fait
+exploser ce Tru et son et sa technologie
+de casque c'est devenu la référence pour
+tous les nouveaux casques qui sont créés
+en réalité virtuelle à vers le monde il
+va revenir sur son parcours il va vous
+expliquer comment il a mis tout ça en
+place ça a l'air d'être un overnight
+success ça l'est pas il va vous
+expliquer comment il a mis tout ça en
+place tout ce qu'il a créé et tous les
+gens qui l'ont inspiré il va vous
+raconter un peu tout ça applaudissez-le
+bien fort il
+arrive et bonne
+conférence salut tout le monde je
+m'appelle Maxime Coué j'ai créé mon
+propre casque de VR et en fait ce que je
+vais essayer de faire c'est que je vais
+essayer de vous raconter l'histoire ce
+qui s'est vraiment pas passé et et on va
+essayer de décortiquer un peu les les
+leçons intéressantes qu'on peut en tirer
+alors déjà comment est-ce que j'ai
+réussi à le créer
+euh donc les motivations les a raconté
+c'est que je suis arrivé au lycée avec
+mon meilleur ami on voulait créer un en
+fait on voulait jouer à des jeux en VR
+le cULus rift CIT à peu près 1000
+dollars donc on pouvait pas se l'acheter
+on avait genre 15 ans et et du coup on
+s'est dit autant le fabriquer nous-même
+alors oculus pour ceux qui voient pas en
+gros c'est euh un casque de VR que vous
+branchez à votre ordinateur et qui vous
+permet de vous immerger dans un monde en
+VR d'avoir une expérience où vraiment
+vous êtes immergé dans le jeu et en fait
+à ce moment-là oculus venait d'être
+acheté par Facebook pour 2 milliards euh
+pour la tech et donc il y avait pas il y
+avait aucune ressource sur internet sur
+comment ça fonctionne un casque de VR
+euh c'est quoi les algos utilisés et
+donc en fait on a j'ai dû avec mon
+meilleur ami tout recréé en partant de
+zéro et tout recréé en partant de zéro
+ça veut dire quoi concrètement ce que ça
+veut dire c'est qu'en fait on a passé 3
+4 mois à faire des maths et de la
+physique en se demandant un où est-ce
+que ça allait nous mener et ce qui est
+intéressant c'est que c'est des trucs en
+c'est c'est des questions techniques que
+aucun de nous deux connaissait vraiment
+euh avant de faire ce casque aucun de
+nous deux avait le niveau ni en math ni
+en physique et du coup ce qui s'est
+passé c'est qu'on a dû apprendre toutes
+ces chosesl nous-mêmes et et on a fait
+ça grâce à cours sera grâce à can
+academmie grâce à plein de plateformes
+et et une des grandes leçons en fait
+d'avoir fait ça c'est qu'on a dû
+apprendre à apprendre par nous-même et
+donc on a dû passer énormément de temps
+à sur des périodes très courtes avoir
+des un niveau technique queon avais pas
+du tout moi je fais à peine faire de
+l'électronique je me débrouillais bien
+en math et en physique mais pas assez
+pour recréer tous les piliers d'une tech
+comme la réalité virtuelle
+et et donc en faisant ça on a appris un
+certain nombre de leçons sur comment
+vous pouvez faire pour prendre un sujet
+complexe et à l'apprendre et je vais
+essayer de vous partager ça tout de
+suite alors le premier sujet c'est déjà
+on va essayer de définir ce que c'est
+qu'apprendre pour savoir comment mieux
+le
+faire et une façon dont j'aime bien le
+faire c'est prendre un peu un prisme
+neuroscience et se demander qu'est-ce
+qui se passe dans votre cerveau quand
+vous apprenez quelque chose en fait le
+processus d'apprentissage la façon dont
+vous pouvez vous le représenter c'est
+que vous avez euh les votre cerveau qui
+est composé de plein de neurones et
+quand vous découvrez quelque chose vous
+avez des patterns qui se créent entre
+ces neurones vous avez des en fait vous
+avez des connexions qui se créent entre
+eux qui créent une espèce de de
+cheminement comme ça et ça c'est un
+pattern donc par exemple quand vous
+découvrez l'addition dans votre cerveau
+il y a un pattern neuronal qui se crée
+qui est le pattern de l'addition
+et si vous pratiquez et pratiquez et
+pratiquez encore l'addition et ben vous
+avez les connexions entre ces neurones
+s'appelle le poid synaptique qui vont se
+renforcer et se renforcer et donc le
+processus d'apprentissage c'est ça c'est
+découvrir un pattern et ensuite
+pratiquer pratiquer pour renforcer ce
+pattern et ça c'est un truc qui est
+important de
+comprendre pour le fonctionnement du
+cerveau en fait dans le cerveau une
+façon don vous pouvez vous représenter
+son fonctionnement c'est qu'il a deux
+modes le mode focus et le mode diffus et
+en gros quand vous êtes en mode focus ce
+que fait votre cerveau c'est que il se
+met face au problème et il cherche parmi
+tous les patterns qu'il connaî quel
+pattern faire rentrer dans le problème
+donc par exemple un exemple concret vous
+êtes à l'école vous avez une addition à
+faire genre 2 + 2 et ben votre cerveau
+ce qui va faire quand vous êtes en mode
+focus à essayer de résoudre votre
+problème c'est qu'il va chercher parmi
+tous les patterns neuronaux que vous
+connaissez lequel attribut à ce problème
+puis au bout d'un moment il va il va
+arriver à celui de la multiplication il
+va se dire non c'est pas celui-là celui
+de l'addition il va se dire ok là c'est
+bon je peux faire matcher le problème
+qui est face à moi avec ce pattern que
+je connais donc ça c'est mode focus et
+l'autre mode dans lequel votre cerveau
+peut être c'est le mode diffus et en
+fait ce que votre cerveau en mode diffus
+c'est que il va tester de nouveaux
+patterns un peu par hasard et va créer
+de nouvelles connexions et parfois il y
+a un effet magique à ça c'est qu'il va
+relier des patterns qui a priori ont pas
+trop de sens entre eux des maths et de
+la biologie pour en créer des nouveaux
+et donc par exemple là où ça fait sens
+d'être en mode diffus c'est si vous êtes
+face à un problème que vous avez jamais
+eu avant à l'école c'était le problème
+genre de math ou de physique que tu as
+jamais vu avant et si tu essayes de
+l'approcher en mode focus et d'essayer
+de prendre ce problème que tu as jamais
+vu mais de le résoudre en faisant
+rentrer tous les patterns que tu connais
+et en essayant de faire rentrer des
+carrés dans des ronds avec ces patterns
+que tu connais déjà alors que c'est un
+problème nouveau mais ça fonctionne pas
+et c'est dans ces cas-là que ça fait du
+sens d'utiliser le mode diffus
+d'ailleurs c'est pour ça que le conseil
+de quand vous arrivez pas à résoudre une
+question genre dans un contrôle et tout
+ça quand vous étiez à l'école on vous
+disait bah passe à la suivante mais en
+fait ça c'est une réalité le fait de
+passer à la question suivante c'est
+quand vous passez à la question suivante
+vous faites la question suivante en mode
+focus et et pendant ce temps-là votre
+cerveau en tâche de fond réfléchit à la
+question suivante en mode diffus et donc
+ce que ça veut dire c'est que ce que
+vous pouviez pas résoudre avec les
+patterns que vous connaissiez les choses
+que vous maîtrisez et tout ça B
+peut-être que votre cerveau en tâche de
+fond va trouver un moyen de le faire en
+testant des choses un peu plus
+hasardeuse et c'est important de
+comprendre la distinction entre les deux
+parce que en comprenant cette
+distinction vous pouvez à chaque fois
+que vous faites quelque chose vous
+demandez est-ce que je l'approche
+correctement
+euh si vous êtes en train de faire
+quelque chose d'hyper technique il y a
+beaucoup de sens pour il y a de grandes
+chances qu'en fait ça fasse sens pour
+vous de le faire en mode focus et de
+juste prendre ce que vous connaissez et
+juste essayer de résoudre le problème et
+avancer et si vous êtes face à quelque
+chose que vous avez jamais vu avant bah
+là ce qui fait sens c'est le mode diffus
+et en fait le problème avec ça c'est que
+c'est vous contrôlez pas si vous êtes en
+mode focus ou diffus sauf dans des cas
+bien particuliers des petites astuces
+pour décider est-ce que vous êtes en
+mode focus ou diffus il y a une personne
+qui faisait ça qui est assez
+impressionnante c'est Salvador d
+Salvador Dali c'était un peintre qui
+avait une technique incroyable et donc
+si on reprend notre framework focus
+diffus avoir une technique incroyable en
+étant peintre ça ça relève du mode focus
+c'est des années de travail à comprendre
+l'utilisation du pinceau à à maîtriser
+parfaitement son mouvement et en même
+temps il était très créatif et donc lui
+la solution qu'il avait pour passer de
+mode focus à diffus c'est qu'il avait un
+un rocking chair dans lequel il passait
+toutes ses journées à réfléchir à ses
+peintures et en fait il avait des clés
+dans sa main droite et il les lancé en
+l'air et les rattrapé et il finissait
+par s'endormir et en fait il y a un truc
+assez fou qui se passe quand vous êtes
+sur le point de vous endormir c'est que
+ça force votre cerveau à passer en mode
+diffus et donc il était là comme ça en
+train de s'endormir petit à petit en
+mode diffu et en mode diffus il avait
+des idées de choses tu vois il vraiment
+il était dans la dans la partie créative
+du truc donc il pensait à des idées de
+peinture il connectait des patterns qu'
+aurait pas connecté autrement et quand
+il finissait par s'endormir les clés
+tombaient par terre et le bruit des clés
+le réveillait et une fois qu'il était
+réveillé avec les idées qu'il avait eu
+en mode diffus il était prêt à les
+prendre passer en mode focus et les
+peindre et donc c'est pour ça que ça a
+du sens de comprendre cette distinction
+parce que moi je sais qu'il y a plein de
+situations où si juste je m'étais dit ok
+bah en fait là tu essayes de résoudre un
+problème que tu as jamais vu en mode
+focus et donc ça a pas de sens euh oou
+là tu essayes de résoudre un problème
+que tu connais déjà en mode diffus juste
+prends ce que tu connais et applique-le
+mais en fait si j'avais si si on
+utilisait ce genre de chos plus souvent
+au quotidien euh on serait beaucoup plus
+à l'aise dans notre apprentissage et
+alors je vais ajoué une petite note euh
+sur apprendre à apprendre sur la
+procrastination euh pour vous donner un
+exemple de comment est-ce qu'on peut
+utiliser euh ce framework
+versus
+diffus il y a une étude que j'aime
+beaucoup qui a été menée
+sur les plein de fac aux États-Unis et
+plein de boîtes et en fait le sujet de
+cette étude ça a été de prendre tous les
+gens de la fac tous les gens de ses
+boîtes et leur demander s'ils sont des
+procrastinateurs ou pas et ensuite de
+mesurer leur performance
+et ce qui s'est passé c'est qu'ils se
+sont rendus compte que les gens qui
+avaient les moins bonnes performances à
+la la fac et les gens qui avaient les
+moins bonnes performances dans ces
+boîtes c'était des très très gros
+procrastinateurs et donc là vous voyez
+genre pas bonne performance très
+procrastinateur et plus vous plus vous
+avancez dans les performances moins ils
+sont procrastinateurs comme ça et il y a
+un moment ils ont été très surpris dans
+cette étude parce que ils sont
+intéressés au top 1 % le top 1 % des
+élèves qui avaient les ça éta sur de
+très longues années c'est pour ça que ça
+a été un peu compliqué mais le top 1 %
+des élèves qui avaient les carrières
+académiques les plus fulgurantes les
+meilleurs résultats et sont rendu compte
+que ceux qui avaient ces résultats
+exceptionnels eux aussi étaient des très
+grands procrastinateurs donc en fait
+vous avez une espèce de courbe en V
+comme ça où les gens qui ont les pires
+résultats sont de gros procrastinateurs
+les gens qui ont les meilleurs résultats
+sont aussi des procrastinateurs et les
+gens bons le sont pas et donc vous avez
+cette espèce de courbe comme ça et en
+fait cette courbe elle fait beaucoup de
+sens si on y réfléchit en mode avec ce
+ce framework focus diffus euh pourquoi
+ça parce qu'en fait évidemment ils sont
+dit mais comment c'est possible c'est
+quoi le la variable entre les
+procrastinateurs qui ont des bons
+résultats et les autres et en fait ils
+sont rendu compte que dans une classe
+par exemple quand les profs donnent un
+un devoir à faire et vous avez deux mois
+pour le
+faire les élèves qui ont des très
+mauvais résultats vont passé les 2 mois
+à pas faire le devoir et juste le
+prendre le mettre dans leur sac et
+rendre un truc la veille ok ils ont un
+mauvais résultat ça c'est assez intuitif
+on comprend pourquoi euh les élèves qui
+procrastinent pas ils vont le faire day
+one en une semaine et ils vont avoir
+plus d'un mois de livbre donc ils auront
+un bon résultat et tout on comprend
+pourquoi et ceux qui procrastinent mais
+qui ont des bons résultats en fait ils
+vont juste le lire au moment où on leur
+donne ils vont lire Le Devoir il
+réfléchir 10 20 minutes à la sortie de
+la salle de cours et après ils vont
+passer un un mois et demi à pas du tout
+travailler sur ce devoir à pas du tout
+être actif dessus et ce qui va se passer
+c'est que pendant ces un mois et demi
+même si eux ont pas le sentiment de
+travailler dessus de façon directe en
+fait leur cerveau anentage de fond
+réfléchit à ce problème en mode diffus
+et ça a énormément de valeur d'
+réfléchir en mode diffus parce que si
+vous y réfléchissez en mode diffus vous
+êtes capable d'être plus créatif de
+relier ça à d'autres choses que vous
+avez déjà vu et et au moment ils le font
+ok ils le font au dernier moment mais en
+fait ils le font au dernier moment mais
+avec en ayant plein d'idées très vite
+parce que pendant un mois et demi leur
+cerveau a réfléchi à plein de choses et
+donc c'est pour ça que cette différence
+est super
+intéressante donc si vous êtes étudiant
+et vouslez procrastiner une bonne
+technique c'est que juste après qu'on
+vous donne le devoir vous le lisez et
+comme ça en tâche de fond votre cerveau
+va y penser et en fait vous pouvez même
+l'appliquer globalement à peu près tout
+ce que vous faites si vous avez quelque
+chose à faire pendant une semaine juste
+prenez prenez le temps d'y réfléchir
+activement 5 ou 10 minutes et faitesle
+la veille si vous voulez mais ce qui
+compte c'est que pendant ce temps-là
+votre cerveau en tâche de fond va y
+réfléchir et ça ça a énormément de
+valeur alors revenir aux
+fondamentaux pourquoi revenir aux
+fondamentaux parce que deux chos c'est
+un truc que que j'ai appris en faisant
+le
+casque parce que si j'avais pris le
+casque comme un problème de comme que
+j'avais pris de front en me demandant
+comment est-ce que je peux faire un
+casque de réité
+virtuel je pense que c'est c'est une
+question c'est trop complexe comme
+question c'est beaucoup trop dur et
+j'aurais juste bloqué et j'aurais jamais
+réussi à le faire une bonne analogie
+pour comprendre ça c'est c'est mon frère
+qui m'a raconté ça parce que mon frère
+fait de l'alpinisme mais genre alpinisme
+vénère avec des piques et genre il PL
+enfin moi j'en ai jamais fait mais ça a
+l'air assez risqué et tout et il a
+essayé de faire le Montblanc une fois il
+a pas réussi et il a vomi et il m'a dit
+que la raison pour laquelle il avait pas
+réussi c'est la raison d'à peu près 80 %
+des accidents en alpinisme c'est qu'en
+gros il est en train de le faire et il a
+regardé le sommet en fait si tu regardes
+le sommet instantanément il y a un truc
+qui se déclenche dans ton cerveau
+comment c'est possible il me reste 2000
+m à faire je suis au bout de mes forces
+je vais jamais y arriver et il vous
+envoie un signal il vous fait vomir et
+vous pouvez pas continuer et en fait le
+secret en alpinisme c'est que vous
+regardez juste à hauteur de vos mains
+parce qu'en fait à hauteur de vos mains
+c'est facile à atteindre vous avez juste
+à lever la main et et et bouger un petit
+peu et parce qu'en fait c'est c'est
+fondamentalement trop difficile de se
+projeter sur un objectif hyper long
+hyper complexe c'est beaucoup plus
+simple de le ramener à plein de choses
+simples je me demande pas comment je
+peux monter tout en haut je me demande
+juste comment je peux mettre ma main
+juste là et et ainsi de suite et
+recommencer et euh ça c'est ce que j'ai
+fait pour le casque parce que si je
+m'étais demandé comment faire un casque
+de verr j'aurais sûrement pas su comment
+faire et du coup ce que j'ai fait à la
+place c'est que je me suis demandé c'est
+quoi les fondamentaux d'un casque de
+réalité
+virtuel et en gros les fondamentaux d'un
+casque de réalité virtuel c'est que vous
+avez besoin de trois choses la première
+c'est de calculer la position dans
+l'espace des personnes qui portent ce
+casque donc vous calculez leur position
+leurs mouvements est-ce qu'ils regardent
+à droite à gauche et ensuite vous prenez
+cette position et vous l'envoyez à
+l'ordinateur deè étape 3è étape cette
+position une fois que l'ordinateur l'a
+reçu il faut qu'il injecte dans le jeu
+vidéo pour faire le rendu du jeu en
+fonction de là où vous regardez parce
+que dans le casque vous verrez pas la
+même image si vous regardez à gauche si
+vous regardez à droite donc ça c'est les
+trois points fondamentaux et donc déjà
+j'ai pris cette question complexe et je
+l'ai ramené à trois questions plus
+simple comment calculer la position de
+quelqu'un dans l'espace comment envoyer
+des données comment recevoir des données
+puis après j'ai recommencé l'exercice
+j'ai resegmenté ces trois questions en
+trois questions encore plus simples
+comment calculer la position de dans
+l'espace j'ai transformé ça en un énoncé
+de physique comment envoyer des données
+j'ai transformé ça en un énoncé de math
+comment réceptionner des données j'ai
+transformé ça en un énoncé de
+d'informatique donc je me suis retrouvé
+avec trois problèmes très concrets que
+je pouvais approcher beaucoup plus
+facilement et après j'ai juste passé 3 4
+mois à résoudre ces problèmes de math et
+de physique et une fois que j'ai réussi
+à faire ça j'avais le socle théorique
+qui me permettait de construire l'étape
+d'après de construire mon code et puis
+une fois que j'avais mon code qui
+faisait ces trois choses suffisait de
+tout combiner j'avais un casque DVR et
+donc ça première raison pour laquelle
+faut revenir au fondamentaux c'est que
+ça rend n'importe quel projet beaucoup
+plus facile à approcher beaucoup plus
+simple et la deuxième c'est que ça peut
+vous aider à voir des choses que les
+autres ont pas vu moi ça a été mon cas
+j'ai eu un coup de chance quand j'ai
+refait mon casque en partant de zéro
+c'est que je l'ai fait avec une
+philosophie design un peu différente de
+celle d'oculus et il se trouve que la
+mienne en gros permettait de la quantité
+de calcul côté casque mais l'augmenter
+côté ordinateur et donc de faire un
+casque beaucoup moins cher ce qui
+explique pourquoi mon casque coûtait 100
+dollars au lieu de 1000 dollars mais en
+fait des exemples comme ça vous en avez
+plein un exemple célèbre que j'aime
+beaucoup qui permet de bien comprendre
+ça c'est Space X donc SpaceX il fabrique
+des
+fusées et dans une fusée pour la diriger
+dans l'espace vous avez besoin d'un
+ordinateur à l'intérieur et en fait le
+problème quand vous êtes dans les se
+passe c'est qu'il y a des radiations
+tout le temps des des vents solaires il
+y a énormément de choses et ces chosesl
+es peuvent perturber le processeur de
+votre fusée et si le processeur de la
+fusée il est perturbé la fusée elle peut
+faire n'importe quoi elle peut se
+retourner partir dans la mauvaise
+direction et en fait la probabilité
+qu'une radiation perturbe le processeur
+elle est très très très faible mais
+c'est pas impossible et du coup quand la
+NASA s'est mise à fabriquer des fusées
+il pouvait pas se permettre de prendre
+le risque que la fusée se retour tourne
+même si la probabilité est très faible
+et du coup ils ont investi des millions
+voir même des dizaines de millions dans
+un programme de recherche dont le but
+était de fabriquer des processeurs
+résistants aux radiation et ils ont
+investi énormément d'argent énormément
+de temps et ils ont trouvé un moyen de
+fabriquer ces processeurs et un
+processeur comme ça ça coûte à peu près
+un demi million de dollars un processeur
+qui résiste aux radiation et donc quand
+SpaceX a fabriqué ses premiers modèles
+de fusée avec leur contrainte du prix
+ils sont arrivés à la question du
+processeur et ils sont dit on n pas les
+moyens de développer un tel processeur
+et on a pas non plus les moyens de
+mettre un demi million de dollars
+d'ordinateur dans chacune de nos fusées
+et un jour il y a un mec de chez Tesla
+qui passé chez SpaceX un mec de
+l'analyse risque de Tesla un mec qui
+fait des statistiques toute la journée
+qui leur a dit non mais attendez c'est
+ridicule vous allez pas mettre des
+millions de dollars pour faire un
+résisteur un processeur qui résiste aux
+radiation c'est quoi la probabilité
+qu'une radiation perturbe le
+processeur et euh donc il a observé la
+probabilité il leur a dit ok maintenant
+c'est quoi la probabilité qu'une
+radiation perturbe trois
+processeurs et en fait c'est presque
+impossible c'est déjà très peu probable
+qu'une radiation perturbe un processeur
+mais perturber trois processeurs en même
+temps c'est impossible et du coup il a
+dit au lieu de faire des process au lieu
+de faire des processeurs qui résistent
+aux radiation mettez trois processeurs
+normaux
+et puis si un des trois plante à cause
+des radiations ou même deux et tout ça
+c'est pas grave vous recommencez les
+calcul et trois processeurs de toute
+façon ça coûte combien ça coûte à peu
+près 1000 dollars donc en fait avec son
+idée il a pris un problème à 100
+millions de dollars de cû de cou de coût
+initiaux et un demi million par
+processeur en un problème qui coûte 1000
+dollars par fusée et en fait la raison
+pour la d'ailleurs le problème c'est pas
+que je sais pas que chez la ils sont
+bêtes c'est juste que ils sont posé la
+question dans le mauvais sens ils sont
+demandé l'équipe qui était chargée du
+processeur elle s'est pas demandé
+comment est-ce qu'on peut faire en sorte
+que notre fusée ne se retourne pas dans
+l'espace ils sont demandé comment on
+peut faire un processeur résistant en
+radiation mais en fait c'était pas ça la
+question on s'en fiche que le processeur
+il soit résistant en radiation ce qu'on
+veut c'est que la fusée elle elle se met
+pas à se retourner dans l'espace et si
+on veut qu'elle se mette pas à se
+retourner dans l'espace suffit que les
+calcul cul soit bon et pour que les
+calculs soient bons c'est pas grave si
+les processeurs sont perturbés on a qu'à
+en mettre plusieurs et en fait en
+revenant comme ça au fondamentaux la
+solution elle nous paraît évidente donc
+c'est pour ça qu'il faut avoir cette
+pratique de de revenir à des problèmes
+beaucoup plus simples que vous pouvez
+comprendre que vous pouvez mieux
+approcher et donc moi ça moi ça a été
+mon cas ça nous a permis de faire passer
+le prix du casque de 1000 dollars à 100
+dollars et et à ce moment-là Gabriel et
+moi on était encore au lycée quand on a
+fait notre casque
+euh on on travaillait dessus assez
+intensément
+et et un jour il y a la mère d'un de nos
+meilleurs amis qui qui était très
+impliqué dans le projet et qui disait
+que quand même ce serait bien de de
+alors pour nous elle trouvait que ce
+serait quand même bien de structurer un
+peu notre projet nous aider et tout ça
+et donc elle arrivé à la maison avec un
+dossier euh BPI une énorme pile de trucs
+à remplir de la BPI genre levé de fond
+Prix Innovation des trucs comme ça
+euh et je supporte pas tout ce qui est
+administratif et donc on on les a jamais
+remplis euh et on trouvait ça trop
+bizarre de faire ça enfin pourquoi
+est-ce qu'on remplirait des dossiers au
+lieu de passer du temps à fabriquer
+notre casque
+et et à ce moment-là euh j'ai décidé
+d'envoyer un mail à ousama et c'est
+comme ça que j'ai rencontré ousama et
+c'est comme ça que j'ai découvert The
+Family et
+euh et ça ça a été le début du passage
+de projet entreprise ça a été marqué par
+ce moment on nous a dit faut que vous
+remplissiez des dossiers BPI et par
+notre refus de se dire mais en fait non
+on préfère coder et et après ok bon
+peut-être qu'on va structurer le projet
+mais en fait on va juste pas faire ça
+avec la BPI et envoyer un mail à de
+Family et et en fait ça ça amène à un
+point fondamental qui est que
+l'environnement est clé qu'est-ce que ça
+veut dire ça veut dire que c'est très
+difficile de nier que quand vous faites
+un projet l'environnement vous influence
+pas énormément euh c'est c'est assez
+rassurant de se dire oui non mais ok il
+m'influence mais je comprends enfin je
+comprends l'influence de mon
+environnement je suis assez résistant à
+ça moi moi il y a une histoire qui me
+permet toujours de faire relativiser ce
+genre de truc en mode oui moi je suis
+pas très influenable c'est que je sais
+pas si vous le saviez mais au 20e siècle
+à Paris il y avait des cages à bébés sur
+les appartements dans les rues ouais
+c'est c'est super chelou en fait
+euh vous avez peut-être déjà entendu des
+parents dire ça à leurs
+enfants il faut prendre l'air frais
+machin faut pas rester enfermé toute la
+journée faut prendre l'air frais mais au
+20e siècle ça il le prenait très très
+très au sérieux cette histoire d'air
+frais et et du coup il y avait sur les
+balcons des cages à bébés où les parents
+pouvaient mettre leur bébés dehors pour
+que les bébés puissent prendre du vrai
+bon air frais et pas rester à
+l'intérieur avec de l'air renfermé oui
+et en fait ce qui est assez horrible
+avec cette histoire c'est que euh 20e
+siècle industrialisation donc en fait
+c'est pas de l'air frais qui prenait
+c'était des grosses claques de pollution
+à chaque fois qu'ils étaient dehors et
+et vénère en plus parce que enfin 20e
+siècle quoi
+et et et en fait le truc avec ça c'est
+que si vous étiez un parent qui se
+disait non mais enfin il y a de la fumée
+noire dehors c'est quand même un peu
+bizarre de mettre mon bébé en plus il
+est dans une cage au-dessus du vide
+c'est un peu chelou et que vous le
+faisiez pas tous les gens autour de vous
+vous regardez avec des gros yeux vous
+disaient en fait tu es un parent
+irresponsable tu veux pas que ton bébé
+il prenne de l'UR frais et et donc c'est
+c'est vraiment ce point qui est super
+important qui est comprendre
+l'importance de votre environnement
+comprendre comment est-ce qu'il vous
+influence et et d'ailleurs quand on
+comprend comment notre environnement
+vous influence en fait la façon don vous
+pouvez vous le voir c'est que votre
+environnement c'est du vent et vous il
+faut que vous trouviez la façon de bien
+placer votre voile pour vous servir de
+ce vent là je
+m'explique il y a une il y a une
+distinction qui est importante c'est la
+distinction signal et valeur et qui fait
+énormément de sens avec ce que je vous
+ai dit sur l'environnement parce qu'en
+fait quand vous créez une
+boîte vous avez deux choses désalignées
+la première c'est que fondamentalement
+vos proches vous aiment et donc comme
+ils vous aiment ils veulent vous
+protéger des cons s de vos risques et
+vous vous faites une boîte donc comme
+vos gains sont sont fonction de vos
+risques vous voulez prendre plus de
+risque donc vous avez desésalignement
+entre vos proches qui veulent réduire
+vos risques et vous qui voulez augmenter
+vos risques et donc la façon dont on
+gère ça c'est qu'on cherche à rassurer
+ses proches et comment est-ce qu'on
+rassure les gens en envoyant du signal
+en envoyant des signaux rassurants
+et tout le sujet c'est de bien
+comprendre que fondamentalement c'est
+pas parce que quelque chose renvoie du
+signal assurant que ça fait sens pour
+vous de le faire
+euh faire des concours ou les trucs BPI
+et tout ça nous ça nous aurait servi à
+rien parce qu'on faisait notre enfin on
+faisait notre casque et tout ça nous
+aurait servi à rien par contre ça a
+envoyé du signal très rassurant et
+d'ailleurs sur ces histoires de signal
+et et valeur l'environnement ça a
+beaucoup d'influence dans les deux sens
+par exemple euh moi j'ai j'ai alors j'ai
+y a pas longtemps je faut que je le
+raconte parce que ça me ça me marque
+encore j'ai une une discussion avec un
+ami à moi qui viit à San Francisco dans
+la silicone vallée et et on s'est
+disputé parce qu'en fait je lui parlais
+de ce que je fais cette année et il me
+disait écoute il faut absolument que tu
+fasses ce programme de mentorship et
+donc je lui dis ouais non mais tu sais
+là vraiment je crois pas que j'en ai
+besoin juste faire mon truc il me dis
+non non non attends attends il faut que
+tu fasses aussi ce programme de
+mentorshipip en plus ils offrent une
+bourse de 100000 dollars et puis aussi y
+a celui-là qui est compatible avec lui
+qui t'ofre une bourse de 10000 dollars
+et moi j'is en mode oui non mais attends
+mais enfin là pour le moment j'ai pas
+besoin de cet argent j'ai encore moins
+besoin d'un programme de mentorship si
+si faut absolument que tu fasses ça en
+plus si tu as besoin de cet argent parce
+qu'en fait pourquoi est-ce que tu restes
+en Europe reviens dans la vallée
+qu'est-ce que tu fais en France donc
+j'essaie de lu dire non mais bon en fait
+si je faux rester en France tu sais bon
+ça bon ce sujet là j'ai abandonné parce
+que de toute façon il a passé 20 minutes
+à m'expliquer pourquoi est-ce que je
+devrais revenir à son Francisco et pour
+le sujet du mentoring en
+fait ce qui se pass c'est que en gros
+moi je lui ai dit non mais écoute est-ce
+que tu as conscience que tu es en train
+de me dire que je devrais passer plus de
+temps à travailler sur juste du pur
+signal pour faire des concours pour
+rencontrer les gens influents de la
+vallée et au final toujours pas avoir de
+produits et et toujours pas avoir
+construit mon projet plutôt que de
+vraiment faire un truc et en fait ces
+gens-là j'ai pas besoin de faire ton
+programme de mentoring pour les
+rencontrer si ça fait du sens pour moi
+de les rencontrer si j'ai un produit qui
+les intéresse
+ou un projet qui les intéresse bah ce
+jour-là je les rencontrerai donc je vois
+pas pourquoi est-ce que j'iraai les
+rencontrer maintenant et là c'est à ce
+moment-là que que j'ai réalisé la
+l'énorme différence entre entre nos deux
+points de vue c'est que lui il me disait
+non mais tu comprends pas ce qui compte
+c'est le signal que tu renvoies ces
+gens-là ils voient tout le temps des
+bons projets donc ce qui compte c'est
+que tu renvoies un maximum de signal
+pour assez attirer l'attention pour que
+ce soit plus facile pour toi plus tard
+et moi je lu disais non ce qui compte
+c'est la valeur de ce que tuis fais
+parce que si ce que tu fais à la bonne
+valeur en fait tu auras les tu auras les
+bons signaux et en fait ce qui s'est
+passé c'est que donc cet ami à moi il
+est très jeune il a fait il a vendu sa
+première boîte quand il avait 16 ans
+donc il une énorme enfin il a une grosse
+réputation dans la vallée tout le monde
+le connait tous les investes le
+connaissent et en fait il est tombé dans
+un piège où où en fait il cherche plus à
+optimiser le signal qui renvoie aux gens
+et il passe tellement de temps à à à
+rencontrer les investes les plus stylés
+à faire les programme de mentoring les
+plus ouf à rencontrer les plus grandes
+stars de la vallée pour optimiser son
+signal que qui se préoccupe plus du tout
+de la valeur qui renvoie parce que sa
+seule préoccupation maintenant c'est
+qu'il a remarqué qu'il est dans un
+environnement où dès qu'il augmente le
+signal qu'il renvoie il reçoit
+énorméément retour ilç énormément
+d'argent énormément de choses et donc je
+pense que c'est très important de
+comprendre l'influence qu'à votre
+environnement et cette distinction entre
+signal et valeur pour toujours trouver
+le bon équilibre entre les
+deux alors
+entreprendre en étant étudiant qu'est-ce
+qui s'est passé juste après que j'ai
+envoyé le mail à ama et qu'on se soit
+rencontré pour que je lu explique que
+j'allais monter le concurrent d'oculus
+et faire un Kickstarter c'est qu'il m'a
+dit écoute je vais te donner un conseil
+monte pas de boîte fais surtout pas une
+boîte c'est un conseil que je comprenais
+pas très
+bien je j'avais vraiment j'avais
+vraiment essayé de prendre tout tous les
+problèmes
+pour moi cette époque il y avait deux
+grands problèmes en fait autour de la VR
+le premier problème c'est que les
+casques étaient beaucoup trop chers le
+deuxième problème c'est qu'il y avait
+pas assez de contenu j'appelle ça
+l'effet Kinect je sais pas si certains
+d'entre vous ont déjà acheté une Kinect
+mais l'effet Kinect en gros c'est que
+vous achetez un gadget très cher vous
+jouez avec pendant 1 heure et après vous
+le mettez au placard et vous l'utilisez
+plus jamais mais avec les casques de
+vert c'était exactement la même chose il
+y avait l'effet Kinect les gens payaient
+1000 dollars pour un casque de VR ils
+jouaient avec pendant une demi journée
+et ensuite il le mettait au placard et
+l'utilisait plus jamais parce qu'il y
+avait pas assez de contenu et donc
+j'avais résolu le problème du prix en le
+divisant par 10 et le problème du
+contenu ce que j'avais fait à l'époque
+c'est qu'en gros avant c'était assez
+compliqué de développer des jeux
+compatibles réalité virtuelle c'était
+pas évident et du coup j'avais voulu
+simplifier ce process là et il y a une
+bonne partie des jeux vidéos qui sont
+développés dans ce qu'on appelle Unity
+en gros Unity c'est un outil utilisé par
+les développeurs pour faire des jeux et
+en gros j'avais créé un plugin
+qui permettait en quelques minutes sans
+qu'il ait besoin d'un ingénieur dans la
+team sans qu'il ait besoin de quelqu'un
+qui soit dédié à temps plein à rendre le
+jeu compatible VR en gros mon plugin
+prenait un jeu non VR et le transforma
+en VR et donc c'était comme ça que je
+vouais résoudre le problème du contenu
+et donc je suis arrivé avec devant
+ousama et je lui ai dit écoute il y a
+deux problèmes dans la VR le prix et le
+contenu j'ai résolu les deux problèmes
+donc maintenant il faut que tu m'aides à
+faire un Kickstarter pour que je fasse
+un concurrent d'oculus et il m'a dit pas
+question c'est mort j'aurais aurais
+réussi si j'arrive à te convaincre de
+pas créer de boîte et j'ai pas été
+facile à convaincre et un un midi on
+déjeunait tous les deux il me reparlait
+de ça et puis au d'un moment il s'arrête
+et il me dit est-ce que tu as un
+passeport je dit oui il dit ok bah dans
+3 semaines on part dans la vallée et
+dans la silicone Vallé à San Francisco
+tous les deux et je vais te présenter à
+plein d'entrepreneurs je vais te
+présenter à des gens qui ont fait des
+vraies grosses boîtes je vais te
+présenter aux gens de Facebook aux gens
+d'oculus et tu te feras une opinion si
+tu veux toujours monter une boîte ou pas
+donc on est parti là-bas tous les deux
+j'ai rencontré beaucoup d'entrepreneurs
+et en fait au bout d'un moment je me
+suis rendu compte qu'effectivement
+j'avais pas envie de passer les 20
+prochaines années de ma vie dans une
+usine à chenzen à régler des problèmes
+de supply pour vendre des casques de de
+réalité virtuelle et donc j'ai étais
+convaincu de pas créer une boîte à ce
+moment-là et que ça avait plus de valeur
+de continuer d'apprendre et en plus à ce
+moment-là j'avais 15 ans donc légalement
+j'aurais même pas pu créer une boîte en
+fait c'était même pas un vrai débat
+euh et et juste après ça juste après
+avoir décidé que finalement je créerai
+pas de boîte j'ai rencontré les gens qui
+ont créé
+l'oculus chez Facebook et ça a été un
+rendez-vous assez marrant d'unhure30 où
+je leuris expliqué comment est-ce que
+j'avais recréé l'oculus et en fait la
+conclusion du rendez-vous c'est que je
+suis rentré en France et j'ai décidé
+d'Open sourcer ma technologie et de
+prendre tout ce que j'avais créé et de
+le mettre en open source gratuitement
+disponible sur
+Internet et donc de rester dans cette
+position étudiante ou je peux continuer
+d'apprendre énormément de choses et j'ai
+pas toute cette pression de créer une
+boîte et je suis pas enfermé dans ce
+truc où je vais passer les 20 prochaines
+années de ma vie dans une usine en Chine
+et
+ouais j'ai j'ai vraiment pas envie
+d'aller dans une usine en Chine parce
+que après je suis all à Shenzen du coup
+et je me suis dit waouh en fait régler
+des problèmes de hardware c'est un vrai
+métier et c'est vraiment pas évident et
+un truc à comprendre sur la situation
+d'étudiant c'est le tradeof sécurité
+incentive en fait moi je pense que si
+vous êtes étudiant vous devriez pas
+créer une boîte parce que il y a deux
+phénomènes quand vous êtes étudiant le
+premier c'est qu'il faut comprendre une
+chose c'est que dans l'esprit des gens
+on est toujours que une seule chose à la
+fois je m'explique si vous êtes étudiant
+et vous avez un boulot d'été bah quand
+vos parents racontent comment vous allez
+à vos grands-parents ils disent
+pas ils disent pas et ben écoute ton
+Petitfils il a un boulot d'été et il est
+étudiant il dit juste il est
+étudiant parce que on est toujours que
+une seule chose à la fois et donc si
+vous êtes étudiant et qu'à côté de ça
+vous montez une boîte bah dans la tête
+de vos proches de vos amis de vos
+parents et de vos grands-parents juste
+vous êtes étudiants pas étudiant et
+entrepreneur et encore moins
+entrepreneur et étudiant et en fait
+qu'est-ce que ça veut dire ça en fait ce
+que ça veut dire c'est que tous les gens
+autour de vous attendent pas de vous que
+vous réussissiez votre boîte mais que
+vous réussissiez vos études parce que
+vous êtes étudiant donc ce qui est
+logique c'est que vous consacrez vos
+études pas une boîte ça c'est juste un
+truc que vous faites sur le côté et en
+fait qu'est-ce que ça veut dire ça ça
+veut dire deux choses la première c'est
+que ça veut dire que vous êtes dans une
+position de sécurité parce que si vous
+ratez personne vous en voudra toute
+façon personne s'attendit à ce que vous
+réussissiez les gens ils s'attendent que
+vous réussiciiez vos études mais ce que
+ça veut dire aussi c'est que du coup
+vous avez beaucoup moins d'incentive
+pour réussir votre boîte réussir réussir
+votre projet et donc et en fait ce que
+je pense c'est que c'est de toute façon
+tellement dur de réussir une boîte
+que il faut pas partir avec des
+incentives en moins incentive c'est ce
+qui vous pousse à agir et donc si
+personne autour de vous attend que vous
+réussissiez votre boîte forcément vous
+avez beaucoup moins de pression pour la
+réussir et c'est déjà tellement dur que
+vous avez pas envie de partir avec un
+désavantage et en fait ce que je pense
+c'est
+que cette sécurité et ce cette sécurité
+vous pouvez vous en servir et vous
+pouvez vous en servir beaucoup mieux
+qu'en montant une boîte vous pouvez vous
+en servir en montant des projets parce
+que des projets c'est beaucoup plus
+facile à mener à terme c'est beaucoup
+plus facile à réaliser et vous êtes dans
+cette position où vous pouvez faire à
+peu près ce que vous voulez avec vos
+projets tant que vos études se passent
+qu' se passe plus ou moins bien ou plus
+ou moins mal personne vous dira rien et
+je pense que c'est beaucoup mieux que de
+créer une boîte et de rater et ses
+études et sa
+boîte et donc par contre ça veut pas
+dire que pendant que vous êtes étudiant
+vous pouvez pas vous préparer à créer
+une boîte et comment est-ce qu'on se
+prépare à créer une
+boîte bah déjà en comprenant comment ça
+fonctionne une start-up alors comprendre
+comment est-ce que ça fonctionne une
+start-up il y a globalement deux façons
+de faire la première c'est en faisant
+des stages et je pense que c'est la
+meilleure façon de de le
+faire moi j'ai passé par exemple qui qui
+connaît zenly ici ok par exemple moi
+j'ai passé beaucoup de temps chez zenly
+avec l'équipe technique de zenly et
+enfin j'ai passé beaucoup de temps j'ai
+passé du temps chez eux et c'était hyper
+enrichissant
+et et et j'ai fait comme ça plein de
+stages dans dans plein de plein de
+start-up et en fait je pense que ça
+c'est une très bonne façon de mieux
+comprendre comment ça fonctionne et et
+au pire même si vous vous décidez à pas
+faire de start-up je pense que c'est
+jamais perdu la deuxième façon de se
+préparer et celle-là c'est les livres
+sur les start-up et cl je voudrais juste
+faire une petite note dessus parce que
+je pense que de manière générale il faut
+être
+assez sceptique avec les livres sur les
+start-ups il y a deux raisons à ça la
+première c'est que je pense que en terme
+de ratio il y a beaucoup moins de bons
+livres sur les start-up que de bons
+livres sur d'autres sujets académiques
+pour une raison toute simple c'est que
+si vous êtes un académicien brillant et
+un expert disons un
+astrophysicien la seule façon que vous
+avez de bien gagner votre vie et gagner
+un peu d' d'argent c'est d'écrire un
+livre à succès sur l'astrophysique euh
+si vous avez fait une start-up qui a
+réussi par définition vous avez pas
+besoin d'argent et donc vous avez
+beaucoup moins de raisons qui vous
+poussent à écrire un livre n c'est C
+premier sujet c'est que donc ça réduit
+la quantité de gens qui ont réussi qui
+ont qui vont écrire des livres parce que
+ça réduit ce besoin d'écrire des livres
+et le deuxième point c'est que même si
+vous tombez sur quelqu'un qui a réussi
+et qui a écrit un livre sur les start-up
+euh il y a un truc qui s' appelle le
+biais des gagnants et en fait le biais
+des gagnants c'est le fait de confondre
+la chance et ce qui vient de vous donc
+par exemple le biaet des gagnants dans
+un livre sur les start-up ça va être de
+confondre les décisions que vous avez
+pris parce que juste comme ça vous aviez
+de la chance et les décisions que vous
+aviez pris juste parce que vous à ce
+moment-là vous avez fait le bon
+raisonnement euh il y a des il y a
+beaucoup d'exemples de billets des
+gagnants il y en a un qui qui qui permet
+de bien comprendre ce que sa ce qui est
+qui est assez célèbre c'est tous les
+biaiss des gagnants sur ce qu'on appelle
+les raisonnements contraposés en gros
+les raisonnements contraposés c'est si
+je vous dis si a alors B le contrapposé
+c'est si non B alors non a alors
+qu'est-ce que ça veut dire concrètement
+c'est dire que si je vous dis
+euh s'il pleut le trottoir et mouillé
+euh le contrapposé c'est si le trottoir
+n'est pas mouillé alors il ne peut pas
+donc ça c'est ça c'est le contrapposé
+euh il y a il y a un exemple que j'aime
+beaucoup sur l'histoire du contrapposé
+c'était pendant la guerre froide il y a
+en fait pendant la guerre froide il y
+avait quelqu'un en Russie dont le métier
+c'est qu'il avait un bouton en face de
+lui et s'il appuyait sur ce bouton Tous
+les missiles de Russie attaquaient les
+États-Unis donc il avait le contrôle de
+lancer l'attaque à à n'importe quel
+instant et en face de lui il avait un
+tableau de bord avec
+euh toutes les infos radar et en fait si
+à un moment il se passait quelque chose
+et qu'il fallait faire une attaque il
+avait un téléphone les gens
+l'appelleraient lui diraient il faut que
+tuattaqu et juste au cas où il avait des
+radars au cas où s'il devait se
+défendre et un jour il a vu sur son
+tableau de bord cinq missiles américains
+apparaître et à ce moment là il avait le
+choix entre appuyer sur le bouton pour
+déclencher la roste et déclencher une
+guerre ou ne pas appuyer sur le bouton
+et en fait là on est face à un exemple
+de raisonnement contraposé alors c'est
+assez simple c'est dire si les
+États-Unis attaquent la Russie alors ils
+vont envoyer énormément de missiles donc
+si les États-Unis n'envoie pas
+énormément de missiles il n'attaque pas
+les la Russie et donc comme il y avait
+que CIN missiles et pas des centaines de
+missiles il a décidé de ne pas appuyer
+sur le bouton et il a passé il raconte
+qu'il a passé les 5 minutes suivante à
+prier ce qu' s'est dit juste je pense
+qu'il nous attaque pas mais je prie pour
+que ce soit ça et je prie pour que pour
+que j'ai pour que j'ai raison et des
+années après quand les gens lui ont
+demandé comment tu as su que c'était
+parce que évidemment c'était un bug sur
+le tableau de bord les États-Unis ont
+peut envoyer 5 missiles contre la
+Russie quand les gens lui ont demandé
+comment est-ce que tu as su que c'était
+un bug il a dit je savais pas j'ai juste
+eu de la chance parce qu'en fait c'est
+très dur d'avoir de l'introspection et
+d'expliquer ça autrement que par la
+chance al en fait c'était pas de la
+chance en fait c'est juste qu'il avait
+eu un entraînement hyper rigoureux pour
+qu'il a un système logique hyper formel
+où il sait que si les États-Unis
+n'attaquent pas avec énormément de
+missile ils attaquent pas et donc ça
+c'est un exemple de en fait
+l'introspection c'est très dur et donc
+quand quelqu'un vous écrit un livre sur
+les start-up où il vous explique comment
+réussir ben il y a de grandes chances
+que il prennent des choses qu'il a pas
+fait parce qu'il était plus intelligent
+que les autres ou parce qu'il a un
+meilleur raisonnement mais qu'il a juste
+fait par chance et et vous explique
+comment mieux les faire alors qu'en fait
+il y a eu de la chance et donc ça
+s'applique pas à vous mais en fait c'est
+dans l'autre sens aussi c'est possible
+qu'il a fait des qu'il a eu qu'il ait
+pris des décisions incroyables et qu'il
+a eu un raisonnement stratégique qui
+vous serait utile mais que dans son
+livre il explique pas parce que lui
+considère qu'en fait c'était de la
+chance donc c'est pour ça globalement
+euh je je pense que c'est une bonne
+pratique de d'être sceptique sur les
+livres sur les startup euh et de et de
+faire attention à quel livre vous lisez
+sur les
+start-up alors j'ai j'ai parlé pour les
+étudiants euh plus généralement il y a
+un truc que j'ai pas dit c'est quand je
+disais étudiant euh c'est pas forcément
+étudiant vous êtes jeunes et vous êtes à
+la fac que je pense que aujourd'hui vous
+pouvez faire quelque chose c'est que
+n'importe qui peut créer sa propre école
+et euh vous pouvez recréer cet effet-là
+même si vous êtes pas étudiant à la fac
+d'ailleurs autre chose que j'ai pas dit
+euh si vous êtes étudiant et que vous
+vous demandez euh comment vous prépareer
+à créer une boîte que vous avez fait des
+stages et que vous lisez pas de livre il
+y a un autre truc que normalement vous
+faites parce que c'est le truc le plus
+intéressant à l'école c'est nouer des
+relations avec les gens parce que ça
+aussi ça a énormément de sens en fait ça
+vous permet de rencontrer d'autres gens
+qui aiment les mêmes choses que vous qui
+vous permettent d'avoir des hobbies et
+c'est hobby un jour vous pourrez les
+transformer en boîte et ben ça même si
+vous êtes pas étudiant au sens à la FC
+vous pouvez le recréer
+euh moi j'ai j'ai un très bonne amie à
+moi ELV shidera
+euh qui a qui a refait qui qui en fait
+il a une histoire assez incroyable il a
+recréé Facebook avec un Nokia 3310 au
+fin fond du nigériia
+ouais c'est c'est assez incroyable et
+donc c'était le facebook
+euh du nigériia et en fait comment
+est-ce qu'il a fait il avait un ami à
+lui qui avait accès à un ordinateur dans
+un cyber café et lui écrivait le code en
+SMS sur son Nokia 3310 qui l'envoyait à
+son pote dans le cyber café qu' le
+mettait en en ligne sur le site il avait
+trouvé un moyen de je sais pas comment
+est-ce qu'il a fait mais il avait trouvé
+un moyen de de coder aussi sur son
+téléphone beaucoup mieux et il arrivé à
+faire ça et il a recréé un réseau social
+avec un ok 3310 et la raison pour
+laquelle il a réussi à faire ça c'est
+qu'il a passé énormément de temps à
+recréer autour de lui sa propre école
+donc lui il est jamais allé à l'école
+euh mais par contre
+euh avec les Meetup donc c'éit pas le
+même genre de Meetup que vous avez ici à
+Paris mais c'était genre ils se
+réunissaient avec leurs amis ils
+arrivait à emprunter à quelqu'un d'autre
+un ordinateur et il se faisait il
+regardait des conférences il regardait
+des vidéos sur Internet il a il a réussi
+à trouver d'autres gens qui étaient dans
+le même délire que lui et a passer du
+temps avec ses amis à lui d'Internet
+parce que ça je pense que c'est un truc
+qui est hyper important c'est que vous
+pouvez être étudiant sans mettre les
+pieds dans une école vous pou être
+étudiant entre guillemets en ligne et
+rencontrer plein d'amis et faire plein
+de rencontres uniquement sur Internet et
+c'est ce que lui il a fait et il a passé
+énormément de temps à à faire des
+workshops à regarder des conférences
+avec ses amis à discuter de ce qu'il
+apprenait avec ses amis sur Internet et
+donc le jour où il a lancé son réseau
+social il avait déjà plein de potes qui
+ont pu l'aider à mettre le code en ligne
+à créer le truc à s'inscrire dessus et
+donc si vous vivez ici et que vous êtes
+venu à cette conf aujourd'hui et que
+vous êtes pas étudiant et vous voulez
+recréer l'émulsion d'être étudiant en
+fait vous pouvez toujours le faire aller
+sur des forums aller à des Meetup
+regarder des conférence faites des cours
+en ligne faites des mou alleer sur cours
+quand donc je suis revenu en France j'ai
+décidé d'Open sourcer ma technologie et
+la première chose que j'ai fait après
+avoir décidé d'opens sourcer ma
+technologie ça a été de prendre tout mon
+code tout ce que j'avais écrit et tout
+supprimer ouais ça alors pourquoi est-ce
+que j'ai fait ça en fait j'ai fait ça
+parce que quand je l'ai écrit je l'ai
+écrit pour que ce soit je l'ai écrit au
+même temps que je le développais en mode
+prototype et maintenant qu'il allait
+devenir Open Source tout le sujet c'est
+qu'il allait être lu par je l'espérais
+beaucoup de développeurs et donc fallait
+que ce soit compréhensible pour les gens
+et donc ce que j'ai fait c'est que j'ai
+tout supprimé et j'ai passé re quelques
+mois à tout réécrire tout réécrire pour
+que l'architecture soit plus élégante
+que mon code soit lisible que les gens
+comprennent ce que j'ai fait comprennent
+mon Archie et euh et en fait à ce
+moment-là je me suis dit ça a beaucoup
+plus de valeur de passer quelques mois à
+tout réécrire pour que mon code propre
+soit compris par tous les dev que de
+d'économiser ces 4 mois et de lancer dès
+maintenant et ça c'est
+un truc euh qui s'appelle peser le coup
+d'opportunité alors coup d'opportunité
+en gros c'est quand vous prenez une
+décision c'est la perte de toutes les
+décisions que vous pouvez pas prendre à
+la place je m'explique si vous allez au
+cinéma vous hésitez entre aller au
+cinéma et faire vos devoir euh et vous
+décidez d'aller au cinéma bah le coût
+d'opportunité d'aller au cinéma euh donc
+ce que vous gagnez en allant au cinéma
+c'est vous allez voir un film vous allez
+vous amuser mais le coût d'opportunité
+d'y aller c'est que euh vous allez pas
+faire vos devoirs vous allez peut-être
+avoir une mauvaise note à votre DST et
+euh et vous allez être privé de sortie
+et vous pourrez plus aller au cinéma et
+donc il faut peser il faut non seulement
+peser ce que vous gagnez en prenant une
+décision mais aussi peser le coûp
+d'opportunité et il y a il y a une il y
+a une histoire assez célèbre là-dessus
+sur le coûp
+d'opportunité c'est le développement de
+l'iPhone euh je sais pas si vous saviez
+mais le premier prototype de l'iPhone en
+plus d'avoir coûté à peu près 7 millions
+à fabriquer faisait la taille d'une
+table donc c'est un truc énorme comme ça
+qui était c'était un des mecs de
+l'équipe de Steve Jobs qui lui a dit
+regarde et c'était une table gigantesque
+et tu fallait toucher comme ça le
+tactile était nul c'était énorme ça
+fonctionnait très mal et ça c'était le
+prototype zéro de l'iPhone ensuite ils
+ont chercher des moyens de le rendre de
+plus en plus petit alors à l'époque
+imaginez-vous le Touch enfin le
+multiouch écran Taxil tout ça ça
+n'existait pas donc c'est des techn
+qu'ils avaient développé eux-mêmes et
+ils ont passé énormément de temps à
+essayer de rendre ça plus petit et ils
+ont fini par réussir à développer un
+prototype version 1 de l'iPhone et euh
+ce qui s'est passé c'est qu'ils avaient
+un gros problème c'est que euh le
+clavier de l'iPhone prototype 1 était
+inutilisable vraiment vous vous tapiez
+sur une lettre C la lettre d'à côté
+enfin le tactile était horrible
+inutilisable vraiment les designers de
+Steve Jobs racontent que si vous essayez
+à l'époque d'écrire un mail avec
+l'iPhone vous abandonniez tellement que
+c'était
+dur et donc ils ont passé du temps à
+chercher une autre façon euh de designer
+l'iPhone et un jour ils en ont eu marre
+ils ont dit toutes les équipes d'Apple
+qui travaillaient pas sur l'iPhone à
+partir de demain vous arrêtez ce que
+vous faites vous le mettez à la poubelle
+et vous travaillez sur le nouveau
+clavier de l'iPhone ça a duré 3 mois et
+au bout des 3 mois ils ont fait une
+grande conférence intérieur d'Apple où
+toutes les équipes de dev venaient
+présenter leur clavier et c'était que
+des claviers hyper stellair donc c'était
+genre un espèce de pad où faut faire des
+dessins genre des forme un peu
+géométrique en fonction de la forme que
+tu fais ça te fait apparaître la lettre
+que tu veux parce qu'en fait comme
+l'écran tactile est pas assez précis
+pour voir là où tu appuies mais en fait
+il détecte mieux les mouvements les
+formes et tout que des trucs stellaires
+inutilisables et puis un moment il y a
+un mec qui arrivait à la conf et qui
+avait un clavier tout simple comme un
+clavier d'ordinateur juste sur l'écran
+tactile sauf que lui quand il appuyait
+ça fonctionnait et ça il y avait aucun
+problème ça tapait pas sur la touche d'à
+côté ça fonctionnait parfaitement et
+donc Steve Jobs est venu le voir et lui
+a dit comment est-ce que tu as fait
+pourquoi nous on pourquoi aucune de mes
+équipes pas fait ça avant pourquoi chez
+toi ça fonctionne alors que tout le
+monde m'a dit que c'était impossible et
+en fait ce qu'il avait fait pour la
+petite histoire c'est que le clavier
+quand vous le voyez il a une apparence
+de clavier normal mais en fait quand
+vous appuyez sur une lettre
+euh virtuellement la taille de la zone
+où vous pouvez appuyer sur les lettres
+suivantes change je m'explique si vous
+appuyez sur un e sur le clavier de de
+cet iPhone mais en fait la zone du
+tactile de la lettre S parce que la
+lettre qui vient le plus souvent après
+un e c'est le S disons bah la zone du S
+va être beaucoup plus grande et du coup
+même si l'écran est pas très précis
+comme il y a plus de Chan que vous
+appuyer sur s il va détecter que vous
+appuyez sur S et donc en fait sil a mis
+de l'intelligence artificielle dans le
+clavier il en a fait un clavier qui
+fonctionnait beaucoup mieux et ce
+process là ils l'ont répété pendant
+pendant bien une un an à peu près à
+résoudre plein de problèmes et au bout
+d'un moment ils ont eu plein de
+solutions à tous ces problèmes là et ils
+sont dit mais en fait si tout ce qu'on
+c'est aujourd'hui on l'avait su quand on
+a fait le premier prototype de l'iPhone
+l'iPhone ne ressemblerait pas du tout à
+ça ce serait pas parce que évidemment
+quand vous faites un un appareil sur la
+contrainte de le tactile est pourri il y
+a pas de clavier et l'écran lag bah
+évidemment vous faites pas le même
+téléphone que quand vous avez résolu
+tous ces problèmes donc un matin Steve
+Jobs est arrivé au bureau il a pris tout
+le code tous les schémas tout l'iPhone
+il a tout supprimé il a dit on
+recommence tout avec ce qu'on sait
+aujourd'hui et en fait vous avez deux
+façons de le voir vous pouvez vous
+demander qu'est-ce qu'il avait à gagner
+à à à pas faire ça mais en fait à pas
+faire ça il aurait gagner du temps et
+qu'est-ce qu'il avait à gagner à faire
+ça un produit un peu mieux mais si vous
+vous demandez c'était quoi le coût
+d'opportunité mais en fait c'est que
+faire ça fondamentalement ça changeait
+complètement l'expérience de l'iPhone et
+en
+fait
+sacrifier du temps du travail passé
+parce que ce qui parce que le gain de le
+faire mieux a beaucoup plus de valeur à
+l'avenir c'est un truc qui fait
+énormément de sens c'est ce que moi j'ai
+fait avec le casque parce qu'en fait ça
+avait plus de valeur de prendre quelques
+mois tout réécrire proprement que euh le
+temps que je gagnais à ne pas le faire
+et ça c'est quelque chose que vous
+pouvez appliquer à la fois à votre
+produit et à la fois euh dans vos
+décisions par exle dans vos décisions de
+Brand par exemple si vous avez un nom de
+boîte un peu nul mais vous avez réussi à
+construire une brand autour de ça et que
+vous faites une internationalisation et
+que votre nom est hyper français mais en
+fait ça il y a de grandes chances que
+c'est beaucoup plus de valeur de
+recommencer toute la brand en partant de
+zéro avec un nom qui fonctionne à
+l'international que de garder le travail
+que vous avez fait pendant 4 5 mois de
+Brand pour un nom français et de galérer
+avec ça pendant les années et les années
+à venir vous allez faire votre brand à
+l'international et donc qu'est-ce qui
+s'est
+passé
+j'ai j'ai réécrit tout le code du casque
+j'ai refait toute la techno et ensuite
+il fallait faire ma stratégie de
+lancement fallait trouver un moyen de de
+mettre le casque en ligne et d'être sûr
+qu'après avoir passé autant de temps à
+travailler dessus euh il y a des gens
+qui l'utilisent il y a des gens qui
+entendent parler et comment est-ce que
+j'ai fait ça en fait j'ai fait des tests
+je suis allé sur des tout petits forums
+pas très
+connus des petits groupes facebook et
+j'ai posté un message pour dire eh euh
+j'ai fait mon propre casque de VR euh
+j'ai raconéis mon histoire en deux trois
+lignes et je mettais le lien du code non
+pardon à cette époque pas encore le lien
+du code juste je racontais ce que
+j'avais fait et je voyais comment les
+gens
+réagissaient et ce qui se passait c'est
+que les gens me défonçaient
+vraiment les gens étaient en mode c'est
+du fake c'est pas possible pourquoi
+est-ce que un mec au fin fond de la
+campagne en France qui en plus à 16 ans
+aurait fait un truc que oculus pouvait
+pas faire c'est du fake c'est impossible
+et donc j'ai vu ça et en fait ce que je
+me suis demandé c'est comment c'était
+quoi les les les choses sur lesquell je
+devais appuyer pour pour que les gens
+acceptent mon produit et ça en fait
+c'est tout le sujet de comprendre sa
+cible c'est savoir c'est quoi ce que
+vous devez faire pour que votre produit
+atteigne vos users et bah moi dans mon
+cas c'était une chose qui était très
+importante pour ma communauté c'était
+que je sois légitime c'était que je sois
+pas juste quelqu'un sorti de nulle part
+un nobody qui a fait un casque de verre
+et personne peut savoir si il est
+légitime ou pas pas de l'avoir fait et
+donc comment est-ce qu'on a fait ça
+c'était avec un mes très bons amis Ayou
+on a pris tous les sites de où il y
+avait des communautés de développeurs
+des communautés de gamers et tout ça et
+pour chacun de ces sites on a tester des
+messages différents donc on est allé sur
+redit redit c'est un espèce de méga
+forum un MTA forum où il y a plein de
+forums à l'intérieur et on est allé sur
+le redit des game devvelopper et on a
+posté un message un message avec son
+compte un message avec mon compte avec
+d'autres comptes et on a vu quel message
+fonctionne sur quel forum et on s'est
+rendu compte qu'en fait en fonction du
+forum sur lequel on
+parle c'est pas du tout les mêmes
+messages qui fonctionnent avec les
+gens et donc on par on devait pas parler
+de la même façon gamer qu'on parle au
+Game devvelopper qu'on parle au Maker
+donc les makers c'est gens qui bricolent
+des trucs dans le chambre et on par et
+on leur parle eux-même pas de la même
+façon qu'on parle au gens qui font du
+web développement
+et euh on a découvert plein de trucs
+vraiment marrants par exemple quand dans
+les messages je disais que je m'appelle
+Maxime sur la plupart des forums ça
+changeait rien mais sur les forums de
+gamers ça faisait exploser le nombre de
+partages que je dise que je m'appelle
+Maxime en fait la raison elle est assez
+simple c'est que pour les Américains
+Maxime c'est maxima et maxima c'est un
+nom de fille et du coup sur les forums
+de gamers elles étaient sensibles au
+fait que ce soit une fille qui l' fait
+et du coup il partageaent plus
+voilà petit trucs marrant comme ça qu'on
+a appris qu'on a appris sur eux et en
+fait des choses comme ça on en a appris
+plein sur chacune des communauté à
+laquelle on parlait et comment est-ce
+qu'on a fait ça et ben en fait ma
+stratégie ça a été de prendre mon projet
+qui était le casque et de faire une
+pierre de coup j'ai pris le casque et je
+l'ai séparé en sous-projet et chacun des
+sous-projets c'était un des prérequis
+technologiques qui m'a permis de créer
+le casque et on a fait les lancements de
+ces préquit technologiques il y avait
+warm VR black
+hole il y en avait trois et en fait bah
+ces trois sous-projets résolvait les
+trois problèmes dont je vous ai parlé
+précédemment et en fait quand j'ai lancé
+mon truc d'algo de calcul de position
+dans l'espace et bah c'était un algo de
+calcul de position dans l'espace on l'a
+envoyé à tous les gens que ça
+intéressait ça a fait le buzz parce que
+c'est une toute petite communauté on
+savait comment leur enarler parce qu'on
+avait fait des tests ils ont adoré tout
+le monde a partagé ça a été genre un ça
+ça a été genre en en tendance sur sur
+redit et sur giitthub et donc ça c'était
+pour l'algo de calcul de position on a
+fait la même chose pour l'algo de
+transfert des données pour l'autre algo
+et cetera et du coup ce qui s'est passé
+c'est que le jour où on a fait le
+lancement du casque bah j'étais pas un
+obody j'étais ah oui en fait ce mec qui
+a fait le casque de VR c'est le même mec
+qui a fait l'algo de communication c'est
+le même mec qui a fait l'algo de calcul
+de la position le même mec qui a fait le
+plugin Unity et du coup j'étais beaucoup
+plus lég léitime et du coup les gens
+considéraient pas que c'était du fake
+parce que j'étais devenu crédible dans
+des micro niches et les gens faisaient
+confiance à ces micro niches et l'autre
+effet c'est qu'en ayant passé du temps à
+créer tous ces sous-projets je savais
+exactement à qui je m'adressais et
+comment leur parler et du coup ce qui
+s'est passé c'est que un samedi euh en
+début d'après-midi on a mis le casque en
+ligne
+euh en 1 heure il y a à peine six
+personnes qui l'ont vu donc c'était un
+peu nul et puis dans les 10 minutes
+suivantes on a envoyé les messages à
+tous les gens qui nous connaissaient et
+on a on est parti jouer à civilisation
+et on est revenu et là c'était ça avait
+explosé euh c'était en top trending
+partout sur Hacker News médium GitHub
+Reddit euh en top redit et tout et en
+fait c'était c'est c'était deux choses
+c'était la chance qu'on ait des gens
+influents qui a partagé et c'est tout le
+travail de fond que j'ai passé pendant
+des mois à nouer de la relation avec
+tout un tas de niches différentes qui
+quand j'ai lancé le projet ce sont son
+toutes senti investis ell sont tout dit
+ah oui c'est lui qui avait fait cet algo
+en fait il peut aussi se servir de sa
+Tech pour faire ça et qui donc l'ont
+partagé partout et
+euh un effet marrant de ça c'est ça nous
+amène sur la
+communauté parce que ce qui s'est passé
+c'est que très vite on a dû se mettre à
+créer et gérer une communauté
+euh j'ai créé un discord j'ai mis un un
+discord c'est genre slack mais pour les
+gamers j'ai mis un lien du discord dans
+un peu en en au fin fond du site du du
+du casque et le premier soir il y a 150
+personnes qui se sont inscrit le
+lendemain il y en a eu encore 50
+lendemain encore 50 50 et il y avait des
+gens qui venaient tous les jours
+plusieurs par heure comme ça et euh
+cette communauté elle a été très
+efficace très vite euh un un exemple que
+que que j'aime bien c'est que quand on a
+lancé le
+casque le premier jour il y avait 10
+jeux compatibles avec le le casque donc
+on pouveait jouer à 10 jeux le lendemain
+il y en avait une centaine et à la fin
+de la semaine tous les jeux VR de
+l'histoire était compatible avec mon
+casque on passé 10 100 à tous les jeux
+de l'histoire donc ça ça a très bien
+fonctionné mais en fait ça s'est pas
+fait en une semaine en fait c'est le
+résultat de plusieurs mois passés à
+comprendre à qui je parlais comment leur
+parler et et comment engager avec ces
+gens et donc on s'est retrouvé avec
+plein plein plein plein plein de gens
+une énorme communauté il fallait la
+gérer c'est Ayou la même personne qui
+m'avait aidé à faire le lancement qui a
+pris le lead de cette communauté et
+aujourd'hui c'est lui qui gère je crois
+600 développeurs imaginez vous gérez
+tous les jours 600 mecs euh développeurs
+en plus et
+euh et euh voilà donc ça ça c'est créer
+gérer une communauté
+euh le le sujet avec la communauté c'est
+que elle nous a permis
+elle nous a a permis de résoudre plein
+de problèmes que nous on aurait galéré à
+résoudre et qui nous aurait pris
+beaucoup de temps euh un exemple de ça
+c'est le design 3D du casque le NRE
+était très bof même vraiment pas
+vraiment pas bien on l'a fait vraiment
+vite fait mais on s'est dit que cétait
+parce que ce que les gens attendaient de
+nous c'était surtout notre technologie
+soft et hardware et du coup on l'a
+publié comme ça et en fait tous les
+jours il y avait des designers qui
+venaient qui recréaient leur propre
+version du casque et donc en fait la
+communauté nous a permis on a pu er la
+communauté pour résoudre des problèmes
+qu'on aurait pas rés pu résoudre
+nous-même et donc si vous aussi vous
+êtes dans une situation où vous voulez
+créer une communauté autour de votre
+produit autour de ce que vous faites il
+y a un truc qui est très
+important c'est comprendre qu'il y a
+plusieurs genres de communautés alors
+dictature démocratie anarchie c'est les
+trois grands types de communautés qui
+existent premièrement les dictatures
+alors les dictatures c'est quoi c'est
+les communautés
+où vous avez une infrastructure et une
+personne qui domine cette infrastructure
+par
+exemple les podcasts c'est des dictature
+l'infrastructure c'est Apple podcast
+Spotify podcast Soundcloud donc ça c'est
+l'Infra et quelqu'un qui domine cet
+infra c'est vous avez quelqu'un qui a le
+contrôle dessus qui est la personne qui
+crée son podcast et il vous la BR enfin
+il broadcast son contenu en gros il le
+broadcast ça veut dire que lui il est en
+haut de cet infra et il est il écrit des
+podcasts et vous les envoie et vous vous
+les écoutez et donc il est au-dessus ça
+c'est le premier type des dictatures
+vous avez la télé vous avez la radio
+euh voilà c'est les c'est les grands
+c'est tout tout ce qui relève du
+broadcast
+ensuite vous avez les démocraties alors
+les démocraties c'est quoi c'est une
+infrastructure mais pas la personne qui
+est auudessus et qui la domine par
+exemple euh les démocraties c'est
+Facebook Facebook c'est une
+infrastructure sur laquelle tout le
+monde peut écrire des messages ça va
+être partagé aux gens mais il y a pas
+une personne qui écrit les messages et
+qui les envoie à tout le monde n'importe
+qui peut écrire des messages n'importe
+qui peut écrire des posts et la façon
+don pouvez vous le représenter c'est
+qu'une dictature c'est un point d'où
+découle tout un graphe de gens qui
+écoutent une démocratie c'est un énorme
+cercle de plein de points tous
+interconnectés donc dans les deux cas
+infrastructure des démocraties il y a
+Facebook évidemment il y a Instagram
+euh il y a
+GitHub voilà ça c'est les démocraties
+les dernières c'est les anarchies les
+anarchies c'est quoi c'est vous avez ni
+l'infrastructure ni quelqu'un au-dessus
+qui domine par exemple les projets open
+source c'est souvent des anarchies c'est
+des gens qui se réunissent pour
+travailler sur quelque chose mais ils se
+réunissent sur des sites différents sur
+des forums différents
+euh il y a aucune infra qui supporte ce
+qu'ils font alors il y a des outils
+qu'ils utilisent mais ils ont pas un
+truc qui les centralise donc par exemple
+mon projet c'est une anarchie et donc
+c'est quoi c'est quoi la conséquence
+d'avoir pas pas d'infrastructure et
+personne qui la domine c'est vous avez
+des factions qui se créent et qui se
+disputent le pouvoir donc par
+exemple vous vous faites Linux et B il y
+a une faction qui va se dire non mais en
+fait nous on aime pas cette version de
+Linux on on n'aime pas desbian et du
+coup on va créer on va créer notre
+propre faction et on va essayer de de
+prendre le dessus sur les autres en
+créant une meilleure version de Linux et
+en essayant de la rendre plus
+populaire et moi par exemple mon projet
+open source c'est une anarchie il y a on
+a pas d'infrastructure on a des outils
+qu'on utilise un peu partout mais il y a
+des gens par exemple il y a des gens qui
+ont mis mon casque enfin mon projet sur
+patron mais qui ne sont pas moi ouais
+c'est qu' y a des gens qui gagnent de
+l'argent pour financer les progrès de
+mon projet mais ces gens-là ne sont pas
+moi et la particularité de mon anarchie
+à moi c'est que c'est une anarchie où où
+moi et Gabriel on a gagné et on a la
+faction la plus puissante et du coup
+quand ces gens ont mis le poste sur
+patron ben sont juste pris une vague de
+gens qui leur ont dit bah non mais
+supprime en fait c'est cétait pas
+légitime de faire ça mais
+fondamentalement nous c'était une
+anarchie c'est juste que c'est une
+anarchie où il y a une faction la mienne
+qui qui contrôle
+tout euh donc voilà ça c'est pour les
+communautés et comment vous pouvez créer
+une communauté comment vous pvez la
+leverager pour construire votre produit
+et comment est-ce que vous faites en
+sorte que cette communauté fasse sens
+avec ce que vous connaissez de votre
+cible et donc pour conclure si on devait
+revenir sur sur les les points euh qui
+étaient vraiment importants je pense que
+euh c'était l'apprentissage les
+fondamentaux euh décomposant en des
+choses plus simples et c'est comprendre
+votre cible et vous pouvez tout ramener
+à ces deux sujets là vous pouvez tout
+ramener dans tout ce que j'ai dit à
+est-ce que est-ce que je peux pas me
+poser la question autrement est-ce que
+je peux pas ramener la question des
+choses plus fondamentales et est-ce que
+je fais à du sens pour ma communauté et
+pour ma cible
+merci don la question c'était c'est quoi
+la prochaine étape
+euh alors maintenant le casque vit
+indépendamment de moi ma faction a pris
+le pouvoir et et il y a une version du
+cas qui est util qui qui qui vit et qui
+et qui est poussé par des gens qui sont
+bien meilleurs que moi qui sont des
+experts de leur sujet et qui font des
+choses que je serais incapable de faire
+et il faut avancer le casque et du coup
+je leuris laissé le devant de la scène
+et en fait aujourd'hui moi je suis juste
+là pour dire faut que le casque prennent
+cette direction là il y a des gens bien
+plus doués que moi qui travaillent
+dessus toutes les semaines pour
+l'améliorer donc ça c'est vraiment le
+code que moi j'ai écrit et ensuite pour
+ce qui est des concepts que j'ai créé
+des de ma philosophie d'architecture ça
+ça viit indépendamment de moi et c'est
+des choses qui sont diffusées dans
+l'industrie j'ai pas besoin de
+travailler de nouveau là-dessus je
+considère que j'ai rempli mes deux
+objectifs qui était que desjà fabriquent
+mon casque et que ma philosophie de
+hardware se diffuse et les deux
+objectifs ont été remplis ma philosophie
+de hardware vient indépendamment de moi
+et et le cas fonctionne très bien et du
+coup moi aujourd'hui je passe juste un
+tout petit peu de temps chaque semaine à
+parler avec les qui aujourd'hui dirige
+ma communauté et et je travaille sur je
+travaille sur un nouveau projet dans le
+jeu vidéo et en gros je fais de la
+recherche en intelligence artificielle
+pour trouver un moyen de rendre plus
+facile le développement des jeux vidéos
+alors la question c'est comment est-ce
+que j'ai fait pour réduire le prix du
+casque alors en gros
+euh pour pour je vais faire en sorte que
+ce soit à peu près compréhensible en
+gros euh je vous le disais le casque
+c'est calculer la position de quelqu'un
+dans l'esace envoyer cette info et la
+réutiliser dans un jeu
+euh moi ce que j'ai fait c'est que j'ai
+au lieu d'optimiser les calcul côté
+casque et donc de mettre des processeurs
+type ARM Toshiba 64 bit cadencer enfin
+des vrais trucs euh
+et donc optimiser les calculs moi j'ai
+optimisé le flux de données donc la
+communication entre casque et ordinateur
+et j'ai fait en sorte que il y ait
+beaucoup de données qui passent et en
+fait j'envoie principalement ce que M
+sensor détecte côté computer et côté
+computerur je fais les calculs et donc
+c'était plus une question d'optimisation
+du flux de données que la quantité de
+calcul et du coup j'ai mis des
+microcontrôleurs tout pourris enfin ça
+ça le l'ordinateur qui a dans le casque
+dans le mien je crois que a prix d'usine
+il coûte 40 centimes donc vraiment tu en
+achè l'écran en fait je pense que si
+j'étais une entreprise et que j'ai
+achetis en très grande quantité le
+casque il devrait fabriquer il devrait
+il coûterait pas plus que un ou 2
+dollars à fabriquer quoi que allez
+j'exagère peut-être 3 dollars euh il y a
+des il y a des gens qui ont mis mon
+casque en vente et tu peux et qu' le qu'
+le vendent sur internet donc tu peux
+l'acheter
+euh mais ce que tu peux faire que je te
+conseille c'est que tu peux aller sur
+notre GitHub qui est l'endroit où on a
+mis tout le code source acheter les
+composants et fabriquer toi-même et j'ai
+écrit un guide qui t'explique comment le
+fabriquer c'est un peu technique c'était
+pas technique si'était pas technique je
+cons de faire un truc c'est de parler à
+des gens qui en ont fabriqué un et de
+leur demander de t'en fabriquer un ils
+sont trop contents et enfin vraiment ils
+sont vraiment heureux genre ils adorent
+en fabriquer et je te conseille de faire
+ça si tu es pas technique et sinon si tu
+es technique tu peux le fabriquer
+toi-même c'est sympa j'ai cré un guide
+j'explique tout c'est détaillé donc la
+question c'est est-ce
+que c'est cool d'avoir mis tes trucs en
+open source mais est-ce que tu tu as de
+quoi gagner ta vie
+euh en fait quand j'étais dans la vallée
+euh je suis arrivé là-bas avec une façon
+de fabriquer un casque de verr 10 fois
+moins cher et j'ai eu beaucoup
+d'offres et en fait c'était un peu par
+hasard on avait donc avec Ousama on
+vivait dans une
+maison genre le truc assez grand et un
+soir il y avait une soirée il y avait
+beaucoup de monde
+et et j'ai rencontré par hasard un des
+godfers de the family qui est vipi chez
+Amazon et et qui m'a raconté une
+histoire
+il m'a raconté que quand Marc Zuckerberg
+avait 16 ans donc c'était l'âge que moi
+j'avais à l'époque quand il m'a raconté
+cette histoire il avait créé avec son
+meilleur ami Adam
+diangelo une une app qui en gros
+analysait vos tes goûts musicaux
+et un jour Microsoft est venu le voir
+lui a fait une offre lui a proposé de
+racheter son App pour 3 millions quelque
+chose comme ça il avait 16 ans et il a
+dû se poser la question de est-ce que je
+veux vendre ce que j'ai fait à Microsoft
+ou est-ce que je le vends pas et
+qu'est-ce que je fais donc en fait il
+s'est dit plusieurs choses la première
+c'est que ce que j'ai fait ça vaut pas 3
+millions et en fait le prix qu'on me
+propose ce sera toujours un prix par
+rapport à mon âge parce que tous les
+gens qui vont proposer des prix il le ça
+se trouve il vont faire beaucoup plus
+d'argent avec techno et en fait il le
+propose juste parce que cet âge là et
+qu'il savent que du coup je suis
+plusible d'accepter j'ai aucun levier de
+négociation donc ça c'est le premier
+point donc ça veut dire que déjà
+stratégiquement tu es dans une position
+qui est PASP top quoi les gens te
+proposent des prix qui sont pas vraiment
+la valeur de ce que tu fais et te le
+proposent parce que tu as 15 ou 16 ans
+et l'autre truc c'est que si il refusait
+de
+vendre il peut pas créer de boîte parce
+qu'il a 16 ans et donc en fait sa techno
+elle servirait pas à grand monde à part
+aux quelques mec qui l'utilise déjà sur
+internet et donc il était bloqué dans
+cette question est-ce que je enfin c'est
+c'est quoi parmi ces deux chosesl ce que
+je peux faire et en fait il a il a
+réalisé qu'il y en avait une troisième
+d'option et la troisième CIT de tout
+mettre de mettre tout ce qu'il avait
+fait en source et en fait en faisant ça
+euh il gagnait pas d'argent mais il
+gagnait quelque chose qui avait qui a eu
+beaucoup plus de valeur dans sa vie ce
+qu'il a gagné une réputation et en fait
+quand il quand il a mis ce truc en open
+source donc tout le monde en a entendu
+parler tout le monde l'a utilisé et
+quand il a fondé Facebook à hardwardard
+Mark Zuckerberg c'était pas Mark
+Zuckerberg pour tout le monde Mark
+Zuckerberg c'était le mec qui a dit non
+à Microsoft et l'effet que ça a eu c'est
+que tous les meilleurs dev ont voulu
+travailler avec lui tous les meilleurs
+ha cœur ont voulu passer du temps avec
+lui parce qu'il avait cette réputation
+qui avait beaucoup plus de valeur que de
+l'argent et et moi je suis dans la même
+position j'ai pas gagné d'argent de
+façon direct avec mon projet euh tu vois
+il y a des gens qui ont gagné un peu
+d'argent en en vendant il y a des gens
+qui ont fait des patrones moi je me suis
+toujours refusé à faire ça j'ai vraiment
+gagn 0 € du casque j'ai j'ai même eu des
+tu vois il y a des gens qui sont venus
+qui m'ont dit tu nous écris un guide
+pour ton casque pour que nous on le
+vende à nos boîtes et on te file 300000
+€ et j'aurais dit mais non mais
+qu'est-ce que vous me racontez c'est en
+open source je veux pas faire payer des
+gens alors que c'est gratuit sur
+Internet et donc j'ai à chaque fois
+refusé ça parce que le but c'était que
+Ctait quelque chose qui avait beaucoup
+plus de valeur à mon sens c'était
+développer des relations avec les gens
+plutôt que d'avoir de l'argent à court
+terme et je pense que ces relations que
+j'ai développé avec les gens sur le long
+terme elles ont infiniment plus de
+valeur que n'importe quelle somme à
+laquelle j'aurais pu vendre le casque
+bon après si vous m'avait proposé 2
+milliards peut-être que j'aurais hésité
+mais alors la question c'est si tu avais
+30 ans euh des enfants un crédit et des
+responsabilités euh et passe 16 ans et
+tu pouis faire tout ce que tu veux
+est-ce que tu aurais quand même décidé
+de pas gagner de l'argent avec ton ton
+casque et et de mettre en open source
+bah j'ai pas d'enfants j'ai pas 30 ans
+donc je sais
+pas je sais pas ce que j'aurais fait
+mais oui évidemment évidemment que si tu
+as des impératif si tu as des problèmes
+d'argent tu es beaucoup plus tenté
+d'accepter cette offre et évidemment que
+moi j'ai pu le faire parce que j'étais
+dans une situation privilégiée où où je
+savais que je je vais vous donner un
+exemple on m'a Peter vous connaissez
+Peter
+ok bah Peter te m'a proposé 100000
+dollars en échange que je quitte l'école
+et je les ai refusé et en fait la la
+raison pour laquelle je les ai refusé
+c'est parce que bah j'ai j'ai enfin j'ai
+pas enfin j'ai pas j'ai pas d'enfant
+j'ai pas de responsabilité j'ai pas j'ai
+aucun j'ai pas de problème avec ça je
+peux me permettre de refuser cet argent
+je peux me permettre de rester libre de
+rester indépendant et je sais que si
+j'ai besoin d'un peu d'argent bah c'est
+pas grave mais tu vois par exemple cet
+été avec un ami on on dépensait beaucoup
+plus que que l'argent qu'on avait et du
+coup on a vendu des trucs sur internet
+si certains d'entre vous ont acheté des
+ventilateurs USB pour qu' se branch à
+des iPhone c'est moi qui vous les ai
+vendu je vous le dis j'en ai vendu plein
+partout à Paris ça m'a ça nous a payé
+les uber et les restaurants pendant
+quelques mois et donc évidemment moi je
+suis dans cette situation où où où j'ai
+pas de responsabilité j'ai pas
+grandchose à m'inquiéter donc j'ai pu me
+permettre de refuser mais oui je pense
+que je te dis pas que je dis pas que
+c'est la chose à faire et que et que et
+que tout le monde est dans une situation
+hyper privilégiée où il peut juste
+regarder le long terme et et tout faire
+pour optimiser le long terme mais moi
+c'était mon cas et du coup je l'ai fait
+ça répond à ta question cool autre
+questions
+ouais comment je aller chercher les les
+gens alors
+alors plusieurs
+choses je suis all regarder toutes les
+entreprises qui fabriquent du hardware
+et j'ai regarder si elles avaient des
+forums sur leur site évidemment elles
+ont toutes des forums elles ont toutes
+des passionnés méga hardcore sur ces
+forums Arduino par exemple c'est une
+communauté
+incroyable je crois qu'il y a des il y a
+des centaines de milliers de personnes
+qui ont partagé mon projet sur le truc
+Arduino d' Arduino maintenant il
+m'envoie des cartes il m'envoie du
+hardware gratuitement parce que mon
+projet a fait genre plus 100000 vues sur
+leur site donc donc donc ça c'est ça
+c'est le premier sujet c'est tu vas du
+du côté des si tu es si tu es dans un
+comme moi dans un business de hardware
+où il y a déjà des boîtes existantes tu
+regardes comment les autres de ton
+marché font pour parler à leurs clients
+après j'ai regardé où vont les gens qui
+ont un oculus et donc bah je sais pas tu
+tapes des questions hyper précises sur
+l'oculus et tu regardes quel forum
+apparaissent en premier sur Google et tu
+vois que tu as
+redit/oculus ou redit/vr et tu vas sur
+ce redit et tu t'imprèges de ces codes
+et après tu demandes aux gens qui sont
+sur ce redit eh c'est quoi les autres
+forums où vous allez et comme ça petit à
+petit en fait il faut en fait ce que tu
+dois faire c'est trouver un point
+d'entrée pour trouver au moins une
+personne qui est dans ta communauté et
+une fois que tu as ce point d'entrée tu
+le tires au maximum tu lui demandes
+c'est quoi les autres forums où il va tu
+vas sur ces forums et tu prends tous les
+gens et tu leur demandes c'est quoi les
+autres forums où vous allez et en
+faisant ça tu vois tu vas tirer le fil
+et tu vas pouvoir te créer une
+cartographie de tous les forums tous les
+endroits où les gens qui t'intéressent
+parlent ok alors la question c'est
+comment je me vois à 30 ans et c'est
+quoi la vision long terme de mon projet
+euh je me vois pas à 30 ans mais par
+contre je peux dire comment je vois mon
+projet dans 30 ans
+euh ce que je fais aujourd'hui c'est
+qu'en fait je fais des algorithmes de
+Deep learning pour que ce soit plus
+facile de créer des jeux vidéo
+euh c'est c'est pas encore public je
+travaille là-dessus tout seul dans mon
+coin et je fais de la recherche toute la
+journée et donc je fais je recommence à
+faire des maths comme avant toute la
+journée et euh et en gros la vision de
+ce que je fais c'est
+que je veux créer une infrastructure qui
+facilite drastiquement le développement
+des jeux vidéos en mettant du Deep
+learning dedans et et en fait à tel
+point que si tu es un studio de jeux
+vidéo tu auras deux choix soit tu restes
+libre et tu fais tes trucs et ça te
+coûte beaucoup d'argent parce que c'est
+très difficile de créer un jeu vidéo
+soit tu tu viens sur ma plateforme enfin
+sur mon architecture et du coup tu es
+dépendant de mon architecture mais par
+contre tu as plein d'outils très
+puissants pour mieux développer tes jeux
+donc ça c'est c'est ce que je fais
+aujourd'hui
+euh c'est encore c'est encore à l'état
+de Genèse c'est encore très embrionnaire
+donc j'en parle pas beaucoup mais j'ai
+je ce que j'ai fait avant dans la VR ça
+m'a c'est en fait si la question que tu
+te poses c'est qu'est-ce qui va
+qu'est-ce qui va advevenir de ce que
+j'ai fait avec le casque de verr euh bah
+tu vois la réponse c'est que ça m'a fait
+une réputation ça m'a permis de
+rencontrer les gens de ce milieu et ça
+m'a permis de beaucoup mieux comprendre
+le monde du jeu vidéo et donc et
+aujourd'hui et le monde du jeu vidéo et
+plein d'autres choses et aujourd'hui je
+m'en sers pour construire mes nouveaux
+projets et tu
+vois ce que je fais c'est que mon
+nouveau projet j'essaie de faire en
+sorte qu'il soit infiniment plus
+complexe que le précédent et donc comme
+ça je continue d'être ça continue de
+m'amuser je continue d'avoir des longues
+périodes de recherche et et ça reste
+très excitant ok merci
+[Applaudissements]

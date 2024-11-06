@@ -1,0 +1,2445 @@
+vous avez tout ce qu'il faut pour faire
+des billionses dellars compagnie si vous
+vous dites c'est parce que j'ai pas ça
+vous êtes en train de vous mentir et
+donc ça vous fait perdre du
+temps bonjour à tous et à toutes
+Aujourd'hui on accueille Charles de Comè
+Comè c'est une boîte qui en relation des
+développeurs freelance avec des boîtes
+et en fait ils ont une histoire très
+intéressante parce qu'ils ont commencé à
+créer leur produits tech avec un
+prototype où il y avait pas une seule
+ligne de code et ils sont passés de 0 à
+500000 € de volume d'affaires par mois
+sans coder une seule ligne et donc quand
+j'en ai parlé à Charles et je lui ai dit
+est-ce que tu veux venir faire une
+conférence coup d'État il m'a dit bah on
+va parler de ça parce que c'est une
+leçon que tous les non codeurs veulent
+apprendre c'est une leçon que même tous
+les codeurs devraient connaître et je
+pense qu'il y a vraiment des clés qu'on
+peut vous donner pour que vous puissiez
+reproduire ce truc vous même et aller
+passer de 0 à 1 avec votre boîte en
+utilisant ces méthodes là donc je vous
+prie d'accueillir Charles et bonne
+[Applaudissements]
+conférence salut tout le monde je suis
+ravi d'être avec vous ce matin parce que
+pour la petite histoire il y a 2 ans on
+a lancé Comè il y a 2 ans je vais me
+présenter mais ça me fait rire parce qu'
+il y a 2 ans je m'endormais sur coup
+d'État c'est c'est c'est cheesy et c'est
+c'est un peu nié mais très honnêtement
+moi je venais du monde un peu corporate
+donc du monde des grands groupes et je
+connaissais rien au startup ou au
+start-up je les appelle souvent startup
+parce que je m' moque un peu mais en
+fait ça me fait grave PLA d'être là ce
+matin en tout cas vous raconter un peu
+ce qu'on a fait en 2 ans comment on a
+réussi aussi à construire un peu from
+scratch donc vous verrez il y a plein
+d'anglicisme je suis désolé c'est là
+aussi un cliché mais j'aime beaucoup ça
+en
+gros l'idée c'est de vous donner
+vraiment toute l'histoire au moin le
+mois après
+depuis 2 ans tous les learning que j'ai
+eu qu'on a eu aussi en en team et et de
+vous parler aussi un peu du futur en fin
+de pitch parce que c'est cool aussi de
+voir de là où on est parti ce qu'on a
+fait pour arriver là où on est
+aujourd'hui et en fait vous montrer que
+bah finalement démarrer assez petit avec
+des tout petits chiffres sans connaître
+grand-chose en fait on peut aller assez
+loin en tout cas on peut avoir
+l'ambition d'aller assez loin et donc je
+suis l'un des cofondateurs de de Comè et
+aussi le CEO pour faire simple mon job
+c'est d'être capable d'être très fort
+sur la vision de la boîte d'être capable
+en fait de se dire finalement pourquoi
+est-ce qu'on existe qu'est-ce qu'on fera
+c'est quoi commett dans 5 ans dans 3 ans
+dans 2 mois donc c'est assez dur
+finalement de de palper ce qui est la
+vision et ça c'est mon plus gros
+objectif c'est d'être capable de pouvoir
+passer de la vision au terrain en gros
+au chiffres
+métrique ça c'est en gros mon gros job
+et la deuxième partie qui est
+extrêmement importante c'est la team et
+on va beaucoup en parler parce que en
+fait je suis convaincu que quel que soit
+votre
+business quelle que soit l'industrie
+dans lequelle vous évoluez si vous
+construisez la plus belle team vous
+gagnez c'est très loin d'être une
+histoire de tech surtout de One et même
+au fil du projet on se rend compte que
+c'est qu'une histoire de people
+finalement deux trois mots sur moi en
+gros donc moi je suis je suis lillois
+d'origine je suis pas
+parisien toute ma famille est là-bas je
+suis venu à Paris après mon bac j'ai
+fait prépa école d'Inger ici donc j'ai
+fait un G en math appliqué à l'époque
+plutôt en aéronautique et en fait je
+suis rentré par la mecafu dans les maths
+et j'ai un peu mal tourné d'après mes
+potes de promo parce que j'ai fait du
+commerce après j'ai fait du commerce en
+dernière année j'ai fait un double
+diplôme un G Commerce et j'ai bossé
+pendant 4 ans dans le conseil dans le
+conseil en data donc d'après eux j'ai
+encore plus mal tourné et en fait mon
+job c'était d'aller voir des grands
+groupes d'identifier un peu parce que
+quand j'ai commencé à bosser c'était en
+2013 il y avait un énorme mot clé un
+buzzw gigantesque qu'on appelait la Big
+Data et en fait tout le monde que ça
+soit la baby boî ou la grande boîte
+s'est dit euh je sais pas trop à quoi ça
+sert mais il me faut un Data scientiste
+il faut que je fasse de la data donc
+tout le monde en cherchait et en fait
+encore aujourd'hui tout le monde cherche
+de la tech et de la data et donc mon job
+c'était de parler avec ces grands
+groupes
+là et euh qui cherchaent à en recruter
+qui avait plein de projets et euh en
+face moi j'ai recruté une centaine de
+Data scientist data engéer data
+développeur dans mes équipes en CDI que
+je revendais à la journée chez mes
+clients donc un modèle un peu cl
+classique type
+SS2I et en parallèle de ça j'ai fait mon
+mémoire de fin d'étude à l'époque sur un
+papier de recherche d'Harvard qui était
+assez pompeux mais trop cool qui
+s'appelait Consulting on the cusp of
+disrption donc le conseil à l'OB de la
+disruption et donc le mot disruption
+c'est pareil c'est un mot qui est un peu
+dégueu mais ce qui était asse c'était
+400 pages mais vachement bien faite sur
+un truc ouf qui est que en fait le
+modèle du Conseil le modèle de l'agence
+le modèle de la SS2I est amené à
+vachement se transformer voire même à se
+faire un peu attraper parce que il y
+avait différents points mais le point le
+plus important c'est qu'aujourd'hui en
+fait outre la sécurité des revenus et la
+sécurité de l'emploi il y a un truc qui
+apparaît aussi en first dans nos
+aspirations c'est qu'on a grave envie de
+kiffer nos job on a grave envie de
+s'accomplir de s'épanouir on peut mettre
+un peu le mot qui va bien à côté mais on
+a grave envie de finalement vivre une
+vie pro qui est complètement différente
+que celle qu'on a pu créer à l'air
+industrielle par le salariat et ça ça
+crée un truc qui est que soit vous
+trouvez une super team avec une boîte
+qui a du sens avec justement une belle
+culture soit en fait vous montez une
+boîte
+et dans cette partie entrepreneur il y a
+une une classe d'entrepreneurs qu'on
+appelle les freelance qui finalement
+sont des entrepreneurs et en fait
+entrepreneurs de leur vie pro et donc en
+gros moi je me suis intéressé un peu à
+tout ça et je me suis rendu compte que
+finalement pour en venir à
+que si demain la plupart des gens en
+l'occurrence des ingénieurs finalement
+veulent travailler pour eux-mêmes
+passent freelance à quoi sert ENF quel
+est l'asset des boîtes de conseil des
+agences et cetera parce que ces boîtes
+là finalement leur asset principal c'est
+les gens qu'ell recrute en interne et
+donc si les gens passent indépendant ça
+devient une forme de de coquille vide et
+c'est comme ça un peu en gros en 2016
+que est venue l'idée de comète où on
+s'est dit en gros on était trois potes
+et on s'est dit final
+ce marché dans lequel on bosse il est
+amené à à pas mal changer l'été 2016 on
+avait vraiment cette vision qui était en
+fait être salarié c'est cool mais on se
+rend compte aussi qu'il y a pas mal de
+mauvais côtés être freelance honnêtement
+c'est pas ENF c'est cool sur certains
+côtés mais ça craint un peu parce qu'on
+peut pas avoir les mêmes avantages
+sociaux on peut pas avoir forcément de
+mutuel on peut pas louer un appart on
+peut pas acheter on n pas vraiment de
+collègu ou de carrière ça c'était en
+2016 avant qu'il ait plein de belles
+boîtes qui se lancent et en gros
+le constat c'était il faut qu'on
+devienne le département d'ingénieur en
+Europe on s'est vraiment spécialisé sur
+l'ingénierie et en fait c'est ce qu'on
+fait en gros Comè on va devenir le
+département d'ingénieur même dans le
+monde on veut faire en sorte que ça soit
+beaucoup plus cool demain de bosser avec
+nous en tant qu' que n'importe où et
+pour ça on prend tous les bons côtés du
+salariat tous les bons côtés du
+freelancing et on essaie de créer une
+sorte de trème voix qui mer un peu les
+deux et je je vais vous présenter un
+petit peu Comè rapido
+en fait donc Comè comme Valentin l'a
+très bien dit pour en fait devenir le
+département d'ingénieur dans le monde la
+première chose parce que aujourd'hui êre
+freelance c'est génial le premier petit
+problème c'est que si vous avez pas de
+mission vous avez pas de revenus alors
+pour la population plutôt Tech Data
+c'est plutôt cool parce que la demande
+elle est scandaleuse par rapport à
+l'offre donc en fait il y a un ratio qui
+est vachement sympa mais ça reste quand
+même un sujet de se dire si vous êtes
+dev aujourd'hui franchement vous mettez
+sur Linkedin salut je suis dispo recevez
+200 inbox dans la semaine et il y a
+quand même pas mal de bruit quoi c'est
+qu'il y a pas mal de projets qui n'ont
+rien à voir avec ce que vous avez envie
+de faire ce que vous avez par ce que
+vous savez faire et donc il y a un côté
+un peu star Paparadis sur le marché qui
+un peu é unant et donc nous on s'est dit
+dans tous les cas en fait on va se
+spécialiser sur l'ingénierie dans
+l'ingénierie on va se spécialiser sur la
+tech et ce qu'on va faire c'est que on
+va en fait créer une app qui permet de
+connecter ces freelance en Tech Data
+avec des boîtes mais pas les connecter
+en mode catalogue pas de faire ce qu'on
+appelle une place de marché ouverte mais
+de faire juste une app où en gros quand
+tu es freelance tu peux chiller dans une
+piscine de mission tu appuies sur un
+bouton quand tu es dispo et en fait on
+te propose tout de suite une mission qui
+fit avec ce que tu veux vraiment faire
+et avec ce que tu sais vraiment faire et
+de l'autre côté pour les clients c'est
+en fait ce que j'aime beaucoup par
+exemple aujourd'hui Amazon Prime en fait
+vous vivez dans un magasin je vous parle
+d'un bouquin vous appuyez sur un bouton
+le bouquin vous l'avez demain matin un
+peu pareil sur en gros le déplacement
+sur avec sur la bouffe et cetera et en
+fait on s'est dit mais ça serait génial
+aussi en tant que boîte de se dire là
+imaginons qu'on soit en réunion en
+kickof tous ensemble et qu'on se dise ok
+on est un peu bloqué on prend du retard
+il faut que on a un dev frontain demain
+matin en fait on appuie sur un bouton et
+il est là demain matin donc en fait com
+c'est ça c'est que pour faire simple et
+vulgariser un peu dans cette connexion
+entre des freelan et des boîtes en fait
+on qualifie toutes les missions
+aujourd'hui c'est à peu près une sur 5
+que l'on valide et on qualifie aussi les
+dans le sens savoir vraiment ce qu'ils
+veulent faire là où ils sont forts s'ils
+veulent bosser plutôt en start-up en
+grand groupe sur quel type d'industrie
+sur quel type de mission et au milieu on
+a un moteur de matching et aujourd'hui
+on a un vrai moteur de matching parce
+qu'en fait Comè on a 2 ans et pendant 2
+ans on a vécu grosso modo un an sans une
+ligne de code en gros on a vécu un an où
+en fait on a fait ce qu'on appelle on a
+bootstrappé on a été ingénieux sur la
+manière de en fait apporter cette valeur
+à nos utilisateurs et en fait oui on est
+passé de 0 € de volume d'affairire pour
+vous donner en fait le volume d'affaire
+c'est un freelance si se facture 500 €
+par jour et qui travaille 20 jours dans
+le mois ça génère 10000 € de volume
+d'affaires et en fait nous c'est gratuit
+pour les les freelances et ça le sera
+toujours on prend une commission de 10 %
+qui est rajoutée et qu'on prend au
+client donc en fait si le freelance se
+facture 500 € par jour sur un mois ça
+fait 10000 à peu près nous on rajoute
+1000 et donc le client paye 11000 et en
+fait on est passé en gros de 0 à 50000 €
+de revenus sans une ligne de code et
+comment est-ce qu'on a fait ça c'est un
+peu l'objet de tout le pitch mais pour
+vous donner on est trois in à avoir
+monté la boîte vous pouvez vous dire
+ouis en fait c'est easy parce que vous
+saviez développer on a fait du code à
+l'école franchement moi je je suis une
+Tange en dev en je je suis pas une
+flèche du tout donc on aurait été
+incapable de lancer un un produit et en
+fait on s on l'a très vite compris donc
+il y avait Joe qui sup du product qui a
+fait en fait le prototype moi je
+m'occupais des clients et Valentin qui
+s'occupait de toute la partie freelance
+et du matching parce qu'on a été très
+loin d'avoir un algo de matching au tout
+début et en fait ça c'est on s très très
+vite dit mais finalement euh est-ce
+qu'on a besoin tout de suite d'avoir
+l'algo matching je pense pas en fait ce
+qu'on veut c'est déjà voir si les
+freelance ça les intéresse vraiment ce
+qu'on a envie de faire si ça peut
+intéresser les boîtes et on a une chance
+énorme alors j'y suis aujourd'hui donc
+c'est facile mais c'est qu'on est rentré
+chez the family la première semaine où
+on s'est lancé et en fait ce que je
+trouve génial c'est que c'est assez
+clivant soit vous aimez pas trop soit
+vous êtes ultra fan honnêtement on est
+juste ultra fan il nous aideent de ouf
+encore aujourd'hui moi j'habitais à nei
+je bossais à la défense euh je
+connaissais rien à l'entrepreneuriat
+j'avais monté des boîtes à l'école
+c'était des gros fails très sincèrement
+euh d'ailleurs mon père avait financé
+une des boîtes j'avait mis genre 3000 €
+dans la première boîte ça avait c'était
+tombé au bout de 6 mois parce que je
+suis parti en Erasmus et j'ai arrêté
+j'ai arrêté la boîte euh et en gros là
+quand on a lancé Comè il s'est dit non
+non en fait tu te débrouilles et là il
+est un peu de mais mais en gros on a on
+a on a on a mis 1000 € pour lancer la
+boîte donc très honnêtement déjà il y a
+un truc on va beaucoup parler de vous
+avez pas besoin de savoir coder
+franchement vous avez pas besoin de cash
+et c'est ça que je trouve assez ouf
+alors vous me direz oui il y a plein de
+business où en fait vous avez besoin de
+cash il y a des business physiques il y
+a des magasins il y a des trucs donc
+sachez qu'il y a beaucoup de choses que
+je vais vous donner qui sont dans la
+sphère un peu digitale web et tout donc
+il y a des choses que je dis qui sont
+complètement conante pour votre business
+à vous mais en fait quand vous
+décortiquez vraiment vous avez pas
+vraiment besoin de beaucoup de cash et
+je trouve que c'est ce qui est génial
+aujourd'hui c'est que en fait il y a
+aucune friction entre j'ai une idée je
+veux la faire en terme de moyen et on le
+verra aussi franchement il y a zéro
+friction entre j'ai une idée et je veux
+la mettre en prod sur le web par exemple
+c'est pareil il y a pas de distance et
+je vous dis ça alors que moi mon
+business c'est quand même de faire en
+sorte que il y ait les besoins de dev
+et Comette aujourd'hui donc on est 60
+vraiment déterminé à à faire ce petit
+délire qui est devenir le département
+d'ING en Europe puis dans le monde
+et on a donc 2 ans on a la chance c'est
+que aujourd'hui on fait 1 million et
+demi de volume par mois donc en gros on
+gagne 15000 € par mois et aujourd'hui on
+a une grosse tech donc aujourd'hui oui
+on a sur 60 personnes 30 % on a 20 dev à
+peu près 20 personnes sur la partie Tech
+Data donc aujourd'hui je pense vous dire
+très honnêtement l'un des plus gros
+asset c'est l'équipe et juste derrière
+c'est la communauté de freelance qui est
+notre grosse force mais la tech est
+vraiment un truc game changer chez nous
+et pour vous donner rapido en fait
+comment est-ce qu'on a fait ça
+finalement parce qu'on a eu la chance
+aussi d'être vachement accompagné par
+the family on a eu la chance aussi
+d'avoir des super Advisor dès le début
+et on a fait un premier tour de table il
+y a un an on a pris 2 millions d'euros
+au premier tour de de comète et là on a
+levé sur l'été un peu plus de 14
+millions alors on a annoncé 11 millions
+mais on a levé 14 donc trop cool parce
+qu'on a les moyens de nos ambitions et
+on va pouvoir aller au bout du plan et
+en fait ce qui est génial c'est quand
+vous revenez un peu à la racine on va le
+voir ensemble mais c'est qu'une question
+de mindset d'état d'esprit c'est pas
+évident à vraiment obtenir d'ailleurs il
+y a une question d'outils je vais parler
+de pas mal d'outils vachement
+actionnaable que vous pouvez utiliser
+dès la fin du Talk vous pouvez ressortir
+en disant ok en fait il y a ces trois
+outils il faut absolument que je
+fasse le petit stonebarding le petit
+training et en une heure vous pouvez
+faire votre propre truc c'est ça que je
+trouve génial en fait je passerai ma vie
+je pense à monter des boîte même si
+c'est que des fails parce que je sais
+que c'est très controversé aujourd'hui
+de dire si vous aimez votre job c'est
+que vous bossez pas j'ai lu un article
+très cool ce matin sur le sujet moi je
+pense franchement qu'en tout cas si vous
+kiffez vraiment votre job il y a un truc
+magnifique qui se passe dans votre vie
+je sais pas comment le cristalliser et
+en fait perso c'est que bah en fait je
+pense que je passe montrer que les
+boîtes et donc Comet on a fait tout ça
+très honnêtement alors je mets une slide
+qui n'est pas de product ah je crois que
+c'est éint j'teint t commmande parfait
+en fait on avait pas de produit en gros
+on est trois fondateurs 3 in mais pas de
+CTO donc on avait pas de cofondateur
+tech comme franchement quand vous
+regardez aujourd'hui à peu près 70 % des
+boîtes qui se lancent c'est assez
+difficile de trouver en fait un CTO et
+beaucoup de fondateurs qui viennent du
+Market du business de la finance ou de
+tout ce qui n'est pas tech se disent
+j'aimerais trop trouver mon terego tech
+et en fait sachez que c'est assez vrai
+aussi dans la sphère tech c'est que
+beaucoup de d'entrepreneurs qui eux ont
+en fait toutes les skills et les
+compétences tech cherchent aussi un peu
+leur alter ego donc je pense qu'il y a
+un truc à faire aussi pour faire
+rencontrer des co avec des fonderers et
+des fondeur entre fondeur mais nous on a
+une chance de ouf c'est que en gros donc
+je vous refis vraiment l'histoire été
+2016 j'avais 25 ans j'en ai 27
+aujourd'hui je bossais à la défense et
+je vendais des in donc apprenait à
+Tordre un peu leur salairire à à
+l'embauche pour pas qu'il nous coûte
+trop cher ensuite je les revendais chez
+mes clients à la journée et puis sil
+voulait changer de projet s'il voulait
+une augmentation on m'apprenait aussi à
+faire en sorte que non non on mtait très
+bien chez ce client là non non
+l'augmentation c'est c'est pas pour nous
+parce qu'en fait toute la valeur
+financière est générée entre le salaire
+et et le prix dans lequel on le vend et
+franchement j'étais pas heureux quoi ENF
+c'était cool parce que c'est
+vachement en gros on gagne beaucoup de
+tune c'est le seul truc cool que je peux
+c'est que ça en fait on fait des marges
+de cochon donc ouais c'est clair que
+quand vous avez 25 ans c'est assez
+kiffant de vous dire que bah vous avez
+en général en école manger des pâtes
+quoi et donc en gros quand vous
+ressortez vous vous dites bah c'est
+génial j'ai un peu de cash mais j'étais
+pas très heureux et plus j'avançais dans
+mon mémoire de fin d'étude plus je me
+rendais compte que le modèle était
+complètement pété il était cassé en fait
+ça va plus marcher en tout cas fallait
+le réinventer donc j'ai quitté ma nana
+j'ai quitté mon job j'ai quitté mon
+appart ça n'a rien à voir de j'ai quitté
+ma nana mais c'est pour vous donner que
+j' un moment de ma ma vie où je me suis
+dit en fait en gros je suis pas vraiment
+là où je suis vraiment heureux
+j'arrivais pas à identifier je savais
+que le boulot c'était vraiment pas ça et
+en même temps dans la vie perso je me
+suis dit en fait reboot quoi change un
+peu de voix et fais un truc mets-toi
+cors etâ dans un truc un peu nouveau et
+donc j'ai tout quitté sauf sauf Paris et
+on a rendu nos apparts et on s'est lancé
+avec Joe qui était aussi un de mes très
+bons potes qui est mon coloc et qui un
+de mes meilleurs potes Val qui est aussi
+un de mes meilleurs potes c'est assez
+dangereux souvent de se lancer avec des
+potes je pense que c'est pas une vérité
+absolue je pense que de se lancer avec
+des non potes ça peut être aussi le
+bordel et se lancer avec des potes ça
+peut être génial donc en fait la
+relation cofondateur je pense qu'il y a
+aucune vérité absolue comme une relation
+de couple il y a aucune vérité absolu et
+en gros on s'est lancé à 3 on a rendu
+nos apparts on a pris une sorte d'appart
+bureau où on vivait tous les trois
+dedans un tous les deux Valentin vivait
+avec sa copine et on bossait dedans quoi
+on était à Opéra on avait 50 m²r et en
+en septembre on avait pas mal négocié
+pour avoir la rupture conventionnelle
+parce que je trouve ça magnifique la
+France c'est l'un des seuls pays au
+monde où en fait vous êtes payé pour
+monter une boîte donc c'est quand même
+assez ouf et donc on avait le chômage
+et là on s'est lancé la première chose
+qu'on a faite on a signé notre premier
+deal pour vous donner le premier
+business qu'on a fait on avait même pas
+créé les statuts de la boîte on avait la
+chance de connaître nos clients on avait
+la chance de parler avec pas mal de
+clients et donc on a reçu des premières
+missions on avait pitcher un peu l'idée
+on a reçu les premières missions et on
+avait toujours pas incorporé Comè on
+avait toujours pas créé les statuts et
+en fait moi je parlais avec les clients
+Valentin avait déjà parlé avec quelques
+freelances et on a fait le premier match
+le premier deal eu alors qu'on avait
+toujours pas de boîte quoi donc ce qui
+est cool c'est que très vite on a senti
+pour vous donner je vais reprendre aussi
+nos slides mais en fait on a senti très
+vite une énorme traction du marché tous
+les clients étaient vachement partant
+avec l'idée parce qu'ils se rendaient
+compte qu'il y avait de plus en plus de
+freelance que tout le monde a un mal de
+dingue à recruter des in et euh donc les
+clients tout de suite ont énormément
+kiffé pour vous donner moi je voyais à
+peu près deux clients par semaine par
+semaine par jour pardon on se mettait
+des métriques et en fait moi il fallait
+que je finisse ma semaine en ayant vu 10
+clients Valentin des freelance et cetera
+et euh donc en fait on est dans notre
+appart de bureau on a une chance énorme
+encore une fois c'est qu'on rentre chez
+the family en fait on découvre
+finalement tout toute la vie parce que
+en fait on connaissait rien au marketing
+au produits au people à rien du tout et
+on rencontre aussi ce qui est trop cool
+c'est que sur la fin d'année 2016 en
+fait on rencontre nos premiers salariés
+qui viennent bosser sans sans avoir 1 €
+moi en même temps comme je connaissais
+que d en fait je me suis inscrit à Lyon
+qui est la formation vous savez trop
+cool pour les salariés de start-up et
+aussi il y a Lyon exécutif qui est
+plutôt pour les grands groupes pour les
+aider à à à innover en fait et pour
+justement apprendre un peu ce qu'est
+l'intrepreneuriat et donc Lyon c'est
+pour les salariés de start-up moi
+j'étais un peu le mouton noir parce que
+j'étais pas du tout salarié de start-up
+mais comme je connaissais que dal je
+suis venu un peu me glisser parce que
+j'avais tout à apprendre et en fait en
+faisant Lyon ce qui est trop cool c'est
+que on a rencontré Medy qui en fait est
+notre premier salarié Johann qui est
+devenu notre CMO donc qui est notre
+chief marketing officer on a rencontré
+Benjamin aussi qui fait le contenu chez
+nous donc en fait ce qui est trop cool
+c'est qu'on a réussi comme ça à à
+fédérer des mecs et des nanas géniales
+autour du projet et donc en gros on
+bosse ensemble on est 5 fin fin 2016
+avec une approche géniale qui était de
+se dire ok en fait et ça c'est ma ma
+première grosse
+slide c'est que ça c'est très
+controversé pourtant je vous jure que
+c'est la secret sauce de ouf parce que
+fake it until you make it qui est encore
+une fois une phrase un peu chapeau
+bateau vous pouvez m'insulter en fait
+très honnêtement je pense que s'il y a
+un truc qui existe c'est ça et ça veut
+pas dire aller mytho tout le temps ou
+bien passer votre temps à à dire des
+trucs faux ça n'a rien à voir avec ça le
+but c'est pas du tout de mentir le but
+c'est en fait de délivrer la proposition
+de valeur que vous avez toujours promis
+coûte que coûte en fait ça veut juste
+dire en gros si vous dites à votre
+utilisateur je vais t'apporter a il s'en
+fout de comment vous lui apportez a ça
+c'est ce qu'on appelle de l'expérience
+ça vient un peu après c'est plutôt de
+l'enchantement avant en fait apportez
+lui a et franchement si votre boîte a du
+sens il va kiffer et donc FA
+c'est un mindset donc c'est un état
+d'esprit qui est pas très naturel très
+honnêtement en fait il faut être à
+l'aise avec le fait de dire je prends un
+exemple avec Comè moi je disais au
+clients en fait Comè on vous met en
+relation dans la journée avec des
+freelan qui sont qualifié et il y a un
+algo de matching qui fait le match
+l'algo de matching c'était
+Val c'est très honnêtement c'était Val
+et en fait il a fait un travail
+monstrueux c'est un mec qui est qui est
+ouf parce que que euh il a une
+résilience de malade et une endurance de
+ouf il court partout il est enfin je
+sais pas comment il fait et en fait moi
+je rentrais avec des mission c'est un
+peu la partie trop plaisante du job
+parce qu'en fait vous pitchez la vision
+et tout donc c'est trop cool et je
+rentrais dans un petit sac en disant
+trop cool j'ai des missions et lui mais
+littéralement il passait sa nuit sur
+vinkedin à contacter des des des freelan
+qui en fait nous connaissaiit pas
+voulait fr franchement l'inbox l codin
+pour un développeur c'est pas du tout ce
+qu' regarde en premier et puis en
+général il en a un peu marre de se
+prendre des trucs insupportables de
+recrutement et tout donc il vous classe
+dans la catégorie je t'aime pas trop et
+en fait Val il prenait l'émission et on
+avait on verra comment mais on avait
+réussi à avoir plein de petits tools
+plein d'extensions Chrome qui lui
+faisaient gagner du temps parce que au
+tout début il prenaent genre on cherche
+un développeur javascript pour LVMH à
+Paris OK et donc là en fait il tapait
+JavaScript et il se tapait à la main je
+me connecte avec tous les mecs donc il
+le faisait vraiment à la main on on
+aurait pu faire un script mais on a fait
+un script après donc un petit script en
+JavaScript qui permet de le faire mais
+en gros il s'est quand même taper
+franchement aujourd'hui il doit avoir
+peut-être 20000 contacts et il a dû en
+faire facile 3000 à la main quoi donc et
+parfois quand vous cliquez sur Connect
+il vous demande un mail enfin bref et en
+fait il connectait tout le monde ensuite
+il avait des notifs dès qu'un freelance
+avait accepté il allait sur Linkedin il
+ouvrait le profil et récupérait le mail
+comme ça on pouvait le contacter par
+mail et on savait Queen fait le de
+réponse en fait dans l'email et
+supérieur au ratio de réponse dans
+l'inbox donc on avait besoin de l'email
+et donc le moteur de matching c'était
+Val parce que il contactait les
+freelance il les appelait pour les
+qualifier donc on leur faisait quand
+même un peu des tests techniques parce
+qu'on on sait de quoi on parle un peu
+quand même mais en fait c'est Val qui
+faisait aussi la qualification et
+ensuite on le matchait au client et donc
+en fait ce qui est génial c'est que
+aujourd'hui on n pas de churn c'est un
+truc ouf c'est que tous nos clients de
+septembre 2016 qui ont connu le l'algo
+humain qui ont connu une plateforme
+horrible en terme de design et cetera
+ils sont toujours chez nous aujourd'hui
+et ils sont toujours chez nous et en
+plus il ils utilisent littéralement 100
+fois plus qu'avant pourquoi parce que
+encore une fois fake it until you make
+it c'est pas devener un gros mytho ou en
+non non pas du tout c'est juste en fait
+dites-vous que la priorité si vous avez
+une idée une vision où vous avez
+identifié un problème que vous voulez
+patcher
+on s'en fout de la manière dont vous
+délivrez ce qu'il faut c'est délivrer ce
+qu'il faut c'est en fait si un si un
+freelance lève la main en disant salut
+moi je suis dispo j'aimerais bien que tu
+me montres un peu ce que tu as comme
+mission il faut que vous lui apportiez
+une mission et pareil pour un client
+s'il vous dit je cherche quelqu'un il
+faut que vous puissiez dans la journée
+honorer votre promesse parce que c'est
+beaucoup plus grave de dire quelque
+chose que vous n'lez pas faire que de
+dire quelque chose que vous faites mais
+que vous faites en tuyoterie différente
+on s'en fout de la tuyoterie et donc
+j'insiste sur ce point parce que vous
+allez lire beaucoup de littérature et en
+fait qui casse le fake h make it et je
+pense à raison parce que ok il y a
+peut-être eu des débordement mais moi je
+trouve ça génial de se dire en fait la
+manière elle vous regarde vous le
+résultat et regarde le user quoi et donc
+nous on a fait ça quand même pendant
+longtemps alors on est passé de Val qui
+en fait faisait tout à la main à un
+moment on a mis des extensions Chrome
+qui en fait se permet nous permettaient
+ça c'est pas très légal mais c'est pas
+illégal non plus c'est qu'en gros en
+fait on on a automatiser la connexion
+sur l'inkcodin ensuite on a on avait un
+outil qui s'appelle ducop qui est assez
+cool qui permettait de plutôt que de
+cliquer sur le profil de d'expend donc
+d'ouvrir un peu la case où il y a
+l'email et de récupérer COP
+copier-coller l'email en fait ce qui est
+trop cool c'est que vous taper par
+exemple JavaScript et il récupérait les
+emails de chacun des freelance et il les
+mettait dans un Google sheet donc c'est
+comme Excel Google sheet c'est c'est
+Excel en 1000 fois mieux et au moins
+Valentin en fait ce ass de il prenait
+une demi-journée pour avoir sa liste
+d'email qui contactait à franchement 5
+minutes enfin peut-être 10 minutes et
+donc déjà on avait gagné un temps énorme
+ensuite et donc Joe qui était le 3ème
+fondateur Joe lui travaillait sur le
+prototype et donc on le verra je crois
+que j'ai une petite slide qui est assez
+bien faite je vous parlerai aussi de de
+de Dropbox parce que c'est assez cool
+l'histoire de Dropbox en fait tout en
+haut à droite on voit pas très bien mais
+ça c'était la première interface de
+comète c'est quand même pas sexy du tout
+et donc là c'est Joe notre CPO qui qui
+lui aussi ne respectait pas l cine et en
+gros en fait ce qui était assez cool
+c'est que vous aviez une petite flèche
+verte c'est le se truc qui était cool en
+fait vous pouviez déposer votre mission
+comme ça moi ça me faisait gagner du
+temps et il y avait une petite flèche
+verte horriblissime qui tournait en mode
+Windows 95 et qui vous dit ok
+l'algorithme tourne en fait c'est
+Valentin qui court c'est c'est juste ça
+et et et donc on dit votre demande de
+mission a bien été prise en compte on
+vous contacte très bientôt et en fait
+faut savoir que ça en terme d'expérience
+on est à l'âge de pierre par rapport à
+ce qu'on fait aujourd'hui très
+honnêtement et à ce qu'on fera demain
+j'en parle même pas donc ce qui est
+assez ouf c'est que quand vous vous
+dites avec ça qui c'est limite un peu
+honteux quoi en fait les clients nous
+rappellent les clients continuent à
+déposer c'est qu'il y a un truc à faire
+quoi et donc en gros pour vous donner
+très rapidement et revenir sur sur box
+dans le fake it until you make it il y a
+un truc génial une histoire qui est très
+connue je pourrais vous envoyer le deck
+et il y a il y a le en piège jointef
+piège jointe en lien vous avez
+l'histoire de Dropbox je vais peut-être
+la la marcher un peu dessus parce que je
+je l'ai pas lu depuis depuis quelques
+mois mais pour faire très simple Dropbox
+en fait c'est dit ok ça serait génial en
+fait ça me fatigue un peu qu'on me
+demande mon attestation de logement
+enfin mon justificatif de domicile ma
+carte d'identité et cetera à chaque fois
+je dois prendre les doc les scanner je
+l' mis dans des dossiers je sais pas
+trop où et puis en fait parfois je suis
+pas chez moi ou pas au bureau on me le
+demande enfin bref ça serait cool
+d'avoir une sorte de de petit
+portefeuille où il y a tous ces doc là
+et donc ils ont fait du cloud B2C donc
+ils ont fait du Cloud pour les
+particuliers pour vous et moi quoi et en
+fait dans la vallée c'est plus
+particulier parce que il pas mal de Ch
+pas mal de Lev donc quand vous avez une
+idée en général l'un des trucs un peu
+obw c'est vous levez des fonds je prends
+une image un peu caricaturale mais
+grosso modo c'est l'une des choses qui
+passe en tête dès le début alors que
+c'est je pense un peu con mais en gros
+ils sont partis voir des investisseurs
+en lui disant voilà mon idée ils ont
+fait un beau Deck et en fait les invest
+n'y croyent pas trop le Cloud à ce le
+Cloud pardon à ce momentl c'est plutôt
+B2B et en fait il y a pas
+vraiment de fit et donc il lèvent pas et
+à ce momentl en fait ils se disent donc
+c'est une toute petite équipe ils sont
+deux ils se disent en fait ça serait
+assez génial de pouvoir voir
+concrètement si ça intéresse les gens
+donc ils ont fait ce qu'on appelle une
+landing page alors vous connaissez
+sûrement le terme en fait la landing
+page c'est je sais pas du tout un site
+internet c'est juste une page web qui
+est ultra simple sur lequel vous vous
+essayez pas d'être inspirant à foison
+vous êtes simple vous expliquez de
+manière très descriptive votre produit
+ou votre service et vous faites venir
+des gens dessus et sur la page il y a
+juste un bouton unique qui est ça
+m'intéresse en gros je m'inscris je veux
+et cetera je mets mon mail et en fait
+ils ont fait ça ils ont fait juste une
+petite
+page avec en fait Dropbox voilà ce que
+c'est il y avait une petite vidéo qui
+est vachement connue parce que justement
+elle illustre un peu le fake it until
+you make it ou ou le bootstrap le fait
+d'être bootstrappé c'est un peu d'être
+ingénieux en gros et de trouver une
+solution et en fait ils ont fait une
+petite vidéo qui expliquait Dropbox pour
+que même ma grand-mère puisse comprendre
+ce qu''est Dropbox en se disant ben on
+va faire venir des gens sur la page et
+puis on va voir s'ils sont prêts à payer
+pour ça si ça les intéresse vraiment et
+en fait ce qui est assez ouf j'ai plus
+le chiffre en tête mais il y a 75000
+inscrits en 24 heures donc en fait ils
+font venir du trafic sur le la page et
+on verra comment on fait en fait pour
+faire venir des gens sur votre landing
+page sans être référencé sans rien c'est
+assez facile finalement de faire venir
+cette premier batch et ils sont rendu
+compte en 24 heures qu'il y a 75000
+personnes qui sont prêtes à payer pour
+utiliser un produit qui n'existe même
+pas parce qu'en fait la vidéo c'est la
+seule chose qu'ils ont fait à ce
+moment-là donc ils sont pas posé la
+question du cloud de la sécurité de rien
+du tout ils ont juste fait une vidéo et
+en fait une fois que vous avez 65000
+personnes qui sont prêts à payer pour un
+produit oui c'est beaucoup plus facile
+d'investir dans le projet donc à ce
+moment-là il lève des fonds et à ce
+momentl ils se disent ok bah maintenant
+on va construire ce qu'on a dit et en
+fait ce que je trouve assez cool c'est
+que en fait ce fake make it il a plein
+plein de vertus je vais vous montrer
+rapido juste avant en fait on a utilisé
+la même la même chose chez com
+en gros à gauche vous avez la toute
+première landing page de Comette on
+s'appelait Skil à l'époque on s'appelait
+skilly parce Queen
+gros on a la chance aussi d'avoir moi
+j'ai un mes très bons potes qui
+s'appelle Paul Guin qui est l'un des
+meilleurs CEO de la place qui est le CEO
+de fredlink qui est un peu plus vieux
+que moi c'était un de mes très bon potes
+d'école d'ING et en gros quand il nous
+il m'a beaucoup aidé en fait à à passer
+le pas me dire vas-y mec monte la boîte
+tu as l'air vachement chaud sur l'idée
+et en fait quand quand vous commencez à
+monter une boîte c'est normal donc il
+faut pas culpabiliser mais vous passez
+des nuits sur les sujets à la con en
+gros sur la couleur de votre logo par
+exemple et c'est naturel moi ça me
+faisait kiffer d'avoir un beau logo bien
+chiadé et en fait c'est vachement
+important de comprendre que ouais tu vas
+te faire kiffer mais ça sert à rien donc
+en fait si tu veux fais-toi un kiff mais
+de 5 minutes mais fais-le à fond et
+ensuite bosse sur des vrais sujets
+importants donc Paul nous a dit ça il
+nous a un peu martelé ça les 6 premiers
+mois du projet et fait faut juste savoir
+pourquoi je vous parle de ça parce que
+la landing page là on a mis une
+demi-journée pour la faire mais en fait
+pour la pour la réaliser mais on en a
+parlé pendant une semaine avant quoi
+donc déjà c'était un peu une erreur
+qu'on a faite c'est que on a passé des
+nuits blanches on bossait encore à ce
+moment-là et on passait des nuits
+blanches à se dire donc la phrase elle
+ne sert strictement à rien parce qu'elle
+explique pas du tout ce qu'on faisait
+vivez autrement travailleer librement ok
+mec merci beaucoup et on a vraiment
+littéralement fait genre un débat toute
+une nuit pour savoir si c'était mieux de
+mettre vive autrement travailleer
+librement ou vivez librement travailler
+autrement mais je vous jure que c'est
+vrai et en fait quand on quand on y
+repense on se dit en fait ce qui est
+génial c'est que non seulement on pense
+sincèrement que la boîte va devenir
+dingue mais qu'au pire du pire du pire
+des cas on aura forcément un peu step up
+parce que déjà maintenant on passera pas
+des nuits là-dessus et en gros ça en
+fait c'est notre premier landending on a
+mis 50 € pour acheter le long de domaine
+et cetera
+et et à ce momentl on a eu nos premiers
+inscrits on a 500 person personnes qui
+se sont inscrites sur viv autrement
+travailler librement donc on s'est dit
+ils sont un peu perchés quand même mais
+mais en même temps en fait derrière on
+expliquait juste skili est une solution
+intelligente qui facilite la connexion
+entre les entreprises et les
+indépendants donc on était un peu plus
+spécifique
+et ce qui est cool c'est qu'on avait des
+clients on avait même des grands groupes
+qui s'étaient inscrits c'est assez ouf
+en fait ce qu'on a fait c'est qu'on les
+a targeté et j'y reviendrai beaucoup sur
+en fait LinkedIn sur Facebook vous
+pouvez en fait avec Google LinkedIn
+Facebook c'est très simple je pense
+qu'il y a personne que vous pouvez pas
+toucher parce que même aujourd'hui des
+métiers qui sont pas très digitaux en
+fait qui sont par fois des métiers de
+l'artisanat par exemple ont de plus en
+plus des profils incodine ou sinon vous
+pouvez les targeter sur Facebook et donc
+on a eu nos premiers users qui se sont
+inscrits et on est toujours en train de
+bosser on s'est dit bon c'est pas 75000
+à la Dropbox mais en même temps il y a
+des grands groupes qui s'inscrivent on a
+des freelance quand on regardait leur
+profil sur Linkedin qui était assez cool
+qui avait des belles expériences donc on
+s'est dit ouais il y a un petit truc à
+faire quoi donc on a toujours embossant
+on a fait une plus longue landing page
+donc là on a pas mis 3 mois à réfléchir
+mais où là on expliquait vous êtes un
+indépendant voilà ce qu'on vous propose
+vous êtes un une entreprise voilà ce
+qu'on vous propose et en fait c'est
+génial parce que vous allez peut-être
+galérer à simplifier votre idée mais
+déjà c'est un exercice magnifique parce
+que vous allez essayer de rendre un truc
+un peu complexe simple et si vous
+réussissez à faire une landending
+euh qui explique encore une fois prenez
+ma grand-mère comme image je pourrais
+vous montrer une photo comme ça vous
+l'aurez en tête mais en gros dites-vous
+qu'il faut que quelqu'un qui ne
+connaisse rien au digital rien à à votre
+industrie et cetera puisse comprendre et
+c'est pas facile faites cette landing
+page et on verra quels outils mettez-la
+en prod regardez faites un peu
+d'acquisition faites venir 1000
+personnes dessus et c'est gratuit parce
+qu'il y a un truc génial quand vous
+créez votre compte sur Google Facebook
+LinkedIn il vous offre des petits
+tickets cadeau au début en mode 100 €
+offert 200 € offert donc vous pouvez
+faire venir facilement des gens sur
+votre landing page et la landing page en
+fait elle va juste c'est comme si vous
+vous pitiez en tris phrase en disant
+chez Comet on connecte des freelan avec
+des boîtes ça prend une journée c'est
+gratuit pour les freelances 10% pour les
+boîtes et on fait que de la Tech Data
+voilà ça c'était la langing page et en
+fait si les gens je veux en savoir plus
+ils s'inscrivent
+et juste pour conclure un peu sur le
+fake it make
+it en fait on l'utilise tout le temps on
+l'utilise tout le temps parce que
+aujourd'hui pour vous donner en fait on
+est passé donc de Valentin à la main à
+plutôt des extensions chrome et cetera
+après donc on a utilisé beaucoup un
+super outil qui s'appelle
+bubble
+bubble.is c'est des Français qui sont
+partis aux US je crois qu'ils ont fait W
+combinator qui est le gros accélérateur
+àf enfin dans la vallée et en fait c'est
+un outil génial qui permet de monter une
+app sans une une ligne de code et donc
+franchement ne cherchez pas n'utilisez
+surtout pas WordPress j'ai rien de
+personnel contre eux mais en fait je
+trouve que à la fois pour faire des
+landing page ou des produits c'est pas
+forcément le produit idéal ça fait un
+peu usine à gaz donc bubble très simple
+j'ai pas d'action chez eux donc en gros
+je gagne pas mais franchement moi j'ai
+adoré ils ont une sorte de
+de en fait quand vous vous inscrivez la
+première chose qu'il vous font faire
+dans tous les cas c'est en fait ils vous
+font faire AB
+ça paraît con mais en gros tout le monde
+connaitt Airbnb donc ça c'est assez cool
+et vous allez refaire Airbnb en 45
+minutes mais vraiment et c'est c'est un
+peu choquant quoi et ok ça ne Scalera
+pas ça veut dire que pour gérer des
+millions de users bubble sert à rien
+mais ce qui est trop cool c'est que
+franchement pour gérer des centaines de
+users vous pouvez faire un Airbnb pour
+votre quartier sur bubble quoi et en
+fait moi ça m'a marqué parce que c'est
+un dimanche
+soir il y a un truc qui je pense un les
+learning les plus importants que j'ai eu
+c'est que il faut être un peu taré pour
+monter une boîte je trouve et je pense
+que vous le savez tous dans le sens où
+il faut il faut aimer l'intensité il
+faut y aller à fond vraiment à fond et
+donc vous vous nourrissez constamment
+quoi je sais que je pense que le gros
+learning c'est il faut passer son temps
+à à à lire à regarder des vidéos à
+écouter des podcasts à parler avec des
+gens il y a que comme ça que vous allez
+en fait alimenter votre learning curve
+et grandir quoi quoi il faut il faut se
+nourrir constamment constamment et donc
+un dimanche en dimanche soir j'étais un
+peu koos et cetera parce qu'on sit mis
+pour être honnête on avait fait la TEF
+la veille mais j'en souis tout le temps
+c'est que je tombe sur bubble et je me
+dis ok en fait ce truc a l'air et donc
+je tombe pas dessus sur Google quoi je
+tombe dessus sur product Hunt genre pas
+page 1 et en fait genre page 8 où je
+digis un peu je cherchais un truc parce
+que ben en fait là on commençait à être
+un peu bloqué on pouvait pas aller plus
+loin et donc en gros je tombe sur bubble
+je me dis ok je fais le petit truc et là
+littéralement je fais Airbnb et je
+ressors tout excité à 23h en allant dans
+la chambre de Joe en disant mec en fait
+il y a beaucoup plus simple regarde je
+viens de faire ça et même lui était un
+peu en mode mec c'est vachement bien
+fouu quand même il y avait la carte et
+cetera c'était vachement bien fait et et
+donc le soir même Joe a pris bubble
+parce que c'est lui qui faisait le proto
+Joe a pris bubble et le soir même avait
+refait toutes les trois qure écrans
+qu'on avait dans bubble et donc le lundi
+matin on était déjà prêt quoi donc on a
+mis en prod entre guillemets bubble le
+le lundi donc c'était dans la main de
+nos clients dans la mains de nos freelan
+en c'est pas les nottres des freelan et
+en gros Bubble est assez ouf parce que
+c'est c'est lui qui a fait l'histoire
+des 12 premiers mois toujours pas de CO
+on vit sur bubble donc on avait bubble
+en fait il y a un bundle très simple il
+y a un paquet très simple d'outils qui
+ont fait qu'on a fait 50000 € de revenus
+par mois euh franchement 50000 € c'est
+cool c'est pas encore une billion
+dollars compagnie ce qui est trop cool
+c'est qu'avec 50000 € vous avez un toit
+donc un petit bureau vous pouvez avoir
+je sais pas 5 si salariés avec quelques
+stagiaires et en plus vous pouvez mettre
+un peu de pub un peu de truc donc 50000
+€ par mois c'est pas rien du tout quoi
+pour commencer vraiment à rentrer dans
+cette deuxème page du du premier
+chapitre c'est génial et donc pourf
+c'est pas une promesse genre m'appelez
+pas en mode mec je suis pas à 50000
+alors que j'ai les trois outils mais
+très honnêtement si vous avez bubble que
+vous utilisez-le ou trouvez l'un de vos
+cofondateurs ou si vous êtes solo fonder
+faites-le vous-même c'est ultra cool
+parce que vous avez aucune distance
+entre toutes vos idées quand vous vous y
+rêvez et cetera encore une fois et ce
+que vous allez
+faire devenez un un bubble master ça va
+prendre 2 semaines et encore une fois si
+vous tapez bubble maintenant ce qui est
+cool c'est qu'il y a leur concurrents
+donc il y a peut-être mieux il y a
+peut-être mieux très honnêtement et
+ensuite le deuxième c'est Google
+sheet Google sheet donc c'est Excel
+honnêtement abandonnez Excel à tout
+jamais et mettez-vous sur Google sheet
+pour plein raison c'est que en fait
+d'une part c'est online donc en fait
+vous pouvez le brancher avec tout et en
+l'occurrence vous pouvez le brancher
+avec bubble et pour ça c'est le
+troisième outil ça s'appelle zapier
+zapier ça c'est comme un fil à coudre en
+fait ça permet de connecter n'importe
+quel produit avec n'importe quel produit
+c'est si je fais quelque chose qu'est-ce
+qui se passe quoi en gros par exemple un
+freelance qui s'inscrit sur le sur
+bubble et ben en fait ça va remplir une
+cellule dans Google sheet et nous on
+avait que ça et ça on a vécu 6 mois sur
+ça on a eu la chance de ouf c'est qu'on
+a Darwin qui est notre qui s'occupe du
+growth chez nous qui est d'ailleurs
+était chez the family avant qui est un
+mec dingue qui qui nous a rejoint au
+tout début c'est un peu un late fer dans
+le sens où enfin il est associé à fond
+dans le projet et en fait Darwin c'est
+lui qui gérait après avec Joe un peu
+tous ce dispositif lui en plus ce qui
+est cool c'est que il savait un peu
+coder mais en gros on avait un Darwin
+est convaincu et je pense qu'il a raison
+qu'on peut monter une qu'on peut aller
+en bourse avec Google sheet sur une
+boîte qui tient sur Google sheet donc je
+pense qu'il va un peu loin mais mais
+c'est assez vrai la puissance du truc
+c'est hallucinant nous on avait tous nos
+clients toutes les missions qui dès
+qu'ta elles étaient déposées par nos
+clients dans le produit elles étaient
+dans en gros un un onglet Google sheet
+vachement bien segmenté on avait un
+onglet avec tous nos freelan les
+freelance ils pouvaient se mettre dispo
+ind dispo sur leur front ça modifiait la
+dispo indispo dans notre dB qui était
+Google sheet et on avait une sorte de
+page matching avec juste ce qu'on
+appelle du Google script c'est comme du
+VBA en gros donc en fait vous pouvez
+tous apprendre Google script assez vite
+et en gros on avait des le mini moteur
+de le premier moteur de matching de Comè
+c'était dans Google sheet c'était qu' en
+gros comme une recherche V un peu
+puissante mais qui nous permettait de
+enfin de nous sortir à chaque mission et
+en fait on créait un onglet pour chaque
+mission qui était éphémère mais avec les
+freelance et on avait connecté zapier
+avec notre boîte mail et donc une
+mission était déposée on av avait nos
+extensions Chrome qui permettaient de se
+connecter à des freelance sur Linkedin
+récupérer leur adresse mail ça leur
+shooter un mail pour leur proposer la
+mission en même temps dans Google sheet
+ça nous donnait les freelance existants
+une petite liste trop cool ça leur
+proposait la mission sur leur front et
+ça leur envoyait directement un mail
+quoi et donc ils avaient enfin en fait
+toutes nos opérations tournaient sur
+bubble et Google sheet et ça on est
+monté en gros
+de 50000 € par mois de volume d'affaires
+donc 5000 €
+à 500000 € et ce qui est assez ouf c'est
+que j'en ai parlé en fait je passe m
+enfin mais mes samedi après mais
+dimanche après ce que je kiffe c'est que
+je parle avec plein de gens qui montent
+des boîtes je trouve ça génial parce que
+en fait j'apprends énormément encore et
+puis en même temps je peux partager
+plein de trucs sur des sujets précis la
+levée les people et cetera le business
+et en fait l'un des conseils que je
+donne pour ceux qui sont pas encore très
+à l'aise avec leurs produits c'est ça et
+c'est assez ouf les produits que je vois
+qui sont Google sheet bubble quoi c'est
+un pack qui marche trop bien et là où je
+suis d'accord c'est que oui dans tous
+les cas en parallèle il faut chercher un
+co donc moi en parallèle de tout ça en
+tant que CEO votre métier c'est en gros
+de mettre tout ce qu'il faut sur la
+table pour qu'on puisse bosser quoi et
+en fait mon métier c'était quand même
+d'aller chercher un dernier cofondateur
+qui était un co j'en ai vu une trentaine
+et reco par tout le monde par nos
+investisseurs et cetera j'en ai vu une
+trentaine je pas vraiment fité et parce
+qu'on cherchait un un fit
+entrepreneurial de dingue et en fait on
+a une chance de ouf c'est que en mai
+2017 donc en gros 9 mois après l'un de
+nos investisseurs perso parce qu'on
+avait fait un petit tour de table avant
+avec ce qu'on appelle friends and family
+donc en gros vos potes pas mon père mais
+mais vos potes et en gros ce qui est
+assez cool c'est que enfin en fait un
+nos investisseur perso reçoit un email
+d'une boîte qui s'appelait brick qui
+venait de se lancer et qui proposa de
+connecter des freelance tech avec des
+boîtes et en me disant tu connais moi je
+dis non je connais pas trop bizarre et
+en fait je regarde sur link cudin
+c'était signé Arnaud auri et je regarde
+donc sur link kudin qui est ce fameux
+Arnaud auri et en fait je vois donc
+c'est le CEO de brique et je vois
+qu'avant il avait monté une nuage nuage
+qui était une très belle boîte sur
+lequelle nous on était client qui
+permettait de en gros de faire des nomes
+de gérer vos nom de domaine parce que
+c'est assez chiant alors j'aime beaucoup
+OVH vraiment c'est une très belle boîte
+Gandy et cetera mais ce qui est un peu
+chiant quand vous achetez un nom de
+domaine c'est que finalement ils veulent
+vous vendre un peu de tout et n'importe
+quoi ils veulent vous vendre des meubles
+IKEA en même temps enfin en fait vous
+voulez juste un nom de domaine quoi donc
+c'est pas l'expérience est pas ouf nuage
+faisait ça et donc j'ai vu qu'il il
+avait cofondé nuage je savais que nuage
+était chez the family donc en gros je me
+suis dit ah il doit être dans le slack
+de the family et donc j'ai regardé il
+était dans le slack de the family et je
+lui ai fait un message en mode salut mec
+je crois que tu aimes les freelance nous
+aussi juste ça il en a encore le slack
+euh et en fait euh il m'a donc et je
+juste dit euh euh voyons-nous quoi et on
+s'est vu le lendemain et j'avais mis
+genre 30 minutes de d'échange parce que
+j'étais encore un peu con sur c'est un
+concurrent bah c'est chiant et tout en
+fait on s'est vu donc lui pareil on est
+venu tous les deux un peu dans un mood
+on s'aimera pas beaucoup parce que
+qu'est-ce que tu fais dans ta chambre là
+c'est chiant et en fait on est resté je
+vous promets 4 He c'était en mai donc
+c'est facile de rester 4hur en terrasse
+en mai et on est resté 4h entre 11h et
+15h à à parler de nos visions en fait on
+a vraiment profité ensuite il a
+rencontré les cofondateurs Arnaud etal
+il a rencontré la team il a rencontré un
+peu nos investisseurs persos et tout et
+franchement on est tombé amoureux de ouf
+dans le sens où je passerai ma vie à
+monter des boîtes avec lui enfin s'il
+veut bien mais en tout cas on a eu un
+fit de dingue donc en fait vous pouvez
+rencontrer un co un peu n'importe
+comment et ce qui est génial c'est qu'il
+a construit une équipe tech de ouf où
+sur lequel aujourd'hui on a une
+vingtaine de personnes qui justement en
+fait quand Arna est arrivé il a dit fini
+de jouer les les gamins c'est génial
+parce que lui il était seul dans sa
+chambre nous on avait un asset qui était
+ben on est assez bon en business on
+était déjà un peu structuré on était une
+bonne dizaine et donc l'été 2017 en fait
+il nous rejoint il a on a le même nombre
+de Shar c'est un vrai cofondateur et et
+en fait là en gros en septembre 2017 un
+an après seulement il commence à à se
+dire ben je vais appeler des potes puis
+on va monter une équipe donc le prier
+dev c'est un de ses potes d'école le
+deuxème aussi et puis en fait il a
+construit l'équipe et son premier
+challenge c'était ben le seul problème
+avec ça c'est que en fait
+il va falloir passer sur un produit va
+falloir passer à la page 2 et donc en
+gros là où on a un peu galéré c'est bah
+il fallait tuer bubble donc déjà on
+était tous assez triste parce que bubble
+c'était un bon pote qui avait quand même
+fait un taf de ouf il fallait réussir à
+passer sur le produit maison
+et en fait son gros challenge c'était de
+réussir à faire passer vraiment toutes
+nos opérations sur le produit et c'est
+ce qu'il a fait en gros en 4 mois parce
+que on avait quand même beaucoup de
+clients notamment beaucoup de grands
+groupes et pas mal d'activités donc en
+fait entre septembre et janvier on
+passait tout tout doucement les gens
+dans le nouveau produit maison qui était
+pas forcément à ce moment-là plus
+performant mais qui nous laissait une
+amplitude de dingue parce que on avait
+aussi recroué notre premier data
+scientist fameux pour travailler
+vraiment sur l'algo de matching donc en
+fait on pouvait vraiment faire beaucoup
+plus de choses et on pouvait scaler un
+peu et donc en fait on a mis en prod
+notre vrai produit euh en février
+officiellement et qui tourne aujourd'hui
+et en fait on a continué de février à à
+maintenant en fait pour vous donner
+comment marche le matching c'est que
+quand une mission tombe là le produit
+est capable de nous donner tout de suite
+les 10 freelances qui correspondent le
+mieux d'après lui et on avait des RH un
+peu Tech qui sur chacune des listes
+disait non lui il a enfin Charles il a
+rien à faire là et on expliquait au
+produits pourquoi pareil je sais pas Bob
+il faut qu'il soit numéro 1 parce qu'il
+fit le mieux et c'est un peu comme une
+maîtresse quand vous êtes à l'école elle
+vous dit 100 fois tu mettras un S après
+tu parce que c'est la règle et ben votre
+cerveau il se dit OK et donc en fait dès
+que vous voyez tu vous mettez un S bah
+le produit c'est pareil on a fait à peu
+près 2000 matchs et à chaque fois on lui
+disait non tu as encore fait des
+conneries et le produit il apprend donc
+pour être très sincère il y a encore 6
+semaines quand une mission était déposée
+on mettait plutôt 2 jours on mettait 48
+heur pour faire queil y avait vraiment
+un bon fit le freelance était partant le
+client aussi là on le fait en moins de
+30 minutes là on est passé en mode on
+laisse la machine qui fait plus de
+conneries même moi je me suis dit
+c'est un moment de ouf pour la boîte
+parce que une mission tombe en moins de
+30 minutes là on essaie d'aller chercher
+la minute mais en gros en moins de 30
+minutes en fait on a demandé aux deux
+trois meilleurs freelance qui fit le
+plus qui eux en plus la mission fit bien
+ils disent ok je suis chaud je parle aux
+clients et tout et donc en moins de 30
+minutes on fait le match et ça c'est ouf
+parce que quand vous arrivez à faire 100
+par mois au début avec un cofondateur
+qui court partout puis avec Google
+sheet puis avec un produit mais encore
+pas mal manuel là c'est cool parce qu'on
+se dit maintenant on vaend vraiment
+vraiment envoyer la sauce quoi donc ce
+que je vais faire ce que je suis un peu
+je pas forcément dérouler le deck ce que
+je ferai c'est que je vous partagerai
+vraiment le le où je le mettrai en ligne
+on verra avec Valentin mais il y a un
+truc assez cool dedans ou en piège
+jointe mais en fait ce qui est cool
+c'est que il y a plein d'outils qu'on a
+utilisé ça j'ai une petite croix sur
+WordPress je m'excuse parce que c'est
+une très belle maison enfin c'est c'est
+un très beau projet open source
+d'ailleurs maintenant mais en gros ce
+que je trouve c'est que pour les landing
+page vous avez stingly qui est topissime
+qui est très simple Google sheet qui est
+magnifique donc je passe assez vite ça
+c'était le dernier point que je voulais
+aborder avec
+vous c'est que en fait il faut que vous
+soyez plus que la vente c'est il faut
+que vous soyez constamment constamment
+constamment en train de parler à vos à
+vos users quoi je vais pas trop
+m'apesantir là-dessus mais c'est
+vachement important que vous puissiez
+parler constamment avec vos utilisateurs
+vos clients ce que vous voulez tout le
+monde le dit personne fait mais même
+même enfin même moi franchement au début
+on se disait ok cool on va faire des on
+va pouvoir des bières tous les jours
+avec des freelance il y a des moment
+vous êtes koos vous avez pas envie de
+parler mais c'est tellement tellement
+important donc il y a une histoire assez
+cool
+d'Airbnb qui est je pense un peu story
+tlé mais en fait on s'en fout
+l'important c'est le learning qui est
+qu'en gros Airbnb quand ils sont rentrés
+chez YC donc l'accélérateur je crois
+qu'il y a un mood chez YC vous devez
+faire 7 % de croissance par semaine
+enfin ils sont assez en fait c'est tu
+vas croître quoi et en fait à un moment
+il se rend compte qu'ils sont un peu
+bloqués et donc en fait il se retrouent
+en tant que fondateur à aller faire du
+porte à porte pour essayer de savoir ok
+les gars pourquoi toi tu mets pas ton
+appart parce qu'en fait ils ont pas
+assez d'appart et donc ils vont demander
+au propriux d'appart à côté s'il te
+plaît mets ton appart sur Airbnb
+pourquoi tu le fais pas qu'est-ce qui se
+passe et ils se rendent compte à ce
+moment-là ils ont énormément appris en
+fait parce qu'ils se rendent compte à ce
+moment-là que beaucoup de ménages
+américains en fait ont du mal à payer
+vraiment leur leur crédit quoi et donc
+en gros ils se disent beaucoup de gens
+leur disent attends mais je vais gagner
+de l'argent en louant ma chambre ah je
+suis chaud en fait ça je l' pas trop
+compris sur ton site et donc il se rend
+compte que l'une des première en fait
+proposition de valeur elle est très
+pragmatique c'est fais-toi du cash quoi
+fais-toi du cash par en weekend et
+pendant ce temps-là en fait ton weekend
+est remboursé les gens se disent c'est
+génial ce truc et donc en fait il crée
+une landing
+page la fameuse il crée juste une page
+dédiée à ça c'est genre en gros
+rembourse ton crédit grâce à Airbnb quoi
+et plutôt que de se faire référencer ou
+de payer des pubs sur voyage hôtel
+logement et tout ils se mettent sur
+remboursement crédit et cetera donc en
+fait ils se mettent pas du tout dans le
+truc et ils se rendent compte finalement
+qu'ils convertissent énormément et qui
+font beaucoup d'acquisition
+d'appartement grâce à grâce à à ça quoi
+et et en fait si c'était pas bouger le
+cul en gros pour aller faire du porte à
+porte pour parler avec les mecs qui ont
+des apparts comme vous et moi et savoir
+pourquoi est-ce que tu mets pas ton
+appart sur Airbnb il l'aurait jamais su
+c'est pas en restant en orment ou ce que
+vous voulez qu'en fait on se dit ok
+finalement ce que tu veux en premier
+lieu c'est de faire du cash et cetera
+c'est un peu évident mais en fait tu
+sais pas que c'est la première valeur
+donc passez votre temps à à faire un peu
+ce qu'on a fait aussi chez Comè c'est
+moi je parlais littéralement avec deux
+chief digital chief data chief
+innovation ou des chefs de projet qui
+cherchaient des def donc à deux clients
+par jour tous les jours tous les jours
+tous les jours pendant 2 ans en gros
+pendant un an et demi Valentin il
+parlait avec des freelan constamment
+constamment constamment et ça c'est
+vachement vachement important de quelle
+que soit votre cible prenez tous les
+jours ça va assez vite faites ce qu'on
+appelle de la user research ça veut dire
+qu'en gros parce que en fait votre
+product market fit donc le reach ça veut
+dire si les gens vont kiffer votre
+produit c'est pas vous qui le décidez
+c'est ça qui est très dur c'est que en
+fait vous avez la vision qui est vous
+savez grosso modo la vision c'est
+l'étoile polaire vous savez grosso modo
+où vous devez aller mais c'est vos
+utilisateurs qui de par les feedback de
+par en fait leur problème et tout vont
+vous apprendre énormément de choses et
+c'est important parce que je sais pas si
+peut-être que vous le faites tous mais
+je me rends compte notamment en
+discutant en fait avec des entrepreneurs
+tous les weekends qu'en fait il y a une
+connaissance qui est finalement un peu
+limitée du user vraiment sur enfin
+qu'est-ce qu'il fait au quotidien c'est
+quoi ces enjeux là dans la semaine
+qu'est-ce qui fait qu'il dort pas ce
+soir et qui va penser à un truc en fait
+faut vous rentriez à fond dans leur peau
+quoi et il y a des articles assez cool
+vous tapez persona c'est du marketing
+mais d'essayer d'identifier si c'est du
+B2B en fait pourquoi il aura une
+variable à la fin du mois ou à la fin de
+l'année pourquoi il pourrait se faire
+virer pourquoi est-ce qu'il pourrait se
+faire c'est des questions comme ça que
+vous devez pour vraiment se mettre dans
+ses pompes et si c'est du bitc c'est
+plutôt vraiment qu'est-ce qui fait que
+sous la douche le matin il pense à un
+truc un peu chiant qu'est-ce que c'est
+on pense tous à un truc chiant dans la
+douche on pense à des trucs cool mais
+c'est c'est une vraie théorie dans la
+douche le matin il y a toujours ça dure
+une seconde ou 10 minutes il y a
+toujours un truc chiant et ce truc
+chiant en fait il faut le retenir parce
+que c'est
+il faut le tacler pour être mieux dans
+sa tête et en fait il faut que vous vous
+réussissiez à tacler ce que vos
+utilisateurs pensent sous la douche le
+matin donc ça c'est un truc vachement
+vachement important pour deux choses
+aussi c'est que en fait vous allez
+pouvoir itérer énormément vous allez
+itérer sur sur en fait votre pitch les
+messages que vous voulez adresser savoir
+nous on s'est rendu compte par exemple
+que avec la communauté en fait enfin
+avec les freelances la communauté en
+fait c'était le truc le plus fort avant
+même l'émission en fait il voulait
+vraiment avoir là il y a un slack où il
+y a 3000 freelance on a 3000 freelance
+chez comèes il y en a 30000 qui sont
+inscrits on en a 3000 aujourd'hui parce
+que justement il y a la qualification il
+y avait des gens qui étaient pas dans
+nos métiers ou qui étaient pas forcément
+euh pour l'instant euh euh accueillable
+dans la communauté mais en gros on s'est
+rendu compte que le slack cartonne en
+fait vous êtes en projet vous dites ok
+j'ai un problème je suis bloqué ici vous
+envoyez un screenshot il y a des gens
+qui vous aident enfin on s'est rendu
+compte que la communauté en fait c'était
+il fallait arrêter de dire trouve ta
+mission ou ta mission la communauté
+était vachement importante et la
+deuxième chose c'était très pragmatique
+c'est que chez Comet en fait on paye
+tous les freelan en fin de mois quoi
+qu'il arrive si le client paye pas c'est
+c'est moi qui vais au tribunal avec le
+client et s'il paye en retard c'est moi
+qui vais le chercher donc en gros ça les
+freelance qui fait trop parce que être
+freelance c'est génial vous pouvez
+bosser quand vous voulez d'où vous
+voulez en général et sur les projets qui
+vous font vraiment
+kiffer mais en même temps si vous bossez
+en novembre vous êtes payé en février
+bon c'est un peu Barb quand même et donc
+en gros cette proposition de valeur qui
+était très pragmatique elle leur fait
+elle les fait vraiment kiffer et en fait
+ça on le découvre qu'en qu'en itérant et
+qu'en parlant avec vos user
+quoi ça c'est aussi en fait on laissait
+la possibilité à l'utilisateur de
+pouvoir en fait directement dans le
+produit commenter en disant ok ça je
+comprends pas trop ça je comprends ce
+que fait par exemple bubble ce que je
+trouve assez cool c'est que leur rad map
+produit elle est publique et en fait
+vous pouvez up voter ou pas et donc vous
+vous voyez toutes les features qu'ils
+vont faire sur 2019 et en fait c'est la
+communauté qui dit ah non mais ça c'est
+jure prioritaire et donc c'est trop cool
+parce que vous laissez vos utilisateurs
+décider quelles sont les fonctionnalités
+que vous allez lancer quoi ça c'est
+vachement vachement important nous on le
+fait aussi dans la communauté de
+freelance parce qu'onnêtement c'est plus
+compliqué avec les clients notamment
+avec les les grandes maisons françaises
+les grands groupes et tout parce que en
+fait il y a pas vraiment de pattern ils
+ont tous des process différents par
+contre avec la communauté c'est eux qui
+décident en fait ok les gars là on veut
+aller sur mobile ok bah on va sur mob et
+le
+dernier ça c'est parce que je le vis
+encore beaucoup aujourd'hui c'est que
+donc là ce qui est cool c'est que ok on
+a les moyens de nos ambitions mais on
+devient extrêmement con en fait plus
+vous avez de cash plus vous êtes débile
+c'est genre c'est linéaire enfin c'est
+linéaire c'est directement lié quoi et
+en fait je vous dis ça parce que boot
+strappé en général vous le faites quand
+vous avez pas trop d'autres solutions
+c'est magnifique les premiers jours
+d'une boîte ou les premières semaines ou
+les même les premiers mois profitez-en
+un max dites-vous que chacune des gè
+elle sera patché demain c'est sûr soit
+le projet il est mort là il y a plus de
+question à se poser ou soit en fait tout
+va bien et là ce qui est en fait vous
+verrez vous aurez d'autres galères et
+vous allez vous dire finalement étaient
+pas mal mes galères du début et en fait
+donc bootstrapper c'est de se dire en
+gros ben ok je dois faire ça j'ai pas de
+cash j'ai rien je vais me démerder en
+gros c'est se démerder et c'est se
+démerder intelligemment donc c'est être
+en gros ingénieux
+et encore une fois vous pouvez prendre
+l'exemple du fait que B nous ok on avait
+Google sheet qui reposait toutes nos
+opérations on bootstrapper ça peut être
+aussi benah en fait vous avez besoin en
+fait d'un conseil juridique vous prenez
+pas un avocat et vous appelez un pote
+enfin c'est ça bootstraper mais il y a
+plein d'outils et zapier c'est le
+premier et je pense le meilleur outil
+pour le faire c'est que une fois que
+vous avez fini le Airbnb sur bubble il y
+a un truc génial à faire c'est moi je
+j'ai passé beaucoup de temps dessus même
+à titre perso pour ma vie perso c'est
+Queen gros sur zapierre vous avez plein
+d'exemples trop cool de ce que vous
+pouvez faire quo et ça automatise plein
+de trucs pour vous donner une idée je me
+rendais compte que donc là on est 60
+chez Comè et on va être 200 dans 2 ans
+là on bosse fort jusque l'été on va on
+va partir on ouvre des pays on part un
+peu dans tous les sens c'est trop cool
+donc là on a aussi besoin de structurer
+donc là on organise bien toute l'équipe
+jusque l'été et ensuite on va commencer
+vraiment à scaler et en gros on est 60
+on va être 200 le le métier de CEO en
+fait vous l'apprenez qu'en le faisant et
+il change en fait tout le temps et parce
+que vous devez être important sur plein
+de topics différents et donc je me suis
+dit un truc tout con mais soit en fait
+plus on va avancer plus il y aura de taf
+soit je bosse encore plus soit je bosse
+vraiment vraiment mieux quoi
+et je pense que c'est cette idée de
+vraiment bosser mieux qui est ultra
+importante un peu linké à ce que disait
+Paul au début sur passe pas des heures
+mec avec ton bouton ou avec en la
+couleur de ton logo on s'en fout
+fou juste po sur les bonnes choses et en
+fait pour vous donner aujourd'hui en
+gros ce qui est trop cool dès que je
+reçois un mail un slack n'importe quoi
+j'ai connecté zap à toute ma vie en gros
+dès que je reçois un mail et que je
+clique sur la petite étoile vous savez
+favori en fait ça me le met dans un
+Google sheet mais pas tout le mail juste
+l'objet quand j'ai un slack là on est 60
+donc je reçois quand même pas mal de
+slack et d'ailleurs je challenge un peu
+slack parce que c'est quand même la
+rivière quoi mais en gros dès que je
+start un message dans SLAC c'est pareil
+le message il est dans ma mon Google
+sheet et en fait Google sheet c'est ma
+Tod list et en fait ce qui est génial
+c'est que en gros je fais ça avec tout
+et j'utilise ce qu'on appelle la matrice
+design que vousvez connaître mais qui
+est urgent important c'est très simple
+c'est que chacune des lignes en fait moi
+j'ai juste à ouvrir Google sheet sur mon
+portable je regarde les dernier topic le
+backlog donc tous mes sujets toutes les
+tâches et en fait j'ai une colonne urg
+où je me dis est-ce que ça doit être
+fait genre dans l'heure dans la journée
+dans la semaine ou dans le mois en
+général dans le mois c'est que c'est
+vraiment pas urgent et important c'est
+est-ce que si je fais ça ça change la
+boîte genre vraiment est-ce que je dois
+le faire parce que genre c'est
+obligatoire ou est-ce que c'est nice to
+have donc c'est très simple ça paraît
+idiot mais c'est pareil personne le fait
+les choses les plus simples c'est cell
+qui fonctionneent le mieux et personne
+le fait c'est très dur d'être consistant
+c'est très dur de le c'est bien de le
+faire une semaine c'est très dur de le
+faire un mois et c'est juste les endaire
+de le faire un an et donc en gros
+faites-le vraiment priorisez tout et
+donc je vous parle de ça parce que ce ce
+bootstrap c'est que en fait moi je me
+suis dit je mets un temps de ma boule à
+à gérer ma tdou à gérer mes mails et
+tout je suis me noix dans un verre d'eau
+ce qui est trop cool c'est que en fait
+avec des petits outils ultra simple vous
+pouvez devenir ultra puissant genre
+c'est un peu comme l'armure de Iron Man
+quoi c'est un peu comme Jarvis en fait
+c'est que vous pouvez venir juste méga
+Dingo alors qu'en fait vous avez pas du
+tout changé vous juste ultra humain et
+tout c'est qu'en fait vous êtes beaucoup
+plus vous travaillez largement mieux et
+en fait monter une boîte l'utre learning
+que j'ai c'est que
+euh en fait c'est qu'une question de
+savoir bien bosser et c'est très dur en
+fait mais de savoir justement prioriser
+de savoir qu'est-ce qui aura le plus
+d'impact même si c'est pas ce que j'ai
+envie de faire en fait on est des
+agriculteurs quoi c'est pareil il y a
+plein de trucs qu'on fait qui sont pas
+géniaux quoi donc en fait soit vous vous
+dites bah je suis entrepreneur donc je
+fais que des trucs qui en fait me font
+grave plaise je pense que c'est pas ce
+que vous faites ou soit vous vous dites
+en fait ce que je dois faire ce qui doit
+être fait donc je prends l'image de
+l'agriculture parce que j'aime beaucoup
+mais en fait c'est pareil quoi nous il y
+a des trucs qu'on fait on se lave à 5h
+du Matth sil faut aller labourer un
+champ enfin en fait parce que comme ça
+ça fait on a une bonne terre on peut
+rassemer et cetera enfin imaginez tous
+les trucs un peu chiants de n'importe
+quel métier que vous avez en tête c'est
+pareil c'est pareil parce que en général
+les trucs les plus chiants c'est ce qui
+vous permett de de gagner donc en gros
+cette dernière slide ici je parlais
+aussi de ber parce queil y a il y a il y
+a un sujet mais pour finir juste sur
+l'organisation perso regardez un petit
+peu zapier regardez un petit peu aussi
+faites gaffe parce que tous ces sujets
+de développement personnel on genens de
+la roche Brochard dis souvent que c'est
+des régimes et c'est assez vrai c'est
+comme les régimes en fait je peux vous
+dire ça ça marche trop bien utilisez-le
+tous et en fait ça marchera pas il faut
+que vous puissiez vous connaître
+vraiment ça prend du temps de bien se
+connaître et tout mais prenez du temps
+pour prenez du temps pour bien apprendre
+parce que ce 0 à 500000 on pas fait
+juste avec un bubble on l'a fait parce
+que en fait on s'est pé on est devenu un
+peu plus puissant en se nourrissant de
+plein de gens de plein d'articles de
+plein de podcast il y a plein de trucs
+qui sont achetés mais a tout tout temps
+à garder et aussi parce qu'en fait on
+est devenu nous-même tous un peu plus
+strong dans en fait notre capacité à
+bosser parce que là les heures que je
+gagne par mois avec zapierre qui me
+priorise ma toutdou en fait c'est un
+obrainur quoi matouou je vois j'ai déjà
+priorisé ça me m'agrège toutes mes
+sources d'infos de ping et cetera et en
+fait j'ai juste à la dérouler quoi et
+c'est c'est une machine en fait vous
+avez une machine et en fait juste pour
+vous montrer comment comment a commencé
+au avec des rustines c'est aussi je
+pense assez story télé mais on s'en brle
+par long du terme mais en fait
+franchement moi il y a un qui me fatigue
+le plus de savoir ok est-ce que c'est
+vraiment comme ça que ça s'est passé
+ouais enfin je pense que c'est important
+pour être honnête moi je vous ai donné
+un peu tout le TA story mais il y a
+plein d'enseignements très cool c'est
+que en fait a priori la LG veut que
+Hubber ça s'est passé un peu à Paris ils
+ont pas ils ont du mal à trouver un taxi
+et cetera et cetera mais quand vous
+rentrez vraiment dans comment ils ont
+fait pour bootstrapp au début ils
+avaient des postites de couleur en se
+disant bah j'ai des postites Bleus c'est
+mes chauffeurs j'ai des postites rouges
+c'est mes clients et puis j'ai des
+postites Verts c'est les matchs quoi les
+courses qui sont planifié parce qu'avant
+c'était plus de la planification que de
+l'instantanée et en fait il y avait un
+mur avec les sptit bleu un mur avec les
+postites rouges et en fait un mur qui
+était le mur des matchs de la journée
+quoi et en fait il prenait postite bleu
+ah ok donc lui il sera dans telle zone
+lui il a besoin de tel trajet et il
+faisait les matchs à la main quoi un peu
+comme nous on faisait les matchs à la
+main où Val disait non je pense que
+c'est Bob c'est Bob qui va aller sur
+cette mission là et ensuite bah eux
+aussi ils ont beaucoup utilisé Google
+sheet et eu franchement c'est scandaleux
+la puissance de cet outil et donc en
+fait plutôt que de faire surptittit ils
+sont juste tout mis tout mis dans Google
+sheet et ça leur a permis d'aller
+beaucoup beaucoup plus vite et après
+vous avez l'AP et les évolutions de l'AP
+qu'on connaît tous c'est assez marrant
+regarder genre day one Facebook day one
+Amazon day one ce que vous voulez et
+vous tapez dans google et vous vous
+mettiez picture en mode photo et c'est
+ouf de voir juste les premiers wireframe
+ou les premiers écrans et ça fait du
+bien alors faites-le pas pendant des
+heures faites-le pendant 5 minutes mais
+c'est juste trop cool prenez la boîte
+que vous aimez le plus au monde même
+Space X moi c'est la boîte que je kiffe
+le plus en fait prenez une boîte que
+vous kiffez et regarder vraiment les 6
+premiers mois les 6 premiers jours et en
+fait c'est assez génial de se dire B en
+fait tout le monde a commencé au même
+stade quoi donc mon grand message
+c'était sur tout le Talk c'est que je
+dis pas que c'est facile je dis pas
+genre en fait tout le monde peut faire
+50 cas par mois 500 cas par mois c'est
+pas le propos c'est qu'en fait il faut
+pas se mentir à soi-même surtout mais
+vous avez tout ce qu'il faut quoi je
+sais que c'est différent en fonction des
+industries s'il y a des prod du physique
+et cetera mais euh vous avez tout ce
+qu'il faut on n pas vraiment besoin de
+cash euh nous on a mis 1000 balles dans
+la boîte elle en vaut 50 millions
+aujourd'hui c'est juste vanity on s'en
+fout enfin l'objectif c'est qu'on
+réussisse à faire notre mission donc le
+cash on s'en fout un peu euh vous avez
+pas besoin d'avoir des développeurs si
+vous avez un produit tech mettez-vous
+dans la recherche d'un ou d'une super
+CTO euh cofondateur ne ruschez pas dans
+le sens vous dites pas et ça c'est très
+humain de dire il a l'air vraiment sympa
+ou elle a l'air vraiment sympa donc je
+l'associe tout de suite et tout faites
+gaffe ou faites un vrai pacte d'associé
+nous on a un cofondateur qui est parti
+ah Joe pardon en fait Joe est parti mais
+pour plein de bonnes raisons et ça reste
+mon meilleur pote et ça lui a fait un
+bien de ouf j'en profite pour vous en
+parler parce que c'est aussi un truc
+qu'on vit en tant qu'entrepreneur quand
+vous lancez avec des potes c'est pas
+facile du tout en fait de voir un pote
+partir en disant mec tu es chiant
+on l'avait fait ensemble quoi et en fait
+Joe il adore mettre les mains dans le
+camboui il littéralement il répare des
+bécanes il adore faire des meubles on en
+reparlera et en fait au bout d'un an de
+la boîte on n arrêtait pas de se dire
+les gars on va faire un truc gigantesque
+parce qu'on se rend compte que en gros
+ce qui est génial c'est que les freelan
+quient vraiment de ouf nos clients aussi
+et on s'est dit on va vraiment devenir
+le département d'ING dans le monde et
+donc à un moment j nous a dit en fait
+les gars je pense qu'on va le faire et
+c'est pas que ça me fait peur mais d'une
+part il y a pas mal de taf il y a plein
+de taf et en plus je me je je je kiffe
+pas ce que je fais en fait et nous notre
+job c'est quand même de faire en sorte
+que ça soit plus cool de bosser avec
+nous en tant qu'ingénieur freelance que
+n'importe où donc si l'un des fondateurs
+se fait chier il y a un peu un problème
+quoi et donc on a creusé un peu en
+rentrée la rentrée il y a 1 an et en
+fait il disait mais moi là je deviens
+CPO je manage des gens et tout ça me
+fait peur quoi je suis pas bon pour ça
+mais en plus il avait une config perso
+il se disait il avait besoin de breaker
+un peu dans sa vie perso aussi il a été
+fiancé il a eu plein de trucs et où il s
+enfin il il s'est séparé et tout ça a
+été vachement intense il s'est dit stop
+2 secondes on a eu la chance d'avoir des
+on a des supers investes on a Gan de
+Kima on a Bruno de hotium et pierre-éic
+de Daphny qui sont ouf et en fait à ce
+moment-là on on s'est mis d'accord avec
+Joe Joe a trop ki Faé il est parti faire
+le tour du monde il est rentré il y a
+pas très longtemps et là il monte une
+boîte dans les meubles enfin ça c'est
+l'un des projets qu'il veut lancer il va
+faire le wagon aussi enfin il a plein de
+trucs mais il va être doueur quoi et il
+reste qu' fondateur il a encore 3 % de
+la boîte et il fait encore les fonders
+breakfast tous les samedis matin avec
+nous en gros où on parle de la boîte et
+tout mais sachez que vous enfin que dans
+l'équipe fondatrice que vous soyez 1 2 3
+1 2 3 elle va évoluer forcément il y
+aura toujours ils seront toujours
+cofondateurs mais il y a une différence
+entre être cofondeur d'une boîte et être
+si level par exemple ou être cfondateur
+d'une boîte et d'aller au bout de
+l'histoire en mode opérationnel ou pas
+je vous en parle parce que moi ça m'a
+beaucoup marqué parce que je me suis dit
+enfin je l'ai pris comme un peu un coup
+de massue il y a un an en disant merde
+et tout euh j'aurais kiffé que Joe soit
+là à côté à chaque fois jusqu'au bout en
+fait je suis trop content parce qu'il
+kiffe il est 1000 fois plus heureux là
+même s'il était avant là il kiffe trop
+parce qu'il voit son bébé grandir en
+plus et euh il peut nous donner plein
+d'input sans forcément être le CPO en
+mode vraiment high level et cetera et il
+va monter une boîte qui kiffe donc euh
+la relation avec vos fondateurs elle est
+vachement importante nous on faisait un
+truc qu'on appelle la purge c'est que
+toutes les semaines en fait on se disait
+nos quê vérité quoi
+mais c'est trop cool parce que en fait
+c'est des petits trucs à la con ou c'est
+des trucs sérieux mais toutes les
+semaines c'est un peu comme les one one
+feedback avec votre team faut absolument
+le faire il y a un truc chez TF que j'ai
+adoré quand je suis rentré je sais plus
+si c'est Miguel ou sama qui m'a dit ça
+j'avais peur honnêtement moi quand je
+mettais les pieds ici il y a 2 ans très
+sincèrement je me pissais dessus il y a
+encore il y a encore peut-être même un
+an ou 6 mois parce que j'étais
+impressionné je me disais en fait
+j'étais pas forcément à l'aise parce que
+je me disais bah on a pas fait
+grandchose en gros on n pas fait grand
+chose on n pas de te et en fait c'est
+vachement naturel de passer par là mais
+ce qui m'a marqué c'est si tu veux
+entendre que ta boîte est cool appelle
+ta mère quoi en gros ou appelle ta
+grand-mère ou appelle tes potes et c'est
+tellement vrai en fait c'est que ça fait
+du bien entendre que la boîte est cool
+quand même donc ça fait du bien de
+parler à sa mère mais en gros en fait ce
+qui est assez ouf c'est que il disait ça
+en disant bah parce que moi je vais
+donner à chaque fois le truc qui va pas
+ou le le point que tu dois améliorer et
+cetera c'est pas parce que je suis
+rabageois mais c'est parce que tu dois
+toujours travailler sur sur tes
+problèmes et en fait on faisait pareil
+entre fondateurs c'est que quand on se
+voyait la purge on était censé se dire
+des trucs cool je pense qu'on s'est
+jamais dit un truc cool et on se disait
+des trucs on se disait nos qu de vérités
+toutes les semaines et on et en fait on
+purgeait tout le truc tout le truc tout
+le truc tout le truc et et pour être
+honnête on l'avait perdu un peu là on a
+levé vachement vite on a levé en un mois
+mais finalement avec la doc et tout ça a
+pris un peu plus de temps et pendant de
+TR mois cet été en fait on faisait plus
+trop de purge en tout cas on c'était
+plus aussi régulier et c'est tout bête
+mais ça se sent un peu parce que il y a
+des petits petite tension il y a il y a
+moins de Smile il y a moins de déconnade
+et tout et donc on est rentré en disant
+donc en fait on a bien fait la TEF on
+est parti tous les trois et on a fait la
+TEF et on va refaire ça en janvier donc
+voilà je sais je pense que c'est génial
+moi j'ai une partie très enfin un parti
+pris très fort sur ça je trouve qu'être
+solo fonderer faut être un héros
+vraiment faut être un d'héros et
+ça existe et je pense que certains
+d'entre vous sont sûrement sol le fondur
+et en fait je dis pas arrêtez tout au
+contraire mais ayez conscience que avoir
+un cofondateur c'est génial en avoir moi
+j'adore le chiffre 3 parce que c'est le
+trium vira c'est prouvé ça marche bien à
+3 mais c'est trop cool parce qu'il y a
+des moments où vous serez forcément down
+et des moments où en fait un peu comme
+quand vous allez à la salle de sport
+vous avez besoin de quelqu'un qui vous
+qui vous cheers up un
+peu et et ne déconnez pas avec la
+fonding thingting parce que c'est c'est
+finalement un marathon que vous montez
+une une boîte une start-up ce que vous
+voulez en fait c'est un énorme marathon
+qui sec courourt comme un sprint donc
+enfin qui il faut breaker souvent euh
+peu mais il faut breaker et en fait
+mentalement et psychologiquement il faut
+une résilience de malade il y a une
+phrase euh donc que je voulais terminer
+sur ça mais en gros vous avez tout ce
+que vous vous avez tout ce qu'il faut
+pour faire des billions de dollars
+compagnie je dis pas que c'est du
+bullshit euh de de ou c'est donc de la
+merde si vous dites le contraire parce
+qu'on peut en reparler et je pense qu'il
+y a plein de cas particuliers mais dans
+la majorité des cas si vous vous dites
+c'est parce que j'ai pas ça vous êtes en
+train de vous mentir et donc ça vous
+fait perdre du temps il y a toujours une
+solution et la la phrase que j'aimais
+beaucoup qui n'a rien à voir mais pour
+reprendre le côté un peu fondateur et
+l'état d'esprit de l'entrepreneur c'est
+il y a un mec qui s'appelle
+benorovic qui a une histoire
+passionnante je vais pas vousir faire là
+mais qui a écrit un bouquin qui est
+vraiment mon livre de jeevet je l'ai lu
+CIN fois et je relis des passages pas
+parce que la vie est difficile mais
+parce que c'est plein d'enseignement et
+c'est assez cool aussi de voir en fait
+les faces cachées des projets les les en
+fait ça s'appelle the things about
+things donc c'est un livre où en gros il
+explique toutes les galères qu'il a eu
+dans ses projets quand il a fait la plus
+grosse IPO plus la plus petite IPO quand
+il a dû virer 500 personnes et c'est
+assez cool et il y a une phrase qui dit
+je sais reconnaître ce qu'est un très
+bon entrepreneur ou un très bon CEO en
+fait c'est les gens qui me disent quand
+je leur demande pourquoi tu as réussi
+d'après toi ils me disent je n'ai pas
+démissionner dans le sens où en gros
+j'ai tenu le coup et je vous fais un
+message qui est c'est trop dur non
+honnêtement la vie est trop chill c'est
+passionnant mais par contre il faut être
+conscient que faut juste savoir qu'il va
+falloir être endurant et résilient et je
+pense que c'est très vrai de de de se
+dire qu'on a tout ce qu'il faut que ça
+dépend que de vous et de vos
+cofondateurs
+et et qu'aujourd'hui en fait on est les
+enfin on parle souvent de la génération
+Y et cetera moi je suis pas fan du terme
+c'est vrai qu'en général aujourd'hui il
+y a beaucoup d'entrepreneurs plus jeunes
+mais moi j'en vois plein plus
+expérimentés qui cartonnent aussi et
+c'est trop bien c'est pas une question
+d'âge c'est une question d'époque on est
+dans une époque où vous pouvez faire
+n'importe quoi où on peut lancer une
+boîte même pour coloniser mars alors
+SpaceX ils ont du cash mais vous pouvez
+même faire une boîte de main pour le
+spatial j'ai des potes qui le font alors
+qu'ils sont lancés avec 500 balles et je
+trouve ça ouf je trouve ça assez ouf en
+fait on est un peu magicien quoi parce
+que si vous avez une détermination de
+dingue vous allez faire quelque chose de
+très grand c'est c'est sûr quoi voilà
+merci beaucoup
+merci ouais super pitch euh je sais que
+tu as trouvé ton site du coup de façon
+un peu hasardeuse sur slack mais quel
+était ton procès par que tu en renconté
+30 donc tu avais dit que les inbox
+LinkedIn c'était pas très bien pour
+rencontrer des def donc comment tu as
+fait avant de d'arriver à ça en
+fait la première chose que j'ai faite
+j'ai fait plein de trucs j'ai fait plein
+de trucs celle qui je pense a le mieux
+marché c'est qu'en fait j'ai pas mal
+utilisé la communauté de freelance donc
+en gros en fait nous nous on fait des
+Meetup toutes les semaines partout en
+France là maintenant donc d'ailleurs si
+vous avez des boîtes et que vous voulez
+venir pitcher un Meetup Comet ce qui est
+cool c'est que vous avez une centaine de
+freelance dans la salle et c'est filmé
+aussi donc en gros ça peut permettre
+ensuite on le relie la communauté donc
+je pense qu'on va un peu nous faire ça
+aussi parce qu'il y a plein de freelance
+qui ont envie soit de monter des boî
+soit bosser sur des site project en mode
+un peu proono ou euh euh compte de
+l'equity enfin il y a il y a plein de
+plans donc je pense que ce que j'ai fait
+et qui marche encore c'est la communauté
+parce que c'est très communautaire comme
+comme comme métier donc il y a plein de
+communauté en ligne ou ou ou physique
+après je pense franchement que l'inbox
+LinkedIn pour un co c'est une bouteille
+à la mer ça peut marcher mais c'est très
+rare euh il faut participer à pas mal de
+moi je pense que les Meetup c'est ce
+qu'il y a de mieux tous les Meetup un
+peu tech de Paris tous les Meetup qui
+peuvent vraiment fiter aussi avec votre
+industrie ou quoi faut y aller euh nous
+on avait pas mal de en fait je pense que
+le réseau aussi fonctionne bien qui est
+que essayez de mapper un peu votre
+réseau pas forcément dans la tech
+essayez de linker il y a une une légende
+je sais pas si une légende ou quoi mais
+ou un bouquin je sais plus mais
+quelqu'un qui dit que on est tous à 7 ou
+six contacts de de de n'importe qui dans
+le monde ou et donc je pense que c'est
+essayeer de mapper unu votre réseau nous
+il y a on a sur les 30 on en a eu qui
+sont venus de nos investisseurs perso
+euh
+enfin love love money euh d'autres des
+freelance donc ouais je pense c'est ce
+qui marche le mieux c'est c'est du long
+pour moi c'est en
+fait c'est difficile de faire du One
+Shot donc en gros il faut se dire par
+exemple là l'année va démarrer si vous
+cherchez un Citeo vous dites quoi qu'il
+arrive bon j'ai le weekend faut le
+sacraliser un peu le le le le soir mais
+la semaine vous dédiez un soir toutes
+les semaines je fais un Meetup tech à
+Paris tous les semaines et en fait tout
+fonctionne par routine ça c'est juste un
+petit message et vous lirez plein de doc
+trop cool plein de pitch beaucoup plus
+inspirant que moi sur cette partie là
+qui sont faites par Jean de La Roche
+Brochard sur s'organiser comme une
+machine pour vivre comme un humain c'est
+totalement vrai et donc mettez-vous une
+sorte de d'exigence positive qui est bah
+toutes les semaines je vais un Meetup
+tech toutes les semaines je contacte
+quelqu'un de mon réseau et il y a un
+truc qui marche bien qui est dans un
+bouquin qui s'appelle who
+euh W o ou c'est who the a methode for
+hiring ça c'est un truc vrai pour la
+tech mais vrai pour tous les métiers et
+commencez dès aujourd'hui vous faites un
+fichier Excel ou un Google sheet et vous
+faites une colonne prénom une colonne
+Nom une colonne métier avec une petite
+liste déroulante là genre tech sales
+opération marketing et tout une colonne
+je l'ai connu par qui et une colonne euh
+coordonnées et une dernière note une
+note que vous mettez et tous les gens
+que vous rencontrez tous que ça soit
+quelqu'un de la salle ici dans un bar
+n'importe où qui vous paraît brillant
+sur un sujet ça soit les sales les Ops
+et cetera vous le notez dedans c'est
+pareil ça paraît très très con je vous
+jure Queen fait moi j'ai dropé 100 fois
+plein de fois j'ai oublié maintenant je
+m'astrein à le faire toutes les à chaque
+fois je le fais et en fait vous dites
+par exemple je sais pas
+Bob il est génial en tech c'est
+peut-être pas mon Citeo mais il est
+génial en tech je lui mettrai A+ comme
+note genre moi j'avais fait A+ c'est je
+peux monter une boîte avec avec lui en
+gros enfin dans dans dans le fit premier
+feit que j'ai eu quoi je je je c'est
+extrême mais c'est l'idée ah c'est c'est
+j'aimerais le recruter chez chez moi et
+il y a pas en dessous de a parce que
+sinon il est pas dans dans la liste en
+fait et vous vous faites votre propre
+base de données entre guillemets avec
+tous les gens parce que vous allez
+rencontrer plein tous les gens que vous
+rencontrez et dès que moi là je cherche
+un sales aujourd'hui ça on le fait dans
+la team alors on le fait plus ou moins
+bien mais dès qu'on cherche un sales ce
+qui est cool c'est qu'on sait qui
+appeler soit parce que la personne peut
+être dispo et peut être intéressé soit
+en fait vous lui dites euh qui dans ton
+dans tes contacts est fort en sales
+d'après toi si vous dites ça à quelqu'un
+que vous considérez fort en sales la
+personne que vous allez avoir au final
+elle sera encore plus forte en sales
+donc c'est une petite technique qui
+prend du temps qui change la vie et qui
+change la boîte si vous le faites
+maintenant genre dans 2 ans vous allez
+vous dire il a dit plein de trucs qui
+m'ont servi à rien il m'a dit un truc
+qui a servi c'est ça parce que en fait
+c'est un avantage concurrentiel de
+dingue parce qu'en fait vous allez avoir
+votre propre petite base de truc et ça
+ça peut marcher sur les co ça peut
+marcher parce que si vous commencez dès
+maintenant à voir OK dans mon réseau qui
+qui je trouve moi personnellement fort
+en tech vous les appelez tous et vous
+lui dites ou vous lui vous lui dites ok
+qui d'après toi je devrais voir en Tech
+qui est d'après toi fort en tech et en
+fait vous allez rebondir quoi mais c'est
+c'est un travail je crois pas trop je
+crois pas trop au mass mailing et tout
+sur ça c'est un travail très
+traditionnel de rencontre
+euhès assez physique finalement de coup
+de fil ou de Meetup quoi je pense ok
+merci juste du coup mais est-ce que tu
+as embauché des freelan dans Comè en CDI
+ouais pour pourer chez toi ouais ouais
+c'est assez ouf parce que mais beaucoup
+beaucoup de gens posent la question de
+pourquoi tu as des salariés moi je suis
+pas du tout contre le salariat je me dis
+juste qu'en fait je pense que dans la
+vie demain on va passer freelance
+salarié freelance enfin j'en sais rien
+mais ce que je trouve trop cool dans le
+statut de freelance c'est qu'aujourd'hui
+tu as les super boîtes comme Alan we
+mindind qui te permettent d'avoir une
+mutuelle et tout donc tu galères moins
+tu as ctiono qui est une très belle
+boîte aussi qui permet de d'acheter un
+appart même quand tu es indépendant euh
+bref ta as Shine qui est pour moi une
+magnifique boîte sur la partie plôt
+copilote adminine banque et tout et donc
+en gros eu et ce que je trouve trop bien
+c'est que si tu tombes enfin si ta femme
+tombe enceinte toi tues papas tu veux
+faire le tour du monde tu veux prendre
+du temps pour tes potes enfin ce que tu
+veux tu as plus vraiment de de enfin tu
+es libre quoi tu peux t'arrêter bosser
+et reprendre et tout mais donc en gros
+je suis assez fan du du freelancing pas
+comme il existe vraiment maintenant mais
+comme je le
+vois mais j'aime aussi le salariia parce
+que je trouve qu'il y a des moments de
+ma vie peut-être où je me dirais bah là
+je veux me enfin pas me poser mais je
+veux plus de stabilité et tout je me
+fais un truc en salarié et donc en fait
+surtout dans la tech nous notre CMO
+était un freelance on l'a connu chez
+Lyon et il est venu en freelance et en
+fait il nous a dit les gars je suis trop
+chaud je passe salarié et on a dans
+l'équipe tech sur les 20 on doit avoir
+quatre ou CIN freelan qui sont des
+freelan de la communauté qui nous ont
+dit mais genre eux-même salut les gars
+s'il y a une boîte pour laquelle je veux
+bien repasser freelance c'est une boîte
+qui va me préparer le métier dans enfin
+en fait mon environnement de travail
+demain donc nous on aura gagné que si en
+fait finalement toute notre équipe tech
+elle passe freelance demain parce que
+tellement c'est cool elle se dira
+franchement je vous kiffe les gars mais
+comme ce qu'on a fait c'est beau bah je
+passe freelance on continue à bosser
+ensemble mais je passe freelance donc là
+ils sont passé salariés et demain
+peut-être qu'ils repasseront freelance
+quoi merci beaucoup en tout cas à très
+bientôt bon courage
+[Applaudissements]

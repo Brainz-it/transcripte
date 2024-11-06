@@ -1,0 +1,2900 @@
+[Musique]
+[Applaudissements]
+cou fondamentalement quand on se pose la
+question du marché on se pose la
+question de comment
+évaluer un marché comment on fait pour
+savoir si un marché est gros petit
+machin alors il y a une première
+solution la première solution oui alors
+en fait oui mince j'ai raté mon effet
+comique c'est qu'en fait je sais pas
+comment on évalue une taille de marché
+je connais un certain nombre
+d'approximation mais évaluer de façon s
+une taille de marché c'est impossible
+pour les prochains coup d'État je
+mettrai après alors quelques astuces la
+première c'est les études Gartner et
+autres dans ce monde on paye beaucoup
+beaucoup de gens à évaluer des choses et
+à prédire le futur c'est une industrie
+énorme c'est plusieurs dizaines de
+milliards par an c'est le fond de comm
+fondamental des mckinze des BCG et et de
+tous ces gensl mais alors il y a un
+petit problème structurel à la façon
+dont ces études sont produites ces
+études ont un taux de fiabilité qui est
+extrêmement faible il y a un petit malin
+du MIT qui s'est amusé à prendre toutes
+les études Gartner sur 20 ans et à
+regarder à quel point le taux de
+prédiction était fiable ou pas et ils
+sont bien inférieurs au hasard c'estàd
+que si vous mettiez un chimpanzé qui
+faisait les études gartnerur en en
+mettant au hasard des prédictions il
+aurait un taux de fiabilité bien plus
+élevé que les analyses de Gartner payer
+3000 € la journé pour faire des études
+alors face à cette découverte hautement
+surprenante des gens on commence à se
+dire mais est-ce que c'est fiable mais
+en fait c'est pas très compliqué de
+savoir pourquoi c'est pas fiable une
+étude Gartner c'est quoi c'est un client
+qui rencontre un associé de Gartner et
+qui lui dit écoute j'ai une décision
+vachement importante à prendre je sais
+absolument que je faire ça mais tu
+comprends mon board il est pas convaincu
+t'inquiète pas mon ami on va te le
+produire tu donné donc le chef arrive au
+bureau et vient il voit le Seigneur
+partner et il dit au Seigneur partner
+écoute on va lancer une grande étude sur
+tel sujet puis il va falloir démontrer
+ça parce que notre client il paye pour
+ça alors tu te
+démerdes seigur partner il va voir les
+10agère alors les gars on a une semaine
+pour produire telle étude vous allez me
+cracher telle data tel data tel data
+puis quand les datas reviennent il
+disent ça bon ça ça m'intéresse pas mais
+ça ça m'intéresse ça ça m'intéresse pas
+oui oui insiste un peu là-dessus vas-y
+pousse cette corrélation et bam l'étude
+le type revient il vient devant le
+conseil d'administration il dit écoutez
+les gars j'ai une idée géniale en plus
+c'est appuyé par une étude Gartner
+incroyable al vous allez me dire mais
+les types des conseils d'administration
+sont quand même pas ahuris si ça se
+passe force ça se passe comme ça et au
+bout d'un moment il finiraiit par se
+dire les études Gartner ne valent rien
+oui mais en fait l'astuce elle ailleurs
+c'est pourquoi les membres du conseil
+d'administration veulent ça parce que
+quand ils signent s'il y a un problème
+après ils peuvent dire oui mais vous
+comprenez ma décision elle a été fondée
+sur
+Gartner donc en fait ces sociétés sont
+devenues des sociétés d'assurance pour
+décision à risque pour des gens qui sont
+payé pour prendre ces décisions mais qui
+ne veulent pas endosser la
+responsabilité des décisions qui
+prennent et notamment des procès qui en
+découlent et cetera dans les sociétés
+publiques être administrateur d'une
+société publique c'est être en fait une
+compagnie d'assurance he enfin c'est
+c'est c'est aussi bête que ça et donc ça
+crée un grand cercle de la défiance qui
+finit dans les mains du stagiaire
+Gartner alors c'est pas très grave c'est
+c'est une industrie qui tourne bien ils
+ont leur propre rationnalité euh
+forcément les mecs on ont quand même
+finissent par prendre des bonnes
+décisions parce que sinon les grandes
+entreprises seraient toutes en faillite
+ils vivent sur des grandes rentes et
+cetera c'est leur problématique le
+problème il est le problème il est pas
+là le problème c'est quand vous vous
+prenez ces étudesl et vous les prenez de
+bonne foi pour expliquer que la startup
+que vous lancez Z sur une trend
+incroyable la preuve il y a tel étude
+qui le dit donc en fait le problème
+c'est que vous vous appuyez sur du vent
+alors des fois ça peut être vrai des
+fois ça peut être faux mais en tout cas
+il y a rien de prépondérant dans ces
+études qui peut vous aider à prendre une
+décision
+alors il y a il y a une chose que vous
+pouvez faire c'est qu'à la rigueur
+quitte à avoir des datas de marché si
+c'est important il y a des moments où
+c'est très important d'avoir des datas
+de marché notamment la levée de fond la
+levée de fond si vous avez avz pas de
+Data marché c'est très très très
+compliqué mais il y a une façon assez
+géniale de produire des datas de marché
+de nos jours c'est Facebook alors
+Facebook c'est quoi Facebook c'est si
+vous l'utilisez vous avez à votre à
+votre disposition un outil de séquençage
+de marché temps réel avec 1 milillard
+200 millions de personnes dessus dans le
+monde
+gratuitement pourquoi parce qu'il y a un
+hack tout bête c'est que vous pouvez
+aller dans l'interface pub de Facebook
+vous pouvez définir un certain N de
+critères et ça vous donne la population
+mondiale qui répond à ces critères alors
+vous supposez une hypothèse il y a deux
+hypothèses caché dans ce Raon la
+première c'est que le monde entier est
+sur
+facebook effectivement il y a un Billis
+tout le monde entier n'est pas sur
+Facebook mais quand vous voyez que le
+taux de pénétration de Facebook en
+France est de l'ordre de 60 ou 70 % vous
+pouvez vous dire que les 30 % restants
+sont de toute façon tellement jetlé que
+d'ici qu'il soit intéressé par un
+produit d'une startup il va se passer
+tellement temps que c'est c'est pas très
+grave si vous prenez ça en considération
+à moins que évidemment votre marché soit
+ces 30 % de gens là dans ce cas là
+sortez une étude g la deuxième chose que
+vous pouvez faire avec ça c'est que vous
+pouvez regarder les démographies parce
+que sur Facebook vous pouvez dire je
+vise les hommes les femmes entre tel âge
+et tel âge qui ont tel et tel centre
+d'intérêt et cetera et donc la deuxème
+hypothèse qui repose là-dessous c'est
+que tout le monde a déclaré correctement
+son profil Facebook par exemple je suis
+un grand amateur de littérature je suis
+pas sûr d'avoir liké littérature sur mon
+profil facebook donc si quelqu'un fait
+une étude de marché des gens qui likent
+la littérature il risque de pas trouver
+mon profil après encore une fois c'est
+la loi des grands nombres c'est des
+approximations combien de pourcent de
+gens aimant la littérature n'ont pas
+déclaré aimer la littérature sur
+facebook vu toute leur stratégie de
+collecte de données bonah peut-être 10 %
+20 %, 30 % 40 %, quel que soit de toute
+façon le montant c'est une approximation
+qui est mieux que le truc ce qui fait
+que ça vous permet pas calculer le tam
+le total addressable market parce que
+lui il est un mystère complet mais par
+contre ça vous permet de calculer le sa
+le avable Market pourquoi parce qu'en
+plus par définition tous les gens qui
+sont sur Facebook sont des gens auxquels
+vous avez accès et tous les gens qui
+répondent à cette caractéristique sont à
+une pub de vous donc après peut-être que
+la pub est trop ch pour votre stratégie
+d'acquisition ça c'est c'est encore un
+autre sujet mais par définition c'est le
+marché qui est serviable puisque c'est
+le marché qui est déclaré ayant un
+certain nombre de centres d'intérêt et
+étant sur le site et vraiment cette
+méthode pour vérifier moi je je le fais
+sur chaque startup qui rentre dans The
+Family je vais dans la dans l'interface
+pub de Facebook et je regarde le le SAM
+et c'est incroyable comment 3 minutes
+vous voyez s'il y a beaucoup beaucoup de
+gens qui sont intéressés par les
+services de la start-up ou pas c'est
+c'est assez marrant est-ce que ils
+injectent les likes et les infos de con
+ou c'est juste le déclaratif et
+réinjecte toutes les datas disponibles
+alors deux choses sur une cible B2B
+facebook est un outil incroyable ça
+c'est c'est contreintuitif mais il y a 1
+milillard 200 millions de personnes
+j'aimerais bien que tu me trouves le mec
+B2B qui est pas sur Facebook en fait et
+ce qui est assez flippant avec les
+cibles B2B c'est que énormément sont
+déclaratifs de leurs intérêts
+professionnels sur Facebook il y a qu'à
+voir comment la plupart des des gens
+dans ce milieu utilisent Facebook il
+font des groupes professionnels il y a
+plus de groupes professionnels de DSI
+sur Facebook sur Linkedin vraiment la
+honte sur Linkedin je sais pas comment
+il se démerde les mecs c'est un jour on
+parlera de de mes interrogations sur
+Linkedin c'est la boîte qui me fascine
+le plus au monde LinkedIn je comprends
+pas ce qu'il foutent c'est un produit
+pourri c'est une valeur incroyable il la
+transforme pas enfin bref je vais pas
+m'énerver ce matin mais il y a
+exactement le même outil sur Linkedin
+dont tu peux faire des tu peux faire des
+comparaisons et d'ailleurs au passage il
+y a aussi le même outil sur adws c'estàd
+que qu'est-ce que c'est finalement une
+déclaration sur sur Google une
+déclaration sur Google c'est une
+intention si vous cherchez des requêes
+extrêmement spécifiques vous pouvez
+calculer la taille de votre Sam de votre
+serve avable market sur une sur une
+cible extrêmement spécifique par exemple
+imaginons que vous faites je sais pas
+une plateforme de place de parking si
+vous cherchez sur
+Google place de parking dans tel
+quartier bah vous verrez tous les gens
+qui un jour ont tellement souffert du
+problème de la place de parking qu'ils
+ont même été assez désespérés pour
+tenter Google imaginons un cas a un cas
+a vous avez très très très très peu de
+réponses et vous avez très très peu de
+de gens qui font cette requête bah dans
+ce cas là vous vous dites bon bah il y a
+peut-être un marché mais du moins il est
+pas exprimé dans le désespoir de Google
+par contre imaginons que à l'inverse
+vous trouviez énormément de requêes bah
+là d'un seul coup vous pouvez vous dire
+que en fait le les les gens souffrent
+tellement du problème qu'ils l'ont même
+déclaré sur sur Google alors que c'est
+pas l'endroit le plus simple pour
+chercher une place de parking et des
+fois c'est surprenant ce qu'on découvre
+de cette façon comme vous le voyez
+l'exercice dévalué de marché est un
+exercice extrêmement compliqué prenons
+des cas historiques prenons Internet par
+exemple en vous êtes en
+1997 98 il y a 70 millions de personnes
+sur l'Internet et vous décidez de lancer
+une boîte dans
+l'Internet comment ces gens ont pu se
+dire que le marché était important
+est-ce que vous pensez que les gens
+tiens on va on va jouer à un jeu
+est-ce que vous pensez que les gens à
+l'époque qui étaient dans cette
+industrie de l'Internet pensit qu'un
+jour il y aurait 3 milliards de
+personnes sur Internet qui pense que
+c'était le cas que ces gens-là pensaient
+ça ah vous êtes trop bien éduqué en fait
+j'ai même une preuve factuelle au fait
+qu'il ne le croyit pas c'est le
+protocole
+IP4 le protocole IP4 c'est un protocole
+qui attribue une adresse IP à chacun des
+ordinateurs et qui est la l'architecture
+fondamentale et la la base de l'Internet
+avait pas suffisamment de combinaisons
+poss possiblebl pour avoir suffisamment
+de le nombre d'ordinateurs qu'il a
+aujourd'hui et on a dû inventer le
+protocole iP6 et maintenant iP6 c'est
+autant de de combinaisons que d'atomes
+dans l'univers donc c'est bon on a de la
+place mais sur le coup les mecs à
+l'époque se disaient ouais 70 milliards
+100 milliards d'adresses c'est largement
+suffisant jamais atteindre ça c'estou
+déjà si on dépasse le milliard ce sera
+ce sera exceptionnel et aujourd'hui des
+des Devic qui ont besoin d'IP connectés
+à l'internet c'est en explosion et je
+vous parle pas avec l'Internet des
+Objets quand vous vous voyez qu'ici
+l'Apple TV on a une mon iPhone en a une
+mon ordinateur en a deux enfin c'est
+c'est c'est complètement délirant donc
+le point le plus important c'est que
+finalement plus que l'évaluation factuel
+d'un marché la question c'est est-ce que
+vous faites confiance ou pas à votre
+imagination est-ce que vous arrivez à à
+à tracer une courbe ou est-ce que vous y
+arrivez pas et est-ce que est-ce que
+vous arrivez à à vous contenter en fait
+des datas dont vous dont vous disposer
+aujourd'hui pour vous projeter un
+minimum il y a deux façons de de se
+faire avoir sur les sur les marchés les
+et les problématiques qu'on adresse le
+première façon de se faire avoir c'est
+ce que j'appelle le unsexy filter qu'on
+le veuille ou non on est incroyablement
+attiré par les idées sexies les idées
+sexy ont un ont un truc terrible c'est
+que c'est comme une drogue on a beau se
+dire l'idée compte pas c'est le problème
+machin quand on entend une idée qui
+vraiment nous enthousiasme on a
+énormément de mal à ne à ne pas plonger
+dedans et pourtant les idées sexies qui
+ont marché il y en a pas beaucoup
+d'ailleurs argument
+factuel 75 % des boîtes qui ont jamais
+été featuré sur te crunch n'existe plus
+aujourd'hui vous
+imaginez 75 % c'est pas Paul gram a une
+blague dans white combinator il dit
+depuis la première année chez White
+combinator il invite des journalistes à
+venir à WC et il leur présente toutes
+les boîtes de W et leur demande de lire
+le top 10 il prend le top 10 et il le
+renverse et il prend toutes les boîtes
+qui sont en dessous du classement et il
+regarde attentivement si elles sont
+intéressantes ou
+pas parce que qu'est-ce que c'est un
+journaliste c'est quelqu'un qui est
+extrêmement attiré par le filtre sexy
+par définition et donc il dit comme
+c'est pas un argument un argument
+suffisant je vais je vais m'intéresser
+au aux autres de la liste l'exemple le
+plus frappant est en stripe je crois
+stripe c'est la croissance la plus
+importante jamais constatée par une
+boîte VOC c'est une société qui permet
+de collecter des paiements en ligne pour
+les développeurs stripe a durant YC a
+une croissance supérieure à toutes les
+autres boîtes de YC cumulées pendant le
+même
+batch donc vous imaginez la traction et
+dans l'article te crunch les 10
+meilleurs start-up de démoder ils
+étaient même pas dans le top 10 et un
+journaliste a dit oui mais bon
+encore une solution de paiement ça fait
+ça fait 15 ans qu'on entend parler de
+solution de paiement oui sauf que manque
+de peau celle-là elle était vraiment
+mieux que les autres aujourd'hui c'est
+l'une des elle est dans le top 3 des
+boîtes qui valent le plus à wi et Paul
+gr a dit que ce serait la seule boîte
+qui vaudrait plus de 100 milliards à wi
+si si leur croissanceue comme ça donc
+donc donc vous voyez à quel point en
+fait c'est extrêmement dur d'évaluer un
+marché et reprenons cette histoire de
+marché et c'est quoi l'hypothèse de
+stripe parce que quand stripe a été
+lancé les gens disaient mais le marché
+il est tout petit du paiement en ligne
+parce que tous les gens qui ont besoin
+d'un paiement en ligne et qui gagnent de
+l'argent préfèrent développer leur
+propre solution plutôt que adopter la
+solution d'une tierce partie mais le
+raisonnement et l'hypothèse cachée de
+strike c'est que le nombre de start-up
+qui allait se créer dans le monde et qu'
+allit avoir besoin de collecter des
+paiements allait être multiplié par 10
+tous les ans-ce aujourd'hui ça paraît ça
+paraît évident que la courbe est dans ce
+sens-là mais il y a 3 ans je vous assure
+elle l'était pas c'était pas du tout
+évident que ça allait aller dans ce
+sens-là alors le deuxième c'est le je
+sais même pas comment ça se prononce
+shelp the shelp filter c'est un mot
+Yidish qui est passé dans l'anglais
+courant et qui qui veut dire qui veut
+dire quelque chose
+d'incroyablement dur la façon dont les
+entrepreneurs se trompe très souvent en
+réfléchissant à des problèmes à attaquer
+c'est qu'il cherche des problèmes qui
+leur paraissent résolvables et et pas
+trop dur et c'est même assez inconscient
+reprenons encore l'exemple de stripe je
+pense pas que personne s'était jamais
+dit que les solutions de paiement en
+ligne étaient bien
+foutu je pense juste que tout le monde
+s'est dit mais entre la réglementation
+des banques la réglementation des moyens
+de paiement entre toutes les
+problématiques de sécurité que ça pose
+et cetera c'est juste impossible à faire
+j'y arriverai jamais et ils se le sont
+même pas dit consciemment et et en fait
+je pense je pense qu'il est là le drame
+le deuxème phénomène qui nous retient
+tous collectivement c'est le SH le
+shilter c'est c'est le fait que tout ce
+qui paraît impossible à faire nous
+intéresse pas alors j'ai déjà pris le
+cas de WhatsApp je reprends tiens par
+exemple je sais pas si j'ai déjà raconté
+cette histoire mais mais uber je me suis
+fait avoir par mon Shel filter c'est qu'
+un jour quand Travis m'a dit je vais
+lancer uber qui va révolutionner la le
+transport des gens dans dans les villes
+je me suis dit mais il est il est
+complètement barche ce mec gérer la
+réglementation gérer des chauffeurs
+gérer des gens enfin je crois que c'est
+c'est le tryptique des trois problèmes
+les plus compliqués qu'on puisse
+attaquer pour pourquoi tu ferais ça
+effectivement il l'a fait mieux que tout
+le monde et et la probabilité que s'il y
+arrive ce soit un truc géant était
+évidente mais assez inconsciemment
+jamais de ma vie j'aurais pu croire à
+cette époque que des gens étaient
+capables de ça j'avis pas encore
+rencontré beaucoup d'entrepreneurs à
+l'époque il est là le point le point
+c'est que quelle que soit votre idée et
+et ça marche dans les deux sens c'est
+que soit vous vous dites que votre idée
+elle est super facile et et posez-vous
+des questions dans ce cas-là de pourquoi
+elle a pas déjà été fait et je pense que
+c'est c'est une bonne façon de faire
+plus une idée est facile plus vous
+devriez vous méfier et vous poser la
+question pourquoi ça n'a pas déjà été
+fait le point c'est vous arrêtez jamais
+ne laissez jamais quelqu'un vous
+expliquer que ce que vous avez envie de
+faire est trop dur alors en plus jeis
+mais un cou pas collectif 80 % des gens
+que je refuse dans The
+Family si c'est pas 90 c'est en leur
+expliquant que c'est trop
+dur en fait les gens entendent derrière
+ce trop dur c'est impossible mais c'est
+pas ça qu'il faut entendre ce qu'il faut
+entendre c'est moi ou Samar ou le reste
+de the family et des autres membres de
+l'équipe qu'on regardai le dossier on
+trouve ce problème un très dur et deux
+absolument pas dans dans les trucs qu'on
+a envie d'attaquer par exemple je vais
+vous donner un exemple le marché la
+musique il y a pas une personne dans
+cette équipe qui est pas un traumatisée
+du marché de la musique si enfin Nicolas
+CIN il en peut plus il veut plus en
+entendre parler c'est un truc ça
+l'emmerde moi j'ai jamais bliré la
+musique de ma vie j'ai jamais écouté de
+musique j'en écoute pas et et vraiment
+je risque pas de m'y mettre et Alice de
+toute façon le business musique elle dit
+ouais il y a Spotify c'est génial donc
+donc à chaque fois que quelqu'un nous
+envoie un business et là j'envoie deux
+dans le fond et je vous salue vous allez
+comprendre notre refus à chaque fois
+qu'on reçoit un business là-dedans on
+répond toujours écoutez les gars le
+marché il est il est catastrophique quoi
+est-ce que ça veut dire qu'il y a pas un
+type qui va faire venir faire un deer ou
+un ou un Spotify nouvelle génération
+absolument pas c'est juste que par par
+définition l'ensemble des humains sur
+Terre ne peuvent pas attaquer l'ensemble
+des problèmes et c'est parce qu'ils sont
+compliqués qu' demandent une énorme
+énergie et que cette énergie bah on on
+l'a pas par exemple à l'inverse si vous
+venez en ce moment avec un projet
+d'agriculture c'est une de mes grandes
+passions l'agriculture nourrir les gens
+je trouve ça super noble je suis à fond
+quoi je pense que l'agriculture je vais
+en parler après mais je pense que
+l'agriculture et ou un problème dans
+l'éducation je suis à fond làdedans
+enfin c'est vraiment des histoires de de
+rapport intime à à quoi vous voulez
+dépenser vos cinq prochaines années et
+alors souvent les gens essaient de nous
+convaincre en disant oui ça va être un
+super business et oui mais tout est un
+super business on peut faire des super
+business dans tout on peut pas être
+drivé par le fait que quelque chose soit
+une super opportunité business c'est
+forcément plus profond que ça et si ça
+se trouve un un partenaire nous
+rejoindra notamment un type qu'on a
+refusé et qu' aura qu' aura fait une
+super boîte dans la musique il viendra
+chez nous et il prendra plein de boîtes
+dans la musique et ce sera très bien
+parce que c'est un peu comme dans une
+école c'est vous êtes drivé par le goût
+des gens un jour j'ai j'ai demandé à un
+type qui qui était vipi chez Google
+pourquoi Google ne se lançait pas dans
+dans la musique et il a dit ah bah Larry
+et Sergy ils écoutent jamais de musique
+ça m'a fait mourir de rire comme
+réponse les gens dehors imaginent qu'il
+y a des réunions et des brainstorm
+incroyables sur sur quelles sont les
+opportunités de marché Google peut peut
+attaquer avec des SWAT et des swap pu en
+fait à l'intérieur il y a deux types qui
+disent ouais this is look cool let's do
+it en fait la réalité est là c'est que
+c'est tellement dur ça demande un tel
+effort de transformer quelque chose de 0
+à 1 que forcément ça doit d'abord être
+drivé par la passion il faut faire il
+faut et c'est pour ça qu'il faut faire
+attention si on si on s'attaque à
+quelque chose de dur c'est pas grave il
+faut juste le savoir faut pas être
+ignorant quoi est-ce que vous êtes déjà
+posé la question de pourquoi c'est
+tellement dur d'imaginer le futur
+prenons un cas Hollywood Hollywood
+produit je sais pas combien de films de
+science-fiction par an vous savez que
+l'année de retour vers le futur moi ça
+ça m'obsède ce truc l'année de retour
+vers le futur c'est c'est cette année il
+y a rien qui a dans Retour vers le futur
+qui qui est dans le marché c'est c'est
+c'est incroyable à quel point ils se
+sont plantés et il y a pas un film qui
+imagine le futur depuis 50 ans qui se
+soit jamais réalisé pourquoi parce que
+les gens dansen retour vers le futur et
+tous les gens qui écrivent ces scénarios
+Hollywood ils ont des attitudes très
+portées vers le
+déterminisme par exemple il voit l'avion
+il voit la voiture puis il disent ah bah
+il y a un jour un mec qui va avoir
+l'idée de fusionner les deux et on va
+avoir des voitures qui
+volent sauf que en fait aucune évolution
+technologique ne fonctionne comme ça si
+les VO voiture ne vol déjà pas c'est
+parce qu'il y a des challenges
+techniques physiques qui les empêchent
+de voler sécuritaire réglementaire et
+cetera et donc en fait qu'est-ce qu'ils
+font ils partent des idées plutôt que
+des problèmes et je pense que l'analyse
+fondamentale c'est de pas voir pourquoi
+les voitures ne veulent pas et je pense
+que c'est le point le plus important si
+vous voulez évaluer le futur c'est vous
+demander honnêtement pourquoi quelque
+chose que vous êtes en train de faire
+n'existe pas déjà c'est une question que
+vous détestez vous
+je déteste me la poser c'est c'est l'une
+des pires questions parce que parce
+qu'elle est incroyablement ingrate elle
+est incroyablement du comme question et
+souvent elle amène à une réponse qui est
+bonah soit c'est parce que en fait c'est
+pas si enthousiasm que ça soit parce que
+en fait personne qui a essayé n'a jamais
+réussi parce que personne n'a jamais
+réussi à intéresser personne en fait
+c'est la question du déterminisme contre
+l'indéterminisme alors petite minute
+philo il y a deux grands systèmes de
+pensée premier système de pensée qui
+s'appelle la causalité la causalité
+c'est l'idée que toute conséquence a une
+cause par exemple si vous marchez dans
+la rue et que vous vous prenez une
+brique sur la tronche bah c'est parce
+que il y a un enchaînement d'événements
+qui ont fait qu'à un moment donné cette
+brique rencontte l'enchaîne d'événement
+qui fait que vous vous marchez dessous
+c'est pas chaotique c'était prédictible
+c'est juste que on nait pas les
+informations initiales et ça c'est un
+type qui s'appelle Point Carré qui a
+formalisé ça dans dans un livre
+magnifique et il explique que si on
+connaissait tous les atomes de l'univers
+et leur position initiale et l'ensemble
+des facteurs et de l'ensemble de tous
+les facteurs qui qui prédéterminent leur
+action alors on pourrait décider quelle
+sera la prochaine étape en fait ce que
+ce que la plupart des entrepreneurs font
+en essayant d'évaluer le futur et en
+essayant d'imaginer le futur c'est du
+déterminisme et regarde le M
+est
+maintenant il ESS de tirer sur des fils
+en disant bon ça va aller dans ce sens
+et puis quand Iland ils on tir
+suffisamment sur un fil il dis voil le
+futuressem à
+ça à côté de çare système de pensée
+s'appelle l'indéterminisme ch alors
+jeense jeense que celui qui a le mieux
+résumé dans le monde entrepreneurial ce
+que ça voulait dire c'est un type qui
+s'appelle Nassim
+donc il y a un livre incroyable et
+incroyablement chiant à lire alors allez
+lire le résumé sur Wikipédia et
+épargnez-vous le bouquin parce que j'ai
+jamais vu un bouquin aussi chiant c'est
+Nassim tayb Black Swan c'est une thèse
+incroyable qui est résumable en un
+chapitre et le type passe 30 chapitres à
+raconter sa vie et à quel point les gens
+sont des abrutis de pas le comprendre
+c'est j'ai jamais vu un type aussi
+énervé contre lui-même et la vie quoi
+enfin c'est c'est dommage parce que la
+thèse est géniale mais Black Swan c'est
+l'une des thèses les plus fondamentales
+c'est dire que par définition et par
+définition le futur est
+imprédictible vous entendez bien par
+définition le futur est imprédictible
+pourquoi parce qu'à chaque fois que
+quelque chose arrive il arrive à une
+échelle exponentielle et un point qu'on
+aurait jamais pu prévoir on pouvait pas
+prévoir la Seconde Guerre mondiale on
+pouvait pas prévoir l'introduction en
+bour de Google on pouvait pas prévoir la
+naissance de zugber qui est donné
+Facebook et cetera et cetera tout ça
+c'est des phénomènes imprédictibles et
+que à chaque fois qu'un Black Swan a
+lieu chaque fois que cette situation a
+lieu ça rechange complètement la
+cartographie causale en fait Nassim TB
+ne fait que tirer des théories de la
+physique de mandelbro qui est un
+mathématicien français qui a inventé les
+fractales et ce que mandelbro explique
+c'est que par définition il est dans un
+système chaotique il est impossible de
+prévoir ce qui se passera parce que une
+cause une conséquence n'a pas qu'une
+cause mais en a
+[Musique]
+plusieurs ça paraît bizarre et alors
+l'image poétique magnifique pour
+expliquer ça c'est le battement de
+l'aile de papillon vous connaissez cette
+histoire souvent on vous la raconte et
+on vous la raconte très très mal parce
+qu'on vous dit un battement d'aile de
+papillon dans l'hémisphère Sud va lancer
+un une série d'événements donc ça va
+bouger quelques molécules d'air qui vont
+avoir un impact sur un nuage qui vont
+provoquer une tempête et ça ça génère
+une tornade dans l'hémisphère Nord 2 ans
+plus
+tard mais en fait c'est pas ça le
+battement de l'ail de papillon ça c'est
+la façon poétique de vous expliquer mais
+ce que en fait veut dire ce ce cette
+image c'est que en fait c'est aussi
+imprévisible qu'un battement d' d'il de
+papillon c'est qu'on sait pas lequel
+mais il y a peut-être un battement d'ail
+parce que si à chaque fois qu' il y
+avait un battementelle de papillon il y
+avait une tornade on serait sacrément
+dans la merde dans la chasse au PAP
+Lesar mais en fait il est pas là le
+point le point c'est que vous êtes face
+à un événement complètement imprévisible
+il existe des battemandelles de papillon
+qui provoquent des tornades et c'est
+parfaitement imprévisible de savoir
+lequel ce sera et donc si le futur est
+complètement imprévisible il faut
+comprendre pourquoi pourquoi il y a des
+choses qu'on arrive à prédire et
+pourquoi il y a des choses qu'on arrive
+pas à prédire
+il faut comprendre la nature profonde de
+la différence entre le passage de 0 à 1
+et le passage de 1 à
+n le passage de 1 à n par exemple quand
+vous amenez une société de 100 employés
+à 10000 c'est un passage
+statistique vous avez de la data
+empirique sur ce qui s'est passé sur les
+trois dernières années j'ai gagné 10
+nouveaux clients par semaine et c'est en
+train de s'accélérer de 10 % par semaine
+donc les gens qu'est-ce qu'ils font ils
+prennent la courbe ils calculent le
+delta ils tirent la courbe linéairement
+et ils se disent bon bah je veux bien
+mettre de l'argent à tel prix parce que
+ça a l'air intéressant c'est comme ça
+que 99 % des décisions d'investissement
+sont prises dans le monde mais elles
+sont fondées sur quoi elles sont fondées
+sur des données statistiques viables de
+0 à 1 vous êtes dans le royaume de
+l'indéterminé
+personne peut savoir comment on va
+passer à 1 on sait même pas si on va
+vraiment passer à 1 et la seule chose
+qu'on sait c'est que on a une
+information qui nous fait croire que
+quelque chose par là se passe et on veut
+y
+aller c'est un peu comme l'histoire de
+de Steve Jobs et Apple que je vous
+raconé la semaine dernière la seule
+chose qui sait dans ce passage de 0 à 1
+c'est que de toute évidence il y a des
+types autour de lui qui on envie
+d'acheter l'ordinateur qui fabrique
+est-ce qu'il sait que dans le monde
+entier il existe des gens on la même
+frustration absolument pas il a pas
+Facebook il peut pas taper inter Steve
+Jobs et en fait c'est là le le grand
+point c'est que de 0 à 1 vous êtes
+fondamentalement et incroyablement dans
+le royaume de l'indéterminé vous savez
+pas ce qui va se passer et donc vous
+pouvez surtout pas et vous ne devez
+surtout pas vous appuyer sur des
+raisonnements empirique pour savoir si
+le problème que vous attaquez est
+intéressant ou pas par
+exemple est-ce que c'est parce que
+aucune boîte dans le paiement sur mobile
+n'a jamais marché qu'aucune boîte dans
+le mobile ne marchera
+jamais non pourquoi parce que c'est
+indéterminé s'il y en a une qui
+fonctionne ce sera un Black Swan il y a
+une façon très simple de comprendre ça
+en statistique c'est imaginons que là je
+fais venir des coiffeurs et je vous je
+vous taigne tous les cheveux en roue et
+que vous soyez tous roues et il y a et
+on fait venir un type et on lui dit
+regarde il y a que des
+Rousses on fait rentrer une une personne
+de plus de quel couleur et ses cheveux
+99 % des gens
+répondrontù pourtant on l'aura pas dit
+que c'était un congrès pour les roues
+donc ils avaient aucun élément factuel
+pour appuyer que c'était autre chose
+qu'un hasard deuxièmement ils ont
+simplement tiré une corrélation en
+causalité et tout le drame
+entrepreneurial est le drame
+entrepreneurial n'est pas dans le fait
+de faire des choses indéterminé et de
+prendre des risques le drame
+entrepreneurial c'est quand on prend des
+V pour des
+lanternes c'est que sous prétexte que
+des choses ont fonctionn on les refass
+encore pire que sous prétexte que des
+choses n'ont pas fonctionner on lesasse
+pas avant a 10000 des
+DRX avant Google 10000 des Google donc
+le
+point maintenant jeis à cause de vous je
+vaisêtre mort de Ren à chaqueis gétique
+de langage j'étais tranquille avec mes
+de langage remarquer quoi je va en
+adopter des nouveaux rien pour vous
+emmerder
+[Rires]
+donc si ça se trouve c'est une structure
+cognitive qui stock mes informations
+vous savez vous êtes en train de la
+perturb et vous allez grandement perdre
+en
+qualité entre 0 et c'est le RO de
+l'indéterminé c'est le moment
+fondamental où vous ne pouvez pas vous
+appuyer sur le moindre empirisme pour
+prendre la moindre décision et c'est
+pour ça que c'est tellement dur et c'est
+pour ça qu'on se trompe tant parce que
+par définition si c'était si c'était
+déterminé on pourrait le prédire et
+c'est pour ça que vous avez juste une
+chose à faire c'est de passer de 0 à 1
+le plus rapidement possible vous pouvez
+prendre votre temps de 1 à n Vous pouvez
+prendre tout votre temps de 1 à n mais
+de 0 à
+chaque minute que vous passez dans cette
+phase indéterminée est une minute de
+perdu et donc c'est une minute que vous
+mettez à risque et c'est une minute
+d'investissement et c'est pas grave
+parce qu'on est obligé de passer par
+cette phase là mais vous devez sortir de
+cette phase la plus rapidement possible
+et alors je vous avais dit surtout lisez
+pas l startup je vais vous expliquer
+pourquoi parce que tout est là-dedans en
+fait dans ce bouquin le bouquin de l
+startup c'est quoi c'est dire comme le
+passage de 0 à 1 et déterminé il faut
+absolument transformer l'ensemble des
+hypothèses en expérience le plus
+rapidement possible pour trouver une
+solution et je trouve que c'est une
+méthode incroyable je suis un grand fan
+de Eric re je suis un grand fan de Steve
+Blanck je trouve que ces types sont
+super intelligents mais il y a un truc
+que je comprends pas c'est comment ce
+bouquin a pu être appliqué de la façon
+dont il est appliqué par 99 % des gens
+qui lisent puisque qu'est-ce qu'ils font
+ils prennent le livre ils voient qu'il
+faut faire des expériences
+ils font des expériences à tout petite
+échelle qui n'ont aucune signification
+statistique mais aucune ils prennent les
+Data ils vous disent ouais il y a 10
+personnes qui ont dit que c'était cool
+donc ça y est maintenant c'est vérifié
+et ils lancent leur truc et donc en fait
+au lieu de passer de 0 à 1 ils sont
+passés de moins l'infini à zé puils sont
+passés de la peur de de se lancer à la
+certitude qu'il fallait se lancer mais
+ils n'ont aucune data viable sur le fait
+que leur produit vaut quelque chose ou
+que c'est c'est on est dans quelque
+chose qui a du sens maintenant que vous
+avez ça en tête vous pouvez lire ce
+bouquin mais transformez pas ce bouquin
+en checklist et surtout tombez pas moi
+je l'ai même dit à c'est ce que
+j'appelle maintenant la ligne traape
+c'est les types ils ouvrent une trappe
+ils tombent dedans quoi et elle est
+tellement petite qu'elle en plus elle a
+aucune signification genre alors voilà
+j'avais une super idée mais j'ai demandé
+à 10 personnes autour de moi et m'ont
+dit que c'était nul alors j'ai
+arrêté mais pourquoi bah Eric il m'a dit
+qu'il fallait aller dans la rue demander
+aux gens alors j'ai coché la case j'ai
+demandé aux gens ça sera un peu
+compliqué de faire ce travail préalable
+et il faudrait se poser la question
+pourquoi les américains comprennent
+beaucoup mieux ce livre que en moyenne
+nous Européens parce que les Américains
+l'appliquent pas du tout comme ça le
+livre les Américains c'est même plutôt
+l'inverse ils font du du du Ling grasp
+c'estàd que ils ont 1500 retour et ils
+disent ouais mais c'est peut-être pas
+encore sûr et il y a 3000 personnes qui
+sont dehors en train d'hurler s'il te
+plaît ton produit s'il te plaît ouais
+c'est peutêtre il y a peut-être quex en
+fait
+c'est j'ai vachement peur que ce soit
+pas un BIG Thing je sais pas pourquoi
+leur culture les pousse à ça ou pourquoi
+notre culture pousse à ça mais je pense
+que fondamentalement il y a une
+noncpréhension sur ce LAN trap il y a
+une incompréhension sur ce que c'est de
+passer de 0 à 1 0 c'est transformer une
+hypothèse indéterminée en quelque chose
+o on peut bâtir de la data le but du jeu
+c'est pas d'optimiser son argent c'est
+pas d'optimiser les gens c'est
+absolument d'optimiser le temps pour que
+ça prenne le moins de temps possible
+parce que au moins vous saurez le plus
+rapidement possible si c'est une bonne
+idée ou pas alors dernière entrée dans
+l'histoire de the family switch il y a
+une semaine je vais vous raconter switch
+ils adressent un problème extraordinaire
+qui est le problème de trouver une place
+de
+parking comment tout le monde adresse ce
+problème sur le marché notamment eux
+pendant 2 ans et demi c'est avec des
+algos avec des algos vous regardez les
+données statistique dans une ville vous
+regardez où les gens se garent et vous
+faites un algo disant
+la probabilité que si tu tournes à
+gauche tu trouves une place est 80 % si
+tu tournes à droite est 95 donc plutôt
+tourne à droite alors déjà pour intégrer
+ça au GPS je vous dis pas les emmerdes
+donc faut en plus du GPS avoir une app
+pour switch donc si vous avez ni le sens
+de l'orientation et que vous avez besoin
+d'une place vous êtes vous êtes super
+mal en terme d'usage la deuxième chose
+c'est qu'en fait les gens ce qu'il
+veulent c'est une place ils veulent pas
+une probabilité de place parce que les
+gens retiennent surtout les moments où
+ils ont pas trouvé de place plutôt que
+les moments où ils ont trouvé une place
+quand vous dites à un type il y a 80 %
+de chance quand on à gauche une place il
+entend il y a une place à gauche et puis
+là il y a pas de place il d c'est de la
+merde ce truc ça marche pas et puis il
+passe à autre chose et tous les types
+qu'on lancé ces dont eux ils ont quand
+même passé 2 ans et demi à développer
+bonjour le bonjour la validation de 0 à
+ils ont passé 2 ans et demi à à
+développer ça et puis ils l'ont lancé en
+grande foire avec le maire de San
+Francisco parce qu'en plus ils ont ils
+ont vraiment une chat incroyable quand
+je vois la façon dont ils sont rentrés
+ils m'ont écrit j'aurais dit c'est nul
+votre truc ça m'intéresse pas et ils
+sont venus ici et ils ont ils sont
+rentrés par force par un autre ils sont
+fait acceptter par quelqu'un d'autre
+dans l'équipe et ils sont revenus voir
+ouais mais lui il a dit
+oui donc donc de toute évidence c'est
+des gens qui quand ils veulent quelque
+chose ils le prennent et donc ils ont
+lancé en grand trombe avec le M de San
+Francisco puis ça a pas marché je crois
+qu'ils ont fait je crois qu'ils ont fait
+je sais pas plein de téléchargement le
+premier jour puis rien puis zéro puis et
+puis un jour ils sont dit tiens quand
+même on va demander aux gens qui
+cherchent des places quand est-ce que
+c'est quand le moment où ils cherchent
+une place en fait les gens cherchent une
+place au moment où ils cherchent une
+place et ils sont dit c'est vachement
+intéressant comme data point donc les
+algos prédictifs en fait c'est pas très
+intéressant et alors par contre qui sa
+qui a des places disponibles au moment
+où les gens cherchent des places bah
+tiens c'est c'est les gens qui quittent
+une place les gens qui quittent une
+place bah ils ont une place pour les
+gens qui cherchent une place alors comme
+ils venaient de sortir 2 ans et demi de
+C dans une cave et qui sont plutôt bons
+il sont dit ouais
+ouais là là franchement les gars fait
+chier quoi on va pas on développe rien
+donc ils ont pr ils ont été dans deux
+rues à mission Street mission Street
+c'est l'un des pires quartiers pour se
+garer et notamment parce que c'était le
+quartier où eux vivaient et il passaient
+plus de 45 minutes tous les soirs à
+chercher une place donc il savait à quel
+point c'était emmerdant et ils sont mis
+dans la rue avec leurs potes avec des
+grands panneau achète place pour 5
+dollars et à chaque fois qu'ils
+achetaient une place il notaient vite
+l'adresse sur un panneau et il courait
+dans tout le bloc vend une place à telle
+adresse pour 5
+dollars et donc le mecs venaient filer
+les 5 dollars au type et il reprenaient
+les 5 dollars et ils ont comme ça sur un
+quartier créé un marché de l'échange de
+place ça a été un carton total je crois
+qu'ils ont fait 100 dollar en moins
+d'une demi-heure ce qui dans l'histoire
+des revenus de leur boîte était
+exponentiel
+et à partir de là ils sont dit ouais
+cette app peut être intéressante on va
+la Lancer rue par rue quartier par
+quartier et vous voyez comment ils ont
+fait le passage de 0 à 1 maintenant
+c'est un passage statistique parce que
+maintenant c'est un passage de 1 à n
+maintenant qui maîtrise le business plan
+le problème et le point il faut bâtir
+une entreprise mais c'est plus une
+startup fondamentalement parce ils ont
+vraiment avec une expérience résolue à
+peu près toutes les problématiques qui
+se posaient alors il va y avoir d'autres
+problématiques là il viennent de le
+faire à Paris et ils ont vendu 5 € en 3
+He et donc en fait ils sont remarqué
+qu'en France les gens préféraent tourner
+plutôt que
+payer donc de toute évidence ce n'est
+pas un marché pertinent il repartent
+lancer ça San Francisco mais vous voyez
+ce que c'est le passage de 0 à 1 passage
+de 0 à 1 c'est transformer quelque chose
+un problème les gens ont un problème
+pour trouver une place en une expérience
+qui vous donne une certitude sur le fait
+qu'un mécanisme fonctionne il y a pas
+besoin de Conner dit de les poster parce
+qu'ils sont incroyabl il y a des vidéos
+de qui courent dans la rue comme ça avec
+les panneaux pour pour essayer de choper
+les types et en plus ils ont fait un
+truc génial ils se sont pris en photo à
+chaque fois que quelqu'un trouvait une
+place avec le type ils l'ont posté sur
+Twitter et tout le monde venait se garer
+dans le quartier juste parce que de
+toute évidence il des places et donc
+après ils ont créé un embouteillage et
+cetera donc donc il va falloir qu'ils
+ouvrent plus de rues mais vous voyez le
+point le point c'est que il faut sortir
+du euh du 0 à1 le plus rapidement
+possible alors dans ce passage de de 0 à
+1 il y a une autre question théorique
+fondamentale que que vous devez
+absolument vous poser tout de suite
+c'est votre rapport à la chance et votre
+rapport à la chance des autres l'un des
+trucs les plus toxiques dans le monde de
+l'entrepreneuriat et qui fait qu'on
+lâche le plus c'est
+l'envie il y a des gens qui réussisse
+par chance c'est une
+réalité savoir où est la part de chance
+où est la part
+c'est
+impossible par exemple prenez ce lieu
+c'est de la chance ou du
+talent impossible de savoir de toute
+évidence du talent de la part des gens
+négocié pour pour assurer un propr mais
+il y a quand même partie de chance
+incroyable que ce lieu qui soit parfait
+pour nous et dans notre budget se libère
+une semaine avant qu'on commence à
+chercher donc vous voyez il est
+impossible de distinguer la chance de
+l'effort et et c'est un point sur lequel
+il faut absolument vous soigner c'est le
+point de de l'envie et et à quel point
+dans ce milieu et moi je le vois quand
+on ne réussit pas on finit hyper
+amer parce qu'on voit des gens qui au
+même moment se sont lancés qui ont fait
+des choses moins intelligentes qui
+avaient l'air moins réfléchi qui avait
+l'air moins important et qui font 100
+fois plus de
+résultats la dernière histoire en date
+c'est quand j'ai j'ai eu 50 copains en
+mode psychodrame sur Facebook à cause de
+WhatsApp j'ai j'ai vraiment WhatsApp je
+crois que dans la vallé WhatsApp c'est
+après la mort de Steve Jobs c'est le
+deuxième plus gros traumatisme de
+l'histoire vous avez tous ces types qui
+font qui bossent 15 he par jour à faire
+des trucs hyper importants compliqués
+machin et ils apprennent que les abruti
+qui font un logiciel de SMS qu'ils
+auraient pu coder en 2 semaines vient de
+faire 19
+milliards j'ai je vous dis pas
+l'ambiance j'ai vu des groupes secrets
+sur Facebook dans la vallée de type qui
+faisaent des wine testing depressing où
+il se réunissaient pour picoler ensemble
+et
+oublier c'est un de mes amis qui donc a
+organisé une soirée whisky entre potes
+pour se déprimer sur la futilité
+grandissante de la vallée et le fait que
+le monde occidental allait vers sa perte
+puisque Facebook avait acheté WhatsApp
+et un des types qui était au au truc est
+venu la défoncer et lui a dit mais mec
+ça fait 5 ans que tu nous dis que tu
+fais ta passion c'est le truc le plus
+important dans ta vie que tu as jamais
+été aussi heureux et il suffit qu'un
+type se fasse racheter 19 milliards pour
+que tu sois en colère donc il y a deux
+explications soit ça fait 5 ans que tu
+nous mens soit pendant 5 minutes tu es
+un abruti
+il avait raison et et et le et type a
+posté le blog vraiment c'est c'est assez
+transparent et il dit effectivement ça
+m'a fait du bien qu'on me rappelle ça et
+oui j'aurais jamais passé 5 ans à
+développer sur tous les terminales du
+monde et un truc pour que des gens
+s'envoient des SMS c'est pas un truc qui
+m'aurait plusu et il est là le point le
+point c'est que vous ne pouvez pas
+savoir si vous allez réussir par chance
+ou par talent et et ça fonctionne dans
+les deux sens il y a rien de plus
+insupportable que les gens qui ont
+réussi et qui qui n'attribuent ça qu'à
+leur travail et à leur mérite on est
+dans un pays qui a une obsession
+nationale du Mérite moi moi ça fait 27
+ans que j'essaie de comprendre ce que ça
+veut dire mérite j'ai j'ai toujours pas
+compris est-ce qu'on est-ce qu'on rentre
+dans une grande école par mérite est-ce
+qu'on fonde une boîte par mérite est-ce
+qu'on devient ministre par mérite est-ce
+qu'on devient quoi que ce soit artiste
+par mérite absolument pas est-ce que ça
+veut dire que les gens qu' deviennent
+nonont pas beaucoup travaillé si mais
+des gens qui ont beaucoup travaillé qui
+ne deviennent rien il y en a plus donc
+fondamentalement vous voyez c'est pas
+une cause c'est une corrélation est-ce
+que ça veut dire qu'on peut réussir sans
+travailler oui c'est juste plus
+risqué forcément travailler beaucoup ça
+réduit le taux de risque est-ce qu'on
+arrive à le réduire vers zéro
+non c'est aussi ça le problème problème
+c'est qu'on peut travailler très très
+très très longtemps jamais réussir par
+exemple Mo j'ai un frère aîné qui est un
+qui a un cas extraordinaire de malchance
+il y a deux extrêmes dans la famille il
+y a moi et lui lui c'est l'aîné moi je
+suis le plus petit c'est un type qui a
+un talent incroyable pour les affaires
+mais incroyable je pense bien supérieur
+au mien par plein d'aspects quelqu'un
+qui a quitté l'école il avait 12 ans
+parce que son son père était mort n pas
+le même père il avait 12 ans il parle 16
+langues couramment de toute évidence il
+y avait un certain nombre de trucs il
+jamais eu de chance dans sa vie mais
+c'est mais c'est un truc fabuleux ils
+font d'une première boîte en Afrique il
+a 15 ans à 18 ans il devient
+multimillionnaire Mobutu le VI du pays
+parce qu'il y a un Libanais qui a volé
+Mobutu donc Mobutu exproprie tous les
+Libanais vous imaginez le truc vous avez
+18 ans vous êtes richissime vous devenez
+super pauvre le type part au Paraguay il
+refonde une
+boîte c'est un carton plein la semaine
+où il décide de prendre pour la première
+fois depuis 5 ans un risque avec avec un
+contenur à la douane il y a une greffe
+des
+dockerss non mais c'est il fait faillite
+pour la deuxè fois il il quitte le
+Paraguay il va au Brésil il refait
+fortune pour la troème fois il monte une
+boîte de Télécom dans 15 pays il la
+revend pour 25
+millions il touche la plus-value et là
+il apprend que les règles comptables sur
+les plusvalues ont
+changé et que c'est en cours et
+rétroactivement sa plus-value et imposé
+10 fois ce qu'elle aurait dû être parce
+que c'est une année fiscale
+exceptionnelle pour le
+Brésil et il touche 10 fois moins que
+s'il avait juste attendu 12 mois non
+mais franchement j'en oublie plein
+est-ce que est-ce que à 4 à 51 ans
+est-ce qu'à 51 ans il en a marre ben non
+ils refondent une boîte là et et et je
+le trouve fascinant de ce point de vue
+là j'ai c'est c'est incroyable mais mais
+mais le point c'est est-ce que c'est de
+la chance ou est-ce que c'est est-ce que
+c'est du des skills c'est très dur c'est
+impossible de faire la distinction donc
+essayez de vous libérer dans la mesure
+du possible vis-à-vis des autres vous
+pouvez pas juger la réussite des autres
+la réussite c'est quelque chose de très
+personnel c'est quelque chose de très
+intime et c'est on a tous notre propr
+définition de la
+réussite c'est pas une histoire
+financière c'est pas une histoire c'est
+beaucoup plus compliqué que ça il y a
+des gens il gagnent plusieurs centaines
+de millions ils sont malheureux il y a
+des gens il gagnent quelques millions
+c'est les gens les plus heureux du monde
+donc j'ai pas envie de faire un cour sur
+le bonheur sais même pas ce que ça veut
+dire mais la seule chose que je peux
+vous dire c'est que l'un des
+ralentissements les plus grands et nous
+on le voit dans the family on le voit
+énormément l'un des plus grands
+ralentissements des
+entrepreneurs c'est la jalousie et le
+rapport colérique au
+monde dès que vous commencez à vous dire
+des choses du genre c'est la faute de la
+France parce que c'est compliqué c'est
+la faute de je sais pas qui parce qu'il
+m'a pas donné de l'argent c'est la faute
+des investisseurs parce qu'ils ont rien
+compris à ce que je fais c'est la faute
+de machin même si c'est vrai évidemment
+que des fois c'est la faute des autres
+je suis pas en train de vous dire que ça
+n'est jamais le cas mais même si c'est
+vrai vous devez absolument l'ignorer si
+vous voulez pouvoir continuer à avancer
+parce que vous avez pas assez de place
+pour être en colère et faire une boîte à
+la fois il y a pas la place pour les
+deux
+c'est soit l'un soit
+l'autre et ça ça retombe à une raison
+théorique très importante qui est le
+rapport au futur et que comme le futur
+est complètement imprédictible comme
+vous ne savez jamais ce qui va se passer
+de toute façon espérer le meilleur ça
+reste encore la chose la plus
+rationnelle à
+faire c'est un un autre point là-dessus
+imaginez le nombre de gens qui viennent
+me voir avec des projections financières
+qui se veulent réaliste et ils vous font
+des courbes ridicules en vous expliquant
+que dans 5 ans ils vont gagner 2 ou 3
+millions d'euros par
+an donc c'est des gens qui viennent vous
+dire moi je vais passer 5 ans de ma vie
+pour à la fin ne rien avoir et pouvoir
+me payer à peu près un salaire que je
+pourrais avoir aujourd'hui en allant
+prendre un job à peu près correct vu le
+diplôme que j'ai et quand vous leur
+dites mais mais c'est pas possible
+qu'est-ce qui te prend de mettre des des
+projections pareil vous dises B c'est
+pour être réaliste mais c'est pas ça le
+réalisme ça c'est de la dépression c'est
+pas du réalisme le réalisme c'est de
+venir voir quelqu'un et dire je sais pas
+ce que ce sera dans 5 ans mais je peux
+te dire que je vais faire tous les
+efforts du monde et mettre toute mon
+énergie pour que ce soit quelque chose
+d'incroyable ça c'est du réalisme parce
+que la vérité c'est soit au bout de 2
+ans il y a plus rien soit dans 5 ans il
+y a quelque chose et ce sera quelque
+chose d'intéressant mais personne ne
+survit 5 ans enfin si sous subvention
+oui mais personne personne ne survit
+naturellement 5
+et n'a pas quelque chose
+d'extraordinaire au bout de ces 5 ans
+les courbes elles sont soit comme ça
+soit comme ça il y a pas de milieu il y
+a jamais de milieu et et et c'est ça la
+forme de réalisme par rapport à
+l'entrepreneuriat pourquoi parce que
+fondamentalement le futur est
+imprévisible et et et et
+fondamentalement pourquoi le futur est
+imprévisible parce que c'est ce que je
+vous expliqué lors du premier cours vous
+pouvez produire si vous produisez des
+sociétés scalables vous produirez des
+sociétés exponentielles allez prenons un
+exemple en dehors de l'industrie
+numérique pour une fois prenons
+l'exemple de Subway qui connaît Subway
+non c'était juste pour vous faire tous
+lever la main Subway c'est c'est une
+histoire assez fascinante parce que
+c'est c'est l'histoire d'une d'une
+société qui repose sur une hypothèse
+cachée extrêmement forte et
+importante vous croyez que c'est les
+types qui ont eu l'idée de vendre des
+sandwichs en fait c'est pas du tout
+l'idée de G G qui ont voulu vendre des
+sandwichs c'est l'idée de gens qui ont
+un certain rapport à au marché
+immobilier souvent les sociétés de fast
+food sont des sociétés immobilières mais
+je vous raconterai pourquoi c'est des
+gens qui ont dit c'est un truc assez
+incroyable il existe un rapport linéaire
+entre la taille du restaurant et le prix
+du bail pour avoir ce restaurant qui est
+différent du rapport linéaire qui existe
+entre sa surface je m'explique un
+appartement plus il est grand
+plus son prix en mètre carré
+baisse si les gens qui achetai un
+appartement de 600 m car payer le même
+prix au mère carré que les gens qui
+achètent un appartement de 10 m² il
+paiit sacrément cher en fait au mè Carr
+en général les gens qui achètent des
+appartements de 600 m² il payent 5 à 6
+fois moins que les gens qui achètent 10
+m² pourquoi parce que le marché des
+grands appartements est beaucoup plus
+petit que le marché des tout petits
+appartements où la demande là est super
+forte donc quand la demande est super
+forte le prix par mètre carré monte
+quand la demande est super faible le
+prix par mètre carré baisse dans les
+restaurants c'est
+l'inverse pourquoi parce qu'il faut
+pouvoir le remplir mais il y a un autre
+détail c'est pas simplement parce qu'il
+faut le remplir c'est c'est quoi le cœur
+de value d'un
+restaurant qui a dit la cuisine
+quelqu'un a dit la cuisine ah non j'ai
+rêé ah c'est lui là-bas d'accord et oui
+c'est la cuisine la cuisine c'est un
+coup fixe qui quel que soit la taille du
+restaurant est plus ou moins optimisé
+pour une cuisine donnée vous pouvez
+remplir plus ou moins de couvert donc
+vous essayez toujours de maximiser dans
+la taille d'un restaurant le rapport
+entre la taille de la cuisine et la
+taille du restaurant
+Subway regardez comment est fabriqué un
+Subway il y a pas de cuisine
+elle est là l'idée l'idée de ce Bou
+c'est dire on va aller chercher tous les
+emplacements dans les villes qui sont
+adaptés pour la restauration mais dont
+personne ne veut parce qu'ils sont pas
+rentables parce qu'on va y installer du
+takea et on va l' installer du takea où
+on va fusionner l'espace cuisine et
+l'espace sale puisquon va fusionner le
+service et et la salle et en plus on va
+faire ça sous forme de franchise donc ça
+va seer incroyable
+Subway leur passage de 0 à 1 c'est un
+test à New York où ils ont acheté avec
+un de le potes 10000 dollars un resto
+pour tester ça c'est le passage de
+0 ils ont dit écoute on a besoin de
+10000 dollars pour acheter ce bail dont
+personne ne veut et on installer un
+restaurant alors que tout le monde dit
+que c'est impossible de faire un
+restaurant en T dans un endroit
+pareil le mec a donné 10000 dollars il a
+pris 25 % de Subway
+en échange de ces 10000 dollars 3 ans
+après c'était introduit en bourse à 6
+milliards de valeur je vous laisse
+calculer ils ont jamais levé de fond ils
+n'ont jamais levé de fond après c'est
+que la croissance organique ils ont fait
+des levés de fon oui alors d'ailleurs
+tiens j un petit jeu si vous allez sur
+Internet parce que je sens qu'il y a un
+malin qui va le faire va aller sur
+internet et il va voir lev de fond ce et
+il va voir des chiffres mirobolants et
+va me dire mais non tu vois tu te
+trompes ils ont levé des fonds ben non
+en fait ils ont vendu leurs actions en
+chemin et comme ça se fait pas de dire
+qu'on vend ses actions en chemin on
+appelle ça des levées de fond mais la
+plupart du temps quand vous entendez une
+start-up qui vous explique qu'elle a de
+l'argent qu'elle gagne sa vie et qu'elle
+vient de lever 300 millions de dollars
+comprenez qu'en fait les fondateurs
+viennent de se mettre 300 millions de
+dollars dans la poche et c'est pas une
+levée de fond mais c'est quand même
+beaucoup mieux d'un point de vue de
+presse d'écrire levée de fond que
+d'écrire vente sur les marchés
+secondaires fermons la parenthèse
+donc le le le la vérité c'est que c'est
+que vous êtes face à des sociétés qui
+sont dans des croissances exponentielles
+elles sont pas dans des croissances
+linéaires soit elles ont la formule
+magique et sebway a trouvé une formule
+magique mais elle était pas évidente he
+d'ailleurs c'est très très drôle parce
+que Subway a été cherché un a été
+cherché un ancien de chez McDonald's
+pour lui poser la question donc un
+expert hyper reconnu ils ont été le voir
+ils ont dit ouais on a trouvé ce lieu on
+veut ouvrir un resto le mec a regardé
+les caractéristiques du lieu il a dit
+non c'est impossible de rentabiliser un
+lieu pareil
+c'est il y a des moments dans la vie
+quand on écoute des gens ça imagine le
+nombre de types qui ont eu cette idée
+qui en fait ont écouté le type de
+McDo l'oubliez pas alors que c'était
+juste ouais il fallait avoir les 10000
+dollars pour l'expérience effectivement
+ils ont eu la chance d'avoir un copain
+qui était prêt à tester 10000 dollars
+ils ont été super super vite aujourd'hui
+il y a plus de restaurants ceoué dans le
+monde que de
+McDonald's ouais parce que c'est
+beaucoup plus petit c'est beaucoup plus
+facile à ouvrir et et et malgré un
+chiffre d'affaires qui est à peine le
+tiers du chiffre d'affaires de
+McDonald's ils ont plus de restaurants
+dans le monde que McDonald's mais faire
+un ti du chiffre d'affaires de
+McDonald's dans moins de 7 ans je trouve
+ça dans le genre pas mal quoi c'est
+c'est pas mal comme cour alors en fait
+tout ça j'ai trouvé une façon de
+l'expliquer assez simplement pour vous
+comprendre pour pour pour vous faire
+comprendre ce qu'est le bon rapport au
+futur vs le mauvais rapport au futur
+c'est
+vs visionnaire c'est quoi
+fondamentalement la différence entre un
+prophète et un visionnaire c'est qu'un
+prophète vous explique un futur qui
+n'est pas à l'horizon qu'on ne peut pas
+voir un visionnaire c'est quelqu'un qui
+vous explique quelque chose qui à porté
+de
+vision regardez Steve Jobs est-ce que
+Steve Jobs a déjà parlé de du monde dans
+30 ans 50 ans 100 ans absolument pas par
+contre il a toujours introduit des sauts
+technologiques qui étai dans le
+compréhensible et je p je pense qu' elle
+est là fondamentalement la différence
+c'est qu'un visionnaire c'est quelun qui
+sait que le futur change tous les
+jours tous les jours il y a des nouveaux
+éléments dans le monde et il y a des
+nouveaux éléments qui font que le futur
+a
+changé prenons un exemple l'IMA dont je
+vous parlais c'est c'est dans dans le
+genre chance talent c'est toujours dur
+de savoir bah là ça se
+pose Lima quand ils étaient au camping
+qui raconta le leur idée aux gens les
+gens un étaient mort de
+rire deux il disaient mais je comprends
+pas j'ai
+Dropbox TR il disait mais tu imagines si
+mon disque dur à la maison il se fait
+cambrioler il crame machin qu'est-ce que
+je fais de mes données bla blabla blab
+blaa blab
+bla au moment où ils ont lancé leur
+Kickstarter il y a eu un événement
+imprévisible un Black Swan qui a eu lieu
+qui est Edward
+Snowden den a sorti tous les articles de
+la NSA sur comment la NSA regardait les
+disques durs de Gmail de Dropbox de
+machin ils ont eu 5000 articles dans le
+monde sur liima la solution contre
+prisme 1 mlion2 sur
+Kickstarter combien aurait fait le
+Kickstarter si Edward Snowden n'avait
+pas été
+là c'est un événement
+imprévisible le talent il est pas dans
+le en fait qu'il y a eu et noir Snowden
+à moins que vous soyez capable de monter
+un complot à ce niveau-là mais dans ce
+cas-là vous faites pas l'image je pense
+le talent il est pas dans les noir
+Snowden le talent est de tout de suite
+avoir tilté le lien Edward Snowden
+liimma et de l'avoir envoyé à tous les
+journalistes de la terre il est là le
+talent le talent c'est de comprendre que
+le futur il change tous les jours qu'il
+y a des éléments extérieur qui ont une
+influence sur votre boîte à à la hausse
+comme à la baisse vous voyez c'est
+toujours très tenu c'est toujours
+inexlicable et c'est toujours c'est
+toujours facile d'expliquer les succès
+rétrospectivement mais la pire chose que
+vous puissiez faire c'est prendre les
+succès
+rétrospectivement et essayer d'en tirer
+des leçons pour l'avenir autrement que
+dans des réflexes de pensé et des
+pattern ça c'est le point le plus
+important vous devez absolument être
+driv par
+vous-même vous devez pas faire quelque
+chose parce que c'est quelque chose
+qu'on doit faire
+alors quand on est d par soi-même
+forcément on fait plein d'erreurs mais
+faire plein d'erreurs c'est aussi comme
+ça qu'on en fait moins parce qu'à force
+d'en faire on finit par développer de
+l'intin et tous les gens
+quiintin tous les gens qui ont un talent
+à quelque chose sont des gens qui un
+jour ou l'autre sont plant
+fondamentalement par exemple la fois où
+j'ai rencontré Bill
+Gates désolé les
+gar par exemple la fois où j'ai
+rencontré B Gates c'est l'une des pires
+fois de ma vie c'était au tout début où
+je parlais pour l'une des premières fois
+de ma vie en public j' t'ai invité à une
+conférence à Cann qui n'existe plus elle
+a fait faillite c'est pour ça que tous
+les gens pour chercher le nom de la
+conférence ne l'ont pas trouvé et elle a
+fait faillite à cause de cette édition
+c'est une année j'étais invité à c'est
+pas de ma faute mais vous allez vous
+allez comprendre l'histoire j'étais
+j'été invité à Monaco pardon pas à
+Monaco à Cannes et on me dit voilà c'est
+une conférence incroyable euh tu parles
+juste avant Bill Gates dans la
+conférence et il y a un dîner des
+speakers et on va te mettre à la table
+avec Bill
+Gates et donc j'arrive à ce Dîn j'avais
+jamais parlé en public et je suis arrivé
+sur scène et j'ai eu un un une panique
+énorme énorme j'ai commencé à bégayer
+j'ai commencé à transpirer j'ai commencé
+à être complètement bloqué et ne pas
+pouvoir sortir trois mots et là il y a G
+qui est venu me sauver et qui a pris le
+rest de la conférence et alors pour la
+petite histoire c'est l'année où à Nice
+il y a eu une grève des étudiants à
+l'aéroport et 9 je sa c'était pour le
+CPE non pas le CPE c'était pour je sais
+plus quoi mais il y avait une grève des
+lycé c'est pas CPE c'était après
+et et donc 90 % des gens qui étaient
+invités à la conférence n'ont pas pu
+atterrir à Nice la veille et donc la
+salle était de toute façon
+vide il devait juste avoir et la
+première phrase de Bill Gates sur scène
+ça a été de dire ouais moi j'ai pas eu
+de problème pour venir je suis venu en
+Yot je me suis dit quand même la vie
+l'air cool et donc voilà euh voilà pour
+ma ma rencontre avec B et j'ai eu la
+chance la veille de dîner avec lui au
+dîner des speakers donc vous voyez
+aujourd'hui tout le monde pense que j'ai
+toujours parlé euh en public que j'ai
+toujours fait ça que j'ai toujours aimé
+ça alors que c'est quelque chose que je
+je je détestais
+profondément
+profondément c'est c'est Alice qui m'a
+transformé en en produit
+vivant et parce que alice m'a pas laissé
+choix elle m'a dit non non mais tu
+cherches pas on met une caméra parce que
+au début quand elle m'a dit on va filmer
+les workshops et les mettre en ligne
+vous saz que je n'ai jamais regardé un
+de mes workshops allez je vous fais la
+confissante jamais je ne peux pas c'est
+impossible je serais terrorisé de voir
+mes et cetera mais alors maintenant que
+vous me les avez dit
+déteste mais mais mais mais mais vous
+voyez c'est il a il y a plein de moments
+dans la vie où on sort de sa zone de
+confort et on finit par acérer des
+choses il y a rien d'impossible l'un des
+points fondamentals c'est de vous dire
+mais qu'est-ce que l'État peut faire
+pourquoi pourquoi le futur devrait être
+construit par des
+entrepreneurs pourquoi pourquoi c'est à
+vous de construire l'innovation pourquoi
+c'est à vous d'être les les portes de ça
+et qu'il a pas des organismes bien plus
+puissants et et bien plus larges qui le
+font premier c'est les gouvernements moi
+je suis persuadé d'une chose
+c'estentrepreneurship
+newtics je pense que fondamentalement
+quelqu'un me l'a dit là-bas au fond mais
+mais je pense que c'est vrai je pense
+que fondamentalement c'est plus facile
+de créer une nouvelle offre
+d'éducation
+privéeen étant ministre de l'Éducation
+et je pense que tous les gens qui
+veulent développer des nouvelles l'offre
+d'éducation et dont le premier réflexe
+est d'aller voir le ministre de
+l'Éducation ils ont rien compris à ce
+qui se passait je pense que toute
+personne qui de près ou de loin cherche
+l'aide de l'État pour innover n'a rien
+compris pourquoi parce que
+structurellement le rôle de l'État n'est
+pas d'innover mais de préserver et que
+la seule façon pour qu'un État innove
+c'est que la Révolution a déjà eu lieu
+on n'arrête pas de se plaindre que les
+États sont en retard que les États
+soient lents que les États soient pas
+efficaces et cetera moi je remercier le
+ciel que ce soit le cas vous imaginez un
+timbré dans notre genre qui serait à la
+tête de l'État et qui toutes les
+semaines expériment des trucs en Abé
+pour voir si ça marche ou pas non mais
+vous vous vous vous vous vous rendez
+compte de ce que la plupart beaucoup de
+gens disent oui il faut mettre un
+entrepreneur à la tête de l'État et puis
+quoi
+encore non mais sérieusement vous
+imaginez type alors moi je vais prendre
+une classe d'élèves toi tu seras le
+groupe A puis on va prendre les autres
+élèves en B puis vous on va vous donner
+telle éducation puis vous telle
+éducation puis on verra dans 5 ans
+laquelle marche le mieux et après on
+généralisera et ben non on peut pas
+faire ça pourquoi un entrepreneur peut
+faire ça parce que quand il le fait lui
+il le fait pas sur des classes d'élèves
+à travers le pays il le fait sur les 20
+parents assez cingl pour accepter de
+donner leur gosse en expérimentation
+dans une nouvelle approche d'éducation
+et par définition si les parents sont
+déjà suffisamment ouverts d'esprit pour
+faire ça c'est qu'ils peuvent à peu près
+rattraper si ça marche pas
+bien et c'est peut-être pas plus mal que
+ce soient les gens les plus informés qui
+aillent vers le plus d'expérimentation
+et donc c'est pas plus mal que ça vienne
+du secteur privé plutôt que du secteur
+public alors pourquoi le secteur public
+est obsédé par cette idée que il faut
+adopter ses méthodes il faut réfléchir
+comme ça il faut créer des startups j'en
+sais rien moi et je je sais pas à mon
+avis c'est c'est une fascination qui est
+simplement produit d'un complexe qui est
+le complexe de de ne pas être efficace
+mais je pense pas que opinion très
+personnelle mais je pense pas que le
+rôle d'un état soit efficace je pense
+que rôle d'un état c'est préserver à peu
+près la cohésion et de faire en sorte
+que tout le monde soit à peu près libre
+de pouvoir tester ce qu'il veut tant
+qu'il va pas casser les pieds des autres
+et que quand on le voit sous ce prisme
+là finalement on vit dans un pays qui
+est pas si mal que ça vous imaginez ce
+que c'est faire des affaires en Russie
+ou en Chine
+imaginez-vous vous êtes un matin vous LZ
+là le Black Swan c'est le général du
+coin c'est plus c'est plus Google
+une tempête c'est carrément n'importe
+qui ayant du pouvoir dans dans la
+hiérarchie c'est c'est affreux comme
+environnement pour faire des affaires à
+moins d'être vraiment un très très fin
+politicien et plus être entrepreneur
+mais mais si vous êtes juste
+entrepreneur vous êtes mal barré donc
+l'innovation dans le futur sera donc
+privée alors si on se dit elle est
+privée ce qu'on peut opposer c'est c'est
+pas les start-ups qui vont innover c'est
+les grands groupes et d'ailleurs vous le
+voyez dans la presse les grands groupes
+essaient d'innover font des trucs ils
+font des actions ils font il font des
+speed dating avec les start-up ils font
+ils font des Labs ils font des
+incubateurs ils font des corporê for il
+fond tout ça et puis il y a jamais rien
+qu'en est jamais sorti Ctait moi une
+innovation portée par un grand groupe un
+jour bon on va arrêter là il y en a pas
+c'est normal pourquoi parce que un grand
+groupe c'est comme un état le but du jeu
+c'est de préserver une
+rente je trouve toujours marrant les
+gens qui disent ah ouais mais vous
+devrez risquer des trucs mais enfin par
+exemple un jour Christophe de Marjorie
+m'a expliqué PDG total que j'étais
+mignon avec mes histoires d'innovation
+mais que son bénéfice annuel à lui était
+supérieur au chiffre d'affaires de
+l'uréal et ronpoulin
+réuni je dis oui effectivement vu comme
+ça c'est oui vous avez raison continuez
+à faire la même chose et et et oui
+effectivement la chose la plus
+rationnelle quand vous êtes PDG de Total
+c'est de maintenir votre votre emprise
+et votre empire et il y a rien d'autre
+de rationnel à faire pourquoi vous allez
+mettre à risque votre argent pour pour
+pour de l'innovation ou je sais pas quoi
+et et de toute façon il se dit au pire
+s'il y a vraiment un él un élément
+vraiment qui change la donne dans
+l'énergie bah soit on le rachètera soit
+on passera par la être au sens figuré du
+terme et et et voilà et puis et puis le
+monde continue d'avancer donc forcément
+fondamentalement c'est le rôle des
+startup et j'aimerais vous expliquer
+pourquoi il y a un lien direct entre la
+création du futur et la création d'une
+start-up c'est parce que par définition
+une start-up est
+fragile vous vous pensez tous que la
+fragilité d'une startup c'est ce que
+vous devez cacher et c'est ce que vous
+ne devez pas enten IR pourtant c'est
+votre plus grande force pourquoi parce
+que quand quelque chose est fragile on a
+rien à perdre quand on est une startup
+on est dans une structure mentale très
+particulière qui est que on peut se
+tromper un million de fois il suffit
+d'avoir raison une fois pour ne plus
+être une
+startup et une fois qu'on a eu raison
+une fois on est dans le raisonnement
+inverse qui est qu'il faut avoir raison
+tout le temps et T le moins de fois
+possible parce que sinon on perd ce
+qu'on a gagné vous voyez ce qui une
+grande entreprise une grande entreprise
+c'est quelque chose qui a tout à perdre
+une startup c'est une institution
+sociale qui a tout à gagner et c'est
+pour ça que les startups sont tellement
+dangereuses pour les
+entreprises parce que fondamentalement
+une entreprise elle a tout à perdre
+alors qu'une
+startup
+rien moi j'ai souvent ces discussions
+sur la
+marque le législatif le machin je sais
+pas
+quoi vérité c'est qu'il y a rien à
+perdre regardez TV Showtime et je sais
+pas si vous connaissez TV Showtime mais
+mais TV Showtime est en train de de
+permettre à n'importe qui de streamer
+illégalement des films sur leur
+plateforme qu'est-ce qu'ils ont à perdre
+ils on rien à perdre au pire ils auront
+juste perdu l'argent que les
+investisseurs ont mis chez eux c'est
+même pas l'URE et et désolé d'être aussi
+dur mais pourquoi pourquoi c'est cette
+attitude mentale que vous devez avoir
+vis-à-vis de l'argent de vos
+investisseurs
+parce que c'est cette attitude mentale
+que vous devez avoir puisqu'ils ont pris
+une part chez
+vous les les gens qui vous ont donné de
+l'argent ils vous l'ont pas donner
+gratuitement tous ces entrepreneurs qui
+sont dans une dans une politique de se
+dire ah faut que je fasse attention il y
+a des gens qui ont investi chez moi
+machin non mais attendez si vous ratez
+ils ont rien mais si vous si vous gagnez
+ils ont
+beaucoup c'est pour ça que plutôt que
+passer 100 ans à négocier les Valot et à
+et à vouloir faire a monter prix soyez
+plus làdessus et soyez plus soyez plus
+dans le risque est-ce que tu as le même
+raisonnement avec le Love Money je dis
+encore plus si le Love Money il y a le
+mot LOVE dedans c'est pas pour rien si
+les gens qui vous donnent du Love Money
+vous en veulent de le perdre ils vous
+ont juste prouvé qu'il vous aiment pas
+et c'est bien passer à autre chose dans
+votre vie de toute évidence des gens qui
+vous aiment pas mais et après par contre
+la pire chose à faire c'est de prendre
+du Love Money à des gens en leur disant
+que c'est sûr ça ça c'est une autre
+responsabilité tous les gens qui ont
+investi dans the family on leur fait on
+leur dit toujours que leur argent est
+perdu on les regarde dans les yeux on le
+dit ton argent est perdu tu es sûr que
+tu veux
+mettre tu es sûr
+et il y a plus de complexe après si on
+doit remettre 10 fois à risque the
+family pour changer 10 fois de taille on
+le fera il y a pas y a pas d'enjeu à ce
+niveau voilà le seul enjeu il est
+ailleurs l'enjeu c'est de sortir de ce 0
+à1 le plus rapidement possible et faire
+des choses fondamentales si prendre de
+l'argent te ralenti au lieu de
+t'accélérer ne le prends pas si et moi
+je comprends par
+exemple par exemple ma famille a voulu
+investir dans une family j'ai j'ai crié
+des grands dieux et je leur ai dit non
+parce que je sais très bien que c'est
+parce qu'ils espèrent avoir un retour je
+leur aurais dit mais vous inquiétez pas
+je vous filerai mon argent je m'en fous
+de toute façon de mon argent c'est ma
+famille c'est pas donc donc le le le le
+le surtout ne prenez pas de l'argent de
+cette façon et essayez essayez de ne
+prendre que de l'argent qui vous donne
+des ailes comme Red Bull ne prenez ne
+prenez pas de l'argent qui vous ralenti
+ne prenez pas de l'argent qui vous pèse
+ne prenez pas de l'argent qui vous
+empêche de rester un entrepreneur et
+tout investisseur qui a le malheur de
+vous dire alors ça c'est un truc moi je
+l'entends très souvent si des gens
+viennent vous voir et vous disent oui
+c'est nous qui avons mis de l'argent
+c'est nous qui prenons des
+risques vous leur rappelez
+qu'effectivement c'est le cas et que
+c'est pour ça qu'ils ont une part du
+capital et pas un taux
+d'intérêt faut quand même pas oublier
+pourquoi les choses ont été créées si
+les gens ne prenaient pas de risque on
+leur prait un taux d'intérêt et on leur
+rendrait l'argent et on récupérait notre
+liberté s'ils prennent une part du
+capital c'est parce que
+fondamentalement ils ont un rendement
+qui est bien supérieur à au rendement
+légitime qu'ils auraient dû avoir pour
+leur travail parce que un une autre des
+grandes blagues c'est quand les
+investisseurs vous disent je vais être à
+tes côtés je vais travailler avec toi je
+vais t'aideri chaque fois qu'un type me
+dit ça je lu dis c'est quand la dernière
+fois que tu étais avec un entrepreneur à
+8h du matin au bureau aucun investisseur
+censé sur terre ne prendre rendez-vous
+avant 10h les mecs dorment enfin faut
+pas croire c'est ils ont une vie
+infiniment plus agréable que vous c'est
+d'ailleurs c'est pour ça que j'adore
+notre investisseur
+index une fois index il disait on est en
+train TR de dîner ensemble je dis ah
+c'est pas trop dur quand même vous venez
+de faire un Paris énorme sur la boîte et
+cetera d tu sais on a un bon salaire on
+dort bien c'est quand même beaucoup plus
+agréable que d'être de l'autre côté hein
+au pire bon il perdent de l'argent mais
+qu'est-ce que tu veux que je te dise
+s'il gagne on va tellement gagner que et
+en N aayant rien fait et là je me suis
+dit c'est vraiment le meilleur
+investisseur d'Europe c'est une
+honnêteté intellectuelle incroyable tous
+ces gens qui viennent vous expliquer que
+le succès des boîtes et grâce à eux
+alors qu'ils sont qu'il travaillent pas
+dedans c'est c'est
+alors justement parlons de ces histoires
+de risque le risque dans tout ça c'est
+que finalement vous prenez très très
+très peu de
+risque le seul risque réel qu'un
+entrepreneur de nos jours
+prend c'est celui de perdre son temps
+qui un risque amer mais qui pas un
+risque terrible
+alors modulo mine de rien le fait que
+certains d'entre vous ont une famille
+certains d'entre vous ont une perte
+financière non négligeable mais mais la
+perte financière il faut pas le voir
+comme un risque je
+m'explique quand vous démarrez vous vous
+vous devez vous donner un lapse de temps
+vous devez vous dire pendant les 12
+prochains mois les 18 prochains mois les
+euh 24 prochains mois les 36 prochains
+mois il y a pas de bon lapse de
+temps par exemple quand on a fondé the
+family Alice Nicolas et moi on s'est mis
+à une table et on a dit si dans 6 mois
+on a pas atteint tel et tels objectifs
+on
+arrête et d'ailleurs c'est pire qu'on
+arrête moi j'ai dis moi je retourne
+faire du consulting vachement bien payé
+ça ça m'emmerde tellement de plus
+payer je veux bien j'investis 6 mois si
+dans 6 mois on a atteint no Milestone
+c'est génial et donc on avait un tic tac
+de 6 mois contre la mort pour passer une
+Milestone on l' pass en 4 semaines coup
+de chance donc au bout de 4 semaines on
+s'est dit ok on se donne jusqu'à fin
+décembre et maintenant fin décembre on
+aura atteint tel Milestone on l'a
+atteint en septembre est-ce que là on a
+arrêté de raisonner comme ça non pas du
+tout on a dit on St jusqu'en février
+alors là on l'a passé avec une semaine
+de retard la mystone on l' passé et
+maintenant on se dit on se donne jusqu'à
+là maintenant on se dit on se donne 2
+ans et vous
+de
+raisonner la façon de raisonner c'est
+que vous ne pouvez pas vous lancer dans
+un projet en espérant qu' réussiss si
+vous vous dites je prends un risque
+financier de X avec comme espoir que ça
+va me rapporter y dans 18 mois et que ça
+va rembourser X vous faites le mauvais
+investissement c'est pas comme ça qu'on
+investit la façon qu'on investit c'est
+la suivante c'est vous dites
+je je je perds
+x je perds x perdu c'est peut-être 6
+mois de vie 10 mois de vie 15 mois de
+vie 24 mois de vie vous êtes plus ou
+moins rich et vous êtes plus ou moins
+inégalitaire sur C sujet là mais vous
+dites je les
+perd et entreetemps vous gagnez quelque
+chose dans ce lapse de temps et si vous
+estimez que ce que vous avez gagné est
+supérieur à la perte alors vous
+continuez
+par exemple pourquoi moi j'avais dit 6
+mois parce que je me suis dit que la
+valeur financière de pas avoir de
+salaire pendant 6
+mois et de de pas gagner des Consulting
+fe honteux pendant 6 mois serait
+compensé par le fait d'avoir bâti une
+organisation qui avait atteint telle
+métrique et que si ça me coûtait juste
+ça si aujourd'hui je pouvais payer en me
+disant je paye cette somme et j'ai tout
+de suite ce résultat là je l'aurais
+fait et c'est comme ça que j'ai défini
+les 6 mois et
+7 ça me paraissait trop
+cher et et vous voyez comment avoir un
+rapport au risque sain on narrête pas de
+raconter que c'est la prise de risque le
+fondement de l'entrepreneuriat que que
+les mecs ils ont été all in que je sais
+pas quoi puis à chaque fois que vous
+rencontrez un type vous rencontrez que
+les types en fait sont hyper rationnels
+hyper averse au
+risque hyper averse au risque mais qui
+sont capables à des moments donnés de
+faire all in sur des choses hyper
+précises pourquoi parce que ils disent
+je suis prêt à perdre à ce
+moment-là ils disent pas il faut
+absolument que je gagne donc vous voyez
+c'est c'est un rapport très différent en
+risque les entrepreneurs ne prennent pas
+de risque financier c'est absurde on n
+plus au 19e siècle on n plus au temps de
+Balzac où mettait sa maison en gage et
+et le type venait nous prendre tous nos
+biens sur 10 générations ça n'existe
+plus ça aujourd'hui le seul risque qu'on
+prend c'est un risque de temps et un
+risque de d'absence de gain donc évaluez
+cette absence de gain pour pas vous
+mettre et notamment faites attention
+avec vos
+carrières ça va vous paraître étonnant
+ce que je vais dire là vous avez vou
+dire mais en fait il il est il
+est très très tradit en fait ce garçon
+mais je vais vous dire quelque chose vos
+carrières si vous rentrez dans le chemin
+entrepreneurial elles sont à
+risque ce n'est pas neutre en France que
+de se lancer dans
+l'entrepreneuriat donc il y a il y a des
+moments assez clés pour se lancer dans
+l'entrepreneuriat il y a il y a moins de
+moins de 25 ans parce qu'à moins de 25
+ans si vous vous lancez personne ne le
+saura que vous vous êtes lancé s'il y a
+un problème
+commencer sa carrière à 23 24 25 ou 26
+ans ça change pas grand-chose c'est
+comme faire un tour du monde personne n
+eu sa carrière mis en danger parce qu'il
+a pris un an sabbatique à C ge
+là deuxième moment c'est juste juste
+avant avant la conquête de la hiérarchie
+entre 30 35 ans 35 40 ans c'est
+terrible faut faut savoir que 80 % de la
+fortune des gens est bâti en entre leur
+36e année et leur 45e année c'est le
+décile de construction d'argent dans une
+carrière parce que en général c'est le
+moment où on commence à vous proposer
+des postes où vous avez des taux
+d'épargne élevés réfléchissez-y à 10
+fois avant de mettre ça à risque sous
+prétexte de vous lancer pour quelque
+chose je suis pas en train de dire de ne
+pas le faire je suis juste en train de
+vous dire calculer le coût et dites-vous
+est-ce que est-ce que ce coût là que je
+suis en train de mettre sur la table si
+c'était quelqu'un d' ur qui venait qui
+me propos ce projet est-ce que je serais
+prêt à l'acheter à ce prix là parce que
+souvent vous vous vous dites ça me coûte
+rien je touche le chômage pendant 18
+mois et je le fais pendant 18 mois SAF
+quelle est la probabilité que dans 18
+mois vous retrouvenz du travail après un
+échec
+elle est plus ou moins élevée c'est pour
+ça qu'il a deux façons d'être
+entrepreneur soit vous faites un choix
+fondamental qui est de vous dire je me
+bâtis une carrière
+d'entrepreneur et une carrière
+entrepreneur ça veut dire qu'on se bâtit
+un CV d'entrepreneur ça veut dire que ce
+qui compte c'est pas de réussir sa boîte
+ou pas ce qui compte c'est d'être
+glorieux ipios est le pire four du monde
+c'est une boîte que j'ai créé kata
+astronomique et
+fondamental mais personne ne connaît pas
+ipios dans le milieu même encore
+aujourd'hui là il y avait un cours à
+l'incea la semaine dernière en
+MBA ils ont pris un case d'entreprise
+j'étais mort de rire comme un succès de
+la décennie en autop innovation ils ont
+pris hipios ces
+cons et j'ai un copain qui m'a envoyé la
+photo mort de rire je vais quand même
+écrire au prof pour lui dire qu'il
+apprend des sacré conneries à ses élèves
+c'est le master entrepreneuriat de de
+l'INSEAD 27000 dollars et et et il y a
+une photo de moi dans son
+cours sur regardez le modèle quoi je
+peux vous dire un truc mon expérience
+hipios c'est pas un modèle
+d'entrepreneuriat je pour plein de
+raisons
+donc donc la la la chose qu'il faut
+qu'il faut retenir avec ça c'est que
+faire un investissement
+entrepreneurial c'est prendre un risque
+mais que ça ne doit pas être un risque
+financier vous devez le passer c'est un
+peu comme soffrir des vacances pas un
+risque financier de s'offrir des
+vacances vous vous offrez des vacances
+plus ou moins chères imaginons qu'on
+vous dise vous avez 100 % de votre
+épargne là
+est de X on vous dis pour le montant x
+je te garanti des vacances
+extraordinaires
+incroyable et B la pire chose qui puisse
+arriver c'est que vous payez x croyant
+que les vacances sont géniales et que
+vous finissiez dans un bouiboui pourri
+parce que vous vous êtes fait arnaquer
+et ben c'est ça faire une mauvaise boîte
+c'est signer pour un truc qui devait
+être une aventure incroyable et sous
+prétexte qu'on a eu peur de rater s
+prétexte qu'on a eu peur de pas faire
+les choses machin en plus on a payé des
+vacances mais c'est dans bououi pourri
+parce que parce qu'on sait on s'est
+menti à soi-même on n pas été vérifi les
+avis sur xedia on n pas on n pas fait un
+peu de recherche sur google et cetera
+c'est la même chose si vous partez en
+vacances et que vous mettez tout votre
+épargne dedans vous faites en sorte que
+ce soit des vacances
+inoubliables alors oui vous aurez perdu
+l'argent mais vous aurez gagné plein de
+choses et comment on fait pour que être
+entrepreneur soit pas un risque de
+carrière tout simplement en faisant en
+sorte de le faire avec suffisamment
+d'ambition pour que les gens qui vous
+réembauchent derrière veulent absolument
+vous avoir juste parce que un jour vous
+avez tenté de faire ça et que ça et que
+ça que ça vaille quelque chose je pense
+que si les gens qui savent qu' piosent à
+vraiment raté sont tellement fascinés
+c'est parce qu'il se dit c'est pas
+possible qu'un type un jour ait cru
+qu'un truc pareil pouvait
+marcher et et je pense que ça ça
+impressionne beaucoup de gens
+légitimement
+la vérité c'est que j'étais relativement
+ignorant et que j'avais pas compris
+comment fonctionnait le monde mais mais
+c'est pas mal comme force l'ignorance
+vous pouvez vous pouvez être porter mais
+surtout soyez pas ralentis par de
+mauvaise raisons j'ai trouvé ce ce ce
+petit texte alors j'ai pas mis de qui il
+était ah oui en plus le texte n pas en
+entier mais il explique un truc qui est
+assez amusant c'est que le le le alpha
+serveur 8400 qui était l'ordinateur que
+Google avait dû acheter pour faire
+tourner la première version
+Google et qui leur avait coûté 1 million
+de dollars
+oui c'est ça 1 million de dollars et à
+l'équivalent de puissance d'un iPad
+[Musique]
+Mini vous voyez vous voyez ce qui a
+fondamentalement changé dans le monde et
+un iPhone
+5S est plus puissant
+aujourd'hui que le le cré
+supercuter et le cré supercuter c'est un
+ordinateur qui a été interdit d'être
+vendu à l'export par les États-Unis
+parce qu'il é suffisamment puissant pour
+faire une simulation
+nucléaire et donc ils avaient peur que
+des pays mal faisant l'achètent pour
+mettre au point une bombe atomique donc
+ça veut dire que là si on met en réseau
+tous nos iPhone
+5S on peut chacun construire une bombe
+atomique donc donc vous voyez y a plus
+d'excuses à avoir sur la sur le fait que
+le monde a déjà changé en terme de
+technologie le monde n'est pas en train
+de changer le monde monde a déjà
+changé alors dernier
+point si le futur est quelque chose
+d'imprédictible si le futur ne repose la
+construction du futur ne repose que sur
+votre volonté personnelle et ne repose
+que sur le fait que fondamentalement
+vous arriviez à tenir le choc de
+l'incertitude que vous arriviez à tenir
+suffisamment longtemps et suffisamment
+fort pour croire quelque chose qui n'est
+pas encore ré va devenir réel il y a
+quelque chose qui peut vous aider
+là-dedans c'est le secret alors
+attention le secret c'est pas le fait de
+d'en parler à personne le secret c'est
+quoi c'est de construire la conviction
+profonde que vous savez quelque chose
+pour sûr que personne d'autre ne
+comprend et si vous arrivez à à à
+développer un argumentaire de ce genrelà
+pour votre équipe pour vous pour pour
+les gens qui vous entourent vous allez
+réussir à à faire quelque chose sur le
+très long terme par exemple
+Twitter Twitter c'est une entreprise qui
+pendant très longtemps n'a pas
+fonctionné je sais pas si vous le savez
+mais mais mais Twitter a été l'une des
+pires cat du monde du venture de la
+vallée puisque les gens à l'extérieur de
+Twitter c'était une presse Darling donc
+donc les gens de des relations presse
+faisaient vachement bien leur travail
+mais par contre les gens à l'intérieur
+de Twitter était super inquiet sur le
+fait que Twitter vaille quelque chose ou
+pas mais vraiment inquiet et d'ailleurs
+pour vous donner une petite astuce pour
+apprendre à lire la presse entre les
+lignes quand vous voyez une start-up qui
+a moins de 5 ans et qui change trois
+fois et demi de PDG je dis et demi parce
+qu'il y en a un qui est revenu à moitié
+quand on change trois fois et demi de de
+PDG en moins de 5 ans et qu'on est une
+start-up c'est qu'il y a un problème
+c'est pas que les choses aillent bien
+alors ils ont raconté une histoire
+géniale pour la presse le premier PDG
+c'est celui qui a amené la boîte de
+l'idée jusqu'au produit le 2è PDG il a
+amené le produit jusqu'au marché 3è il a
+amené du marché jusqu'à la croissance
+puis après on a fait revenir le premier
+parce qu'il fallait retravailler sur le
+produit et il y a vraiment que des
+journalistes pour croire des trucs
+pareils enfin c'est c'est toute personne
+à l'intérieur savait qu'il y avait un
+problème
+et c'est à l'introduction en Bourse
+qu'on a appris quel était le secret de
+Twitter secret de Twitter c'est que la
+courbe je vais la dessiner comme ça la
+courbe des inscrits sur Twitter faisait
+un truc dans ce genre-là une très très
+très très très belle exponentielle
+magnifique d'illeurs avant Pinterest la
+plus belle exponentielle jamais constaté
+dans l'histoire du web puisque Twitter
+et le taux de viralité le plus important
+c'est c'est c'est la boîte qui a mis le
+moins de temps dans l'histoire à
+atteindre les 100 millions d'inscrits
+avant que Pinterest existe donc vous
+avez une boîte comme ça et le nombre
+d'utilisateurs actifs faisait ça c'était
+une
+ligne alors pas tout à fait une ligne
+mais mais une ligne pourquoi parce que
+Twitter perdait 98 % des gens qui
+s'inscrivaient parce qu'ils comprenaient
+pas à quoi ça
+servait et pendant des
+années jusqu'à un jour où pour la petite
+anecdote il y a il y a un il y a un
+ingénieur chez Twitter qui a eu un
+moment Eureka il s'est dit tiens on va
+on va on va isoler le groupe des gens
+qui euh qui sont intéressants parce
+qu'ils utilisent Twitter et on va les
+analyser un par un et il s'est rendu
+compte d'un truc assez magique c'est que
+personne dans ses utilisateurs actifs ne
+tweetit alors là ça a été une révolution
+chez Twitter Twitter a découvert que le
+but du monde de Twitter n'était pas de
+faire tweeter la planète entière mais de
+mettre à disposition de la planète
+entière les meilleurs
+tweet et d'ailleurs si vous regardez le
+design de la nouvelle version Twitter le
+fait de tweeter est relativement caché
+alors que le fait de follower des gens
+lui est en avant et cetera et donc ils
+ont pu s'inttroduire en bourse
+puisqu'ils ont en moins de 2 ans gagné
+je crois plus de 50 % des utilisateurs
+actifes
+journalièrement ils ont rattrapé ils ont
+ils ont fait de la nécromancie puisquils
+ont pris le cimetière des gens inactif
+et il les ont
+ressuscité et en fait la question c'est
+com comment vous faites pour tenir 7 ans
+avec une situation aussi catastrophique
+et ben c'est parce que Twitter avait un
+secret c'est que Twitter croyait
+fondamentalement dans sa mission
+d'amener l'information en temps réel aux
+gens et que l'avenir de l'information
+était le temps réel il savaiit pas
+comment il savaient pas où ils savaient
+pas pourquoi mais fondamentalement ils
+étaient persuadés mais quand je dis
+persuadés c'était une religion à tel
+point que tous les gens qui allaient
+chez Twitter Vorti en se disant mais ces
+types sont rencontré l'ingénieur qui a
+trouvé le truc là sur Twitter il
+s'appelle John Adams comme le célèbre
+président des États-Unis cétait c'était
+légendaire qu'un type avec un nom pareil
+trouve la solution pour Twitter il ont
+quand même donné 76 millions de dollars
+pour cette découverte c'est pour vous
+dire l'importance qu'ils accorde au fait
+que que les utilisateurs soient actifs
+et John Adams à l'époque où je l'avais
+rencontré j'avais passé 2 heures avec
+lui Twitter c'était 2 ans et demi avant
+kco et le mec me racontait Twitter va
+changer le monde et moi j'étais là mais
+mais mec c'est 140 caractères enfin mais
+de quoi tu me parles dit ouais mais un
+jour tout le monde
+tweettera euh ouais non je pense pas
+mais si si un jour tout le monde
+tweetera ben non mais bon si tout le
+monde tweet pas de toute façon on
+tweetera bon d'accord et et j'en suis
+ressorti avec un avec un avec une idée
+super bizarre sur Twitter d'ailleurs
+vous vous avez qu'à voir à quel point je
+suis actif sur Twitter en terme de tweet
+ça vous donnera mon goût du produit quoi
+mais mais en fait parce qu'ils ont ils
+ont compris que leur valeur est ailleurs
+et maintenant d'ailleurs Twitter la
+solution toute bête qu'ils ont c'est
+qu'ils ont une équipe de 30 personnes
+dont le seul boulot est d'aller
+rencontrer les gens les plus stylés du
+monde Barack Obama Kenny West je sais
+pas qui et de leur expliquer comment
+Twitter marche de les aider à tweeter et
+ça s'appelle VIP writer à Twitter et et
+de faire en sorte que les 1 % de gens
+les plus intéressants du monde tweet
+pour les 99 % des gens qui lisent et et
+c'est pas mal en fait comme résolution
+de problème voyez qu'il y avait pas
+besoin de se poser des questions ce
+qu'elle est fallit ce qu'elle est la
+lecture pas ce qu'elle est
+l'écriture donc c'est ça que je veux
+dire par un secret un secret c'est
+développer quelque chose qu'on sait être
+vrai et on le sait en avance pour une
+raison inconnue et c'est indestructible
+c'estàd que personne n'a de doute dans
+l'équipe personne chez twitter n'a
+jamais flanché enfin quand je dis
+personne c'est statistiquement parlant
+il y a peut-être 10 % des gens qui ont
+flanché qui ont démissionné mais mais le
+corps solide des gens qui étaient là
+était incroyaableement
+dans cette dans cette logique là alors
+je va je va finir très rapidement je su
+un peu en
+retard grandes tendances du futur qui
+sont en train d'être cré au présent et
+si ça peut vous inspirer des idées ce
+serait génial la première c'est le
+Bitcoin alors question sérieuse
+sérieusement qui connaî le
+Bitcoin ok qui serurait m'expliquer le
+protocole Bitcoin
+ok ben là vous voyez vous avez le futur
+en cours de construction on est tous en
+train d'entendre parler d'un truc on
+sait pas vraiment ce que c'est même les
+gens qu' fabriquent ont des doutes
+fondamentaux sur ce que c'est euh il y a
+des gens qui disent que c'est une
+monnaie il y a des gens qui disent que
+c'est une valeur de réserve il y a des
+gens qui disent que ce qui est important
+c'est le protocole il y a des gens qui
+disent que je sais pas quoi que le
+Bitcoin c'est une invention des aliens
+serpents qui veulent contrôler le monde
+mais mais mais tout ça en fait montre
+qu'il se passe quelque chose on sais pas
+quoi mais les gens qui sont dans cette
+industrie ont un secret il ils sont
+persuadés de choses que nous on comprend
+pas par exemple l'un des secrets
+fondamentaux de la plupart des gens qui
+font des boîtes dans les Bitcoin
+actuellement et que l'État est une forme
+sociale qui va
+disparaître forcément si vous pensez que
+le Bitcoin est la monnaie du futur c'est
+que vous pensez que l'État est une forme
+sociale qui va devenir de plus en plus
+faible et qui donc va finir par perdre
+cette mission fondamentale qui était
+l'émission et la production de monnaie
+c'est fort comme secret un c'est un
+fondement politique parce que c'est très
+libertarien y a il y a 60 ans de théorie
+derrière cette idée c'est Robert nozic
+c'est les anarchistes c'est les
+libertaires et tout ça est incarné dans
+un protocole et une techno à un
+instant je vais pas vous expliquer ce
+que c'est vous avez tous levé la main
+mais mais regardez explorer le Bitcoin
+parce que il y a forcément des choses
+qui vont se faire et d'ailleurs entre
+nous
+aujourd'hui moi si je devais fonder une
+boîte dans le Bitcoin je fonderai pas
+une boîte dans le Bitcoin je trouverais
+quelqu'un qui est en train de fonder une
+boîte dans Bitcoin et je
+l'aiderai et je me mettrai en quête d'un
+d'un geek extraordinaire qui toute
+évidence ne comprend pas autre chose que
+le protocole et j'essaierai de de lui
+apporter autre chose et une
+complémentarité croyez pas qu'il y a
+besoin d'avoir les idées pour devenir
+incroyable être le numéro 2 de d'une
+boîte très très grand succès c'est
+vachement mieux que être numéro un d'un
+truc dont personne n'a jamais entendu
+parler alors l'expérience à au service
+il y a des gens qui avaient vu les
+slides la semaine dernière c'était à la
+fin de mes slides j'avais oublié que
+j'avais mis mon brouillon dedans qui se
+sont dit mais comment va il se met en me
+disant mais c'est quoi l'expérience à
+the service alors l'expérience à the
+service c'est tous les gens qui dans
+cette pièce veulent lancer des
+restaurants des spas des hôtels des euh
+je sais pas euh
+des services de limau des gens qui
+nettoient à la maison tout tout ce qui
+est autour de
+l'expérience physique d'un service il va
+se passer quelque chose c'est que petit
+à petit les gens vont être de plus en
+plus demandeurs d'immédiateté et vont
+être de plus en plus demandeurs
+d'infrastructure d'expression de cette
+immédiateté c'est évident il y a
+qu'avoir uber pourquoi les gens prennent
+uber ils prennent uber parce que
+l'expérience elle est full stack
+c'est-à-dire que vous n'avez pas besoin
+de réfléchir sur la commande vous avez
+pas besoin de réfléchir sur le paiement
+vous avez pas besoin de réfléchir sur le
+chauffeur vous avez pas besoin de
+réfléchir sur le trajet tout ça est
+intégré dans une expérience
+unique si vous regardez du point de vue
+consommateur
+uber leur consommateur c'est vous moi
+quand on appelle un
+uber
+mais c'est pas ça qui est intéressant
+c'est de comprendre ce qui est
+fondamentalement uber pour leur clients
+c'est qui les clients du
+beur c'est les
+chauffeurs ce que vous vous ne voyez pas
+ou que vous voyez peut-être pardon si
+vous le voyez mais ce qu'il y a à voir
+ce qu'il y a à voir c'est que uber est
+une expérience incroyable pour fournir
+des clients à des gens qui en sont en
+manque c'est-à-dire tous ces chauffeurs
+qui allent avec des panneaux de
+limousine chercher des gens à l'aéroport
+et qui n'ont plus personne parce que les
+entreprises ne payent plus ça et donc
+qu'est-ce que uber fournit elle en
+fournit
+l'infrastructure pour vérifier que dans
+un réseau donné tout le monde fournit un
+service de qualité énorme aucun
+chauffeur ne peut avoir moins de 4.5 de
+moyenne aucun chauffeur peut refuser
+plus de 80%
+aucun chauffeur peut refuser plus de 20
+% des courses faut qu'il a un taux
+d'acceptation de 80 des courses qu'on
+lui offre 80
+% mais en échange de ça il vous
+fournissent des clients il vous
+fournissent un système de paiement ils
+vous fournissent une infrastructure il
+vous fournissent une
+marque donc vous voyez comme c'est
+incroyable ce qu'il y a autour de ce que
+uber fournit il y a pas de doute sur
+celui qui paye il y a aucun doute tu dis
+à des gens je t'amène d'un point A un
+point B pour un prix c'est intégré et
+que je mets suffisamment de marketing
+derrière tu doutes bien que des gens
+vont le prendre mais la guerre elle est
+pas là la guerre elle est est-ce que je
+maîtrise ou pas l'approvisionnement en
+chauffeur parce que si tu as pas de
+chauffeur en face tu redeviens une
+société de taxi c'est quoi
+fondamentalement le problème des taxis
+c'est qu'il y a une offre et une demande
+qui est qui est
+bouleversée d'ailleurs 80 % des dépenses
+technologiques du beurre c'est les
+algorithmes prédictifs de réservation
+pour savoir où mettre quel chauffeur à
+quel endroit en fonction de l'offre et
+de la demande et en fonction de la
+saisonnalité annuelle de l'offre et la
+demande par exemple à la Fashion Week
+ils offrent des des bonus incroyables
+parce qu'ils savent qu'il y a un pic de
+demande et ils veulent pas que qui que
+ce soit à la Fashion Week ne reçoivent
+pas de de de de chauffeur et de
+taxi alors l'éducation je sais qu' en
+certain nombre d'entre vous veulent se
+lancer sur ce sujet c'est un marché
+incroyable que ce soit en France ou à
+l'international et éduquer les gens n'a
+jamais été une opportunité aussi grande
+et éduquer les gens n'a jamais été aussi
+compliqué j'aimerais juste vous faire
+réfléchir sur un petit secret que j'ai
+sur ce marché là pour serra 70 % de
+leurs utilisateurs ou 75 % de leurs
+utilisateurs vivent dans le ti monde
+coursera c'est les cours diviv leag
+diffusés dans le monde entier
+gratuitement 75 % des utilisateurs de
+coursera vivent dans le tier monde et
+sur la moitié de ces 75 % la moitié la
+moitié de ces 75 % a moins de 18 ans
+réfléchissez à ce que ça veut dire pour
+l'avenir de l'éducation c'est qu'en ce
+moment dans le monde il y a des millions
+d'enfants dans des pays émergents et des
+pays du tiers monde qui sont en train de
+recevoir une éducation digne de Harvard
+yel Stanford
+Princeton alors qu'ils ont pas encore 18
+ans plutôt que s'ennuyer sur les bandes
+d'un lycée d'élite à préparer leur bac
+pour rentrer à
+Polytechnique entre les deux il y avoir
+une différence fondamentale et en plus
+ces gensl comme ils vont avoir des
+diplômes qui ne seront reconnus par
+aucune institution dans le monde ils
+auront une une seule opportunité c'est
+de devenir
+entrepreneur là il y a quelque chose je
+sais pas quoi mais il y a quelque chose
+à capter c'est évident et il y a quelque
+chose à capter non seulement dans les
+pays du tiermonde mais il y a quelque
+chose à capter dans nos pays
+industrialisés pour pouvoir se préparer
+à la concurrence que ces paysl vont
+représenter c'est
+évident sans parler de la frustration
+alors je sais pas qui a des enfant ici
+mais moi c'est une expérience que j'ai
+vécu de mettre un enfant dans une école
+dans niveau angoisse de de choisir ce
+qu' enfin ce qu'il faut choisir comme
+école et cetera ça se pose là enfin
+c'est c'est extrêmement prenant
+l'angoisse de l'éducation des enfants
+parce que d'un côté vous voulez un truc
+qui les marginalise pas alors vous vous
+dites ouais les trucs fondamentalement
+en fait vous moi je l'ai mis dans un
+lycée parisien quoi c'est j'ai honte
+mais mais j'ai pas réfléchi laisser de
+centrev machin mis à côté et et dans le
+même moment je sais qu'il s'y ennuie à
+mort et que il y apprend rien enfin
+parce que parce que fondamentalement
+cette structure dans notre monde ne peut
+plus transmettre quelque chose
+d'intéressant c'est plus possible c'est
+aujourd'hui quand quand vous voyez le
+niveau d'information moyen qu'un enfant
+intelligent a ça fait peur d'ailleurs
+prenez juste une donnée statistique
+tiens un autre secret une donnée
+statistique ça vous verrez comment on
+peut réfléchir à créer des opportunités
+même si je parle pas des marchés qui
+vous
+intéressent si vous prenez tous les
+enfants premiers de la classe dans
+toutes les lycées de France et d'Europe
+et vous les
+interrogez sur est-ce que tu aimes
+l'école ou pas en 1980 les premiers de
+la classe à plus de 99 % adorit l'école
+vous prenez les mêmes pas les mêmes
+premiers de la classe mais vous reprenez
+les premiers de la classe en 2014 sur la
+même étude qui est faite année après
+année vous leur demandez est-ce que tu
+aimes l'école on parle des premiers de
+la classe faut être premier pour être
+interroger ils vous répondent oui à 22 %
+entre 1990 et
+2014 voilà vous voyez vous voyez
+l'opportunité toute évidence d'ailleurs
+il y a un truc qui s'appelle Hugo
+comment ça s'appelle c'est prodigis
+c'est ça non l'autre le
+truc c'estis où tu as des problèmes
+qu'on avait vu
+ensemble comment ah oui brillante.org
+par exemple brillante.org c'est une
+société qui essaie de capter ça elle
+essaie de capter les 1 % d'étudiants les
+plus brillants tous les pays du monde
+sur une plateforme unique et et c'est
+vraiment c'est vraiment incroyable ce
+qu'ils font et alors après vous avez un
+autre problème parce que ça c'est le
+problème disons de ce côté-là mais vous
+imaginez pas si si les premiers de la
+classe ont envie de se jeter par la
+fenêtre je vous laisse imaginer l'état
+du dernier quoi moi qui étais plutôt
+dans cette situation là je peux vous
+dire que c'est une très très grande
+souffrance l'école c'est c'est c'est
+c'est des choses qui peuvent tuer les
+gens sur du très très long terme de de
+rater le leurs études donc a il y a une
+opportunité incroyable dans l'éducation
+la santé évidemment avec tous les
+problèmes réglementaires qu'on connait
+mais forcément il y a beaucoup vous
+savez prenons un problème simple l'accès
+des soins dans les zones où il y a pas
+de médecin les campagnes les zones
+reculées je parle même pas des des pays
+où il y a pas de soins juste si vous
+vivez au fin fond de la Dordogne avoir
+un médecin c'est compliqué hein c'est
+alors qu'est-ce que comment il y a une
+résolution étatique de ce problème
+offrir des primes énormes à des médecins
+étrangers qui s'y installent en général
+les mecs s'y installent un an ils font
+rejeté localement qui
+repartent et puis il y a la solution
+privée il y a bien quelqu'un qui va
+finir par trouver une plateforme ou pour
+90 % des besoins médicaux on arrive à
+parler à un mec par Skype quoi enfin
+j'ai pas l'impression que
+technologiquement ça a l'air d'être faut
+juste trouver la bonne façon de le faire
+faut juste trouver le bon design faut
+juste trouver le le bon segment la bonne
+distribution et
+cetera la finance une opportunité
+extraordinaire la finance c'est le futur
+pendant très longtemps l'argent a été
+capté par les
+banques le monopole des banques est en
+train de disparaître à toute vitesse les
+objets connectés évidemment bon ça je je
+vous en parle pas l'agriculture
+l'agriculture on a de plus en plus de
+gens à nourrir sur terre et on veut les
+nourrir de de mieux en mieux vous savez
+qu'historiquement l'année dernière a été
+l'année où en moyenne le plus de gens
+sur terre de l'histoire ont été mal
+nourris en terme de
+qualité en moyenne en terme de qualité
+on se nourrit beaucoup plus mal
+aujourd'hui qu'on se nourrissait il y a
+60
+ans la quantité de pesticide à exploser
+la trouver des choses qui ne vous
+détruisent pas sur le long terme et
+compliqué et cetera forcément c'est un
+problème que notre génération va
+résoudre on va pas on va pas accepter de
+s'empoisonner avec des produits
+industriels très longtemps encore enfin
+c'est c'est pas le taux d'information
+moyen des gens est trop important pour
+ça évidemment la robotique alors pareil
+si vous êtes pas ingénieur trouvez des
+ingénieurs vraiment vous voulez une
+opportunité incroyable qui qui est sûr
+de rapporter quelque chose allez choper
+dans un labo un roboticien d'exception
+et aidez-le à monter un business là il y
+a des position à prendre en ce moment
+les robots aspirateurs c'est fait mais
+il y en a plein d'autres les robots
+c'est on est en robotique à l'état où on
+était en informatique en
+1976 c'estàd que dans 4 ans il y a un
+Steve Jobs qui va arriver c'est et Steve
+Jobs c'est pas lui il a trouvé un Steve
+vznac noubliez jamais l'histoire réelle
+des choses Steve Jobs version 1 n'est
+pas un visionnaire Steve Jobs version 1
+est juste un type qui convint un autre
+type de faire quelque chose et de le
+vendre c'est un vrai talent de savoir
+vendre les choses et alors pour finir
+l'Internet et j'ai envie de dire
+l'Internet qui conquiert le monde
+c'estàd que vous pouvez penser n'importe
+quelle expérience traditionnel par le
+prisme de l'Internet même un restaurant
+même même un café même un même même je
+sais pas quoi un pressing même je enfin
+il y a pas vous pouvez pas prendre un
+business et pas le voir à travers le
+prisme de l'Internet et voir ce que ça
+donne ça ne veut pas forcément dire le
+mettre sur internet av cette grande mode
+pendant longtemps qui était simplement
+de prendre des business traditionnels et
+mettre sur internet ça marchait pas
+parce qu'internet crée plus de
+contraintes que les business
+traditionnels la vraie opportunité elle
+est pas là la l'opportunité réelle c'est
+de d'utiliser des infrastructures qui
+sont en perdition un peu comme uber a
+fait avec les chauffeurs et de leur
+donner un second souffle et une nouvelle
+vie grâce à
+l'Internet juste un problème comme ça le
+problème des meubles
+surmesure d'un côté vous avez des gens
+qui cherchent de plus en plus de meubles
+surmesure le surmesure c'est une grande
+tendance tous les ans les gens qui font
+du surmesure gagnent plus d'argent que
+que l'année avant parce qu'on a de plus
+en plus une volonté de design
+d'adaptation le nombre de gens ayant du
+goût et et voyant des choses est de plus
+en plus
+élevé d'un côté vous avez ça de l'autre
+côté vous avez les hbénistes et les
+menuisiers qui sont en catastrophe tous
+les ans il y a bien un type qui va finir
+par trouver le uber du
+menuisier forcément je sais pas comment
+ça marche je sais pas comment ça ça se
+produit mais il y a bien un type qui à
+un moment va se dire toute cette
+ressource là on va leur donner une on va
+leur donner une demande qui pour
+l'instant n'est pas pourvu
+[Musique]

@@ -1,0 +1,1461 @@
+c'est au cœur de nos préoccupations
+c'est-à-dire qu'on s'est toujours dit
+euh très bien on prend le sujet le plus
+chiant qui soit et on veut pas le rendre
+juste supportable on veut que ce soit
+génial comme expérience et que ce soit
+vraiment un bon moment genre que tu sois
+content de scanner tes justificatifs
+pour ton comptable tu vois que tu sois
+content de rédiger la facture pour ton
+client le moyen de le rendre génial
+c'est de le rendre vraiment 10 fois plus
+simple 10 fois plus intuitif et 10 fois
+plus gratifiant que en temps
+[Musique]
+normal c'est salut Nico salut ça va ça
+va pas mal je suis très content de te
+recevoir tu es le COO de Shine comme
+comme le voit comme le montre ton pull
+ouais je en
+général Shine donc vous êtes vous vous
+définissez comme le copilote des
+indépendantsou donc concrètement tu as
+tu as accès à une app qui te permet en
+fait de créer ton statut
+auto-entrepreneur et ça te fait des
+rappels pour ta conta ça te permet
+d'avoir un compte en banque sur lequel
+tu peux recevoir ton tes paiements payer
+avec et cetera ça marche bien c'est pas
+ta première boîte vous avez commencé en
+levant des fonds directement vous avez
+levé 3 c'est ça 3 millions 200li8 2lions
+8 ouais raconte comment ça s'est passé
+comment tu créé une boîte quand tu as
+déjà des financements dès le départa
+c'est la troisième boîte que je créé
+avant ça la dernière boîte s'appelait
+prtick c'est une appli qui permet
+d'imprimer les photos depuis son
+smartphone et donc en sortant de ça le
+truc qui était sûr c'est que je voulais
+plus faire de boîte dans la photo parce
+que je m'étais lancé là-dedans au départ
+parce que j'étais passionné de photo et
+et au bout de deux expériences pro
+là-dedans je me suis rendu compte que je
+prenais plus jamais de photo donc ça me
+rendait un peu triste et puis j'avais
+envie de je regardais des sujets dans
+l'assurance et dans le et dans la banque
+qui sont des qui sont des gros sujets
+avec beaucoup d'impact et les
+changements réglementaires et
+technologiques récent ouvrait plein
+d'opportunités et donc j'ai regardé un
+peu ce qui se passait là-dedans et j'ai
+rencontré un peu par hasard mon associé
+pour Shine qui s'appelle Raphaël qu'en
+fait on a connu parce qu'il travaillait
+en freelance chez printi pour faire un
+site web et tout s'est hyper bien passé
+c'est c'est vraiment quelqu'un de
+brillant qui a impressionné tout le
+monde et après 6 mois a bosser un peu
+ensemble on s'est dit qu'on il était
+temps pour nous de Cré une boîte à
+nouveau on a commencé à échanger
+quelques idées donc moi je lui parlais
+de mes idées dans la banque et
+l'assurance et lui il me disait qu'en
+tant qu'indépendant sa grosse grosse
+galère c'était l'admin il était dev donc
+trouver des missions et être bien payé
+Ctait pas le sujet quoi en revanche il a
+passé de semaines à choisir la bonne
+forme juridique eu galérer à trouver un
+comptable galérer à mettre les bonnes
+mentions légales sur les factures gérer
+la TVA enfin tout plein de trucs qui
+font que franchement quand tu es
+indépendant tu es pratiquement en train
+de gérer une boîte et la complexité
+d'une boîte de 10 personnes alors que la
+plupart du temps les gens ont juste
+envie de faire le même métier qu'avant
+mais en direct et vis-àvis d'un client
+plutôt que pour un patron et donc c'est
+comme ça qu' est l'idée de Shine comme
+Copilot administratif et au départ c'est
+ça qu'on a creusé comme idée c'est même
+pour construire ça qu'on a quitté M6 et
+qu'on s'est mis à pleintemps en
+2017tique a été revendu à M6 ou on créé
+en 2013 vendu à M6 en 2014 et donc quand
+on s'est mis à pleintemps en 2017 on a
+commencé à bosser sur ce sujet et on
+s'est rendu compte que pour faire le
+produit qu'on voulait qui était real
+time basé sur des notifications qui
+dépend pendait vraiment de ton activité
+et qui pensait à tout à ta place et
+avant toi d' d' l'idée du copilote on
+avait besoin de l'information financière
+en réelle et et au moment où on s'est
+dit ça on s'est dit bah on va se pluger
+sur un compte bancaire existant des gens
+et on s'est rendu compte que ni en
+passant directement par les banques ni
+en passant direct en passant par les
+intermédiaires type banking Linko et
+tout ça on pouvait avoir vraiment toute
+l'info en temps réel à ce moment-là et
+en plus on s'est rendu compte que la
+plupart des gens étaient très déçus de
+leur compte bancaire et donc c'est là
+qui est venu l'idée de dire bon bah très
+bien faisons un compte pro et
+construisons tout le service autour de
+ça vous vous êtes rendu compte comment
+genre vous avez discuté avec des gens
+dès le départ ou vous avez construit ça
+comment bah en fait on a fait le produit
+qu'on voulait et on s'est dit ok comment
+on fait pour avoir cette info et on nait
+pas de moyen d'avoir cette info autre
+que nous-même le compte bancaire c'était
+quoi le produit de base céit que c'était
+proche de ce qu'on a maintenant sur
+c'est proche de ce qu'on a maintenant
+c'est une appli qui sera bientôt desktop
+aussi mais c'est une appli Mobile au
+départ avec un feed qui te
+dit ta facture vient d'être payée ou
+attention une facture en faudra que tu
+relances la personne
+attention c'est le moment de déclarer ta
+ta CFE ou tes cotisations sociales voilà
+donc par exemple il y a 1500 € sur ton
+compte mais attention il y en a 300 que
+tu dois garder de côté il y en a que
+1200 que tu peux vraiment utiliser des
+choses comme ça et puis un service de
+chat administratif une gestion des reçus
+dans l'application et tout et donc si je
+prends l'exemple des reçus avant ce
+qu'on faisait c'est on paye on garde le
+justificatif on le met de côté dans une
+enveloppe ou dans une boîte à chaussures
+et au bout d'un moment on donne tout ça
+à son comptable qui fait le
+rapprochement les outils un peu plus
+récents c'est j'ai une interface en
+ligne où apparaissent mes relevés une
+fois de temps en temps je sors mon
+enveloppe et et je les upload un par un
+donc je les prends en photo ou je les
+scanne ou j'en sais rien enfin c'est pas
+non plus hyper hyper simple mais au
+moins c'est en ligne ce que nous on
+permet de faire c'est que au moment du
+paiement tu as une notification en temps
+réel et donc au moment où tu as ton reçu
+dans la main tu as la notification qui
+dit tiens prends-le en photo donc juste
+tu as juste à le scanner le prendre en
+photo après c'est enregistré c'est
+rapproché de la dépense dans l'appli et
+ça part automatiquement dans l'export
+pour ton comptable à la fin du mois et
+donc ton ton papier tu as plus besoin de
+garder en fait tu tu tu peux le perdre
+techniquement il faut le garder parce
+que en cas de contrôle il savent pas le
+demander dans les faits c'est assez peu
+demandé et puis surtout pour le coup tu
+peux te contenter de faire un ta plus
+jamais y toucher parce que les gens vont
+pas aller vérifier ça normalement et
+cette pe là cette peine là de la facture
+vous êtes pas les premiers à essayer de
+la
+régler est-ce que est-ce qu'il y avait
+besoin d'avoir tout l'écosystème genre
+le reste autour parce que c'est pas une
+feature intéressante en soi en fait
+genre ça suffit pas alors juste la note
+de frais ça ça peut être une fature ça
+dépend à qui tu le vends mais nous notre
+point de vue c'est de dire que notre
+cible c'est les indépendants et on
+s'occupe que des indépendants et
+l'objectif c'est de faire un produit
+très complet qui sert aux indépendants
+au quotidien dans le dans leurs
+interactions avec tous leurs
+interlocuteurs donc avec les plateformes
+avec leurs comptable avec leurs clients
+pour les factures avec l'État en
+calculant les charges un jour peut-être
+en les déclarant directement depuis
+l'appli si quand les appayis seront
+prêtes pour ça et c'est des projets qui
+sont en cours donc on participe on
+pousse et on aimerait bien que ça se
+passe mais donc nous notre objectif
+c'est d'être au centre de tout ça et de
+faciliter les interactions avec tout le
+monde et généralement le le point commun
+de tous ces interlocuteurs c'est qu'il y
+a un moment un flux financier et donc
+être au centre des flux financiers ça
+Taide être au courant de tout ce qui se
+passe et et le pain des des des reçus
+pour prendre cet exemple là c'est la
+galère numéro 1 des gens quand ils
+interagissent avec leur comptable 80 %
+de tes échanges c'est salut voilà les
+suspens donc voilà ce qui manque comme
+justificatif euh est-ce que tu les as
+quelque part et là ça c'est parti c'est
+de l'archéologie tu commences à chercher
+dans tes mails et tout le fait de le
+régler en TS réel et d'avoir cette notif
+au moment où tu payes ça permet de t'en
+occuper tout de suite ou dans l'heure
+qui suit mais vraiment rapidement et ça
+change tout par rapport à à le faire à
+te mettre dans un mode où bon c'est
+vendredi un prè je vais faire le truc
+chiant voilà nous le pain qu'on adresse
+c'est le moment de la semaine où tu fais
+le truc chiant on veut qu'il y ait plus
+ça on veut que ce soit plus à toi de
+prendre l'initiative de dire je vais
+gérer l'admin on veut que ce soit
+l'admin qui se gère tout seul pour toi
+et et que tu es plus que la dernière
+action qui est oui ben je prends une
+photo et quand j'ai payé et basta tout
+le reste c'est c'est tout ce qui est
+automatisable ça l'est et pour ça il
+nous fallait les notifs et pour avoir
+les notifs en temps réel là-dessus on
+avait pas d'autre solution que de porter
+le compte bancaire nous-même et donc en
+partant du produit on s'est dit ok il y
+a besoin de ça et en discutant avec les
+gens on s'est rendu compte queils
+étaient pas du tout contents de leur
+compte pro qu'il y avait plein
+d'innovations qui avaient été fait sur
+le côté B2C ban B2C avec les un6
+revolute toutes les applis innovantes de
+ce côté-là mais pour les pros penser
+pour les pros il y avait pas grandchose
+quelques projets qui se lançaient qui
+étaient tout jeune il y avait les
+révolut qui commençait à réfléchir des
+trucs business mais mais c'était trop
+tôt pour qu'on puisse construire notre
+produit autour de ça donc on a décidé de
+le faire de manière indépendante donc au
+final vous c'est le produit que vous
+proposez c'est une conséquence du
+problème que vous avez observé chez les
+gens genre à la base le but c'était pas
+de créer forcément un compte bancaire à
+vous et vous avez construit ça quoi
+c'est c'est marrant tu parles du moment
+où tu tu disais après prti j'ai voulu me
+lancer dans un truc avec un un secteur
+où il y a plus d'impact sur la vie des
+gens ça c'est la base de ta réflexion
+genre quand tu veux recréer une boîte
+après une après une exit ta base de
+réflexion c'était je veux ce secteur là
+où tu avais d'autres idées ou ça s'est
+passé comment j'étais pas forcément très
+fermé sur l'idée à part que je voulais
+plus la photo ça oua ça ça j'ai compris
+ça j'avais fait le tour en fait je
+m'étais je m'étais un peu épuisé sur ce
+trucl là et je voyais plus comment
+innover là-dedans et je voyais ce
+secteur énorme où il y avait tant de
+choses à faire tellement de et et oui
+c'est important dans la vie des gens là
+où est ton argent c'est une appli avec
+laquelle tu interagis de manière
+quotidienne qui a de l'impact dans tous
+tes projets pour reprendre un bon
+discours de banquier bonjour quels sont
+vos projets mais c'est mais mais ça
+n'empêche qu'à un moment quand tu fais
+des choses il y a de l'argent qui bouge
+à un moment donné et être au centre de
+tout ça c'est une bonne chose
+intellectuellement ce qu'on fait c'est
+passionnant parce que c'est vraiment à
+la croiser de plein de gros enjeux de
+société on est au cœur de la révolution
+du monde du travail de plus en plus de
+gens qui veulent bosser en freelance de
+plus en plus de gens qui veulent faire
+de la
+plusuréactivité des carrières qui sont
+plus courtes des changements plus
+fréquents et cetera et donc nous on est
+au cœur de ça à la fois à travers le
+service qu'on propose aux gens mais
+aussi en terme d'innovation managériale
+au sein de de la boîte donc ça c'est
+passionnant on est aussi au cœur de
+toute la révolution autour de la gestion
+administrative des boîtes tout qui
+commence à être dématérialisé en temps
+réel qui se simplifie et cetera et au
+cœur de l'évolution des de la finance et
+des produits financiers de la façon dont
+on les distribue aux gens est-ce que
+c'est pas hyper sexy de base genre la
+finance et enfin on parlait de ça avec
+avec un membre de l'équipe hier où on
+disait on adore les entrepreneurs qui
+font des trucs pas sexy à la base et qui
+arrivent à les rendre sexy en fait après
+c'est un truc que vous faites hyper bien
+euh enfin je trouve en terme de marque
+et tout vous avez un il y a il y a un
+vrai truc c'est un truc que vous avez
+travaillé beaucoup ou ouais en tout cas
+c'est au cœur de nos préoccupations
+c'est-à-dire qu'on s'est toujours
+dit très bien on prend le sujet le plus
+chiant qu' soit et on veut pas le rendre
+juste supportable on veut que ce soit
+génial comme expérience euh et que ce
+soit vraiment un bon moment genre que tu
+sois content de scanner tes
+justificatifs pour ton comptable tu vois
+que tu sois content de R la facture pour
+ton client et et le notre moyen
+d'essayer en tout cas c'est ce qu'on
+essaie modestement de faire le moyen de
+le rendre génial c'est de le rendre
+vraiment 10 fois plus simple 10 fois
+plus intuitif et 10 fois plus gratifiant
+que en temps normal et donc ça passe par
+des petits trucs mais il faut vraiment
+s'imaginer ce que ça change en terme de
+perception c'est-à-dire que prenons
+l'exemple de vérifier que tes factures
+sont payées le process normal même si tu
+as QuickBooks même si tu as un truc 100
+% en ligne c'est de te dire bon bah
+c'est vendredi ou c'est samedi j'en sais
+rien quand tu fais ton admin je vais
+regarder où en sont mes enfin je vais
+regarder mon compte et je vais regarder
+où en sont mes factures et jeis regarder
+mes factures je dis bon bah celle-là
+elle a pas été payée celle-là elle est
+payée c'est c'est justifie manque là et
+cetera et donc le fait que ta facture
+été payée en soit c'est simplement une
+non mauvaise nouvelle doncok c'est juste
+ça aurait pu être une mauvaise nouvelle
+bon ben j'ai pas ça à traiter et donc
+c'est dans ton flux de truc ce qui se
+passe avec Shine c'est que à un moment
+random de ta journée tu es en train de
+prendre un café avec des potes et tu
+reçois un texto et ça pourrait être
+n'importe quoi le texto il dit eh tu
+viens de recevoir 5000 €. et donc ça
+c'est potentiellement le texto le plus
+chouette de ta journée même si tu en as
+eu plein de tes pote avant ce Tru là tu
+en auras qu'un et il fait vraiment
+plaisir et et et c'est un peu notre
+façon d'essayer de réenchanter cette
+relation qu'on a avec son son business
+et son activité de dire tout ce qui est
+généralement vu comme quelque chose de
+pénible ennuyeux désagréable et qui est
+simplement une contrainte et une corvée
+on enlève cet aspect purement rébaratif
+pour essayer de ne garder que le le sens
+réel qu'il y a à ces informations là OK
+et et du coup de réenchanter un peu ce
+truc de se dire reprendre prise
+directement avec la valeur qu'à cette
+information là si c'est une bonne
+nouvelle c'est vraiment une bonne
+nouvelle si c'est une si c'est un
+message qui dit attention il faut
+vraiment se dire ouh là attention et
+donc c'est donner du corps à tout ça et
+le fait d'avoir l'INF réel encore une
+fois ça nous aide beaucoup à ça mais ça
+passe par tout le reste ça passe par le
+le branding les design les flows tout
+toute l'expérience qu'on a en utilisant
+chaîne quoi ok il y a enfin je tourne un
+peu autour depuis tout à l'heure sur la
+la génération d'idées sur comment tu es
+arrivé à là parce que j'ai écouté une
+interview de toi l'autre jour et où tu
+disais euh avant ta première boîte tu
+savais que tu voulais entreprendre mais
+tu avais pas d'idée comment tu as réglé
+ce problème là je crois que je l'ai pas
+trop réglé il y a si regarde il y a des
+gens non mais je pense qu'il y a des
+gens qui sont vraiment cablés comme ça
+et qui sont géniaux et qui voient dans
+chaque euh dans chaque événement de leur
+vie quotidienne une opportunité de
+business euh et je pense c'est un grand
+talent quand on est entrepreneur je
+pense que ça fait la la force de plein
+de gens euh et ça c'est pas la mienne
+quand je quand je vois un problème je me
+dis pas ah tiens les gens seront prêt à
+payer pour ça comment comment je peux le
+faire et c'est probablement un défaut et
+je travaille dessus comme tout le monde
+on a on a nos défauts et voilà en
+revanche je pense que ce qu'on a en
+commun dans toute l'équipe Shine
+et pardon et probablement moi aussi à
+mon niveau c'est on a vraiment envie de
+rendre service aux gens et donc on
+a vraiment à cœur de partir des besoins
+des gens et d'essayer de les traquer et
+de les prendre très au sérieux pour que
+ça nous donne des idées de de business
+derrière la plupart les fitures qu'on a
+ou qu'on est en train sur lesquell on
+est en train de travailler elles
+viennent de nos utilisateurs euh on on
+on on croyait absolument à l'idée de ne
+faire qu'une appli Mobile on voulait
+faire que mobile on voulait pas faire
+Desktop et 40 % des utilisateurs nous
+demande le desktop donc on va le faire
+et ça c'est les cas évidents mais de
+manière générale améliorer cette
+remontée d' information c'est ça qui te
+donne qui te donne des idées euh
+probablement que quand on n'est pas un
+génie de la création d'idées et cetera
+le meilleur moyen de compenser ça c'est
+d'être très bon en écoute euh et donc de
+parler beaucoup aux utilisateurs désolé
+hein c'est c'est un peu banal ce que je
+veux dire mais de parlerouisateur de
+leur poser la question dès qu'on veut
+faire un truc donc nous on passe nos
+journées à envoyer des typ form aux gens
+mais vraiment je pense que c'est rare
+quand tu es utilisateur de Shine de pas
+ouvrir ton appli qu' te demande pas ton
+avis sur tel truc sur lequel on bosse de
+classer si c'est des services
+d'assurance lesquels sont importants
+pour toi et
+cetera on demande beaucoup beaucoup
+beaucoup aux gens et on teste beaucoup
+avec eux n nos idées et tout ça et
+l'idée de business pour revenir à
+comment trouver une idée de boîte
+honnêtement quand je me suis dit que
+j'avais en 2016 donc quand je je me suis
+dit que j'allais encore avant envie de
+créer une boîte ça a encore été un grand
+vide quoi et et tu tentends toujours
+parler de ces entrepreneurs qui te
+disent moi j'ai 5000 idées à la minute
+le plus dur ça a été de choisir je vois
+des opportunités partout moi à chaque
+fois que je vois un truc je me dis non
+mais ça on va se planter quoi c'est
+c'est trop gros c'est trop dur il y a
+pas de besoin il y a déjà de la
+concurrence est-ce que vraiment ça fait
+une différence en tout cas j'ai j'ai
+j'ai pas ça en moi CIT l'évidence du
+coup SH c'était l'évidence du non c'est
+parti du besoin de mon associé déjà
+d'une part et
+ensuite on a on pensait ça en parlant à
+beaucoup de gens donc j'ai pris mon
+téléphone j'ai appelé 20 ou 30 freelance
+que j'avais autour de moi ou que j'ai
+ping au pif sur Linkedin j'ai regardé
+freelance salut je peux poser des
+questions j'ai fait une landing page
+j'ai fait des Facebook Ads qui donnaient
+sur cette landing page pour tester
+l'idée pour tester le discours
+commercial pour ensuite on avait
+peut-être 150 inscrits à ce truc qui
+n'existait pas en fait hein c'était
+littéralement bonjour on vend ce service
+bientôt les gens se sont inscrits il y
+avait rien c'est-à-dire que c'était
+juste une ligne dans une base de données
+et ces gens-là on leur envoyé un type
+form en parlant de certaines features
+leur demandant ce qui était important
+pour eux et voilà donc on est vraiment
+parti des gens et on a itéré à partir de
+ça et et et pas forcément à partir de
+nous ensuite on a une équipe qui est
+très créative il y a de plus en plus
+d'idées qui sont générées de trucs qu'on
+a envie de faire et qu'on teste avec les
+gens on attend pas forcément que toutes
+les idées remontent mais mais ouais je
+pense qu'on on compense enfin en tout
+cas moi jeess je
+compense cette sécheresse par la
+richesse de parler à des gens et de
+juste se taire et d'écouter ce qu'ils
+disent quoi il y avait un autre truc
+dans cette même interview auquel je
+auquel je pense euh où tu disais que ça
+t'arrivait de faire des calls à des
+clients pour leur poser des questions et
+où tu te faisais passer pour un un call
+center enfin une boîte d' ouais ou un
+freelance ça ça permet quoi ça de de pas
+être toi-même quand tu appelles la
+personne moi je me comporte de manière
+très normale en dehors de ça en revanche
+la personne ça change complètement le
+regard qu'elle a vis-à-vis de son
+interlocuteur je pense que c'est une
+caractéristique qu'on a en France en
+tout cas où ça m pas son temps à dire
+que c'est très français mais les gens
+vont pas avoir envie de te dire du mal
+et de te blesser et et c'est sûr que
+quand qu tuappelles quelqu'un tu dis
+salut c'est ma boîte le service que tu
+utilises j'ai mis ma vie là-dedans je me
+bats comme un fou est-ce que tu trouves
+que c'est bien tu vois qui va te dire
+non c'est de la merde change tout c'est
+pas possible personne dit ça et je
+caricature un peu mais c'est vraiment ça
+le mécanisme inconscient derrière si tu
+dis que tu es le patron de quelque chose
+les gens vont pas te dire que c'est n Si
+tu dis bonjour je suis très moi je suis
+là pour être objectif on me paye pour
+avoir votre avis soyez le plus honnête
+possible les gens le font et donc après
+quelques calls en en me présentant en
+disant que j'étais l'un des fondateurs
+et tout d'autant plus que souvent les
+gens aiment bien Shine si tu veux donc
+ils ont d'autant plus pas envie de me
+dire du mal quoi et et donc c'est c'est
+biaisé et le truc dont tu as le plus
+besoin c'est d'un avis objectif parce
+que le comportement des gens et quand il
+quand ils sont tout seuls devant lere
+ordinateur il est il est hardcore
+vraiment c'est backspace next je sors de
+ton site et je reviendrai plus jamais
+s'ils sont pas intéressés au bout de 15
+secondes où les gens ils peuvent
+télécharger ton appli jamais s'en servir
+et jamais te dire pourquoi et c'est
+c'est ces gens-là qu'il faut parler
+parce que ils ont fait l'effort ils sont
+venus ils sont inscrit ils ont envoyé
+des documents d'identité pour ouvrir
+leur compte chez toi et maintenant ils
+s'en servent pas euh tu as besoin de
+comprendre ça et et donc le seul moyen
+de le faire c'est de leur demander et de
+poser les questions n'hésitant pas à
+creuser en essayant de vraiment aller au
+bout du truc et c'est plus facile quand
+tu es pas le quand tu es pas directement
+dire de la boîte quoi ouais quand les
+gens peuvent être honnêtes avec toi ou
+alors faut arriver à créer un système
+d'honnêteté avec eux après le départ
+mais c'est compliqué ouais mais il y a
+beaucoup d'humains quoi quand ils
+tombent au téléphone ils ont pas envie
+de te faire du mal et les gens se sont
+et ils ont raison je pense que je ferai
+la même chose si on m'appelait je pense
+que tu as un BIA qui est si tu aimes tu
+as plutôt une opinion positive de
+quelqu'un tu as pas envie de lui faire
+du mal et tu te dis que ne pas aimer
+quelque chose de ce qu'il a fait surtout
+s'il s'est donné du mal ça va lui faire
+du
+mal donc tu le fais pas ou pas assez
+quoi qu entrepreneur c'est un peu être
+masochiste et aller chercher les trucs
+ouais Aubut ouais mais en fait ça fait
+plus très mal au bout d'un moment je
+trouve que je trouve que tu t'y habitues
+et que c'est juste ça devient data point
+quoi ça ça marche pas ça ça marche les
+gens ils aiment bien ils aiment pas en
+multipliant le nombre ouais c'est c'est
+souvent pas des ouais puis c'est souvent
+pas des attaques personnelles dire quand
+les gens te disent c'est génial vos
+factures mais il me faut les de vie et
+tant que vous avez pas les de vie ça me
+sert à rien enfin tu vois il y a pas de
+faut pas le prendre perso faut juste
+faire les devis oui c'est ça c'est ça ce
+truc de dont je parlais tout à l'heure
+de vouloir être entrepreneur quand tu
+étais quand tu étais jeune donc quand tu
+as fini tes études en gros tu t'es dit
+je veux entreprendre direct c ça s'est
+passé comment non
+euh comment ça s'est passé c'est une
+bonne question je pense que j'ai
+toujours eu envie de ça mais que j'ai
+toujours un petit complexe vis-à-vis de
+ça euh d'autant plus que j'ai pas mal
+d'expérience entrepreneuriale dans ma
+famille où les gens ont pas été très
+bons et du coup ça a créé des histoires
+de dett de machin le truc tu as pas
+envie d'avoir ça donc j'ai mis ça un peu
+sous le tapis pendant assez longtemps et
+et donc j'ai commencé dans le conseil
+comme plein de gens donc j'ai commencé
+au BCG je suis pas resté très longtemps
+je peut-être le record d'ailleurs je
+sais pas combien le record 5 mois je
+suis parti ok je j'avais déjà fait un
+stage de 6 mois je suis revenu et je me
+suis dit ok ça allit pour un stage mais
+j'ai pas envie de j'ai pas envie de
+faire ça euh
+ensuite j'ai continué dans le conseil
+mais j'ai fait du conseil en
+développement durable ça me plaisait
+bien parce que c'était plus opérationnel
+j'étais le 8e de l'équipe quand je suis
+arrivé donc c'était plus à ta humaine et
+ça m'allait bien comme comme type de
+rapport au travail eu et ça ça m'a
+plutôt bien plu pendant un an et demi
+mais au bout d'un an et demi ça a resté
+du conseil donc pe tu passais quand même
+ta vie à faire des recommandations que
+tuavais pas la main pour implémenter et
+là j'ai un pote comme j'étais passionné
+de photo qui est venu me parler de son
+idée de de tirage photo et pro là qui
+qui est devenu maillose et et et étant
+photographe amateur je me suis dit ah
+oui il y a carrément un truc à faire
+viens faisonsle ensemble et il m'a dit
+oui et du coup on est parti ensemble et
+et ça a donné ce truc et l'histoire dit
+que du coup c'était effectivement une
+très bonne idée pour les photographes
+mais c'était pas forcément un bon
+produit à vendre et donc les le concours
+photo cartonnit on était je pense on
+était le plus gros concours photo
+d'Europe où pe s'en faut on av beaucoup
+de trafic sur le site et tout mais les
+ventes c'étaaient un peu moyen et un
+jour on a fait une offre de tirage perso
+sur le site euh et ça a fait 30 % du
+chiffre d'affaires du jour au lendemain
+sans qu'on Phe de pub sans rien donc on
+s'est dit bon ok les photos les photos
+d'art c'est bien mais les gens ils ont
+surtout envie d'imprimer leurs propres
+photos et
+donc et donc on a regardé un peu et là
+on s'est dit ok on peut pas repartir de
+ce qu'on a déjà donc on a revendu myos
+et on a lancé prti à part sur la photo
+tu dis que monter une boîte dans la
+photo finalement ça t'a un peu empêché
+de faire de la photo toi-même ça aussi
+c'est un truc qu'on sous-estime souvent
+genre à quel point monte pas une
+Marketplace dans la Food si tu veux
+cuisiner quoi ouais je suis assez
+d'accord
+comment comment comment ça sein comment
+tu as vécu le truc je sais pas si on
+peut le généraliser parce que il y a
+peut-être des gens qui sont faits pour
+bosser dans l'une de leurs passions et
+que ça se passe très bien et et voilà au
+final monter une boîte c'est créer un
+truc plus grand
+que ouais ça a un peu enlevé toute la
+saveur du truc tu fais toujours de la
+photo c'est non plus du tout non
+pratiquement pas non non jamais même mes
+enfants j'ai pris très peu de photos
+donc j'ai plein de beaux appareils
+argentique numérique tout mais ça m'est
+un peu passé je pensais que je m'y
+remettrai plus vite après avoir arrêté
+tout ça mais je sais pas pour l'instant
+c'est pas revenu je vous tiens au
+courant je ferai un tweet si jamais si
+jamais je me remets à faire des photos
+ouais et la finance ça te passionne du
+coup ou c'est un ben ouais c'est juste
+un truc ouais parce que pour d'autres
+raisons c'està-dire que ça n'a pas de
+côté sexy ou qu'urit une chaîne de resto
+je sais pas peut-être une appli sociale
+pour le coup il y a vraiment un intérêt
+intellectuel infini dans ce qu'on fait
+nous ça fait 2 ans qu'on bosse sur le
+sujet et j'ai encore l'impression de
+rien comprendre à la réglementation
+bancaire rien connaître au marché du
+travail comment à toucher du doigt ce
+que c'est que vraiment l'administratif
+mais c'est aussi parce que je suis
+gérant d'une boîte donc voilà mais mais
+j'ai l'impression que c'est sans fin et
+qu'on a fait vraiment un% du chemin de
+ce qu'on peut réaliser là où dans la
+photo j'avais l'impression que c'était
+essentiellement du marketing en tout cas
+sur le tirage en ligne et que il y avait
+quand même une limite à ce qu'on a
+arrivé à inventer en terme de produit en
+terme de process c'était moins
+satisfaisant pour moi aujourd'hui j'ai
+l'impression que le produit qu'on fait
+est vraiment important dans la vie des
+gens enfin tu vois s'il y a un bug dans
+ton appli pancaire c'est pas c'est pas
+bon quoi tu peux pas payer tu es coincé
+au payage tu es donc on doit chercher
+des problèmes à toutes ces choseslà qui
+parfois sont pas très graves et parfois
+sont des vrais sujets pour les gens euh
+il y a aussi la lutte contre la fraude
+qui est qui fait partie de notre
+quotidien et qui a un sujet majeur et
+tout ça ça donne l'impression de faire
+quelque chose qui a du sens et qui aide
+vraiment les gens et ça se traduit dans
+les commentaires qui nous font c'est pas
+moi qui le dis c'est que si tu regardes
+sur Twitter sur l'App Store les
+commentaires des gens ils disent pas ah
+c'est cool ça marche super bien c'est ah
+super vous m'avez beaucoup aidé merci
+d'avoir fait ça j'ai pu me lancer en
+indépendant grâce à vous sans vous je
+sais pas comment je ferai ma déclaration
+enfin on on a vraiment des messages
+comme ça qui viennent du cœur et ça ça
+donne beaucoup de sens à ton boulot et
+là l'autre point commun de tous les gens
+de l'équipe c'est qu'il déteste l'admin
+on déteste on détestai tous ça et il y a
+même plusieurs personnes qui nous ont
+rejoint qui avaient peur de nous
+rejoindre parce qu'ils avaient peur de
+détester ça notamment des gens qui
+bossent sur le contenu qui font des
+articles d'accompagnement
+administratif on va lancer une étude
+hyper complète sur l'analyse des
+différents statuts les avantages et
+inconvénien c'est un truc vraiment
+vraiment pointu eu et au final tout le
+monde y prend goût parce que tu te rends
+compte qu en soirée on te pose une
+question et tu peux aider les gens quoi
+et tu as une réponse à un truc qui
+vraiment est universellement chiant tout
+le monde déteste ça et toi tu peux du
+coup aider énormément de gens sur ce
+sujet-là et et ça ça rend le sujet
+intéressant en fait c'est un truc qui
+est très pénible quand tu le gères pour
+toi tu le vois comme un frein au
+développement de ta
+boîte une contrainte dans ta journée tu
+as l'impression que tu pourrais servir
+tes clients et en fait tu es là en train
+de faire des factures et c'est
+insupportable et c'est vrai et en
+revanche quand tu en fais un problème
+que tu peux résoudre pour plein de gens
+bah du coup ça devient hyper stimulant
+parce que tu vois tous les gens pour qui
+tu rles ce truc très chiant et et c'est
+c'est ça qu'on aime bien je pense que
+c'est ça qui donne le sens dans le
+boulot à pas mal de gens de l'équipe en
+tout cas pour la partie produit il y a
+aussi la façon de ton boss sable et tout
+qui qui a une grande importance mais
+c'est c'est comme c'est pour ça
+qu'intellectuellement c'est satisfaisant
+elle est comment la façon don vous BZ
+ensemble tu as l'air de dire que c'est
+spécial euh ouais en tout cas on essaie
+d'innover on met plein de choses en
+place pour que les gens aiment leur
+boulot que ce soit en tant
+qu'indépendant ou en tant que salarié
+euh de manière générale on essaie de
+donner beaucoup de liberté et beaucoup
+de responsabilité à tout le monde et ça
+passe par pas mal de politiques qu'on a
+mise en place récemment il y a le fait
+que le remote est illimité chez nous le
+fait que il y a très peu de réunions et
+tout est en discussion asynchrone et que
+donc tu peux bosser de n'importe où et
+être quand même dans les projets faire
+avancer les choses et ça va assez loin
+par exemple on a une dizaine de
+personnes de chez nous qui ont loué un
+Airbnb en Bretagne pour bosser une
+semaine et c'était pas une semaine au
+congé ilelles ont juste bossé ailleurs
+un groupe de 7 h
+personnes on a changé un peu on a changé
+nos contrats de travail on a libéré une
+journée par mois à tous nos employés
+pour qu'il fassent du freelancing et
+donc pour que il bosse pour une autre
+boîte pour une asosce ou pour un truc
+pour lequel il pourrai pas bosser s'ils
+avaient pas cette liberté là sans
+baisser les salaires et sans bosser les
+avantages enfin si lestiquets resto on a
+pas le choix mais mais donc à part ça
+donc on a libéré du temps pour qu'il se
+force à trouver des clients se former et
+Cera et et revenir bosser chez nous il y
+a très peu d'hiérarchie il y a on ess de
+mettre l'accent sur la diversité a tant
+que possible et notamment on essaie
+d'avoir la parité dans l'équipe on avait
+la parité au bord et dans l'équipe et on
+a cru assez vite C derniers mois on a
+pas réussi à le tenir et du coup on est
+en train de faire plein d'efforts pour
+essayer de rééquilibrer ça donc on a à
+peu près 40 % de l'équipe qui est
+composé de femmes mais ce qui est déjà
+dans la fintech un super
+score mais bon c'est pas assez on
+voudrait bien que ce soit 50 50 et voilà
+tout ça mis bout à bout fait qu'on on
+essaie
+d'être de rendre les gens les plus
+autonome possible et de pas faire des
+des sprints on compte avec des petits
+carrés ce que tu vas réussir à faire
+dans la semaine on n'est pas en train de
+faire des reports à la journée ou la
+demi-journée sur ce qu'il y a avancer
+sur ce que tu vas faire le jour du le
+jour de demain les gens ont des projets
+sur 3 mois et ils sont responsables de
+ça voilà ok donc tu c'est vraiment
+autonomiser les gens au maximum et faire
+en sorte qu'ils puissent bosser comme
+ils veulent quoi ouis je crois qu'il y a
+une vraie mouvance je pense qu'il y a
+une vraie mouvance on essaie d'être à la
+pointe de ça de manière générale jusqu'à
+aujourd'hui on comptait sur des facteurs
+exogènes pour provoquer la motivation
+des gens donc soit la contrainte la
+hiérarchie ça c'est dans le pire des cas
+la pression directe et puis soit la
+carotte soit la menace donc si tu fais
+pas ça tu vas être virer ou si tu fais
+ça tu auras un bonus voilà il semblerait
+que ça fonctionne de moins en moins et
+que c'est de moins en moins ce à quoi
+aspirent les gens en tout cas c'est mon
+cas et donc je pense que c'est le cas de
+pas mal de gens dans l'équipe aussi les
+gens ont envie de faire partie d'une
+équipe et d'une aventure commune et de
+se battre dans un objectif commun et et
+en soi cette motivation elle existe déjà
+les gens ont simplement envie de vivre
+une vie professionnelle épanouissante et
+épanouissante ça veut dire des relations
+saines avec ses avec ses collègues euh
+pas avoir d'angoisse malsine du type je
+sais pas ce qu'on pense de moi je sais
+pas si cette personne m'en veut parce
+que j'ai pas réussi à faire ça je sais
+pas quels sont mes objectifs il y a
+plein de petits doutes comme ça qu'on
+essayer de lever il y a suffisamment de
+pression quand on crée une boîte pour
+qu'il y ait besoin d' rajouter des
+choses comme ça l'objectif c'est de
+d'aider les gens à se révéler et à
+utiliser cette motivation qu'ils ont en
+eux parce que par principe les gens sont
+pas par ils ont pas envie de rester là
+ne rien faire ils ont envie de réussir
+quelque chose ensemble et d'enlever
+toutes les barrières qui empêchent cette
+motivation de s'exprimer ça veut
+évidemment dire aussi bien payer les
+gens les traiter correctement faire de
+l'avancement gérer des carrière
+enseigner des choses on n'est pas du
+tout en train de dire qu'on laisse les
+gens se débrouiller vraiment pas on est
+juste en train de dire que on considère
+que notre job de manager c'est
+simplement de créer un environnement
+sain euh pour que les gens puissent de
+même exprimer leur motivation et tirer
+la boîte dans des directions où elle
+aurait pas été tirées sinon et donc ça
+veut aussi dire pas partir du principe
+que le management est plus intelligent
+que les autres et qu' va fixer les
+objectifs et que les autres vont juste
+exécuter ça parce que ça c'est très
+démotivant par exemple OK et sur ce ce
+truc du travail en général du coup bon
+tu es la bonne personne pour demander ça
+tout à l'heure on me posait la question
+qu'est-ce que tu penses de la montée du
+freelancing et du du travail en tant
+qu'indépendant est-ce que tu penses que
+ça va remplacer le salariat j'éis là
+genre j'en sais rien qu'est-ce que tu en
+penses toi non non ça va c'est pas du
+tout notre notre sentiment on pense pas
+que ça va remplacer le salariat il y a
+plein d'études qui sortent en disant que
+demain 50 % de la population active sera
+composée indépendant et cetera on y
+croit pas du tout en revanche que 50 %
+de la popul population active demain a
+été freelance à un moment de sa carrière
+ou est un side job et une partie de son
+revenu qui vient d'activité freelance ça
+pour le coup c'est très très possible on
+croit beaucoup à la plus plus réactivité
+au fait que les gens vont avoir envie de
+faire des choses différentes que
+peut-être en sortant en tant qu'étudiant
+ils onurt envie d'avoir un petit boulot
+pas forcément black que peut-être qu'en
+sortant d'école ils vont avoir envie de
+faire un peu de freelancing quelques
+années pour apprendre des choses plus
+vites plus diverses de bosser de
+l'étranger s'ils ont pas eu l'occasion
+de le faire dans leurs études il y a
+plein de raisons qui peuvent inciter les
+gens à être freelance à un moment donné
+avoir arrondir les fins de mois bosser
+le weekend alors que tu as déjà un job
+ça on y croit énormément ça on essaie de
+l'accompagner et ça on pense que c'est
+une très bonne chose pour l'économie de
+manière générale on pense que ça va
+favoriser le développement personnel
+aider les gens à se former deeux- même
+leur donner beaucoup plus de maturité
+économique parce que quand tu es
+confronté directement à des clients B tu
+te rends compte que tu as des coûts
+associés à ça des périodes d'inactivité
+des des des temps de formation qui sont
+nécessaires donc tu tu tu comprends
+beaucoup mieux ce qui se passe dans la
+tête de ton patron si tu es un peu
+freelance à un moment donné euh et puis
+tu es beaucoup tu as beaucoup moins peur
+de te faire virer si tu sais déjà ce que
+tu V sur le marché du travail si tu as
+déjà fait des missions en freelance ça
+veut pas dire que les gens vont
+abandonner le salariat mais on pense que
+c'est vraiment très sain et on pense que
+c'est tellement sain que on l'a mis en
+place chez nous qu'on incite tous nos
+employés à faire un peu de freelancing à
+côté et pour ces raisons-là et on pense
+tellement que c'est une bonne chose que
+on s'est exprimé sur le sujet et on a
+publié nos contrats de travail enfin le
+notre modèle de contrat de travail en
+open source pource que quand les boîtes
+se créent à partir de maintenant si
+elles ont envie de partir de ce de ce ce
+mode d'organisation par défaut elles
+puissent le faire en utilisant nos
+contrats et on pense que ça aurait
+vraiment plein de bénéfices pour la
+population active de manière générale je
+suis client cha du
+coup enfin utilisateur d'ailleurs parce
+que maintenant c'est payant ouais c'est
+40 € pour créer son statut ouais 35 euh
+35 ouais comment ça se fait que vous
+avez commencé gratos en fait c'est un
+moins gros changement que ce qui a été
+vu en com mais c'est notre faute euh à
+la base on a toujours prévu de se
+rémunérer de trois foçons qui sont des
+commissions sur certains mouvements
+notamment il y a une commission quand
+enquaisse t clients par carart nous on a
+une rétrocommission quand tu utilises ta
+carte c'est transparent pour
+l'utilisateur mais mais derrière ça
+fonctionne comme ça ça c'est une
+première source de revenus une deuxième
+qui au départ devait être une version
+gratuite et un plan Premium et donc une
+rémunération sur certaines sur certains
+abonnements et un troisième volet qui
+sera distribution de services financiers
+dont on sait pas encore bien ce que ce
+sera mais vraisemblablement de la
+facturage des crédits des assurances des
+choses comme ça et donc sur les
+commissions rien n changé sur la partie
+distribution de servicees rien n changé
+en revanche sur la partie abonnement au
+lieu de faire un premium donc une
+version gratuite et une version payante
+on a décidé que la version qu'on aurait
+deux versions payantes une au moins on
+verra mais en tout cas une version
+payante de base et une version avec plus
+de plus de feature et plus d'avantage un
+peu plus tard et le changement qu'il y a
+eu en effet c'est de passer de ce compte
+premium à un tout payant pour tout le
+monde et pour toi c'est resté gratuit
+parce que comme on avait toujours dit ça
+aux gens on a voulu notre parole ça nous
+semblait important que les gens à qui on
+a dit ce serait gratuit ça reste gratuit
+et donc gratuit au sens pas d'abonnement
+il y a quand même en fait quelques
+commissions c'est pas c'est pas gratuit
+mais il y a pas d'abonnement mensuel ça
+c'est sûr la raison pour laquelle on a
+fait ça c'est parce que on s'est rendu
+compte dans la façon dont les gens
+utilisaient le service que
+l'accompagnement administratif avait
+beaucoup plus de poids que ce à quoi on
+s'attendait la moitié des questions
+qu'on reçoit sur le support c'est des
+questions
+admin je crois que quand on a publié
+l'article c'était à peu près 3000 par
+mois ça doit être un peu plus maintenant
+mais c'est l'ordre d'idée donc ça fait
+beaucoup de de gens qui faut répondre et
+on a beau avoir énormément de contenu
+sur le site et dans la FAQ qui aide les
+gens avec tout ça il il y a souvent des
+moments où ils ont besoin de nous poser
+la question quand même et donc comme on
+s'est rendu compte que ça avait beaucoup
+de succès on avait deux options soit le
+supprimer du plan gratuit et le mettre
+que dans un plan payant soit le
+conserver pour tout le monde mais dans
+ce cas il fallait faire payer les gens
+et et on a plutôt choisi la deuxième
+option parce qu'on pense que c'est une
+part importante de la valeur du service
+que ça fait partie aussi de de l'ADN de
+la marque et que si on est là c'est pour
+aider les gens et que donc si on
+commence à refuser de leur répondre sauf
+sil payent c'est c'est pas le bon
+message on préfère on est là pour vous
+répondre mais en revanche c'est payant
+parce que bah tout tout tout travail
+mérite salaire et on et on a besoin de
+et on a besoin de de facturer ça euh il
+y a il y a une deuxième raison qui n'est
+pas la principale mais qui est euh euh
+qu'on préfère qu'on préfère donner parce
+que elle est elle est au final un peu
+inattendue et un peu amusante mais être
+gratuit ça nous décrédibilisait plus que
+ça nous crédibilisait les gens se
+demandaient mais du coup comment ça
+fonctionne comment vous allez vous
+rémunérer euh qu'est-ce que vous allez
+faire mes données voilà ça suscitait pas
+mal d'inquiétudes et le le le principal
+challenge quand on est une néobanque
+comme nous c'est d'être une marque
+inconnue du grand public et de de
+devenir le le l'endroit où les gens
+stockent leur argent clairement il y a
+un gros gap de confiance il faut le
+construire et le construire dans le
+temps et donc très clairement ça ne nous
+aidait pas à faire ça d'être gratuit et
+et depuis qu'on est passé en payant on n
+plus jamais eu cette question je pense
+qu' même si on avait mis à 2 € par mois
+on na'aurait pas eu la question mais
+juste les gens se disent bon ok ils font
+comme ils veulent ça va gagner de
+l'argent mais au moins je comprends il
+faut payer pour ce service là là il y
+avait une sorte de de décalage entre la
+valeur perçue par les gens et le prix
+qui faisait que c'était louche on en
+fait 10 fois plus qu'une en tout cas en
+valeur perçue par les gens 10 fois plus
+qu'une banque traditionnelle parce que
+non seulement il y a la partie bancaire
+mais il y a plein d'autres choses euh et
+et on le faisait gratuitement les gens
+se disaient bah non il y truc qui
+fonction au moment où vous avez passé le
+en payant il y a des gens qui ont qui
+ont comment ça c'est en terme de chiffr
+quoi
+euh bien alors évidemment que notre
+acquisition s'est ralentie par rapport à
+ce qu'on faisait naturellement en étant
+en étant gratuit on on communique pas
+ces chiffres là en détail mais ce que je
+peux dire c'est c'est vraiment mieux que
+passé que ce à quoi on
+s'attendait et que et qu'en revanche ça
+a changé un peu la typologie
+d'utilisateur il y a il y a plein de
+gens qui venaient qui avaient pas
+forcément besoin du service qui venaient
+juste parce que c'était gratuit c'était
+joli et pourquoi pas ça on en a beaucoup
+moins du coup l'avantage de ça c'est que
+ça nous permet de passer plus de temps
+avec les au service clients nos temps de
+réponses sont vachement améliorés notre
+temps de gestion des dossiers aussi que
+ce soit Shin start dont tu parlais pour
+créer son statut micro-entrepreneur les
+délais de validation de KYC et tout il
+on n'est pas encore parfait il y a
+encore des moments où on se loupe et ça
+on a du retard mais quand même ça s'est
+vraiment vraiment amélioré depuis qu'on
+est passé en payant de ce point de vuel
+et toi en tant qu'entrepreneur
+euh tu disais tout à l'heure que tu
+essayais de te severer sur cette
+histoire d'idée de business c'est quoi
+les gros trucs que tu as dû apprendre
+ces dernières années sur les sur les
+trois boîtes genre les les trois gros
+enfin les gros challenges auquels tu as
+fait face
+il y en a pas mal il y en a des des plus
+concrets et des plus abstraits je pense
+que le le gros gros sujet quand on est
+au entrepreneur c'est d'apprendre à
+faire face au doutes et d'apprendre à à
+gérer dans un environnement certain
+c'est vraiment pas un truc auquel on est
+formé habituellement en France en
+particulier je suis assez mal placé pour
+parler des autres pays mais en tout cas
+c'est un truc sur lequel vous aidez donc
+c'est
+bien mais mais tu passes ta vie à
+construire sur des fondations
+incertaines et et et pour une raison
+simple c'est que personne n'est passé
+par là avant donc tu passes ton temps à
+défricher et à tester des choses et à et
+et et et à construire sans être certain
+que ce que tu fais est démontrable ça va
+marcher et ça au début c'est un peu
+flippant et assez longtemps ça reste
+assez flippant je trouve que vraiment on
+s'y habitue et on apprend à à faire
+attention aux choses qui on l'importance
+et d'autres pas donc les les signaux
+faibles de tes clients par exemple au
+départ tu tu tu fais pas trop gaffe aux
+petites remarques ou au petit tweet un
+peu rageur et cetera et en fait c'est ta
+meilleure source d'info si les gens ils
+ragent sur toi en public c'est que
+vraiment ils avaient envie de de de
+croire en toi et que et qu'ils sont
+frustrés ou alors c'est des trur ça
+arrive aussi mais mais la plupart du
+temps tu as tu as des gens qui sont
+plein de volonté qui ont envie
+d'utiliser ton service qui aiment l'idée
+qui aiment la promesse et qui n'y arrive
+pas parce que il y a un truc que tu as
+fait de travers et ça au début tu as un
+peu tendance à dire bon c'est pas c'est
+juste un quiirage mais j'en ai 99 qui
+sont contents à côté et en fait c'est ça
+c'est ça le truc le plus important et
+pourquoi parce que ça te permet de voir
+où sont tes pistes d'amélioration pour
+toucher plus de monde oua exactement
+exactement parce que on a beau bien
+réussir on a que 30000 comptes ouverts
+c'est même pas 1 % du marché quoi
+l'opportunité est énorme mais il faut se
+concentrer sur T ceux pour qui ça n'a
+pas marché pour pour comprendre comment
+aller aller toucher la suite avec
+l'expérience tu as aussi des moments où
+ce que tu fais ça marche et ça part d'un
+coup et puis ce que tu fais tu le mets
+et bof les gens s'en servent un peu au
+départ tu sais pas comment interpréter
+ces choses là tu te dis ça marche pas
+mais est-ce que c'est parce que j'ai pas
+fait ce qu'il fallait ou pas et puis au
+bout d'un moment quand tu as fait
+quelques trucs qui vraiment prennent
+d'un coup tu te dis ok en fait ça c'est
+quand ça marche et ça c'est quand ça
+marche pas il faut vite apprendre à tuer
+les trucs qui marchent pas pour pour se
+mettre sur les trucs qui marchent donc
+si ça marchotte c'est que ça marche Paso
+si ça marchotte en génér c'est que ça
+marche pas ou en tout cas tu demandes
+aux gens et et tu as la réponse assez
+vite c'est très facile de se mettre dans
+une bulle quand tu es entrepreneur et de
+te convaincre que ce que tu fais c'est
+bien et de pas vraiment prendre le temps
+de d'aller demander aux gens et ça nous
+arrive tout le temps la semaine dernière
+on discutait de trois produits qu'on
+pouvait proposer aux gens et on était
+trois dans la salle on avait une
+discussion enflammée sur qu'est-ce qu'il
+y avait de l'importance pour les gens ou
+pas et non mais en fait on va juste
+arrêter d'en parler on va faire un type
+form on va demander aux gens et on va
+passer à autre chose ça prend 3 minutes
+tu as une réponse c'est elle vaut ce
+qu'elle vaut tu toujours un échantillon
+qui est pas représentatif mais ça vaut
+toujours plus que ton avis quoi ouais
+euh ou alors Steve Jobs mais
+statistiquement tu es pas Steve Jobs
+donc je pense qu'il faut faut aussi
+accepter cette idée faire preuve
+d'humilité euh je sais pas à quel point
+c'est un mythe parce que Steve Jobs il
+devait aussi observer le marché et
+parler aux gens en plus euh quand tu lis
+sa biographie tu regardes un peu ce
+qu'il a fait visiblement il avait quand
+même une de bonnes intuition visiblement
+il avait un vrai talent pour anticiper
+ce que les gens allaient aimer et
+anticiper la façon dont il fallait leur
+parler pour les convaincre que ce qu'il
+avait fait était formidable suffisamment
+bien pour que ce soit théorisé réutilisé
+par Apple depuis et que ça continue de
+cartonner euh mais encore encore une
+fois c'est cette personne c'est
+l'exception et c'est pas le modèle quoi
+je pense vraiment que les les grands
+grands grands entrepreneurs de la
+Silicon valallley qui sont starifi c'est
+surtout pas un modèle c'est c'est comme
+si tu disais que tu voulais faire de
+l'atelé à tes enfants et que tu leur
+expliquais qu'il fallait faire comme une
+Bolt il y a des chances que si dans la
+vie tu veux qu'ils soit heureux ils
+essayent pas de tout faire comme Bolt
+ils essayent de faire des trucs dans
+lesquels ils sont bons et ils ont envie
+de se développer je pense que quand tu
+es entrepreneur c'est un peu pareil il y
+a quelques règles de base qui sont
+essaie de taper un marché qui est
+suffisamment gros essae de toujours bien
+écouter tes clients de déger en fonction
+de ça essaie de d'être très focus et de
+couper un maximum de dans ce que tu veux
+faire parce que tu auras pas le temps de
+tout faire et de vraiment aller
+l'essentiel de ce dont les gens ont
+besoin et qui est différenciant et je
+pense que le le truc c'est il faut sur
+prend l'analogie avec les enfants faut
+leur faire essayer un maximum de trucs
+et voir ce qu'ils aiment et dans ce dans
+quoi ils sont doués tu as de filles du
+coup j'ai deux filles ouais elles ont 3
+et 6 ans OK et j'essaie de faire ça
+j'essayie de faire ça j'essaye après tu
+peux pas tu as des billets tu vois il y
+a des trucs que tu aimes bien faire des
+trucs que tuaimes pas donc c'est plus
+dur d'aller les initier des trucs que tu
+aimes pas mais mais je pense que
+l'analogie assez bonne quand tu es
+entrepreneur faut essayer un maximum de
+trucs et et voir ta façon d'entreprendre
+et ta façon de gérer ta boîte et ta
+façon d'aller vers le succès et ça ça
+marche que en faisant plein d'essaiis en
+ant ass lucide sur ce qui marche pas et
+en essayant de de creuser quand tu vois
+qu'un truc prend et du coup genre c'est
+comment ton rythme de travail
+actuellement c'est très réglé j'ai
+vraiment une vie un peu un peu m un peu
+un peu millimétrée quoi c'est jamais de
+rendez-vous le matin euh jamais de déj
+en fait à part quelques potes proches
+uniquement avec l'équipe tous les déj
+soit pour faire des One to One soit pour
+rester avec le reste peêtre avec le
+reste de l'équipe mais jamais de
+rendez-vous pro sur la duj en tout cas
+tous mes rendez-vous entre 14 et 18h et
+après re du boulot de concentration et
+tout après 18h si j'ai le temps ou sinon
+je rentre et je m'occupe de mes enfants
+et voilà mais j'ai pas l'impression
+d'être esclave de mon Bou esclave de mon
+boulot et c'est lié au fait qu'on a une
+équipe extraordinaire honnêtement les
+les gens avec lesquels on bosse sont
+vraiment dingues ils sont vraiment en
+tout cas dans pour ma part vraiment plus
+fort que que moi dans tout ce qu'ils
+font et et donc on est juste là pour
+essayer de mettre du Lian essayer de
+coordonner tout le monde essayer de de
+de de mettre l'accent sur les trucs qui
+sont importants et et de bien organiser
+tout le monde pour que ça avance dans ce
+sens-l mais aujourd'hui aujourd'hui
+chacun avance hyper bien et il y a pas
+besoin qu'on soit là pour battre la
+mesure on est plus là pour mettre de lui
+dans les rouages donc donc ça ça
+facilite les choses aussi ce rythme là
+dont tu parles cet agenda là c'est un
+truc sur lequel tu as tu as travaillé ou
+ça ça s'est mis en place naturellement
+ou euh non ça a été très conscient et
+c'est venu d'un moment où je me rendais
+compte que j'avais plus jamais le temps
+de faire des tâches de fond j'étais tout
+le temps en train de faire des petits
+machins des mails des trucs sur des
+projets et cetera et je me suis dit que
+c'était vraiment pas là qui était mon
+job normalement c'était plutôt de
+réussir à prendre du recul et essayer de
+voir des choses comme ça ou faire
+avancer des sujets de fond ou réfléchir
+en terme d'org à ce qu'on voulait faire
+ou réfléchir lire des articles me
+renseigner et cetera du coup ces créneau
+là me permettent de ne jamais dire non à
+uneurgence mais quand même la plupart du
+temps ça me permet de faire les le matin
+ça me permet de faire les choses qui
+prennent un peu de temps et que sur
+lesquelles il faut être concentré sans
+être déranger c'est ma façon d'essayer
+de rester productif et de d'avoir
+d'autres choses dans ma vie en
+l'occurrence ma famille et donc c'est
+quoi la suite prochaine on continuer à
+grossir on est on a on a plein de choses
+à faire on a une roadmap assez chargée
+on a plein de produits à mettre en place
+pour vraiment être vu comme un substitut
+à un compte bancaire traditionnel
+aujourd'hui on naccepte pas encore
+l'échec on a pas de version desktop on a
+on peut pas faire des devis dans l'appli
+alors qu'on peut faire des factures donc
+ça manque aux gens ça c'est pas du c'est
+pas de la banque mais en tout cas il y a
+plein de choses qu'onous demandé qui
+sont importantes et qu'il faut mettre
+qu'il faut qu'on mette en place euh on a
+un plan Premium qui va arriver avec des
+trucs en plus aussi et ça il faut le
+préparer le lancer on voir ce que ça
+donne ça c'est pour le les trois
+prochains mois en gros tout ça et et
+ensuite la prochaine étape ce sera si ça
+continue de bien croître et qu'on a
+toujours la même traction d'aller assez
+vite à l'étranger on sait pas encore
+quel pays c'est une étude qu'on doit
+qu'on doit mener mais vraisemblablement
+en Europe pour commencer j'ai une
+dernière question pour toi c'est quoi
+pour toi faire ton coup d'état c'est de
+montrer qu'on peut faire une très grosse
+boîte très saine humainement ça nous
+tient à cœur de le faire en en
+réussissant à créer une relation
+privilégé avec nos utilisateurs en
+créant une ambiance de travail très
+saine pour les employés et montrer qu'un
+autre modèle est possible et qu'on
+arrive à faire une très grosse boîte
+très rentable très
+successful en en ayant un impact très
+positif autour de nous et notamment en
+ayant valeur d'exemple et en prouvant à
+à toutes les boîtes où ça se passe pas
+bien qu'on peut travailler dur mais
+qu'on peut le faire de manière très très
+très saine trop bien ben merci beaucoup
+Nico merci c'est sympa

@@ -1,0 +1,530 @@
+salut à tous et à toutes bienvenue dans
+cette vidéo sur Google Analytics et sur
+comment l'utiliser pour mesurer les
+performances d'un canal d'acquisition
+donc comme je l'ai expliqué dans la
+vidéo d'introduction à ce module le le
+truc principal d'un canal d'acquisition
+c'est de pouvoir mesurer ses
+performances ça va vous permettre de
+mesurer à la fois bah comment
+fonctionnent vos campagnes mais aussi en
+terme de coût comment ça va impacter
+votre business il y a un outil qui est
+très puissant et qui est gratuit euh et
+qui permet de mesurer tous ces trucs-là
+à un seul endroit c'est Google Analytics
+alors il y en a plein d'autres
+évidemment comme mix panel dont j'ai
+déjà parlé dans la saison 2 de coup
+d'état entreprendre mais ici on va
+s'intéresser donc à l'outil Google
+Analytics et je vais essayer de vous
+expliquer rapidement comment ça
+fonctionne pour que vous vous perdiez
+pas dans l'outil donc Analytics c'est un
+outil qui est très très puissant comme
+je le disais qui est peut-être même un
+petit peu trop puissant pour débuter le
+problème d'analytic c'est que c'est très
+fouilli c'est un bordel c'est c'est une
+interface Google en général Google en
+uxux c'est pas les meilleurs du marché
+et donc on peut très très vite se perdre
+ce que je vais essayer de faire
+aujourd'hui c'est de vous montrer les
+choses qui sont importantes les choses
+qui sont essentielles à comprendre dans
+l'analytics pour que vous puissiez vous
+lancer et utiliser l'outil donc on va
+faire un rapide tour d'horizon de ce que
+l'outil permet de faire donc là on est
+sur la page d'accueil d'Analytics donc
+on voit qu'il y a des stats générales
+donc le nombre d'utilisateurs actifs en
+ce moment c'est le rapport temps réel on
+va avoir tous les canaux d'acquisition
+différents donc organ n search le direct
+le social le reférol et cetera avec les
+différents avec les différentes
+répartitions en fonction des différentes
+dates on va avoir les sources
+supports avec les différentes
+représentations en fonction des
+différentes dates on va avoir les pays
+on va avoir les heures d'utilisation
+bref vous avez tout un dashboard qui est
+assez puissant vous pouvez fouiller ce
+truc là au tout début de toute façon
+quand vous allez mettre en place Google
+Analytics vous allez pas avoir
+énormément de stat c'est très simple de
+mettre Analytics en place il suffit de
+venir de créer un compte et de suivre
+bah le le la méthode pour installer
+Analytics en général il va vous falloir
+une landing page au moins donc un site
+web euh ça il y a une autre vidéo dans
+ce module sur comment créer une landing
+page et pluger Analytics avec l'idée
+c'est que vous allez avoir juste un bout
+de code à mettre sur votre site et
+Analytics bah va récupérer toutes les
+données et traacker tout ce que font les
+gens au sein de votre site et d'où ils
+viennent et cetera c'est un outil comme
+je disais qui est très puissant euh qui
+fait limite flipper parce que on se rend
+compte que Google a accès à toutes nos
+données de navigation aussi mais c'est
+un autre sujet donc
+euh Analytics ce qu'il faut bien
+comprendre c'est qu'il y a peu de choses
+qui compent he donc le premier onglet
+qui va être intéressant pour vous ça va
+être dans audience et dans vue
+d'ensemble ça va vous permettre de
+mesurer le nombre de gens qui ont
+visiter votre site ces derniers temps
+donc là ici on voit que sur coup d'État
+là on a on est par jour mais donc si on
+prend une date euh donc si on prend par
+exemple à partir du 1er mai jusqu'à
+aujourd'hui le 9
+juin et qu'on regarde par
+semaine hop on voit que donc nous notre
+trafic il est dépendant essentiellement
+de nos canaux d'acquisition stratégie de
+contenu comme on est en train de créer
+cette formation bah il y a une une
+légère baisse hein puis ça remontera
+quand on lancera la formation et les
+prochains trucs qu'on a prévu de lancer
+en gratuit euh mais donc voilà on voit
+qu'ici il y avait 9388 personnes 4700
+3029 donc on a une moyenne de 2500
+personnes par semaine qui passent sur le
+site euh et donc en fait on voit qu'en
+tout c'était 25000 utilisateurs en tout
+il y a eu 65000 sessions donc il y a
+65000 fois des gens qui ont vu le site
+coueta.co sur les le dernier mois euh
+mais par contre il y a que 25000
+utilisateurs donc personnes différentes
+qui sont venu sur le site et dans ces
+gens-là il y en a 22000 qui sont des
+nouveaux utilisateurs qui sont des gens
+du coup qui ont découvert coup d'État
+pour la première fois alors c'est un
+truc qui est
+un peu bancal he c'est pas forcément
+extrêmement précis mais ça vous donne
+quand même une grosse tendance de fond
+vous avez la répartition entre les
+nouveaux
+visiteurs les les les visiteurs qui sont
+venus régulièrement bref vous avez plein
+d'infos sur tout ça et vous allez
+pouvoir naviguer à partir de ce
+tableau-l ensuite vous avez tout
+l'onglet acquisition et c'est sur
+celui-là que je veux m'arrêter
+aujourd'hui donc il y a la vue
+d'ensemble évidemment qui va vous
+permettre de voir voir les grandes
+catégories de canaux d'acquisition he
+donc nous on sait que il y a énormément
+de bouche à oreille dans le coup d'État
+c'est énormément d'inbound c'est
+beaucoup beaucoup de gens qui entendent
+parler de coup d'état par la stratégie
+de contenu par la
+communauté juste par le bouche à oreille
+classique et donc on a bah voilà on a
+une répartition qui est 36,8 % des gens
+qui viennent en direct on a de l'Organic
+search mais qui sont principalement je
+le sais parce que j'ai pu mesurer en SEO
+bah des gens qui tapent coup d'État dans
+Google donc en fait ça vient aussi dans
+le direct donc on a euh sur organic
+search on a 23,6 % des gens plus 36 %
+donc ça nous fait à peu près 60 % des
+gens qui viennent en inbound directement
+sur coup d'État sans passer forcément
+par un canal spécifique et puis après on
+a tout l'aspect social où là on va
+retrouver Youtube qui est notre
+principal canal d'acquisition et puis
+aussi bah Facebook Instagram et nos
+différents canaux de distribution de
+notre stratégie de contenu donc là ça
+vous permet de vous donner euh une bonne
+vue d'ensemble de tout ça mais je pense
+que le dans les canaux d'acquisition
+l'outil qui va vous être le plus utile
+dans Analytics c'est les UTM les UTM
+c'est un truc que j'ai mis beaucoup de
+temps à comprendre c'est c'est un peu
+c'est un petit peu compliqué donc je
+vais vous faire un bref résumé de ce que
+ça veut dire utiliser des UTM les UTM
+c'est un ensemble de quatre variables
+que vous allez pouvoir mettre à la fin
+de vos URL pour traquer d'où viennent
+les gens donc par exemple si vous faites
+un poste sur Facebook c'est très très
+intéressant de mettre un lien vers votre
+site évidemment mais sur ce lien de
+mettre des UTM à la fin qui vont
+permettre via Analytics de savoir qui
+sont les gens qui ont cliqué sur ce lien
+et d'où ils viennent donc on va utiliser
+un outil pour ça qui s'appelle UTM
+Maker il y a une petite fiche pour
+utiliser UTM Maker dans le module de
+cette formation et donc vous allez
+pouvoir voir ce ce cet outil qui est
+très très simple l'idée c'est donc vous
+avez plusieurs champs et vous allez
+pouvoir bah juste bâtir votre URL avec
+UTM directement depuis cet outil pour
+cet exemple on va on va créer un lien
+pour YouTube donc ça va être un lien
+qu'on va mettre en description YouTube
+et admettons que moi je vais faire une
+vidéo où je vais dire aux gens cliquz
+sur le lien dans la description pour
+aller découvrir codeta.co mon objectif
+avec les UTM ça va être de savoir qui
+sont les gens qui viennent de cette
+vidéo et qui viennent plus généralement
+de cette campagne YouTube parce que si
+je mets le lien dans YouTube coupetat.co
+directement et ben les gens vont tomber
+alors Analytics va qui viennent de
+YouTube mais j'aurais pas plus de
+précision par rapport à cette info là
+donc ce qu'on va faire c'est qu'on va
+prendre le lien de
+coupda.co et on va venir le coller
+directement ici dans le champ
+URL ça va commencer à bâtir notre
+premier lien et ensuite on va tomber
+dans les différentes choses l'avantage
+de ut Maker c'est qu'ils vont vous
+rappeler un petit peu ce que vous devez
+mettre dans les différents champs ici la
+campagne ça va être vraiment l'ensemble
+des différentes actions que vous allez
+mener pour avoir une acquisition client
+spécifique donc ici nous notreamp
+campagne ça va être par exemple
+euh ça va être par exemple weekly
+YouTube
+vidéo donc là je pars du principe que
+j'ai décidé de faire une une campagne
+Youtube qui va être une série de vidéos
+que je vais poster une fois par semaine
+et donc je veux savoir sur ce groupe de
+vidéos là spécifique qui sont les gens
+qui viennent bah directement sur le site
+donc on va l'appeler weekly YouTube
+vidéo le médium ça va être organic
+social media donc là vous avez un un
+choix restreint d'option ce qui est très
+pratique parce que vous avez pas
+énormément de choses que vous pouvez
+mettre dans le
+médium ici donc organic social media
+c'est tout ce qui va être réseaux
+sociaux plateformes sociales YouTube en
+éune mais qui sont pas payantes ça va
+pas être les les social ADS dont on va
+parler dans le module sur les social ADS
+ça va être vraiment plutôt orienté
+stratégie de contenu donc ici le médium
+on va mettre ça la source on va mettre
+YouTube et le content c'est vraiment la
+vidéo spécifique donc peut-être que ça
+va être vidéo
+1
+Introduction voilà etci vous pouvez
+cocher une case pour choisir si ça va
+vous créer une URL qui est plus petite
+ou pas ici on va on va le faire 100 pour
+l'instant pour que vous voyez à quoi ça
+ressemble donc ici vous avez votre URL
+avec les UTM donc vous le voyez c'est
+HTTPS
+//coueta.co et là vous avez toutes vos
+variables UTM donc là on les voit pas
+très très bien donc je vais venir les
+coller directement ici et donc vous
+voyez il y a UTM source ég YouTube UTM
+médium égal social UTM campaignne ég
+weekly YouTube viéos et UTM content é=
+vidéo 1 Introduction donc c'est un
+format qui est très très simple mais qui
+est très très puissant à utiliser couplé
+avec Analytics dans le sens où dans
+Analytics si on y revient vous allez
+pouvoir aussi aller dans acquisition
+dans campagne dans toutes les
+campagnes le but ici c'est que donc là
+vous avez la campagne et vous allez donc
+avoir une dimension principale qui sont
+soit campagne soit source soit support
+alors les noms sont pas les mêmes c'est
+un peu chiant mais ça va vous permettre
+de retracer exactement par UTM les
+différentes choses donc ici vous voyez
+moi j'ai une campagne qui est social KDT
+une campagne qui est content KDT un truc
+qui est YouTube extra
+qui sont les extraits qu'on poste sur
+Youtube des différentes interviews
+conférences et cetera organic YouTube
+vidéo YouTube break the game on a
+startup food videéos qui sont la
+campagne où on a mis des liens vers coup
+d'état sur toutes les vidéos de la
+chaîne Youtube de de Family startup food
+donc voilà donc ici on voit que bah le
+nombre de gens qui sont arrivés sur le
+site à travers cette campagne c'est vrai
+pour les campagne mais c'est vrai aussi
+pour les sources donc les sources si on
+reprend UTM Maker on voit qu'ici la
+source est YouTube donc on va pouvoir
+voir bah voilà ici youtube il y a
+énormément de gens qui sont venus
+directement via YouTube sur le site ce
+dernier mois il y a aussi des gens qui
+viennent de Linkedin des gens qui
+viennent de maelchin des gens qui
+viennent d'intercom et cetera tout ça ça
+vous permet d'avoir une vue assez
+précise des gens qui vont naviguer votre
+site par rapport à bah différentes
+campagnes ou différents support et
+cetera donc là ici on a les campagnes et
+vous pouvez venir dans Analytics mettre
+une dimension secondaire et donc dans
+cette dimension secondaire vous allez
+pouvoir bah fouiller he évidemment mais
+donc par exemple ici on a la campagne et
+je veux mettre en dimension secondaire
+la source et donc ça va me permettre de
+voir pour la campagne startup food vidéo
+de faire un breakdown en fonction de
+YouTube et des différentes sources et
+donc d'avoir sur une seule vue d'où
+viennent les gens en terme de campagne
+et d'où viennent les gens en terme de
+source tout ça c'est un outil avec
+lequel il faut jouer là je vous fais une
+brève introduction à comment utiliser
+les UTM et comment les lire dans
+Analytics c'est très rapide reg regardez
+cette vidéo plusieurs fois si vous avez
+besoin parce qu'il y a pas de meilleure
+manière aujourd'hui pour vous expliquer
+comment utiliser cet outil que que de
+vous faire l'utiliser vous donc
+installer Analytics pensez quand vous
+mettez en place des campagnes
+d'acquisition différents canaux à à
+mettre des UTM dans les URL que vous
+allez partager aux gens pour pouvoir
+avoir des infos sur bah combien de ces
+gens ont on naviguer le site via cette
+campagne via ce canal c'est extrêmement
+important de faire tous ces trucs là ça
+va pas vous aider à mesurer l'Inbound
+vous vous avez bien vu quand je vous
+l'ai montré au début il y a énormément
+de gens qui viennent sur coup d'État on
+sait pas de quelle compagnie viennent
+parce qu'ils viennent bah soit en direct
+soit via le SEO général de coup d'État
+mais là bah vous allez pouvoir avoir une
+meilleure granularité quand même pour
+savoir d'où viennent les gens et à quel
+point vos campagnes
+performment ce qui est intéressant dans
+ces tableau là c'est que vous allez
+avoir à la fois bah le nombre
+d'utilisateurs qui ont visité votre site
+mais aussi beaucoup plus d'infos
+profondes dans le sens où vous allez
+avoir le nombre de sessions vous allez
+avoir le nombre de nouveaux utilisateur
+vous allez avoir le taux de rebond donc
+des gens qui viennent de startup food
+videéos quel est le taux de rebond donc
+ça veut dire combien de pourcent des
+gens quittent la page instantanément le
+taux de rebond c'est vraiment une mesure
+qui dit plus il est élevé moins votre
+page est performante nous on a un taux
+de rebond moyen ici sur ces différentes
+campagnes de 48 22 % ça veut dire qu'on
+a 52 % des gens qui visitent la page et
+sans regarder aucune autre page de coup
+d'État se barre du site c'est une stade
+qui est plutôt bonne euh globalement moi
+je suis assez content ça peut descendre
+encore plus euh évidemment on peut
+tomber à la taux de rebond de 30 % 20 %,
+c'est très très bas un taux de rebond de
+20 % mais si vous avez un taux de rebond
+de 80 %, ça veut dire quand même que 80
+% des gens se barrent instantanément de
+votre page sans fouiller un peu plus
+dans votre site donc c'est pas
+incroyable
+par contre donc voilà vous avez ça vous
+avez le nombre de pages par session la
+durée moyenne des sessions et vous avez
+le dernier élément qui pour moi est
+essentiel dans Analytics qui est bah le
+taux de conversion alors chez nous c'est
+un truc qu'on a pas setup he c'est c'est
+aussi l'occasion pour moi en faisant
+trouver des client de me rendre compte
+de mes propres faiblesses dans le
+business on n pas setup de taux de
+conversion alors ça c'est le dernier
+truc qui est très très important dans
+Analytics donc je vous l'ai dit il y a
+le truc audience avec bah la vue
+d'ensemble de l'audience et de combien
+de visiteurs ont été sur votre site il y
+a l'acquisition avec la vue d'ensemble
+mais aussi l'aspect campagne source
+qu'on va mesurer avec les UTM et enfin
+il y a le dernier truc qui est les
+objectifs donc ce qu'il va falloir venir
+faire ici c'est aller dans les
+conversions dans objectif et vous allez
+pouvoir voir les différents objectifs
+dans la vue d'ensemble qui ont été
+accomplis sur le site depuis que vous
+avez commencé à mesurer ces objectifs
+pour faire ça vous allez aller dans
+administration
+dans
+objectif et vous allez pouvoir
+paramétrer ici des objectifs qui sont
+liés à votre business donc si vous
+cliquez sur nouvel objectif ici vous
+allez pouvoir prendre un modèle existant
+donc par exemple ici effectuer un
+paiement hop je clique sur continuer
+effectuer un paiement ça peut être par
+exemple
+achat formation trouver des clients ici
+c'est mon objectif 2 qui est dans un
+ensemble d'Objectif 1 et mon ob et mon
+but ça va être de le faire passer sur
+une destination donc je vais mesurer si
+les gens ils ont visité une certaine
+page spécifique qui va être ma page
+d'après achat donc ici ça va être
+coupetat.co/
+tdc/checkout don ça va mesurer tous les
+gens qui ont visité cette page là et ça
+va l'affecter à un objectif dans
+Analytics vous pouvez aussi ajouter une
+valeur à cet objectif donc ici on sait
+donc là c'est en US dollars mais tu peux
+modifier ce truc dans les paramètres
+donc on sait que nous c'est
+399 € la formation et donc ça vous
+permettre dans Analytics d'avoir plein
+de stats aussi sur bah de quel canaux
+d'acquisition viennent les gens et
+combien de ces gens-là ont acheté donc
+on va enregistrer l'objectif l'objectif
+est setup il est bon et donc vous allez
+pouvoir commencer à le mesurer dans les
+conversions directement dans le panneau
+objectif vu dans ensemble pour voir ça
+donc là je viens de le setup he il faut
+compter à peu près 24 heures pour avoir
+des premiers résultats et évidemment des
+gens sur votre site qui font les
+conversions en elles-même pour avoir une
+vraie mesure mais donc ça c'est vraiment
+la clé dans Google Analytics si vous
+avez une bonne mesure de vos UTM avec
+les campagnes les sources les médiums
+que vous avez vos objectifs qui sont
+setup vous avez tout qui est bon pour
+Analytics alors vous pouvez fouiller
+toutes les pages d'Analytics je vous
+invite à le faire ça vaut le coup de
+prendre du temps juste pour se former
+mais découvrir au-delà de ce que je vous
+dis dans cette vidéo mais avec ce que je
+viens de vous dire normalement vous avez
+tous les outils qui vous permettent de
+mesurer efficacement les performances de
+votre canal d'acquisition parce que
+c'est ça le but le but c'est d'avoir une
+mesure efficace qui va vous permettre de
+savoir si vos actions ont un impact sur
+votre business ou non et c'est comme ça
+bah qu'on met en place un canal
+d'acquisition en mesurant avec des
+données objectives parce qu'en tant
+qu'être humain c'est très facile de
+prendre un feedback de quelqu'un et d'en
+faire une gén rité au début c'est
+pertinent plus vous allez grossir et
+plus vous allez avoir de trafic sur
+votre site et plus vous allez vous
+rendre compte de la différence qui va y
+avoir entre les interviews que vous
+pouvez mener avec les gens et les
+chiffres concrets c'est extrêmement
+important de prendre ça en compte
+créez-vous un compte Analytics
+installez-le suivez la vidéo dans Ce
+module qui est sur comment setup
+Analytics pour son site et créer une
+landing page et puis venez régulièrement
+sur ce site améliorz vos UTM faites en
+sorte d'avoir une structure du TM qui
+est bien foutu vous allez faire des
+erreurs vous allez salir votre Analytics
+le nôre est très très sale et on
+l'améliore constamment au fur et à
+mesure queon avance ça prend du temps
+c'est un c'est une discipline régulière
+à à mettre en place moi je sais que j'y
+passe au moins une heure par semaine à
+juste me balader sur Analytics et à
+regarder les chiffres et à m'inspirer un
+peu de la réalité de la boîte coup
+d'État et donc voilà on peut voir tout
+ça et donc ici si vous revenez sur vos
+différentes campagnes vous allez pouvoir
+voir vos taux de conversion l'argent que
+ça a généré et donc avoir une vraie vue
+d'ensemble sur bah les performances de
+vos différents canaux d'acquisition de
+vos différentes campagnes et de tout ce
+que vous allez apprendre à mettre en
+place dans la formation trouver des
+clients bon courage c'est un super taf
+c'est hyper intéressant à mettre en
+place faut être curieux faut fouiller et
+si vous arrivez à y prendre du plaisir
+vous allez voir que bah c'est pas si
+compliqué que ça et qu'il y a moyen de
+faire des des chouettes choses avec un
+outil est gratuit mis à disposition
+gratuitement par Google ça ça fait
+plaisir et puis bah voilà bon courage

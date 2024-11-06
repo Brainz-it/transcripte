@@ -1,0 +1,1266 @@
+bienvenue Bienvenue dans ce chapitre 2
+de coup d'état anyone can scale alors
+dans le chapitre 1 on s'était concentré
+sur les individus on a eu plein de
+feedback de votre part on a utilisé ces
+feedback pour essayer de faire un
+chapitre 2 encore mieux que le chapitre
+1 j'espère que au fur à mesure vous
+verrez notre courbe d'apprentissage et
+vous aurez envie d'en voir encore plus
+alors dans ce chapitre 2 on va se
+consacrer au scale des organisations on
+va arrêter de parler des individus on va
+parler des gens qui ont envie de faire
+une grosse boîte qui on envie de
+construire un empire quel qu'en soit la
+taille alors il y a des gens qui vont
+avoir des marchés très très vastes dans
+lesquels on peut bâtir des très très
+grandes boîtes il y a des gens qui vont
+avoir des marchés un peu plus modestes
+un peu plus niches mais ça veut pas dire
+qu'on peut pas utiliser les stratégies
+et les techniques de grandes boîes alors
+dans ce chapitre anyone can scale les
+entreprises on va voir un certain nombre
+d'éléments qu'on a déjà vu on va voir
+qu'est-ce que ça change de faire en
+équipe on va voir aussi comment faire
+pour gérer la complexité humaine
+qu'impacte le Scale d'une organisation
+et surtout on va essayer comme toujours
+de vous donner des trucs des astuces et
+des cas le plus concrets possible
+bienvenue dans le chapitre 2 de coup
+d'état anyone can scale j'espère que
+vous êtes très heureux d'être là parce
+que moi je suis en pleine forme
+[Musique]
+dans le premier chapitre on a déjà parlé
+de trois aspects du scale qui sont hyper
+important le premier c'est la
+standardisation vous l'avez vu
+standardiser c'est la base pour pouvoir
+répéter ensuite la deuxième chose c'est
+le fait d'automatiser
+ça passe par le fait de rendre des
+choses qui avant étaient manuell
+automatique et comme ça de pouvoir être
+plus productif la trè chose c'est
+évidemment la délégation au client si
+c'est pas possible de standardiser si
+c'est pas possible d'automatiser
+peut-être que les clients le feront
+mieux que vous peut-être qu'ils y
+trouveront du plaisir alors la question
+que vous pouvez vous poser c'est comment
+ce genre de chose change quand on scale
+une organisation et ben quand on sc
+unean
+le problème numéro 1 qu'on a c'est que
+les initiatives viennent de partout ça
+peut venir de l'équipe ça peut venir des
+clients ça peut venir des feedback et on
+est un peu perdu sur comment prioritiser
+alors ça c'est un truc que je vois tous
+les jours à the family tous les jours je
+vois des gens qui se noient dans des
+vers d'eau parce qu'ils pensent
+travailler très dur alors qu'ils
+travaillent sur les mauvaises choses il
+faut simplement être poussé par un
+principe très simple en philosophie F il
+y a un principe qui s'appelle le rasoir
+d'ocam le rasoir d'ocam dit que entre
+deux théories rationnelles c'est
+toujours la théorie la plus simple qu' a
+plus de chance d'être vraie pourquoi
+parce que l'univers aime bien la
+simplicité et qu'en général quand une
+explication est trop complexe c'est
+qu'on a raté quelque chose et ben moi
+j'ai inventé le rasoir douce le rasoir
+douce c'est comme le rasoir de Cam c'est
+un principe très simple qui dit que dans
+un business la meilleure façon de
+prioritiser une action est de toujours
+choisir l'action qui a le plus fort
+impact pour l'effort minimum
+l'entrepreneuriat c'est avant tout une
+affaire de feignant je vous encourage à
+être feignant je vous encourage à en
+faire le moins possible je vous
+encourage à essayer de trouver des
+optimisations et si vous êtes porté par
+ce principe de feignantise vous pouvez
+inclure ça dans vos équipes et vous
+pouvez donner à tout le monde un guide
+et un réflex qui est que quand les gens
+essaient de faire des choses trop
+complexes ou trop longue il se passe
+toujours quelque chose de déplorable
+c'est que on narrive pas à délivrer
+alors deux choses on va ensemble réduire
+la timeline on va essayer de réduire
+notre horizon temporel au minimum et on
+va essayer aussi de réduire la
+complexité on va essayer de trouver des
+actions simples et impactantes prons le
+premier élément la
+standardisation la standardisation c'est
+pas quelque chose qu'on fait une fois et
+qui ensuite reste pour toujours c'est un
+process et comme tous les process ça a
+besoin d'être réinterrogé constamment on
+a constamment besoin de se poser la
+question comment standardiser des
+nouvelles choses comment réussir à
+observer ce qui a été fait où est-ce
+qu'il y a de la friction est-ce que
+cette friction elle est positive ou
+négative et comment j'en fais quelque
+chose alors il y a un principe très
+simple sur le Scale de la
+standardisation
+c'est qu'il faut le plus vite possible
+pouvoir le déléguer à quelqu'un mais ne
+surtout pas rendre tout le monde
+responsable de cette standardisation je
+m'explique en général dans un réseau et
+dans un network de gens la complexité
+monte avec le nombre de membres plus
+vous avez de membres et plus c'est
+compliqué donc la communication entre
+deux personnes il faut dire un message
+le message revient ça va entre trois
+personnes il faut que chacune de ces
+personnes elle parle c'est pour ça qu'on
+dit que dans un dans une conversation la
+complexité de cette conversation elle
+est n factoriel alors petit cours de
+math ça veut dire quoi si on dit 3
+factoriel ça veut dire 3 x 2 x 1 4
+factoriel ça veut dire 4 x 3 x 2 x 1 5
+factoriel 5 x 4 x 3 x 2 x vous avez
+compris 5 personnes ça veut dire que le
+nombre d'interaction pour que tout le
+monde est exactement le même niveau
+d'info c'est 5 x 4 x 3 x 2 x 1 5 x 4 20
+x 3 60 x 2 120 120 interactions pour
+qu'on ait la même qualité qu'une
+communication en deux personnes et ça
+c'est terrible et c'est d'ailleurs ce
+que les organisations oublient le drame
+de la collaboration c'est de croire que
+la scalabilité passe par la vie de tout
+le monde surtout non il faut que vous
+ayez des responsables très clairs et la
+standardisation c'est un métier vous
+devez le plus rapidement possible avoir
+un responsable de standardisation dans
+votre équipe avoir quelqu'un dont le
+métier est de standardiser l'ensemble
+des process d'observer les gens et de
+réussir à trouver des nouvelles
+opportunités de standardisation la
+standardisation je vais pas vous
+rappeler la philosophie on l'a assez vu
+dans le chapitre 1 mais je vais quand
+même vous le redire c'est pas mal c'est
+même une condition nécessaire au scale
+d'ailleurs à chaque fois qu'on me dit
+qu'on naime pas la standardisation je
+demande si on aime bien l'iPhone ou pas
+l'iPhone est un exemple typique de
+standardisation personnalisable
+tout le monde a le même téléphone mais
+personne n'a un téléphone similaire et
+identique et évidemment le sujet pour
+vous aujourd'hui est de réussir à créer
+une organisation qui est capable de
+maintenir un très haut niveau de
+standardisation sans renier pour autant
+les capacités de customisation de
+souplesse et de flexibilité dans
+l'équipe c'est pour ça que vous avez
+besoin d'un honneur vous avez besoin de
+quelqu'un qui est en charge alors ce
+quelqu'un il a pour but de dire oui ou
+non aux grandes décisions de
+standardisation qui vont être prises par
+votre organisation évidemment c'est une
+très grande responsabilité idéalement si
+vous êtes plusieurs cofondateurs c'est
+une responsabilité qui doit rester celle
+d'un cofondateur si vous êtes
+solopreneur vous devez trouver quelqu'un
+de confiance à qui vous déléguez cette
+chose le plus rapidement possible comme
+toute délégation il y a un process quand
+on délègue quelque chose on doit
+admettre qu'au début la personne va le
+faire un peu moins bien et que petit à
+elle va apprendre à le faire de mieux en
+mieux les techniques de standardisation
+at scale ne sont pas différentes que
+celles de la standardisation d'un
+freelance finalement le processus de
+standardisation est toujours le même la
+grande nouveauté quand on y a une équipe
+c'est de définir clairement le rôle de
+chacun et de comprendre que la
+standardisation est une responsabilité
+absolument pas collective alors ça
+ressemble à quoi un type qui standardise
+quand vous vous posez la question du
+scale vous vous posez la question d'un
+réalisateur de film vous avez besoin
+d'imaginer qui va être dans quel rôle et
+vous avez besoin de savoir qui va
+pouvoir incarner au mieux le rôle c'est
+un peu comme dessiner une grande œuvre
+une grande peinture ou ou faire un grand
+film c'est réussir à mettre les couleurs
+à l'endroit où il faut avec l'Harmonie
+pour que l'ensemble soit cohérent je
+vais être un peu caricaturale la
+personne idéale pour aller standardiser
+c'est quelqu'un qui aime simplifier les
+choses éviter les gens qui complexifient
+leur raisonnement qui se noient dans un
+verre d'eau et c'est quelque chose qui
+en interview vous pouvez vérifier très
+simplement enemandant aux gens comment
+ils gèent des situations simples de leur
+vie comment ils ont organisé leurs
+dernières vacances comment ils
+organisent l'organisation d'un mariage
+ou d'un événement et vous verrez tout de
+suite si c'est des gens qui se perdent
+dans le détail
+ou est-ce que c'est des gens qui
+utilisent et ont un sens du détail qui
+n'est pas du tout un obstacle à leur
+envie d'efficacité parce que la
+standardisation c'est quoi la
+standardisation c'est pas le fait
+d'ignorer le détail c'est pas le fait
+d'ignorer que les choses peuvent être
+complexes non la standardisation c'est
+savoir faire des choix c'est pour ça que
+la deuxième caractéristiqu très
+importantes sur quelqu'un qui
+standardise dans votre équipe c'est la
+capacité à faire des choix important
+rapidement et sans se torturer une bonne
+standardisation ça demande du leadership
+et ça demande d'être capable de prendre
+des décisions rapidement sans être noyé
+en permanence dans ses propres pensées
+et ses propres hésitations évidemment ça
+veut dire quoi ça veut dire faire des
+erreurs et ça c'est la troisième chose à
+regarder Jez quelqu'un qui est
+responsable de votre standalisation
+c'est est-il capable d'écouter le
+feedback de la data est-il capable
+d'observer ce que les gens font et
+est-il capable de voir quand quelque
+chose a été raté ou pas en chemin autour
+de ces trois piliers si vous avez
+quelqu'un qui a le sens du détail et qui
+aime le produit vous avez votre monsieur
+standardisation alors la standardisation
+et en général tout ce qui est qu'on
+qu'on va appeler côté produit l'autre
+façon d'appeler la standardisation c'est
+de parler de
+productisation déléguer le produit c'est
+quelque chose qui peut être extr ement
+douloureux pour un CEO mais c'est hyper
+important de comprendre qu'on ne peut
+pas être responsable du produit et aussi
+responsable de la maintenance et aussi
+responsable de l'extérieur et aussi
+responsable des levées de fonds et
+cetera donc il y a un moment il faut
+grandir sur ces sujets là et se rendre
+compte que la meilleure chose qui puisse
+arriver à votre entreprise c'est que
+quelqu'un considère votre produit comme
+son bébé alors pourquoi je parle de
+standardisation plutôt de produit parce
+que je veux vous forcer à comprendre que
+le Scale nécessite une vue produit qui
+transforme des tâches qui sont
+habituellement personnalisables en une
+tâche standard qui peut justement être
+réalisé par un produit effectivement
+quand on parle de
+productisation on parle en fait de
+standardisation et standardisation c'est
+un mot un peu qui nous met mal à l'aise
+parce que derrière l'idée de
+standardisation il y a un certain nombre
+de choses qu'on refuse d'ailleurs les
+plus grands standardiseurs du monde sont
+des gens qui ne parle jamais de
+standardisation au contraire il parle
+d'empowerment de personnalisation et
+cetera mais ce que j'aimerais qu'on
+fasse nous là à coup d'État est ce que
+j'essai de faire tous les jours avec les
+entrepreneurs c'est justement d'être
+au-delà des clichés de ne pas sombrer
+dans ces clichés et de réussir à
+comprendre qu'il y a des choses par
+lesquelles on doit passer et sont des
+choses positives donc standardisation
+égale produit et délégation égale
+empowerment vous avez besoin de donner
+une partie de votre pouvoir à des gens
+qui se sentent aussi responsables que
+vous et si vous n'êtes pas capable de
+créer ce sentiment de responsabilité et
+si votre peur vous empêche de faire ça
+alors vous n'arriverez pas à scaler le
+Scale ça passe par la confiance et faire
+confiance à quelqu'un c'est aussi faire
+confiance au choix qu'on fait si vous
+vous êtes trompé évidemment il faut
+prendre les décisions adéquates et il
+faut changer si vous avez pris un produ
+honur qui est pas le bon product honur
+ça ne fonctionne pas mais vous devez
+comprendre qu'aucune organisation ne
+scale avec un CEO qui passe 90 % de son
+temps à faire du produit parce que la
+complexité d'une entreprise et
+l'ensemble des tâches nécessaires à son
+accomplissement dépasse de très loin
+simplement le fait de faire un bon
+produit faire un un bon produit c'est le
+centre de l'expérience quand vous êtes
+un fondateur au début de votre start-up
+c'est hyper important mais il y a
+toujours un moment où le Scale nécessite
+que vous arrêtez de faire le produit
+vous-même et que vous confiez cette Tâge
+de standardisation à quelqu'un d'autre
+alors ce qui est intéressant dans la
+standardisation c'est que le frontend et
+le backend se merge dans une bonne boîte
+les gens responsables du produit client
+sont aussi responsables de créer la
+standardisation en backend pourquoi
+parce qu'il doit avoir un continuum
+logique entre les deux c'est pas
+possible de confier à des gens l'interne
+et à des gens l'externe un bon dashboard
+il est fait par des gens qui connaissent
+le métier et qui connaissent le business
+et qui connaissent le process sinon le
+dashboard est super artificiel et ne
+comprend pas les datas que vous avez
+besoin pour être opérationnel prenons un
+premier exemple celui qui me concerne as
+the family as the family on est dans un
+milieu où finalement on cherche pas trop
+à ce qu'aler mais on a quand même des
+problématiques de skale une de ces
+problématiques c'est la création de
+coups d'État alors la création de coups
+d'État ça passe par une première
+délégation une première standardisation
+qui est comment transformer
+l'accompagnement personnalisé de the
+family qui est un accompagnement de
+boîte de service qui ne seelle pas en un
+accompagnement standard qui fonctionne
+par vidéo et qui a un produit qu'on peut
+consommer bah cette délégation elle est
+passée par le fait de faire confiance à
+Valentin que vous connaissez tous
+cette confiance elle s'est fait en trois
+étapes la première étape c'est de faire
+confiance à Valentin sur une première
+version une itération pour montrer
+qu'est-ce que coup d'État pourrait être
+dans son relancement confier un
+rebranding un relaunch lorsque vous
+déléguez quelque chose c'est pas mal de
+donner à la personne l'opportunité de
+faire une nouvelle version même si une
+nouvelle version est pas nécessaire
+alors dans le cas de coup d'état ça
+l'était ça faisait 4 ans que c'est au
+grenier mais imaginons que nous
+travaillons sur coup d'État intensément
+en permanence à the family qu'on décide
+de déléguer ça à à Valentin laisser la
+liberté de faire une nouvelle version
+c'est une très bonne façon de tester la
+personne de voir si la personne se
+l'approprie pensez à cette citation qui
+m'obsède les grands artistes copies les
+génivoles un bon product honur et avant
+tout un voleur coup d'État a été volé
+par Valentin il m'a volé coup d'État il
+m'a pris coup d'État il en a fait ce
+qu'il avait envie et cette distance que
+j'ai aujourd'hui avec coup d'État c'est
+une distance que vous devez vous avoir
+avec votre propre produit deuxième chose
+c'est qu'une fois que cette première
+itération est faite ce premier test et
+que vous êtes en confiance commence la
+deuxième étape de cette délégation dans
+le cadre coup d'État qui a été de
+laisser coup d'État devenir autre chose
+que la vision qu'on en a imaginé coup
+d'État à la base c'est un Netflix de
+l'entrepreneuriat c'est du contenu c'est
+le marché de l'entertainment c'est un
+marché qui me plaît mais c'est quelque
+chose qui n'est pas suffisant pour
+l'équipe coup d'État l'équipe coup
+d'État a envie d'aller plus loin et la
+standardisation ça permet de découvrir
+quoi la standardisation le fait de
+travailler sur le produit le fait de
+commencer à Honner tout ça permet de
+remonter un feedback qui était invisible
+au début au créateur au fondateur et
+c'est là où il y a quelque chose
+d'intéressant qui se passe c'est qu'il y
+a des pivots qui peuvent se mettre en
+place et c'est un peu ce qui est en
+train de se passer aujourd'hui avec
+anyone can scale avec break the game
+avec le fait que coup d'État est en
+train de devenir une plateforme qui
+concerne tous les entrepreneurs et qui a
+pour but de les accompagner dans
+l'action et pas simplement le samedi
+soir quand vous êtes devant votre télé à
+écouter ma très douce voix vous parlez
+en permanence donc le contenu c'est bien
+mais ce contenu doit être dans l'action
+et ça c'est une nouvelle étape dans le
+produit et cette nouvelle étape dans le
+produit passe justement par le fait de
+tester des nouvelles choses et puis la
+troisième étape c'est celui du lâcher
+prise il faut apprendre à devenir client
+de votre propre entreprise moi je suis
+un client de coup d'état c'est
+finalement la façon la plus simple de
+rester connecté c'est très
+contreintuitif mais je vais vous
+expliquer un secret si vous êtes du côté
+interne des process dans votre propre
+entreprise vous perdez le sentiment
+d'être client et et vous perdez
+l'expérience réelle pourquoi parce que
+devant vous les gens vont toujours se
+comporter comme si ils sont en mode
+examen si vous allez dans des dans trop
+de meeting de product review ou vous
+impliquez trop vous microanagez les gens
+vont toujours être en alerte vont jamais
+se détendre alors que si vous êtes un
+simple consommateur de votre entreprise
+et que vous apprenez ce lâcher prise qui
+est je sais très contreintuitif et ben
+vous allez voir les vrais problèmes vous
+allez voir vraiment ce qui va pas et
+vous allez le voir avec l'œil le plus
+intéressant c'est celui du client et
+j'ai observé énormément de grands
+capitaines d'industrie ils ont cette
+capacité incroyable à être les clients
+de leur propre entreprise et être client
+de sa propre entreprise c'est la
+meilleure façon de garder un niveau de
+qualité hyper élevé parce que l'exigence
+sera au bon endroit elle sera pas sur la
+méthode elle sera sur le résultat par
+exemple il y a une autre série assez
+sympa pas aussi sympa que niik kenscale
+et qui s'appelle abstract que vous
+pouvez regarder sur Netflix et par
+exemple dedans il y a l'exemple du
+nouveau head of design de de Instagram
+qui raconte que sa première mission a
+été de pouvoir redesigner Instagram de
+zéro c'est hyper important de laisser
+aux gens la possibilité de concevoir
+leur propre bébé pour se sentir
+responsable du développement de cet
+enfant d'ailleurs dans dans cet épisode
+la petite anecdote marrante c'est que
+ils installent une salle de conférences
+avec les vitres opaques pour pas que le
+ce puisse voir ce qui se passe dedans et
+le designer en chef dit au CEO tu ne
+rentres pas tant que c'est pas fini
+parce que sinon tu vas trop me casser
+les burnes et ça c'est un très bon
+exemple d'honership at scale si vous
+faites confiance à quelqu'un il faut lui
+laisser l'opportunité ça peut aussi
+vouloir dire qu'il peut y avoir un gros
+raté d'ailleurs vaut mieux que ce gros
+raté arrive tout de suite dans ce
+process là plutôt que dans un processus
+continu et lent si cette nouvelle
+version imaginons un monde dans lequel
+Valentin et fait une première version du
+relaunch de coup d'état qui nous fasse
+honte B on aurait arrêté et on aurait
+arrêté à ce moment-là parce que c'est
+tellement un gros enjeu qu'on évalue
+tout de suite la personne face à un
+challenge géant donc une bonne règle
+quand vous déléguez à quelqu'un c'est
+mettez la barre haute mais laissez le
+temps des erreurs et laissez le temps de
+l'adaptation maintenant parlons des
+robots les robots et l'automatisation
+c'est le sujet à la mode on l'a déjà vu
+dans le chapitre 1 de coup d'état c'est
+un outil hyper important pour le skill
+alors l'automatisation c'est l'inverse
+de la standardisation en terme de
+délégation pourquoi parce que vous
+pouvez pas avoir un chef de
+l'automatisation la différence entre la
+standardisation et l'automatisation
+c'est que la standardisation c'est un
+processus de décision centralisé alors
+que
+l'automatisation c'est une culture et
+une culture ça doit ruisseler dans
+l'ensemble de votre organisation
+si vous voulez vraiment avoir une une
+boîte extraordinaire vous devez avoir
+une boîte dans laquelle tout le monde
+prend au sérieux le fait d'automatiser
+son travail et cette culture vous devez
+l'insyer le plus tôt possible et vous
+devez vous-même montrer l'exemple comme
+toutes les créations de culture
+l'automatisation c'est quelque chose qui
+passe par trois étapes très simples
+quand on veut créer un élément culturel
+il y a trois étapes simples à respecter
+étape 1 il faut montrer l'exemple si
+vous dites ma culture c'est de faire
+attention à tous les centimes et que
+vous voyagez en jet et aller dans des
+grands restaurants avec la carte de la
+boîte toutes les semaines ça marche pas
+vous n'êtes que ce que vous faites et
+vous n'êtes que ce que vous montrez
+l'idée que parce que vous êtes le Patron
+parce que vous êtes le CEO vous avez le
+droit de vous comporter différemment du
+reste des mortels ça finit toujours par
+casser les briques je vais vous raconter
+une petitte anecdote que j'ai appris
+cette semaine qui va pas durer très
+longtemps mais qui me fait rire le CEO
+de wework a voulu créer une politique
+dans laquelle personne n'a le droit
+d'expense de la viande pour aller sauver
+la planète mais évidemment lui il
+expense de la viande et il va manger des
+steaks ça c'est pas possible que ça ne
+crée pas des tensions du
+ressentiment de la parole et de la
+défiance donc quand vous voulez
+instaurer une culture de
+l'automatisation vous devez vous-même
+trouver des opportunités d'timisation et
+montrer l'exemple ensuite une fois que
+ça c'est fait il faut avoir une KPI il
+faut avoir une KPI qui est simple à
+mesurer et qui est d'évaluer le niveau
+d'automatisation des process de votre
+entreprise alors pas besoin de faire
+compliquer un dashboard et tout j'ai
+remarqué que quand on parlait k aux gens
+les gens adorent bâtir des vaisseaux
+spatials non un truc simple où vous
+évaluez dans votre entreprise le
+pourcentage de process qui sont
+automatisés et vous avez une sorte de
+tout dou de ce tout ce qu'il faut
+automatiser et vous communiquez
+régulièrement en interne sur les progrès
+d'automatisation et la troisème chose
+c'est que pour créer une bonne culture
+il faut reward et donc il faut reward
+les gens qui participent à ça alors je
+vais vous donner un exemple très concret
+que j'adore qui me fascine alors je sais
+que c'est une entreprise dont il faut
+pas trop parler en ce moment Facebook
+c'est devenu les grands méchants vilains
+mais Facebook ils ont fait des trucs
+très bien et par exemple ils ont une
+tradition à Facebook qui qui est de
+promouvoir les gens qui tuent leur job
+je vous explique comment ça marche vous
+arrivez chez Facebook et on vous confie
+une tâche on vous dit vous êtes
+ingénieur de C ingénieur de ça
+responsable de C ou responsable de ça si
+vous trouvez un moyen de supprimer votre
+boulot par un process d'automatisation
+vous êtes automatiquement promu dans la
+grille de salaire et la grille de
+responsabilité et donc au lieu d'avoir
+peur de se faire tuer son job par
+l'automatisation ils ont créé une
+culture qui reward reward le fait
+d'automatiser un process et ça c'est
+extraordinaire parce que ça montre
+l'exemple les managers le font eux-mêm
+et il créent des nouvelles opportunités
+ça récompense et ça se diffuse et ça
+c'est exactement ce que vous avez besoin
+de faire pour passer l'automatisation du
+skale alors ça veut dire un
+investissement sur des choses qui sont
+pas faciles d'abord il y a un
+investissement dans les outils dans Coup
+d'État anyone can scale saison 1 on vous
+a beaucoup parlé des outils que vous
+pouviez utiliser dans le cadre d'une
+oputalisation Valentin vous a montré des
+choses à faire et cetera ça très bien
+mais c'est pas suffisant ce que vous
+avez besoin de faire c'est que tout le
+monde dans votre organisation soit formé
+à ça et vous devez y passer du temps et
+vous devez prendre du temps pour montrer
+aux gens comment faire des choses alors
+évidemment tout le monde va pas être au
+même niveau mais si tout le monde a
+l'obsession de se dire que chacun dans
+son coin il optimise son travail en
+l'automatisant
+emble de votre organisation va devenir
+de plus en plus efficiente un autre
+exemple un peu moins radical que celui
+de Facebook pfit par exemple organise
+très souvent des acatons en interne où
+le but est d'automatiser pour les
+clients des process qui aujourd'hui sont
+manuel et pfit reward les gens qui
+pendant les acaton produisent les idées
+les plus inspirantes pour le reste de
+entreprise vous AZ plein de façons de
+faire ad scale pour susciter l'envie de
+d'automatiser
+la deuxième chose c'est qu'après avoir
+formé les gens il faut aussi vérifier
+que l'automatisation n'est pas
+esthétique alors je m'explique par
+exemple récemment dans mon équipe il
+m'est arrivé un truc alors il nous
+arrive plein de trucs quand vous avez
+une équipe quelqu'un est venu
+m'expliquer qu'il avait automatisé une
+tâche qu'il était en train de faire et
+je me suis rendu compte que faire cette
+tâche c'était une heure automatiser
+c'était une journée et qu'il avait mis
+une journée à automatiser quelque chose
+qu'il aurait pu faire manuellement une
+heure il y a énormément de tâches qui
+n'a pas besoin d'automatiser il y a
+énormément de tâches où ça coûte moins
+cher de demander sur un site comme
+upwork à quelqu'un en Inde en Thaïlande
+de le faire à la main que d'essayer
+d'automatiser la tâche donc soyez
+intelligent et n'allez pas automatiser
+des choses qui n'ont pas besoin d'être
+automatisé et ça ça passe par une
+culture du reward du retour sur
+investissement parce que quel est le
+problème c'est qu'à partir du moment où
+vous dites dans une organisation par
+exemple à the family que vous êtes
+heureux quand les gens automatisent leur
+travail les gens vont avoir tendance
+aussi à automatiser des choses qui ne
+servent à rien c'est pour ça qu'il ne
+faut pas perdre de vue la CAPI du retour
+sur investissement là à ce momentl on va
+diviser les entreprises en trois grandes
+catégories il y a d'abord les
+entreprises de geek
+le CEO a depuis toutous petit programmé
+c'est un nd il a pas il a l'habitude
+d'automatiser des choses il s'est codé
+et cetera alors ces entreprises je vous
+encourage à une chose et une chose
+simple c'est de pas perdre cette culture
+et de comprendre que vous avez un
+avantage sur les autres entreprises
+extraordinaire si vous arrivez à allier
+cette passion du coding et cette passion
+de l'automatisation avec un vrai sens
+client et un bon business sens qui
+savoir qu'est-ce qui est utile et
+qu'est-ce qui est pas utile et d'être
+vraiment très pragmatique donc être plus
+à cœur que ingénieur si vous avez cet
+esprit de pirate efficace où vous allez
+chercher le trésor vous pouvez créer une
+organisation hors du commun d'ailleurs
+nous à the family on adore les hackurs
+euh le hackur Spirit c'est un peu qui on
+est et on aime cette culture et on aime
+les CEOs qui ont cette culture alors
+évidemment la culture du piratage la
+culture du hacking ça prend des années
+c'est pas du jour au lendemain qu'on
+devient un un cœur maintenant tout
+s'apprend et vous pouvez tous faire ce
+chemin mais comme je vous l'ai dit pour
+créer une culture il faut d'abord
+montrer l'exemple si vous vous sentez
+nul avec les outils et cetera et ben
+vous faites tout ce qu'il faut faire
+pour plus l'être prenez 2 heures de
+cours de soir s'il faut c'est un peu
+comme imaginez que pour votre business
+vous avez besoin de parler anglais parce
+que vos clients sont anglais qu'est-ce
+que vous allez faire bah vous allez
+regarder vos séries Netflix sans
+sous-titrre vous allez parler tous les
+jours anglais avec des gens vous allez
+mettre dans votre vie l'anglais vous
+allez essayer de rencontrer des gens en
+weekend en vacances dans des pays
+anglophones parce que si vous êtes pas
+au niveau vous voulez atteindre le
+niveau et la façon la plus simple
+d'atteindre le niveau c'est de mettre ça
+dans votre vie et ben c'est un peu la
+même chose avec la l'automatisation
+faites des choses à la maison
+automatiser des choses dans votre boîte
+email perso automatiser des choses dans
+votre vie faites des process faites des
+choses que vous pouvez ensuite refaire
+au travail dans un dans un environnement
+plus critique et en montrant cet exemple
+et en donnant du temps aux gens pour
+faire ça vous pouvez alors le cas le
+plus extrême c'est le fait de consacrer
+des journées à ça où tous ensemble les
+gens un peu plus avancés les gens un peu
+moins avancés on se donne tous comme
+objectif d'automatiser quelque chose
+c'est les automatiqu Friday par exemple
+le premier vendredi de chaque mois toute
+l'entreprise ne fait rien d'autre que
+travailler à faire ce genre de chose
+mais j'insiste comprenez très quelque
+chose de très simple il y a une guerre
+entre les boîtes qui savent automatiser
+et les boîtes qui savent pas automatiser
+vous pouvez Gindre vous pouvez vous
+plaindre vous pouvez vous dire c'est pas
+pour vous mais moi je vous le garantis
+si vous êtes du côté de la ligne ou vous
+êtes celui qui ne s c'est pas automatisé
+vous avez fait aucun effort ça va
+bientôt être comme être incapable de
+lire parce que le niveau
+d'automatisation des entreprises les
+plus efficaces commence grâce à airtable
+et à tous les outils nos codes à être
+tel que la concurrence contre ces
+entreprises va devenir quasi impossible
+pour les entreprises qui sont obsolètes
+donc prenez ce challenge très au sérieux
+mettez-vous-y personnellement pour que
+tout le monde s'y mette au sein de votre
+entreprise alors évidemment Valentin va
+faire des recettes va vous montrer des
+exemples et vous allez trouver un début
+de réponse dans anyone can scale
+maintenant soyons clair à anyone k scale
+on n'est pas là pour refaire YouTube les
+gars énormément de feedback qu'on a eu
+c'est je veux plus de si je veux plus de
+ça et les gars on va sur Google on va
+sur youtube il y a un milliard de
+ressources qui ont été fait sur
+l'automatisation par des gens beaucoup
+plus brillants que nous nous on est là
+pour vous faire bouger le cul on est là
+pour vous dire arrêtez de vous plaindre
+arrêtez de croire que c'est compliqué
+faites-le et si vous le faites
+suffisamment ça va devenir naturel et si
+ça devient naturel pour vous vous saurez
+où trouver les ressources parce qu'en
+fait les ressources elles sont partout
+il y a pas un cas par exemple moi qui
+fait pas mal d'automatisation Excel dans
+mon quotidien à chaque fois que je tape
+une question dans Google sur
+automtisation je tombe sur une vidéo
+YouTube qui montre comment le faire il y
+a pas besoin d'avoir le savoir au
+préalable vous pouvez apprendre étape
+par étape en fonction de vos besoins
+mais à chaque fois que vous faites
+quelque chose de répétitif et que ça
+prend vraiment beaucoup de temps et pas
+une heure et que ça peut vraiment
+améliorer votre quotidien d'automatiser
+et ben faites-le faites l'effort de
+pouvoir mettre l'automatisation dans
+votre vie et aller chercher toutes les
+ressource un truc qui est très important
+à comprendre c'est que pour devenir un
+maître du scale faut devenir un maître
+de
+l'enseignement il existe une corrélation
+directe entre votre capacité pédagogique
+et votre capacité à faire SCER une
+entreprise si vous réfléchissez bien
+qu'est-ce que c'est faire CEER une
+entreprise faire SCER une entreprise
+c'est avoir tout le monde qui regarde
+dans la même direction qui est capable
+de prendre les bonnes décisions sans
+jamais vous transformer en un goulot
+d'étranglement et c'est pour ça que
+enseigner c'est plus important que tout
+parce que enseigner c'est transmettre ce
+que vous savez et l'offrir à tous alors
+il y a pas de façon de devenir un bon
+enseignant il y en a qu'une c'est
+d'enseigner anyone can teach tout le
+monde peut faire l'effort de réussir à
+enseigner en interne les choses que les
+gens ont besoin et ça c'est hyper
+essentiel pourquoi parce que si vous
+avez la réponse à un sujet et qu'on vous
+pose une question vous allez à la
+vitesse vous êtes capable de répondre à
+la question mais si vous êtes capable
+d'enseigner aux gens la réponse et
+queeux même sont capables de l'enseigner
+à d'autres et ben votre pouvoir devient
+démultiplicateur le Scale c'est avant
+tout un exercice d'humilité c'est avant
+tout de savoir que si vous êtes capable
+de faire quelque chose tout le monde est
+capable de le faire il faut arrêter de
+penser que vous êtes unique et il faut
+donc penser que tout le monde peut faire
+les choses et pour faire les choses il
+faut pouvoir donner aux gens
+l'opportunité de l'apprendre et pour
+pouvoir permettre aux gens d'apprendre
+il faut faut devenir bon à les enseigner
+et ça c'est hyper important moi
+j'encourage tous mes entrepreneurs à
+toujours prendre une opportunité d'aller
+faire une conf de faire un cours en
+interne de prendre un sujet et vous avez
+besoin de créer cette culture où tout le
+monde enseigne à tout le monde en
+permanence et la seule bonne façon de
+faire c'est la répétition la répétition
+et la répétition si vous essayez de
+faire comprendre aux gens ce que vous
+faites vous deviendrez même meilleur à
+ce que vous faites parce que la
+meilleure façon d'apprendre quelque
+chose c'est de l'enseigner je vais vous
+donner un exemple de cette guerre qui
+l'automatisation et je vais vous montrer
+à quel point c'est un sujet important
+dans l'économie contemporaine il y a une
+entreprise à the family qui me fascine
+elle s'appelle totem totem c'est une
+entreprise qui me fascine d'abord par
+une chose que je dis avec toute laamétié
+du monde c'est sont ridiculle je
+m'explique vous avez deux
+polytechniciens dont le rêve est de
+vendre des cacahuètes dans des
+entreprise d'ailleurs quand ils étaient
+à l'École polytechnique leur prof leur a
+dit les gars vous avez quand même pas
+pas créer cette boîte vous aez pas fait
+Polytechnique pour aller vendre des
+cacahuètes et des pistaches mais ce que
+j'aime chez Raphaël de la Verne c'est
+son sens de l'humour Raphaël il a pas
+d'ego il est pas là pour faire quelque
+chose qui a l'air sérieux il est pas là
+pour faire quelque chose qui a l'air
+prestigieux il est là pour faire un
+super business et un business qui tourne
+et il s'est rendu compte qu'il y avait
+une opportunité dans toutes les
+entreprises qui était d'installer un
+endroit cafétéria et snacking qui soit
+meilleur que la basse alors vous allez
+me dire elle est où l'autom il suffit de
+mettre des cacahuètes c'est bon mais
+qu'est-ce qui se passe quand on se pose
+la question de mettre les cacahuètes 10
+fois plus vite que tout le monde à des
+endroits plus incroyables et le plus
+rapidement possible avec le moins de
+cooupt possible vous pouvez le faire
+comme tout le monde avec le même taux de
+marge mais vous pouvez aussi le faire de
+façon étonnamment processée et
+étonnamment efficace totem a poussé
+l'automatisation de la gestion de stock
+de la provovision
+de la gestion d'entrepôt ils ont créé
+leur propre backend maison qui leur
+permet de suivre et de traquer
+l'ensembre des gens qui vont installer
+les snacking à tel point qu'aujourd'hui
+leur productivité sur le marché est
+dingue et leur taux de rentabilité est
+supérieur à l'ensemble des autres
+acteurs voyez c'est ça la suprématie du
+produit la suprématie du produit c'est
+de pouvoir aller automatiser des choses
+qui coûtent de l'humain aux autres et si
+ça vous coûte 10 % de moins 20 % de
+moins 30 % de moins c'est 10 20 ou 30 %
+que vous pouvez investir dans votre
+communication que vous pouvez investir
+dans votre coût d'acquisition que vous
+pouvez investir dans votre croissance et
+vous pouvez donc croître beaucoup plus
+vite que tout le monde sur le marché et
+chez totem ce qui est fascinant c'est
+que
+cette ambition cette obsession elle est
+présente depuis le premier jour au début
+c'était des Excel mieux que tous les
+Excel ensuite c'est devenu un backend
+web ensuite c'est devenu une app mobile
+ils ont pas construit une centrale
+nucléaire pour alimenter un un village
+de pêcheur non ils ont petit à petit
+utilisé des outils de plus en plus
+complexes pour atteindre des nouveaux
+objectif d'automatisation et ça ils
+l'ont créé pour que tout le monde en
+interne ait le réflexe de filer du
+feedback et de voir comment gagner
+quelques minutes parci quelques minutes
+par là si on peut automatiser pour
+vendre des
+cacahuètes totem nous a montré que
+c'était possible on peut le faire pour
+tout évidemment vous pourvez vous dire
+oui mais c'est ce que T les les
+logisticiens font mais ce qui est fou
+chez totem c'est qu'on parle pas
+simplement d'optimiser la logistique on
+parle d'optimiser l'approvisionnement on
+parle d'optimiser les décisions de prix
+on parle de donner aux clients des
+outils pour automatiser le feedback
+l'approvisionnement le choix on donne
+des outils aussi aux clients pour créer
+du lien chez lui dans son entreprise et
+impliquer l'ensemble des salariés dans
+le choix de qu'est-ce qu'il y aura à la
+caféterriia totem voyez c'est une vision
+qui dépasse de loin le simple
+approvisionnement en produit c'est
+quelque chose qui vient irriguer
+l'ensemble de la chaîne de valeur quel
+est le plus grand obstacle de
+l'automatisation si on prend on met de
+côté le savoir-faire imaginons une
+entreprise où les gens savent faire
+pourquoi on automatise pas plus vite bah
+c'est ce qui se passe à the family c'est
+ce qui se passe à coup d'État c'est ce
+qui se passe dans toutes les entreprises
+de l'univers the family c'est très dur
+de prioritiser futur par rapport à
+l'urgence du présent le manuel a cet
+avantage d'avoir un résultat immédiat
+quand on a besoin d'automatiser quelque
+chose il faut prendre le temps de
+s'arrêter et il faut donner au temps le
+temps de produire son résultat et c'est
+frustrant parce qu'on a déjà pas le
+temps c'est pour ça que je vous
+encourage le plus possible à dédier des
+plages horaires fixes pour
+l'optimisation l'optimisation devrait
+pas être un processus continue
+ça devrait être une contrainte comme le
+sport dormir et manger mettez au sein de
+votre organisation des rituels la
+ritualisation de votre entreprise est
+une arme pour le Scale on va introduire
+cette notion qui est de créer des rituel
+la différence entre le Scale individuel
+et le Scale collectif c'est que la le
+Scale individuel passe par
+l'autodiscipline et la conviction le
+Scale collectif passe par la
+ritualisation et c'est quoi un bon
+rituel un bon rituel c'est un message
+clair un
+objectif simple et un temps dédié on va
+à la messe le dimanche euh on fête son
+anniversaire on a son baptême vous voyez
+c'est des moments de temporalité et
+l'automatisation ça passe par le fait de
+créer des rituels en interne prenez du
+temps collectif dédié à ça et vous
+verrez que vous ferez beaucoup plus de
+progrès qu'espérez le faire en continu
+quand l'envie vous vient et à force de
+faire ces rituels vous allezêt de plus
+en plus efficace et vous allez réussir à
+obtenir vos objectif en terme
+d'automatisation dernier outil et voyons
+comment ça diffère quand on est en
+équipe c'est la délégation au client
+alors la délégation au client dans une
+boîte à scale c'est une fonction product
+l'avantage c'est que quand on scale une
+organisation on peut spécialiser des
+gens dans l'entreprise et un peu comme
+la standardisation
+la délégation au client devient la
+responsabilité d'un product honneur et
+d'une équipe alors ce qui est
+intéressant dans la délégation au client
+c'est que ça demande des qualités un
+petit peu différentes de la pure
+standardisation je m'explique lorsque
+vous pensez un produit vous voulez
+contraindre l'utilisateur et vous voulez
+que l'utilisateur vous donne les
+informations de façon standard mais
+lorsque vous voulez créer une communauté
+vous avez besoin de comprendre les
+incitations économiques de la communauté
+alors les gens qui ont fait ça le plus
+extraordinaire c'est évidemment les
+réseaux sociaux qui nous ont tous
+transformé en journalistes commentateurs
+et cetera mais même eux ils ont pas
+réussi à transformer tout le monde at
+scale la délégation au client ça passe
+aussi par le fait qu'une majorité de
+clients peut vivre un process un peu
+plus passif je m'explique sur facebook 1
+% des gens en cré 9 % commentent 90 %
+lisent en silence le but de facebook
+étant d'engager tout le monde ils ont
+créer le bouton Like et cetera mais même
+les likes regardez dans votre entourage
+tous les radins du like qu'on a tous ces
+gens qui regardent tout consomme tout
+mais le like jamais parce qu'ils ont
+l'impression que c'est un andersman que
+c'est un avis qui donne ou une volonté
+beaucoup trop importante par rapport à
+leurs besoins et leurs soucis de privae
+ils veulent pas que un facebook sache ce
+qu'ils aiment et ce qu'ils aiment
+pas évidemment Facebook c'est un cas
+extrême de délégation au client mais
+comme facebook vous avez besoin de
+structurer vos clients en plusieurs
+catégories vous avez besoin d'un product
+honur qui a un petit groupe de gens
+extrêmement fans et qui sait qu'il peut
+leur demander plus de choses c'est les
+fameux 1 % qui créent et toujours
+toujours penser en terme de mécanisme
+design quel est l'intérêt des gens
+pourquoi les gens font quelque chose
+pour pourquoi les gens voudraient
+participer et collaborer avec votre
+entreprise pourquoi les gens mettent
+leurs photos gratuitement sur Instagram
+quelle est la raison objective qu'est-ce
+que Instagram nous donne en échange on
+accuse ces entreprises d'être des des
+entreprises malfaisante qui sont des
+fabriques à dopamine et qui nous rendent
+dépendant de notre besoin de dopamine il
+y aurait un mécanisme chimique au like
+quand vous postez quelque chose et que
+quelqu'un like ça produit une décharge
+de dopamine et votre recherche de cette
+charge de dopamine nous rend extrêmement
+malheureux mais bon avant d'être dans
+ces cas extrêmes essayons de penser à la
+nature réelle de ces entreprises ces
+entreprises ne sont pas là pour régler
+les problèmes humains elles sont pas là
+pour nous rendre meilleur elles sont là
+pour nous offrir un service dont on a
+besoin moi j'ai pas envie de vivre dans
+un monde avant Instagram j'ai pas envie
+de vivre dans un monde avant facebook
+j'ai pas envie de vivre dans un monde
+avant Twitter c'est comme tout un un
+usage irraisonné de ces réseaux sociaux
+rend malheureux et je vous demande pas
+de rendre malheureux vos utilisateurs
+mais je vous demande de comprendre
+profondément c'est quoi les intérêt
+profond et non avoable que vos
+utilisateurs ont d'utiliser votre
+service et si vous arrivez à trouver des
+secrets si vous arriver à trouver leur
+péchés capitaux de pourquoi ils
+utilisent quelque chose vous pourrez
+peut-être leur demander l'extra miles
+nécessaire à votre business et cette
+segmentation de vos utilisateurs entre
+ceux qui peuvent faire beaucoup et ceux
+qui peuvent faire rien est un outil au
+service de votre scale pour bien penser
+une entreprise à scale il faut penser
+qu'est-ce que je peux demander à qui et
+d'être capable de segmenter de façon
+dynamique l'ensemble de votre base
+d'utilisateur ça repose sur
+l'observation ça repose sur la data
+cette dernière partie est sans doute la
+partie la plus data driven de votre
+entreprise vous devez apprendre à lire
+les Data collecter la data et savoir
+comment rendre cette data opérationnelle
+et vous avez besoin encore une fois d'en
+faire une tâche collective pourquoi
+parce que ce ne sera pas le travail
+d'une personne mais dans ce cas-là ce
+sera le travail d'une équipe la
+standardisation c'est la décision et le
+CO d'une personne l'automatisation c'est
+le travail de tout le monde le fait de
+faire travailler les utilisateurs c'est
+le travail de plusieurs équipes en
+parallèle dans une organisation qui
+alors comme la
+standardisation la délégation au client
+c'est un autre aspect de la
+productisation
+délég au client automatisé tout ça c'est
+les mêmes facettes d'un domaine beaucoup
+plus large qui s'agit qui qui est le
+développement de produit le fait de
+penser produit prenons un exemple side
+side c'est une entreprise de the family
+qui est une agence intérime c'est régulé
+comme une agence intérime ça fait le
+travail d'une agence intérime et
+pourtant ça dépense par mission beaucoup
+moins d'argent qu'une agence inter pour
+pourquoi parce qu'ils font travailler
+les clients et ils font travailler les
+intérimaires ça aide leur obsession
+c'est d'être le moins possible un goulot
+d'étranglement comment ils font ça ils
+font ça en donnant une app mobile à leur
+intérimaire et ils font ça en donnant un
+dashboard à leur client entreprise et à
+leur clients entreprise ils essayent de
+donner le maximum et le maximum ça passe
+par quoi ça passe par avoir tous les
+outils nécessaires pour pouvoir prendre
+des décision
+sans avoir besoin de contacter un
+charger clientèle de site et la KPI que
+side essaie de suivre c'est combien de
+missions match sans aucune intervention
+humaine cette obsession de la
+productisation elle se reflète dans la
+délégation client qui che Side et d'un
+côté les intérimaires et de l'autre les
+entreprises qui utilisent leurs services
+alors évidemment cette productisation
+c'est une équipe vous avez besoin d'un
+productur quelle est la petite subtilité
+entre la standardisation
+et la délégation client c'est que la
+standardisation a besoin d'une cohérence
+globale c'est pour ça que vous avez
+besoin d'un décisionnaire unique qui est
+en général le chef de l'équipe produit
+parce qu'il a besoin d'avoir toute
+l'information sur quelles sont les
+décisions de standardisation qui ont été
+prises par contre la délégation client
+c'est quelque chose qui peut fonctionner
+en Squad vous pouvez avoir des équipes
+qui testent des choses et vous pouvez
+même avoir des version concurrente de
+votre produit pour reprendre un un
+produit que j'affectionne énormément
+Facebook qui est un peu vintage
+maintenant Facebook a des équipes
+produits qui travaillent sur des
+versions concurrentes de Facebook et au
+fur à mesure que vous scalé vous êtes
+capable de tester des versions de plus
+en plus élaboré et simple de votre
+produit et de vous être capable de
+tester des versions de plus en plus
+différentes et fragmenté en fonction de
+vos segments utilisateur le Scale ça
+passe pas par le fait de faire la même
+chose pour tout le monde ça c'est
+l'illusion le Scale ça passe aussi par
+être capable de créer des microoversion
+de votre produit qui ne portent pas de
+noms différents qui n'ont pas de marques
+différents qui sont invisibles pour
+l'utilisateur et qui lui donnent le
+sentiment que le produit a été pensé
+pour sa niche son segment son
+utilisation donc vous l'avez vu j'ai
+beaucoup insisté sur le fait que ces
+trois outils du scale quand on passe du
+scale individuel au scale collectif ça
+implique un certain nombre de
+changements au sein d'une organisation
+c'est ce qu'on appelle organizational
+behavior c'est comment designer une
+organisation qui fonctionne correctement
+et ça ça va être le sujet du prochain
+épisode j'espère que cet épisode vous a
+plu n'hésitez pas à laisser vos petits
+commentaires et on se retrouve dans
+l'épisode suivant pour parler de comment
+faire en sorte que son organisation soit
+efficace et comment adapter à toutes les
+étapes du scale l'organisation de son
+entreprise

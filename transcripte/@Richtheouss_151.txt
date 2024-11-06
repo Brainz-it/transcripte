@@ -1,0 +1,1916 @@
+bonjour à tous bonjour à toutes
+bienvenue dans cette saison 2 de coup
+d'état entreprendre dans laquelle on va
+parler de créer un produit au travers
+des épisodes de cette saison on va
+essayer de découper et de montrer un peu
+comment euh aborder la création d'un
+produit depuis la validation du marché
+le fait de tester le marché jusqu'à
+déléguer la création et la gestion de ce
+produit à une équipe et on va essayer de
+passer sur toutes les étapes entre les
+deux de donner des méthodes des outils
+et essayer de de te montrer en fait
+comment on va faire pour créer un
+produit que les gens aiment vraiment et
+qu'ils ont envie d'utiliser
+dans ce premier épisode on va parler de
+valider l'intérêt du marché et donc en
+fait de vérifier qu'on est pas en train
+d'avoir une idée de produit qui est
+complètement farfelue et qui n'intéresse
+personne parce qu'en fait c'est ça le
+plus grand risque la l'erreur la plus
+facile à faire quand on veut commencer à
+créer un produit c'est d'imaginer
+quelque chose que tout le monde va
+vouloir alors qu'en fait personne n'en
+veut et pour ça il y a plusieurs
+techniques on va essayer d'en voir un
+maximum dans cet épisode notamment la
+création d'une landing page pour pouvoir
+aller chercher et tester s'il y a des
+gens effectivement en ligne sur internet
+qui sont intéressés par le produit qu'on
+a envie de créer même s'il n'existe pas
+encore quand on veut créer un produit le
+truc le plus évident qu'il y a à faire
+dès le départ c'est d'imaginer quelque
+chose d'avoir une idée de partir du d'un
+truc qu'on veut créer absolument et qui
+semble être une excellente idée c'est
+facile parce que on peut l'imaginer à
+l'infini en fait on peut imaginer une
+première version de ce produit puis on
+peut imaginer y rajouter une
+fonctionnalité et puis une autre et puis
+une autre et se perdre complètement dans
+ce cycle éternel qui fait qu'on arrive
+jamais finalement à avoir un produit
+final duquel on est fier et qu'on est
+prêt à lancer on se dit toujours que ça
+pourrait être mieux et qu'avant de le
+montrer au monde il faudrait qu'il soit
+parfait le problème c'est que ça
+n'arrive jamais parce qu'en fait on n
+jamais satisfait de d'un d'un produit
+comme celui-là et que tu finis par
+tomber dans une situation où tu passes
+un temps fou à développer ton produit et
+rien ne se passe une fois que tu le
+lances en fait les gens il voient que
+c'est là et personne n'est intéressé
+donc il faut réussir àacler ça
+absolument parce que sinon tu tomes dans
+une situation où tu es dans un vide et
+où personne n'est intéressé par ce que
+tu proposes c'est ce qui est arrivé par
+exemple à Thomas pariante qui s'occupe
+du produit chez coup d'État euh
+en fait à sa première start-up avec
+Nicolas qui est dev backend chez coup
+d'Éat ils ont ils ont fait exactement
+cette erreur là ils ont passé des mois
+et des mois à construire dans leur coin
+un produit qui n'avait d'intérêt pour
+personne donc tu parles d'un
+comportement qui existe quand même ouais
+à la base où c'est j'observe que il y a
+des gens qui créent des contenus qui
+sont vraiment intéressants je veux les
+rassembler tous chez moi pour que tu es
+une base de données intéressante de de
+bah de de contenu qui t'aide à te à te
+former pédagogiquement tout seul quoi
+exactement ça c'est l'idée de base ça
+c'est le principe de base sur le papier
+ça fonctionne genre sur le papier c'est
+une bonne idée tu vois c'est genre tuas
+le truc de la mission c'est louable ça
+te parle c'est un truc que tu as vécu
+personnellement
+donc qu'est-ce qu' a foiré quoi genre
+qu'est-ce qui s'est passé genre pourquoi
+pourquoi ça a pas marché comme tu
+l'imaginais tu vois première erreur de
+pas assez parler aux gens en fait on a
+commencé par développer un produit avant
+même de parler au à l'audience a qui
+onessé
+c'est-à-dire aux étudiants alors lycée
+collège prépa fac école enfin vraiment
+tout le monde a besoin d'apprendre des
+trucs tu vois après c'est juste une
+question de niveau de de difficulté mais
+globalement tout le monde est en PH
+d'apprentissage et de toute façon tout
+le monde va de plus en plus de plus en
+plus tard tuis donc de ce point de vuel
+c'était pas forcément le il y avait pas
+une cible ultra précise même si on se
+concit finement sur le lycée donc
+premier ça de se dire bah on a observé
+un truc on a pas interroger les gens sur
+savoir pourquoi il le faisait qu'est-ce
+qui qu'est-ce qu'ils en attendaient
+qu'est-ce qui les frustrait dans dans ce
+qu'il
+faisait qu'il a des choses qui
+attendaient en plus et cetera à la fois
+côté prof créateur de contenu et on va
+dire consommateur de
+contenu que c c'était une Marketplace
+donc tu avais une offre une demande ça
+c'est une plformme quoi t ouais ton
+offre c'était vraiment ces gens en
+théorie qui écrivent sur leur blog et
+qui et qui crée de la valeur pour
+t'aider à apprendre et la demande c'est
+les étudiants qui venaient se former
+exactement c'est ça l'idée ça nous
+semblait trop dur ça aussi qui est
+absurde tu mais en fait ça n semblait
+trop dur et trop long d'atteindre un
+niveau suffisant pour crafter notre
+première version du produit ce qui était
+faux ça c aussi une erreur de s'imaginer
+que c'était insurmontable en vrai à 2
+mois à temps plein à 4 on arrivait à à
+bâtir suffisamment pas d'expertise mais
+de de connaissance pour commencer des
+trucs nous-même tu vois et ça on le
+savait pas donc cétait la première heure
+et du coup ce qu'on a fait c'est qu'on a
+pris un stagiaire donc ça c'est c'était
+pas une blague tout à l'heure donc on a
+vraiment pris un stage BL on a pris un
+stageur pour bâtir la première version
+de notre produit mais l'erreur c'était
+se dire enin c'était une erreur de se
+dire ok on va outsourcer notre produit
+sans y connaître rien du tout auprès de
+quelqu'un qui est à priori pas quelqu'un
+de confiance parce qu'on connaissait pas
+euh mais qui final ça en fait ça été une
+erreur pas si grave que ça mais ça été
+une grosse prise de risque et on l'avait
+pas mesuré ça cétait une première un
+premier truc je pense qu'il y a plein de
+gens qui se font avoir tu vois et qui
+prennent un pas forcment un stagiaire
+mais une agence un freelance et tout et
+G sans être forcément de mauvaise foi va
+pas
+forcément être toujours dans la remise
+en question de de ce qui est proposé et
+c'est quelque chose qui B en fait du
+coup globalement ça a été une grosse
+prise ça aurait pu être une erreur
+fatale ça l'a pas été l'erreur ça été de
+se dire on va crafter un produit dans le
+cerveau avec
+Nicolas on va le conoir tout
+parfaitement waouh dans notre tête ça
+marche trop bien et et B on pendant 4
+mois ah ouais voilà ça ça a été une
+connerie qu'est-ce que vous avez fait
+pendant 4 mois pendant que pendant que
+Bastien é codait si tu veux on attendait
+que le le enfin on avait cette posture
+vraiment bah pendant que le dev se fait
+on a rien à vendre alors qu'en vrai si
+tu vois totalement mais ça on le savait
+pas enfin en tout cas on avavait pas
+réalisé ça il y avait pas
+de enfin pour nous il y avait rien à
+faire tu vois en fait tant que le
+produit existait pas il y avait rien à
+vendre ce qui est une connerie mais on
+savait
+pas c'est ça l'erreur c'est de croire
+que créer un produit ça passe uniquement
+par la création en elle-même du produit
+en fait il y a tout l'aspect derrière
+qui est qu'est-ce qui m'amène à créer ce
+que je crée quoi exactement et qu'on
+néglige toujours finalement le cré un
+prod ça va être le dernier truc que tu
+fais tu vois il y a pas de checklist
+hein mais s'il y avait une checklist si
+on faisit comme ça ou dans le cycle la
+dernière étape de ton cycle c'est bâtir
+un truc
+euh avant ce que tu fais c'est que tu
+apprends sur les users tu découvres ENF
+tu découvres quis sont quel est le
+problème tu testes tes hypothèses tu
+testes ton marché tu testes ta
+proposition de valeur tu essaies de
+signer des contrats tu vois tu essaies
+de gagner de la tune avant Mme d'avoir
+quoi que ce soit et ça on l'a pas fait
+ouais et qu'est-ce qui s'est passé après
+après on est on a run out of cash
+motivation et people du coup et tout ça
+un peu à la fois voil OK et donc là le
+le projet est mort définitivement ok
+donc c'est pas une histoire qui finit
+bien quoi bah si parce qu'au final en
+fait à la sortie de ça je me suis dit
+dis mais c'est l'entrepreneuriat que je
+fais en faitf c'est ça tu vois et quand
+tu réalises en fait t les cor que tu as
+fait
+ok ok et du coup j'ai dropout de central
+ni av déjà drop de dancia et et puis je
+me suis en fait c'est ça que je faire je
+vais essayer de
+bâtir ma vie à venir dans cet univers
+là ok donc ça ça finit ok bah trop cool
+merci merci beaucoup une fois qu'on sait
+ça une fois qu'on sait que cette erreur
+c'est la plus commune et qu'il faut
+absolument de l'affaire comment on fait
+pour le contrer pour contrer ça il faut
+s'assurer que les gens ont un intérêt
+pour le produit que tu es en train de
+développer donc déjà la base du truc
+c'est que si tu as pas 20 clients à qui
+tu peux vendre ton produit ou faire à
+qui tu peux faire tester ton produit au
+jour 1 c'est très probablement tu as pas
+une une idée qui va fonctionner sur le
+marché parce que sinon ça voudrait enfin
+si tu as pas 20 personnes même si tu les
+connais pas et que tu as pas un accès
+direct à elle mais si tu as pas 20
+personnes auxquelles tu peux penser là
+comme ça qui utiliseraiit ton produit
+c'est qu'il y a forcément aucun intérêt
+ensuite le meilleur moyen pour tester
+l'intérêt du marché et et vérifier que
+tu es pas en train d'être complètement à
+côté de la plaque c'est d'être à
+l'écoute de ce marché d'être à l'écoute
+des gens qui le composent et en fait
+c'est le travail d'entrepreneur de
+manière générale il faut arriver à
+saisir les opportunités à les détecter
+déjà et ensuite à saisir les
+opportunités un bon exemple de ça c'est
+Airbnb Airbnb à la base c'est pas du
+tout ce qu'on connaît c'est pas du tout
+une énorme Marketplace où tu as des
+particuliers qui vont louer leur
+appartement à d'autres particuliers qui
+viennent en voyage et cetera à la base
+Airbnb les mecs ils ont ils sont rendus
+compte qu' avait une conférence à côté
+de chez eux à côté de leur de leur
+appart étudiant où ils étaient en
+collocque et à cause de cette conférence
+tous les hôtels de la ville étaient déjà
+réservés et il y avait plus aucune place
+dans les hôtels de la ville et ils sont
+dit à ce moment-là ok il y a une
+opportunité de marcher il y a des gens
+qui sont prêts à payer même cher pour
+avoir un logement quel qu'il soit parce
+que leur c'est pas d'avoir un bel
+appartement ou d'avoir une belle chambre
+d'hôtel mais juste de se loger pour
+assister à la conférence et dans ce
+cadre là on a une opportunité si on met
+un matelas gonflable par terre dans
+notre salon et que on on fait payer les
+gens pour qu'ils viennent passer une
+nuit d'hôtel entre guillemets chez nous
+directement on peut faire quelque chose
+d'intéressant et ça part toujours d'une
+opportunité marché comme celle-là Airbnb
+c'est un exemple il y en a d'autres par
+exemple pour prendre un autre exemple
+prenons anyone can scale anyone can
+sccale c'est la formation qu'on crée
+chez d'État qui a pour vocation d'aider
+les boîtes de services donc qui sont par
+définition non scalables parce qu'elles
+demandent du temps de travail pour avoir
+du revenu on veut aider ces boîtesl à
+scaler et à décorréler en fait leur
+revenus de du temps de
+travail ça à la base ça part d'une
+opportunité marché aussi c'est pareil on
+crée coups d'État on crée tout le
+contenu gratuit qu'on fait et cetera et
+on se rend compte qu'au fur et à mesure
+il y a énormément de gens qui viennent
+nous parler et qui nous disent ok c'est
+cool tout ce dont vous parlez avec avec
+les histoires de start-up avec les
+boîtes tech et cetera mais moi je suis
+boulanger moi je suis avocat moi je suis
+freelance moi j'ai une boîte de service
+et en fait dès que vous parlez de
+scalabilité je me dis que c'est
+impossible et que ça me concerne pas et
+à chaque fois on leur répond la même
+chose qui est mais si genre ça te
+concerne il y a des techniques qu'on
+peut mettre en place effectivement tu
+sais peut-être pas qu'elles existent
+donc on va créer un produit pour toi qui
+va être une formation en vidéo où on va
+te montrer comment faire pour aller
+chercher de la scalabilité
+là où il est pas censé en avoir encore
+une fois opportunité de marcher on est à
+l'écoute on n pas forcément d'appriori
+on a pas forcément d'idée de base par
+contre on est à l'écoute des demandes du
+marché parce qu'on est au contact de ce
+marché
+[Musique]
+constamment quand tu détectes une
+opportunité de marcher au final après il
+va falloir commencer à essayer de parler
+un maximum aux gens qui composent ce
+marché leur parler personnellement et il
+y a un écueil à éviter qui est très
+compliqué à éviter parce que c'est c'est
+la solution de facilité c'est de parler
+soit à tes potes soit à d'autres
+entrepreneurs et en fait c'est quasiment
+toujours une erreur c'est c'est ça
+marche jamais parce que quand tu parles
+à tes potes ils veulent te faire plaisir
+ils sont là pour te dire que ce que tu
+fais c'est bien ils sont là pour te
+soutenir mais ils font rarement en fait
+partie de ta cible et donc ils te
+donnent pas forcément des feedback de
+est-ce que eux ça les intéresse et ils
+vont te donner des feedback de bah ouais
+c'est cool tu fais ta boîte je suis
+content pour toi et en plus de ça que ce
+soit tes potes ou des entrepreneurs il y
+a très forte chance pour qu'il soit même
+pas dans ta cible et qu'en fait tu
+demandes des conseils et des et des
+feedback à des gens qui n'ont même pas
+d'intérêt à la base à utiliser ton
+produit et ça c'est forcément une erreur
+il y a forcément un truc qui fonctionne
+pas là-dedans ce qui illuste le mieux ça
+c'est quand même tous les trucs toutes
+les communautés d'entrepreneurs qu'on
+peut voir sur Facebook les groupes et
+cetera je citerai pas de nom et moi j'ai
+toujours du mal un peu avec ces échanges
+là parce que c'est des gens qui viennent
+qui proposent leur idée de start-up et
+puis y a T toujours des gens derrière
+qui viennent démonter les idées de
+start-up ou dire que c'est une bonne
+idée mais au final tu enfin ça n'a rien
+enfin les gens qui vont répondre à cette
+idée de startup et qui vont donner leur
+avis sont même pas dans la cible et donc
+ils se placent un peu comme des experts
+un peu extérieur à la situation comme
+s'ils avaient compris comment tous les
+marchés fonctionnaient et que du coup
+ils pouvaient te dire si oui ou non ton
+idée était bonne dans 100 % des cas ça
+fonctionne pas genre c'est à moins que
+tu Vendes des entrepreneurs ou à moins
+que tu Vendes à tes potes ne parle pas à
+tes potes ne parle pas à d'autres
+entrepreneurs quand tu veux créer un
+produit en tout cas par exemple moi
+quand j'ai lancer l'année dernière un
+site de recette au lieu de le lancer à
+une communauté de passionnés de cuisine
+qui allait être susceptible d'utiliser
+le Site et cetera je l'ai lancé sur mon
+facebook et en fait sur mon facebook bah
+il y a tous mes potes il y a plein
+d'autres entrepreneurs il y a des gens
+qui me suivent de de menu next d'or de
+l'époque et cetera et en fait j'ai fait
+900 inscrits en une journée de mon
+réseau mais la valeur était quasi iment
+nul parce que peut-être qu'au milieu de
+ces 900 personnes il y avait 3 4 5 10
+personnes qui étaient intéressées par la
+cuisine les autres étaient juste
+curieuses de voir ce que j'avais fait et
+le problème de ça c'est que tu te
+retrouves avec ce qu'on appelle une
+vanity métrique donc j'ai 900 inscrits
+je suis très content ma boîte marche
+mais en réalité s'il y a personne de ta
+cible qui s'est inscrit sur ce que tu
+proposes c'est qu'il y a un problème et
+personne va utiliser vraiment ton
+produit et l'intérêt est pas du tout
+validé donc faut absolument éviter ça
+faut absolument éviter d'avoir les
+curieux qui viennent s'inscrire sur ton
+site et qui contribuent à faire grossir
+tes chiffres mais qui contribuent pas à
+faire grossir ton business parce qu'en
+fait c'est c'est le même résultat que si
+tu avais des faux comptes c'est comme si
+tu allais acheter des abonnés tu vas
+faire grossir le nombre mais tu as
+fondamentalement personne de réel entre
+guillemets qui est vraiment intéressé
+par ce que tu proposes donc il faut
+éviter ça à tout prix la clé pour pas
+tomber là-dedans c'est ce focus sur ta
+cible en fait de te focaliser uniquement
+sur ta cible et la cible tu dois la
+définir en amont parce que c'est elle
+qui te permet de trouver le problème que
+tu résous c'est une des questions que tu
+dois te poser quand tu crées un produit
+quel est le problème que tu résou genre
+c'est quoi le problème que tu résous
+pour détecter un
+problème il y a quand même une situation
+dans laquelle c'est plus facile c'est
+toujours plus facile de détecter un
+problème sur un marché et dans un milieu
+que tu fréquentes de manière générale
+c'est ce que je disais avec an one can
+scale juste avant en fait c'est c'était
+facile pour nous détecter le problème
+des gens qui veulent scaler leur boîte
+de service parce qu'on les côtoie au
+quotidien qui nous parle qu'on est au
+milieu de ces communautés là qu'on les
+voit échanger entre eux et cetera et que
+même nous même on on en fait partie
+aujourd'hui que ce soit coup d'état ou
+que ce soit the family on est un peu des
+boîtes de services donc au final on a
+même le problème nous-même et ça ça aide
+vraiment à détecter un problème un autre
+exemple ça va être wework wework c'est
+des espaces de coworking très haute
+qualité qui coûte plus cher que la
+majorité des espaces de coworking que tu
+peux trouver ailleurs mais qui sont qui
+ont un standing très très élevé à la
+base le mec il a pas juste l'idée do we
+work en se levant un matin il a bossé
+avant des années en coworking il a créé
+d'abord des espaces de coworking qui
+avaient pour vocation à être écologique
+autosuffisant avec des éoliennes sur les
+toits et où au final il pouvait avoir
+une espèce d'espace de coworking vert et
+puis au bout de quelques années à faire
+ce business là et avoir et après avoir
+accumulé de l'expérience sur les espaces
+de coworking et surtout sur ce que les
+gens attendaient d'un espace de
+coworking il s'est dit ok comment on
+passe au niveau supérieur et comment on
+crée un espace de coworking qui va
+vraiment résoudre les problèmes que tous
+les gens qui veulent travailler dans des
+espaces communs ont quels sont ces
+problèmesl et encore une fois c'est
+facile pour lui parce que ça fait des
+années qu'il traînent dans ce milieu-là
+et qu' voit des clients et qui peut
+détecter les opportunités à bal tout le
+temps tout le temps tout le temps c'est
+un truc qu'on retrouve en fait dans dans
+plein de boîtes et dans plein de
+produits différents par exemple euh si
+on prend sketch sketch c'est un logiciel
+qui te permet en fait en tant que
+webdigner de venir faire des maquettes
+de sites d'applications de de tout ce
+que tu veux en fait qui soit numérique
+et qui te permet de faire des maquettes
+design et qui est beaucoup plus pratique
+que Photoshop qui est beaucoup plus
+pratique
+qu'Illustrator ce truc est un carton
+international complet parce qu'il parle
+aux bonnes personnes les web designers
+les ux ui designers les les tous ces
+gens qui travaille un peu dans le web ou
+dans en tout cas le le le le software le
+logiciel de manière générale et on a
+détecté qu'il y avait un problème
+c'était insupportable de créer des
+maquettes sur Photoshop c'était
+insupportable de créer des maquettes sur
+Illustrator il fallait un outil qui soit
+adapté à à ce workflow là à cette à ce
+mode de travail là il fallait cet outil
+et il on juste créer cet outil et encore
+une fois à la base les mecs qui ont créé
+ce sketch c'est des designers et ils ils
+expérimentent le problème eux-mêmes ils
+se rendent compte qu'il existe ils côtoi
+plein d'autres gens qui ont le même
+problème au même temps qu'eux et donc
+ils se disent ok là clairement il y a un
+truc qu'on peut résoudre on peut
+améliorer matériellement la vie des gens
+en créant un produit on va le faire donc
+c'est ça le truc c'est qu'il faut
+essayer d'arriver à détecter le problème
+que tu veux résoudre c'est la c'est
+c'est la première étape il y a il y a il
+y a une sorte de de framework que je
+trouve très intéressant pour parler de
+tout ça c'est la matrice de nireal nal
+il a écrit un bouquin qui s'appelle
+hooked et qui en fait te t'explique
+comment créer un produit qui rend les
+gens un peu addicte à ce que tu fais et
+il a il a une de ces matrices qu'il
+utilise dans le bouquin qui euh
+qui s'appelle la matrice de la
+manipulation donc il sait apprendre avec
+des pincettes il explique éthiquement il
+faut faire attention à ce qu'on fait et
+cetera mais en tout cas cette matrice
+elle se décompose en quatre parties il y
+a deux choses qu'on va regarder pour
+qu'on va regarder pour placer un produit
+dans cette matrice justement c'est un
+est-ce que j'utiliserai moi-même mon
+produit et de est-ce que ça améliore
+réellement et matériellement la vie des
+gens si tu utilises ton produit toi-même
+et que tu améliores vraiment la vie des
+gens là on est dans le tout bon on est
+vraiment dans ce qu'on cherche dans la
+création d'un produit c'est la manière
+la plus facile de créer un produit qui
+va plaire aux gens parce que on peut
+avoir une vraie connexion avec les gens
+pour lequels on le crée et on peut
+détecter les problèmes beaucoup plus
+facilement par contre si tu améliores la
+vie des gens mais que tu l'utilises pas
+tu es juste un vendeur en fait tu es
+juste c'est c'est l'exemple par exemple
+ça va être le dropshipping genre tu vas
+vendre des produits qui t'intéressent
+pas nécessairement toi pour les auquel
+tuéprouves pas forcément d'intérêt mais
+par contre tu vas les vendre et tu vas
+faire du cash avec et ça fonctionne
+c'est une manière de faire du business
+qui fonctionne mais je trouve
+personnellement que créer un produit
+dans ce cadre-là où tu n'es pas toi-même
+la cible de ton produit c'est très
+compliqué ensuite il y a l'autre cas où
+tu améliores pas la vie des gens mais tu
+l'utiliserais toi-même très souvent dans
+ce cas-là tu tombes dans dans ce que
+nireal appelle la catégorie des
+entertainers donc les gens qui créent en
+fait des loisirs donc effectivement si
+tu améliores pas la vie des gens mais
+que toi ça te plaît c'est que très
+certainement ça va être ça peut être du
+cinéma ça peut être un parc d'attraction
+ça peut être une console de jeux enfin
+en fait tu vois genre si tu prends une
+Xbox ou une PS4 c'est des c'est des jeux
+ça n'améliore pas fondamentalement la
+vie des gens ça règle pas vraiment de
+problème si ce n'est l'ennui après ça
+apporte d'autres choses mais ça règle
+pas vraiment de problème par contre
+c'est aussi une manière de faire du
+business qui fonctionne mais
+qui est aussi un peu plus compliqué pour
+créer un produit que les gens vont
+vraiment aimer et enfin tuas la dernière
+catégorie qui est que si tu améliores
+pas la vie des gens et que tu l'utilises
+pas toi-même bah en fait soit tu es un
+dealer ce qu'on appelle un dealer et
+qu'en fait tu essaies de refourguer des
+produits qui qui ne t'intéressent pas et
+tuessaes juste de te faire du cash sur
+le dos de d'autres gens soit tu as juste
+pas de business et en fait si ça
+t'intéresse pas toi-même et que tu es
+pas capable de de d'améliorer soit peu
+la vie des gens ça nintére personne bah
+en fait tu es dans une tu es dans la
+case de la matrice qui fait que ton
+business fonctionnera pas donc pose-toi
+vraiment la question dans quelle case tu
+es est-ce que tu es en train de créer un
+produit qui te parle à toi et est-ce que
+tu es en train de créer un produit qui
+va améliorer vraiment la vie des gens
+qui va régler un problème dans leur vie
+ou est-ce que tu es dans une des trois
+autres cases et comment tu te places par
+rapport à
+ça ok donc on parle depuis tout à
+l'heure de détecter les opportunités et
+d'analyser le
+marché le truc le plus important quand
+tu veux commencer à à parler à ton
+marché et àer détecter encore plus les
+frustrations et les motivations qui vont
+les amener à utiliser ton produit même
+s'il existe pas encore ça va être de
+parler à leurs émotions et c'est ça
+qu'on va
+[Musique]
+voir ton objectif ça va être de capter
+les motivations et les frustrations qui
+vont être exprimées par les gens qui
+composent ton marché pourquoi les
+frustrations et les motivations parce
+que c'est ce qui est relié directement
+aux émotions et c'est ce que les gens
+vont exprimer et qui va leur tenir à
+cœur pour de vrai pour ça il y a pas de
+secret il faut que tu passes du temps là
+où les gens qui ont le problème que tu
+as détecté passe du temps eux aussi je
+m'explique ton but ça va être d'observer
+leur comportement de vraiment essayer de
+collecter un maximum de données sur qui
+ils sont comment ils agissent au
+quotidien pourquoi ils font les choses
+pourquoi ils se lèvent le matin pourquoi
+ils ont envie de régler certains de
+leurs problèmes et cetera il faut que tu
+comprennes vraiment qui ils sont et il
+faut que tu détectes les frustrations la
+la la la première chose à faire c'est
+détecter les frustrations c'est très
+souvent plus facile les frustrations ça
+passe par quoi ça passe par des des
+phrases qui commencent par je n'y arrive
+pas je perds du temps je perds de
+l'argent dans un business en fait tu tu
+apportes de la valeur très souvent par
+deux moyens qui sont faire gagner du
+temps aux gens ou leur faire gagner de
+l'argent et si tu si tu détectes des
+frustrations qui euh qui parlent de ça
+qui parlent de ah mais ça ça me fait
+perdre du temps ou ça j'ai la flemme de
+le faire et cetera toutes ces
+frustrations làes sont très
+intéressantes parce qu'elles vont te
+permettre de construire un discours pour
+aller parler aux émotions des gens que
+tu veux toucher pour détecter les
+motivations c'est toutes les phrases qui
+vont commencer par j'ai envie d'eux je
+voudrais j'aimerais toutes les choses
+qui sont un peu plus positives et qui
+vont expliquer pourquoi les gens se
+mettent à faire des choses pas là où les
+frustrations sont ce qui bloquent les
+gens sont ce qui bloquent les gens qui
+composent ton marché à accomplir de
+nouvelles choses
+les motivations c'est vraiment ce qui
+leur donne envie de le faire si on
+regarde GitHub par exemple donc giththub
+c'est une sorte pour ceux qui donc gitub
+pour ceux et celles qui connaissent pas
+c'est une sorte de réseau social pour
+développeur qui te permet en fait en
+équipe de de codeur de travailler à
+plusieurs et de gérer de la meilleure
+manière la façon dont tu arranges ton
+code et la façon dont tout le monde
+intervient sur le les différents
+morceaux du code si tu regardes la
+landing page de GitHub et que tu
+regardes leur discours ben ils utilisent
+des phrases qui ont rien à voir avec ce
+que fait la solution en soi genre par
+exemple il y a écrit manage your chaos
+tu sens que ça c'est un truc qu'ils ont
+écrit après avoir parlé à des dizaines
+et des dizaines de développeurs qui leur
+ont répété que bosser en équipe en tant
+que développeur c'était le chaos complet
+et donc ils sont dit ok on va créer
+notre discours et on va écrire chaos
+dedans parce que ça va parler aux gens
+et ça va parler à leurs émotions si tu
+regardes une boîte comme freetic freetic
+c'est une application qui te permet de
+de de de créer ça te crée
+automatiquement un programme sportif
+avec un coach en intelligence
+artificielle euh et en fait ça va te
+t'entraîner à faire du sport
+régulièrement de manière très intense
+pour perdre du poids ou gagner du muscle
+sur la page d'accueil de freeletic il y
+a rien qui il y a quasiment rien qui
+t'explique comment fonctionne l'appli en
+soi il y a rien qui te montre
+concrètement ce que c'est tout ne parle
+que d'émotion sur freetic la phrase
+principale c'est osez vous libérer des
+excuses ça aussi c'est un truc qu'ils
+ont forcément construit après avoir
+parlé à des utilisateurs à des clients
+qui leur ont dit oui ce qui est
+compliqué moi dans ma vie et qui
+m'empêche de me mettre au sport c'est
+que je me trouve toujours des excuses et
+hop ils ont construit leur discours par
+rapport à ça et si toi tu cherches à
+attirer l'attention d'utilisateur il
+faut que tu fasses la même chose
+l'intérêt d'arriver à créer ce discours
+d'une bonne manière dès le départ il est
+pas ponctuel il est pas juste là
+maintenant on crée un discours et puis
+après et PU et puis après on va le jeter
+non en fait ce qui est intéressant dans
+la CR de ce discours c'est qu' va
+revenir tout au long de la vie de ta
+boîte en fait certes en l'état actuel
+des choses tu vas pas forcément avoir un
+discours qui est complet qui va décrire
+exactement ce que tu fais ou ce que tu
+vas faire à long terme mais par contre
+il te permet d'avoir un discours qui est
+compréhensif vis-à-vis des utilisateurs
+que tu vises ou vis-à-vis des clients
+que tu vises et qui du coup va pouvoir
+attirer leur leur attention et surtout
+en fait ce qui est assez fou avec cet
+exercice là de trouver les frustrations
+et les motivations et essayer d'établir
+un discours en fonction de ça c'est que
+ça te permet toi de rationaliser ce qui
+est important pour les gens et si tu
+comprends ce qui est important pour les
+gens que tu vises c'est beaucoup plus
+facile pour toi de leur vendre ton
+produit parce que vendre ton produit
+c'est aussi important que créer ton
+produit une fois que tu as observé tous
+les comportements une fois que tu as
+détecter plein de frustration plein de
+motivation pose-toi et synthétise tout
+ce que tu as appris pour créer un
+discours qui va retenir l'attention des
+gens pourquoi créer un discours c'est
+important parce que déjà comme je viens
+de le dire ça va définir la direction
+générale de ton produit donc de manière
+générale c'est toujours bien d'avoir un
+discours auquel se raccrocher ensuite ça
+va influencer la rédaction des contenus
+que tu vas mettre sur ta landing page
+qui est l'objectif final de cet épisode
+c'est de sortir une landing page pour
+tester l'intérêt du marché et enfin ça
+va te permettre de vendre en one Toone
+aussi ce discours là il se construit et
+quand tu vas rencontrer des clients dans
+la vraie vie des potentiels clients dans
+la vraie vie tu vas pouvoir leur parler
+et avec ce discours qui contient les
+frustrations et les motivations tu vas
+pouvoir le le montrer que tu les
+comprends et tu vas du coup pouvoir
+avoir plus de facilité pour leur vendre
+ton produit ton discours il est composé
+de quoi il est composé de toutes les
+choses qui touchent à l'émotionnel des
+gens donc on l'a déjà dit les
+motivations les frustrations il faut que
+tu montres que tu les as compris il faut
+que tu apportes un début de solution aux
+problématiques auxquelles les gens font
+face bien évidemment il va dépendre en
+partie de tes envies parce queil y a y a
+des il y a des frustrations et des
+motivations que tu vas avoir envie de
+résoudre et d'autres pas donc il y a
+aussi une part de choix chez toi que tu
+tu peux faire le choix de régler
+certains problèmes et pas d'autres euh
+et surtout tu vas forcément pouvoir
+attaquer la résolution du problème de
+tes utilisateur par différents angles
+regarde par exemple si tu prends dé livv
+rou et frichti le problème est le même
+le problème grosso modo c'est je dois
+manger trois fois par jour et je sais
+pas toujours comment faire l'angle de
+résolution du problème est pas le même
+dans les deux boîtes d'un côté tu vas va
+avoir des livrous qui va attaquer ça
+sous l'angle de la rapidité la commodité
+tu as la flemme tu veux rester chez toi
+donc on va te livrer les meilleurs
+restos de Paris et puis de l'autre côté
+tu as frishy qui lui est plus sur la
+convivialité le Bien manger le le un
+côté authentique et et où on dit voilà
+c'est pas parce que tu as la flemme de
+cuisiner que tu es obligé de mal manger
+et du coup voilà ils c'est deux angles
+complètement différents pour attaquer un
+même problème et c'est là que tu as un
+choix à faire dans ton discours c'est ok
+tu as détecté les frustrations les
+motivations comment tu fais pour
+résoudre ces frustrations et ces
+motivations comment tu vas parler de
+tout ça une fois que tu as ton discours
+qu'il est construit et que tu es
+satisfait en fait de la façon dont tu
+présentes ton idée et ton projet faisant
+une landing page le plus rapidement
+[Musique]
+possible il y a plusieurs techniques que
+tu pourux réutiliser pour valider
+l'intérêt du marché et tester ton
+discours tu pourrais faire un
+questionnaire par exemple moi j'aime
+j'adore les questionnaires mais je pense
+que c'est plus utile un peu plus tard
+dans la vie d'un produit donc on en
+parlera dans un autre épisode de comment
+rédiger un questionnaire qui fonctionne
+vraiment bien euh tu pourrais aller voir
+tes clients en direct et leur parler en
+face à face ça fonctionne aussi si tuas
+si tu peux faire ça fais-le fonce et tu
+testes ton discours auprès de ces
+gens-là et tu vois quelle est leur leur
+réceptivité si ça les intéresse un
+minimum mais bon l'objectif au final
+quand même et c'est un truc qu'on
+sous-estime très souvent c'est d'être
+intense et pour être intense ça veut
+dire qu'il faut voir un maximum de
+personnes et parler à un maximum de
+personnes en un temps le plus réduit
+possible et pour moi la landing page un
+moyen très très efficace de faire ça
+parce que tu peux publier ta landing
+page trouver des canaux d'acquisition
+qui vont amener du monde sur la page les
+gens vont s'inscrire laisser leur
+adresse mail et tu pourras les contacter
+pour leur parler et en fait en faisant
+ça tu peux multiplier vraiment le nombre
+de gens auquels tu as accès qui vont
+être intéressé par ton produit et donc
+ça va aller beaucoup plus vite pour
+parler à un grand nombre de gens donc on
+va créer une landing page la structure
+d'une landing page elle peut varier
+énormément d'une landing page à l'autre
+moi j'en ai une que j'aime bien que je
+vais vous présenter là la première
+partie d'une landing page c'est toujours
+essayer d'expliquer factuellement ce que
+tu proposes donc ça ça te permet en fait
+de de quand les gens arrivent sur la
+page la première chose qu'il voi c'est
+le produit ce que ça fait et la valeur
+qui est proposée point ensuite va y
+avoir une deuxième partie où tu vas
+expliquer
+le comment le comment ça fonctionne
+qu'est-ce qu'il y a derrière et pourquoi
+ton produit est est meilleur qu'un autre
+tu vois genre par exemple ENF c'est pas
+c'est pas forcément la concurrence que
+tu veux viser mais en tout cas qu'est-ce
+qui différencie ton produit ensuite tu
+vas avoir une partie sur le pourquoi le
+la mission le l'émotionnel les
+frustrations les motivations le le ce
+que ça va apporter aux gens dans leur
+vie et comment ça va améliorer leur vie
+concrètement d'utiliser ce produit et
+puis enfin tu peux avoir tout un tas
+information complémentaire avec un un
+call to action en bas de page qui va
+être répété depuis le call to action du
+haut de la page et le but c'est d'en
+avoir le plus possible pour inviter les
+gens à soit laisser leur adresse email
+soit s'inscrire selon le format que tu
+choisis de ta landing page donc cette
+structure elle fonctionne et le mieux
+c'est qu'on voit en pratique comment on
+fait pour la créer pour créer une
+landing page il y a pas mal de
+techniques différentes qui existent il y
+a plein d'outils surtout en ligne qui
+existent pour en créer on en verra un
+peu plus tard dans dans cet épisode mais
+là maintenant genre j'aimerais bien vous
+montrer comment moi je crée un je crée
+une landing page j'utilise un logiciel
+qui s'appelle sketch et qui en fait est
+un logiciel utilisé par énormément de
+web designers parce qu'il a des
+fonctionnalités qui sont euh très utiles
+pour la création de maquett donc en fait
+par rapport à des outils comme Photoshop
+ou à Illustrator qui ont plein d'autres
+utilités que la création de Maquet ça
+c'est vraiment orienté pour le web
+design ou en tout cas enfin de le le
+design d'interface de manière générale
+donc pour une landing page je trouve que
+c'est c'est une bonne manière euh de de
+pouvoir être créatif et de pas être
+limité et constreint dans un outil après
+ça c'est beaucoup d'entraînement genre
+c'est un outil qui se prend en main avec
+du temps là mon but c'est de te montrer
+un peu comment ça fonctionne et
+d'essayer de te faire une petite intro à
+comment ça marche parce que je pense
+vraiment qu'en tant qu'entrepreneur euh
+c'est utile de savoir designer des
+interfaces et d'au moins comprendre ce
+que représente le travail de design
+d'interface pour une fois que tu vas
+vouloir déléguer ton produit savoir quel
+est ce métier là exemple que je vais
+prendre pour te montrer un peu comment
+fonctionne sketch c'est l'exemple de la
+landing page de new one can scale je
+vais te montrer comment on a créé cette
+landing page et et quelle réflexion il y
+avait derrière et concrètement comment
+ça se passe la première étape à la
+création d'une landing page en général
+c'est de la dessiner sur papier parce
+que ça te permet de pas avoir à faire
+tes réflexions en utilisant le logiciel
+directement tu peux juste exécuter ces
+réflexions moi j'aime bien faire un plan
+très succent très simple de tout de tout
+ce qu'il y a dans dans dans la landing
+page avec une idée vague des contenus en
+fait Cancale pour remettre du contexte
+c'est une formation on a eu l'idée de
+cette formation parce qu'il y a plein de
+gens qui regardaient les vidéos de coups
+d'État et qui nous disait le problème
+c'est que dès que vous parlez de
+scalabilité donc d'hypercroissance et
+cetera moi qui suis traiteur qui a une
+agence moi qui suis avocat moi qui suis
+euh artisan de manière générale en fait
+t tous ces gens qui ont des boîtes de
+services venaient nous voir et nous
+disaient le problème c'est que je me
+reconnais pas dans ce que vous dites mon
+modèle n'est pas scalable donc on a
+décidé de créer une formation pour dire
+dire mais en fait si il est scalable ton
+modèle enfin ton modèle actuel n'est pas
+scalable mais il y a moyen de aller
+chercher de la scalabilité dedans parce
+que la scalabilité n'est pas binaire
+c'est à peu près toute l'idée qu'on a de
+cette formation et donc maintenant
+l'objectif c'est d'essayer de de
+rassembler les frustrations et les
+motivations et de les mettre dans une
+landing page avec un discours et donc de
+de de d'attirer l'attention des gens
+qu'on vise qui sont ces ces
+propriétaires de business qui
+qui sont des PME qui sont des des boîtes
+de services en fait de manière générale
+donc cette landing page elle va se
+décomposer comme toujours en plusieurs
+parties succintes et l'idée c'est que
+les gens vont pouvoir découvrir ce
+qu'est le produit et puis ensuite il y
+aura des explication un peu plus
+concrète et puis aller dans le dans
+retourner un petit peu dans le dans le
+pourquoi enfin voilà on va on va essayer
+de mixer les messages pour essayer de de
+donner envie un maximum de précommander
+la formation qui n'existe pas encore et
+on a juste des des insights sur les gens
+sont intéressés par ce genre de
+formation et on veut vérifier que ce
+soit le cas à la base moi j'aime bien
+donc quand je crée une landing page
+faire une sorte de première slide en
+gros euh sur laquelle on va venir mettre
+le logo de coup d'état après il y a une
+une une contrainte qui est que on on va
+avoir une vidéo on va avoir une vidéo de
+présentation de la de la de la landing
+page donc je pense qu'on peut la mettre
+mettre directement à droite
+ici voilà et ensuite à côté mettre le
+message principal qui potentiellement
+fait de lignes et un petit message en
+dessous avec moi j'aime bien genre sur
+coup d'État on a un peu une identité
+graphique où on a des choses qui
+dépassent de certains blocs et tout ça
+donc ici on va mettre un bloc où les
+gens pourront en fait passer
+commande tac ça c'est donc ça ce sera la
+première slide donc vraiment une
+explication claire et concrète de de ce
+qu''est la formation et de ce qu'elle
+propose et de la valeur qu'elle apporte
+une petite explication avec une vidéo de
+présentation que les gens pourront
+regarder une fois qu'ils arriveront sur
+le site donc l'idée de cette landing
+page c'est qu'il va falloir la continuer
+bien sûr pour avoir plus de contenu
+ensuite je pense que directement en
+dessous du premier call to action qui va
+inviter les gens à précommander donc ici
+on va avoir genre explication génér
+tac ici on va avoir une deuxè section où
+on va essayer de d'expliquer quel est le
+problème qu'on résout donc il y a ça va
+être quelque chose qu'on retrouve ici
+mais de toute façon dans tout le
+discours on va essayer de montrer quel
+est le problème qu'on résout donc déjà
+on va avoir un texte ici qui sera
+quelque chose de l'ordre de
+comment
+augmenter comment augmenter les revenus
+d'une boîte de
+service hop petit texte
+d'explication voilà ça ça va donner déjà
+une une idée de pourquoi on a créé la
+formation ce qui est intéressant et
+cetera le le truc derrière après il y a
+une il faut aller chercher les
+déterminants émotionnels et je trouve
+qu'un qu'un truc qui fonctionne bien
+pour pour aller taper dans les
+déterminants émotionnels des gens c'est
+de comp leur situation actuelle à leur
+situation future s'ils achètent ta
+solution ou s'ils utilisent ta
+solution donc pour ça moi j'ai envie de
+faire un un un tableau en
+fait avec tous les trucs négatif lié au
+fait d'avoir une une boîte qui ne scale
+pas et en fait à côté tous les trucs
+positifs lié au fait d'avoir une boîte
+qui scale donc hop on aura des petites
+checklist tu vois un truc comme ça je
+pense et ça nous permettra en fait
+d'avoir quelque chose qui est très
+digeste que les gens peuvent lire
+facilement auquel ils vont s'identifier
+et se dire ok moi je suis dans cette
+situation là comment je fais pour passer
+à celle-là et ben entre les deux il y a
+anyone can scale et j'ai envie de passer
+dans d'une situation a une situation B
+ensuite il y a une je pense que une fois
+qu'on a donc là on a tris on a trois
+étapes en gros on a une explication
+générale de ce que c'est avec vraiment
+genre concrètement qu'est-ce qu'on
+propose il y a le pourquoi on l'a
+créé il y a le l'identification l'étape
+d'identification les gens doivent se
+reconnaître dans le problème on définit
+le problème plus en profondeur encore et
+ensuite je pense que là c'est très
+important de casser le truc qu'on est
+beaucoup dans le pourquoi dans le dans
+le dans le comment et cetera de mettre
+quelque chose de très très concret et
+donc là on va dire ok c'est 20h de
+contenu vidéo
+des
+outils concrets à utiliser un truc comme
+ça et en fait ça nous permet d'avoir un
+gros titre qui dit bon ok c'est bien
+beau le pourquoi le ce que ce vers quoi
+on veut vous amener ce vers quoi on va
+tendre dans cette formation mais je
+pense que c'est important de vous dire
+ok bam va y avoir ça ça ça ça ça ça ça
+et ça et en fait vraiment genre rentrer
+dans le concret même si on sait pas
+vraiment encore là il y a forcément une
+idée il y a un angle ave lequel on veut
+attaquer le truc on veut attaquer par
+tous les aspects d'un business de la
+génération de Lead jusque jusqu'au bout
+donc on peut faire une sorte de mini
+programme qui dit ok ok concrètement
+c'est quoi genre c'est quoi vraiment que
+que que vous proposez et à quoi je vais
+avoir accès si je précommande la
+formation ensuite il y a forcément une
+étape qui va être sur le prof donc là en
+l'occurrence c'est ousama je sais déjà
+un peu quelle photo on va pouvoir
+utiliser bon je suis pas le meilleur
+dessinateur de la terre voilà mais en
+tout cas donc on va avoir une petite
+photo d'Ousama avec le prof ousama àar
+je pense et ensuite un texte explicatif
+qui explique qui est ousama et pourquoi
+il est légitime à donner cette formation
+et cetera et enfin je pense qu'on va
+remettre un dernier call to action avec
+une petite une petite catch phrase genre
+transforme ta
+boîte transforme ta
+vie on tombe dans le cliché c'est
+parfait
+et remettre un call to action où les
+gens peuvent précommander et je pense
+qu'avec ça on a un plan de landing page
+qui est pas mal du tout donc là on
+a on est encore dans le quoi en fait
+mais donc là on a on a cette histoire de
+légitimité explication de pourquoi ce ce
+produit est bien et concrètement qui est
+dedans et enfin on a un dernier call to
+action et on a un call to action ici
+aussi donc là on a un plan en fait de de
+de landing page qui est vraiment qui est
+qui est construit où il y a à peu près
+tout ce qu'on veut en fait il y a de
+l'identification pour l'émotionnel pour
+toucher l'émotionnel des gens il y a le
+le concrètement ce que c'est et une
+explication un peu générale il y a les
+bons call to action qui vont inviter les
+gens à commander enfin en tout cas dans
+dans l'occurrence à précommander le truc
+et donc là avec ce planl je pense qu'on
+peut commencer à designer vraiment le la
+landing tel qu'elle va être Infiné et
+utiliser sketch donc sketch c'est un
+logiciel qui sert à à éditer des des
+maquettes grosso modo donc là le but
+c'est de c'est de faire une maquette du
+plan qu'on vient de dessiner
+euh donc en gros sketch ça fonctionne
+sous sous une a il y a il y a une
+hiérarchie de l'information qui est
+divisée en ce qu'ils appellent des
+artboards donc on va pouvoir créer un
+artboard donc en fait on peut faire
+insert artboard ou appuyer sur A et
+ensuite définir qu'on veut insérer tac
+responsive web un truc desktop HD et
+donc là on voit qu'on a une première
+case en fait dans laquelle on
+peut commencer à à faire sa maquette je
+pense qu'il va falloir qu'elle soit un
+petit peu plus haute là la largeur est
+bonne donc on voit qu'on est à 1440
+pixels de de largeur et on voit que il
+faut je pense qu'en hauteur il va
+falloir un peu un peu plus quoi pour
+pouvoir faire une page qui est plus
+longue donc la première étape c'était de
+dire ok on veut une première slide où va
+y avoir une explication générale de ce
+qu'on fait pour ça
+euh je vais dessiner en faisant un
+rectangle donc j'appuie sur r je vais
+dessiner euh un premier
+rectangle qui va faire 600 pixels de
+haut quelque chose comme
+ça je pense qu'on est pas mal à 600
+pixels hop je dessine ce rectangle je
+lui enlève la bordure et je vais le
+mettre de la bonne couleur qui est la
+couleur d' one can scale qui est cette
+couleurl non c'est celle-là si je me
+trompe pas c'est celle-là effectivement
+hop on va aller dans le Finder récupérer
+le logo de coup détat on a créé un logo
+de deny one can scale exprès donc on va
+pouvoir récupérer
+celui-là tac on va l'insérer dans la
+page bon là il est un peu grand donc on
+peut réduire sa
+taille vraiment c'est très intuitif en
+fait sketch comme comme comme logiciel
+c'est assez simple à prendre en main
+voilà ce qui est bien dans une dans une
+page web c'est de de définir une largeur
+fixe genre c'est souvent plus facile à à
+créer comme comme format de design euh
+ici par exemple en fait sketch te permet
+de montrer des règles et ces règles en
+fait on peut choisir d'avoir une une
+largeur de page là en l'occurrence je
+pense qu'on peut faire genre 200 et 200
+ça fait qu'on est à on est à 1000 pixels
+de largeur et donc on va pouvoir venir
+mettre notre logo ici à cet endroit-là
+au niveau des règles pour bah pour
+pouvoir que tout soit aligné en fait
+tout simplement ensuite on a dit qu'on
+allait devoir mettre du texte donc je
+vais écrire ce texte hop on écrit ce
+bout de texte on va réduire un petit peu
+la taille du biseau et ici on va venir
+mettre la vidéo comme on avait
+dit H je change sa
+couleur ici on peut insérer
+éventuellement un
+triangle et on va le mettre en
+blanc histoire de vous a montré que
+c'est une vidéo donc là déjà on a on a
+quelque chose qui qui ressemble à à un
+début de truc donc voilà il y a vraiment
+très peu d'éléments euh je pense que je
+peux augmenter un tout petit peu la
+taille de ce rectangle mais il y a
+vraiment très peu d'éléments et on a
+déjà des infos intéressantes on dit que
+il y a 30 heures de formation pour que
+ton business toi là on montre de de
+manière générale en fait la direction
+que va prendre le produit et on et on
+explique donc là on est sur
+l'explication générale maintenant il
+nous faut notre call to action euh je
+pense que le mieux dans ce que dans ce
+call to action là ça va être de faire un
+rectangle blanc j'ai envie de le faire
+dépasser en fait sur la page comme
+j'avais fait sur la maquette donc on va
+créer un
+rectangle ici donc voilà en fait c'est
+ça qui est intéressant avec sketch c'est
+que tout n'est que rectangle formme
+imbriqué les unes dans les autres et des
+bouts de texte et et tu joues avec et
+ici en fait tu as tes tes dossiers qui
+se créent au fur et à mesure et tu vas
+pouvoir les regrouper en en dossier en
+sous-dossier euh donc c'est c'est assez
+simple genre là vraiment donc je vais
+créer
+euh tac un rectangle qui va dépasser un
+petit peu que je vais rendre
+blanc comme ceci tac et là voilà donc le
+problème de ce rectangle c'est qu'on va
+pas le voir donc j'ai envie de changer
+le le fond de la
+page donc ici on va pouvoir changer le
+fond de la
+page je va mettre un gris un gris un peu
+basique on aura l'occasion d'y revenir
+un petit peu plus tard éventuellement
+hop donc voilà là on a not call to
+action c'est écrit précommandé
+maintenant à 699 € au lieu de 1900 tu
+peux pr tuas un bouton pour précommander
+699 € c'est clair que tu peux cliquer
+sur ce bouton et tout l'enjeu il est là
+c'est que là on a un début de landing
+page qui est extrêmement clair le
+message est concis il y a une vidéo
+d'explication il y a un call to action
+fondamentalement ça pourrait suffire
+après on va rentrer plus dans le détail
+mais ça pourrait suffire je pense que
+c'est important dans l'utilisation de
+sketch pour te montrer un peu comment ça
+fonctionne de voir comment regrouper en
+fait les différentes formes et en faire
+des groupes c'est ça qui qui est
+intéressant donc dans sketch en fait
+c'est une des une des fondations de
+sketch c'est de pouvoir regrouper les
+éléments entre eux et de pouvoir les
+dupliquer d' modifier certains éléments
+en gros par exemple ici et si je
+sélectionne ces deux choseslà que je
+fais pom g hop ça les groupe ensemble
+juste ici et donc là je peux appeler ce
+groupe vidéo et donc on a je peux
+maintenant je peux bouger en fait la la
+vidéo avec le
+triangle
+indépendamment et donc ici pareil on a
+fait un premier groupe on va regrouper
+cela tac ici tout ça ça n'est qu'un seul
+groupe aussi
+ensuite la deuxième partie
+c'était l'explication de pourquoi on l'a
+créé on va faire un premier titre donc
+on va l'appeler comment augmenter les
+revenus d'une boîte de service on va
+centrer ça correctement donc euh comment
+augmenter les revenus d'une boîte de
+service donc c'est vraiment genre la
+problématique auquelle on
+veut c'est c'est vraiment la
+problématique qu'on a identifi et on
+veut montrer comment augmenter les
+revenus d'une boîte de service c'est ça
+le tout tout l'enjeu des new one can
+scale donc on explique ça et et on donne
+un petit explication une fois qu'on a
+expliqué la problématique qu'on avait
+détecté et et le le pourquoi on fait les
+choses finalement on va pouvoir aller
+dans l'émotionnel et faire ce fameux
+tableau où on va faire des des des
+comparaison entre avant anyone can scale
+et après anyone can scale pour ça bah
+même chose en fait on va venir créer un
+un rectangle et on va pouvoir les
+remplir avec une liste des choses qui
+qui sont problématiques quand tu peux
+pas
+scaler donc on a un texte un texte final
+qui montre bien la différence entre sans
+scalabilité et avec scalabilité sachant
+que il y a aussi un enjeu dans cette
+landing page d'expliquer aux gens ce
+qui'est la scalabilité pour ceux qui
+savent pas forcément ce que c'est et en
+fait on retrouve dans dans T ce exte là
+juste les les frustrations qui ont été
+exprimées par les gens qu'on a pu voir
+un petit peu et avec qui on a pu
+observer leur comportement un peu de
+loin les petites histoires on les
+retrouve voilà pas sur les factures
+impayées c'est vraiment du réel du
+concret l'objectif c'est que les gens
+s'identifient et qu'il se disent ok ça
+c'est pour moi et qui comprennent qu'on
+bah qu'on les a compris en fait un
+minimum après évidemment on n pas encore
+fait le travail de de discuter en
+profondeur avec eux mais on détecte
+qu'il y a déjà ce début de problème là
+et donc avec sketch on peut facilement
+mettre en page quelque chose
+de vraiment solide qui qui qui transmet
+un message important et qui transmet le
+message de on a créé quelque chose pour
+vous ça découle d'une observation ça
+découle pas juste de nos idées dans
+notre tête ok donc là on a vu comment
+créer une landing page avec sketch et
+ensuite de il faut la coder le truc
+c'est qu'en fait il y a plein d'outils
+que tu peux utiliser qui sont pas aussi
+complexes que sketch et du code et qui
+te permettent quand même de faire des
+landing page de très bonne qualité par
+exemple je pense à à strikingly à page à
+squarespace à Wix tous ces outils là
+sont à peu près d'un niveau égal et tu
+vas trouver des gens qui vont me dire
+qu'il y en a qui sont meilleurs que
+d'autres et cetera personnellement j'ai
+pas trop d'avis sur la question je pense
+que ça se vaut et que pour la création
+d'une landing page comme on vise à la
+créer dans cet épisode il y a pas besoin
+de beaucoup plus de fonctionnalité que
+ce qui sont que ce qui est proposé par
+ces outils là et donc et donc encore une
+fois on va passer à la pratique et je
+vais vous montrer comment j'ai utilisé
+strikingly pour créer la landing page de
+one spoon je veux créer un nouveau
+produit pour créer un nouveau produit il
+me faut une idée mon idée on a dit
+qu'elle partait euh des gens en fait et
+donc il faut que je trouve une une
+catégorie de gens qui m'intéresse que
+j'ai avec laquelle j'ai envie de bosser
+et pour laquelle j'ai envie de créer un
+produit un des trucs que j'aime bien
+faire dans ma vie c'est cuisiner et
+au-delà de cuisiner j'aime bien
+apprendre à cuisiner à d'autres gens
+c'est un truc qui m'intéresse vraiment
+c'est assez marrant genre il y a
+j'apporte une vraie valeur et je trouve
+ça chouette donc si mon objectif c'est
+de créer un produit qui va aider les
+gens à cuisiner d'ailleurs c'est le
+début de mon pitch en fait c'est très
+très simple il va falloir d'abord que je
+trouve leur frustration et leur
+motivation qui sont les choses que je
+vais résoudre dans le produit que je
+vais créer donc si je vais sur sur
+marmiton et que je fouille le forum un
+peu donc ça ça va être tout le truc donc
+mon objectif c'est vraiment de trouver
+des des expressions de frustration et de
+motivation donc pourquoi les gens
+veulent se mettre à cuisiner ça c'est
+les motivation et qu'est-ce qui les
+empêche de se mettre à cuisiner ça c'est
+les frustrations donc bah voilà en fait
+il va falloir fouiller et ça prend du
+temps genre c'est c'est c'est un truc
+qui qui prend du temps il faut regarder
+un peu tous les postes il faut s'imerger
+vraiment au cœur de ces communautés là
+comprendre ce que les gens veulent ce
+que les gens aiment et cetera tu vois
+bonjour n jeudi bonjour sous la neige
+non voilà j'ai quelques j'ai quelques
+quelques touches peut-être donc là sur
+le marmiton il y a un truc cours de
+cuisine pas cher et sympa Paris bonjour
+Je cherge des cours de cuisine à Paris
+qui ne soient pas trop cher je suis
+étudiante donc peut-être qu'il y a un
+truc c'est trop
+cher j'aimerais apprendre à cuisiner et
+rencontrer des gens qui partagent ma
+gourmandise et ça c'est les motivations
+ensuite qu'est-ce qu'on va trouver
+d'autre je voudrais apprendre à cuisiner
+je sais faire quelques plats simples
+mais je trouve que c'est pas à mon goût
+je voudrais apprendre autre chose
+avez-vous une méthode pour initialiser
+une personne dans la cuisine donc elle
+c'est parce que elle cuisine pas assez
+varié ah
+je mange parce qu'il faut manger mais
+après je n'ai pas de patience pour faire
+la
+cuisine frustration pas de
+patience et surtout j'ai peur que tout
+soit
+raté pour ma part j'adore faire la
+cuisine cela me permet de me changer les
+idées
+ah
+motivation se changer les
+idées maintenant qu'on a tout ça euh il
+va falloir que je définisse quel message
+je veux faire passer dans ma landing
+page pour qu'il y a des gens qui
+viennent et qui s'inscrivent et que ça
+les intéresse un minimum donc comment je
+vais faire pour transformer toutes ces
+frustrations ou au moins une partie de
+ces frustrations que je vais choisir et
+de ces motivations comment je vais faire
+pour les transformer en un message
+positif qui va intéresser les gens et
+pour lequel ils vont s'inscrire donc
+qu'est-ce qu'on a on va faire le le le
+recap on a que c'est trop cher elle
+cuisine pas assez c'est pas assez varié
+quand on cuisine donc cuisiner plus
+varié il y a le fait que ils veulent pas
+apprendre juste les recettes mais la
+logique qui a derrière je dis ça parce
+que ce sera plus facile pour c'est plus
+facile pour moi de créer un produit où
+je vais expliquer la logique de la
+cuisine aux gens que des recettes parce
+qu'en fait c'est comme ça que j'ai
+appris moi aussi donc ça ça m'intéresse
+vraiment donc j'ai vraiment envie de
+montrer aux gens que ce produit
+c'est
+apprendre la
+logique de la cuisine
+sans suivre une
+recette
+bêtement ça j'ai vraiment envie de
+travailler là-dessus genre c'est un
+c'est l'angle qui m'intéresse et c'est
+complètement arbitraire en fait il il y
+a pas de genenre je suis je pourrais
+choisir à peu près n'importe quoi mais
+il y a c'est là qu'il y a c'est là que
+tu fais ta différence en fait c'est là
+que tu fais ta différence d'un produit à
+l'autre d'une mission à l'autre d'une
+boîte à l'autre c'est sur ce moment-là
+où tu prends les frustrations et tu
+décides sur lesquelles tu vas pousser et
+surtout genre l'avantage d'avoir une
+liste comme celle-là c'est que quels que
+soient les points que tu choisi tu sais
+que ça va parler aux gens parce que
+c'est quelque chose c'est ça sort pas de
+ta tête c'est quelque chose que des gens
+ont exprimé déjà sur internet tu l'as lu
+tu sais que ça existe donc en fait tu
+peux choisir n'importe quoi qui te plaît
+et ensuite partager sa cuisine avec
+d'autres personnes ça j'aime vraiment
+bien parce que moi c'est vraiment la
+raison pour laquelle je cuisine donc il
+y a peut-être un truc
+de impressionne tes potes tu vois ou ou
+impressionne impressionne tes potes ou
+ou ou ou ta famille tu vois ou quelque
+chose comme ça non mais je pense que là
+c'est pas mal on a choisi une 2 3 4 5
+frustrations et motivations auxquelles
+on veut répondre et maintenant il faut
+les transformer en un message et là en
+fait il y a tout un un jeu de comment tu
+fais pour imaginer la première version
+de ton produit et ça c'est un exercice
+qui est souvent pas le plus difficile
+parce que c'est le plus marrant euh
+donc là par exemple je pense vraiment
+que je vais partir sur un cours de
+cuisine c'est clair genre il y a un truc
+où les gens veulent apprendre donc il
+faut faire une espèce de cours de
+cuisine en ligne quelque chose comme ça
+à jouer moi un truc que j'aime vraiment
+bien et qui va vraiment régler ce
+problème de manque de motivation et du
+fait que c'est trop de travail
+d'apprendre à cuisiner c'est la
+gamification récemment je jouis à un jeu
+vidéo et en fait j'ai quand j'ai
+commencé le jeu il y avait un arbre de
+compétenence gigantesque avec je sais
+plus combien d'items mais c'était ça me
+paraissait être trop de travail être
+beaucoup trop à apprendre puis bon j'ai
+commencé à jouer et en fait ce qui est
+trop cool dans les jeux vidéos c'est que
+tu fais une première étape tu apprends
+un une première compétence de l'arbre de
+compétence et puis un peu plus tard une
+deuxième et puis une troisème et cetera
+et puis au bout de 50 he de jeu en fait
+tu connais tout l'arbre de compét qui te
+paraissait complètement inaccessible et
+ce concept là ce concept de gamification
+et de progression continuel j'ai envie
+de l'appliquer à la cuisine parce que je
+pense qu'il y a vraiment quelque chose à
+faire donc peut-être qu'on peut faire
+une sorte de parcours où les gens vont
+aller de recette en recette et à chaque
+recette vont apprendre une nouvelle
+technique de découpe une nouvelle
+technique de cuisson et ce produit qui
+est donc un concept un peu complexe avec
+beaucoup d'entrées et cetera qui est
+dans ma tête il va falloir que j'arrive
+à l'expliquer clairement et pour
+l'expliquer clairement on va le faire
+sur une landing page donc pour créer
+cette landing page on va utiliser
+strikingly au hasard strikingly c'est
+probablement des trucs les plus simples
+à utiliser donc pour cet exercice là ce
+sera plus facile l'avantage c'est que
+comme j'ai que une maquette papier et
+que j'ai pas forcément de de design en
+tête je peux aller très très vite et
+prendre déjà un des templates que
+striking le propose et copier quoi donc
+je vais essayer de trouver quelque chose
+qui me parle un minimum on va prendre
+celle-là et puis on va voir ce qu'on
+peut faire avec donc dans strikingly en
+fait il y a plusieurs il y a plusieurs
+items que tu peux mettre en place donc
+ça c'est un une grosse section avec un
+bouton call to action mais c'est pas ça
+qu'on veut donc on va
+l'enlever tout simplement et on va en
+rajouter une nouvelle qui va s'appeler
+euh qui va être
+un qui va être un formulaire
+d'inscription on va le mettre tout en
+haut on va le mettre tout en haut comme
+ça les gens pourront laisser leur nom
+éventuellement leur email donc je pense
+que je vais enlever le nom pour que les
+gens mettent que leur email et on va
+mettre un un bouton je m'abonne non je
+veux je suis intéressé ou non ça
+m'intéresse donc ici on va pouvoir
+mettre apprend à cuisiner ah là là à
+cuisiner
+simplement une recette après l'autre et
+ici
+des recetteesêtre simple à cuisiner chez
+soi ensuite on va changer le titre donc
+on va l'appeler one spoon
+ensuite on veut changer l'image
+d'arrière-plan qui va y avoir
+ici ok donc ça c'est la première étape
+de notre de notre landing page si je
+fais un aperçu que je regarde à quoi ça
+ressemble on arriverait sur ce Sitel ce
+qui est pas mal en soi ensuite on doit
+pouvoir même changer le logo de ça ça
+ira bien c'est good enough les gens
+peuvent laisser leur adresse mail euh je
+vais plutôt mettre un call to action qui
+dit je
+m'inscris
+enregistrer voilà et comme ça quand les
+gens arrivent donc je reviens voir un
+coup quand les gens arrivent sur le site
+il y a écrit apprend à cuisiner
+simplement une recette après l'autre des
+recettes simples à cuisiner chez soi
+pour apprendre la cuisine pas à pas ok
+et donc là maintenant c'est le moment où
+on doit expliquer un peu plus en détail
+ce qu'on va faire sur le site euh
+évidemment il y a des choses qui sont
+perfectibles ça se travaille et cetera
+là j'ai fait ça en une demi-heure donc
+il va falloir le faire on peut je vais
+le travailler encore un petit peu et
+cetera mais en attendant on a les
+principaux messages un comme je disais
+donc on a le apprend à cusiner
+simplement une recette après l'autre on
+a notre nom on a notre logo on a notre
+menu et cetera ça fonctionne hyper bien
+ça a été fait très très vite avec des
+photos que j'ai trouvé complètement sur
+internet un texte une
+explication avec des faut photos et
+cetera et j'ai ma landing page qui est
+prête pour faire connaître cette landing
+page et faire en sorte que des gens qui
+s'inscrivent dessus j'ai envie de tester
+deux canaux d'acquisition le premier
+c'est de grossir dans des communautés
+déjà existantes donc on va aller sur
+redit on va aller sur Marmiton on va
+aller sur au féminin on va poster des
+messages dans ces groupes là pour pour
+pour communiquer quoi grosso modo et
+faire en sorte que qu'il y a des gens
+qui cliquent sur ce lien et qui
+s'inscrivent et qui laissent leur
+adresse email et on va euh essayer de
+faire de la pub sur Facebook pour
+essayer d'avoir des gens qui vont être
+intéressés par le message et voir et
+voir comment ça marche d'abord on va
+aller sur
+Marmiton marmiton créer une discussion
+donc ce qui ce qui est toujours un peu
+particulier quand on poste sur des
+forums comme ça c'est que c'est
+difficile de créer un compte juste pour
+poster donc là je vais essayer de faire
+ça on va voir si ça prend ou pas mais en
+fait la plupart du temps enfin moi quand
+je poste sur redit par exemple je fais
+attention à être actif dans le sub redit
+avant
+dans la communauté déjà pour pas que les
+gens se disent ah cette personnelà elle
+vient juste pour faire de la pub de son
+service et effectivement en fait c'est
+un gros problème donc là bon pour cet
+exercice spécifique on va poster sur
+marmiton et sur au féminin et
+cetera sans avoir posté autre chose mais
+c'est quand même bon à savoir que pour
+publier dans des communautés comme
+celle-là il faut
+pas poste que ce soit ton seul message
+sur ton profil c'est c'est un peu un
+problème sélectionner un
+forum faut trouver vraiment le le le bon
+truc je pense que là on peut mettre ça
+dans troc service et adresse titre de la
+de la discussion alors pour pour le
+message qu'on veut faire passer c'est
+très important de prendre deux choses en
+compte la première chose c'est vraiment
+de faire comprendre aux gens que quel
+frustration et quelle motivation on a
+identifié pour qu'il comprennent qu'on
+est là avec un objectif en tête et pas
+qu'on est là pour leur vendre quelque
+chose un service que on est là pour pour
+essayer de de d'en tirer bénéfice en
+fait l'avantage d'expliquer qu'on a
+compris les motivations et les
+frustrations c'est qu'on passe d'un
+système où les gens se disent qu'on le
+fait pour nous et qu'on fait de la pub à
+un système où on le fait pour eux et où
+ils le comprennent très bien donc ça
+c'est la première chose et la deuxième
+chose c'est qu'il faut avoir quelque
+chose d'impactant et un minimum de
+storyting et en fait quand on poste dans
+des communautés comme celle-là enfin
+quand je poste dans des communautés
+comme celle-là j'aime vraiment bien
+raconter une histoire par exemple moi
+avant j'avais j'ai donc je bossais chez
+chez MEnu nextdor qui une foot tech
+j'aime bien raconter un peu ça donc je
+pense que je vais utiliser ça donc ouais
+après avoir travaillé pendant 2 ans dans
+une start-up de cuisine et appris à
+cuisiner avec 10 chefs parisiens j'ai
+créé un programme pour apprendre à
+cuisiner ensuite dans le corps du
+message c'est là c'est là qu'il y a
+beaucoup qui se joue et notre objectif
+dans le corps de ce message c'est
+d'attirer les gens à cliquer sur le lien
+à la fin et à aller vers le site
+pour ce message je voulais vraiment
+montrer que j'ai compris les les les les
+motivations les frustrations de tout le
+monde et
+que à partir de ça j'avais créé quelque
+chose et il reste plus qu'à poster ça
+dans les différents
+forums bon maintenant qu'on a posté ces
+messages dans les forums il y a plus
+qu'à croiser les doigts espérer que ça
+parle aux gens si les gens posent des
+questions je vais être dispo pour
+répondre comme ça ça va me permettre
+aussi de voir où où est un peu leur
+scepticisme et cetera et maintenant tout
+l'enjeu c'est de faire en sorte que sur
+cette landing page on capte un maximum
+d'adresse mail et on va voir si on y
+arrive un des gros enjeux quand tu crées
+une landing page c'est de faire en sorte
+que ça ait l'air vrai c'est le fameux
+fake it until you make it tu vois c'est
+vraiment le truc genre tu peux pas
+lancer une landing page et dire
+explicitement que ce que tu proposes
+n'existe pas encore ou alors tu peux
+mais il faut il faut être honnête un
+minimum avec avec les gens et il faut
+arriver à à montrer un maximum quelque
+chose de concret juste des mots ça
+suffit souvent pas par exemple si tu
+prends Dropbox sur leur leur landing
+page pendant un temps ils ont ils ont
+réussi à ils ont fait une vidéo qui
+faisait la démo de ce qu'allait être
+Dropbox alors que ça n'était pas du tout
+développé et donc ils ont fait une vidéo
+un peu fake où il montrai les fichiers
+synchronisé et que ça que ça
+fonctionnait hyper bien et que c'était
+rapide et rien qu'avec cette vidéo là
+ils ont réussi à faire 70000 signup en
+postant sur redit et la demande et la
+frustration était tellement forte par
+rapport à la gestion des fichiers sur un
+ordi que il y a 70000 personnes qui sont
+inscrites juste en voyant une vidéo qui
+était une promesse et le produit
+n'existait pas encore mais en tout cas
+la leçon de ça c'est qu'il faut arriver
+à faire croire entre guillemets aux gens
+que qui vont visiter ton site que ton
+produit existe déjà ou en tout cas qu'il
+est en passe d'être créé parce que c'est
+le but il y a un gros risque quand tu
+cré ta landing page qui est d'essayer
+d'optimiser cette page constamment et
+d'y passer des plombes et des plombes
+avant de la Lancer c'est la même chose
+qu'un produit en fait tu peux toujours
+trouver une petite amélioration qui va
+faire que ta landing page va être un peu
+mieux que ton discours va être un peu
+meilleur un peu plus impactant toucher
+un peu plus l'émotionnel mais en fait ça
+a pas de sens ça a pas de sens de passer
+tant de temps à chercher ça ça a pas de
+sens non plus d'aller parler à d'autres
+entrepreneurs pour leur demander des
+feedback sur ta landing page ce qu'il
+faut c'est que tu ailles c'est que
+tuenvoies cette landing page et que tu
+fasses voir cette landing page à un
+maximum de gens qui sont dans ta cible
+c'est eux qui te feront les meilleurs
+feedback c'est eux qui te diront si leur
+si ton discours te parle et les chiffres
+de conversion le nombre d'adresse email
+ou de compte que tu vas récupérer avec
+cette landing page c'est ça qui parlera
+et c'est ça qui te dira que ta landing
+page elle a elle a elle elle performe ou
+pas ce sera jamais d'autres gens
+extérieur qui vont se placer comme des
+expert genre si tu vois cette vidéo et
+que tu te dis que tu vas m'envoyer la
+landing page pour me demander si elle
+est bien il y a très forte chance à
+moins que je sois directement dans la
+cible de ton produit pour que je te dise
+publie publie là à tes users plutôt que
+de me l'envoyer à
+[Musique]
+moi une bonne technique pour distribuer
+ta landing page et faire en sorte qu'il
+y ait un maximum de gens qui la voie
+parce que c'est ça le but c'est qu'il y
+a un maximum de gens qui la voi pour
+qu'il y ait un maximum de gens qui
+s'inscrivent et qui laissent leur
+adresse email ou qui créent un compte ou
+peu importe ça va être de de partager
+dans les forums et les communautés que
+tu as observé un peu plusôt pour
+chercher les motivations et les
+frustrations si tu as trouvé des
+endroits où les frustrations les
+motivations et les problèmes que tu veux
+régler sont exprimés dans ces endroitslà
+c'est sûr que tu vas trouver des gens
+qui seront intéressés par ce que tu
+proposes donc tu peux leur envoyer la
+landing page c'est ce que j'ai fait avec
+onepoon quand j'ai partagé sur les
+forums de Marmiton de au féminin et
+cetera au-delà des forums et des
+communautés que tu as pu trouver en
+ligne pour faire tes observations un peu
+plus tôt il y a 19 canaux d'acquisition
+qui existent que tu peux utiliser pour
+amamener du monde sur ta landing page si
+ça t'intéresse on en parle dans
+l'épisode 8 l'épisode bonus de la saison
+2 pour que tu vois comment ça fonctionne
+ton but en distribuant ta landing page
+c'est d'avoir un maximum de gens qui
+viennent qui s'inscrivent qui te
+laissent un moyen de les contacter pour
+que tu puisses ensuite les contacter et
+leur parler personnellement parce
+qu'avoir une grosse base d'adresse email
+ça suffit pas il faut pouvoir discuter
+vraiment avec les gens pour comprendre
+plus en profondeur qui ils sont et
+quelles sont leurs frustrations et
+motivations pour any1 can scale une fois
+qu'on a fait la landing page après avoir
+détecté vaguement un problème on savait
+pas du tout ce qui allait se passer on a
+juste mis en ligne et ben là c'est la
+même chose une fois que tu as ta landing
+page mets-la en ligne essaie d'attirer
+un maximum de gens et une fois que tu
+auras beaucoup de gens inscrits on va
+pouvoir commencer à leur parler pour
+comprendre vraiment qui ils sont en
+profondeur c'est le sujet de l'épisode 2

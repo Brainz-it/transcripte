@@ -1,0 +1,610 @@
+[Musique]
+bienvenue dans le module sur
+l'affiliation l'affiliation c'est un
+concept qui est très très très connu
+généralement du point de vue des
+blogueurs des éditeurs et des gens qui
+produisent du contenu moi j'ai blogué
+pendant longtemps et l'affiliation
+c'était un peu le Graal de la bonne
+manière de se rémunérer quand on avait
+un blog ou quand on faisait des vidéos
+sur YouTube et cetera et cetera le truc
+c'est que l'affiliation quand on est une
+boîte ça peut être un canal
+d'acquisition très très très puissant
+c'est un canal d'acquisition qui est
+super intéressant notamment parce qu'il
+est basé sur le principe de commission
+et que du coup vous allez payer
+uniquement à la performance vous allez
+payer uniquement quand vous avez une
+vente qui est réalisée c'est un canal
+qui est outbound donc vous allez
+chercher directement des clients dans
+leur expérience pour leur proposer votre
+solution mais vous allez pas le faire
+directement vous en tant que marque vous
+allez le faire à travers un réseau
+d'affiliés ce réseau d'affilié il faut
+comprendre comment le créer il faut
+comprendre comment arriver à l'organiser
+correctement il y a des boîtes qu'ils
+font en interne je pense à Amazon par
+exemple dont le programme d'affiliation
+est un des trucs qui leur a apporté le
+plus de croissance dans leur histoire et
+il y a des boîtes qui utilisent des
+plateformes d'affiliation pour créer
+leur campagne on va voir un peu tout ça
+on va voir quelles étapes pour mettre en
+place votre première expérience
+d'affiliation et voir si c'est un canal
+qui est pertinent pour vous c'est
+[Musique]
+parti pour faire ta première expérience
+d'affiliation tu vas avoir besoin d'une
+landing page tu vas avoir besoin en tout
+cas d'une présence en ligne parce parce
+que c'est un peu le seul moyen de
+traquer si les ventes ont été faites à
+travers ton réseau d'affilié ou pas pour
+ta première expérience tu vas avoir
+besoin d'une présence en ligne grosso
+modo le modèle d'affiliation il
+fonctionne de la manière suivante toi en
+tant qu'annonceur tu as un produit à
+vendre tu vas aller trouver un éditeur
+ou un affilié qui va proposer ce produit
+à la vente et qui va en faire la promo
+pour toi et ensuite au moment de l'achat
+il va prendre une commission et toi tu
+vas prendre le reste de l'argent qui a
+été dépensé par le
+client ce principe là il implique que tu
+dois pouvoir traquer les ventes qui ont
+été faites par tel ou tel éditeur pour
+ça la manière la plus simple pour ça la
+manière vraiment la plus simple qui
+demande rien du tout c'est de le faire
+sur la confiance c'est un truc que j'ai
+observé beaucoup chez des potes à moi
+qui ont fait des programmes
+d'affiliation qui ont cartonné où il
+disaient bah voilà moi je demande au
+client par quel affilié il a récupérer
+la vente je le dis à l'affilié à la fin
+du mois combien de vondes ont été
+exécuté et du coup bah je lui donne la
+Commission en fonction ça c'est un
+système qui est basé sur la confiance
+c'est un système qui est profondément
+artisanal mais c'est quand même beaucoup
+plus simple de le faire avec un système
+tech d'autant plus que vous avez pas
+besoin de grand-chose le seul truc dont
+vous avez besoin c'est d'une landing
+page c'est de pouvoir tracker dans
+Google Analytics si la vente a été
+effectuée à partir d'un certaine UTM ou
+pas je vous renvoie au module sur le
+fonctionnement d'un canal d'acquisition
+pour voir comment utiliser les UTM et
+comment utiliser Google Analytics ce que
+tu vas mesurer étant donné que c'est un
+canal bound c'est le nombre de Lead qui
+viennent de ces campagnes d'affiliation
+et évidemment le nombre de ventes qui
+viennent derrière même chose dans le
+module comment fonctionne un canal
+d'acquisition vous avez des épisodes
+pratiques qui vous permettent de
+comprendre comment faire ça la première
+étape quand on met en place une campagne
+d'affiliation c'est d'arriver à créer un
+réseau d'affilié ce réseau d'affilié il
+peut être fait de plusieurs manières je
+l'ai dit il y a la manière artisanale
+vous créez votre propre réseau d'affilié
+et il y a la manière avec des
+plateformes trouver des plateformes
+d'affiliation qui existent déjà pour
+pouvoir bah vous servir dedans et aller
+chercher des affiliés qui sont
+pertinents pour vous dans les deux cas
+votre objectif c'est de trouver des
+affiliés qui ont accès d'une manière ou
+d'une autre
+àoside la plupart du temps les affiliés
+c'est des éditeurs de contenu c'est pour
+ça que des fois je vais dire affilié des
+fois je vais dire éditeur les éditeurs
+de contenu c'est des gens qui vont créer
+des vidéos c'est des gens qui vont créer
+des articles qui vont avoir des
+newsletters qui vont en tout cas avoir
+une audience et qui ont pas forcément un
+business model directement lié à la
+vente d'un produit ou d'un service la
+plupart du temps ces gens-là ils vont
+créer du contenu des fois par des fois
+pour d'autres raisons mais ils vont
+avoir besoin de monétiser ce contenu
+mettez-vous à leur place une seconde et
+posez-vous cette question si vous créez
+du contenu et que vous le publiez sur
+YouTube sur médium dans une newsletter
+et cetera de manière gratuite quelle est
+la meilleure manière pour vous de se
+faire de l'argent et ben la meilleure
+manière pour vous dans ce cas-là de se
+faire de l'argent c'est d'arriver à
+proposer à votre audience des produits
+qui les intéressent et que cette
+audience achètent ces produits et que
+vous vous preniez une commission ça vous
+évite d'avoir à développer un produit ça
+vous évite d'avoir à proposer un service
+et ça vous permet vous d'avoir un revenu
+qui monétise votre action ça vous permet
+à vous de vous concentrer sur la
+création de votre contenu plutôt que sur
+le développement d'un produit ou la
+proposition d'un service et de pouvoir
+monétiser votre activité et de pouvoir
+en vivre ou plus votre objectif donc
+vous en tant qu'annonceur ça va être de
+trouver ses potentiels affiliés c'est
+des gens qui ont peut-être l'habitude de
+le faire déjà ou pas ce qui est
+intéressant c'est d'arriver à repérer
+les gens qui ont accès à votre audience
+toute la clé de la réussite d'une
+campagne d'affiliation repose sur votre
+capacité à trouver des annonceurs qui
+ont accès à vos lead et qui qui ont un
+pouvoir de prescription fort sur volide
+ça veut dire que si vous avez des gens
+qui créent du contenu depuis longtemps
+qu'ils ont une audience hyper engagée et
+cette audience elle attend des conseils
+de cette personne là la plupart du temps
+ça va être très très très efficace que
+cette personne promeuve votre produit
+donc il faut les trouver ce qui est
+intéressant c'est qu'ici dans cette
+recherche de personnes affiliées on va
+trouver beaucoup de concepts qui vont se
+recouper avec le module sur l'influence
+marketing les relations avec les
+blogueurs et les blogueuses finalement
+ça va être beaucoup de choses beaucoup
+de formats de publicité que vous allez
+pouvoir mettre en place en payant sur
+sous différents modes et cetera mais un
+des bons moyens de faire de l'influence
+marketing c'est de proposer un
+pourcentage une commission au blogueur
+qui parle de vous donc de faire de
+l'affiliation pour ça il suffit de se
+poser et de commencer à observer les
+gens qui produisent du contenu et qui
+vous paraissent intéressant c'est
+toujours une question de chasser
+l'opportunité et chasser l'opportunité
+si vous avez regardé quelques modules de
+la formation vous commencez à comprendre
+que c'est une histoire de veille cette
+veille elle doit être faite de manière
+récurrente et vous devez observer qui
+sont les acteurs sur votre marché qui
+sont des prescripteurs pour certaines
+audiences ces gens-là vous allez ensuite
+pouvoir rentrer en contact avec eux et
+leur proposer un deal en leur disant
+voilà moi ce que je te propose c'est de
+faire la promo de mon produit
+directement à ton audience et à chaque
+fois que quelqu'un fait une vente tu
+prends une commission cette commission
+elle peut varier énormément elle peut
+varier de 5 % chez Amazon je crois que
+c'est à peu près ça qui prennent si vous
+pouvez vous inscrire au programme
+d'affiliate de Amazon et vous allez voir
+à peu près quelles sont les conditions
+et cetera ça peut varier de 5 % à
+beaucoup plus je sais que par exemple
+sur les produits d'info comme la
+formation que vous êtes en train de
+regarder les coûts de production sont
+assez élevés au démarrage mais après bah
+il y a plus de coût de production à
+chaque fois que vous vendez une nouvelle
+formation donc là on peut monter sur des
+taux de commission qui sont de l'ordre
+de 50 60 %. c'est à vous de décider quel
+deal vous voulez passer avec votre
+affilié et de voir ce qui est pertinent
+pour pas renier sur vos marges trop
+évidemment la seule question à se poser
+pour avoir une limite à votre commission
+bah c'est est-ce que je continue à
+marger en donnant une commission à
+quelqu'un c'est un principe business qui
+est très très simple pour mettre ça en
+place de manière manuelle il va falloir
+rédiger des contrats d'affiliation alors
+ce qu'on a fait c'est que j'ai demander
+à une pote avocat de Me rédiger un
+modèle de contrat d'affiliation que vous
+allez pouvoir utiliser et que vous allez
+pouvoir mettre en place avec vos
+affiliés que vous allez trouver ce
+contrat il est disponible dans ce module
+dans les annexes et vous allez pouvoir
+le modifier à votre sauce je vous invite
+à quand même vraiment jeter un œil sur
+la constitution de ce contrat c'est un
+contrat qui est standard il va pas
+fonctionner de la même manière pour tout
+le tout le monde typiquement si vous
+êtes auto-entrepreneur ça va être plus
+compliqué parce que vous avez pas
+forcément le droit de vous faire
+facturer vous avez pas forcément le
+droit d'utiliser ce modèle moi je vous
+mets le modèle à disposition si vous
+êtes une boîte classique type SAS SARL
+et cetera il devrait marcher mais c'est
+clair qu'il marchera pas tel quel donc
+faites-vous aider de quelqu'un qui s'y
+connaît en légal faites-vous aider d'un
+avocat mais en tout cas vous avez une
+bonne idée d'à quoi ressemble un contrat
+d'affiliation comme
+celui-là votre but c'est d'arriver à a
+closer des deals d'affiliation donc tous
+les gens que vous repérez à travers
+votre veille vous allez devoir faire en
+sorte qu'ils deviennent des affiliés
+passer de C des gens que j'ai repéré qui
+sont intéressants pour moi à c'est des
+affiliés c'est une histoire de Sales
+c'est une histoire de relation tout le
+jeu c'est de faire en sorte que ces
+gens-là vous entriez en contact avec eux
+et que vous leur fassiez des
+propositions qui sont suffisamment
+intéressantes pour eux pour qu'ils vous
+disent oui c'est pour ça qu'il vous faut
+un pipe suffisamment grand pour pouvoir
+bah subir des échecs il y a forcément
+des gens que vous allez contacter qui
+vont vous dire non il y a énormément de
+gens que vous allez contacter qui vont
+peut-être même pas vous répondre ça va
+dépendre évidemment de la légitimité de
+votre marque existante ça va dépendre de
+plein de choses mais en tout cas les
+programmes d'affiliation moi j'en ai vu
+toutes sortes j'ai vu des gens dans tous
+les marchés sur tout types de boîte sur
+toute taille de boîtes même des boîtes
+qui venaient de commencer qui avaient
+mis en place un programme d'affiliation
+d'ailleurs si vous êtes en train de
+démarrer votre activité et vous êtes
+juste sur le point de commencer à
+chercher vos premiers clients c'est une
+méthode qui est très très très efficace
+parce qu'elle vous permet d'avoir un
+canal outbound qui va pas vous coûter un
+rond tant que vous aurez pas vendu un
+produit l'affiliation c'est un marché
+qui est aussi connu pour ces plateformes
+on parle de plateforme d'affiliation et
+c'est exactement la manière inverse de
+ce que je viens de vous décrire pour
+créer votre réseau ce que je viens de
+vous décrire c'est une manière de créer
+votre réseau à la main et de faire en
+sorte de Closer les gens de les
+organiser et de faire en sorte de les
+payer correctement le truc c'est que ça
+demande beaucoup beaucoup beaucoup
+d'énergie surtout si vous voulez un
+nombre d'affiliés plus grand si vous
+voulez toucher beaucoup de monde d'un
+coup ça va vous demander un travail
+colossal de réunir tout ça et ça va vous
+demander un travail encore plus colossal
+de rédiger les contrats dont je viens de
+parler de faire le système qui va payer
+tout le monde de manière automatique
+pour pas que vous ayez une cellule de
+contat dans votre boîte de quatre
+personnees en train d'envoyer des
+factures toute la journée et cetera ça
+peut très très vite être compliqué à
+partir du moment où vous avez du volume
+je dis pas que sur votre première
+campagne d'affiliation vous devez avoir
+un gros volume mais vous pouvez choisir
+de le faire et dans ces cas-là il y a
+des plateformes d'affiliation qui existe
+qui s'occupe de tout ça il s'occupe de
+vous proposer des affiliés qui vous
+correspondent et il s'occupe de
+s'occuper de la répartition des
+paiements de la répartition des
+commissions et de faire en sorte de tout
+gérer pour vous et que vous n'ayez qu'à
+encaisser l'argent et la Commission est
+versée rétroactivement directement je
+vais vous glisser quelques noms de
+plateformes d'affiliation qui sont très
+très connu il y a racuten advertising
+qui est un des gros leader en Europe et
+si vous voulez targetter le marché
+européen et à forceu français c'est une
+bonne idée d'aller vers eux il y a si CJ
+affiliate qui est un truc plus américain
+mais qui bosse avec des très grandes
+marques et du coup qui est très très
+très solide il y a ClickBank qui est
+orienté exclusivement sur les produits
+info donc si vous vendez des formations
+si vous vendez des choses en ligne de
+manière générale où il y a pas de
+produit physique clickbang c'est très
+très bon il y a trade doubleur bref il y
+a plein plein plein de ces plateformes
+je vous invite à taper sur Google
+plateforme d'affiliation et à regarder
+ce qui vous plaît le plus vous allez
+voir que c'est un milieu qui est un
+petit peu opaque la plupart du
+sur ces plateformes les infos sont pas
+très très claires sur ce qu'il vous
+propose comme offre et surtout en
+fonction de votre business la raison
+c'est qu'ils ont très souvent des
+programmes d'accompagnement oou quand
+vous allez vous inscrire vous allez voir
+vous pouvez pas juste vous inscrire et
+en quelques clics lancer votre campagne
+d'affiliation vous allez être accompagné
+par une équipe de Sales et cette équipe
+elle va essayer de comprendre quels sont
+les meilleurs affiliés qui vont pouvoir
+mettre à votre disposition et qui vont
+faire la promo de vos produits et qui
+auront la bonne audience pour vous
+finalement c'est la partie du travail ou
+quand vous le faites à la main bah eux
+ils le font pour vous et la plupart du
+temps vous payez pour ça il y a des
+plateformes d'affiliation où il y a des
+fits d'entrée qui sont de 2000 dollars
+ou 2000 € ces prix-l ils peuvent
+paraître élevés à la base surtout si
+vous démarrez donc c'est à prendre avec
+des pincettes par contre ça peut valoir
+le cûp ça peut valoir le coûp de se
+faire accompagner et s'il y a un intérêt
+on essaiera de trouver des gens qui ont
+des vrais retours d'expérience par
+rapport à ces plateformes moi j'en
+connais pas beaucoup je connais que des
+éditeurs qui utilisent ces plateformes
+pour les annonceurs on essaiera de faire
+des retours d'XP qu'on mettra dans ce
+module pour que vous ayez une idée d'à
+quoi ça ressemble d'utiliser une
+plateforme comme racuten marketing dans
+l'idée vous allez donc être accompagné
+par une équipe de Sales qui va vous
+trouver les meilleurs affiliés pour
+distribuer votre produit et puis ensuite
+votre campagne va commencer vous aurez
+tout le système de tracking vous aurez
+accès à un dashboard qui va vous faire
+monitorer vos ventes qui va vous faire
+monitorer les commissions que vous allez
+céder aux gens où vous allez pouvoir
+modifier vos options vos paramètres et
+cetera bref tout est automatisé ça vous
+prémachche le travail ça vous demande un
+simple effort de suivre le process de
+Sales au départ et de vous inscrire
+l'avantage de ces plateformes
+d'affiliation en plus de la facilité de
+mise en place du réseau d'affiliés c'est
+aussi qu'il y a très souvent un tri à
+l'entrée parce que c'est très facile de
+tomber dans un travers où les affiliés
+sont de mauvaise qualité finalement des
+éditeurs de contenu qui font du contenu
+de qualité et qui ont un pouvoir de
+prescription élevé il y en a pas tant
+que ça donc vous pouvez compter sur ces
+plateformes pour faire un tri à l'entrée
+un tri drastique qui leur permet de
+proposer des prix plus él et de prendre
+des commissions je sais que chez Trade
+doubleur par exemple si je me trompe pas
+il y a un fi fixe à l'entrée qui est de
+69 dollars et ensuite ils prennent 7.5 %
+sur chaque vente plus un dollar je suis
+pas sûr d' quel point c'est accuré il
+pourrait aller voir sur le site de trade
+doubler mais dans l'idée c'est ça dans
+l'idée vous allez avoir des plateformes
+qui prennent une commission assez élevée
+sur chaque vente qui est faite mais ça a
+de la valeur parce que ça vous économiss
+tout ce travail de recherche et de tri
+une fois que tu as composé ton réseau
+d'affilié que tu les fait à à la main en
+faisant ton pipe avec tes deals et en
+closant et en proposant des offres
+faires et en mettant en place des
+contrats ou alors que tu les fais avec
+une plateforme pour pouvoir avoir accès
+à beaucoup d'affiliés d'un coup tu vas
+pouvoir commencer à bâtir la relation
+avec eux alors via les plateformes en
+général les relations c'est les
+plateformes qui s'en occupent par contre
+à la main c'est très très très important
+de suivre la relation et de maintenir la
+relation avec tes affiliés cette
+relation elle est importante parce
+qu'elle va te permettre de repérer
+surtout qui sont les gens qui sont tes
+meilleurs affiliés qui sont les gens qui
+te rapportent le plus de vente pour ça
+il faut également que tu monitores les
+ventes donc c'est ce que je disais au
+tout début de cette vidéo c'est qu'en
+fait bah il faut que tu récupères le
+nombre de clics qui sont venus depuis
+cette campagne d'affiliation avec les
+UTM et que tu récupères aussi le nombre
+de ventes qui ont été effectuées à
+partir de tes UTM tout ça ça va te
+permettre à la fois bah de pouvoir
+commissionner tout le monde et de bien
+monitorer comment ça fonctionne et de
+t'assurer que tout le monde est content
+mais ça va pouvoir aussi te permettre de
+comprendre à quel point ta campagne
+d'affiliation fonctionne encore une fois
+l'avantage c'est que tu ne payes qu'à la
+vente donc il te suffit de pas
+grand-chose pour avoir une expérience
+qui est validée ça dépend évidemment de
+ton ambition et du nombre de clients que
+tu veux et donc voilà tu as une bonne
+idée de à quoi ressemble ta première
+expérience d'affiliation ça demande du
+temps ça demande de bien recruter tes
+affiliés ça demande de bien tisser une
+relation avec eux ça demande de mettre
+en place euh une bonne commission et de
+faire en sorte que il y a un échange
+winwin qui soit mis donc normalement ça
+vous donne une bonne idée de comment
+mettre en place votre première campagne
+d'affiliation ça va dépendre évidemment
+de vos objectifs il va falloir voir si
+c'est intéressant pour vous pour cette
+première expérience faut bien comprendre
+que le plus dur c'est le démarrage le
+plus dur c'est vraiment de commencer à
+mettre le pied à l'étrier de commencer à
+faire ta veille de commencer à trouver
+les gens ça ça va prendre un certain
+temps je pense que tu peux compter un
+mois avant de Closer ton premier deal ça
+me paraît assez honnête ça peut être
+plus ça peut être moins bien évidemment
+mais il faut quand même compter un
+certain temps avant le premier moment où
+tu as un premier affilié même si tu
+utilises des plateformes tu vas avoir
+tout ton process de Sales de mise en
+place et cetera c'est un travail qui est
+assez fastidieux mais qui peut porter
+ses fruits derrière par contre une fois
+que tes premières campagnes sont lancées
+et que tes premiers affiliés se sont
+engagé à faire la promo de tes produits
+normalement tu devrais avoir des
+résultats sous de semaines et l'avantage
+c'est que comme c'est un Cano outbound
+vous allez pouvoir mesurer exactement le
+nombre de ventes qui ont été exécuté et
+donc vous allez avoir une précision très
+élevée par Rapp rapport aux performance
+de cette campagne si tu vois que ça
+commence à marcher tu vas pouvoir te
+poser la question de comment faire
+grossir ton réseau d'affilié soit si tu
+as déjà une plateforme en essayant
+d'autres plateformes et en voyant en
+fonction des conditions d'exclusivité
+que tu as signé soit en faisant grossir
+ton réseau d'affilié que tu maintiens à
+la main et va y avoir toute une question
+si tu maintiens ton réseau à la main
+d'automatisation de ce tru- alors ça
+c'est des sujets qui sont plus complexe
+qui parle d'automatisation et cetera
+qu'on aborde plus dans d'autres
+formations comme any one can scale mais
+par contre c'est des sujets qui vont te
+permettre de faire grossir ton réseau
+d'affiliation de manière très très très
+conséquente alors je parle pas
+nécessairement d'aller chercher de la
+croissance à la Amazon mais de s'en
+approcher de tendre vers ça parce que je
+le répète Amazon c'est comme ça qu'ils
+ont grossi énormément il y a beaucoup
+beaucoup beaucoup il y a beaucoup
+beaucoup d'exemples de boîtes qui ont
+fonctionné à l'affiliation et c'est un
+canal qui est souvent sous-évaluer
+surtout au départ d'une boîte au
+démarrage d'une boîte faire ce travail
+de trouver des gens qui peuvent prendre
+une commission sur les ventes pour toi
+ça peut être très très efficace te
+coûter uniquement du temps et pas
+d'argent tant que tu as pas de ventes
+qui sont closer et lancer ton business
+si tu as déjà un business et que tu veux
+juste trouver des nouveaux canaux
+d'acquisition ça peut être aussi très
+très puissant parce que bah si tu
+arrives à créer un réseau qui est
+suffisamment grand et qui est
+suffisamment proche de ta cible tu vas
+pouvoir avoir énormément d'outbound qui
+rentre dans ton pipe donc tout ça
+j'espère que vous avez compris le
+principe de l'affiliation j'espère ça
+vous aura donné envie de creuser un peu
+plus dans ce module au fur et à mesure
+on va vous rajouter des retours
+d'expérience de différents types
+d'affiliation qui ont été créés vous
+allez pouvoir voir à quoi ça ressemble
+voilà donc j'espère que vous aurez
+compris quel est le principe de
+l'affiliation et que vous aurez compris
+que c'est un canal qui peut être très
+puissant pour votre business et ce quel
+que soit votre business c'est évidemment
+plus simple de faire de l'affiliation
+quand on a une boîte qui vend un produit
+standard plutôt qu'un service par
+exemple parce que ça vous permet d'avoir
+directement des ventes qui sont liées et
+pas uniquement des leads mais ça peut
+marcher aussi ça peut marcher même si
+vous avez un processus de vente qui est
+plus long et qui est plus manuel parce
+que vous pouvez mesurer bah quelles sont
+les ventes qui viennent à la base du
+canal d'acquisition de l'affiliation
+même s'il y a eu des coups de téléphone
+même s'il y a eu des discussions et
+cetera c'est toujours possible c'est un
+canal qui fonctionne très très bien qui
+vous permet d'avoir une maîtrise sur vos
+matrix parce que c'est un canal outbound
+et en tout cas bah j'espère que ça vous
+aura donné envie de tester

@@ -1,0 +1,638 @@
+[Musique]
+bienvenue dans ce module sur le SEM
+alors le SEM c'est le search engine
+marketing qui s'oppose à la Search
+Engine Optimization le SEO qu'on a vu
+dans le module sur le SEO du coup là où
+le SEO c'est vraiment l'optimisation de
+ta position dans les résultats de
+recherche sur Google le SEM ça va être
+comment tu fais pour payer pour avoir
+des annonces qui vont être en haut des
+résultats de recherche bah sur les
+moteurs de recherche en général ici on
+va parler de Google l'idée c'est que tu
+vas apparaître en haut des résultats de
+recherche sur Google dans les encarts
+annonces donc tu as dû en voir très
+certainement quand tu as fait des
+recherches sur des sujets qui sont liés
+en général à des produits à vendant
+c'est un canal qui est très très très
+puissant qui est très facile et rapide à
+mettre en place et surtout qui est
+extrêmement précis à mesurer ça en fait
+un canal vraiment idéal pour tester des
+choses avec le contrependant que bah
+c'est payant le truc hyper intéressant
+avec le SEM c'est qu'il y a un côté
+gamifié qui est très très puissant alors
+c'est pas de la gamification classique
+avec des badge et ce qu'on imagine quand
+on dit le mot gamification mais c'est
+plus ce côté où tu vas mettre un budget
+à l'entrée en mettre des pièces dans la
+machine et puis derrière en ressortir un
+certain nombre de leads plutôt garanti
+en fonction de la pertinence de ton
+annonce et le fait que les annonces
+Google soient très simples en général
+c'est juste du texte donc ça va être un
+titre une description un call to action
+et puis une URL hein donc c'est très
+très simple les annonces Google ça te
+permet d'avoir la sensation que itérer
+sur ces annonces ça peut aller très très
+vite et cette facilité d'exécution cette
+rapidité pour itérer et faire en sorte
+d'avoir une annonce qui performe assez
+rapidement basé sur des tests récurrents
+et ben elle rend le truc hyper attractif
+pour beaucoup beaucoup de gens qui
+veulent générer des leads qui veulent
+trouver des clients et donc c'est pas
+étonnant que l'année dernière en 2019
+les gens dans le monde entier aient
+dépensé plus de 55 milliards de dollars
+en SEM pour apparaître dans les
+résultats annonces de Google donc
+aujourd'hui on va voir ensemble comment
+faire pour mettre en place votre
+première campagne de Sem pour faire
+votre première expérimentation et voir
+si c'est un canal qui est adapté à votre
+business ou
+[Musique]
+pas pour faire cette première
+expérimentation tu vas avoir besoin de
+deux choses la première c'est d'avoir un
+budget comme je l'ai dit le SOM c'est un
+canal qui est payant qui coûte
+relativement cher en absolu mais qui
+finalement en relatif rapporté au nombre
+de leads que tu peux récupérer et au
+nombre de ventes que tu peux effectuer
+c'est assez facile de trouver une
+balance entre les deux si les gens que
+tu targetes sont effectivement sur
+Google et ont effectivement une démarche
+de recherche pour tomber sur le produit
+que tu vends en général quand on parle
+de Sem on va parler de budget qui tourne
+aux alentours de 200 € par mois pour
+commencer donc si tu as un budget de 200
+€ par mois ça va commencer à être
+intéressant après ça peut être moins
+parce que tu peux commencer à faire ta
+première campagne sur une semaine du
+coup tu réduis à 50 € par semaine ça te
+fait 200 € par mois mais tu es pas
+obligé de dépenser 200 €. c'est un
+endroit où c'est quand même relativement
+simple d'acquérir des leads et de faire
+des tests très très rapidement donc
+normalement en y mettant un petit peu de
+budget hein il faut se prévoir cette
+marge-là de se dire que cet argent-là au
+début il est perdu parce que ton
+objectif avec cette première
+expérimentation ça va être de trouver le
+point de balance auquel bah tu as une
+rentabilité et où ça devient intéressant
+pour toi d'utiliser ce canal à plus
+grande échelle la deuxième chose dont tu
+vas avoir besoin pour cette
+expérimentation c'est d'une landing page
+en général et je vais y venir juste
+après une campagne de Sem c'est toujours
+un couple entre une annonce sur Google
+et une landing page c'est une expérience
+qui est unifiée et donc tu as besoin de
+savoir créer des landing Pag on a créé
+quand même beaucoup de contenu sur coup
+d'État pour t'expliquer comment faire
+une landing page on va te remettre des
+outils ici pour t'expliquer comment te
+lancer et cetera la création d'une
+landing page c'est un travail qui est
+profondément créatif et qui est
+nécessaire ici pour bah arriver à mettre
+en place une campagne som qui fonctionne
+alors ce que tu vas mesurer dans cette
+première expérimentation c'est quelque
+chose d'extrêmement précis parce que
+comme je l'ai dit ce canal il a un taux
+de mesure qui est hyper élevé alors il y
+a plusieurs termes que j'ai évoqué dans
+le module sur le fonctionnement d'un
+canal d'acquisition et ici ils vont
+quasiment tous nous servir d'ailleurs la
+plupart des termes qu'on utilise en
+marketing moderne pour mesurer les
+différentes campagnes qu'on met en place
+viennent du SEM ont été introduits
+beaucoup bah avec cette discipline qui
+est de mettre des annonces sur Google
+c'est devenu vraiment un truc universel
+en marketing donc tu vas mesurer
+plusieurs choses tu vas mesurer le cityr
+donc c'est le click through rate c'est
+le nombre de gens qui voient ton annonce
+qui cliqueent sur l'annonce donc les
+gens viennent sur Google tape une
+requête tu apparais en tant qu'annonce
+en haut des résultats et il clique sur
+ça il y a ce pourcentage là ce cityar
+qui est donc un pourcentage de
+conversion tu vas pouvoir en déduire ton
+CPC donc ton coût par clic donc combien
+ça te coûte d'obtenir quelqu'un qui
+clique sur ton annonce ensuite derrière
+tu vas mesurer le taux de conversion de
+ta landing page donc une fois que la
+personne a cliqué sur ton annonce et
+qu'elle arrive sur ton site combien de
+gens finissent par convertir derrière en
+fonction de tes objectifs que ce soit
+une vente ou que ce soit l'acquisition
+d'un liad et avec tout ça tu vas donc
+pouvoir calculer ton CPA ton coût par
+acquisition il y a une équation très
+très simple qui est CPA ég CPC sur taux
+de conversion ça fait que si par exemple
+ton CPC est à 1 € donc ça te coûte 1 €
+d'obtenir un clic sur ton annonce Google
+et ben tu vas diviser ça par ton taux de
+conversion donc admettons que sur ta
+page 10 % des gens deviennent des leads
+après avoir visité la page et ben tu vas
+avoir 1 € sur 10 % et ça fait un cooup
+d'acquisition qui a 10 €. je t'avais
+prévenu c'est hautement précis tu vas
+avoir une véritable idée de combien ça
+te coûte de faire l'acquisition d'un
+lead évidemment tout ça se mesure avec
+Google Analytics mais aussi directement
+dans Google Ads qui est l'outil qu'on va
+utiliser pour mettre en place la
+première campagne comme je l'ai dit
+juste avant une campagne sm c'est
+toujours composé de deux choses c'est
+composé d'une annonce qui va être
+disponible sur Google et d'une landing
+page la première étape du coup ça va
+être de créer cette annonce pour créer
+cette annonce tu vas devoir te créer un
+compte Google Ads il y a une vidéo
+pratique dans ce module où je te montre
+comment utiliser Google Ads pour faire
+ta première annonce tout il est détaillé
+tu vas voir c'est très très simple il
+suffit de suivre les étapes une fois que
+ton compte est créé tu vas pouvoir
+commencer à créer ta première annonce
+cette première annonce la première chose
+que tu vas faire c'est déterminer les
+mots-clés sur lesquels tu veux
+apparaître quand les gens les tapent
+dans Google alors je donne plein de tips
+dans la vidéo pratique pour choisir des
+mots-clés qui sont pertinents c'est des
+tips qui sont relativement les mêmes que
+en SEO finalement ce qui est intéressant
+c'est de savoir ce que ta cible va taper
+donc là je vous renvoie au module sur
+comment cibler ses clients et vraiment
+se poser la question de quelle est
+l'expérience des gens qui veulent
+trouver un résultat qui va correspondre
+à ce que moi je propose tout ça ça se
+pense de manière ultra créative et ça va
+être fortement corrélé à l'annonce et à
+la landing page une fois que tu auras
+choisi les mots-clés sur lesquels tu
+veux apparaître tu vas pouvoir créer
+l'annonce l'annonce il y a aussi plein
+plein de tips que je donne dans la vidéo
+pratique sur comment créer ta première
+annonce mais dans l'idée il faut arriver
+à créer une certaine continuité ça veut
+dire quoi ça veut dire que quand tu vas
+créer ton annonce sur Google Ads tu vas
+pouvoir euh te poser la question de ok
+si les gens ont tapé ça il faut que ils
+se disent ça c'est un résultat qui
+correspond à ma recherche donc
+réutiliser des motscés qui sont les
+mêmes mots-clés qui ont été tapés mais
+après il faut aussi leur proposer une
+valeur supplémentaire donc en plus des
+mots-clés qui ont été déjà été tapé par
+l'utilisateur leur montrer pourquoi toi
+ce que tu proposes c'est corrélé à ce
+qu'ils recherchent et puis
+éventuellement un call to action il y a
+plein plein plein d'éléments vous allez
+voir dans la vidéo pratique il y a un
+titre numéro 1 un titre numéro 2 un
+titre numéro 3 une description 1 une
+description 2 l'URL qui apparaît tout
+est important et ce qui est trop cool
+c'est qu'il y a peu de choses il y a peu
+de choses dans une annonce Google donc
+la créer ça demande pas d'y passer 100
+ans par contre ça demande de faire un
+vrai travail de réflexion en amont pour
+savoir comment vous voulez créer une
+expérience pertinente pour la personne
+qui va taper les mots-clés que vous
+targettez sur Google
+et ça c'est un travail qui est difficile
+et dans lequel il y a pas de réponse
+préfaite genre vous pouvez pas m'envoyer
+vos annonces et me demander si elles
+sont bien et si elles vont marcher le
+seul moyen d'arriver à faire une annonce
+qui cartonne c'est de tester et de voir
+si les gens cliquent dessus si votre
+citeard est élevé bon pour finir ton ad
+tu vas avoir besoin de créer une landing
+page parce que dans une ad il y a
+forcément un lien vers lequel ça renvoie
+donc pour finir ton annonce tu vas
+devoir te mettre sur un outiler de
+landing page que ce soit strikingly
+squarespace euh
+Wix ce que tu veux WordPress bref il y a
+un milliard d'outils qui te permettent
+de créer des landing Pag et des site web
+aujourd'hui et c'est certes un travail
+qui est important mais qui je pense est
+à la portée de tout le monde surtout
+avec les outils les plus modernes comme
+squarespace cette landing page tu dois
+la penser et la créer comme une
+véritable continuité de l'expérience
+dans laquelle les gens se trouvent si
+créé ton annonce juste avant c'était
+vraiment créer la continuité de ce que
+les gens ont tapé dans Google et B ta
+landing pay ça doit être la é du clic
+sur l'annonce les gens doivent retrouver
+dans ta page les mots- clés qui ont été
+promis dans ton annonce les gens doivent
+aussi retrouver plus d'informations
+complémentaires doivent pouvoir scanner
+ta page assez rapidement et y trouver
+les infos qu'il cherchent le plus vite
+possible pour essayer de bah les garder
+et qui se barre pas juste et avoir un
+taux de rebond qui est de 80 %. ce qui
+c'est très important de vraiment créer
+encore une fois un véritable flow alors
+j'ai un amour très très grand pour les
+landing PID parce que alors j'ai un
+amour très très grand pour les landing
+page parce que je j'aime la créativité
+de manière générale et je trouve que les
+landing page c'est un vrai moyen
+d'expression de créativité qui te permet
+d'exprimer à la fois ton identité à la
+fois un message très fort et de jouer
+vraiment avec tout ce que le Web peut
+offrir de meilleur pour créer des
+expériences le truc c'est que quand tu
+vas commencer à faire ta première
+expérimentation de Google Ads bah il va
+falloir plutôt tailler à la hache que
+faire des optimisations et faire des
+trucs parfaits alors il y a un juste
+milieu à trouver évidemment je dis pas
+que il faut lancer une landing page avec
+des liens hypertex bleu soulignés sur un
+fond gris et qu'on arrive à rien lire je
+dis pas non plus qu'il faut passer 100
+ans à faire une landing page que vous
+estimer être parfaite dans votre tête et
+et être déçu une fois qu'elle fonctionne
+pas il y a de grandes chances pour que
+ce soit pas juste une histoire de
+wording d'optimisation et détail il y a
+de grandes chances pour que ce soit
+juste une histoire d'expérience générale
+donc ce que je vous invite à faire quand
+vous commencez à faire du SEM c'est pas
+de faire une landing page avec un
+message général et d'essayer d'optimiser
+votre taux de conversion c'est faire
+plusieurs landing page qui vont avoir
+des expériences différentes si par
+exemple vous êtes euh si par exemple
+vous êtes un business de cosmétique et
+que vous vendez je sais pas moi des
+crèmes pour la peau et B il y a
+plusieurs discours que vous pouvez avoir
+qui vont être corrélé à plusieurs types
+de recherch va peut-être il y avoir des
+gens qui vont taper quelque chose comme
+crème pour la peau hydratante pour main
+sèche donc là on a quand même un mot clé
+qui est assez précis et qui du coup va
+normalement avoir moins de concurrence
+donc c'est un intéressant de de se poser
+cette question là si les gens cherchent
+quelque chose pour minsèche peut-être
+que vous allez créer derrière une
+landing page qui va être targetée pour
+les gens qui ont les mains sèches et que
+où cette crème va leur parler exactement
+alors que peut-être que vous allez
+pouvoir créer une autre annonce où les
+gens vont vouloir une crème pour avoir
+une peau qui est brillante donc c'est
+pas un problème tant de santé qu'un
+problème de beauté et donc du coup vous
+allez pouvoir leur proposer une landing
+page qui montre des gens beaux avec qui
+ont utilisé la crème et qui sont hyper
+contents ça c'est deux expériences
+fondamentalement différentes c'est pas
+juste j'ai fait une landing page pour
+les mains sèches et du coup je vais
+optimiser les mots qu'il y a dedans et
+cetera c'est vraiment essayer
+différentes expériences pour essayer de
+comprendre la psychologie des gens qui
+vont chercher bah les mots clés que vous
+voulez targeter sur Google donc c'est
+pour ça dans tout ce que je dis depuis
+tout à l'heure il faut vraiment prendre
+en compte que dans le SEM vos
+expérimentations surtout au début elles
+vont passer par le package total elles
+vont passer par le package de chercher
+les mots clés cliquer sur l'annonce et
+lire la landing page tout ça est un
+package complet qu'il faut penser de
+manière exhaustive parce que c'est
+vraiment la seule manière de faire en
+sorte de trouver des ADS qui
+fonctionnent ensuite une fois que ça
+marche une fois qu'on a trouvé une
+expérience qui fonctionne on va pouvoir
+se poser la question de comment
+optimiser les motsclés les machins les
+titres la position des des éléments dans
+la page tout ça est effectivement
+important mais c'est pas du tout le plus
+important le problème de la plupart des
+gens qui vont vous parler de en ligne et
+de tous les tutos que j'ai pu lire dans
+toute ma vie pour essayer de comprendre
+comment faire marcher des Google Ads
+c'est que les gens te donnent des
+astuces de gens qui ont déjà un trafic
+gigantesse pour optimiser leur
+conversion toi tu es pas en train
+d'optimiser ta conversion tu es en train
+de trouver un levier qui fonctionne pour
+ta boîte bref tout ça pour dire que
+jusqu'à maintenant on a créé un compte
+Google Ads on a créé notre première
+annonce on a créé notre landing page il
+reste plus qu'à faire le lien entre les
+deux en mettant l'URL de ta page
+directement dans ton annonce et ton
+annonce est prête à être publié à ce
+moment-là il te reste plus qu'à définir
+un budget et à mettre l'annonce en ligne
+alors ce budget google va te faire des
+recommandations basées sur ce que la
+concurence sur ces mêmes mots-clés paye
+habituellement l'idée c'est que donc il
+vaont avoir a une petite un petit slider
+comme ça une petite jauge que tu vas
+pouvoir faire défiler où tu vas dire ok
+moi je veux dépenser jusqu'à 200 dollars
+par mois avec un budget journalier de 7
+dollars ou enfin ça peut être en euros
+aussi et en fait ça va te permettre de
+voir à quelle à quelle limite se trouve
+ta capacité toi à attirer des gens par
+rapport à tes concurrents le SEM c'est
+une plateforme d'annonce qui est
+hautement concurrentiel ça veut dire que
+si on reprend notre exemple de
+cosmétique avec la crème pour les mains
+et ben Infiné la personne qui va avoir
+son annonce la plus vue c'est la
+personne qui aura mis le plus de budget
+évidemment c'est tout le business model
+de Google c'est un business model qui
+est hautement scalable même s'ils ont
+des plateformes de vente pour essayer
+d'expliquer aux gens comment fonctionne
+le SEM et comment ils peuvent faire de
+l'advertisement sur Google infin c'est
+quand même cet outil là qui va leur
+permettre de vendre donc toi je pense
+que ça vaut le coup quand même d'écouter
+leurs recommandation un minimum je pense
+pas que ça on soit encore à ce stade
+d'optimisation surtout si c'est ta
+première expérience il faut vraiment se
+dire ok voilà ce que Google me propose
+ça me paraît être honnête par rapport au
+prix du marché parce que ce budget là il
+est pas du tout universel en fonction de
+ce pourquoi tu fais de la pub il est
+complètement corrélé au prix du lead sur
+ton marché si tu vends des prestations
+de plomberie de serruerie ou de de prê
+immobile par exemple tes leads ils vont
+coûter très très cher parce qu'en fait
+bah à la fin la vente terrière elle est
+elle est très très cherre aussi et donc
+il y a une rentabilité qui est très
+élevé si tu vends des choses qui sont
+beaucoup moins concurrentielles le prix
+de ton lad va baisser donc le prix de ta
+campagne va baisser aussi c'est un
+rapport qu'il faut observer et il faut
+juste poser la question de à quel moment
+moi je suis rentable à quel moment c'est
+pertinent d'investir ce budget là pour
+avoir un retour sur investissement je
+dis pas qu'il faut investir des milliers
+d'euros en Google Ads jusqu'à ce que ça
+fonctionne et s'acharner s'acharner et
+cracher du cash à Google à l'infini je
+dis juste que bah c'est une notion de
+résilience cette résilience elle va
+venir évidemment avec l'argent qui est à
+ta disposition et en fonction de
+l'argent que tu as et de ce que tu es
+prêt à investir pour tester tu peux
+tester petit budget par petit budget et
+commencer à itérer jusqu'à ce que ta
+campagne fonctionne ta campagne je le
+rappelle qui est composée de tous les
+éléments dont on a parlé juste avant si
+tu arrives à mettre un budget
+suffisamment conséquent qui peut être de
+7 € par jour en fonction des leades hein
+nous c'est à peu près ce qu'on paye sur
+notre marché euh avec 7 € par jour moi
+je peux faire un test sur une semaine
+qui m'a pas coûté grand-chose à
+l'échelle de la boîte et qui me permet
+de voir s'il y a des résultats
+pertinents déjà ou pas et ensuite je
+peux itérer je peux tester une autre
+campagne je peux tester trois campagnes
+en même temps évidemment on augmente les
+budgets mais pour une boîte comme coup
+d'État qui vend des formations à 300 €
+ou à 1500 € en fonction des profils à
+qui on vend et en fonction bah des
+problèmes qu'on résout bah évidemment
+que ce budget là il est quand même
+plutôt dérisoire si on doit payer 7 €
+pour acquérir un lead et que sur 100
+lead qu'on a donc payé 700 € on récupère
+1500 € ne serait-ce qu'une vente donc 1
+% de conversion après que les gens
+soient devenu lead et ben on devient
+rentable et cette rentabilité c'est ça
+que vous cherchez complètement donc la
+question du budget surtout si vous
+démarrez vous avez pas beaucoup d'argent
+et ben ça peut paraître élevé mais bah
+c'est à vous de décider à quel moment
+vous voulez vous arrêter et à quel
+moment vous voulez continuer d'itérer
+par parce que vous avez des résultats
+pertinents ce calcul que je fais là avec
+nos chiffres chez coup d'État c'est le
+mode de penser dans lequel tu dois te
+mettre pendant que tu fais ta première
+expérimentation je rappelle qu'il y a
+cette formule très importante qui dit
+que le CPA le coût par acquisition est
+égal au CPC sur le taux de conversion de
+ta landing page et donc de cette formule
+là tu peux déduire combien ça va te
+coûter d'acquérir un client réel en
+faisant CPA divisé par taux de closing
+et on a la même formule exactement donc
+si je reprends l'exemple du départ où le
+coût d'acquisition le CPA était à 10 €
+et que tu as un taux de closing de 3 %
+donc que 3 personnes sur 100 qui
+rentrent dans ton pipe de leads
+deviennent des client effectivement et
+bah tu as un coûpt de vente qui est de
+10 € sur 3 % ça fait 333
+€ si ton coût pour obtenir un client est
+333 € et ça c'est une fourchette quand
+même assez élevée parce que 3 % de
+conversion c'est c'est le c'est de
+l'ordre des business B2B euh si ton coût
+est 333 € et que tu vends un produit qui
+est plus cher que 333 € ça veut dire que
+tu as cette rentabilité donc il faut
+vraiment être constamment en alerte sur
+ces chiffres là et se poser la question
+de quand est-ce que je me rapproche un
+petit peu plus d'un seuil de rentabilité
+intéressant et enfin sur la manière de
+tester de faire du SEM bah il faut
+tester tester beaucoup beaucoup beaucoup
+tout le temps itérer regarder observer
+faire les calculs et il y a un rythme
+très élevé à avoir alors ça peut être
+une fois par semaine si vous faites pas
+que ça mais vous pouvez très bienah si
+vous avez des budgets un petit peu plus
+conséquents regardez chaque jour quelles
+ont été les performances il y a pas de
+règles vraiment sur comment itérer la
+seule vraies règles qui existe c'est
+prenez conscience que votre première
+annonce sera forcément imparfaite et
+qu'il vaut mieux faire quelque chose qui
+est taillé à la hache et une expérience
+qui a un test que faire quelque chose
+qui est hautement travaillé dans
+l'espoir que ça va fonctionner la
+plupart du temps même si vous avez bien
+ciblé vos clients et que vous avez fait
+vos devoirs et que vous avez vraiment
+fait vos personnas et que vous avez bien
+ter les personnes et que vous pensez
+comprendre quelle est leur psychologie
+vous vous trompez les gens se comportent
+toujours différemment surtout quand on
+parle d'échelle comme celle-là que ce
+qu'on pense donc il faut itérer il faut
+tester et dans tout ce truc et ben il
+faut définir un budget parce que comme
+je l'ai dit au tout début il y a quand
+même une notion un peu de casino où je
+mets des pièces et il en ressort bah des
+clients qui m'ont coûté quelque chose et
+qui me rapportent quelque chose et ça on
+peut vite tomber dans un travers où on
+dépense on dépense on dépense on ne fait
+que dépenser parce qu'il y a côté un peu
+gambling et tout ça il faut y faire
+attention donc il faut définir un budget
+à l'avance et dire ok moi j'ai 500
+balles pour faire mes tests SEM et pour
+essayer d'arriver à obtenir au moins un
+client qui est rentable ça peut être
+plus ça peut être moins et ça ça dépend
+de votre propenstion à prendre des
+risques l'avantage de ce canal c'est que
+ces risques-là ils sont profondément
+mesurés parce que les résultats des
+campagnes sont profondément mesurables
+et que du coup vous pouvez vraiment
+jouer à bah comment faire pour avoir un
+équilibre entre mon mon acquisition et
+ma rentabilité voilà j'espère que vous
+aurez compris un minimum ce que ça veut
+dire de faire du SEM et l'avantage des
+concepts simples c'est que tout ce qui
+compte c'est l'exécution c'est comment
+vous vous allez faire vos propres
+campagnes j'espère qu'on aura de super
+retours d'expérience de votre part qu'on
+pourra mettre en avant dans ce module en
+attendant il y a une vidéo pratique sur
+comment mettre en place Google ad des
+fiches bref on essaie de vous mettre le
+pied à l'étrier parce que c'est un canal
+qui est profondément puissant qui te
+permet de mesurer à quel point ton
+produit est intéressant pour des gens
+qui sont dans ta cible et ça bah dans la
+formation trouver des clients où on
+essae de vous expliquer comment faire
+pour trouver le point de rentabilité et
+faire en sorte que votre business tourne
+B je pense que c'est vraiment un des
+canaux sur lesquel vous pouvez vous
+mettre facilement si vous avez un petit
+peu de budget j'espère que ça vous aura
+donné envie parce que je trouve que
+c'est un jeu qui est profondément
+excitant j'adore la compétition et il y
+a quand même beaucoup de compétitions
+dans cette histoire de Sem et on se mar
+bien à faire tout ça et je pense que
+l'important ça reste de prendre du
+plaisir à faire ce qu'on fait ça reste
+de prendre du plaisir à bâtir à créer
+des expériences intéressantes pour les
+gens et à leur apporter de la valeur

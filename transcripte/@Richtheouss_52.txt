@@ -1,0 +1,959 @@
+[Musique]
+bienvenue dans ce module sur l'email
+marketing alors l'email marketing c'est
+un canal qui est un petit peu
+particulier dans le sens où c'est pas
+vraiment un canal d'acquisition à
+proprement parler on va aborder quelques
+techniques qui te permettent de faire de
+l'acquisition directement en email mais
+c'est pas vraiment ce dont je voudrais
+parler ici ce dont je voudrais parler
+ici c'est un sujet qui est plus connexe
+à la vente en direct par exemple si vous
+regardez le module sur la vente en
+direct parce que l'email marketing c'est
+un canal qui va vous permettre plus de
+communiquer avec les gens qui sont déjà
+dans votre pipe que d'en attirer des
+nouveaux évidemment ça peut en attirer
+des nouveaux par exemple dans le casadre
+d'une newsletter mais c'est pas le but
+premier ici ce que je voudrais faire
+dans ce module c'est une vraie grosse
+introduction à l'email marketing à ce
+que ça inclut et quelles sont les
+grandes bonnes pratiques pour faire en
+sorte de le mettre en place c'est une
+discipline complexe qui a été théorisée
+énormément par plein plein de gens qui
+ont chacun leur tour amené leur petites
+pierres à l'édifice moi c'est un truc
+que j'ai beaucoup beaucoup pratiqué hein
+dans les différentes formes que ça peut
+prendre et j'en ai retenu que finalement
+c'était pas aussi complexe qu'on voulait
+le faire croire et puis finalement c'est
+un peu comme d'habitude les gens plus
+ils sont bons dans une discipline plus
+il te l'expliquent avec des termes
+complexe et galvodé et tu as
+l'impression que toi pour démarrer ce
+sera impossible ce qu'on va faire
+ensemble ici dans cette vidéo c'est
+comprendre pourquoi l'email marketing
+c'est pas si compliqué que ça dans les
+vidéos pratiques que vous allez trouver
+dans le module vous allez aussi voir
+comment vous lancer avec quelques outils
+il y a pas besoin d'en connaître 150000
+il y a pas besoin de passer 10 ans à
+chercher quel outil utiliser vous avez
+juste à vous y mettre parce que l'email
+marketing c'est avant tout une histoire
+de relation avec les gens et une
+histoire d'itération de faire en sorte
+de tester d'observer et de tester de
+nouveau on va voir ensemble comment
+mettre en place votre première
+expérimentation d'email marketing en
+rassemblant une première liste d'email
+qualifié en faisant en sorte de mettre
+en place une newsletter ou une séquence
+d'email automatisée et puis bah voir
+comment expérimenter sur tout ça c'est
+[Musique]
+parti pour te lancer dans une campagne
+d'email marketing tu vas avoir besoin
+d'une chose d'un outil d'email marketing
+qui est performant le plus connu sur le
+marché c'est mailcham c'est celui qui
+fait consensus de manière générale mais
+il y en a plein d'autres hein send green
+sending blue je les ai plus tous
+nécessairement en tête il vous suffit de
+taper sur Google outil d'envoi d'email
+et vous devriez trouver quelque chose le
+truc c'est que ces outils-là ils ont
+beau être multiples ils ont tous
+globalement les mêmes fonctionnalités
+donc ici dans ce module on va s'attarder
+principalement sur MailChimp pour pas
+vous perdre dans le choix de 10000
+outils une chose dont vous pouvez avoir
+besoin en plus c'est d'avoir déjà des
+leads existants globalement étant donné
+que c'est un canal qui se plug avec le
+reste de votre activité ça peut être
+très intéressant en email marketing de
+pouvoir bah pour remplir votre liste de
+leads qualifiés avoir d'autres canaux du
+SEO du content marketing n'importe quoi
+qui peut vous permettre de rassembler
+les gens dans une liste d'email le gros
+avantage de ce Canel c'est que c'est
+hautement mesurable tu vas pouvoir
+mesurer notamment les taux d'ouverture
+de tes emails les taux de clic dans tes
+emails les taux de réponse tu vas
+pouvoir aussi observer avec Google
+Analytics en utilisant le module
+fonctionnement d'un canal d'acquisition
+comment faire pour mesurer les ventes
+qui ont été réalisé à la suite de tes
+emails envoyés bref c'est vraiment très
+très précis et on va pouvoir commencer
+tout de suite avec la première étape
+alors la première étape pour faire une
+campagne d'email marketing qui
+fonctionne c'est évidemment d'avoir une
+liste de gens à qui l'envoyer cette
+liste là il y a une première option
+c'est de pouvoir acheter des listes
+existantes c'est un truc que je
+conseille vraiment pas grosso modo il y
+a beaucoup beaucoup de gens qui ont fait
+ça en marketing depuis quelques années
+et c'est une pratique qui a un peu
+diminué et aujourd'hui c'est vraiment
+difficile de la mettre en place le
+premier problème il est légal parce que
+il y a la rgpd depuis quelques années
+qui t'interdit d'avoir des fichiers et
+de contacter ces fichiers de personnes
+euh si elles sont des particulier les
+gens ont un droit de regard sur les
+données qui sont collectées tu as pas le
+droit de les faire transiter d'une boîte
+à l'autre encore moins de vendre les
+données comme ça c'est pas la fait c'est
+pas le marché du coup il y a vraiment
+une notion légale qui est complexe à
+part éventuellement en B2B parce que le
+col emailing est autorisé en B2B donc il
+y a quand même beaucoup moins de chance
+que tu te fasses tomber dessus par
+rapport à la notion de rgpd ça reste pas
+une très bonne pratique il y a des
+Marketplace sur lesquels tu peux acheter
+des fichiers comme cella on parle de
+fichiers où tu vas avoir 5 50000 emails
+qui sont soi-disant qualifié où tu vas
+avoir la liste de toutes les PME du coin
+et elles sont qualifiées et les emails
+sont à jour et cetera et cetera c'est
+très difficile d'avoir des bases comme
+celle-là qui sont vraiment à jour pour
+le coup et d'avoir des bases qui sont
+surtout chaude et intéressée par ce que
+tu proposes la plupart du temps si tu
+achètes une base de 50000 email comme
+celle-là tu vas te retrouver avec
+finalement 20000 email qui sont legit
+dans le sens où tous les autres les gens
+onont changé d'adresse email ou t'uront
+fait passer en spam ou je sais pas quoi
+et au final tu vas te retrouver avec ces
+20000 emails que tu vas pouvoir essayer
+de contacter petit à petit mais c'est
+très touchy c'est très compliqué c'est
+des gens qui ont rien demandé et j'avoue
+que moi personnellement je suis quand
+même un partisan de euh genre il y a un
+truc que je répète très régulièrement
+chez coup d'État à l'équipe qui est
+venez on fait pas d'ASS design l'ASS
+design c'est vraiment ce concept de on
+va essayer de de de de hacker la
+psychologie des gens et leur imposer des
+trucs qu'ils ont pas demandé pour faire
+en sorte de vendre nos produits et de
+faire du cash c'est un truc qui
+m'intéresse pas outre mesure j'aime
+beaucoup le fait d'avoir un pied dans la
+porte et d'être insistant d'être d'être
+énergique et de mettre beaucoup
+d'intensité dans ce qu'on fait j'aime
+beaucoup moins quand on prend les gens
+un peu au dépourvu et que on on détourne
+un peu les choses qui relèvent de du
+consentement finalement dans le sens où
+la rgpd c'est tout le point général de
+ce système- làà de liste et de revente
+de données c'est que les gens n'ont pas
+donné leur consentement et je pense que
+sur Internet on est on a été
+suffisamment sollicité pendant longtemps
+pour pas avoir à se taper tous les gens
+qui veulent faire du marketing en ayant
+acheté des bases à droite à gauche donc
+c'est pas nécessairement une bonne
+pratique évidemment c'est possible
+d'acheter des bases email sur ces
+plateformes là d'en faire bon usage et
+de faire en sorte que ça fonctionne donc
+vous pouvez utiliser ces plateformes si
+vous êtes dans un cadre légal et que ça
+vous paraît vraiment pertinent et que
+vous êtes prêt à prendre le risque d'une
+certaine manière mais je vous y
+encourage pas du tout une troisième
+manière c'est de repérer des
+opportunités de récupérer listes dans
+votre réseau personnel typiquement moi
+je sais que j'ai quelques personnes qui
+m'ont déjà proposé de récupérer leur
+base email qui est hautement qualifié et
+hautement engager avec eux donc au final
+on tombe un peu dans un truc d'influence
+marketing donc je vous renvoie au module
+sur l'influence marketing mais euh ù
+c'est des gens qui possèdent des
+newsletter et donc les lecteurs de cette
+newsletter sont intéressés par les
+messages qu'il va faire passer ça c'est
+une liste email qui est quand même
+beaucoup plus intéressante dans le sens
+où tu vas la récupérer et tu vas
+peut-être poster un message au nom de la
+personne qui a animé cette newsletter
+parce que les gens ont quand même donné
+leur consentement et il peut y avoir
+quelque chose qui est bien fait qui est
+dans une vraie continuité qui explique
+aux gens dans quoi ils s'engage et qu'
+reçoivent pas juste un email comme ça
+par l'opération du Saint-Esprit que
+quelqu'un leur parce que parce que
+quelqu'un a acheté une base email une
+autre manière de composer cette base
+c'est de scrapper des emails dans des
+listes déjà existantes c'est un truc
+qu'on va entendre très régulièrement
+surtout dans le milieu des start-ups on
+en parle beaucoup beaucoup beaucoup
+c'est la base du growth hacking qui a
+commencé il y a quelques années et qui
+est devenu un mouvement gigantesque le
+scrapping c'est c'est une technique qui
+te permet d'aller sur des listes sur
+internet de gens que tu peux récupérer
+en général ça va être LinkedIn et tu vas
+pouvoir récupérer toutes les adresses
+email en hackant un minimum la base de
+données en face sur le site web pour
+récupérer un fichier très propre avec
+toutes les adresses email des gens que
+tu veux avoir ça existe pour tout un tas
+de services ça existe pour LinkedIn ça
+existe pour les groupes Facebook il y a
+même des extensions chrome aujourd'hui
+qui existent et qui te permettent de
+scraper les différents groupes facebook
+qui qui existent pour récupérer toutes
+les adresses email des gens qui sont
+dedans il va y avoir des trucs pour des
+sites plus poussés tu peux coder tes
+propres scripts il y a des outils comme
+Phantom Buster qui te permettent de
+faire ça qui te permettent d'aller
+scrapper des outils comme Vimeo par
+exemple pour récupérer toutes les
+adresses email des créateurs de contenu
+qui font de la vidéo incroyable sur des
+sujets spécifiques bref il y a
+énormément de techniques qui te
+permettent de scrapper aujourd'hui c'est
+pas nécessairement ce sur quoi je veux
+m'attarder ni dans cette vidéo ni dans
+ce module en particulier parce que je
+veux parler email marketing scrapper
+c'est vraiment une notion de growth
+hacking c'est un truc où c'est un peu
+borderline aussi je pense que ça fera
+partie éventuellement d'une autre
+formation qu'on fera un jour ou d'autres
+vidéos qu'on fera mais si vous si ça
+vous intéresse le sujet et que vous
+voulez vraiment vous poser cette
+question là bah on pourra en discuter
+avec grand plaisir donc ça c'est pour le
+growthcking et il y a aussi une notion
+de partenariat dans le module sur les
+partenariats j'explique que tu peux
+trouver plein d'opportunités avec des
+boîtes qui ont des intérêts alignés avec
+les tiens TI pour mettre en place des
+partenariats ça c'est un truc qui peut
+marcher en email marketing aussi tu peux
+trouver une autre boîte qui a une base
+email assez conséquente et qui va
+pouvoir parler de toi je sais que chez
+coup d'État nous on a quand même un
+écosystème de plein de boîtes qui
+gravitent autour de de famili et cetera
+et j'adore quand les gens m'écrivent
+régulièrement et qu' me disent est-ce
+que tu pourrais me mettre dans la
+newsletter si nous on se rend compte
+chez coupetat que dans notre newsletter
+qui est lu par à peu près 20000
+personnes par semaine ça peut intéresser
+les gens et ça peut avoir de la valeur
+pour eux je le fais avec grand plaisir
+si c'est c'est pas le cas je dis non
+mais en tout cas c'est des partenariats
+qui sont mis en place qui peuvent être
+monétaires ou pas du tout mais tu peux
+trouver des opportunités toi non pas
+pour bâtir ta propre base email à toi
+mais pour envoyer des mails à des gens
+qui sont dans une base de quelqu'un qui
+va être un de tes partenaires ça c'est
+plein de techniques pour arriver à
+commencer à toucher des gens et avoir
+une base suffisamment solide pour
+pouvoir commencer à faire ton email
+marketing la dernière technique et c'est
+celle sur laquelle je vais m'attarder un
+petit peu plus c'est d'arriver à
+construire ta base d'email marketing
+toi-même c'est probablement la meilleure
+solution la bonne façon de faire ça
+c'est de tout donner pour faire en sorte
+que ça fonctionne je sais que
+euh il y a pas de méthode universelle
+pour le faire mais la plupart du temps
+quand vous allez vous inscrire sur un
+site web par exemple vous allez avoir
+une case à cocher qui dit je veux
+recevoir des news par email de cette
+boîte on sait que chez coup d'État il y
+a à peu près 30 % des gens qui
+s'inscrivent sur coup d'État qui cochent
+cette case et C 30 % bah ils reçoivent
+la newsletter une fois par semaine ou
+presque parce que bah on écrit
+newsletter que qu quand on a vraiment
+quelque chose d'intéressant à dire mais
+en tout cas c'est un gros vecteur
+d'acquisition pour notre campagne
+d'email marketing cette base de données
+tu peux la créer à partir de ton site
+mais tu peux la créer directement à
+partir d'autres canaux d'acquisition
+évidemment tu peux la créer directement
+sur Instagram en mettant un lien vers
+abonne-toi à notre newsletter tu peux la
+créer sur Youtube en mettant des call to
+action dans la description tu peux la
+créer sur ton blog en mettant des encars
+pour juste rentrer une adresse email et
+s'incrire à la newsletter bref tous les
+prétextes sont bons pour arriver à faire
+en sorte de faire grossir cette base
+email cette base email c'est vraiment le
+fondement de ta stratégie d'email
+marketing et en plus de ça c'est un
+asset très très très pertinent pour ta
+boîte dans le sens où même si cette base
+existe et que tu n'envoies pas d'email
+et ben en fait c'est déjà un asset qui a
+de la valeur pour ta boîte avoir une
+base email de 10000 personnes au sein de
+ta boîte qui appartient à ta boîte c'est
+quelque chose qui a fondamentalement
+beaucoup de valeur typiquement tout à
+l'heure je parlais des plateformes qui
+revendent des bases email et ben si
+elles sont en mesure de revendre ces
+base email à des gens comme vous qui s
+qui essayent de toucher des prospects et
+ben vous votre base email que vous
+construisez vous-même elle a une valeur
+financière et elle a une valeur
+financière que vous pouvez exploiter au
+mieux donc créer cette base email
+vous-même c'est créer de la valeur pour
+votre boîte et c'est un vrai challenge
+là il y a beaucoup beaucoup de business
+que je côtoie régulièrement qui sont
+vraiment construits uniquement sur le
+fait de créer des bases email à la base
+ils sont là en mode ok la première chose
+qu'on doit faire c'est créer une base de
+50000 email et puis ensuite une fois
+qu'on aura fait ça ce sera beaucoup plus
+simple de commencer à closer les gens et
+de commencer à faire du business bref
+c'est un asset hyper important tous les
+moyens sont bons pour le faire grossir
+et c'est très très très pertinent
+d'utiliser d'autres canaux d'acquisition
+pour faire grossir celui-là parce que
+c'est celui sur lequel vous allez
+pouvoir avoir un impact émotionnel
+extrêmement fort sur les clients que
+vous voulez toucher derrière alors une
+fois que vous avez une base d'email
+qualifié qui a pas besoin d'être hyper
+grosse hein vous avez besoin pour
+commencer euh de quelques dizaines de
+personnes ça peut suffire une fois que
+vous avez créé cette base là vous allez
+devoir vous poser la question de comment
+vous voulez interagir avec alors il y a
+deux grandes méthodes pour interagir
+avec une base de données email la
+première c'est la newsletter qui est
+d'envoyer un email régulièrement qui est
+le même pour tout le monde à l'ensemble
+de la base de données et espérer que ces
+gens-là lisent vos emails régulièrement
+il y a même des business qui sont créés
+complètement là-dessus hein je pense à
+time to sign off à Planet il y a plein
+plein plein de grosses newsletters qui
+sont uniquement des newsletters et qui
+ont tout leur business accè sur ça et
+puis la deuxième solution c'est de
+mettre en place des séquences d'email et
+d'envoyer non pas une newsletter
+universelle à tout le monde de manière
+régulière mais envoyer bah une chaîne de
+différents emails à différents timing de
+manière personnalisée et automatique
+alors si vous choisissez la première
+option et que vous choisissez de faire
+une newsletter et bah il faut vraiment
+porter cette newsletter comme un contenu
+je vais vous renvoyer du coup au module
+sur la stratégie de contenu dans le sens
+où c'est un job qui est profondément
+créatif et il faut se demander comment
+apporter de la valeur de manière
+gratuite le plus efficacement possible
+on fera dans ce module des études de cas
+de newsletter que je kiffe he moi c'est
+un sujet que j'ai beaucoup beaucoup
+bossé et chez coup d'État bah moi
+j'écris quasiment toutes les newsletter
+depuis le début Anaï a pris le relais à
+un moment on se passe la balle des fois
+c'est Anaï qui va vous envoyer la
+newsletter et puis en fait c'est moi qui
+l'ai rédigé ou des fois ça va être
+l'inverse bref peu importe mais ce qui
+est intéressant c'est qu'on a une ligne
+éditoriale qui est t toujours uni et
+elle a chez nous deux objectifs c'est de
+faire en sorte de vous apporter le
+maximum de valeur et de vous raconter
+notre histoire aujourd'hui on a une
+newsletter qui nous est ouverte par à
+peu près 25 % des gens ce qui est quand
+même un assez gros chiffre dont on est
+assez fier et c'est un asset qui est
+très puissant chez coup d'État et chaque
+newsletter c'est à peu près 2 heures de
+travail genre moi j'y passe vraiment du
+temps à créer les différents assets les
+différentes images à mettre les bons
+liens à faire en sorte qu'il y ait une
+bonne exper expence derrière à faire en
+sorte de rédiger un texte qui est
+attractif qui donne envie aux gens de
+lire la suite d'expliquer au début quel
+va être le contenu du mail pour que les
+gens soient un peu teasés et que vous
+ayez envie de lire jusqu'à la fin bref
+il y a énormément de choses qui sont
+mises en place dans une newsletter j'ai
+pas envie de vous donner des tips sur
+comment faire les meilleurs newsletter
+possibles même si je vais en donner un
+petit peu dans les vidéos pratiques de
+ce module parce que l'objectif c'est que
+vous vous créez quelque chose qui a
+vraiment de la valeur à vos yeux et qui
+va avoir de la la valeur aux yeux des
+gens pour qui vous écrivez c'est un job
+qui est profondément créatif bien écrire
+c'est difficile bien écrire ça prend du
+temps moi ça fait 10 ans que je m'entraî
+à écrire et j'estime que j'ai une plume
+qui est plutôt correcte mais qui est pas
+encore incroyable par rapport à d'autres
+gens que je peux voir je pense à des
+Nicolas Colin qui écrivent hyper bien en
+français en anglais écrire ça demande
+d'écrire très régulièrement mais c'est
+la qualité principale qu'il faut en
+imail marketing que ce soit une
+newsletter ou une séquence d'email toute
+cette création de ta newsletter il faut
+que tu choisis un rythme et que tu sois
+transparent dessus je pense que c'est
+vraiment essentiel en tant que
+newsletter d'expliquer aux gens quand
+est-ce qu'ils vont la recevoir sur
+certains business il y a des gens qui
+envoient une newsletter par jour sur
+d'autres business comme le nôtre par
+exemple nous on envoie une newsletter
+par semaine il y a des gens qui envoie
+une newsletter par mois bref ce qui est
+intéressant c'est le rythme parce que le
+rythme crée un rendez-vous et les gens
+savent aussi pourquoi ils s'abonnent
+nous chez coueta c'est un des trucs que
+d'ailleurs je en le disant je me rends
+compte qu'il faut qu'on l'implémente euh
+il faut qu'on explique aux gens qui vont
+recevoir une fois par semaine des news
+de coup d'État dans leur boîte mail
+alors ils le savent quand ils reçoivent
+l'email en général parce que c'est écrit
+à la semaine prochaine et cetera mais
+avoir plus de transparence je pense que
+c'est toujours une meilleure idée à
+moins que vous ayez comme élément de
+votre culture de faire de l'opacité he
+ce qui est possible aussi mais en tout
+cas cette honnêteté là surtout en email
+marketing qui est un canal où les gens
+sont souvent noyés sous une masse de
+messages qui leur est envoyé et qui se
+retrouve au milieu de beaucoup de
+promotions et cetera vous avez un vrai
+intérêt à être clair à être direct et
+franc avec votre audience donc ça c'est
+pour les newsletters les newsletter donc
+c'est un contenu pertinent qui apporte
+de la valeur aux gens avec un rythme
+c'est très différent si tu commences à
+vouloir faire de la marketing
+automation le truc très puissant dans
+l'email marketing et ce canal là c'est
+ce qu'on appelle la marketing automation
+qui est un concept qui est d'envoyer des
+mails donc on va appeler ça des drip
+campaigns on va appeler ça des séquences
+d'email on va appeler ça de plein de
+manières différentes plus ou moins ça
+vente de gens qui ont théorisé très
+longtemps sur ce sujet euh ce qu'il faut
+bien comprendre c'est que c'est juste un
+moyen d'envoyer des emails de manière
+automatique en suivant un timing
+spécifique à une séquence spécifique
+d'une audience si ta base est assez
+grosse et que tu as pas encore commencé
+à tester ça vaut le coup de commencer à
+tester sur des petits segments de
+vraiment découper ton audience en plus
+petits segments donc dans MailChimp on
+verra dans la vidéo pratique comment les
+regrouper avec les tags ça c'est un
+exemple d'un truc que tu peux faire pour
+commencer à vraiment te dire je vais par
+exemple si tu as une base de 10000
+emails te dire je vais pas cramer mes
+10000 emails d'un coup avec une seule
+séquence je vais tester sur un groupe de
+100 personnes et voir ce que ça donne
+c'est très très pertinent de découper ça
+parce que ça va te permettre de pouvoir
+itérer sur différentes expériences que
+tu proposes comme dans beaucoup des
+modules de cette formation j'ai envie de
+vous dire ici que l'email marketing et
+surtout la marketing automation ça n'est
+qu'une histoire d'expérience c'est à
+travers quoi vous faites passer les gens
+et comment les gens vivent l'expérience
+de lire vos emails il faut vraiment
+prendre ce recul et se demander ok si je
+me mets à la place de la personne qui va
+recevoir mes emails est-ce que je serais
+content d'avoir reçu cet email là qui
+dit question d'expérience 10 questions
+de confiance et votre objectif c'est de
+bâtir de la confiance au fur et à mesure
+sur le premier email les gens vont avoir
+tendance à être plutôt méfiant ils vont
+se dire ah je reçois encore un email
+encore une pub encore machin même s'ils
+ont sign up par eux-mêm genre ce qu'il
+faut c'est que les gens au fur et à
+mesure du temps ils sachent que quand
+ils reçoivent un email de votre part ils
+se disent ah ouais ça c'est quelque
+chose qui va avoir de la valeur pour moi
+et qu'il aient vraiment envie de cliquer
+dessus ça c'est un truc qui est
+profondément émotionnel que vous pouvez
+pas
+nécessairement prévoir à l'avance par
+contre vous pouvez le mesurer à
+postériori en observant vos chiffres et
+en regardant si vos incrémentations
+progressives font en sorte d'améliorer
+ces chiffres apportez-leur de la valeur
+écrivez des mails qui sont écrits comme
+si vous les envoyez à la main je vois
+encore trop d'erreurs qui sont faites en
+marketing automation de gens qui
+envoient des emails comme si c'était un
+Rob ou comme si c'était un exercice de
+math qu'il fallait rendre il fallait que
+l'email soit parfait les gens aiment
+recevoir des emails qui ont l'air
+d'avoir été écrits par des humains même
+nous quand on envoie des emails
+automatiques sur coup d'État la plupart
+du temps on explique que c'est un email
+automatique parce que bah il y a cette
+notion de transparence qui est très
+forte chez nous et même si on l'explique
+pas les gens le savent on a des on a
+quand même une communauté qui est très
+très acculturé à tous ces systèmes de
+tech donc nous on l'explique après libre
+à vous de faire faire ce que vous voulez
+mais commencez pas à écrire des chaînes
+de marketing automation qui ont rien à
+voir avec ce que vous écririez à la main
+genre il faut quand même qu'il y a une
+certaine authenticité dans ce que vous
+faites et cette authenticité elle passe
+à la fois par les textes et elle passe à
+la fois par le timing le timing est clé
+il faut pas tomber dans le harcèlement
+des gens et leur envoyer 5 emails par
+jour mais il faut pas non plus être
+complètement absent et se dire que c'est
+trop il y a un juste milieu à trouver en
+général le juste milieu il est trouvé
+quand vous envoyez des emails euh assez
+régulièrement ça peut être un par jour
+ça peut être un tous les deux jours ça
+commence à être un rythme qui est quand
+même assez élevé euh je sais qu'il y a
+des gens qui s'en foutent et qui en
+voient beaucoup beaucoup plus hein il y
+a pas vraiment de règles mais moi je je
+vous dis empiriquement ce que j'ai
+retenu envoyer entre un email tous les
+de jours et un email par jour ça
+commence à être beaucoup si les gens
+commencent à se plaindre et ben vous
+réduisez la cadence il vaut mieux tester
+quelque chose d'un petit peu pushy d'un
+petit peu pied dans la porte avec
+intensité comme je disais tout à l'heure
+et devoir corriger derrière parce que ça
+plaît pas aux gens et que c'est trop
+plutôt que d'y aller molçon j'y vais en
+demi-mesure et puis en fait derrière
+vous êtes pas sûr que ça aurait pas
+performé beaucoup plus si vous envoyez
+deux fois plus d'email donc faut pas
+nécessairement avoir peur et il faut
+prendre conscience que le timing est clé
+que c'est très important que ces emails
+là même s'ils sont envoyés de manière
+automatique et ben ils doivent donner
+l'impression qu'ils ont été créer pour
+une expérience humaine parce que tout ça
+c'est ce qui fera qu'au fur et à mesure
+de vos séquences vous allez avoir des
+taux d'engagement qui augmentent et des
+taux de confiance qui augmentent aussi
+le truc qui est cool dans la marketing
+automation c'est que c'est pas
+simplement envoyer des emails à la main
+dans tous les sens à plein plein plein
+de leads différents c'est un outil qui
+est très performant on va parler de mail
+Chimp encore une fois dans la vidéo
+pratique qui introduit à à cet outil et
+vous allez voir que bah chaque email de
+votre marketing automation va être
+pouvoir mesurer individuellement vous
+allez pouvoir voir le taux d'Open le
+taux de reply le taux de clic vous allez
+pouvoir voir le nombre de gens qui se
+des abonnes de vos emails bref vous
+allez pouvoir voir plein de choses très
+intéressantes qui vont vous permettre de
+vraiment avoir un retour objectif à
+partir duquel vous allez pouvoir créer
+des choses émotionnelles et c'est
+important de le voir comme ça on n'est
+pas des robots le but en tant
+qu'entrepreneur c'est pas de trouver le
+parfait wording qui fait en sorte que ça
+marche dans le sens où sinon on va tous
+finir avec des business où on insiste
+sur les peurs des gens et où on leur dit
+ouais regarde si tu n'appliques pas
+cette technique ça ne fonctionnera
+jamais pour toi ça M e pas je vise
+personne du doigt et grand bien face à
+tous ces gens qui utilisent ces
+techniques d'email marketing moi ça
+m'intéresse pas ce qui m'intéresse c'est
+la créativité qu' a derrière et je pense
+que même dans une séquence d'email
+marketing en marketing automation il y a
+moyen de faire preuve de créativité et
+de créer une expérience qui est agréable
+pour les gens et qui les amène à devenir
+une meilleure version d'eux-même je vais
+conclure sur cette histoire de marketing
+automation en vous donnant deux règles
+de base la première c'est d'avoir
+conscience de la longueur de vos emails
+je je je sais pas exactement pour
+pourquoi mais il y a beaucoup beaucoup
+de gens qui pensent que écrire un email
+c'est vraiment écrire une lettre
+formelle à quelqu'un écrire un email
+c'est rajouter un élément de Tod list à
+la personne en face donc facilitez-lui
+le travail et faites en sorte qu'elle
+puisse lire votre email assez rapidement
+et si votre email est long faites en
+sorte qu'elle puisse scanner votre email
+assez rapidement avec des gros titres
+avec des grosses images et qu'elle
+puissent vraiment se poser la question
+de est-ce que j'ai envie de lire ces
+contenus j'ai vu tellement de mails qui
+sont des pavés gigantesques je reçois
+tellement de mails de gens individuels
+sans même parler de marketing automation
+ou d'email marketing de gens qui
+postulent chez coups d'État et qui
+m'envoi des pavés comme ça mais vous
+vous rendez pas compte en fait d'à quel
+point genre ça me fait perdre mon temps
+genre vous vous rendez pas compte alors
+moi je vais être bienveillant et je vais
+répondre et puis au pire je vais pas
+répondre et c'est pas grave je me
+formalise pas mais le problème c'est que
+vous de l'autre côté vous allez vous
+retrouver avec des situations où vous
+dites ah ben ouais mais en fait la
+personne elle répond pas mes ares transf
+ils sont pourris donc commencez petit
+quoi commencez petit partez du principe
+qu'il faut respecter le temps des gens
+d'en face surtout si vous êtes en B2B
+les gens ils ont autre chose à faire que
+de lire votre pavé de 500 pages si vous
+êtes en B2C n'en parlons pas les gens
+ils reçoivent des emails de leur famille
+des photos de leurs chien et au milieu
+ils ont un pitch comme ça gigantesque
+d'une boîte qui veut leur vendre un truc
+vraiment genre ayez conscience de la
+longueur de vos emails et mettez-vous à
+la place des gens qui vont les recevoir
+il y a pas de bonne manière d'écrire un
+email il y a pas parce que je pense
+vraiment que c'est ce truccl là d'écrire
+des emails gigantesques qui sont verbeux
+qui sont bien écrits machin c'est un
+truc qui vient de l'école quoi il y a un
+truc vraiment de il faut faire bien si
+mon mail il est trop court il y aura pas
+assez de valeur tout ça c'est des
+conneries tout ça il faut vraiment juste
+vous poser la question de qu'est-ce que
+vous aimeriez recevoir comme email en
+face c'est une question d'empathie
+profonde moi je suis arrivé ici chez de
+Family il y a 6 ans j'avais envoyé un
+mail à ama un call d'email à ousama en
+lui disant que je voulais bosser chez
+eux ça faisait une ligne et et ce tru-
+genre c'est une histoire que je raconte
+régulièrement parce que bah j'avais bien
+conscience que ousama il avait autre
+chose à faire que de lire mon pavé
+gigantesque quoi donc vraiment prenez
+conscience de la longueur de vos emails
+c'est très très important et la deuxième
+chose c'est qu'un email ça doit contenir
+au moins un call to action dans l'idéal
+c'est bien d'en avoir un seul parce que
+ça permet à la personne de scanner ton
+email très rapidement et de se dire ok
+il y a un texte il y a un titre il y a
+un call to action je sais où ça m'amène
+si c'est une newsletter ça va être plus
+long il va y avoir plusieurs call to et
+cetera peu importe ce qui est important
+c'est d'en avoir un j'ai vu j'ai vu
+encore trop de mails récemment de gens
+qui qui envoient des campagnes et où les
+gens peuvent pas cliquer je l'ai dit ce
+canal il est hyper performant parce
+qu'on peut mesurer très précisément
+l'impact de chacun des emails dans un
+marketing automation et l'impact de
+chacune des newsletters dans le cas
+d'une newsletter si vous mettez pas de
+call to action et que les gens peuvent
+pas cliquer dans votre email vous pouvez
+pas mesurer le taux de clic donc il faut
+absolument un call to action vraiment
+posez-vous cette question quand vous
+écrivez un email de quelle est la valeur
+que j'apporte quel est mon call to
+action il faut qu'il y ait ça dans un
+email parce que s'il y a pas ça vous
+avez pas un email qui fait du marketing
+vous avez un email qui envoie juste un
+message sympathique ce qui est une
+possibilité évidemment hein je je je
+ferme aucune porte par rapport à la
+marketing automation ça peut être très
+intéressant d'envoyer un email sans
+attendre rien en retour mais je pense
+pas que ce soit la meilleure idée pour
+pouvoir mesurer vos performances et
+améliorer quelque chose peut-être que je
+me trompe voilà donc tout ça c'est
+beaucoup beaucoup d'information il y a
+énormément de choses qu'on peut faire en
+email marketing entre la création de la
+base de données la communication avec
+les gens à travers une newletter ou de
+la marketing automation et toutes les
+grosses règles un peu hein c'est pas
+j'aime pas trop ce motl mais bon voilà
+pour bien écrire un
+email tout ça il faut bien prendre
+conscience que c'est quelque chose qui
+se fait avec beaucoup d'itération il y a
+des modules dans cette formation où
+j'explique que c'est un canal qui prend
+vraiment du temps à mettre en place et
+que les premiers résultats arrivent
+assez lentement c'est pas trop le cas
+pour celui-là si vous arrivez à avoir
+une base qui est un petit peu fournie
+dès le départ vous allez très très vite
+pouvoir avoir des résultats sur les
+performances de vos emails cette
+vélocité là que vous pouvez avoir à
+travers l'email marketing il faut en
+profiter et itérer le plus régulièrement
+possible nous chez codeta on écrit une
+newsletter par semaine dans la mesure du
+possible des infos qui sont dispo et on
+a tout un système de marketing
+automation qui est géré dans intercom
+dont on fait une review chaque semaine
+pour se poser la question de ok est-ce
+que les email qu'on envoie sont toujours
+pertinents est-ce que on parle pas d'une
+actu qui existe plus est-ce que on a
+changé tel ou tel truc parce que
+l'expérience est hyper importante et
+donc on itère chaque semaine on observe
+les chiffres et vous allez voir prenez
+cette discipline quand vous vous mettez
+à faire de l'email marketing de le faire
+régulièrement je pense qu'à la semaine
+c'est assez pertinent et de parce qu'en
+fait prendre ce recul là et regarder les
+chiffres avec objectivité et ben ça te
+permet de te dire ok voilà où on en est
+et ça va te faire élaborer des pistes de
+comment écrire mieux tes emails de
+comment faire une expérience qui est
+encore meilleure c'est un aspect qui est
+presque produit où vous avez besoin de
+faire preuve d'empathie par rapport aux
+gens avec qui vous communiquez à travers
+ce canal si vous voyez que ça commence à
+marcher et que l'email marketing devient
+un asset très pertinent au sein de votre
+boîte ce qui n'est pas nécessairement le
+cas évidemment mais vous allez vite vous
+en rendre compte si vous avez des leads
+qui viennent à travers ces différents
+emails et cetera et ben vous allez
+pouvoir commencer à péreniser tout ça
+pour péreniser tout ça vous allez
+pouvoir évidemment trouver des manières
+de faire Gross votre base de données de
+plus en plus vous allez pouvoir
+commencer à segmenter votre audience de
+mieux en mieux notamment avec les tags
+sur MailChimp ou d'autres outils peu
+importe vous allez pouvoir évidemment
+écrire de mieux en mieux hein parce que
+je pense que c'est ça fait partie
+vraiment bah de cette notion d'email
+marketing c'est qu'il faut des
+copywritter qui sont vraiment vraiment
+efficaces alors vous pouvez le déléguer
+bien évidemment mais je pense que comme
+d'habitude ça vaut le coup de l'avoir
+fait soi-même avant de déléguer et la
+dernière chose que vous pouvez mettre en
+place c'est un mapping des différents
+email envoyés nous chez coupetat on a ça
+on a vraiment une map avec à partir du
+jour 1 et en fonction des différents
+parcours dans le site quels emails sont
+envoyés automatiquement et cetera et on
+met à jour ce truc-l parce qu'on
+commence à avoir tellement d'emails
+automatiques sur des petits segment de
+l'audience qui sont envoyé que c'est
+difficile de tous les suivre et tous
+s'en rappeler donc vraiment on a dessiné
+ce tru-l et on vous mettra un des
+mappings qu'on a fait aussi en annexe
+dans ce module tout ça pour dire que
+l'email marketing c'est un canal hyper
+puissant qui peut avoir un impact très
+très fort sur ta conversion sur tes
+pipes de leads et qui te permet surtout
+d'avoir des process de création de
+relations qui sont pas forcément humains
+mais qui sont très automatisés que ce
+soit en terme de newsletter avec de la
+création de contenu ou en terme de
+marketing automation avec bah de
+l'automatisation et en fait tout ça te
+permet de créer des relations assez
+naturellement avec ta marque pour tes
+clients et tout ça bah on sait très bien
+que ça contribue énormément à faire en
+sorte que les gens et envie d'acheter
+donc à trouver des clients je pense
+vraiment que c'est un canal qui vaut la
+peine d'être découvert évidemment en
+fonction de ton marché ça va être plus
+ou moins pertinent il y a des gens qui
+lisent pas du tout leur mail dans le
+monde et puis il y a des gens qui
+passent leur temps à lire leur mail et
+qui sont obsédés par avoir un inbox zéro
+et peut-être que il y a des gens entre
+les deux évidemment sur le spectre et
+que toi tu vas pouvoir trouver bah
+comment parler à ton audience pour faire
+en sorte qu'à travers ses emails elles
+comprennent qu'acheter chez toi ou en
+tout cas choper de la valeur chez toi
+c'est pertinent parce que c'est tout le
+but de créer une boîte qui fonctionne

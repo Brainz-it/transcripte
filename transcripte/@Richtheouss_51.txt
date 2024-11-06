@@ -1,0 +1,574 @@
+bienvenue dans cette vidéo sur comment
+créer une newsletter alors la newsletter
+je l'ai dit dans la vidéo principale de
+ce module c'est une des manières de
+communiquer avec sa communauté avec sa
+liste de contacts qu'on a créé
+préalablement donc on va voir comment
+faire ça rapidement aujourd'hui avec un
+outil qui est l'outil que j'utilise chez
+coup d'Éat et qui est utilisé par la
+majorité des marketeurs dans le monde
+qui s'appelle MailChimp MailChimp c'est
+un outil qui est vraiment très très
+puissant donc je vais me connecter
+machim c'est un des outils les plus
+performants du marché ils ont énormément
+de propositions à la base c'est un outil
+d'emailing il y a l'autre vidéo pratique
+dans ce module où je parle de comment
+créer une séquence d'email aussi donc on
+va on verra ça une autre fois mais là
+maintenant on va parler de comment créer
+une newsletter donc on va voir comment
+fonctionne MailChimp de manière générale
+donc MailChimp là vous le voyez je suis
+dans mon audience principale donc coup
+d'État on a notre liste de contacts et
+donc il y a tout ce menu principal donc
+ici vous avez le menu créé vous allez
+pouvoir créer plein de choses des emails
+des ADS des sites web des landing Pag
+des surves des social posts des signup
+form des postcard enfin bref il y a
+énormément de fonctionnalités dans
+MailChimp de manière générale
+aujourd'hui on va s'intéresser à que
+quelques-unes d'entre elles mais d'abord
+je veux que vous compreniez le
+fonctionnement général de MailChimp le
+fonctionnement de MailChimp c'est que
+vous créez des audiences donc créer une
+liste de contacts pour votre newsletter
+ça va s'appeler une audience dans
+mailchip donc cette audience vous pouvez
+venir et en créer des nouvelles dans ce
+truc de view
+audiences ici dans create audience hop
+vous pouvez créer une nouvelle audience
+vous pouvez lui donner un nom une
+adresse email par défaut qui va envoyer
+les mail de la newsletter un nom aussi
+qui va être envoyé par défaut dans la
+newsletter et cetera et cetera et a pas
+mal d'infos vous allez voir c'est assez
+simple une fois que vous avez créé cette
+audience ce que vous allez pouvoir faire
+c'est ajouter des gens dans l'audience
+donc si on prend ici par exemple notre
+audience coup d'État plateforme donc
+c'est tous les gens qui sont dans la
+newsletter de coup ici vous avez des
+solutions pour ajouter des contacts par
+exemple vous pouvez importer des
+contacts directement depuis une liste
+existante depuis une liste CSV ou une
+List XML mais vous pouvez aussi ajouter
+manuellement un
+subscriber avec son email avec son
+adresse email son prénom et son nom si
+besoin et vous pouvez lui ajouter un tag
+et cetera et ensuite vous avez des
+signup forms donc c'est tous les
+formulaires par lesquels les gens
+peuvent s'inscrire à votre newsletter
+vous pouvez vous avez un Builder vous
+avez des des formulaires qui se qui
+s'intègrent directement à votre site
+vous pouvez avoir une pop-up pour que
+les gens s'intègrent vous pouvez avoir
+une pop-up pour que les gens
+s'inscrivent à votre newsletter quand
+ils passent sur votre site bref il y a
+plein de choses que vous pouvez faire
+aujourd'hui c'est pas sur ça que je veux
+m'attarder mais c'était juste pour vous
+montrer comment ça fonctionne d'enrichir
+une audience donc une fois que vous avez
+votre audience et qu'il y a des gens
+dedans donc là nous on a à peu près
+60000 personnes dans la newsletter de
+coup d'état vous allez pouvoir créer
+votre première newsletter qu'on appelle
+une campagne chez ma donc on va aller
+dans
+campaigns et on va cliquer ICI sur
+Create
+campaign on va choisir que c'est un
+email qu'on veut on va lui donner un nom
+newsletter une et on va faire
+[Musique]
+begin donc ici vous avez l'ensemble des
+choses que vous devez setup pour avoir
+votre newsletter complète et pour être
+prêt à l'envoyer donc la première chose
+c'est à qui vous allez envoyer votre
+newsletter donc normalement vous avez
+déjà une audience et vous allez pouvoir
+la choisir donc nous on va choisir
+l'audience coup d'État plateforme et on
+va pouvoir dire qu'on veut tous les gens
+qui sont dans l'audience on peut aussi
+dans les audiences taguer les gens c'est
+la meilleure manière de créer des
+sous-audience en fait donc nous c'est ce
+qu'on a fait on a une grosse audience
+cou des ta plateforme et dedans bah on a
+les gens qui ont acheté trouvé des
+clients comme vous on a les gens qui ont
+acheté any one can scale on a les gens
+qui sont inscrits à break the game à
+l'époque enfin bref on a pas mal de tags
+différents donc ici par exemple je vais
+choisir d'envoyer aux gens qui ont
+acheté trouvver des clients donc les
+gens dont vous faites partie super et
+donc voilà ici on peut cocher la case
+personnalize de to field si on veut avec
+le first name et last name ça va
+permettre au gens de de ça va vous
+permettre de tomber moins en spam
+facilement c'est une petite astuce c'est
+pas le plus
+important ensuite vous allez pouvoir
+choisir de qui est envoyer votre news
+letteretter donc nous ici on a un nom
+qui est coup d'État mon adresse email et
+puis voilà c'est à peu près tout c'est
+un truc qui est assez important quand
+vous envoyez une newsletter parce que
+bah vous allez avoir une des notions qui
+est que vous voulez que les gens ouvrent
+votre email pour que les gens ouvrent
+votre email à force c'est c'est une
+newsletter même si SS sont inscrits bah
+il faut qu'ils aient envie d'ouvrir ça
+et donc ça va passer par plusieurs
+éléments donc on verra juste après à
+quoi ça va ressembler dans la boîte
+email avec un email test qu'on pourra
+faire tourner avec MailChimp une fois
+que vous avez choisi le nom du quel vous
+allez envoyer vous allez pouvoir choisir
+le sujet le sujet c'est évidemment très
+important il faut un truc qui fasse
+moins de 150 caractères qui est plus
+court c'est beaucoup mieux parce que bah
+ça va apparaître en assez petit
+finalement dans les boîtes mail des gens
+donc on va l'appeler ma première
+newsletter et le preview text ça va être
+la deuxième ligne ça va être le le le
+texte qui va apparaître dans la boîte
+mail quand le mail n'est pas ouvert chez
+les gens donc on va dire ma première
+newsletter ouvre ce mail s'il te plaît
+voilà bon je mets volontairement des
+trucs un peu nul parce que je voudrais
+vous montrer à quoi ça ressemble dans
+une boîte email donc on va cliquer sur
+design
+email et là on va vous demander de
+choisir un template alors vous
+choisissez un peu ce que vous voulez
+vous pouvez coder votre propre template
+si vous voulez pour les besoins de cet
+exercice je vais choisir ce template là
+que j'ai l'habitude
+d'utiliser et ensuite vous arrivez dans
+l'éditeur de votre newsletter alors
+avant avant toute chose comme je vous
+l'ai dit on jettera un œil à tous les
+éléments que vous pouvez utiliser pour
+bâtir votre newsletter ce qu'on va faire
+c'est qu'on va s'envoyer un email test
+donc là votre mail il ressemble à ça
+pour l'instant c'est-à-dire à pas
+grand-chose mais on va s'envoyer un
+email test pour voir à quoi ça ressemble
+dans une boîte email hop je m'envoie un
+mail voilà et là normalement j'ai reçu
+un email test je vais dans ma boîte
+email là on voit que donc dans les
+derniers emails que j'ai reçu j'ai un
+mail de ma part donc c'est écrit mi il y
+a pas le nom mais normalement c'est le
+nom de l'expéditeur que vous avez choisi
+juste avant qui va s'afficher ici là ici
+vous avez donc une petite image selon
+les clients email donc là le sujet vous
+le voyez il est quand même assez court
+si vous mettez un truc plus long il va
+dépasser il va y avoir des points de
+suspension et en plus bah ça dépend de
+euh bah votre votre client email genre
+c'est pas c'est pas standard donc vous
+pouvez pas choisir d'avoir un email qui
+va bien s'afficher donc faites attention
+quand vous écrivez votre sujet faites
+attention aussi quand vous écrivez euh
+votre première ligne votre preview texte
+ici hein ouvre ce mail s'il te plaît
+voyez là il est peut-être un peu court
+parce que juste après il y a le view
+this email in your browser qui va
+apparaître en fait ici qui est la
+première ligne du mail MailChimp mais
+donc voilà peut-être qu'on il y a des
+petites retouches à faire donc là hop je
+vais retourner dans MailChimp je vais
+retourner dans mon éditeur de sujet et
+de
+d'envoi ma première newsletter
+elle cartonne je vais allonger
+volontairement le texte REC s' teî te
+plaît il y a plein de bonnes choses
+dedans hop et si je retourne dans mon
+éditeur et que je me renvoie un mail
+test hop et ben on voit ici que ma
+première newsletter s cropée il y a des
+points de suspension et que là ici bah
+ça dépasse mais donc c'est les premiers
+mots de votre sujet et de votre preview
+texte qui vont compter le plus donc
+faites-y attention et tâchez d'écrire
+quelque chose qui donne envie au gens
+d'ouvrir votre mail une fois que votre
+mail est ouvert ce qu'il va falloir
+faire c'est écrire une newsletter qui va
+apporter de la valeur aux gens et avoir
+une expérience de lecture qui est bonne
+pour ça il y a énormément de bonnes
+pratiques différentes je vais vous en
+donner quelques-unes mais la clé bah
+encore une fois c'est de tester et de
+vous inspirer de ce que vous voyez
+régulièrement ailleurs de prendre du
+recul par rapport à ça et de voler ce
+que vous trouvez cool et de le faire à
+votre sauce pour votre business donc ici
+on a le logo coup d'État je vais
+l'enlever parce que ça m'intéresse pas
+forcément voir ce logo à cet endroit-là
+et je vais rajouter une image plutôt à
+la place hop je fais glisser depuis la
+colonne de droite une image je choisis
+une image que je veux bon ça tombe bien
+j'en ai déjà bah voilà comme ça on va
+refaire la newsletter que je vous avais
+envoyer pour vous tenir au courant de de
+trouver des clients ce sera parfait donc
+là il y a ma tête super euh avec le
+petit player c'est c'est une image que
+j'ai créé directement dans sketch pour
+avoir une image qui a qui a cette cette
+tête-l et ici sur l'image vous allez
+pouvoir ajouter pas mal de choses vous
+allez pouvoir remplacer l'image l'éditer
+directement avec un un éditeur de photos
+directement inclus dans
+MailChimp recadrer la photo faire ce que
+vous voulez vous allez pouvoir changer
+sa taille euh ensuite vous allez pouvoir
+rajouter un lien pour que si les gens
+cliquent sur l'image ça les renvoie vers
+quelque chose de spécifique nous on
+l'avait fait pour justement le la vidéo
+Youtube à l'époque
+euh tout ça tout ça
+vous avez votre image au-dessus vous
+pouvez rajouter un petit texte et donc
+comme vous le voyez tout fonctionne en
+drag and
+drop vous avez votre newsletter tout
+fonctionne en drag and drop je vous
+invite à tester un peu tout les éléments
+qui sont à votre disposition vous avez
+des dividers vous allez pouvoir les
+customiser par exemple ici si je veux
+que ce soit la couleur de coup d'état et
+ben hop je vais taper FFA B03 tac j'ai
+la couleur de
+A03 h j'ai la couleur de coup d'état
+puis en fait je voudrais que ça fasse 5
+pixel de large et puis en fait je
+voudrais qu'il y ait un padding top qui
+soit plus important que le padding
+bottom donc hop ça va écarter mon truc
+un petit peu plus et cetera et cetera
+c'est un outil de design très très
+puissant qui est directement dans votre
+navigateur web avec lequel vous pouvez
+jouer énormément et tester pour écrire
+une newsletter qui est vraiment bien une
+newsletter qui est vraiment bien bien il
+y a plusieurs choses à prendre en compte
+il y a évidemment ce que je vous ai dit
+juste avant sur le sujet de l'email et
+sur le preview texte sur les les
+premières phrases de votre email mais
+qui est géré directement par MailChimp
+pour que les gens aient envie d'ouvrir
+et ensuite l'important c'est d'avoir des
+images d'avoir quelque chose qui puisse
+être scanné c'est du contenu que vous
+êtes en train d'écrire donc ça marche
+comme tous les autres contenus écrit ça
+veut dire que les gens vont pas
+forcément lire votre newsletter de
+manière linéaire c'est pour ça que c'est
+important d'avoir un titre des
+paragraphes et des images pour que les
+gens puissent scanner votre email à la
+recherche de l'information qu'ils
+veulent trouver alors ils sont pas
+forcément au courant de tout ce qu'il y
+a dedans mais justement vous P vous
+devez pouvoir leur donner l'opportunité
+de tester et de et de voir si dans
+l'email rapidement ils vont trouver
+quelque chose qui les
+intéresse pour ça et bah il y a plus
+qu'à tester euh il faut se se pencher
+sur la question observer les emails des
+autres observer les newsletters que vous
+aimez bien et puis essayer de les
+reproduire avec cet outil parce que vous
+pouvez faire à peu près n'importe quoi
+ce que vous voulez je vous invite même à
+à copier la newsl coup d'État si elle
+vous plaît hésitez pas parce que je
+pense que vraiment c'est comme ça qu'on
+apprend c'est en copiant des choses et
+en mettant bout à bout plein de petites
+choses qu'on a observé chez d'autres
+gens qui ont fait des trucs qui nous
+inspirent pour pouvoir créer quelque
+chose de nouveau donc ça c'est pour
+l'éditeur une fois que vous avez terminé
+vous pouvez faire comme je fais depuis
+le début vous envoyer un email test si
+vous avez pas envie forcément de vous
+envoyer un email test vous pouvez
+rentrer en preview mode donc voir à quoi
+ça ressemble sur desktop voir à quoi
+ressemble sur mobile bref vous avez pas
+mal d'outils qui vous permett mettre de
+regarder et de checker si votre email va
+être lu correctement un peu partout
+alors dans une newsletter il y a un truc
+qui est obligatoire c'est d'avoir un
+lien pour se désinscrire alors MailChimp
+le met tout le temps par défaut mais si
+vous décidez d'enlever ce truc là vous
+allez pas pouvoir enlever le lien
+unsubscribe vous allez pouvoir enlever
+tout le reste par contre si vous voulez
+enlever la mailing adresse le copyright
+les trucs comme ça hop et que vous
+voulez laisser juste le lien unsubscribe
+et que même vous voulez le vous voulez
+changer euh le le texte de ce
+lien hop vous pouvez si jamais vous avez
+par inadvertence effacé ce texte là vous
+pouvez retaper un
+texte utiliser un lien et cette formule
+là
+unsub unsub c'est un lien vers la
+désinscription et c'est toujours la même
+chose donc c'est unsub avec euh le le
+caractère shift alt l sur Mac qui est un
+séparateur mais en général vous l'avez
+par défaut dans mashimp et vous pouvez
+taper sur Google si jamais vous le
+trouvez plus donc le lien des
+inscriptions est obligatoire tout le
+reste est complètement optionnel tout le
+reste c'est votre pure créativité le
+lien desinscriptions il est important
+parce que vous devez laisser la liberté
+aux gens de se désinscrire de votre
+newsletter je pense que c'est essentiel
+on n'est pas là pour faire pour forcer
+les gens à rester abonnés à nos emails
+c'est ni bon pour pour votre business ni
+bon pour leur vie privée ni bon pour qui
+que ce soit donc mettez toujours un lien
+des inscriptions de toute façon mailcham
+vous laissera pas envoyer l'email tant
+que votre lien desincriptions sera pas
+mis et designer votre email correctement
+une fois que ça c'est fait vous cliquez
+sur Continue en haut à droite et vous
+allez revenir à votre écran principal de
+la gestion de votre campagne
+[Musique]
+newsletter et il va vous faire un check
+donc là on voit qu'ici le destinataire
+c'est bon que l'expéditeur c'est bon que
+le sujet c'est bon par contre le contenu
+c'est pas bon parce qu'en fait il va
+scanner votre email directement et il va
+vous donner les erreurs et les erreurs
+ça peut être par exemple que vous avez
+pas laissé le lien des des inscriptions
+ici bah il nous dit oui vous avez pas
+encore enlevé le texte par défaut qu'on
+vous a mis à la base bon ben voilà j'y
+reviens mais ça nous permet de voir que
+mchimp quand même check et vous évite de
+faire des erreurs trop
+grosses alors je vais en profiter pour
+ajouter un petit col action c'est
+essentiel d'avoir des liens dans votre
+email pour pouvoir amener les gens à
+continuer leur expérience avec vous
+s'ils en ont
+envie ici on va remettre un lien vers
+coup
+d'État donc là normalement macham
+devrait nous laisser envoyer notre email
+en plus d'avoir modifié le le texte par
+défaut qui m'avait demandé de modifier
+j'ai rajouté un petit call to action et
+comme ça quand on revient sur la page
+principale de la gestion de notre
+campagne hop on revient et tout est bon
+tout est bon ça veut dire que vous
+pouvez envoyer votre newsletter
+elle se fait ça se fait
+ici vous pouvez choisir d'envoyer ça
+maintenant vous pouvez choisir de la
+scheduler pour plus tard pour une autre
+date faites gaffe ici à la time zone
+dans laquelle vous êtes moi je sais que
+ici on est tout le temps en central
+europeéan time et comme on a l'heure
+d'été l'heure d'hiver ça peut se décaler
+donc faites un peu attention à l'heure à
+laquelle vous préparez votre newsletter
+et ensuite bah voilà votre newsletter va
+s'envoyer les gens vont la recevoir et
+vous allez pouvoir observer dans vos
+résultats de campagne quelles sont les
+performances des emails donc si vous
+revenez dans campagne vous allez pouvoir
+voir par exemple ici
+euh ici par exemple c'est le mail que je
+vous ai envoyé il y a quelques temps
+pour vous tenir au courant de où on en
+était dans le tournage de la formation
+trouvée des clients et ben on peut voir
+que il y a 83,3 % d'Open donc 190
+personnes sur 228 et que il y a 50,4 %
+de clic donc 115 personnes sur le total
+euh c'est des bonnes States hein c'est
+des très bonnes States même ce qui est
+pas étonnant he vu que vous avez acheté
+la formation et vous attendeiez des
+nouvelles par rapport à ça euh sur une
+newsletter classique on va tourner aux
+alentours de euh entre 15 et 25 %
+d'ouverture pour une un bon taux
+d'ouverture si vous avez vraiment plus
+c'est que vous êtes vraiment en train de
+performer très très fort ça va dépendre
+de votre industrie melchim vous donne
+donne aussi à certains endroits ils ont
+pas mal d'articles qui vous expliquent
+quels sont les pourcentages d'ouverture
+en fonction de votre industrie les
+pourcentage de clic aussi bref vous
+allez pouvoir suivre à quel point votre
+campagne a performé si elle a plu aux
+gens et vous poser des questions sur
+comment améliorer la prochaine
+newsletter que je vais mettre en place
+avec tout ça normalement vous avez pigé
+comment faire votre première newsletter
+sur maelchimp hein donc c'est très très
+simple c'est facile à prendre en main
+mais il y a plusieurs questions qu'il
+faut vraiment se poser et où il faut
+faire vraiment attention quand vous
+envoyez votre newsletter alors je vous
+donne ces tips là en avance parce que
+c'est des erreurs que j'ai faites moi
+dans toute ma carrière mais euh vous
+allez les faire aussi très probablement
+et c'est pas grave ça fait partie du jeu
+vous allez merder à des moments et ben
+c'est pas grave vous allez apprendre de
+vos erreur la première chose c'est que
+comme je l'ai dit juste avant c'est très
+très important quand vous éccrivez une
+newsletter en plus de créer un contenu
+engageant et qui a de la valeur d'avoir
+des call to action envoyez jamais un
+mail où il y a pas de lien parce que si
+vous avez pas de lien vous avez pas de
+taux de clic et donc vous avez 50 % des
+mesures de votre performance qui sont
+disparu donc mettez toujours un call to
+action ou plusieurs en fonction de si
+vous avez plusieurs sections dans votre
+newsletter et cetera mais prenez le
+temps de bien vérifier que tous vos
+liens sont là le nombre de mail que j'ai
+envoyé dans ma vie où j'étais là genre
+alors j'envoie ça à 500 personnes le
+mail part je reçois le mail dans ma
+boîte email et je vois qu'il y avait pas
+le lien sur le bouton ni sur l'image ni
+sur rien et donc je dois renvoyer 500
+emails d'un coup en disant et ratou en
+fait c'était pas bon j'avais oublié le
+lien lol et en fait bah forcément tu
+perds énormément de taux de clic
+énormément de de de de confiance de la
+part des gens qui reçoivent t ta
+newsletter bref c'est un bordel alors
+c'est pas grave ça fait partie du jeu
+hein j'ai survécu les boîtes que j'avais
+à l'époque ont survécu c'est pas très
+grave mais c'est important de checker à
+l'avance et pour ça c'est bien de
+s'envoyer des email test de rechecker
+que tous les liens que vous avez prévu
+sont bien au bon endroit qui renvoie
+bien vers la bonne page ça peut valoir
+le coup nous on le fait tout le temps
+chez coup d'État de faire checker ça à
+une autre personne chez coup d'État on
+s'envoie tout le temps les emails test
+entre Anaï et moi pour vérifier queil y
+a pas des fautes d'orthographe pour
+vérifier que les liens sont bien là que
+les images sont pas cassées que sur
+mobile ça marche bien et on fait le
+check pour vérifier que la newsletter
+est bien parti parce qu'il faut pas
+sous-estimer à quel point votre
+newsletter c'est un one shot même si
+vous allez en envoyer régulièrement une
+newsletter c'est une pièce de contenu
+vous pourrez pas la modifier après parce
+que elle sera dans la boîte mail des
+gens donc prenez garde faites ça bien
+faites preuve de créativité j'ai hâte de
+voir les newsletters que vous allez nous
+envoyer et que vous allez nous montrer
+dans la communauté trouver des clients
+parce que je pense que il y a pas mal
+d'entre vous qui ont une créativité
+assez débordante he j'en ai vu
+quelques-uns déjà donc j'ai vraiment
+hâte de voir tout ça hâte de voir ce que
+vous allez faire de cet outil MailChimp
+ou d'autres outils il y en a plein
+d'autres là je vous ai montré MailChimp
+mais il y en a plein d'autres
+l'important c'est de bien écrire
+d'apporter de la valeur aux gens et de
+faire un truc qui vous fait kiffer bon
+courage

@@ -1,0 +1,2298 @@
+il faut être actif les gars faut faut
+arrêter d'attendre que le produit fasse
+les ventes c'est le rêve de tous les dem
+de rien [ __ ] et de laisser le produit
+faire le travail mais c'est encore une
+fois une vision différente de ce que tu
+veux
+[Musique]
+créer bienvenue pour ce cet talk
+aujourd'hui on accueille pierre pierre
+c'est le CEO de flat il a construit une
+boîte assez incroyable qui en fait crée
+te permet de créer des partitions
+musicales en ligne directement sur le
+web c'est une techno assez folle et
+surtout ce qui est fou à propos de cette
+boîte c'est que il y a plus d'un million
+d' utilisateurs qu's ont grandi il va
+vous raconter un peu tout ça il va vous
+partager les leçons qui vont avec parce
+qu'on veut pas juste l'histoire on veut
+un peu les petits trucs croustillants
+qu'il y a derrière c'est ça qu'on fait
+avec Odet tox donc j'espère que ça va
+vous plaire profitez bien et puis
+accueillez pierre
+[Applaudissements]
+bonjour tout le monde donc oui je
+m'appelle Pierre Ranou j'ai 27 ans j'ai
+un parcours et un background
+d'ingénieur j'ai fait beaucoup de
+freelance dans ma jeunesse dès dès
+l'école c'est pour ça que je me suis
+orienté très rapidement vers recréer ma
+propre boîte et comme l'a dit Valentin
+bah je suis le CEO et le cfondateur de
+flat qui est mon activité pleinttemps
+aujourd'hui donc flat en quelques mots
+comme disait Valentin c'est un outil en
+ligne qui permet d'écrire des partitions
+de musique on l'a voulu collaboratif
+super simple à utiliser donc je sais pas
+s'il y a des
+musiciens parmi vous mais globalement
+bah par rapport à ce qui se faisait sur
+le marché avant bah on est parti à
+l'opposé c'est-à-dire abordable en terme
+de prix collaboratif et cetera c'est
+l'analogie de Google Documents par
+rapport à Microsoft Word en quelques
+mots c'est comme on l'a dit web based et
+c'est cette notion de progressive
+progressive web application qui dit en
+gros bah vous pouvez utiliser ce site
+Web que vous soyez en ligne ou pas euh
+voilà à quoi ça ressemble donc voilà
+c'est une partition tout simplement
+c'est une équipe de quatre fondateurs on
+est qure associés on a aujourd'hui un 5è
+dev en plein tempemps et une 6e personne
+en opérationnel pleintemps donc ça reste
+une petite équipe et je vais raconter un
+petit peu notre passif tout ce qui va
+avec la particularité de notre boîte
+c'est qu'on est complètement distribué
+on n pas de locau donc chaque point sur
+la carte c'est là où il y a quelqu'un
+qui travaille donc bah voilà ça s'étend
+du Canada Chine Australie il y a quand
+même quelques personnes qui sont restées
+en Europe moi je suis à Londres euh ça
+c'est notre marché c'est tous les pays
+où on est présent euh donc évidemment
+euh bon forte présence aux US il nous
+manque quatre pays dont euh le Tchad et
+la Corée du Nord qui sont pas des pays
+très simples à aller
+chercher donc voilà donc c'est un peu
+l'avantage aussi pour nous d'être
+complètement remote c'est-à-dire qu'on
+arrive à couvrir toutes les time zones
+en terme de customer euh successs c'est
+customer support je vais revenir dessus
+après euh qu'est-ce qu'on fait
+aujourd'hui à flat euh on est très
+concentré sur l'aspect social on
+travaille sur de l'iOS on améliore
+constamment l'expérience de notre
+éditeur de partition de musique euh on
+se lance dans le dans le learning on a
+notre produit dédié à l'éducation et on
+a notre produit dédié au développeur on
+fait ces six points là aujourd'hui euh
+constamment en quelques chiffres là
+qu'est-ce que c'est donc c'est
+aujourd'hui c'est 1300000 utilisateurs
+c'est de 2000 signup par jour c'est
+150000 compositeurs actifs par mois
+c'estàdire des gens qui créent de la
+musique hein j'entends c'est pas juste
+des mecs qui viennent consommer du
+contenu on a
+1800000 personnes qui viennent par mois
+consommer du contenu et on a un peu plus
+de 8 million de pages vues par mois
+c'est plus que l'équipe par exemple ou
+le point pour donner un peu de d'échelle
+donc voilà donc ça a bien grossi c'est
+c'est assez sympa c'est c'estes 3 ans de
+travail acharné comme disait Valentin et
+entretemps B il s'est passé plein de
+choses do des bas beaucoup de bas des
+haut très sympas aussi donc comment on
+est arrivé à tout
+ça donc on va revenir un petit peu en
+arrière et parce que la première leçon
+qu'on a pris on l'a pris avant même de
+décider de lancer ce produit donc on
+vient tous les quatre d'epitec à
+l'éepitech en fait à la fin de vos
+études vous avez un projet à conduire
+sur 2 ans qui est censé conditionner
+l'obtention de votre titre et nous on
+s'est dit on va faire le Google Doc des
+partitions de musique parce qu'à
+l'époque c'était trendy de faire un
+produit qui existait pas et c'était
+soit-disant la clé de de la réussite s c
+très très très schématique très pourri
+comme comme vision mais bon c'est c'est
+ce qu'on avait en tête à l'époque donc
+on se dit on va faire Google Doc des
+partitions de musique on fait pas
+grand-chose voir rien parce qu'on était
+des étudiants quand même et à la fin on
+a une une soutenance publique avec plein
+plein de gens dans la salle cétait
+encore public donc plein de gens se
+déplacent et cetera parce que bon bah ça
+plaît de voir un petit peu les
+innovations de demain et moi je je
+raconte un petit peu ce qu'on a créé
+c'était quelque chose qui ressemblait
+pas à grand-chose mais l'idée et là il y
+avait une promesse et en fait dans la
+salle on y a plein de musiciens qui sont
+hyper excités par le produit qui vienent
+nous voir à la fin qui disent c'est
+génial comment je peux me connecter
+l'utiliser et cetera moi j'étais hyper
+embêté parce que ça faisait 18 mois
+qu'on disait qu'on avançait on foutait
+rien et en fait on se rend compte que ça
+plaît et ça excite énormément de
+personnes et ben à la fin il y a un
+petit trophée il y a machin une petite
+compette on finit 2uxème on se dit min
+c'est emmerdant et pourtant voilà nous
+ce qu'on proposait c'était ça
+c'est-à-dire que écrire au clair de la
+lune ça resté compliqué qui reste quand
+même une partition très simple euh et
+voilà ça c'était moche c'était pas du
+tout ergonomique et cetera on avait
+juste mis ça dans Google Hangout qui
+existait à l'époque pour que ça ait
+l'air un petit peu novateur mais avec
+juste ça on arrive à exciter une salle
+avec tout à peu près tous les musiciens
+de la salle embêtant euh et là
+l'école on voit un vecteur de
+communication assez fort donc commence à
+nous positionner sur des salons parce
+que c'était pas juste la plateforme 2 le
+truc social futuriste il y avait
+vraiment l'aspect musique l'aspect
+communautaire qui excitait qui était un
+peu plus parlant et un peu qui changeait
+de l'ordinaire donc ils nous ont mis
+dans plein conf en disant bah voilà
+c'est c'est les deuxèm du concours
+Epitech innovation et cetera et cetera
+et nous on se retrouve dans ces salons
+on confronte on confronte et à chaque
+fois un engouement de de folie quoi et
+là on se dit mince c'est quand même
+emmerdant ça fait 14 mois qu'on se
+tourne les pous on confronte une fois
+notre produit c'est la prière fois qu'on
+le montrait à des gens autres que les
+potes en disant on fout rien et
+excitation énorme autour donc ça dire
+qu'en fait on venit de passer 14 mois se
+tourner les pouces sur un truc qui en
+fait si on l'avait montré très
+rapidement ça pouvait vraiment avoir de
+la
+donc là qu'est-ce qu'on fait comme a dit
+Valentin la description de l'événement
+on prend la décision après autant de
+confrontations de repartir de zéro de
+réécrire le code et on se dit ok on part
+sur une boîte et on voit ce qui arrive
+donc on avait autant de naïveté que dans
+la série Silicon Valley hein on s'est
+dit on y va ça va être génial ça va bien
+se passer et ça va être ça va être
+l'éclate donc on se remet à coder et
+cetera on est super motivé donc on prend
+une photo de nous et on se dit voilà ça
+c'est une team de tueur ça va tout
+casser et euh on va de l'avant
+donc voilà et vraiment la grande leçon
+de ça c'est qu'en fait si on avait
+confronté si on l'avait juste mis en
+avant d'entrée de jeu on aurait
+économisé 18 mois on aurait pu vraiment
+vivre un truc pendant 18 mois plutôt que
+de juste bah ENF juste être étudiant
+c'est c'est une belle vie aussi d'être
+étudiant de s'amuser de sortir de de se
+régaler mais euh si on avait confronté
+14 mois plus tôt on aurait déjà pu avoir
+du retour utilisateur on aurait déjà pu
+commencer à construire quelque chose
+donc n'oubliez c'est vraiment la
+première leçon que je donne n'oubliez
+jamais de confronter tout de suite que
+nous ce qu'on a fait à on a commencé
+àécrire à réécrire le code c'est qu'on a
+mis C landing en place qui est selon
+tout ce que vous avez dû commencer à
+prendre une landing pourri c'est-à-dire
+qu' on dit aux gens créer des scores on
+sait pas de quel type de score on parle
+la le visu produit et pourri il y a des
+clés de musique on aurait pu mettre une
+partition ça aurait été plus parlant on
+leur dit quelque chose de simple qui est
+riche en fature intuitif et que vous
+allez utiliser partout on sait toujours
+pas de quoi on cause et vous inquiétez
+pas on bosse très dur sur le c'est voilà
+bah il n'empêche que juste ça ça nous a
+fait nos 500 premiers emails avec une
+landing aussi pourrie donc ça insiste
+encore sur le fait qu'il faut confronter
+et confronter très tôt
+et et surtout bien retenir qu'une
+landing çaessemble pas du tout à ça
+voilà donc ça encore une fois gardez-le
+vraiment en tête pour aller chercher au
+début vous êtes pas obligé de créer du
+produit de créer un produit pour
+commencer à valider ou pas si votre idée
+est bonne ou pas ou en tout cas s'il y a
+un besoin auquel vous allez répondre euh
+donc voilà on a cette landing pourri qui
+marche bien euh on a des mails et tout
+et on se dit bon ben on reste quand même
+quatre dev la team les quatre que j'ai
+montré en photo avant dans la nature on
+est un peu on est capable du pire comme
+du meilleur faut qu'on se fasse
+challenger et ça c'est la deuxième leçon
+qu'on a pris c'est-à-dire qu'on est
+arrivé à the family on rencontre ousama
+donc on trouve des gens qui nous
+plaisent et qui vont nous cadrer qui
+vont nous challenger et donc on arrive
+devant lui et c'est la deuxième grande
+leçon qu'on prend on lui explique tout
+fier qu'on fait 5 signup par jour en
+gros les emails qui tombent
+très très fier on lui dit limite il a
+une table on tap du point sur la table
+on fait 5 sign par jour mec lui nous
+regarde et nous dit mais FZ de ma gueule
+c'est pas des chiffres ce qui en soi il
+avait raison
+et et il nous demande les gars qu'est-ce
+que vous voulez réellement faire et ça
+c'est une question aussi à partir du
+moment où vous voyez vous commencez à
+répondre à un besoin posez-vous cette
+question quelle est la vraie chose que
+vous voulez faire parce que là d'un coup
+en fait quand il nous a dit c'est pas
+des chiffres revenez me parler quand
+vous avez des vrais chiffres il nous a
+fait prendre qu'on target on allait
+devenir un produit B2C il nous a fait
+prendre conscience que du coup on
+targetait pas juste 100 mecs ou 200 et
+que en fait 5 mecs par jour quand
+globalement on a un produit de
+consommation c'est vraiment de la merde
+donc il faut un peu prendre du recul et
+se rendre compte que bah ouais 5
+personnes par jour sur une planète où on
+est plus de 7 milliards on est quand
+même capable de monter un peu plus haut
+rapidement et donc c'est là où se pose
+la vraie question et il nous l'a posé
+quelle est votre vision et je pense que
+c'est hyper important sur cette question
+d'être hyper honnête avezv même moi à
+l'époque j'ai juste répondu on va faire
+un truc cool quand même une vision un
+peu chelou et un
+peu un peu un peu plate quoi mais comme
+on a répondu avec honnêteté je pense
+qu'il l'a pris comme ça il s'est dit ok
+les mecs ils en veulent ils savent pas
+trop où ils vont mais en tout cas ils
+ont la démarche de d'affiner cette
+vision dans le temps et ça pose ça pose
+aussi la question de l'ambition parce
+que je parle avec beaucoup de gens et
+beaucoup de gens me disent il faut qu'on
+crée une une Bilon il faut qu'on faut
+qu'on prenne tout le marché à l'échelle
+du monde et cetera il faut reprendre la
+définition d'ambition euh qui a quand
+même juste l'envie vicérale d'accomplir
+quelque chose c'est-à-dire que c'est
+très subjectif et ça dépend de
+l'objectif que vous vous fixez vous êtes
+pas obligé de vous fixer des objectifs
+qui vous donnent pas envie ou vous êtes
+pas obligé de vous imposer une histoire
+que vous avez pas envie d'écrire ça
+dépend vraiment de chacun quand vous
+pensez à votre produit quand vous pensez
+à ce que vous voulez créer c'est à vous
+de décider ce que vous voulez en faire
+ce que vous voulez que ça devienneêtes
+pas obligé de toujours targeter la
+grande montagne et de dire machin plein
+de gens qui se disent ouais mais ça me
+fait peur j'ai je me vois pas faire ça B
+déjà vous y êtes pas la majorité du
+temps vous allez mourir
+de deux même si vous y allez bah
+peut-être qu'en fait il y a une étape
+entre deux où là vous serez juste
+heureux vous allez vous arrêter là et
+après si vous voulez que ça continue
+grossière vous passez la main et cetera
+et cetera soyez à l'aise avec ça et
+essayez de répondre avec le plus grand
+la plus grande honnêteté à cette
+question donc voilà donc là je vais je
+vais vous donner deux trois trucs à que
+vous pouvez utiliser sur lesquelelles
+vous pouvez capitaliser donc ce que je
+disais juste avant c'est votre produit
+s'adresse à qui est-ce que c'est un
+produit B2B est-ce que c'est un produit
+B2C ça c'est des questions sur
+lesquelles vous allez devoir répondre
+vous-même avec beaucoup d'honnêteté
+parce que c'est à partir de là que vous
+allez pouvoir décliner une attitude une
+posture et une stratégie pour avancer
+aller de l'avant et donc créer cette
+base de croissance donc évidemment ce
+qui se passe souvent c'est que les gens
+partent dans le B2C parce que c'est
+hyper excitant de se dire que des
+millions de gens vont l'utiliser ils y
+arrivent pas il bascule sur le B2B parce
+que on signe un mec ça va mieux que
+quand on signe un mec et qui nous donne
+que 7 balles par mois quoi ça c'est plus
+simple à faire sauver la boîte quoi mais
+euh il faut quand même se poser ces
+questions là parce que c'est à partir de
+là que vous êtes capable d'avancer donc
+répondez à cette question ensuite
+posez-vous la question de est-ce que
+vous êtes local est-ce que vous allez
+voulez être global ou est-ce que vous
+allez avoir un besoin d'être glocal
+local est-ce que vous regardez que la
+France est-ce que vous regardez que
+l'Europe est-ce que vous regardez que le
+monde nous flat on a lancé on savait pas
+du tout où on allait mais par la force
+des choses on s'est très vite rendu
+compte que la musique était universel et
+que donc bah on allait globalement être
+partout dans le monde et donc ça impose
+des choix aussi ça impose de dire ok on
+va peut-être parler un peu en anglais
+pas pas seulement en français ça impose
+aussi de regarder un petit peu ce qui se
+passe dans tous les pays essayer de de
+d'avoir un nom qui tient la route qui
+est pas juste français et cetera et
+cetera et glcal dans la notion que bon
+on peut targetter le monde complet mais
+à un moment il faut des gens dans chaque
+pays comprendre chaque culture et on
+peut pas comprendre plus de 180 pays en
+même temps donc posez-vous ces
+questionslà aussi l'important c'est pas
+de le savoir à l'instant T mais c'est
+d'avoir une idée de où on se
+dirige et enfin la vraie vraie vraie
+question c'est quel est réellement votre
+produit quel est réellement votre
+produit en fait si vous voulez c'est la
+question de se dire qu'est-ce que je
+suis en train de faire ben donc je sais
+pas pour flat on disait on faisait pas
+juste un éditeur de partition musicale
+on faisait un éditeur de partition
+musicale en ligne simple d'utilisation
+abordable en terme de prix et c'est ça
+votre produit si vous lancez une marque
+de Fring demain vous vendez pas juste
+des jeans toute façon les gens vous
+trouveront pas et il qu'est-ce que c'est
+ton jean la différence Paris ou d'autres
+marques il faut être hyper précis sur ce
+que vous faites il faut être hyper
+honnête et hyper macro sur ce que vous
+êtes en train de créer ce que vous êtes
+en train de mettre en place et cette
+question là faut vraiment y répondre et
+il faut aussi la confronter à vos
+premiers utilisateurs dans le sens où
+nous les premiers utilisateurs qui sont
+vus sur flat ne parlez pas de flat comme
+nous on pensait on allait devoir en
+parler et ça nous a permis d'améliorer
+notre discours et ça nous a permis de
+grossir plus vite toujours être à
+l'écoute que ce soit votre premier
+client que vous signez ou que ce soit
+vos premiers utilisateurs qui viennent
+parlezleur parlez-leur comment vous
+parlez qu'est-ce que vous foutez chez
+nous parce que normalement il y a plein
+d' il y a d'autres acteurs qu'est-ce qui
+a fait que vous êtes vraiment chez nous
+et cetera parce que votre promesse
+généralement on va l'avoir comme une
+promesse marketing derrière qu'est-ce
+qui a vraiment convaincu la personne ça
+faut le comprendre et faut discuter et
+qui va l'utiliser c'est-à-dire vous
+pouvez faire une étude de marché
+réfléchir et cetera mais à la fin il
+faut vraiment comprendre les premiers
+premiers premierers utilisateur ou
+client nous on pensait qu'on allait
+tomber sur les les CSP+ les gens qui ont
+de l'argent et qu'on qui qui sont
+capables de justifier une dépense
+mensuelle sur un éditeur de partition de
+musique on a eu que des moins de 18 ans
+sur la plateforme déjà pour les faire
+raquer c'est quelque chose de difficile
+et et surtout ils ne parlent pas du tout
+de la même façon ils ont un aspect viral
+qui est complètement différent et ça
+encore une fois on a pu le comprendre
+que en leur parlant donc imaginer
+quelque chose confronter c'est ce que je
+disais il y a 10 minutes et surtout
+aller de l'avant et parler encore une
+fois avec vos vos utilisateurs ou vos
+clients les comprendre et voir s'il y a
+vraiment beaucoup de gens dans ce dans
+ce dans cette sphère là que vous pouvez
+aller targeter donc évidemment tout ça
+ça passe par du Customer
+Care je vois pas comment vous pouvez
+faire autrement pour discuter aussi bien
+avec vos utilisateurs dites-vous bien
+que nous chez flash jusqu'à 100
+personnes par jour j'ai envoyé un mail à
+la main tout le temps bonjour donc je
+faisais des fautes évidemment parce que
+quand on en écrit 100 par jour à un
+moment on en a un peu marre euh donc
+déjà ça permet de prouver que c'est pas
+un robot parce que un robot qui fait des
+fautes c'est quand même la loose euh et
+les gens répondaient et c'est là où je
+me suis rendu compte à partir du moment
+où le gars me dit bah ça va j'ai bouffé
+une pizza ce midi je me dis ok là on n
+pas sur un CSP+ on doit être sur
+quelqu'un d'un peu plus jeune et de voir
+les emails quand je les réécrivait bah
+quand je voyais awesome pizza ou awesome
+dude je me dis le mec est pas encore
+complètement dans la vie active il doit
+être un peu plus jeune que la moyenne et
+c'est là on a vraiment compris nos
+premiers utilisateurs et à chaque fois
+je leur demandais qu'est-ce que tu as
+tapé pour venir sur flat comment tu
+parles de flat qu'est-ce que tu aimes
+sur flat sachant que gardez bien en tête
+qu'à ce momentl il y avait juste une
+landing moche donc les mecs on avait
+encore rien commencé à faire qu'on leur
+parlait déjà qu'on leur posait des
+questions et quand on leur a donné un
+outil ou encore une fois qui était pas
+du tout abouti où les gars la majorité
+décroché en disant bah c'est trop pourri
+on s'en va ce qu'il faut garder en tête
+c'est qu'ils ont pris le temps de vous
+dire c'est trop pourri on s'en va donc
+si la personne prend le temps de vous
+dire c'est pas bien ça ne me convient
+pas ou c'est pas suffisamment avancé
+dire qu'elle a quand même 5 minutes elle
+est prête à vous consacrer 5 minutesd
+qu'en fait la promesse l'avait convaincu
+c'est juste que bon il faut continuer de
+bosser et elle reviendra plus tard et ça
+c'est c'est sur ça qu'on s'est accroché
+c'est sur ça qu'on est monté donc on se
+fait challenger et il faut être patient
+faut être patient parce que ça comme
+vous voyez c'est vraiment le début de la
+boîte pendant 6 mois ça met du temps
+mais ça vous empêche pas de vraiment
+capitaliser sur ce peu de volume que
+vous avez pour vraiment comprendre
+parfaitement qui vous parlez donc là
+évidemment nous la boîte dont je vais
+parler toute l'expérience qu'on a vécu
+c'est du B2C on a on a un produit B2B
+maintenant mais l'expérience que vous
+allez que nous on a vécu et T tous les
+retours que je vais vous faire c'est
+dans le casadre d'une boîte B2C qui
+grossit relativement vite donc voilà
+donc là toute cette période là de 6 mois
+on s'est pas démonté on a parlé aux
+personnes on a fait 50 par jour 100 par
+jour et cetera on a commencé à
+automatiser et cetera mais je savais
+exactement les questions à poser je
+savais exactement les mails à formuler
+et cetera et cetera et ça ça vous permet
+donc d'accumuler énormément d' formation
+qui vous permet de mettre en place une
+vraie stratégie de croissance et de
+communication donc nous après bah
+évidemment dans notre cas 76 % du trafic
+c'était le
+SEO parce que on avait le bon discours
+public sur Google c'estd queon a
+commencé les 20 premiers il venaient et
+cetera et c'est monté très vite mais
+parce qu'on savait exactement comment
+leur parlerit et que du coup les mecs
+quand ils cherchaient c'était pas une
+erreur de casting on éétait pas le lien
+en fin de page 2 quand il cherchaent il
+savaiit exactement ce qu' voulait et
+nous on avait mis une description
+suffisamment précise pour que même si on
+avait que 1000 mecs par mois qui
+tapaient cette recherche là et ben à ce
+moment là ces mecsl on pouvait leur
+parler il faut être hyper précis et il
+faut avoir le bon discours et petit à
+petit au au fur à mesure que le trafic
+monte on peut élargir notre champ de de
+communication donc c'est important de
+garder que même si nous ça a marché
+c'est un outil c'est pas une solution
+faites attention aux agences à tous ces
+mecs-l qui vous vendent un un du
+gouroutisme du SEO qui vous disent
+demain ça va grossir plus vite ça ira
+bien non il y a pas de solution magique
+c'est quelque chose qui prend du temps
+qui se construit et vous ne serez jamais
+que les meilleurs pour parler de votre
+propre produit en appliquant tout ce que
+je viens de dire avant voilà gardez bien
+ça en tête le SEO c'est vraiment pas
+c'est vraiment un outil c'est pas du
+tout une solution en soi court terme
+vous la construisez tous les jours et
+cetera au pire vous faites un peu de pub
+pour valider des idées mais c'est tout
+euh et gros fac alors on n pas fait de
+gros fac euh tout simplement parce que
+en tant que dev on pense que c'est juste
+un outil marketing pour vendre du rêve à
+des mecs qui sont pas dev euh pour moi
+le le gros facking c'est c'est c'est
+juste la belle arnaque de ces quelques
+dernières années euh la question c'est
+que le gros fac c'est juste une façon
+d'automatiser une tâche et de se dire
+que ok en fait plutôt que d'avoir deux
+personnes pour la faire vous allez
+peut-être avoir juste un script la
+vérité derrière c'est qu'il y a quand
+même un humain qui a bouffé tellement de
+fois cette tâche qu'on se dit ok je peux
+l'automatiser et je vais pouvoir
+accélérer ma croissance ou accélérer la
+rentabilité sur une tâche donnée et nous
+c'est ce qu'on a fait on a a chercher
+des
+opportunités on est on est resté très
+ouvert à n'importe quelle source de
+croissance et au moment où on la
+comprenait où au moment j'en avait r bol
+d'écrire toujours la même chose et que
+je voyais que ça marchait là un robot
+l'a fait c'est c'est enfin on peut
+appeler ça du gros fcking mais moi je
+trouve que c'est juste du bon sens et
+des mec intelligent qui se suit au
+quotidien quoi donc voilà donc en
+appliquant tout ce que je viens de vous
+dire et en étant vraiment résilient
+normalement si vous répondez à un vrai
+besoin à une vraie nécessité vous allez
+être capable de vous créer une base de
+croissance en tout cas nous c'est comme
+ça qu'on s'y est pris et c'est comme ça
+qu'on a réussi à monter à 600 700
+personnes qui faisait un signup par jour
+sur du B2C évidemment encore une fois je
+le rappelle donc il faut pas se démonter
+c'est hyper important de parler et
+ensuite de regarder devant et de voir
+comment on peut aller plus vite à ce
+moment-là on est revenu pour continuer
+le petit storytelling à ce moment-l on
+est revenu vers ousama on s'est dit bon
+bah là on a des chiffres c'est cool et
+il nous a dit ouais enfin bon les gars
+pour des mecs qui arrivent à monter à
+600 par jour euh moi je vais juste
+commencer à bosser avec vous pour 1000 à
+partir de 1000 signup par jour moi
+j'étais un peu vénère je me dis le mec
+juste rien envie de [ __ ] mais bon euh
+donc on est reparti on a essayé de
+comprendre qu'est-ce qui faisait qu'en
+fait effectivement encore une fois sur
+une planète où on est 7 milliards on
+n'est pas capable d'aller plus vite que
+600 par jour euh et là en fait on se
+rend compte qu'il y avait un truc où euh
+alors on se rend compte pas tout seul
+hein évidemment avec un un super
+designer on se rend compte que bah notre
+identité elle était quand même faite par
+des dev donc c'était très cartésien on
+va dire très carré et que ben on avait
+pas une vraie identité et qu' avait cet
+effet donc ça pensez-y si ça ça peut
+arriver sur vos produits on avait cet
+effet où les gens trouvaient ça cool
+mais il y avait pas cet effet waou qui
+fait qu'on s'en souvient et qu'on a
+envie d'y revenir ce qui fait qu' en
+fait quand on écrivait à des personnes
+qui avaient décroché la promesse avait
+été suffisamment bonne pour qu'il sign
+up on leur écrivait 15 jours après 3
+semaines ils avaient oublié qu'est-ce
+qu'était le
+produit c'est quand même con et on leur
+disait oui non mais flat vous vous
+souvenez c'est l'éditeur de partition
+musicale en ligne et CETA ah ouais c'est
+génial j'adore l'idée où ça en est au
+fait là je me suis retrouvé à donner de
+la news à tout le monde qui avait oublié
+qu'est-ce que c'était quoi et donc on
+tourne en rond donc si jamais ça doit
+vous arriver et que vous commencez à
+vous rendre compte que les gens s'en
+vont oublie qui vous êtes et qu'il y a
+pas cet effet il y a pas juste le a
+c'est cool enfin qu'il y a juste le a
+c'est cool et il y a pas l'effet waou
+parce qu'il y a vraiment une identité et
+une marque très forte posez-vous cette
+question de savoir est-ce que votre
+produit a une vraie identité donc il a
+il y a Alice ici il y a des Typs qui qui
+travaille sur sur tout ça qui en
+parleront beaucoup mieux que moi moi
+tout ce que j'ai fait c'est que bah on
+me propose ça donc évidemment en tant
+dev je me dis [ __ ] fait chier encore
+un encore un designer qui va m'expliquer
+qu'il faut regarder d'un autre d'un
+nouvel œil et cetera et bon on connaît
+tous les clichés designers développeur
+on les prend pour des brarawleurs ils
+nous prennent pour des mecs qu'en
+foutent pas une
+euh mais bon la vérité c'est donc on
+fait tout notre branding et et on et en
+fait ça ça buzze ça buzze très fort ça
+buz très fort on poste ça ça fait le la
+une sur product ça fait la une sur
+Hacker News un super routine malade et
+on avait juste refait la landing encore
+une fois pas tout le produit et là bon
+je prends une grosse claque donc le
+produit ressemblait plus que ce soit le
+logo le nom les couleurs plus rien de
+ressemblait à ce qu'on avait fait avant
+mais la vérité c'est qu'on navait pas du
+tout une véritable identité on avait
+juste quelque chose de fond qui était
+fonctionnel fait par desdf quoi tout
+simplement et c'est là où je me suis
+rendu compte qu'en fait c'est cette
+phrase que je me répète souvent c'est
+que on peut être une super personne pour
+faire quelque chose mais on n'est pas
+nécessairement la bonne dans le sens où
+moi j'avais réussi à conduire cette
+équipe avec mes associés à conduire ce
+produit à quelque chose qui était
+utilisable mais en aucun cas qui était
+quelque chose de jolie qu'on avait
+encore plus envie d'utiliser au
+quotidien et donc ça ça nous a fait
+passer de 600 700 à 1000 1200 et une
+croissance qui continue de monter et
+donc ça ressemblait à ça donc ça a plus
+rien à voir avec la landing que je vous
+ai montré il y a un quart d'heure là on
+est hyper Sharpe moi j'apprend qu'en
+fait cette police c'est la police des
+panneaux d'autoroute que les gens sont
+hyper habitués à la lire ça va mieux
+retenir le logo s'incline comme ça ça il
+faut aller faire l'exercice de demander
+aux gens de le redessiner une heure
+après 2 heur après donc le premier logo
+bah si vous en souvenez redessinez le
+moi mais même moi j'y arriverai pas là
+bon bah là c'est assez simple quoi je
+veux dire on devrait s'en sortir tous
+ensemble bref on prend une grosse claque
+on prend une grosse claque et on se rend
+compte que benah en fait avec une vraie
+identité c'est c'est quand même
+vachement mieux donc là bah qu'est-ce
+qu'on fait on se chauffe on refait le
+produit et on se rend compte que c'est
+un véritable succès c'est un véritable
+succès comme je vous ai dit la
+croissance repart de de plus belle on
+grossit plus vite on recrute plus vite
+et surtout dans l'excitation à force de
+discuter avec user on avait spoté un
+deuxième usage qui était l'éducation et
+dans l'excitation on sort un deuxième
+produit dédié aux écoles donc un aspect
+un peu plus B2B on se dit ça va être
+bien ça n ça va être plus simple que de
+de gagner de l'argent que de vendre à
+des enfants euh dans le le fait d'avoir
+une une énorme identité très forte qui
+est on va pas se mentir assez proche de
+Google en terme de code couleur
+d'agencement de design et cetera euh et
+ben en 6 mois on signe Google Microsoft
+on arrive à rentrer dans le lobby des
+apps certifiées euh de ouf par un
+consortium américain là le l'IMS euh on
+casse la baraque hein donc c'est super
+et cetera nous on est hyper excité on se
+dit [ __ ] en plus en tant que dev on
+vient de signer Google hyper excité on n
+dort plus euh demain on est riche euh et
+ça c'était en 1 an une année bien
+remplie pour 2015 et pour vous donner
+une idée on fait 150000 users sur notre
+première année euh full time donc c'est
+plutôt cool et on a on attaque 2000 2016
+avec euh plein d'étoiles dans les yeux
+la première chose qu'il faut se demander
+à ce moment-là c'est est-ce que pour
+nous c'était une bonne ou une mauvaise
+idée de partir sur un second
+produit faut faire vraiment attention à
+ça en fait faut faire vraiment attention
+à ça parce que euh sur le coup c'est
+assez simple en fait bostrapper quelque
+chose quand on a la bonne méthode et
+qu'on est on on a réussi à le faire une
+première fois c'est-à-dire que nous sur
+la promesse de l'éditeur on avait réussi
+à donner de l'intérêt faire grossir une
+communauté on s'est dit [ __ ] on est
+bon en bootstrap attends il y a une
+nouvelle verticale marché on y va c'est
+l'éducation on lance un
+on lance un deuxième produit chamb sauf
+que le problème c'est que bon le
+bootstrap c'est comme faire des enfants
+l'ACT en lui-même on le comprend c'est
+juste que derrière faut assumer une fois
+que ça arrive et que ça grandit et et ça
+on l'avait pas bien compris bon personne
+n'a d'enfants dans la team encore donc
+c'est peut-être pour ça aussi mais bon
+nous on se dit on y va c'est chaud on va
+gagner encore plus de tunes très bien
+gardez-le pour vous faites-vous une idée
+moi à ce momentl je trouvais que c'était
+une très bonne idée et qu'on allait
+grossir deux fois plus vite se faire
+deux fois plus d'argent et cetera le
+seul problème et ça on s'en est
+évidemment pas rendu compte à l'époque
+on s'en rend compte maintenant ça fait
+quand même 2 ans c'est que que ce soit
+Google Microsoft m bon Microsoft pas
+trop ils sont pas très forts pour se
+marketter comme boîte dynamique qui qui
+qui fait envie mais Google en tout cas
+ils ont on a l'impression que c'est une
+boîte dynamique qui avance vite qui est
+innovante et cetera bah non c'est du
+Corporate partnership comme n'importe
+qui d'autre et nous en fait ça nous a
+vraiment fait dévier et on a ça a
+vraiment imposé à notre produit une
+développement pour se comp dans ce
+partnership là il faut être hyper hyper
+hyper vigilant sur ça parce qu'au final
+c'est du marketing dans les deux sens
+vous vous marketez quelque chose en se
+disant le corporate va m'apporter
+beaucoup SAF qu'en fait Google il y a
+pas que nous il y en a plein d'autres y
+en a des plus gros sûrement même c'était
+sûr donc en fait ça nous a vraiment fait
+dévier de répondre à un vrai besoin de
+nos utilisateurs de l'éducation et il
+faut être hyper hyper hyper vigilant à
+ça parce que ça peut vraiment nuire
+peut-être pas [ __ ] mais en tout cas
+vraiment nuire à votre croissance en
+tant que tel parce que vous répondez à
+un besoin de corporate et vous répondez
+plus à un besoin de vos
+users pareil pour Microsoft sauf que
+Microsoft il s'assume là-dedans ils vous
+disent même bah si tu veux on te paye
+pour développer une fature pour le
+Microsoft Pen ou je sais pas quelle
+autre connerie et nous moment on d là
+bon là ça devient chaud quand même on
+devient prestataire quoi et à ce
+moment-là ce qui était pour rebondir
+encore sur est-ce que c'était une bonne
+ou une mauvaise décision de lancer un
+deuxième produit
+euh si on nous demandait quelle était la
+vision de ce qu'on était en train de
+créer euh bah c'était un peu flou quoi
+c'était un peu flou c'estàdire que
+c'était flou pour moi c'était flou pour
+les équipes et ça pareil ça nuit
+énormément à votre discours public à ce
+que vous racontez à vos users à ce que
+les users voient de votre boîte et donc
+quand ils en parlent c'est pas clair et
+ça donne moins envie à d'autres users
+pour capitaliser sur bouche à oreille en
+tout cas de venir utiliser votre produit
+c'estàdire qu'à ce moment-là moi on me
+demandait qu'est-ce que c'était flat je
+disais bah flat c'est deux produits il y
+a un produit pour l'éducation il y a un
+produit pour les les mecs tout seuls et
+et voilà sauf que d'un côté il y avait
+des partnership Google Microsoft donc
+tout le monde regarda l'éducation on
+disant c'est ça le truc de ouf et moi je
+disais oui oui c'est que c'est ouf super
+mais moi j'étais je savais plus trop où
+on allait et on savait plus trop où on
+allait donc il faut toujours prendre le
+temps en tout cas encore plus si vous
+prenez le risque de lancer un deuxième
+produit de vous demander où est-ce que
+vous emmenez tout
+ça parce qu'il y a un moment mine de
+rien il va falloir du cash et nous c'est
+pendant 2000 2016 du coup qu'on a
+commencé à vraiment poser cette question
+là et c'est au moment où vous commencez
+à avoir besoin de cash qui vous arrive
+la
+euh le moment de vérité je suppose que
+vous avez déjà vu des vidéos d'Ousama où
+il il décrit ça le moment où vous vous
+rendez compte que un customer B c'est
+différent d'un user vous pouvez filer du
+gratuit à tout le monde et généralement
+ça plaît et les mecs sont assez patients
+et ils viennent utiliser ils utilisent
+et ils s'éclatent et nous au moment on
+leur a dit bon les gars ça devient
+payant euh bah c'était chaud cétait très
+très chaud parce que en fait bah
+personne n'a voulu payer ils ont dit bah
+non attendez attendez c'était gratuit
+pourquoi je payerais demain puis toute
+façon il y a d'autres outils gratuits
+sur le marché il y a plein d'excuses et
+d'un coup ton produit ça devient de la
+merdez si je paye moi je veux que ce
+soit parfait là là là là là là là et tu
+dis bah ouais mais si tu payes pas comme
+en Jambo je sa là là tu es comme un con
+euh parce que voilà il manque un truc
+quoi et il manque ce petit billet pour
+pour
+démarrer donc là on était bien emmerdé
+parce qu'on s'est rendu compte qu'en
+fait les gens étaient prêts à l'utiliser
+gratuitement en tant que compositeur que
+les profs avaient pas une valeur ajoutée
+suffisamment forte pour justifier
+d'aller demander un budget dans
+l'éducation je reviens pas sur le marché
+de l'éducation mais c'est une
+catastrophe à comprendre à déployer il y
+a des budgets ENF pour s'il y en a deux
+trois qui qui ont le plaisir de
+d'évoluer là-dedans force honneur euh
+donc voilà là on se rend compte que bah
+on a beaucoup de users on a très peu de
+customers et que ça va être hyper chaud
+pour les monétiser dans le lot on
+améliorant le produit on se rend compte
+qu'il y a des gens qui sont prêts à
+payer pour mais que vu le pourcentage de
+conversion on va pas vivre avec ça
+donc là bah c'est c'est c'est le moment
+où dans une boîte on manque de cash et
+c'est le moment aussi où on va pouvoir
+valider ou pas la solidité de l'équipe
+et c'est dans ce moment où on valide ou
+pas la solidité où encore une fois ce
+que vous racontez en public hyper hyper
+hyper important parce que si vous avez
+un discours un peu dépressif dans vos
+blogs dans vos machin le mec il se dit
+ou là c'est chaud vous vous rendez pas
+compte parce que vous avez la tête dans
+le guidon et vous déprimez au quotidien
+vous êtes dopé au l'xom000 mais le mec
+qui lit vos articles il dit ou là c'est
+c'est c'est moins entraînant c'est moins
+fédérateur j'ai moins envie d'utiliser
+ce produitl donc ça c'est la première
+chose et la deuxième chose on se rend
+compte qu'en fait on est en train de
+lancer dans 10000 pays et qu'à moment il
+va peut-être falloir se concentrer sur
+un seul pour juste comprendre un pays
+ses besoins et comment on peut attaquer
+ce marchél et le monétiser fort parce
+que c'est la croissance pour la
+croissance c'est cool mais à un moment
+comme je dis il faut de l'argent pour
+péréniser cette croissance là et à un
+moment faut voir où est-ce qu'on peut
+gagner plus facilement de l'argent
+facilement avec des guillemets on est
+d'accord pour assurer encore une fois
+que la la la boîte soit rentable et
+qu'on puisse continuer d'aller de
+l'avant on a jamais levé donc c'était
+des questions du du quotidien
+euh donc on se dit bon bah les US à
+priori c'est un marché qui marche bien
+Google est très implanté ils ont gagné
+le marché de l'éducation vendre aux
+écoles ça a l'air d'être un truc qui est
+assez facile à l'air à l'époque c'est ce
+qu'on se disait on on va se concentrer
+sur les us et là on s'est concentré sur
+les US on a commencé à mettre en place
+une stratégie on a commencé essayer de
+comprendre parfaitement ce marchélà et
+une fois qu'on a eu on avait compris ce
+marché-là sur le bout des doigts on
+s'est dit ok ça se décline vachement
+bien sur les pays tous les pays
+anglo-saxons avec quelques variations
+quand même et on a décliné sur les pays
+anglo-saxons donc bah l'Australie euh
+euh l'Afrique du Sud ressemble beaucoup
+aussi euh Nouvelle-Zélande l'Angleterre
+et on s'est rendu compte que tous les
+pays nordiques avaient aussi un modèle
+assez similaire mais il fallait prendre
+le temps de comprendre un pays et c'est
+cette c'est cette variation entre le
+global et le local on peut pas tout
+faire n'importe comment et à un moment
+si on veut gagner de l'argent je pense
+qu'il faut réfléchir macro pays par pays
+aujourd'hui on lance l'Amérique du Sud
+on est on est on a un grossit très fort
+en Amérique du Sud et c'est pareil c'est
+un autre délire complet c'estàd que ça
+nécessite aujourd'hui ça nous
+nécessiterait d'embocher quelqu'un plein
+temps si on veut continuer de grossir
+aussi vite là-bas euh et on le fait pas
+pour l'instant et alors bien sûr
+toujours dans l'euphorie on arrive à
+vendre aux US on se dit bon bah c'est
+quoi on a lancé deux produits faut se
+remettre dans l'état d'esprit je vous
+remets dans l'état d'esprit à ce
+moment-là on avait lancé deux produits
+on tenait la route on gagnait un peu
+d'argent on se dit bon allez on l une
+application iOS euh parce que ça va être
+une valeur ajoutée pour nos clients aidu
+ça va être une valeur ajoutée pour nos
+clients individuels et surtout en
+faisant un peu de mattrix on se rendait
+compte qu'on avait 40 % de nos
+utilisateurs qui étaient sur des des des
+devicees IOS on s'est dit c'est trop
+bien on n pas d'argent autant lancer un
+nouveau produit
+euh voilà et on finit 2016 sur ça on
+avait fait x 3 en user donc voyez même
+si on s'était un peu surestimé l'impact
+est pas direct parce qu'on a quand même
+fait xis 3 en un an 400 on avait un
+pratiquement un demimillion à la fin
+2016 euh c'est pas rien sans argent
+machin et cetera on bossant beaucoup
+quand même on faisait pas les 35 heur
+euh bon l'impact il est pas direct à ce
+moment-là c'était encore l'euphorie ça
+allait bien beaucoup de croissance on se
+dit c'est bien c'est cool et là bah
+arrive le moment où il y a trop de
+choses à faire il y a pas de cash et euh
+bah faut commencer à faire un peu de de
+RH quoi parce que nous on avit fait
+rentrer des gens sur une promesse que à
+plus ou moins 6 mois bah il y allait
+avoir plus de cash on l'a pas tenu cette
+promesse euh et évidemment quand on se
+retrouve le nez dans la merde et que
+toute la boîte est un peu dans la même
+galère c'est là où on commence à voir la
+vraie nature des gens euh moi désespéré
+un peu fatigué ben j'ai appris le RH en
+faisant tous les mauvais choix et Roch
+donc comme ça au moins maintenant je
+sais ce que je veux pas euh mais c'est
+c'est vraiment hyper hyper important et
+moi je pense que c'est un un des
+facteurs qui va ou pas garantir la
+pérénité et le succès de votre
+croissance à si vous mettez les
+mauvaises personnes ça peut avoir un
+impact hyper négatif sur votre boîte en
+tout cas nous ça l'était à ce moment-là
+je m'en rendais pas compte mais au
+moment où je les ai viré tout le monde
+bossait mieux le discours était beaucoup
+plus positif en public et les gens
+bossaient plus en sens volume je leurais
+pas demandé de bosser plus moi-même
+c'est important de bien noter ça c'est
+eux deux même ça allait mieux dans la
+boîte c'était plus sain il bossaient
+plus évidemment B va on bosse plus bah
+ça un impact sur la croissance quoi donc
+voilà donc déjà je me retrouve à moment
+onarrivait pas à faire décoller le
+chiffre je me dis bon bah c'est pas
+grave qu'est-ce qu'il a dit où s'il a
+dit que bah un moment faut reconnaître
+queon est pas bon sur un sujet on prend
+un mec bon qu'est-ce que c'est un mec
+bon comment je le juge et cetera machin
+et cetera zéro idé je prends un premier
+sales ça se passe mal le mec pivote et
+part en marketing se rend compte qu'en
+marketing ok c'est sympa ce qu'il va
+construire mais c'est parce qu'on a
+besoin maintenant de toute façon peut
+pas le payer j'en prends un deuxè qui
+avait l'air mieux qui s'était en tout
+cas lui bien vendu encore pire fait
+n'importe quoi et donc c'est ce que je
+je vous dis il faut prendre le temps de
+maîtriser avant de déléguer c'est-à-dire
+qu'à ce moment-là moi j'étais fatigué
+donc j'aurais pu mettre une slide mais
+prenez des vacances aussi c'est
+important de prendre du time off mais
+reste il faut toujours rester lu
+c'està-dire que moi je ne maîtrisais pas
+le sales je ne maîtrisais pas le
+marketing à la base je reste un
+développeur donc c'est des sujets pour
+moi qui sont ça je suis là je les
+regarde je me dis bon aujourd'hui non
+mais à l'époque je regardais le truc je
+me dis bon c'est quand même un peu un
+peu chelou comme comme façon de faire
+pour moi un produit est bon ça se vend
+tout seul bon bah moins dans la musique
+en tout cas euh et et donc voilà donc
+les gens passent je comprends pas je
+sais pas les évaluer parce que je ne
+comprends pas réellement ce qu'ils vont
+faire je ne sais pas juger de leur
+performance parce que j'ai pas de base
+moi-même que j'ai construit avant et ça
+ça s'applique sur tout c'est-à-dire
+que il y a il y a des choses différentes
+par exemple si je reviens sur lui qui
+avait fait notre succès notre début de
+croissance lui c'est pas de l'UX et
+c'est pas du produit et ça c'est hyper
+hyper hyper important je faisais pas la
+différence à l'époque et pourtant une
+très bonne peut être fait par une très
+bonne personne on a laissé cette même
+personne faire l'UX catastrophe on a
+laissé cette même personne driver un
+produit en terme donc ux mais même en
+construction logique du produit et moi
+ça m'allait parce qu'à ce moment-là je
+me dis bon ben il a l'air sûr de son
+coup moi j'ai un peu besoin de lever le
+pied parce que je suis fatigué vas-y
+comme un grand sauf que là en fait
+maintenant que j'ai tout repris donc là
+je bosse beaucoup mais maintenant que
+j'ai tout repris je me rends compte que
+c'est une catastrophe et qu'il faut tout
+refaire donc il faut il faut faire
+attention à rester très consistant et à
+ne pas je reste un peu sur celle-ci
+quand même pour bien marteler le truc il
+faut faire attention avant de déléguer
+là maintenant j'ai fait les SS moi-même
+pendant 6 mois nonstop nonstop à fond
+donc c'était clairement j'ai fait une
+crise de la quarantaine avant d'arriver
+à 40 ans parce que c'était un job que je
+kiffais pas du tout je le vomisser au
+quotidien mais bon j'ai quand même senti
+ce petit frisson de C au moment du
+closing quoi je me suis dit [ __ ] c'est
+ça qui vivent les mecs en fait c'est
+vrai quand le mec on l'a fait raquer à
+la fin on est content quoi je parle que
+les écoles et une école il a encore plus
+de satisfaction parce que c'est
+tellement compliqué d'arriver au budget
+à la fin et de prendre le chèque par qu'
+paye en chèque he attention
+euh que quand on arrive enfin qu'on a ce
+chèque entre les mains on a accompli un
+truc mais bon je ça ça ne m'excitait pas
+suffisamment la fin de la journée pour
+justifier de passer ma journée à appeler
+à téléphoner et je suis devenu un cliché
+ambulant américain avec beaucoup de
+clients américains je les appelais et à
+la fin je disais mais tu sais ça va même
+sauver ton couple d'cheter flat parce
+que tu passeras moins de temps à
+préparer tes cours à l'école tu seras
+plus avec ta femme tuas plus de temps
+pour tes enfants et le mec ouais c'est
+génial et à la fin je raccrochais je me
+dis tien je viens de faire un sketch de
+Gadel mé et je je suis abusé mais ça
+vendait mieux ça vendait mieux et c'est
+ce qu'on faisait pas avant bref là là où
+là ce qu'on s'est rendu compte et ce que
+je me suis rendu compte c'est qu'en fait
+déjà un bon sales c'est un mec qui va
+pas se justifier oui met le machin le
+process le truc le marketing ce qu'on
+veut non la seule chose qu'il va faire
+c'est te dire ok j'ai fait de la merde
+je suis désolé mais je va je vais
+améliorer mes chiffres ù je me casse
+parce qu'en fait chez toi je vais pas me
+faire d'argent et ton process est pourri
+mais il a l'honnêteté de le reconnaître
+et en fait à partir de là maintenant
+quand je discute avec un S je lui dis
+voilà ce que j'ai fait voilà comment ça
+se passe voilà les outils que j'ai mis
+en place qu'est-ce que tu en penses soit
+le mec le fix que je lui propose versus
+le variable ça lui convient ça ça lui
+convient pas soit il se dit que c'est
+encore trop jeune et cetera et cetera
+évidemment bon on prendra pas de
+français pour vendre à des ricin parce
+que même moi dans mon cliché j'ai bien
+vu que j'ai perdu des deals parce que
+j'ai pas un accent chewing-gum la total
+quoi euh voilà voilà pour ça et pour ce
+qui est ui ux et en fait tous les corps
+de métier je pense que c'est toujours
+hyper important de garder le contrôle il
+faut pas êre le l'employé Providence qui
+fait tout mais en tout cas les premières
+personnes que l'on va positionner je
+pense que ça passe par une maîtrise
+parfaite de ce qui se passe et savoir
+les points sur lesquels il faut être
+hyper vigilant parce que ça encore une
+fois pour l'du en tout cas pour notre
+produit éducation c'est ce qui a fait
+qu'aujourd'hui on n'est pas sur une
+exponentielle en terme de chiffres et on
+le sent en quotidien parce que
+maintenant je me tape tout le customer
+successs la vente enfin tout donc fait
+les mecs parlent qu' moi ils ont
+l'impression que je suis tout seul et en
+fait en parlant avec eux je me suis
+rendu compte de tout ce qu' allait pas
+et du coup j'ai commencé à réutiliser le
+produit moi-même je suis pas prof donc
+c'est compliqué de me mettre à leur
+place je réutilise le produit moi-même
+et là je me suis dit c'est une
+catastrophe et là en fait j'ai dit ok B
+on refit tout sauf que encore une fois
+faut pas faut pas regarder en arrière et
+souiter en disant j'aurais mieux fait de
+faire différemment mais quand
+même on aurait pu économiser un
+an donc on avance donc le problème c'est
+qu'on se disperse le problème de se
+disperser quand on bosse moins parce
+qu'il y a une mauvaise ambiance c'est
+qu'on est moins consistant le fait
+d'être moins consistant la qualité du
+service diminue que ce soit sur les le
+produit les dev sont stressé fatigué
+l'ambiance est pourri ils sont moins
+attentifs on prte des bugs hop il y a
+des bugs ça saoule tout le monde oui
+vous inquiétez pas on va fixer ah c'est
+sympa quand c'est le 10e depuis un mois
+le mec il a beau vous trouver sympa il
+se casse ça ça va mal et donc évidemment
+c'est un impact direct sur votre
+croissance encore encore une fois quoi
+ça ça peut paraître bête mais c'est à ce
+momentl que tout nous a pété à la gueule
+2017 c'est l'année noire pour nous ou
+blanche pour la croissance mais en tout
+cas là tout ça ça a eu un impact direct
+le fait qu'on ait trop de choses à gérer
+en même temps qu'on soit trop éparpillé
+euh et qu'on ne maîtrisait pas tous nos
+sujets avant d'aller en rajouter des
+nouvelles probl avant de rajouter une
+nouvelles problématique sur nous quoi
+euh et donc dans ce moment-là en tant
+que on va dire décisionnaire et et
+leader d'une boîte et ben il y a c'est
+con à dire mais il faut pas trop trop
+réfléchir il faut plutôt agir euh donc
+c'est facile à dire he là aujourd'hui je
+le dis de façon très décomplexée et
+cetera mais à l'époque ça m'a pris
+facile un trimestre à me décider de
+commencer à mettre des coups de des
+coups de serpes là pour virer tout le
+monde et virer les personnes qui
+nuisaient à au cocon général de la boîte
+et à comprendre la différence entre une
+personne remplaçable et une personne
+irremplaçable donc en fait je me suis
+vraiment rendu compte que à part mes
+associés tout le monde était remplaçable
+ça veut pas dire que je valorise pas le
+travail des gens ça juste dire qu'en
+fait d'un coup on se détend et si la
+personne on se rend compte qu'elle est
+pas elle est pas à sa place chez nous ou
+qu'il est temps qu'elle parte ou juste
+en fait il y a une erreur de casting et
+c'est de ma faute et ben je dois
+l'assumer et je dois virer donc bon bah
+là à ce moment-l on a viré tout le monde
+et qu'est-ce qui s'est passé comme je
+vous disais au début qualité de travail
+bien bien plus améliorée évidemment un
+volume augmenté mais la croissance
+repart et on a commencé à pouvoir
+traiter tous les challenges un par un et
+ça c'est hyper important dans un moment
+où dans le passé vous avez fait des
+mauvais choix stratégiques il faut pas
+se laisser submerger submerger j'entends
+c'est qu'on peut prendre tous les
+problèmes de face et évidemment ça fait
+un peu peur et on finit par se dire
+comment je vais régler tout ça
+j'abandonne c'est chaud
+euh non faut les prendre un par un faut
+les PR faudit garder la tête froide et
+et ça c'est hyper important il y a pas
+longtemps j'ai un pote qui m'a appelé et
+qui me dit j'arrête tout je plaque j'en
+ai marre rien ne va et je lui dit bah
+machin et en fait il commence à
+m'expliquer sa situation et en fait bon
+ça a pris une heure quand même mais au
+bout d'un moment je me rends compte au
+téléphone que la situation est pas si
+dramatique que ça qu'il a toujours un
+salaire c'est juste que la boîte va mal
+et qu' il a attendu le dernier moment
+pour en parler hyper important toujours
+en parler il m'a vraiment appelé au
+moment où ça avait l'air insurmontable
+et donc là il a fallu le calmer et il a
+fallu lui dire ok traite les problèmes
+un par un qu'est-ce qu'on fait on
+commence par payer l'URSAF on commence
+par payer les employés bon à priori
+c'est quand même mieux de payer les
+employés en premier et cetera et cetera
+et cetera et on a avancé étape par étape
+et en un mois ça allait beaucoup mieux
+lui la boîte ça prend plus de temps mais
+lui allait beaucoup mieux il géit il
+regérait bien sa boîte et le chiffre en
+un mois reprend 10 % de croissance et là
+sur le mois en cours on est déjà à 15 17
+% de croissance donc juste d'avoir une
+attitude et d'avoir l'esprit en tout cas
+de prendre les choses une par une vous
+permet de de traiter les problèmes de
+façon qualitative et donc d'aller de
+l'avant de les regarder les appréhender
+avec la bonne la bonne posture et en
+tout cas nous pour notre cas on a vu une
+vraie différence entre l'avant septembre
+2017 où j'avais encore beaucoup trop de
+mauvaises personnes dans la boîte et
+l'après où je me suis dit ok je reprends
+tout en main tant pis fini la vie
+sociale pendant un an mais c'est le seul
+c'est le seul moyen et là en fait on a
+vu une vraie différence et on arrive fin
+2017 et on prend des vraies décisions
+stratégiqu et on recommence à faire des
+choses bien et je suis redevenu mrix
+Centrix ça peut para ître bête de de
+dire ça comme ça mais il y a un moment
+où on a une espèce d'euphorie de
+croissance on se dit bon de toute façon
+répond à un problème c'est bien c'est
+bien c'est bien on veut grossir plus
+vite mais on enfin en tout cas pour nous
+et pour plein d'autres boîtes o quand je
+commence à redir les gars vous en êtes
+tous sur les matrix où les gars perdent
+un peu de visu là dessus parce qu'en
+fait ils sont concentrés au quotidien
+juste bah à gérer la prod et ils perdent
+un peu le focus de quels sont les vrais
+indicateurs chiffrés de santé de ma
+boîte donc nous bah d'autant plus on
+avait trois produits couillon qu'on est
+un seul c'était pas suffisant fallait
+qu'on ait TR trois sources de problèm
+euh j'avais perdu complètement ça en
+fait et j'avais complètement perdu cette
+culture de de la mattrix pour chaque
+personne qui éta en charge d'un produit
+dire que aujourd'hui chez flat le mec
+qui bosse l'employé qui bosse sur iOS et
+qui fait du super boulot si regarde la
+vidéo il sera content que je le dise euh
+et ben il parle avec moi que par les
+chiffres et quand il vient me parler
+c'est soit que j'ai pas été clair sur la
+vision donc je me je me fouette tout
+seul et je dis [ __ ] fait chier soit
+les chiffres sont pas bons il comprend
+pas et il a besoin
+d'aide il faut toujours toujours
+toujours prêcher ça parce que c'est le
+seul moyen d'avoir des trucs tangibles
+qui tiennent la route l'OP qu'on a fait
+rentrer qui a fait du sales avec moi cet
+été je m'en foutais de savoir si le le
+mec qui lui avait répondu il avait l'air
+emballé pas emballé et cetera la fin de
+la semaine on regardait les chiffres et
+la fin de la semaine je disais ok tu as
+parlé comment c'était quoi les mail que
+tu as envoyé tu as dit quoi au téléphone
+et boum en fait d'un coup on se rend
+compte que la vie est beaucoup plus
+simple comme ça aussi quoi on n'est pas
+en train de se mouiller le doigt de
+chercher un peu de vent et de savoir si
+la direction était bonne ou pas il faut
+toujours toujours toujours chercher les
+mariques matrix c'est hyper important et
+quand on vous pose la question al on est
+où votre boîte si vous êtes en mode oui
+mais alors tu vois là c'est comme ça
+mais en fait on je vais rebcher non non
+non dites-vous là ce moment attention
+attention pensez-y je suis en train de
+décrocher de quelque chose de capital à
+sûr et de se refocus sur les mattrix en
+fait et de se refocus sur les
+opportunités business et de se refocus
+sur des choses qui sont très très très
+factuelles ça nous a aussi permis à ce
+moment-là de redéfinir de façon très
+très très claire notre vision à ce
+moment-là fin 2017 après la pire année
+en tant que dirigeant que j'ai pu vivre
+jusqu'à maintenant je suis pas vu donc
+j'en aurais peut-être des pires mais
+pour l'instant c'était vraiment la pire
+euh là à ce moment-là on a jamais eu une
+aussi belle clarté de vision sur ce
+qu'on était en train de faire on s'est
+rendu compte que ce qu'on faisait on
+avait fait un produit Tech qui afficher
+des partitions dans le web et qu'à
+partir de là c'est produit tech on allit
+l'emmener et le le scaler le dupliquer
+sur toutes les vertical marché qui
+touche de près ou de loin à la partition
+de musique vous allez me dire tu un peu
+con parce que tu viens de nous dire que
+faire plusieurs produits en même temps
+c'est compliqué ouais mais en fait on a
+compris là-dedans qu'à partir du moment
+où on met les bonnes personne avec une
+vision très claire sur un sujet très
+précis elles exécutent très bien iOS
+aujourd'hui je ne fais rien et je ne
+fais que juste par procuration apprendre
+au travers de l'employé qui bosse dessus
+l'éducation j'ai décroché alors je fais
+le produit ça veut pas dire que je
+comprends parfaitement le marché je le
+comprends en tant que sales je sais à
+peu près où il va mais aujourd'hui j'ai
+compris ce qu'il fallait faire en terme
+de process pour la croissance et je peux
+positionner quelqu'un parfaitement la
+vision est claire il sait ce qu'il a à
+faire et je sais comment lui parler je
+sais comment l'objectiver et cetera et
+cetera et cetera revenir au mrix permet
+de redéfinir une belle vision et permet
+de donner vraiment une direction aux
+gens qui travaillent pour vous avec vous
+et cetera et donc du coup ben moi ça me
+permet de me recentrer
+sur le produit B2C et de dire ok c'est
+ça le long tail c'est ça où je veux
+aller et c'est ça que et c'est ça que je
+veux transformer en produit de
+consommation et aller chercher les
+fameuses 8 millions de pages vues par
+enfin sur le dernier mois en tout cas
+et donc à ce moment-là on s'est reposé
+la question de est-ce que c'était une
+bonne ou une mauvaise idée et cette
+question là je vais pas vous mentir je
+dois me la poser une fois par semaine en
+ce moment quand je discute avec chaque
+employé je me dis le mec est en train de
+gérer un produit à lui tout seul lui il
+est en train de gérer un produit à lui
+tout seul je sais pas en tout cas la
+seule chose que je peux vous dire
+aujourd'hui c'est que je sais pas si
+c'est intelligent ou pas de ce qu'elle
+est avec ou pas les moyens déjà à
+l'avance enfin de ce qu'elle est de
+dupliquer de faire d'autres produits qui
+peuvent devenir des business à part
+entière une chose est sûre c'est que en
+faisant ça nous on s'est ouvert plein de
+discussions avec plein d'acteurs
+différents qui nous ont permis de
+vraiment comprendre l'industrie dans
+laquelle on était qui est l'industrie de
+la partition enfin tout ce qui touche de
+près oudant la partition et donc de
+vraiment de comprendre à quel point elle
+est malade et à quel point on peut faire
+un changement dessus et à partir du
+moment où on a compris ça et ben on
+savait que c'était vraiment ça qu'on
+voulait faire et qu'on allait aller
+toujours plus de l'avant et ça nous a
+pris bah quand même 2 ans et demi quoi
+ça pour dire c'est que fin 2017 comme
+vous pouvez voir de cette emmêlé les
+pieds dans le de cette pris des pieds
+dans le tapis et tout ça ben on a un
+réel impact sur la croissance on fait
+même pas x 2 en un an donc encore une
+fois il y a il y a des choses qui sont
+comme je donnais au début vous pouvez
+utiliser appliquer moi je pense qu'en
+fait à partir du moment on a on a un
+discours qui est assez fédérateur une
+promesse qui est bien la croissance on
+va en tout cas en B2C B2B je connais
+moins on va enfin si je vois avec les
+écoles la promesse est belle mais après
+pour les closuses c'est plus compliqué
+il faut ça prend un peu plus de temps
+mais en tout cas si la promesse est est
+là si le marketing est parce que bon
+j'ai pas prétention de faire du bon
+marketing
+euh on va on va réussir à générer la
+croissance et quand et on le voit de
+toute façon il y a plein de start-up qui
+se lancent la fleur au fusi qui lève un
+million et qui crève au bout de 2 ans et
+demi donc c'est sympa de créer de la
+croissance c'est sympa d'avoir des tunes
+mais la vraie la pour moi la vraie clé
+du succès c'est de péréniser tout ça et
+de de voir comment on peut la
+l'appliquer dans le temps sauf si bah
+vous voyez une opportunité vous vous
+dites ok j'en ai pour un an je fais
+raquer sa race à tout le monde je prends
+ma Tune et je m'en vais bon bah la
+pérénisz vous en foutez juste appliquez
+le début à fond les ballons un an et hop
+on part avec les sous euh toujours
+est-il que voilà 2017 pour nous c'est
+vra vraiment une année où on am morflé
+et ça s'est vraiment senti senti senti
+sur la croissance donc essayez vraiment
+de retenir tous ces tous ces aspects là
+ces problématiques qu'on qu'on a vu et
+les anticiper en tout cas de voir des
+facteurs qui sont similaires à ce que
+j'ai décrit pour vous puissiez les
+spotter en avant c'est peut-être pas
+comme moi attendre un trimestre voir 4
+mois avant de le comprendre de digérer
+le problème et de le
+traiter et là à partir de là en fait à
+partir de début 2018 en en remettant
+tout à plat et en se remettant
+euh vraiment très focus matrix on s'est
+dit en fait bah on est on est revenu sur
+l'utilisateur en premier donc on a
+compris la fameuse histoire du partenire
+du partnership corporate là qui qui qui
+nous avait mis dedans sur l'individuel
+on sétait rendu compte qu'on s'était
+égaré à cause de iOS et cetera mais que
+juste en redéfinissant bien clairement
+clairement clairement en fait il fallait
+qu'on se recentre à la fin sur
+l'utilisateur ça peut paraître comp d'
+d'avoir passé le million en s'étant un
+peu dispersé et en ayant perdu le focus
+de l'utilisateur mais c'est à ce
+moment-là qu'on s'est vraiment rendu
+compte qu'en fait si on revenait focus
+en premier premier premier sur le user
+sur son usage et que notre seule
+obsession ça doit être de répondre aux
+problématiques de ce mec là et ben que
+ça allait réaméliorer notre croissance
+et ça s'est vu tout de suite dès début
+2018 et c'est pour ça que on passe en un
+semestre 6 mois on passe de 2 millions à
+8 million de pages vues par
+mois et enfin dernière chose donc là
+maintenant évidemment ça va mieux on a
+survécu on a on est sorti euh
+du trou noir des abis des problèmes et
+cetera il y a trois mots clés trois mots
+clés c'est la dernière grande leçon que
+j'ai pris avec des cells américains
+cette fois-ci il y a il y a trois mots
+clés dans la vie d'une boîte il y a le
+cash il le product et les users on peut
+remplacer user par customer selon B2C
+B2B encore une fois et il faut faire
+attention à comment ces trois là
+interagissent ensemble et nous ça a été
+notre gros gros défaut jusqu'à que je
+corrige le tir c'est-à-dire il y a 6
+mois
+le product va attirer des
+users mais le product ne doit pas tirer
+la quantité de revenus que vous faites
+c'est vous qui devez provoquer vos
+revenus en vendant à vos utilisateurs
+clients et ces revenus vont tirer la
+qualité de votre produit qui lui-même va
+du coup avoir un impact évidemment sur
+votre produit le risque de privilégier
+le produit pour faire monter les revenus
+c'est quoi c'est de vous retrouver dans
+la même situation que nous où vous
+commencez à avoir un produit qui a fait
+une plateforme donc pour nous qui fait
+beaucoup de trafic et vous commencez à
+devoir gérer des problèmes qui vous
+dépassent la crise en Russie avec tégram
+tout ça nous on s'est fait bloquer en
+russieà il y avait personne sur le pont
+pour gérer le problème sauf quand il y a
+toute la Russie qui dit bon ma flat on
+peut plus accéder ça nous fait chier
+c'est un vrai problème de crise on se
+prend des attaques on a des des vrais
+problèmes de sécurité au quotidien on
+peut pas embaucher un mec full time pour
+gérer ces trucs là alors que si dans
+l'autre sens on avait privilégié les
+revenus pour pouvoir financer la
+croissance de notre produit et donc
+l'équipe et cetera et ben aujd'hu
+ourd'hui on serait on a'urait pas la
+corde de coup et on aurait pas des
+grosses perles de su tous les matins en
+se levant en voyant qu'en fait bah cette
+nuit on s'est pris une attaque par la
+Chine c'est souvant la Chine quand
+même donc voilà gardez bien ça en tête
+le produit ne drive pas vos revenus
+c'est le revenu qui drive les
+améliorations de votre produit et ne
+prenez pas de façon désespérée un Paris
+ou en tout cas pas trop régulièrement de
+dire ok si je fais ça sur mon produit
+mes revenus vont augmenter ça peut être
+vrai mais qu'est-ce que vous faites si
+ça se passe mal vous prenez plus de
+users vous avez plus au quotidien
+assumer mais les revenus sont pas là
+pour supporter la croissance de votre
+boîte sauf si vous levez bon voà c'est
+différent vous prenez d'autres choix
+stratégiques nous encore une fois on est
+dans une dynamique de mecs qu'on pas de
+Tune et qui au quotidien doivent
+planifier la STEP d'après sur les
+revenus qu'on est capable ou pas de
+gagner donc voilà gardez bien ça en tête
+c'est tout pour moi c'est tout ce que
+j'ai pu apprendre sur ces trois
+dernières années euh merci beaucoup puis
+pour les questions bah ça avec plaisir
+euh alors d'abord merci pour la con
+c'était hyper intéressant avec plaisir
+et ça fait écho moi je me posais une
+question puisque tu parler au début du
+remote tu as dit que ça te prendrait 1
+heure et3 donc là je pense qu'on a
+encore une heure devant nous est-ce que
+tu pourrais nous parler un petit peu de
+comment tu travailles en remote avec tes
+associés euh ouaisouais bien sûr
+le bah ça c'est déjà il faut faut que ce
+soit un modèle qui est assumé dans le
+sens où faut pas
+que en tout cas au niveau des associés
+c'est quelque chose qu'au début on a on
+a vécu comme subi et qu'ensuite on a
+développé parce qu'on s'est rendu compte
+que ça nous convenait et pour moi c'est
+quelque chose qui doit être 100 % assumé
+c'estàdire faut pas commencer à mettre
+des gens dans un même bureau et cetera
+et cetera après d'un point de vue
+purement organisationnel au quotidien
+c'est moi j'ai une obsession c'est de
+minimiser les outils tu vois ça va être
+un slack un tréot n'importe quelle
+solution pour faire des calls on s'en
+fout et voilà la plateforme pour mettre
+le code et c'est tout et comment ça se
+passe sur le traot le tréot donc il y a
+des bords selon les besoins quand un
+bord devient trop le bordel c'est qu'à
+priori il faut en faire un nouveau avec
+une une thématique plus
+précise chacun est libre de gérer son
+bord c'est si je suis pas le le Bard
+Master et je je m'en fous du Scrum et
+toutes ces conneries là
+euh je je vais juste me concentrer en
+fait sur si je prends une personne
+extérieure au bord et que je dis
+euh par exemple ma mère voilà je prends
+ma mère je dis qu'est-ce qu'il est en
+train de faire Vincent maintenant sur
+tel Bard faut qu' elle soit capable de
+me répondre en une minute grand max ça
+ça veut dire quoi ça veut dire que la
+carte du bord trélot elle est
+compréhensible par n'importe qui donc
+c'est du français c'est pas juste je
+sauve le monde euh elle est
+compréhensible elle est mesurable enfin
+c'est les les objectifs Smart là
+l'acronyme et à partir de là bah ça ça
+va permettre en fait à moi de savoir qui
+fait quoi sans aller les embêter sur
+slack parce que le grand problème de
+slack en remote c'est que c'est très
+chronophage et on peut passer une heure
+à discuter en chat version MSN quand on
+était gamin quoi
+euh et ça je combat ça je suis je suis
+je suis très je suis très obstiné sur la
+productivité et pas faire perdre du ne
+pas faire perdre du temps aux gens
+et et quand je fais perdre du temps aux
+gens c'est de leur faute si je vais les
+voir pour leur poser qu'est-ce que tu
+fais çaut dire qu'en fait ils savent pas
+communiquer avec moi il y a pas une
+remontée d'information suffisamment
+pertinente qui fait que je dois
+l'embêter quoi parce qu'évidemment en
+tout cas pour un dev même pour d'autres
+personnes mais encore plus pour un dev
+en tout cas comme j'en suis un je le
+comprend quand on commence à coder
+quelqu'un vient nous parler on perd le
+fil on doit répondre et se remettre
+dedans ça prend du temps et cetera et
+cetera donc voilà c'est c'est pas plus
+compliqué que ça après le reste il y a
+pas de j'ai pas défini un fuseau horaire
+master je pas quoi comme font certaines
+boîtes ou bah tant pis pour toi si tu es
+en Chine et que moi je suis en France
+bah tu travailleras la nuit ou des trucs
+comme ça quoi non ça je fais pas ça
+chacun se lève quand il veut et ce qui
+est vachement bien en fait pour moi en
+terme de gestion euh c'est que quand le
+mec bosse que les cartes en fait sont
+tellement simple à comprendre c'est
+hyper simple à savoir si y a zéro cartes
+qu'on bougé dans la semaine ça veut dire
+que le mec bah soit il a un problème
+soit il en fout pas une soit il il est
+pas bien il faut que je l'appelle pour
+savoir pourquoi c'est bloqué il
+communique pas mais du coup j'ai pas
+besoin de faire un point quotidien et
+cetera avec chaque personne de la boîte
+quoi tu as tu as commencé à y répondre
+mais je me demandais comment comment tu
+gères aujourd'hui tuas un million
+d'utilisateur vous êtes 5 vous devez
+avoir une tonne de questions de ce que
+je comprends tu as certains SAV qui sont
+délocalisés avec T revendeur c'est ça
+euh non non non on délocalise rien c'est
+juste que ce qu'on fait en fait c'est
+que déjà euh dès qu'un mec nous pose une
+question on a un bord de tréot help et
+bah si on doit répondre à la question
+manuellement on crit une carte et on
+écrit un article dans l'IDE l'aide c'est
+c'est vachement bien c'est hyper
+intéressant parce qu'en fait quand on
+arrive sur des boî des tailles de boîes
+comme la nôtre je sais pas pourquoi dans
+la tête des gens ça se passe comme ça
+mais quand on a une taille une certaine
+taille critique les gens vont googler
+c'est-à-dire qu'ils vont plus essayer de
+chercher sur le produit mais je sais pas
+ils arrivent pas à faire un truc sur
+flat ils vont faire out to dans Google
+donc en fait nous on rédige des articles
+dans notre aide qui sont hyper exposés
+hyper bien référencés et ça loupe du
+coup les gens vont chercher dans Google
+reviennent chez nous et trouvent
+l'article et trouve le contenu et cetera
+et cetera quoi je sais pas pourquoi ils
+font ça c'est qu'on a mis une barre de
+recherche tout bien nickel mais tout le
+trafic de l'ED vient depuis Google sur
+des trucs spécifiques en plus hein c'est
+et les seuls trucs dans le LED vraiment
+que les mecs cherchent c'est quand ils
+arrivent pas à trouver depuis Google ils
+reviennent sur l'ED et ils utilisent
+notre propre barre de recherche voilà
+c'est donc déjà ça ça éponge beaucoup
+après on a changé positionnement
+c'està-dire que à l'époque je disais à
+tout le monde bonjour je suis là ça me
+fait plaisir appelez-moi à manger une
+pizza
+j'adore maintenant ce qui se passe c'est
+que les mec en fait déjà on leur dit
+plus écrivez-nous on dit si vous avez un
+problème écrivez-nous s'il vous plaît
+pas avant le chat il est plus on 247
+c'est quand je suis vraiment là dispo je
+réponds en chat on priorise payant pas
+payant bah voilà ENF un moment tu vois
+faut faire de la MA aussi faut
+vivre et et dernière chose bah on passe
+tous sur du mail je sais pas si si vous
+avez lu vous avez suivi un peu tout tout
+tout le customer C par captainitain
+train en
+fait en lisant ce bouquin je me suis
+rendu compte qu'on était capable de
+délivrer quelque chose de hyper rapide
+hyper quali en restant sur du mail et
+qu'en fait ça il y avait peut-être eu un
+effet un peu de mode et d'engouement
+pour le chat mais qu'au final c'est
+quand même hyper chronophage et ça
+demande quand même un investissement
+énorme partir moment il y a une bulle en
+tout cas pour ns users qui sont très
+jeune c'est la soirée MSN quoi les mecs
+il débarquent salut ça va machin ouais
+dis donc je me posais une question des
+fois je réponds il y a un gamin il vient
+il me dit ah je me suis fait larguer
+qu'est-ce que je dois faire je fA ou là
+euh non je peux pas tout gérer non plus
+là on va est-ce qu'on peut rester et
+c'est hyper frustrant en fait parce que
+tu as beaucoup de travail et là tu dis
+bon ok comment je ce garsl je lui fais
+comprendre que sans sans l'insulter
+parce qu' attention hein enfin
+l'insulter évidemment que non mais
+euh sans sans le repousser trop
+violemment je dirais parce que déjà
+c'est des gamins ils sont un peu tu te
+dis bon il est capable de de faire une
+connerieil a pas l'air bien du tout et
+de deux euh
+ils ont un effet viral qui est hyper
+puissant c'estàdire que si tu es sur une
+communauté jeune et que tu la déçois
+mais ils peuvent te saigner nous le le
+le switch public payant pas payant quand
+on a été un peu trop restrictif au début
+on m demander vous raqueer vos mères et
+on arrête les conneries ils nous ont
+lapidé sur les stores sur tout là où il
+y avait un commentaire à mettre c'est de
+la merde n'y allait pas machin je fa W
+et ça met une vague j'ai halluciné et
+donc du coup on est revenu en arrière et
+contre vague ah en fait c'est mieux
+j'adore ils ont
+écouté impressionnant je je je m'
+remettrai jamais de cet épisode là mais
+alors du coup au départ tu es un peu
+parti en disant en les écoutant j'ai pu
+passer de 10000 à 100000 maintenant tu
+es à 1 million pour passer à 100 million
+est-ce que tu dois pas continuer à
+écouter ces ces clients bien sûr mais on
+écoute de façon quali c'estàd encore une
+fois la pizza l'anana qui est parti on
+arrête alors comment tu tu tu triis tu
+fais ce tri bah déjà en fait déjà déjà
+le mail déjà de revenir au mail on est
+impressionné l'effet filtrant que ça
+vraiment c'estàdire que bah du coup le
+mec dire ah je vais leur renvoyer un M
+je sais pas pourquoi il y a un espèce de
+petit truc sacralisé autour de ça qui
+fait que le mec va réfléchir deux fois
+il va faire sûrement une recherche avant
+en tout cas c'est ce qu'on va dans le
+parcours
+utilisateur et après bah des fois il y a
+de la merde quand même mais c'est pas
+grave et au pire des cas ce qui va se
+passer un jour c'est que si je vois que
+ça nous tire trop vers le bas et ben on
+dira si vous voulez du support de
+qualité bah payez voilà tu vois très
+bien mais dans le l'eau on a quand même
+une masse critique de gens qui payent
+aujourd'hui qui peuvent complètement
+justifier qu'on discute avec eux parce
+que le produit est loin d'être parfait
+aujourd'hui on est focus revenu on est
+focus sur comment on est rentable et
+performant donc en fait évidemment je
+m'arrête il y a des aspects du du
+support qu'on fait moins mais ce que je
+veux dire c'est que j'ai pas besoin de
+parler avec tout le monde j'ai juste mon
+échantillon et ces gens-l sont hyper
+représentatifs du besoin global avant
+que je retourne sur des de l'hyper niche
+et donc tu vois ça ça passe par tous les
+mecs qui ont payé que j'ai fait du
+personnel devvelopment avec eux quand
+j'ai vu tout le temps les mêmes
+questions de prof qui revenaient outre
+vous êtes français ben je me suis dit
+ends c'est pas possible il manque un
+truc sur ce produit en fait tu vois et
+là en fait je me rend compte où est en
+fait là je suis pas on est passé à côté
+de ça on est passé à côté de ça et là tu
+poses la question mais qui c'est qui a
+fait ça là tu te rends compte que bah
+c'est ton mauvais recrutement tu fais oh
+la vache [ __ ] on en est où et cetera
+et cetera et en fait il faut pas non
+plus des milliers de gens il en faut
+juste un il faut juste être confronté
+suffisamment au quotidien et comprendre
+suffisamment l'industrie et tu es user
+il y a mon passif aussi je pense que tu
+mets quelqu'un à ma place il a pas mon
+passif donc il a pas cette capacité à
+comprendre aussi vite sur un échantillon
+restreint tu vois il y a peut-être ça
+aussi a l'expérience évidemment mais à
+partir de là après nous on comprend on
+comprend on comprend on voit la
+direction et après on confond on fait
+une beta et la betêa c'est là où on
+prend le plus de temps là tu vois
+typiquement on a une beta un nouveau
+produit qui va sortir c'est vraiment
+notre gros Paris 2018 la fameuse
+parfaite expérience là on va sortir de
+la beta on envoyé 4000 mails on a bouffé
+2000
+réponses dans la boîte mail ça fait
+malin hier ben j'ai passé ma journée à
+faire ah ok super merci machin ok ça ça
+va pas et les mecs te Sabr B ils sont
+hyper qualis sa Power User hyper investi
+eux ils sont qualis et tu sais que si
+eux tu leur fais plaisir tu vas un
+impact sur la croissance parce que tu
+vas répondre à à des problématique que
+des gens ne te disent pas B mon mon
+ratio c'est pour une personne qui se PL
+un truc il y en a au moins 10 neuf qui
+ont été déçus et qui sont parti ou qu'
+l'ont pas dit tu vois c'est enfin moi je
+réfléchis comme ça j'avais une question
+donc qui était par rapport à la la
+première landing quand vous avez mis en
+ligne la toute première landing et tu
+parlais des 500 premiers mails comment
+est-ce que vous avez fait pour justement
+promouvoir cette page est-ce que c'était
+que des amis est-ce que c'était des gens
+que vous ne connaissiez pas de cercle un
+petit peu plus éloigné non non non non
+euh déjà par du principe que en tant que
+dev
+euh tu as très peur de confronter ton
+produit tant qu'il est pas parfait donc
+autant te dire on a pas du tout parlé à
+nos amis on a mis la landing on s'est
+dit on va voir ce qui se passe
+euh je pense que la vérité c'est qu'on a
+eu un peu de chance qu'on répondait
+qu'on le fait qu'on répondait parce que
+nous on est musicien c'est pas on n pas
+on est pas on est pas parti là-dedans
+parce qu'on s'est dit ça va être
+sympa on s enfin tu vois ça répondait
+quand même fondamentalement à un besoin
+après il y a eu il y a eu une
+concordance de trucs qui ont fait que tu
+vois typiquement il y a toute une
+génération qui a pas connu nos
+concurrents qui est né sous Google qui
+Google n'importe quel lequel de ses
+besoins ça ça nous a aidé aussi on a mis
+le truc en ligne on a tu vois avec une
+description toute pourrie et encore une
+fois faut remettre les choses dans son
+contexte 500 mails c'est pourri et
+ousama avait fondamentalement raison de
+me dire 5 5 mecs par jour c'est de la
+merde 600 c'est de la merde et
+aujourd'hui 2000 je suis insatisfait de
+2000 tu vois parce que mine de rien on
+on n pas en train de targetter juste la
+France ou juste un pays
+on target le monde c'est quand même un
+truc où en SEO on est on est très fort
+tu vois on arrive à targeter l'Amérique
+du Sud comme on target l'Afrique du Sud
+ou l'Australie avec des stratégies qui
+sont hyper spécifiques à chaque fois on
+devrait encore grossir plus vite tu vois
+euh donc on a on a on a pas on a pas
+fait grand-chose de de fou tu vois on a
+fait une page Facebook parce que tout le
+monde fait une page Facebook on a fait
+une page insta et je pense que le
+premier poste il est arrivé 6 mois plus
+tard tu vois on a juste booké réservé
+comme tu veux et et voilà il y a pas il
+j'ai pas de ENF on a confronté tu vois
+et on l' et je pense que c'est juste la
+traduction de cette espèce d'attrait
+qu'on a eu dans cette salle le jour de
+notre soutenance quoi les mecs sont
+arrivés et on s'est rendu compte qu'en
+fait juste dans une soutenance éepitc
+c'est pas non plus la soutenance des EP
+c'est pas le truc c'est pas le dday quoi
+tu vois bon il un mec s'est perdu il est
+rentré il a eu la lumière quoi mais on a
+réussi dans cette salle quand même à
+intéresser plus que nos jury on a il y
+avait des mecs d'une numain à l'époque
+qui était là qui sont venus nous voir
+direct ah vouleit pas venir au Numa
+c'est génial et c'est quoi ce truc là d'
+sort moi j'étais pas du tout de Paris
+donc je comprenais rien de tout ça et
+j'étais pas du tout dedans cet
+environnement start-up entrepreneur et
+cetera donc tu vois c'est juste que je
+pense que cette conf cette première
+confrontation a fait qu'on a on
+confirmait sans le savoir qu'on
+répondait réellement à un vrais besoin
+des des musiciens et après en comprenant
+tu vois ça c'est hyper c'est hyper
+logique tu tu vois les mecs qui
+composent qu' des librairies de
+partition ils ont une haine viscérale
+pour tout l'existant sur le marché
+ultimate guitare des trucs comme ça mais
+ils en partent pas même maintenant qu'il
+a flat ils disent non je peux pas encore
+parce que c'est pas parfait et cetera tu
+vois il y a il y a a une vraie animosité
+vis-à-vis de tous les mecs qu' ont
+existé les mecs s'en sont euh satisfaits
+et on sont fait de la maille dessus et
+il y aait jamais personne qui avait
+répondu de façon suffisamment
+qualitative à leur problème quoi mais
+après comme comme tu dis he il y a juste
+une landing mais des fois une promesse
+est suffisamment forte pour attirer les
+gens quoi pas attirer l'argent à priori
+tu vois mais au moins les gens
+quoi est-ce que tu peux revenir sur le
+cash product user ouais bien sûr 2
+minutes ok euh en gros gr si tu veux ce
+qui se passe c'est que si tu prends flat
+comment il était
+avant chaque augmentation de la MRR de
+n'importe quelle matrix propre cash
+était conditionné par l'amélioration du
+produit lui-même si tu veux c'était pas
+une attitude marketing c'était pas une
+attitude de vente active on était passif
+sur la vente et parce que on a ajouté
+une piature premium par exemple on va
+rester sur le bitousi parce que c'est là
+où c'est le plus
+parlant et ben on évidemment on
+convertissait des nouvelles personnes
+mais le fait de rajouter cette fature là
+va attirer x milliers de personnes
+gratuites etant convertir x une ou deux
+centaines tu vois on va dire
+grossièrement je fais pas les maths pour
+savoir si ça tient la route ce que je
+dis mais tuas
+l'idée le problème de ça c'est quoi
+c'est que si tu es dans cette logique là
+et ben tu vas toujours convertir une une
+quantité de personnes assez restreinte
+au final et attirer beaucoup de
+personnes et c'est ton produit qui
+conditionne l'augmentation de tes
+revenus et donc donc tu auras toujours
+besoin d'investir énormément de temps et
+énormément d'énergie sur le produit pour
+avoir un peu d'argent pour aller
+peut-être à un moment te dire bon
+j'embuche un dev en plus ou un produit g
+en plus et cetera et cetera le piège de
+ça en fait c'est que tu t'épuises et tu
+arrives dans une situation comme la
+nôtre où tu as trop de trucs au
+quotidien à gérer tu as ta prod à gérer
+la prod en fait quand tu es en début de
+startup c'est le dimanche tu vois tu
+fais ça pour te détendre le DEF tu lui
+dis bon voilà fauter voir les serveurs
+machin c'est bizarre on a eu deux trois
+périodes un peu chaudes cette semaine tu
+fais ça le dimanche nous aujourd'hui la
+gestion de la prod c'est ça peut
+justifier un job full time tu vois sauf
+que le problème c'est que bah le peu de
+cash qui qui était conditionné par
+l'amélioration du produit qu'on gagneant
+plus bah il part tout de suite sur le
+produit parce qu'on a pas d'autre choix
+que de le réinjecter tout de suite sur
+le produit pour aller essayer de d'avoir
+plus de gens qui travaille dessus un
+investissement ou et cetera tu vois et
+donc en fait tu es tu restes passif et
+tu te fatigues et un moment tu as trop
+de sources de fatigue versus le nombre
+de personnes qui peuvent y répondre tu
+vois dans le B2B c'est la même chose si
+tu veux quand quand je je suis allé
+parler avec tous ces sells américains
+moi j'ai j'ai ouvert toutes nos capier
+j'ai dit voilà les gars il nous adore on
+les adore et cetera je leur dis voilà
+les capiailles de flot je comprends pas
+je devrais vendre beaucoup plus et les
+mecs avait les boules parce que par
+exemple en in band avec zéro personnes
+Activ sur le sujet j'avais un inbon
+aussi fort que le leur et les mecs me
+regardent il me disent mais tu ne vends
+pas jeis non je vends pas regarde le mec
+vend pas je lui dis ouais mais tu vois
+c'est il leur manque ça il me dit oui
+oui dev peut-être il leur manque
+peut-être ça sauf que le gars il il
+prend de mes flyers il connait flat
+c'est juste que les les quatre les
+quatre petits icônes que je vous ai mis
+au début collaboratif webbase des tout
+ça il attrape les gens il leur dit c'est
+de la balle machin devant moi le mec
+pitche le truc PAM le mec part avec le
+flyer et coup de bol en plus j'ai réussi
+à le tracker le mec a payé et là il m'a
+dit il faut être actif les gars faut
+faut arrêter d'attendre que le produit
+fasse les ventes c'est le rêve de tous
+les dev de rien [ __ ] et de laisser le
+produit faire le travail mais c'est
+encore une fois une vision différent de
+ce que tu veux créer il me dit vous vous
+avez une ambition de créer un truc
+global qui est hyper agressif sur plein
+de vertical
+marché bah assumez-le mais soyez actif
+tu peux pas avoir c comme il m'a dit tu
+peux pas avoir cette tetin band là et
+faire aussi peu de vente c'est pas
+possible donc moi j'ai pris j'ai pris
+Toutin Band et j'y suis allé comme un
+bourrin et avec ma petite expérience de
+sel j'ai fait FO 4 en vente sur sur mon
+trimestre c'est quand même bien pour un
+mec comme moi pour ma première période
+vra sells tu vois je suis content de moi
+et et et donc à partir de là on a eu du
+cash qui est rentré ce cash on l'a gardé
+de côté et ce ch on l'injecte sur le
+produit etu en lui-même et d'un coup tu
+te détends tu dis ok bon benah là u en
+fait on va vraiment avoir besoin de
+quelqu'un et ben on peut embaucher
+quelqu'un sans stresser sans se dire
+[ __ ] c'est chaud va falloir faire une
+ego de ouf va falloir essayer de le
+convaincre de le manipuler un petit peu
+sur les actions le mec accepte de
+prendre un peu plus d'action et un fix
+ralé pas crête non là tu as du cash tu
+tu allé le gagner de façon active et
+donc ce cash là nourrit une nouvelle
+personne qui nourrit ton produit parce
+que tu as été actif sur et ça c'est
+hyper important parce que en gros si tu
+as deux niveaux comme ça à gauche c'est
+ton cash et là c'est ton là c'est ton
+produit là c'est ton cash si tu fais ça
+en cash ton produit peut faire ça si tu
+fais ça en produit ton cash fera
+quasiment que d tu vois et c'est hyper
+important de toujours avoir le cash qui
+drive le développement du produit et pas
+l'inverse et après comme il l'a dit et
+c'est tous ces tous ces head of sales
+ces pointures l'américaine avec qui je
+discutais il me disait franchement tu as
+produit le plus simple à vendre du
+marché parce que nous l'effort de vente
+il est énorme il me dit et il me dit
+regarde il m'a fallu 2 minutes pour
+refiler ton flyers il m'a dit viens sur
+mon stand regarde dis moi je vends les
+tris/4 des trucs ça n'existe pas je
+vends une promesse et après je te jure
+je les balance au SAV et je ferme les
+yeux parce que c'est plus mon problème
+j'ai fait mes chiffres
+et non mais tu vois mais pourtant il
+gagnent des millions là au mois j'en
+gagne pas beaucoup quoi et et ils sont
+droit dans le dans leur boîte et encore
+une fois avec ce qu'ils sont capables de
+faire à ce moment-là la boîte avance
+beaucoup plus vite que la mienne et tu
+vois c'est il faut toujours garder cette
+priorité là va chercher ton cash et soif
+driven par le cash qui va nourrir ta
+boîte ta team et cetera et cetera et
+cetera parce que de cette façonl c'est
+hyper sain tu es hyper à l'aise et c'est
+ça qui et d'une part personne n'est
+stressé il y a un problème ok faut
+embaucher quelqu'un ok bon il y a
+l'argent il y a ok ok c'est juste que
+bah c'est contreintuitif de se dire
+enfin en tout cas pour moi à l'époque
+c'était contreintuitif de se dire en
+tant que dev et cetera avec tous les
+aprioris que je pouvais avoir de partir
+en tant que sells et vendre truc qui me
+paraissait pas parfait alors qu'en fait
+dans les standards du marché je suis
+déjà à des annéeslumièrees devant tout
+le monde juste la différence c'est que
+j'étais pas actif sur le sujet quoi donc
+ouais ça fait rire je te dis bah vends
+ton produit tu vendras plus il se fout
+de ma gueule quoi c'est comme dire le
+feu ça brûle c'est pareil mais pourtant
+il y a une différence entre le
+comprendre et le faire merci beaucoup
+j'espère que ça vous sera utile et bonne
+journée

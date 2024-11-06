@@ -1,0 +1,2384 @@
+ce qui fait la différence c'est non pas
+ta connaissance originale et le stock de
+connaissance que tu pourrais avoir c'est
+le flux c'est à quel point tu es capable
+d'emmagaziner un maximum de connaissance
+sur des problématiques données de
+t'améliorer au
+quotidien et en plus dans les nouvelles
+technologies on est quand même dans un
+univers qui évolue hyper rapidement les
+technologies se Périm les boîtes
+s'effondrent aussi rapidement qu'elles
+se fondent c'est compliqué et donc je
+pense qu'une personne qui est bonne dans
+ce job c'est capable de te remettre en
+question et d'apprendre très
+rapidement bonsoir à tous bonsoir à
+toutes bienvenue chez coup d'État chez
+the family dans ce lieu chez the family
+et à cette conférence coup d'État pour
+vous donner un peu de contexte moi je me
+présente je suis Valentin je suis le CEO
+de coup d'état j'ai repris donc cette
+forme à l'entrepreneuriat de the family
+en mai dernier avec l'objectif de
+entre autres faire monter des
+entrepreneurs sur scène pour qu'ils
+viennent vous raconter un peu leur
+parcours et les leçons qu'ils en ont
+tiré pour que vous puissiez appliquer
+ces leçonsl à vos propres business à vos
+propres entreprise quelle qu'elle soit
+que ce soit des boîtes ou que ce soit
+d'autres types de choses
+entrepreneuriales ce soir on accueille
+quelqu'un que que que je trouvais tout
+particulièrement intéressant une des
+choses qu'on m'a beaucoup dites depuis
+qu'on a qu'on a recommencé à à faire
+coup d'État c'est c'est des gens qui
+étaient des CEO de boîte et qui venaient
+me voir et qui me disaient c'est un peu
+compliqué je comprends pas qu'est-ce que
+je fais au quotidien qu'est-ce que c'est
+mon métier et à chaque fois je devais
+expliquer c'était un peu un peu bizarre
+c'était un peu nuancé ça change il y a
+des phases et cetera et c'était un peu
+compliqué jusqu'à ce que je tombe sur un
+papier écrit par Nicolas bstamant qui
+est le CEO doctrine.fr où ça résumait
+hyper clairement quel était le le rôle
+d'un CEO dans une boîte et j'étais là
+genre wou ça c'est incroyable il faut
+que je l'appelle il faut qu'il vienne
+faire une conf à coup d'État et qui
+transmetteent un peu tout ça en
+racontant un peu lui comment il a
+appliqué ses propres conseils et qui
+vous les délivre donc je vous remercie
+de l'accueillir et bonne
+conférence bonsoir merci beaucoup pour
+cette belle introduction et bien je me
+présente je m'appelle Nicolas Bustamante
+et donc je suis effectivement le CEO de
+doctrine je vais prendre le petit
+clickur est-ce que certains d'entre vous
+ont déjà entendu parler de doctrine ici
+ça va à peu près ce qu'on fait OK super
+est-ce que certains d'entre vous sont
+CEO de leur propre entreprise combien
+combien ah oui d'accord donc vous aussi
+vous demander au quotidien quel est
+votre rôle qu'est-ce que je dois faire
+formidable et ben comme j'ai fait des
+petites recherches je vais les partager
+avec vous je va vous en dire un peu plus
+sur doctrine ce qu'on fait qui on est ça
+vous permet de comprendre un peu notre
+background par rapport aux explications
+que je vais vous donner donc moi je
+m'appelle Nicol Bustamante je suis le
+CEO et le cfondateur de doctrine je suis
+juriste de formation j'ai du droit de
+l'économie je suis parti à San Francisco
+revenu à Paris en fin de mes études donc
+janvier 2016 et c'est à ce moment-là
+qu'on a lancé doctrine quand je dis on
+c'est deux autres personnes attention
+photo historique et oui c'était il y a
+longtemps et donc j'ai fondé doctrine
+avec un ingénieur et un mathématicien
+donc l'ingénieur vous vous en doutez
+c'est celui qui porte son pull de
+l'École polytechnique ça c'est Antoine
+qui faisait un peu de l'intelligence
+artificielle à l'École polytechnique et
+avec qui j'ai passé quelques mois aux
+États-Unis et Raphaël un autre ami lui
+qui est ctoo euh qui est qui a une thèse
+en informatique euh et qui gère toute la
+partie technique chez doctrine donc
+doctrine c'est avant tout mais comme
+beaucoup d'aventures une rencontre entre
+trois personnes bon trois amis qui
+s'unissent vers un projet commun euh et
+qui en font une entreprise le projet
+commun je vais vous l'expliquer la
+problématique elle est simple euh nous
+nous sommes une entreprise une igoltech
+donc vous avez compris on évolue dans le
+marché du droit et pourquoi on a créé
+doctrine c'est puisque aujourd'hui sur
+Internet en France et la Forie dans le
+monde il n'y a que 1 % des normes
+juridiques qui sont disponibles et la
+mission l'ADN de doctrine c'est de
+rendre accessible et compréhensible
+l'ensemble des normes juridiques partout
+dans le monde à commencer vous vous en
+doutez évidemment évidemment par la
+France pourquoi ça c'est important et
+bien parce que quand vous avez vous
+inter interagissez pardon avec le monde
+judiciaire ou juridique au sens large et
+ben la première chose que vous devez
+connaître c'est la loi c'est les
+décisions de justice c'est le droit d'où
+la maxime nul n'est censé ignorer la loi
+bon la problématique euh c'est celle-ci
+donc ouverture et transparence du droit
+on rend accessible l'ensemble des normes
+juridiques partout dans le monde et on a
+bâti une technologie qui permet de
+rendre le droit compréhensible donc à
+travers un moteur de recherche donc si
+vous êtes un professionnel du droit qui
+sont nos clients des avocats des
+juristes et aujourd'hui par exemple 10 %
+des magistrats qui utilisent doctrine en
+France donc un magistrat qui rend des
+jugements au quotidien ça lui permet de
+comprendre rapidement l'état du droit et
+de conseiller son client ou de rendre un
+jugement euh on a plein de clients
+heureux qui utilise notre moteur de
+recherche juridique donc à peu près 1500
+clients des avocats des juristes et
+toute la journée ils vont sur doctrine
+ils recherchent de l'information pour la
+présenter à leurs clients mieux les
+défendre et obtenir parfois des
+acquitements donc le la personne au
+pénal n'est pas condamnée ou des chefs
+d'entreprise qui se retrouvent devant
+des tribunaux de commerce pour pour les
+faillite ou toutes autres affaires et
+les avocats fort de cette information
+ils vont être capable de mieux les
+défendre et donc ça va changer
+concrètement la vie des
+justiciable plus sur doctrine donc on
+est passé de un salarié à 80 personnes
+en CDI en une trentaine de mois ça c'est
+une photo qu'on a pris fin décembre et
+on continue de recruter 5 à 6 personnes
+par mois donc vous en dter on va doubler
+la taille de l'équipe cette année et on
+devrait fin de l'année être 150
+personnes la majorité de nos effectifs
+alors c'est dual euh on a une grosse
+partie qui est en tech euh donc
+ingénieur développement web et
+particulièrement data science en fait on
+a une boîte d'intelligence artificielle
+et une boîte de Data qui officie sur le
+marché euh juridique mais donc ADN il
+est tech avant d'être un ADN euh
+juridique en je dirais qu'il est un peu
+des deux et donc ce qui explique qu'une
+partie euh de nos effectifs il y a
+beaucoup euh de Data scientist et
+l'autre partie ce sont toutes les
+fonctions euh commercial service client
+et cetera euh voilà pour vous en dire
+plus sur doctrine et pour sauter sur le
+sujet qui nous Amim ce soir le rôle du
+CEO
+alors pourquoi on en parle pour moi il y
+a deux raisons pour laquell c'est
+intéressant euh d'en parler c'est que
+c'est peut-être la question qu'on me
+pose le plus au quotidien il y a deux
+personnes il y a trois types de
+personnes qui me posent la question il y
+a les les gens de mon entourage là c'est
+famille c'est n'importe qui qui me
+demande ce que je fais au quotidien à
+quoi ça
+ressemble qu'est-ce que c'est d'être CEO
+voilà il y a deuxème partie ce sont
+souvent les les gens qu'on va recruter
+ou même les employés à l'intérieur de
+doctrine qui ont cette question
+existentielle qui est ok mais
+concrètement qu'est-ce que tu fais au
+quotidien c'est quoi CEO qu'est-ce que
+ça implique et en fait la troisème
+partie qui est peut-être la plus
+intéressante qui se demande qu'est-ce
+qu'un CEO bah c'est souvent les CEO
+eux-mêmes d'ailleurs quand chez doctrine
+j'organise des dîners on invite euh de
+trois CEO pour dîner ensemble et
+partager sur des problématiques communes
+revient souvent cette question qui est
+ok mais c'est quoi notre rôle est-ce qui
+est drôle c'est que c'est souvent des
+gens il disent c'est quoi notre rôle
+d'après vous en fait tout le monde se
+regarde il y a que des CEO de de boîes
+bien connu que je ne citerai pas mais on
+essaie de réfléchir sur un peu quel est
+le rôle du CEO bon un jour me posant
+moi-même la question mes amis se posant
+aussi la question je me suis dit que
+j'allais faire des recherches j'ai
+essayé de tout lire sur le sujet et je
+l'ai compilé dans un fameux document euh
+pour aider à mieux comprendre quel est
+qu'est-ce qu'on attend d'un CEO et
+qu'est-ce qu' un CEO effectif ce qu'il
+faut faire ce qu'il faut pas faire et
+c'est ce que je vais vous présenter ce
+soir euh donc sur la première question
+qui est qu'est-ce qu'on fait ou
+qu'est-ce que les CEO font au quotidien
+je vais vous expliquer il y a trois
+phases dans le job euh peut-être
+certains d'entre vous sont à la phase 1
+ou son la phase 2 je vais vous les
+présenter il y a une première phase qui
+est ce qu'on appelle Doer in chief donc
+là vous avez moins de 25 employés c'est
+parti particulièrement l'attend jusqu'à
+10 15 personnes et vous êtes le Doer in
+chif c'est-à-dire que concrètement là
+votre seul rôle c'est d'exécuter toutes
+les positions au sein d'une société
+c'est-à-dire bâtir le produit faire le
+marketing faire les ventes répondre au
+services client faire la comptabilité
+faire la finance le soir vous devez tout
+faire déléguer n'est pas un mot dans le
+vocabulaire et la la la réussite de la
+boîte à ce moment-là entre 0 et 25
+personnes elle est du en fait à l'input
+que vous mettez vous et des autres
+personnes qui travillent avec vous mais
+ce qui est très important en tant que
+CEO parce que vous donnez un peu le le
+rythme comment on travaille dans votre
+boîte et donc concrètement chez doctrine
+moi les premiers mois premières années
+de de doctrine doctrine c'est une boî
+qui a 3 ans donc on dire les premiers
+mois de passer de la phase 1 à la phase
+2 et ben pareil je m'attelais à vendre
+le produit j'étais le seul sales je
+m'attelais à répondre à toutes les
+demandes qu'il y avaient sur notre chat
+donc j'étais la personne en customer
+success j'bordais les clients enfin bref
+fa la compage je faisais tout et ça
+c'est très important dans cette première
+phase c'est ça qu'il faut faire ne
+déléguez pas il faut juste être le plus
+fort possible sur la partie du war shif
+bon ça c'est peut-être une phase que
+vous connaissez après il y a fameuse
+seconde phase qui est un peu difficile
+c'est qu'on n plus le Doer in Shi mais
+vous êtes le company Builder je vous
+donne un exemple à parti Doer in shif
+c'est vous êtes tous dans un avion vous
+êtes tous dans la salle des machines
+vous avez dizaines de personnes qui
+travaillent avec vous tout le monde
+essae de faire en S que la machine
+fonctionne tourne une vis par-ci par là
+et cetera et un jour ça fonctionne ça
+décolle et quand ça décolle se pose ENF
+arrive une situation que vous allez
+probablement tous connaître tout le
+monde se regarde et tout le monde se dit
+c'est qui le pilote dans l'avion là
+c'est la phase un peu gênant où tout le
+monde vous regarde vous là vous avez
+sacrément intérêt à prendre conscience
+de votre rôle et à courir aux commandes
+de l'avion sinon vous imaginez bien que
+l'avion qui décolle il s'écrase aussitôt
+bon la problématique dont on va parler
+c'est comment tu transitionnes de la
+phase 1 à la phase 2 c'est assez
+difficile il y a une phase 3 donc je
+vais pas je vais pas m'étaler sur cette
+phase 3 parce que je ne la connais pas
+euh la phase 3 euh c'est quand tu
+arrives à peu près à à plus de 500
+employés que le le le business est
+complètement mature et que le CEO se
+recule pour lancer des des initiatives
+un peu plus innovantes c'est-à-dire que
+grosso modo il prend les ressources du
+premier business et il va essayer
+d'innover ailleurs ce que vous voyez sur
+Facebook ce que Facebook a fait avec
+Messenger ou le rachat de WhatsApp ou
+Instagram vous avez Marx du cararbin qui
+est un peu en retrait de son
+organisation et qui construit des
+produits annexes pour inventer le futur
+de Facebook dans 20 ou 30 ans en
+l'occurrence vu que chez doctrine on est
+en plein dans la phase 2 on a 80
+personnes et l'entreprise a à peine 3
+ans je vais pas mett aller sur la phase
+3 je ne la connais pas
+ok sur peut-être qu' vous intéresse
+comment tu transitionnes de la phase 1 à
+la phase 2 la phase 1 c'est tu es dou en
+chift tu fais tout la phase 2 c'est tu
+ne fais rien donc là il y a beaucoup de
+gens qui ont du mal à lâcher et en fait
+tout le monde a du mal à lâcher la
+question c'est comment comment lâcher
+donc dans cette
+transition très simple ce qu'il faut
+faire alors c'est difficile mais c'est
+regarder vous regardez votre emploi du
+temps chaque jour qu'est-ce que vous
+faites et vous essayez en fait d'arrêter
+concrètement ce que vous faites tous les
+jours c'estàdire que vous notez le lundi
+matin je fais ça je fais ça je fais ça
+je fais ça l'idée c'est que le lundi
+suivant vous ne faites plus jamais ces
+tâches et vous les avez délégué à
+quelqu'un qui est plus compétent que
+vous mais pour ça il faut encore avoir
+conscience des tâches que vous faites au
+quotidien de bien les lister pour
+pouvoir les les déléguer donc en gros
+c'est le en anglais c'est fire from the
+position c'est assez frustrant la
+différence des autres Jobs et des autres
+si level type le CTO le ou le CPO là ce
+que vous faites c'est que vous par
+exemple vous commencez à faire le
+marketing et au moment où ça marche à
+peu près et que vous sentez que vous
+êtes prêt à le déléguer vous trouvezel
+vous lu déluez tout et vous arrêtez de
+faire ça et vous passez à une autre
+fonction la fonction finance la fonction
+people et vous faites toutes les
+fonctions une à une et donc ça c'est
+c'est assez frustrant parce que vous
+commencez et après vous vous arrêtez
+vous devez le manager de cette personne
+et vous lu confiez les clés et la plus
+grande des problématiques dans
+Ça c'est de déléguer parce que d'une
+part tu dois performer le rôle donc ça
+veut dire que tu dois avoir les
+connaissances de base en marketing en
+finances dans toutes ses positions en
+produit et après tu dois trouver la
+personne
+qui est la plus à même de faire ce rôle
+et ce qui est si difficile c'est que
+quand tu l'as tellement fait quand tu as
+répondu tous les weekends intercom au
+chat quand mais en fait il y a peu de
+gens qui le font a priori aussi bien que
+toi et c'est là où je pense les gens
+font l'erreur de de de de pas arriver à
+déléguer c'est de se dire ok je le fais
+tellement bien je vais devoir prendre
+une personne la former lui apprendre ok
+perdre de temps je vais continuer à le
+faire alors qu'en fait c'est il faut
+absolument faire ça recruter une
+personne la former et et oui peut-être
+au début elle va être moins efficiente
+mais normalement vous êtes capable de
+recrouter des gens qui sont bien
+meilleurs que vous à chaque position et
+quand j'entends parfois me dit oui mais
+je n'arrive pas à recruter quelqu'un qui
+est meilleur que moi c'est qu'il y a un
+souci en vrai dans dans la position que
+vous avez de CEO tout le monde est
+meilleur que vous dans des positions
+définies la personne qui dirige les
+sales un meilleur commercial que vous
+c'est un meilleur manager que vous
+personne qui dirige le marketing le
+produit et cetera il est meilleur que
+vous et si je pense pas qu'il y a de
+contreexemple en fait et d'ailleurs ce
+qu'on attend on va y revenir du du CEO
+c'est pas d'être très fort dans
+l'exécution de certaines tâches au
+contraire c'est plutôt déléguer à la
+personne l'OM power lui donner toutes
+les ressources possibles pour qu'elle le
+fasse mieux que vous et ça c'est un
+challenge c'est très difficile on va
+dire de de
+lâcher et ensuite un bon indicateur pour
+ça quand vous essayez de transitionner
+de la phase 1 à la phase 2 la phase 1
+vous êtes quand même impliqué dans 100 %
+des décisions quoi dès qu'il y a une
+décision produit une décision marketing
+vous êtes impliqué on vous met dans la
+boucle et finalement vous vous tranchez
+et et quand vous êtes dans la phase 2
+quand vous êtes on va dire CEO le le
+chef du bateau et bien là l'indicateur
+c'est que vous devez prendre 10 % des
+décisions vitales de l'entreprise
+quasiment plus rien donc par exemple moi
+à doctrine je fais attention à ça
+c'estàdire que je fais attention à pas
+prendre plus de 10 % des décisions mais
+surtout je fais attention à ne prendre
+aucune décision c'estàdire que souvent
+je reste silencieux j'attends que la
+décision soit prise si je suis dans un
+meeting avec des personnes entre deux
+personnes et si jamais ils arrivent
+vraiment pas à prendre la décision je
+vais tout faire pour les forcer à
+prendre la décision mais jamais je vais
+apporter la solution ça c'est
+extrêmement frustrant parce que parfois
+vous savez ce qu'il faut faire parce que
+vous avez en fait plus d'information
+tout simplement il faut avoir le le
+courage de dire ok je vais tout faire
+pour qu'ils arrivent à la bonne décision
+et au moment où il la prennent juste
+dire OK et donc moi ça ça m'a été
+d'ailleurs reproché une fois enfin une
+personne qui arrive chez doctrine et qui
+venait d'une entreprise un peu une
+startup un peu traditionnel qui avait un
+un président un peu fort qui prenait
+toutes les décisions tout le temps ils
+étaient 50 et en fait si tu voulais
+faire quelque chose fallait forcément
+lui demander et sétonné pourquoi moi
+quand quand on discutait entre nous je
+ne disais rien en fait c'est ça où je
+pense qui est très difficile c'est de
+rien dire attendre que la bonne décision
+soit prise et acter la chose évidemment
+c'est beaucoup plus simple de courir
+partout et de dire oui il faut faire ça
+faut faire ça faut faire ça mais cette
+attitude elle est pas scalable
+c'est-à-dire que comme vous êtes
+doctrine et vous passez de Z0 à 4 an à
+personne il y a aucune chance pour que
+vous ayez la capacité à prendre des
+décisions pour une des valeurs de
+doctrine c'est knowledge is power et
+concrètement pour prendre des bonnes
+décisions il faut avoir la bonne
+information et quand vous êtes CEO vous
+êtes toujours le dernier à savoir quand
+vous êtes CEO enfin les les les gens qui
+sont vraiment au contact du terrain qui
+qui vendent qui font le produit et
+cetera ils sont assez éloignés de vous
+en terme hiérarchique en terme de
+positionnement en terme de ce que vous
+faites au quotidien donc si vous voulez
+prendre des décisions pour ces gens-là
+vous allez forcément prendre des maais
+décisions donc à notre sens la seule
+façon d'être bon dans le rôle du CEO et
+de bâtir une vraie organisation c'est de
+laisser ben les builders prendre des
+décisions et et et ça vous devez être
+clair et dès que je vois par exemple moi
+chez doctrine un manager qui veut
+prendre une décision sans avoir consulté
+les personnes en dessous sans que les
+personnes en dessous se disent ok c'est
+vraiment le le Move qu'il faut faire je
+le stoe direct parce que de 1 il va pas
+y avoir l'engagement des gens qui vont
+se dire ok c'est la bonne décision donc
+ils vont pas être ré s'il pensent que
+fondamentalement c'est la mauvaise
+décision et puis celui qui a le plus
+d'information pour prendre une décision
+de qualité ça bah c'est c'est la
+personne qui fait le qui fait le job au
+quotidien donc bref vous devez prendre
+10 % à peu près décision vous êtes
+silencieux tout le monde pr en fait et
+même pour donner un autre exemple quand
+quelqu'un vient me voir et me dit ok il
+y a ce problème analysons le problème
+ensemble voir on me dit ok là il faut
+que tu tranches je me demande toujours
+comment c'est possible qu'on arrive à me
+voir pour trancher sur ce sujet
+c'estàdire que dans toute l'organisation
+donc on est 80 personnes il y a 79
+personnes qui ont pas pu prendre la
+décision et là pour moi c'est vraiment
+des cas infime c'estd que si dans une
+boîte qui fonctionne bien une autres
+valeurs doctrine c'est liberté
+responsabilité donc on encourage la
+prise de décision individuel s'il y a 79
+personnes qui ont pas trouvé la réponse
+au problème et qui demande de trancher
+entre option a et option B c'est que là
+c'est vraiment on est dans le 0,99 % des
+des décisions les plus difficiles et
+souvent c'est pas le cas et donc souvent
+je renvoie à ok ben va voir cette
+personne et trancher entre vous et vous
+me dites la décision que vous avez prise
+là aussi il faut avoir un certain
+courage parce que parfois les décisions
+sont vous les jugez pas forcément bonnes
+alors parfois elles sont objectivement
+c'est pas les bonnes bon bah là
+qu'est-ce que vous faites c'est bon
+faites part de votre point de vue
+évidemment si c'est vraiment
+catastrophique vous franchement là j'y
+crois pas voici pour les 30 raisons pour
+lesquelles j'y crois pas mais sinon il
+faut laisser les gens voilà ce qu'on
+appelle nous la liberté et la
+responsabilité euh pour eux de prendre
+de prendre des décisions
+pour vous en dire plus sur donc là on
+est dans la phase où vous avez
+transitionneré la phase 1 à la phase 2
+donc là vous êtes company Builder in
+chief le but c'est de bâtir une
+organisation la plus robuste possible et
+la plus efficiente possible pour
+atteindre tous vos objectifs et on
+demande souvent quels sont les objectifs
+du CEO alors il y a il y en a
+quelquesuns je vais vous les lister
+c'est les objectifs principaux
+l'objectif numéro 1 c'est recrutement
+recruter l'équipe c'estàdire qu tout le
+temps vous devez scanner votre
+organisation et voir là où il y a des
+postes manquants al ça peut être des
+postes de managers ça peut être des
+postes d'exécutifs mais même des postes
+euh juste contributeur individuels et
+vous devez ou les recruter vous-même si
+c'est par exemple un exécutif un VP
+sales un VP product whatever et ou sinon
+pointer sur le fait que il manque des
+ressources et il manque des personnes
+donc ça c'est la première partie la
+seconde partie dans le recrutement c'est
+quand même recruter des personnes qui
+sont fortes ok donc ça vous devez avoir
+une culture du recrutement donc nous
+chez doctrine on a six étapes de
+recrutement avant qu'une personne soit
+recrutée on a des plein de choses comme
+on fait quatre référents de check avec
+18 questions à chaque fois enfin c'est
+assez poussé pour être sûr qu'on recrute
+les meilleures personnes chez nous et le
+rôle ne s'arrête pas là c'est qu'une
+fois que vous avez recruté les
+meilleures personne encore faut-il
+qu'elle soit capable de s'intégrer dans
+le collectif et donc c'est aussi le rôle
+du CEO de voir à peu près dans une
+équipe et de dire ok cette personne elle
+est très motivée elle est très forte
+mais comment elle va se comporter dans
+l'équipe un peu globalement chez doctine
+par exemple toute l'entreprise est
+scindée en groupe de se personnes l'idée
+c'est d'être plus efficient dans notre
+et plus agile donc en Tech pour certains
+viennent de l'univers tech vous voyez
+c'est c'est des Squad vous vous avez un
+Data scientiste un product manager un
+développeur Frontin un développeur
+backend et cetera et pareil dans la dans
+la dynamique sales l'objectif c'est
+qu'on perde pas en agilité qu'on agisse
+en petit groupe donc quand on recrute
+une personne il y a aussi cette question
+de ok comment elle s'insère dans notre
+collectif donc ça c'est sur la partie
+hing après il y a évidemment la partie
+qu'on appelle push the team c'est une
+équipe une fois que vous avez les bons
+players pour qu'elle performe il faut
+qu'elle soit drivé drivé par une vision
+drivé par des objectifs il faut qu'il y
+ait toujours quelqu'un qui dit ok on
+peut toujours faire plus parce que les
+les les limitations qu'on a dans la vie
+c'est souvent des barrières mentales
+qu'on se met on dire ouais on va pas y
+arriver ça c'est trop difficile et
+cetera quand nous quand on a levé de
+l'argent avec Do on a levé de l'argent à
+deux reprises on a levé 2 million
+d'euros en Sid en septembre 2016 et et
+100 millions en en 2018 quand on a fait
+notre première levée de fond on était
+trois on avait un salarié et on a levé 2
+millions d'euros et quand j'avais
+contacté différentes personnes demanda
+des conseils des gens qui avaient déjà
+levé des fonds à plusieurs reprises il
+m'avaient dit une chose il m'avit dit
+Nicolas c'est impossible de lever plus
+de 500 cas bon moi j'avais entendu leur
+conseil je ok c'est ça c'est 500 K lui
+il a levé de l'argent à 5 ou 6 fois
+c'est normal c'est à peu près ça lors de
+grandeur on va btir un truc et si là bon
+al la valeur numéro 1 doctrine c'est
+challenge de statuo évidemment quand ils
+m'ont dit ça je me suis pas résigné bon
+sinon on aurait perdu je me suis dit ok
+on va challenger et en challengeant on a
+mis le niveau d'ambition beaucoup plus
+haut et finalement on a lever beaucoup
+plus que que ce montant qui était censé
+être le montant limite et ce que je veux
+dire par cet exemple c'est que bien
+souvent dans les objectifs de croissance
+dans ce qu'on veut faire niveau produit
+dans la complexité on se limite
+intellectuellement un peu notre zone de
+confort en disant ok ça ça sera un
+objectif bien ambitieux en vérité il est
+jamais assez ambitieux donc le rôle du
+CEO c'est tout le temps de poucher dire
+en fait on peut faire plus on peut faire
+plus on peut faire plus et après
+l'équipe fait souvent plus parce qu'elle
+trouve les ressources nécessaires et
+c'est ça qui fait la différence je pense
+entre good company et great company
+c'est que great company ils sont
+toujours à poucher pour faire pour faire
+plus et ça c'est notamment le rôle du
+CEO ensuite il y a j'en un peu parler F
+the team c'estàd que les premières
+années effectivement vous avez besoin
+d'argent pour euh pour faire fonctionner
+l'équipe et ça c'est le rôle quasiment
+exclusif du CEO certains le font en
+binôme avec les autres cofondateurs à
+titre personnel et pour doctrine euh
+c'est uniquement le job du CEO de lever
+des fonds et de s'assurer des finances
+euh de l'entreprise parce qu'on voulait
+pas mobiliser deux autres fondateurs euh
+certains d'entre vous le le savent les
+lever du lever des fonds ça prend
+énormément de temps c'est complexe c'est
+chronophage et cetera et il faut bien
+vous dire que lever des fonds c'est
+quasiment un rôle à pleinemps et si vous
+le faites à trois coffondateurs Ben se
+pose la question de oK mais qui bosse la
+réponse c'est souvent personne quoi euh
+donc nous on a choisi d'avoir une seule
+personne moi qui dédié à ces tâches
+quand on souhaite lever des fonds et les
+autres qui continuent à bosser et à
+bâtir la boîte aujourd'hui comme on a
+des niveaux où c'est plusieurs dizaines
+de millions je suis épaulé par le CFO et
+une autre personne euh mais ça reste
+dans cette logique ça c'est la
+compétence exclusive du CEO évidemment
+c'est une c'est stratégiquement c'est la
+vie ou la mort si vous êtes mauvais sur
+ça bah vous êtes mort mais la plupart
+des attributions du CEO en vérité si
+vous si vous êtes mauvais la boîte va
+mourir ou la boîte va aller mal et vous
+allez devoir corriger vos erreurs mais
+c'est pas des attributions dire à
+prendre à la légère
+ensuite il y a ce qu'on appelle vendre
+la vision alors vendre la vision à qui
+déjà vendre la vision faut avoir une
+vision se dire ok mais concrètement si
+on projette l'espace-temps et on se
+retrouve dans 50 ans qu'est-ce qu'on
+veut faire c'est un peu ce qu'on a fait
+avec doctrine c'est de se dire ok nous
+notre job c'est de mettre à disposition
+l'ensemble de l'information juridique la
+rendre compréhensible pour que des
+professionn puisse prendre des décisions
+euh et qu'il y ait moins de personnes
+qui soient condamné qu' que le droit
+soit soit rendu de façon plus juste et
+et quand j'ai réfléchi je me dis ok mais
+concrètement est-ce que est-ce que dans
+100 ans les
+personnes vont toujours vouloir
+rechercher de l'information juridique et
+on essaie toujours de se projeter hyper
+long terme pour dire est-ce que c'est
+vraiment quelque chose qui fait sens par
+exemple est-ce que dans 100 ans les
+personnes vont utiliser un moteur de
+recherche juridique donc un search comme
+Google pour trouver de l'information
+juridique je suis pas sûr je suis sûr
+que tout le monde va continuer à vouloir
+rechercher de l'information et avoir
+l'information pour prendre des décisions
+est-ce que le médium ça sera un moteur
+de recherche juridique pas sûr est-ce
+que Google va hésiter dans va exister
+dans 100 ans pas sûr et donc l'idée
+c'est dans la vision de la société c'est
+de dire ok mais nous on on est pas on n
+pas un moteur de recherche juridique
+c'està-dire que demain on va peut-être
+trouver un autre médium par lequel on va
+distiller notre information et ça c'est
+hyper important parce que si vous mettez
+si tout le monde dans votre société
+pense que vous êtes un moteur de
+recherche un moteur de recherche un
+moteur de recherche le jour où il y a
+une nouvelle approche qui est développée
+qui consiste en fait à envoyer toute
+l'information dont la personne a besoin
+par email bah vous êtes morts quoi vous
+allez jamais faire le switch c'est un
+peu ce qui arrivé à
+Kodak Kodak ils ont inventé les
+appareils photos c'était l'une des plus
+grosses sociétés du monde tout se
+passait bien et puis ils ont pas vu ce
+switch vers vers le numérique ils ont
+pas su le comprendre c'était tellement
+loin de leurs activités et ils ont ils
+ont perriéclité quoi euh donc c'est
+important d'une part d'avoir avoir une
+vision important de la communiquer vous
+la communiquez à qui vous la
+communiqueer à votre équipe pour qu'elle
+fasse les ses ses des choix important
+d'avoir une vision et des valeurs c'est
+que tout le monde peut s'orienter euh
+d'ailleurs quand vous êtes CEO par
+exemple moi je refuse de plus en plus de
+de prendre des décisions individuel euh
+ou de de de de répondre vraiment à des
+questions de façon très spécifique et
+j'essaie d'y répondre de façon générique
+et avec des principes souvent en
+utilisant les valeurs de doctrine en
+disant ok mais là challenge de statu qu
+ou liber tes responsabilités et cetera
+pour que la personne elle ait toujours
+cette cette no stall et elle soit
+capable de de dire OK dans toutes les
+décision que je vais prendre je vais
+utiliser ces grands principes parce que
+de toute façon la personne quand elle
+vient me voir pour prendre une décision
+c'est peut-être 1 % du temps quoi donc
+la question c'est comment moi je
+explique comment 99 % du temps elle est
+capable de prendre des décisions à l'Ô
+de la vision la mission de la boîte les
+valeurs ensuite il y a un grand sujet
+qui est souvent euh j'ai l'impression
+critiquer alors quand on recrute des
+gens chez doctrine je leur demande
+souvent ok mais comment c doctrine par
+rapport à ton ancienne ton ancienne
+entreprise puis que moi ça j'ai j'ai peu
+la vision je connais beaucoup de CEO qui
+sont mes amis donc on on en discute
+après j'ai du mal à voir ce qui est une
+entreprise qui n'est pas doctrine en
+plus doctrine moi j'ai fondé doctrine
+directement après mes études j'ai j'ai
+jamais euh j'ai jamais côtoyé d'autres
+d'autres modes d'organisation des grands
+groupes des administrations et cetera
+euh et donc la communication nous c'est
+un des plus grands sujets chez nous on
+essaie d'avoir une communication les
+plus transparente possible envers tout
+le monde que tout le monde connaisse les
+objectifs où est-ce qu'on en est l'état
+financier de la boîte les grosses les
+grosses milestones et ça c'est le job
+quasiment exclusif du CEO c'est de bâtir
+une architecture de communication qui
+est efficiente au sein de au sein de de
+doctrine par exemple en gros il suffit
+pas de par exemple tous les lundis matin
+on fait un H hands meeting bref il y a
+tout il a il y a tout le monde et il y a
+différents interv qui communique à
+l'égard des employés ok ça c'est un
+élément de communication mais c'est pas
+la communication en tant que tel ce
+qu'on attend du CEO c'est de bâtir une
+architecture dans laquelle l'information
+transite de façon la plus efficiente
+entre les personnes entre les
+départements entre managers et cetera et
+donc par par communication j'entends pas
+juste le CEO qui arrive devant les
+employés et qui dit ah ouais voici les
+updates c'est pas ça le rôle c'est c'est
+justement s'il y a pas ça est-ce qu'il y
+a quand même une bonne communication au
+sein de au sein de la boîte bon vous
+avez communication aux employés
+communication euh aux clients c'est
+assez c'est assez important et souvent
+le CEO est l'image publique de
+l'entreprise voyez ça avec bon ben Steve
+Jobs Apple lar Lisson Oracle Facebook
+Zuckerberg et cetera c'est souvent la
+personnification de l'entreprise je
+pense que l'entreprise la plus
+personnifiée c'est Bloomberg est-ce que
+quelqu'un C aime Bloomberg dans les
+services financiers bon voilà Bloomberg
+c'est le nom de l'entreprise et le nom
+du fondateur bon il y a pas plus
+personnifié que ça quoi et donc
+forcément il est tout le temps en
+représentation devant les médias devant
+les clients et cetera ça c'est hyper
+important moi ça me prend à peu près 30
+% de montants aujourd'hui juste de la
+communication externe journaliste autres
+parties prenantes et c'est le rôle du
+CEO c'est ça pe ça peut-être assez
+chronophage si si je prends l'exemple de
+la presse vous répétez toujours la même
+chose avec certains prismes différents
+mais voilà c'est ça prend du temps et en
+attendant vous bossez pas sur des sur
+d'autres sujets donc il faut savoir bien
+compartimenter et bien le faire
+après il y a une autre question qu'on
+m'avait posée une fois donc donc là je
+vous ai donné les objectifs et sur une
+question qui est posée c'est est-ce que
+est-ce que tu nes CEO en fait il faut
+des aptitudes individuelles
+exceptionnell il faut ça ça ça et donc
+du coup tu une personne pourrait être
+CEO une autre personne ne pourrait pas
+être CEO ou est-ce que tu deviens CEO on
+va dire par l'expérience bon alors moi
+mon Guess c'est que tu peux tu deviens
+CEO en revanche il faut des caractères
+psycholog logque qui permet de résister
+à la pression et juste de pas pas
+t'écrouler dans le job il y a un bouquin
+qui s'appelle
+outliers qui explique que il faut 10000
+he pour devenir un top performer dans ta
+discipline par exemple Bill Gates il a
+commencé tellement tôt à développer il a
+fait ses 10000 heur de façon tellement
+effectif que quand il avait 25 26 ans il
+était hyper fort il était audessus de
+tout le monde si tu veux être usen Bolt
+B voilà il va falloir pratiquer 10000 he
+où tu es au niveau
+top mondial et après bon des milliers
+d'heurs pour être le numéro 1 et donc la
+problématique quand même avec CEO c'est
+que si tu veux c'est pas vraiment comme
+comme l'informatique entre guillemets ou
+l'informatique ou n'importe ou le violon
+où tu peux jouer tout seul bah si tu
+veux pratiquer tes 10000 he de CEO bah
+il faut déjà que tu sois CEO et ça c'est
+le plus grand dilemme et un article
+d'enovit à ce sujet c'est Queen fait la
+seule façon d'apprendre à être CEO bah
+c'est d'être CEO c'est c'est quelque
+chose qui tu peux pas l'apprendre autre
+part parce que tu peux apprendre
+peut-être je sais pas le le management
+les les bilans financiers mais de subir
+la pression psychologique en permanence
+le choix les moments difficiles les ça
+la seule façon c'est c'est de c'est de
+le faire finalement tu step up dans dans
+le job parce que tu as voulu fonder une
+société et il y avait trois personnes il
+y en av un c'est le CTO l'autre qui
+s'occupait du produit et toi c'est le
+CEO et tu pensais que ça fait sens tu
+commences comme ça et là tu découvres je
+pense assez rapidement euh si tu vas
+tenir dans la durée parce que c'est un
+marathon qui veut peut-être prendre 10
+ans 20 ans la question c'est quand
+est-ce que toi euh tu vas t'effondrer
+parce que je vais venir au niveau des
+difficultés c'est quand même un job qui
+est peu enviable euh je sais qu'il y
+avait euh Elon Musk qui faisait une
+interview et le journaliste tu disais ah
+là là mais tout le monde rêverait d'être
+Elon Musk vous envoyez des fusées vous
+êtes CEO je sais pas quoi et le mec le
+regarde il devient tout blanc et l' mus
+qui lu dit mais vous êtes malade
+personne au monde aimerait euh être moi
+en fait et faire ce que je fais personne
+si je lui expliquis concrètement ce que
+je faisais et je pense qu'il a raison si
+il y avait Elon Musk ici zuckerb qui se
+mettait à N déclire le quotidien et la
+pression qu'il prennent imaginez-vousang
+2 minutes personne lèv la main personne
+la M donc la question c'est comment dans
+un job où si quelqu'un t'expliquait
+vraiment ce que c'était tu dirais non
+comment tu arrives à te maintenir et à
+devenir que concrètement quelqu'un lui
+aurait expliqué ce que c'était d'être de
+Facebook le gars il aurait dit non
+aujourd'hui il y est donc la question
+c'est comment il a fait quelle
+difficulté il faut surmonter bon les
+difficultés je je vous en liste pareil
+j'ai pris une liste qui qui a été
+publiée par andren orovitz un des plus
+gros fonds d'investissement de la
+planète euh il y avait notamment
+celui-ci qui est assez drôle c'est le
+CEO psychological meltdown et on prend
+une allégorie de Fight Club je sais pas
+si vous avez vu ce film dans ce film la
+règle numéro 1 donc Fight Club c'est ils
+organisent des combats clandestins et la
+règle de numéro 1 c'est de ne pas parler
+de Fight Club donc de pas parler des des
+combats clandestins et fait l'analogie
+avec la position de de CEO et le la
+difficulté psychologique c'est que la la
+règle numéro 1 c'est que tu n en parle
+jamais et d'ailleurs quand tu ASAS des
+CEO tu peux rarement voir que ça va pas
+dans leur vie que le mec qui dort pas la
+nuit que il peut peut-être en parler je
+sais pas vous avez vu Teddy de HCH
+apparemment ce mec est vraiment très
+très fort quand vous le voyez dites ok
+tout va bien mais il est quand même
+passé par des cases hyper difficiles
+mais ce qui fait qu'aujourd'hui il est
+très très très fort en tant que en tant
+que CEO mais auelà de ça la personne va
+jamais se se se confier à vous par
+contre ce qui est un peu drôle c'est que
+quand vous regroupez avec des CEOs
+autour d'une bière d'une pizza et cetera
+que vous relâchez un peu la pression
+[ __ ] là tu vois le drame psychologique
+dans chacun des des individus c'est
+choant quoi et parfois tu vois des gens
+qui sont détruits psychologiquement quoi
+qui sont tout en bas et on on y
+reviendra plus tard mais comme c'est un
+job où tu es fondamentalement seul bah
+c'est compliqué de de remonter la pente
+et c'est ça à mon avis qui fait
+si tu es bon ou pas pour ce job bon tout
+ça pour dire que c'est difficile
+psychologiquement parce que je vais y
+venir il y a plusieurs raisons déjà il y
+a nobody to blame c'est que souvent
+quand ça va pas tu peux toujours accuser
+tu peux toujours accuser quelqu'un entre
+guemets il y a le contexte il y a le
+marchéou je sais pas quoi mais souvent
+dans une entreprise tu dis oua mais
+attends c'est clairement la faute du
+marketing non mais attends c'est la
+faute du produit ouais c'est la faute de
+ce mec tu peux le dire oralement bon
+c'est un peu nous che doctine c'est très
+mal vécu quoi si quelqu'un dit c'est pas
+ma faute c'est la faute de quelqu'un
+d'autre c'est c'est le pire truc que tu
+puisses faire quoi parce que comme tu
+assumes pas ta responsabilité c'est très
+très mal vu et au moins même si tu le
+prononces pas à l'oral tu peux le penser
+quand tu es CEO en fait c'est impossible
+de le penser tu peux pas dire enfin tout
+est de ta faute parce que l'organisation
+on va dire pour simplifier c'est une
+pyramide tu es au-dessus y a personne
+auudessus quoi c'est tout le temps de ta
+faute tu tu peux pas dire c'est le bon
+c'est tout tout est de ta faute et ça
+c'est vraiment très très personnel mais
+quand vous qu'on narrive pas à recruter
+je sais pas une personne chez doctrine
+quand il y a un manager qui a trop de
+direct report quand il y a un truc qui
+foire en marketing moi je me dis tout le
+temps [ __ ] c'est de ma faute c'est de
+ma faute si ça va pas et et ça c'est
+impossible ça sera tout le temps comme
+ça ça va jamais changer quand bien même
+vous étiez externe à ce qui s'est passé
+à la fin l'échelon final c'est vous et
+donc ça il il faut être capable de
+l'assumer quand je vous disais que
+c'était un un job dans lequel tu es seul
+tu es seul parce que dans dans une boîte
+vous savez il y a des moments où ça va
+ça va très bien c'est des grands pics
+très haut puis y a des moments où ça va
+ça va pas du tout je sais pas vous avez
+plus d'argent pour pour payer les
+salaires il y a des décisions
+extrêmement difficiles à prendre enfin
+bref ça va pas du tout et ben là
+fondamentalement vous êtes seul parce
+que vous les allez pas en parler aux
+gens qui sont autour de vous parce que à
+la base vous êtes un leader donc le
+leader il va pas s'asseoir à côté je
+sais pas de de ses exzec ou même de de
+de certains de ses employés et dire
+[ __ ] les mecs là ça va pas je sais pas
+quoi faire c'est horrible je sais pas
+quelle décision je vais prendre pile ou
+face de toute façon c'est la peste et le
+coléra j'en peux plus moi je dors pas la
+nuit quoi ça ça marche pas parce que tu
+fais ça tout le monde se barre quoi
+c'est c'est c'est c'est fini en fait et
+donc tu toujours être fort et tu peux
+pas te confier al tu peux pas te confier
+aux gens qui qui sont dans la boîte tu
+peux peut-être parler au board aux
+investisseurs et cetera mais ça ça
+fonctionne pas trop parce
+que un investisseur ou un boord qui qui
+te voit tous les quarturs il a assez peu
+d'information sur techniquement comment
+ça se passe à l'intérieur de la boîte
+c'est quoi la Cult ure comment ça évolue
+et et si tu veux le mettre au courant de
+tout ce qui s'est passé dans l'optique
+de prendre la décision c'est trop tard
+ce qui compte c'est de prendre des
+décisions rapidement et trancher donc
+finalement tu tu es seul tu peux te
+regrouper vers ta famille et cetera mais
+pareil ils vont pas t' t'aider à
+trancher et juste te dire bon ben je te
+soutiens et cetera ça a pas ça a pas
+apportter grand-chose et donc c'est un
+job où tu es tout seul il y en a
+d'autres j'ai vu que Barack Obama il
+avait fait une longue interview un jour
+et et quelqu'un lui disait mais ah là là
+qu'est-ce qui est si difficile d'être
+président des États-Unis et cetera et le
+mec disait mais tu es tout seul ENF la
+phrase tu es mieux formulisé tu es
+entouré de tout le monde et tu es tout
+seul tu tuas autant de conseillers que
+tu veux tu tu mais finalement quand il
+faut prendre une décision entre A et B
+des décisions vraiment difficiles bah il
+y a que toi qui peut les prendre et
+après tu dois assumer les conséquences
+c'estàdire que ça va être peut-être mal
+perçu par les personnes en interne par
+les personnes en externe et va falloir
+l'assumer et ça c'est l'une des plus
+grandes difficultés du job et pour les
+personnes en plus quand tu prends une
+décision difficile euh et que tu as
+raison mais on va dire dans dans dans 4
+5 ans c'est c'est compliqué quoi quand
+tu es Steve Jobs tu arrives à Apple et
+cetera enfin tu tu te fais virer tu
+reviens tu vires la moitié de l'équipe
+rid tu relances des nouveaux produits
+auquel personne ne croit ça marche pas
+et puis tu dis non c'est par là où qu'il
+faut aller bon ben le gars il est
+détesté quoi évidemment 5 ans après ah
+bah ouais c'est un génie tout ça mais en
+attendant a passé 5 ans ça devait pas
+être top
+quoi donc tout ça pour dire que c'est un
+job où il y a des difficultés
+psychologiques en fait tu ne peux pas
+t'arrêter d'y penser en plus en plus
+quand tu penses tu penses que tout est
+de ta faute et comme le job du bon CEO
+c'est de résoudre des problèmes qu' a
+dans l'organisation tu penses rarement
+aux choses qui va bien parce que pour
+faire avancer et c'est ce que ce qu'on
+fait beaucoup chez doctrine c'est que
+pour avancer gr modo faut prendre des
+problèmes casser les problèmes trouver
+des solutions et donc te concentrer sur
+ce qui va bien les éléments positifs bah
+ça amène pas de croissance ça fait rien
+ENF la boîte elle bouge pas donc tu es
+sans cesse en train de te poser des
+questions te torturer l'esprit sur les
+problèmes et ce qui fait que ouais ben
+c'est difficile de dormir la nuit
+parfois bref et ce qui fait que c'est
+assez difficile et c'est pour ça que
+parfois il y a des gens vous voyez qui
+sans donner un exemple mais qui qui
+collapsent quoi enfin du jour au
+lendemain ils sont en burnout et ils
+arrivent plus donc ça c'est vraiment ce
+qui rend le job unique donc de quoi le
+CEO a besoin pour résister je
+dirais il a besoin de feedback alors
+pour une raison qui est assez simple je
+vous l'ai dit mais quand vous êtes CEO
+vous êtes le dernier à savoir par
+exemple chez doctrine donc chez doctrine
+on a des bureaux 24 rues du mail dans
+Paris on a 5 étages je pense sincèrement
+que s'il y avait le feu dans les bureaux
+je seraiis la dernière personne au
+courant parce que tu aurais toute
+l'organisation qui fonctionne bien avec
+chacun qui se dit ok on va résoudre le
+problème ouais on va résoudre le
+problème on va appeler les pompiers on
+va commencer à l'éteindre et cetera
+machin et et tu aurais des gens qui vont
+venir voir et dire bon il a il y a un
+peu de la fumée t'inquiète c'est sous
+contrôle et normal le leur job c'est de
+prendre des décisions et de résoudre des
+situations et de m'alerter entre
+guillemets que qu'au moment fatal mais
+au moment fatal c'est quand il y a le
+feu partout et et c'est compliqué et
+donc vous êtes le dernier à savoir et
+par exemple il y a des situations des
+situations enfin people avec certaines
+personnes ou des il y a des quand il y a
+des trucs qui marchent pas le jour vous
+vous comprenez que ça marche pas il
+c'est passé un temps plus ou moins long
+mais en tout cas je sais pas il y a des
+problèmes en sales mettons bon ù les
+sales qui disent ok en fait c'est plus
+possible de vendre de cette manière et
+ben entre le moment où la personne va le
+comprendre sur le terrain va le formuler
+à mettons son manager et à plusieurs
+fois et là le manager va comprendre ah
+ouais non c'est vraiment un big pain qui
+va le formuler au VIP et le VIP que j'en
+parle machin [ __ ] il s'est passé 3
+semaines et c'est foutu et donc tu as
+besoin de feedback au quotidien de tout
+le monde moi par exemple je déjeune avec
+un employé au hasard chaque chaque midi
+et on discute un peu de la boîte et
+c'est souvent là où j'ai le plus
+d'informations utiles pour faire mon job
+juste en déjeunant avec des personnes je
+vais pareil à la machine à café j'ai
+deux endroits dans la journée où je vais
+à la machine à café j'y vais
+essentiellement pour discuter avec des
+personnes de façon random et avoir de
+l'info parce qu'en fait à la machine à
+café tu as des gens qui disent ah ouais
+mais en ce moment ça se passe comme ça
+sur le marché et là en fait tu viens
+d'avoir le signal dont tu avais besoin
+pour prendre une décision ou pour penser
+un peu plus long terme et donc c'est la
+seule façon de l'avoir et donc il faut
+entretenir ce cette logique de
+donnez-moi des feedback tout le temps
+est-ce que les gens font peu vous verrez
+parce que du fait que vous êtes le CEO
+le rapport
+change je vous donne un exemple j'arrive
+un lundi matin chez doctrine bon
+j'arrive et je 7h30 et là je croise les
+personnes qui font le ménage bon on
+discute et cetera on discute 15 minutes
+lorville les transports ah c'est un peu
+galère je sais pas quoi l'alarme enfinf
+on discute et elle me dit ok mais vous
+faites quoi chez doctrine et je dis ben
+je suis président de la société et là il
+y a eu un avant et un après et elle a
+changé elle me parlait plus je je posais
+les mêmes questions avec le même sourire
+avec ma même tasse doctrine avec mon
+café elle ne me répondait plus c'était
+un peu le le élément de langage elle
+voulait partir quoi et et et ça donc là
+c'est le c'est le cas ultime mais en
+fait c'est comme ça avec tout le monde
+et avec une personne dans l'organisation
+jeis pas chez doctrine elle se dit ah
+ouais j'ai quelque chose à dire est-ce
+que je va en parler à Nicolas c'est
+vraiment un truc complètement random et
+cetera c'est souvent très random et très
+petit et donc forcément elle veut pas te
+te ranger et là tu as pas l'information
+donc et même quand la personne a quelque
+chose de elle sait que là il faut
+vraiment en parler je peux vous dire que
+combien vous êtes accessible moi j'ai
+mon bureau en plein milieu de l'OP space
+danss open space je je suis au milieu
+defin de tout le monde il faut juste
+taper sur mon épaule mais pour autant
+voilà faire l'action de de de déranger
+de dire ok j'ai vraiment sujet je sais
+pas si c'est important mais voilà et
+donc là le rôle en tant que CEO c'est de
+toujours toujours valoriser le feedback
+la seule réponse utile que qu quelqu'un
+vous dit quelque chose c'est merci
+beaucoup d'avoir fait ça même si ce
+qu'on vous dit c'est complètement
+inutile ça vous ne sert à rien c'est
+fauxf je sais pas même si la personne
+vous insulte vous dites al franchement
+merci d'être venu me voir parce que si
+vous faites pas ça vous allez entretenir
+une culture où plus personne va vous
+venir vous voir ça sera extrêmement
+mauvais bon avoir des bons investisseurs
+ça peut aider donc je l'ai mis dans la
+liste c'est dans la liste des des best
+practic effectivement si vous avez des
+des investisseurs qui sont qui vous
+supportent dans les moments où ça ne va
+pas que dans les moments où ça va tout
+le monde vous supporte hein
+c'est c'est bien ça brille je sais pas
+vous avez levé des fonds vous êtes en
+vogue et cetera je peux vous assurer que
+quand vous êtes en dessous là quand ça
+va plus du tout que que je sais pas il y
+a la mauvaise presse sur vous que mais
+là mais plus personne vous êtes l'amis
+de plus personne si aussi il faut se
+rendre compte vous êtes l'ami de tout le
+monde et moi je sais c'est c'est une
+blague en interne chez doctrine mais il
+y a souvent des gens qui viennent me
+voir et me dis ouais j'ai vu cette
+personne elle m'a parlé elle m'a dit que
+elle te connaît et que vous êtes potes à
+chaque fois je regarde la personne je
+dis mais attends mais je connais pas du
+tout
+mais voilà vous vous êtes spontanément
+souvent l'ami de tout le monde ou les
+gens veent être votre ami ou je sais pas
+les journalistes sont sympas avec vous
+tout ça jusqu'au moment où vous êtes en
+dessous et là faut bien comprendre il y
+a plus du tout du tout du tout personne
+donc si vous êtes quelqu'un qui si vous
+êtes un CEO qui vit à travers du regard
+des autres vous avez besoin de briller
+vous avez besoin de sais pas quoi ça va
+pas le faire quoi parce que quand vous
+êtes en dessous et que vous allez rendre
+compte qu'en faitah vous avez plus
+d'amis là ça va être un peu compliqué al
+investisseurs ça peut aider si des gens
+qui sont vraiment supportifs quand ça va
+pas et qui dit ok moi je je crois à la
+vision long terme au truc ouais c'est un
+moment difficile à passer mais on est
+derrière toi enfin rien que des paroles
+ça peut vraiment vous aider dans la
+liste il y avait aussi à se faire des
+amis bon c'est un peu c'est un peu
+particulier mais c'est un job qui est
+tellement
+prenant finalement c'est difficile
+d'avoir du temps pour soi moi quand je
+regarde mon agenda
+bah voilà je commence lundi je vous l'ai
+dit enfin je fini le soir généralement
+assez tard j'ai peu de place pour ma vie
+privée alors en plus pire j'en accorde
+moi-même assez peu donc finalement euh
+tu as il faut faire attention de
+toujours avoir quand même un un cocon de
+personnes qui sont suffisamment proche
+de toi parce que quand ça va pas aller
+et que tu vas être tout seul chez toi et
+que ça va être très difficile tu as
+quand même besoin de quelqu'un qui
+viennent et qui dit ok on est potte il y
+a pas que ça dans la vie t'inquiète ça
+va aller et ce qui fait que le lendemain
+tu tu vas tu vas te lever tu vas aller
+devant les équipes et tu tu vas résoudre
+tous les problèmes mais si tu as pas ce
+ce cocon qui peut être les les amis ou
+la famille très très proche les vrais ça
+peut être très difficile et donc ça je
+on en discute souvent entre nous mais il
+faut vraiment avoir un ou deux potes
+dans lequel tu sais que tu as vraiment
+vraiment vraiment confiance peu importe
+euh ce qui va se passer
+euh il y avait aussi euh ça qui
+concrètement quand tu es CEO donc il y a
+un truc qui est difficile c'est que tu
+penses tout le temps tout le temps tout
+le temps tout le temps à la boîte moi je
+pense tout le temps à la doctrine c'est
+impossible de m'arrêter impossible
+impossible al j'étais comme ça aussi
+quand j'étais quand j'étais jeune mais
+là c'est vrai vraiment c'est vraiment
+particulier quoi je pense mais qu'à ça
+tout le temps à n'importe quel moment et
+le peu de moment où je déconnecte c'est
+je je suis fatigué je sais pas quoi je
+un anniversaire avec des personnes il
+suffit que une personne mentionne
+quelque chose qui est dans mon univers
+je fais du droit j'aime la technologie
+je je fais je sais pas quoi ok un truc
+stupide je vais direct ma dès que ça me
+stimule un petit peu c'est je sais pas
+les gens les gens commencent à jouer aux
+cartes alors là des trucs comme ça je me
+dis c'est un challenge ah ouis challenge
+en fait c'est doctrine et c'est
+impossible tu pense tout le temps alors
+moi je je pense c'est compulsif il y a
+peut-être un autre problème par ailleurs
+mais ce qui est très utile c'est de
+mettre ce que vous pensez sur papier et
+al ça c'est vraiment c'est game changer
+vous mettez sur papier et maintenant moi
+je le communique différentes personnes
+de l'équipe je dis ok j'ai pensé ça ça
+vaut ce que ça vaut je l' pensé à tel
+moment et cetera et franchement c'est
+c'est très utile parce que souvent ce
+travail perpétuel si vous coucher sur
+papier bah ça aboutit à des à des à des
+résultats qui vont vous aider à
+progresser et si vous faites jamais cet
+exercice en fait ça reste dans votre
+tête ce qui la particulier aussi c'est
+que vous y pensez tout le temps donc il
+y a un moment c'est très clair pour vous
+mais c'est clair pour personne c'est pas
+clair pour les investisseurs c'est pas
+clair pour les employés c'est pas clair
+pour pour votre team et cetera donc
+c'est très important de de l'écrire et
+moi j'envoie régulièrement des notes à
+certaines personnes dans la boîte ou
+parfois même à toute la
+boîte bon ça c'est hyper important c'est
+focus on the world
+ce qu'il faut comprendre c'est que
+souvent vraiment quand on vient souvent
+il y a des murs quoi souvent tu bah
+voilà ça marche pas quoi vous êtes en
+plein dans le mur et là c'est là où il
+faut être très bon en tant que CEO c'est
+que souvent les gens se concentrent sur
+le mur parce que les gens ils ont la
+tête dans le guidon ils font leur ils
+font leur travail et là bam il y a un
+énorme mur il disent ok c'est plus
+possible ils perdent d'espoir ou il se
+projettent pas et en fait tout le job du
+CEO c'est de se dire ok mais c'est c'est
+pas le mur quoi c'est c'est c'est la
+route le mur c'est un obstacle on va en
+passer un on va passer deux on on va
+être optimiste et et et ça c'est une je
+pense c'est une qualité individuelle
+d'être optimiste et et de voir un peu un
+peu long terme parce que quand vous
+arrivez pas à recruter je sais pas un
+vipi ou il y a certaines personnes qui
+vont dire non mais c'est impossible ça
+marchera pas ou et qui vont être dans
+cet élan de négativité qu'ils vont pas
+se rendre compte Queen fait tous les
+gens autour d'eux ils vont se dire bah
+ouais il y a il y a un mur c'est fini et
+en plus un des leaders a dit qu'il y a
+un mur ok du coup on va pas être capable
+de de de de passer l'obstacle et le rôle
+du CEO c'est dire ok c'est OK
+intéressant ouais effectivement il y a
+un mur on va le passer il y a une route
+on va s'améliorer et cetera et ça c'est
+intéressant parce que les les gens
+eux-mêmes je dis ils se mettent des
+barrières mentales et c'est des choses
+toppeurs c'est ah non j'arriverai pas
+c'est fini on arrête d'y penser et quand
+bien même ils se disent bon faut quand
+même essayer cétait dans l'état mental
+de on va pas y arriver bah c'est sûr que
+tu vas pas y arriver quoi et en plus
+quand tu veux construire une compagnie
+enfin une société fa en sorte que ça
+soit un géant mondial dans quelques
+années faut être sacrément optimiste
+quoi sacrément optimiste sacrément
+ambitieux et tu as pas besoin de gens
+négatifs et tu as pas BES Besin de gens
+qui sont des des showstoppeurs et qui se
+disent non j''yarriverai pas en fait
+c'est c'est naturel tout le monde est
+comme ça à un moment donné mais c'est le
+rôle du CEO de dire non mais on va
+passer l'obstacle et on va on va parler
+du coup d'après
+quoi bon et l'un des l'une des choses
+les plus importantes c'est decision
+making c'est là où on vous attend le
+plus c'est je vous dit dans le 1 % des
+décisions qui sont vraiment ce que le
+CEO doit faire des décisions où vraiment
+personne ne peut trancher bah là il faut
+trancher sachez que vous allez toujours
+trancher en information imparfaite alors
+il y a deux choses he vous pouvez
+toujours
+demander au sein de votre organisation
+ok donnez-moi ces infos j'ai besoin de
+ces infos pour décider j'ai besoin de ça
+comme ça je je comprends je ressens un
+peu la situation et je fais un choix
+logique mais vous aurez jamais
+l'information parfaite et comme la
+vitesse compte plus
+que prendre le temps d'avoir la bonne
+info et et trancher même même même la
+qualité des décisions il y a un moment
+faut juste il aller il faut dire OK Go
+on va dans cette direction on commite on
+est à 200 % et voilà quoi et ça c'est
+difficile parce qu'en plus en tant que
+Français la différence d'un Américain
+qui est extrêmement bourrin qui est là
+ok on y va on y va go go go go go machin
+on décide nous en tant que Français
+c'est vrai qu'on aime bien un peu se
+réunir regarder les trucs regarder les
+chiffres machin et souvent tu te fais
+apper en disant ouais peut-être si on
+avait plus d'information pourrait
+prendre une Meille décision tout ça et
+c'est difficile de s'arrêter dire ok top
+on décide on va dans cette direction
+point barre donc les la compétence de
+decision making elle est elle est hyper
+utile bon du courage je vous je vous en
+ai un peu parlé mais
+Teddy de H a dû vous l'expliquer
+peut-être mieux que je le ferais moi il
+y a vraiment des des cas où où plus
+personne y croit ou alors c'est très
+difficile et il faut être faut être très
+courageux quoi et dans et doctrine un
+peu comme h un peu comme les entreprises
+comme Airbnb un peu comme uber un peu
+comme Netflix quand vous vous attaquez à
+des mastodontes free par exemple et les
+opérateurs téléphoniques qui ont des
+positions oligopolistiques qui sont très
+gros qui sont là depuis des centaines
+d'années qui peuvent être extrêmement
+agressif à votre rencontre bah il y a un
+moment faut être courageux et c'est ça
+qui fait la différence au sein de vos
+équipes et juste juste pour la boîte
+quoi et enfin c'est le dernier j'en
+terminerai par là c'est peut-être le
+plus
+important mais quand tu discutes avec
+plusieurs CEO qui pour eux sont
+complètement à la phase 3 je parle NOTAM
+CEO trito et cetera quand tu leur
+demandes comment ils ont fait pour
+réussir et ben de façon surprenante
+enfin surprenant
+pas tant que ça mais il te parle pas de
+le choix stratégique qu'ils ont fait à
+un certain moment la personne qu'ils ont
+recruté au bon moment et à quel point
+c'est des génies d'avoir compris leur
+marché et d'avoir fait ce ce type de
+produit et cetera les mec il parl d'une
+seule chose et disent j'ai pas j'ai pas
+quit je suis pas parti j'ai pas
+abandonné en fait il y a tellement de
+cas où ça serait plus facile
+d'abandonner et où ça serait même
+rationnel d'abandonner et c'est ça je
+pense qui fait la différence entre entre
+être bon et être très bon c'est d'être
+commite et te dire c'est jamais jamais
+un choix que d'abandonner après ça va
+venir naturellement à ton esprit à
+certains moments où c'est très difficile
+et c'est là où il va falloir être
+capable de dire ok non c'est mort
+j'abandonnerai pas une personne qui a
+mon avis très forte pour ça même si
+aujourd'hui il est très déccrié pour
+d'autres choses qui est Travis le CEO de
+uber c'est quand même un mec qui a fait
+de trois entreprises avant où il est
+allé jusqu'au burnout donc là on est on
+est face à un me qui a jamais quit
+jusqu'au moment où son corps a lâché et
+il a dû abandonner OK et après sur uber
+je pense qu'ils ont gardé un peu cette
+même ADN c'est quand même une entreprise
+qui s'est fait interdire de San
+Francisco sa ville d'origine après 2 ans
+enfin qui a eu plein de problématiques
+et le mec a aucun moment il s'est dit
+enfin à aucun moment il a craquer au
+point d'abandonner toujours envoyer et
+ça c'est ce qui fait vraiment je pense
+la la différence quoi il faut vraiment
+se se se commite à 200 %. si tu dis à un
+moment donné je vais arrêter je c'est
+mort quoi parce que combien même tu tu
+tu le tu le fais pas enfin ça va être
+trop fort dans dans son si tu te gardes
+la possibilité je pense de te dire si ça
+va vraiment très très mal
+j'arrête c'estàd que quand ça va très
+très mal aller ce sera plus enclin à
+prendre cette décision qui est pas une
+décision stupide parce qu'elle est
+sûrement rationnelle mais en tout cas
+c'est pas la décision qu'il faut prendre
+pour
+réussir merci beaucoup
+[Applaudissements]
+j'en profite pour vous laisser mon enfin
+je vais répondre à toutes vos questions
+euh et sinon vous avez mon adresse email
+qui est nicolas@as dooctrine.fr a pas
+fait dans l'originalité pour ça euh et
+vous avez aussi doctrine.fr/job je vous
+l'ai dit on va recruter une 80 personnes
+cette année donc on a tous les posts on
+recrute à peu près partout et donc si
+vous allez sur
+doctrine.fr/job vous allez avoir toutes
+les opportunités pour rejoindre doctrine
+et plus en savoir plus sur la culture de
+la comment on bosse voilà ça peut vous
+intéresser
+ah merci c'était super inspirant j'ai
+une question par rapport au à la gestion
+du
+stress très concrètement en fait comment
+tu quelles sont tes routines pour gérer
+le stress est-ce que c'est le tu as
+parlé des amis est-ce que c'est le le
+sport la méditation la drogue l'alcool
+voil c'est pas la drogue l'alcool c'est
+peut-être une solution en tout cas c'est
+pas la
+mienne moi je bois pas je bois pas je
+fume pas je ne drogue pas donc j'ai un
+mode de vie quand même extrêmement sain
+je pense que c'est utile et tu tu
+remarqueras que quand tu discutes avec
+plusieurs CEO qui sont un peu des boîtes
+au niveau de doctrine 80 salariés après
+3 ans qui ont des des projets de de
+doublé c'est souvent des gens qui ou
+avaient un mode de vie très très sa dès
+le début ou qui switch vers un mode de
+vie euh sain ils arrêtent de fumer ils
+arrêtent de boire et cetera parce que
+bon sinon c'est trop c'est trop
+compliqué donc voilà donc je je ne fume
+pas je ne bois pas je ne me drogue pas
+c'est illégal d'ailleurs euh sanctionné
+par le code pénal jeis vous invite à
+regarder sur sur sur doctrine au-delà de
+cet aspect ouais il il y a plein de
+trucs par exemple moi je je sais pas
+j'essaie de dormir 7h par nuit minimum
+et ça je je me mets vraiment hors de
+question de de faire une nuit blanche je
+sais que ça va trop altérer ma
+productivité sur les jours suivant et
+pire encore moi quand je dors pas
+eu comme vous je suis fatigué mais en
+plus j'ai l'impression de prendre plus
+le stress quoi et et ce qui est pas bien
+quand tu prends le stress en tant que
+CTO c'est que en tant que CEO pardon
+c'est que souvent tu vas la R desendre
+aux gens tu es stressé PAM tu vas
+l'envoyer aux gens euh une personne je
+sais pas au VP sales qui lui il va
+l'envoyer sur son manager qui va
+l'envoyer sur le sales qui va l'envoyer
+au clients quoi euh donc bon il faut
+éviter donc voilà je je fais tout ma
+routine c'est ça je dors je suis je
+mange équilibré je vais à la salle de
+sport trois fois par semaine le matin et
+voilà quoi merci Nicolas pour cette
+intervention moi je suis entre la phase
+1 et la phase 2 et euh il y a un sujet
+qui est hyper important c'est la
+question de l'ego ouais ou et moi la
+difficulté que j'ai c'est que je me
+sentais vachement valorisé je faisais un
+peu de tout et cetera comme tu disais et
+le jour où tu dois te te te où je me
+fais d'ailleurs virer par mes propres
+salariés c'est que à la fin ce qui est
+difficile c'est que je sais plus quel
+est mon rôle quelle est ma valeur dans
+la boîte et c'est vachement dur de
+retrouver une sorte de base on se dit
+mais à quoi je sers c'est une question
+que je me pose en permanence c'est
+comment toi tu as fait la transition
+dans cette entre cette phase 1 et phase
+2 de même pour toi en tant qu'individu
+en fait c'est très compliqué c'est
+valable pour le CEO c'est valable aussi
+pour d'autres positions comme le ctoo et
+enfin toutes les personnes qui sont les
+les fondateurs de l'entreprise et qui
+sont là au début bon legego c'est hyper
+important la la problématique étant que
+tu fais bien ton truc tu es un bon
+individual contributeur tu sais que
+c'est toi qui fait progresser la boîte
+notamment par tes
+actions tu es reconnu par tes pères pour
+ça donc ça c'est un peu le côté ego et
+tu as du mal à lâcher prise tu as du mal
+à lâcher prise pour ton ego personnel
+parce que tu sais que tu es bon c'est ça
+que tu veux faire et tu as du mal à
+lâcher prise parce que les gens te
+projettent dans ce rôle et en fait si tu
+as plus rôle bah tu existes plus et là
+pour l'ego bah ton ego en prend un
+coup
+moi j'ai plein de défauts mais pour
+l'ego je pense pas en avoir beaucoup ça
+m'a ça m'a pas posé problème c'est là
+que quand je suis parti de de tâche don
+d'une part j'avais conscience que
+c'était mon rôle mais ça m' ça m'a pas
+gêné autre mesure donc tu vois moi je
+suis pas la personne parce que moi je
+suis pas un micro manager je suis
+vraiment très macro et donc j'aurais
+jamais cette attitude parce que c'est
+pas iné en moin de de d'aller voir une
+personne en produit lui dire non mais
+attends c'est ça qu'il faut faire ou ou
+de courir sur le mec au marketing et
+dire non non non non fais ça fais ça
+fais ça fais ça ce qui est une vraie
+problématique moi j'ai pas ça après il y
+a l'autre partie de ta question qui est
+en fait quel est mon rôle et c'est là
+c'est difficile c'est quand tu as pas de
+rôle en fait mais quand tu as pas de
+rôle et ben les gens ne te situent pas
+dans l'organisation et tuexistes pas
+entre guillemets quoi tu es le et et là
+l'erreur la plus fondamentale mais qui
+est la plus humaine c'est de se trouver
+un rôle que tu connais déjà et tu
+retournes je sais pas tu retournes à
+faire le commercial ou tu retournes à
+faire le marketing où tu retournes à
+faire le produit estce que tu dis ok
+c'est là où on m'attend à là j'ai un
+rôle là c'est segmenté et je peux
+performer les gens vont trouver que je
+suis bon et cetera en fait c'est
+l'erreur à ne pas faire plutôt l'unique
+rôle c'est de trouver quelqu'un le
+mettre dans la place et dire OK et après
+l'OM power d'ailleurs moi je vois
+souvent l'organigramme de de doctrine
+prenons l'organigramme d'une
+organisation c'est pas tout à fait
+pyramidal mais vous voyez le conceptteas
+tuas le CEO en haut j'ais avoir le la
+chose retourner et dire ok en fait c'est
+moi tout en bas du coup qui reporte à
+toutes les personnes donc comment je
+peux faire pour
+ow les personnes qu'elles prennent de
+meilleures décisions qu'elles soient
+plus heureuses dans dans leur job mais
+en tout cas c'est une des erreurs
+communes c'est tu veux te sentir utile
+donc forcément tu tu sautes sur une
+problématique qui est un peu inutile
+mais mais voilà tu tu utile en faisant
+ça quoi bonjour et euh merci pour cette
+conférence c'est c'est c'est vraiment
+dingue l'effet miroir de de ces
+situation que tu décris euhi je suis en
+plein dans la phase 1 je suis je [ __ ] je
+passe des dans des états de conscience
+des états de nerf des états de joie des
+c'est les montagnes russes c'est un truc
+de dingue euh c'est des horaires de
+folie je me retrouve vraiment là-dedans
+et je suis face à une problématique et
+euh alors voilà j'ai j'ai levé des des
+fonds avec des business angel euh aux
+États-Unis pour la plupart d'entre eux
+et un petit peu un petit peu en France
+et euh j'ai un produit qu'on a un peu
+développé dans le garage en fait
+c'est-à-dire qu'on a assemblé des brique
+on s'est pas trop formalisé avec
+l'erconomie avec la ui parlons même pas
+de l'UX et mais le truc marche et il
+fonctionne même vachement bien on a une
+vision on a une communauté on on a bien
+avancé et euh maintenant il faut monter
+une équipe pour donner une valeur à la
+boî pour mettre en place des procès dont
+on dont on parlait tout à l'heure et le
+problème c'est que comme jusqu'à présent
+on faisait tout nous-même ben on faisait
+bosser des des freelances par-ci par là
+et à chaque fois qu'on prend des
+freelance faut faut lui réexpliquer faut
+que le mec se remette dans le code c'est
+ça prend un temps dingue et faut les
+caster faut vérifier on se plante on
+perd de l'argent c'est un coup mais en
+même temps faut continuer à avancer et
+il y a ce espèce de Momentum là où on
+doit recruter où ça prend du temps de
+recruter des gens le recrutement c'est
+une galère inimaginable j'aurais jamais
+imaginé ça et et parce que on dépense de
+l'argent avec des freelance mais en même
+temps il faut avancer et et et il faut
+engager des mec et où voilà c'est
+vraiment le point d'or je suis un peu un
+peu perdu là-dessus pour euh chez
+doctrine on a toujours refusé de
+d'embaucher des freelance pour une
+raison qui est très simple le le plus
+difficile et c'est c'est ce que je pense
+tu sens un peu d'en bâtir une société en
+fait c'est bâtir l'organisation avec les
+gens d'ailleurs
+souvent en fait une société c'est rien
+de plus qu'un ensemble de personnes qui
+ont un objectif commun mais il y a rien
+de plus que ça après tout le reste et
+cetera bon ça si ça va pas au niveau des
+gens ça marchera jamais quoi si les gens
+qui font le produit il sont pas heureux
+bah ils vont faire un produit pour les
+gens malheureux aussi quoi ça marchera
+pas quoi et donc d'ailleurs moi quand je
+regarde la boîte j'ai deux indicateur
+clé je regarde en gros la la croissance
+de doctrine qui m'indique juste est-ce
+qu'on atteint est-ce que est-ce qu'on
+croit est-ce qu'on va de plus en plus
+vite et cetera et je regarde
+les un indicateur people c'est des
+questionnaires anonymes qu'on envoie à
+tous les salariés où ils vont noter la
+boîte où ils vont noter leur manager et
+je regarde ça et je sais que s'il y a
+une team qui est un peu en dessous ou
+certaines personnes je sais que de toute
+façon avoir un problème dans dans cette
+dans cette zone là quoi dans ce caslà
+j'imagine ça vaudrait le coup de
+ralentir un petit peu le développement
+le calendrier de développement et de
+passer plus mais ça vaut le coup de
+ralentir mais à 2000 % enfin
+concrètement le plus difficile c'est de
+recruter les bonnes personnes et de
+faire travailler ensemble ces bonnes
+personnes là et et oui recruter une
+personne pendant 4 mois je sais pas ton
+développeur backend ton sales c'est
+compliqué mais en même temps si tu
+passes pas par là en fait ça marchera
+pas évidemment avec un freelance il va
+faire du du du travail tu auras le
+sentiment que ça avancer mais là c'est
+court terme versus long terme il faut
+toujours privilégier euh le long terme
+sur ces sujets c'est qu'en fait le
+freelance à un moment donné il va partir
+euh il va développer par exemple mais
+sans jamais penser à la maintenance euh
+de son code de toute façon il s'en fout
+parce qu'il est payé sur la sur la
+delivery donc il pense pas jamais au
+long terme jamais à à l'architecture
+globale et et en fait tu fais la somme
+de tout ça ça ça te freine et donc nous
+on fait vraiment mais dès le début hein
+euh et il y a des posts où où on
+pourrait staffer entre guillemets un
+freelance pour avancer mais on préfère
+vraiment prendre le temps recruter la
+bonne personne d'accord merci bonjour
+merci pour ton intervention euh moi j'ai
+un problème je suis une start-up qui se
+lance on commence à avoir quelques
+clients et euh mes deux cofondeurs sont
+très tech c'est une start-up trè tech et
+jusqu'où le CE doit s'impliquer dans la
+tech parce que mes cofondeurs veulent
+enfin mettent beaucoup euh mettre
+beaucoup de pression sur le fait qu'il
+faut que je comprenne le produit que je
+comprenne la te que je comprenne comment
+ça se développe eux ils sont vraiment
+spéci dans ça et moi je sais pas jusque'
+où je dois aller dans cette
+compréhension
+ok c'est intéressant moi aussi j'avais
+deux confondateurs Antoine et Raphaël
+qui sont
+tech comment on aborderé le
+point moi à titre personnel je considère
+que Antoine et Raphaël mes deux associés
+sont des génies à partir de là Jeur fais
+complètement confiance dans ce qu'ils
+vont dans ce qu'ils vont délivrer et
+comment ils vont progresser j'ai dans ma
+per perception de mon rôle je dois
+comprendre quel la tech qu'on développe
+mais toi la question c'est à quel niveau
+et je pense que pour ce que tu as à
+faire en tant que CEO ça a aucun intérêt
+que tu te mettes à essayer de comprendre
+le schéma de base de données que vous
+utilisez tous les framework est-ce que
+vous êtes plutôt sur sur angular ou sur
+react et cetera c'est pas le sujet en
+fait et oui ça serait très intéressant
+mais si tu fais ça toute façon la boîte
+elle va s'effondrer donc à un moment il
+faut choisir quoi ça pe être hyper
+intéressant de de de de tout connaître
+ok on tu as tout détaillé mais tu as
+deux personnes qui ont passé du temps à
+t'expliquer leur sujet et résultat la la
+boîte la boîte a pas avancé et
+inversement toi et à un moment donné tu
+vas je sais pas si va tu vas t'occuper
+de la partie commerciale marketing
+financière people et cetera tous ces
+départements là et tu vas pas avoir le
+temps d'expliquer précisément ce que tu
+fais et là c'est juste la relation de
+confiance mais quand tu t'associes avec
+des personnes il faut avoir une
+confiance très très forte en eux et bon
+c'est ce que nous après on va appeler
+liberté responsabilité quoi il y a le
+lien de confiance il y a les objectifs
+Ok Go quoi il y a des erreurs qui vont
+être commis des deux côtés mais ça va
+pas altérer le le lien de confiance ça
+marche merci
+ouais bonjour Merci pour la conférence
+qui est effectivement très inspirante
+euh je voulais parler des problèmes de
+passage à l'échelle nous on est une
+startup qui existe depuis 2 ans on était
+14 jusqu'à récemment euh notamment parce
+qu'on a accéléré très vite à cause d'un
+gros crfing on a fait 2 millions de
+dollars en crfunding euh là on est un
+peu dans la merde parce qu'en fait il y
+a plus de cash qui rentre et donc on a d
+licencier massivement donc ça était très
+très chaud et là maintenant je suis à ce
+moment où on est on s'est recentré sur
+le noyau initial et les gens avec qui je
+travaille maintenant je me dis [ __ ] il
+y
+a à ce stade de la boîte c'est peut-être
+plus les bonnes personnes pour faire le
+job qu'il doivent faire et en gros
+comment on
+négocie cette équipe qui était peut-être
+la bonne équipe opportuniste du début
+comment elle se transforme en la bonne
+équipe de demain quoi il y a un très bon
+article dans un un blog qui s'appelle
+avc.com cet article s'appelle turning of
+a team il explique que pour bâtir euh ta
+boîte on va dire être un leader mondial
+il va falloir Turner ta team etce que
+grosso modo 100 % de l'effectif va
+partir à certains moment évidemment ça
+se fait graduellement c'est pas tu
+arrives je sais pas tu es si au phase 2
+et tu dis bon allez on recommence à zéro
+c'est pas comme ça que ça ça fonctionne
+mais en revanche il faut accepter que
+certaines personnes euh soi fortte de
+l'étape a à l'étape B mais que pour
+l'étape B à l'étape c ça soit pas les ça
+soit pas les mêmes en fait et ça faut le
+faire comprendre c'est valable
+évidemment pour les employés mais c'est
+aussi valable pour toi et c'est ça aussi
+le dilemme je pense en tant qu'un
+fondateur c'est que tu dois tout le
+temps step up step up plus vite avoir 10
+coups d'avance c'est hyper difficile tu
+mets du temps à step up donc c'est
+vraiment c'est des paliers tu arrives
+pas tu arrives pas tu arrives pas et
+boum tu tu jumpes dans ton nouveau rôle
+et après tu galères tu galères hop tu
+rejumpes mais peut-être qu' a un moment
+c'est le principe de Peter je sais pas
+si vous connaissez ce principe de Peter
+c'est tout le monde atteint à un moment
+donné son niveau d'incompétence maximale
+ça peut être aussi valable pour pour
+pour les fondateurs
+dans le cas qui est le tien donc c'est
+c'est plutôt sur sur sur la team je
+pense qu'il faut être honnête avec les
+gens et et dire à la personne ok toi tu
+as été forte cette période à cette
+période maintenant on est dans une autre
+période et voici la place que je t'ai
+trouvé au sein de l'organisation et
+voici pourquoi et je pense qu'une des
+erreurs fondamentales que font beaucoup
+beaucoup beaucoup de boîes c'est de de
+prendre les 10 premières personnes et de
+dire ok toi tu es head of product toi tu
+es head of sales toi tu es head of
+marketing c'est sûr tu as fait un mois
+de marketing allez let's Go et en fait
+en faisant ça tu mets des personnes dans
+une position d'échec et quand tu vas
+ressentir l'échec c'est-à-dire que tu
+vas vouloir reccluter un mec qui est une
+star en marketing et qui va dire mais
+mais pourquoi le le mec de 20 ans c'est
+c'est le VIP marketing c'est c'est
+bizarre quoi il va pas il il va pas
+venir ou alors il va venir il va y avoir
+un clash et ben tu vas être obligé de
+faire partir cette personne et moi je
+fais vraiment gaffe à ça sur les early
+employe dire ok on les met pas dans une
+situation d'échec en disant mais attends
+ouais tu as été top de A à B bah tu sais
+quoi qu'est-ce que tu veux ouis je veux
+être manager ok tu es manager tiens je
+te donne une équipe quatre personnes
+résultat des courses tu as les quatre
+personnes qui disent mais je vais plus
+jamais je veux travailler avec ce mec et
+donc du coup c'est quoi l'attitude de
+leader que tu dois faire bah tu tu dois
+dire à à ce mauvais manager de partir de
+l'organisation et parce que tu peux pas
+le repositionner autre part c'est pas
+vrai tu vas pas le redescendre et cetera
+et donc là ça crée un clash et tu as
+personne bah désolé tu dois partir
+l'histoire se rond c'est dramatique mais
+au fond je pense que c'est ta faute et
+nous je pense qu'on a fait l'erreur une
+fois
+ouais c'est vraiment cette erreur de de
+position une personne dans un rôle qui
+était lui demandé de Step Up mais de
+trop step up au point qu'elle était de
+toute façon dans les conditions d'échec
+et au moment donné on a constaté l'échec
+on a dû arrêter il y avait des
+responsabilités des deux côtés quoi donc
+il faut admettre que certaines personnes
+sont bien de 1 enfin de A à B pas de B à
+C par contre je pense que dans toutes
+tes étapes tu peux replacer les
+personnes enfin tu vois quand tu es 80
+bah il y a plein d'opportunités puis il
+y a plein de Jobs qui se créent nous
+tous les jours on crée des jobs parce
+qu'on avait pas le besoin et on l'a et
+on replace les les personnes et je pense
+qu'on a ce discours d'honnêteté avec
+elle de dire oui tu veux être ça par
+contre si tu veux être manager un
+manager c'est ça ça ça ça ça chez nous
+tu remplis pas ses critères donc c'est
+pas maintenant on va travailler on verra
+ça dans 6 mois dans 12 mois et après
+avir un discours de vérité dire par
+contre ouais si si je te fais le cadeau
+et je je en tant que leader je suis
+stupide et je te dis ok tu vas dans
+cette position on va se retrouver dans 3
+mois et dire bah mince désolé on s'est
+trompé qui chose c'est que tu es en
+position de de donner des points à ton
+vieux pote lui dire lui lui donner son
+bilan de compétence quoi ouais mais je
+pense que enfin chez doctrine on se'
+perçoit comme non pas une famille c'est
+drôle de ça the family non non pas une
+famille mais une équipe de de de
+sportifs de haut niveau et nous on est
+les sportifs de haut niveau qui
+travaillent vers un même objectif donc
+on est tous ensemble dans le même rameur
+et enfin tout le monde rame et s'il y a
+six mecs qui RAM et qu'il y en a un qui
+rame pas et ben on va avoir l'honnêteté
+de dire excuse-moi il nous faut SEP
+rameurs et là il en a que six et donc il
+y a un problème al dans une tu dis mais
+non attends c'est le cousin et tout non
+on laisse va pas ramer c'est pas grave
+bah ouais mais quand tu as une
+croissance comme ça et une ambition
+énorme tout le monde rame quoi voilà
+donc il faut juste je pense avoir
+l'honnêteté et en fait le problème c'est
+que si tu as pas l'honnêteté de dire aux
+gens qu'est-ce qui va se passer bah ça
+va clasher à la fin
+quoi merci pour la conférence je voulais
+savoir quelle est ta quelle était ta
+plus ton plus gros
+échec alors la question quel est mon
+plus gros échec
+en fait il en a tellement mais d'un côté
+ça me rassure qu'il y en a tellement
+pourquoi parce que l'idée c'est d'avoir
+des échecs et rapide ok tu es chou tu
+t'améliores tu es chou tu t'améliores et
+tu as pas un énorme échec qui qui un
+show stopper
+mince j'ai recruté la mauvaise équipe
+boum c'est compliqué donc moi ma
+personnel je fais des échecs tous les
+jours toutes les heures tout le temps
+échecs de de management de leadership de
+ce que tu veux mais j'essaie de
+m'améliorer constamment et c'est jamais
+des des échecs qui sont qui sont fort au
+point que ça va ça va couler l'aventure
+donc c'est plutôt bien et je pense tout
+le monde d'ailleurs pas que le CEO de
+commettre des échecs après sur le
+qu'est-ce qui est enfin qu'est-ce qu'il
+faut surtout pas
+faire il y en a un j'en ai détaillé
+certains mais je pense qu'il y a un
+moment faut prendre conscience c'est
+difficile he pour moi c très faut
+prendre conscience que tu es CEO et que
+ça change beaucoup de choses quoi que ça
+change ton rapport aux gens et que ouais
+quand quelqu'un fait son l' anniversaire
+dans la boîte et t'invite parce qu'après
+tout c'est un de tes amis et ben là tu
+es peut-être excité à l'idée d'y aller
+c'est peut-être cool mais tu dois dire
+et tu dis [ __ ] merde c'est pas c'est
+il y a Nicolas qui l'a invité il a
+invité Nicolas et il a invité le CO de
+doctrine c'est deux mêmes personnes
+qu'est-ce que je fais et ben là il faut
+être capable enfin pour moi je j'essaie
+de vraiment faire la la part des choses
+enfin la part des choses c'est
+considérer que je suis tout le temps c
+de doctrine et que j'agis tout le temps
+comme le SO de doctrine et je sais que
+ça peut être très troubant pour
+certaines personnes et qui disent non
+mais là concrètement là si je te parle
+je parle à Nicolas ou je parle aussi au
+doctrine la vérité c'est que c'est
+souvent le S doctrine parce que je fais
+passer avant ma je fais passer la
+mission doctrine et mon job avant qui je
+suis entre guillemets quoi et surtout
+quand c'est des discussions internes à
+doctrine donc et ça c'est très compliqué
+et et je sais que j'ai j'ai beaucoup
+d'amis qui dans dans ce dilemme dit
+attends mais ok mais fuck it lui c'est
+c'est vra c'est mon ami je je connais
+depuis depuis des années il nous a aidé
+à bâtir la boîte et cetera je lu parle
+comme un pote mais en fait ça ça marche
+pas tu parles jamais comme un pote quoi
+comme l'exemple que je vous donnais avec
+avec les personnes du ménage donc il
+faut vraiment avoir conscience de son
+rôle et se projeter se mettre dans dans
+dans les chaussures de la personne et
+pour avoir vraiment conscience de
+l'impact une autre anecdote qui vient
+ENF une remarque que que qu'un co peut
+faire enfin une fois on avait une une
+nouvelle employée qui qui est arrivé
+chez doctrine bon
+je vous l'ai dit je déjeune tous les
+midis avec une personne au hasard et
+cetera et puis quand je croise des gens
+à la machine à café je leur demande ok
+comment ça va et cetera bah là cette
+personne je dis bon alors ok comment ça
+va tu bosses sur quoi ah ok tu es
+contente ça avance et la personne je
+pense elle venait dans un autre univers
+que la culture doctrine où tu as une
+proximité avec moi et entre tout le
+monde et et ça l'a choqué en fait elle a
+vécu comme [ __ ] le si il met la
+pression quoi il sait sur quoi je bosse
+il me demande où on en est bordel et
+forcément forcément elle va voir son
+manager où elle va va parler aux gens en
+disant mais attends mais mais attends
+mais là il est en train de suivre ce que
+je ce que je fais quoi donc là bah non
+non je je t'ai juste demandé comment ça
+va avec un sourire et je t'ai souhaité
+une bonne journée mais le fait d'être
+CEO fondamentalement ça change le
+rapport aux choses si tu en as pas
+conscience comme moi là sur sur ce coup
+je me suis fa avoir pas pris conscience
+je l'ai pas vu
+quoi bonsoir euh merci beaucoup pour
+cette conférence j'ai une petite
+question en fait parce que
+personnellement bah j'ai le même
+parcours que que toi donc c'est ouais et
+tue de droit 5 an de droit est en train
+de monter une legégal tech avec un
+avocat et je me demandais justement
+comment tu peux gérer au départ le tous
+les aspects techniques alors que
+finalement avec une un background
+vraiment juridique on n'y connaî rien
+finalement
+ouais
+eu je pense que pour
+enfin pour monter une entreprise tu as
+pas besoin d'avoir un background
+particulier enfin ça dépend dans quel
+domaine tu es
+mais c'était quoi le background de de de
+Steve Jobs enfin des cours de
+calligraphie
+bon Elon Musk pareil encore un collège
+drop out mec voilà enfin larisson pareil
+enfinberg j'en parle même pas et cetera
+donc c'est je pense pas des gens qui
+sont arrivés avec un stock de
+connaissance dans un domaine particulier
+et et qui ont fondé une boîte ce qui
+fait la différence c'est non pas ta
+connaissance originale le stock de
+connaissance que tu pourrais avoir c'est
+le flux c'est à quel point tu es capable
+d'emmagaziner à max maximum de
+connaissance sur des problématiques
+données de t'améliorer au quotidien eu
+et en plus dans les nouvelles
+technologies on est quand même dans un
+univers qui évolue hyper rapidement les
+technologies se périment les boîtes
+s'effondrent aussi rapidement qu'elles
+se fondent c'est compliqué et donc je
+pense qu'une personne qui est bonne dans
+ce job c'est tu es capable de te
+remettre en question et d'apprendre très
+rapidement et que tu sois capable
+d'apprendre très rapidement en ayant un
+background tuta médecin auparavant ou ou
+juriste ou whatever c'est pas très grave
+je sais qu'en France on regarde souvent
+le le qu'est-ce qu'on fait les gens et
+on essaie un peu de de de de prédire
+leur avenir en fonction de ça ou Quand
+tu es dans une profession comme juriste
+on dit mais en fait tu as fait des
+études de droit ok à 60 ans tu feras
+toujours du droit mais c'est pas vrai
+quoi en plus la vie est trop courte pour
+se limiter à ça donc comme chez nous he
+des gens qui ont qui ont fait des études
+de droit et qui à un moment donné
+veulent faire la tech bah ils basculent
+en tech veulent faire du marketing bah
+ils font du marketing nous on a le côté
+une super personne qui est dans l'équipe
+marketing avant elle était directrice
+juridique rien à voir quoi donc je pense
+qu'il faut nous on a cette logique mais
+intrinsèque à doctrine les gens qui
+travaillent chez nous sont très divers
+de par leur parcours et de par leur
+personnalité parce que dès le début on a
+recruté des personnalités des potentiels
+individuels on a pris les gens voilà
+qu'est-ce qu'il voulaient vraiment faire
+et voilà après on se retrouve avec plein
+plein de de personnalités donc il y a
+pas de parcours type
+voilà bonsoir j'ai une question pour toi
+euh comment tu as fait pour te sentir
+légitime déjà d'une part légitime dans
+ton job de CEO et légitime sur un marché
+qui est légal
+qui est ancien qui a des méthodes qui
+sont un peu lentes qui est pas très
+usagé avec la techno comment tu as fait
+les premières fois pour aller les voir
+et leur dit ben voilà nous en tant que
+jeune diplômé pour aller les voir et
+leur dire utiliser notre service
+utiliser notre produit c'est génial ah
+oui c'est vrai que la légitimité c'est
+un vrai point parce que tous les
+exécutifs mais particulièrement les les
+CEO et cetera souffrent du du complexe
+de je ne suis pas à ma place j'ai usurpé
+ma place ça c'est un complexe commun
+c'est tu dis fa au fond je suis là parce
+que parce que j'étais là au début mais
+je suis pas légitime ça c'est très très
+fort moi c'était d'autant plus fort pour
+donner un ordre de grandeur euh moi j'ai
+fond des doctrines quand j'avais 21 ans
+j'étais légitime de personne personne
+investisseur et cetera c'était compliqué
+au début j'avais beaucoup ce ce qui com
+comment tu es légitime quand en fait tu
+es si jeune et donc du coup les gens ils
+projettent une image sur toi qui est pas
+forcément celle que tu veux ou C celle
+que à laquelle tu prétends donc euh
+pour la première partie je pense c'était
+avir pour ma part c'était avoir des
+actes où tu montres qu'en fait ok tu es
+le meilleur c'est tout il y a pas de
+c'est le top et donc du coup là tu tu te
+sens c'est un peu le le côté ego quand
+tu es individuel contributeur c'est ok
+mais je l'ai fait en fait tuavais dit
+500 K je vais 2 million c'est tout donc
+là tu sens vachement légitime et tu tu
+es un Power après la seconde phase quand
+tu es company Builder je pense en tant
+que leader tu hésites toujours quoi
+parfois tu dis ah
+merde je suis pas léitime sur cette
+question j'ai un peu j'ai un peu du mal
+à en parler et c'est c'est la confiance
+en soi ce qui est très difficile en tant
+que leader en tant que CEO c'est que les
+gens attendent quelque chose de toi en
+tant en tant que leader mais ils ont du
+mal à te le communiquer quoi les gens
+vont pas dire ouais j'attends que tu
+sois hyper leader tu tu tu tu portes la
+vision et cetera les gens ils vont dire
+autre chose ils vont dire ouais bah moi
+j'attends que tu sois bon manager avec
+moi et que tu finisses le le tableau des
+objectifs tout ça et donc si toi
+naturellement tu dis bah ok bah je vais
+faire ça et en fait ça crée une c'est
+pas vraiment ce que ce que les personnes
+veulent voilà donc c'est c'est c'est
+c'est un dilemme un dilemme sans fin et
+au aujourd'hui moi je l'ai plus trop ce
+ce on n'est pas légitime en plus avec
+doctrine on est super légitime voilà ça
+fait ça fait 3 ans qu'on est là on a
+plein de clients plein de gens heureux
+on connaît no sujet on est expert de de
+de certains sujets et voilà par contre
+on sait reconnaître quand on n pas
+légitime dans dans la boîte j'entends
+parfois on nous demande notre avis sur
+certains sujets on va dire ok ça c'est
+pas nos sujet quoi faut reconnaître ses
+limites quoi
+[Applaudissements]

@@ -1,0 +1,3426 @@
+[Musique]
+[Applaudissements]
+ce que j'ai envie de faire c'est faire
+quelque chose que très très peu
+d'entrepreneurs savent c'est en fait la
+théorie du capital sous-jacente à
+l'investissement dans les start-up et
+pourquoi des gens donnent de l'argent à
+des start-up et de d'essayer de
+comprendre où d'où l'argent vient
+pourquoi l'argent est différent et
+pourquoi tous les tous les types
+d'argent ne sont pas égaux et cetera et
+cetera et cetera d'abord il faut
+comprendre un peu la la situation
+macro-économique globale concernant le
+capital et comprendre la situation dans
+laquelle vous en tant qu'entrepreneur
+vous êtes faites très attention quand
+vous entendez des conseils de gens qui
+ont levé des fonds parce que le marché
+de la levée de fond est tellement
+changeant et tellement différent d'année
+en année qu'il est probable que les
+conseils que vous recevez ne soient plus
+up to date les gens qui ont levé de
+l'argent dans les années 95 c'est pas la
+même chose que de l'avoir levé dans les
+années 98 c'est pas la même chose que
+l'avoir levé après 2001 c'est pas la
+même chose que de l'avoir levé après
+2008 et c'est pas la même chose que le
+lever maintenant il y a eu vraiment des
+très très très grands changements et la
+deuxième chose c'est qu'en plus des
+disparités on va dire temporell vous
+avez des disparités géographiques
+énormes la Silicone Valley investit à
+peu près 27 milliards de dollars par
+trimestre dans les start-ups en France
+l'année dernière on a investi 270
+millions donc vous voyez le rapport de
+grandeur il y a par projet 97 % d'argent
+de moins disponible en France que dans
+la vallée par projet pas dans l'absolu
+si on avait 3 % de l'argent de la vallée
+ce serait déjà pas mal en fait mais on n
+pas le 3 % de 154 milliards d'investis
+par an on a 97 % d'argent de moins
+disponible par an et par projet ce qui
+veut dire beaucoup de choses ce qui veut
+dire que d'abord vous pouvez pas
+comparer le niveau des rounds et cetera
+mais ça en fait souvent c'est vu comme
+un désavantage structurel en se disant
+ben j'ai jamais y arrivé parce que il y
+aura jamais suffisamment de capital pour
+financer mon projet en fait ça peut
+aussi être vu comme un
+avantage dans l'autre sens parce qu'il y
+a toujours un bon un bon côté le bon
+côté c'est que ça veut dire moins de
+concurrence ça veut dire moins de
+pression et surtout ça veut dire que
+beaucoup beaucoup moins de pression sur
+le marché des talents plus il y a de
+start-up qui lèvent des fonds dans la
+vallée plus il est dur de recruter et
+plus il est dur de garder les gens parce
+que les offres d'emploi sont hyper
+mouvantes hyper changeantes et cetera
+chose que vous avez pas en France en
+France j'ai jamais entendu une startup
+me dire titin j'ai perdu mes neuf
+ingénieurs ils sont partis bosser pour
+Google dans la vallée c'est des équipes
+entières qui partent et c'est assez
+courant que des fondateurs se retrouvent
+avec en arrivant le matin au bureau il y
+a plus personne parce que dans la nuit
+il y a quelqu'un qui est venu leur faire
+une offre c'est véridique donc tout ça
+en fait donne donne une une une une
+vision assez contrastée de ce qu'est
+l'investissement et donne une vision
+assez complexe parce qu'en plus les
+sources d'argent sont sont pas uniques
+la deuxième chose d'un point de vue
+macro c'est que vous avez besoin de
+moins en moins d'argent pour démarrer
+euh aujourd'hui avec le Cloud avec les
+avantages avec les services avec tout ce
+que vous pouvez vous faire offrir de
+plus ou moins gratuitement par des gens
+qui ont envie de vous soutenir l'argent
+nécessaire au lancement d'une start-up
+n'a jamais été aussi bas ne vous faites
+pas d'illusion sur vos besoins d'argent
+les les besoins d'argent arrivent de
+plus en plus tard et sont de plus en
+plus euh de de de moins en moins
+fréquent alors en plus l'autre grande
+tendance macro-économique sur laquelle
+vous allez tous vous appuyer c'est qu'il
+y a jamais eu autant de gens qui ont
+envie d'investir dans des start-up c'est
+une vraie mode pourquoi parce que
+d'abord il y a des mécanismes fiscaux
+qui incitent à investir dans des
+start-ups en France on a une loi qui
+s'appelle la loi TPA qui dit que si vous
+mettez votre ISF dans une start-up la
+moitié vous est remboursé par l'État qui
+vous fait le plaisir de pas vous
+prélever l'ISF du ce genre de chos crée
+des flux d'argent en fait aujourd'hui
+l'argent TPA en France c'est une source
+réelle les gens se se réveille vers le
+15 mai parce qu'ils doit faire
+l'investissement avant le 15 juin donc
+tous les ans entre le 15 mai et le 1er
+juin il y a une fenêtre de 15 jours
+assez extraordinaire dans laquelle tout
+le monde devient enfin tous les gens qui
+payent l'ISF du moins deviennent
+investisseurs en capital et investisseur
+en start-up mais ça il y a pas que en
+fait de l'autre côté vous avez des
+grandes tendances comme le crowdfunding
+comme l'accès au capital et cetera qui
+fait que de toute façon vous avez de
+plus en plus de gens qui sont prêts à
+soutenir des start-ups et qui sont prêts
+à le soutenir très très très tôt en fait
+ce qui veut dire que d'un côté on a de
+moins en moins besoin d'argent tout mais
+en plus on a de plus en plus d'argent
+disponible pour combler les tout petits
+chèqus que aucun fond structurellement
+ne peut faire et on va voir pourquoi un
+fond peut faire alors pourquoi du
+capital pourquoi du capital parce qu'en
+fait que vous le vouliez ou non à un
+moment donné faire une start-up c'est un
+jeu capitalistique et c'est un jeu où le
+plus gros gagne ça veut pas forcément
+dire qu'il faut être le plus gros le
+plus rapidement possible mais ça veut
+dire qui à un moment donné au moment où
+vous avez une position forte et une
+information forte sur votre marché vous
+êtes dans une structuration ù comme on
+dit winner take all et si winner take
+all il faut absolument être le gagnant
+et pour être le gagnant vous devez
+assécher le capital de votre industrie
+l'autre point c'est que les besoins en
+capitaux sont pas forcément homogènes
+ils sont pas forcément du simplement à
+vos besoins réels le marché dicte autant
+vos besoins en capitaux que vousmême
+même vous pouvez en avoir besoin alors
+c'est très tôt et ça peut vous paraître
+très très loin mais en fait les
+décisions que vous prenez au tout tout
+début ont une influence énorme sur ça
+c'est un peu l'effet papillon c'est pour
+ça que je vais lourdement insister
+là-dessus parce que tout ce que vous
+allez faire et qui va réduire votre
+chance de pouvoir recevoir du capital à
+long terme peuvent faire que à un moment
+donné vous allez avoir un retournement
+de situation qui va être en votre faveur
+est-ce que vous aviez cru être en votre
+faveur au début sur le long terme joue
+en votre défaveur si vous voulez faire
+une une start-up vous devez être obsédé
+que par l'impact long terme et vous
+devez être obsédé que par les décisions
+le plus longtermistes possible et
+notamment les décisions que vous prenez
+concernant qui investit dans votre
+start-up à quel moment dans quelles
+conditions ont des conséquences très
+très très loin il y a même des histoires
+d'horreur d'un production en bourse qui
+rate parce que parce qu'il y avait un
+mauvais chèque qui a été fait à mauvais
+endroit je vais y revenir vous allez
+voir c'est c'est c'est le genre
+d'histoire qu'on raconte aux enfants
+pour leur faire peur mais elles sont
+réelles en fait donc s'il y a un sujet
+important c'est quel argent vous prenez
+comment vous le prenez avec qui vous le
+prenez et surtout pourquoi vous le
+prenez et la raison principale de
+prendre de l'argent c'est la
+vitesse capital égal célérité en plus il
+y a de C
+c'est égal C vous pouvez la retenir
+celle-là capital égal célérité parce que
+plus vous avez d'argent plus vous pouvez
+aller vite le problème c'est que si vous
+décidez d'aller vite dans le mur c'est
+raté c'est vous comprenez bien que le
+capital c'est pas ce qui va déterminer
+si vous avez un succès ou pas mais si
+vous avez un succès le capital c'est ce
+qui va vous permettre de le
+maintenir
+donc principe de base que vous pouvez
+retenir notez vous le répétez tout le
+temps on ne lève jamais l'argent dont on
+a besoin on lève l'argent qu'on
+peut c'est pas un jeu auquel on joue à
+la
+budgetisation sinon vous comprendrez
+strictement rien au lever de fond qui se
+passe autour de vous et vous passerez
+votre temps à vous dire que que le monde
+entier est rempli
+d'aurie sauf qu'en fait le monde entier
+n'est pas rempli d'aurrie le monde
+entier est plutôt rempli de gens
+professionnels qui savent ce qu'ils font
+et quand on entend par exemple c'est
+c'est un mourir de rire slack a annoncé
+avoir levé 42 millions de dollars
+avanttiè alors ok je suis sûr qu'aucun
+de vous ne sait ce SLAC ça a pas
+beaucoup d'importance c'est un logiciel
+qui permet la comme interne dans
+l'entreprise ils sont C dans l'équipe
+ils ont levé 42 millions de dollars
+alors même avec un salaire d'un million
+de dollars par an ça fait beaucoup
+d'années et puis en plus c types ne
+gagnent pas un million de dollars par an
+donc pourquoi lever 42 millions de
+dollars quand on est 5 qu'on n pas de
+budget marketing et qu'on est dans une
+situation où de toute évidence on n pas
+besoin de cet argent bah pour la simple
+raison qu'on le
+peut pour la simple raison qu'il y a des
+gens qui étaient prêts à donner ce
+montant d'argent dans des conditions
+tout à fait convenables qui étaient
+parfaitement acceptables par les
+fondateurs et donc même s'ils en ont pas
+besoin ils le prennent et maintenant
+qu'ils l'ont pris la dimension même de
+la société l'ambition même de la société
+change overnight pour le coup SLAC hier
+c'était un logiciel insignifiant de
+communication entre collègues
+aujourd'hui ce matin après l'annonce de
+la levée de fond c'est un acteur de
+l'Enterprise Software qui
+compte et pourquoi parce qu'ils ont 42
+millions de dollars sur un compte c'est
+aussi con que ça et alors pourquoi on
+lève du capital parce qu'on lève du
+capital parce que plus on a de capital
+de disponible et plus le niveau de
+risque que la société prend est faible
+parce que même si la société s'est
+plantée même si SLAC n'a aucun sens
+imaginons qu'en fait tous les gens qui
+utilisent SLAC et laattacction de SLAC
+s'évanouissent dans 6 mois
+B vous avez une société qui est en
+disposition de suffisamment d'argent
+pour recommencer et recommencer et
+recommencer jusqu'à trouver quelque
+chose de signifiant parce que maintenant
+ils le peuvent parce que maintenant ils
+ont ce capital vous voulez une autre
+société qui qui valait rien et qui parce
+que elle a eu du capital est devenu un
+succès
+Google Google ils ont mis 8 ans et 6
+mois à trouver un business model pendant
+8 ans et 6 mois Google avait du mal à
+gagner quelques millions d'euros par an
+c'était une une boîte qui vendait des
+moteurs de recherche pour les
+entreprises et qu'il faisaent super mal
+parce qu'en plus ils étaient arrogants
+et ça énervait tout le monde et les gens
+préféraent des solutions moins bonnes
+technologiquement mais au moins vendu
+par des vendeurs sympas qui les
+amenaient au
+resto Google pourquoi ils ont réussi
+parce qu'ils avaient 50 millions de
+dollars sur un compte et qu'ils ont pu
+dépenser 200000 dollars par mois pendant
+8 ans afin de trouver un truc qui fait
+sens la première année où Google a eu du
+revenu c'est un milliard première année
+de chiffre d'affaires réel de Google où
+où ils ont trouvé un business model ils
+ont vendu c'est 1
+la première année où Google a eu un
+business model ils sont passés de 50
+employés à 1500 employés dans
+l'année vous savez ce que c'est
+embaucher 1450 personnes en un an je
+peux dire vous pouvez vous lever le
+matin là c'est tous les jours vous voyez
+des gens ils arrivent dans votre bureau
+ils savent pas ce qui est ils savent pas
+où est la cafetière ils savent pas où
+sont les
+clés c'est et c'est très très dur à
+gérer et en fait le sujet de base c'est
+que Google a pu faire ça parce qu'ils
+avaient les moyens de faire ça et qu'ils
+avaient le capital pour faire ça ça et
+que non seulement donc ils ont eu tout
+le temps de trouver quelque chose mais
+en plus le jour où ils l'ont trouvé ils
+ont pu
+l'exécuter super bien alors des fois il
+y a des catastrophes de capital qui
+connaît cloud ok super bah les autres
+vous avez rien raté donc c'est c'est un
+truc génial vous connectez vos comptes
+sociaux et ça vous dit votre note
+sociale et à quel point vous êtes bien
+alors déjà moi j'ai super mal pris parce
+qu'il y avait d tocar qui avait une
+meilleure note que moi donc je l'ai très
+très mal vécu donc je déteste cl mais en
+fait la vérité c'est qu'une fois que
+vous avez noté 100 millions de personnes
+sur Terre les gens se demandent bien
+pourquoi ils reviendrai ils ont pas tant
+envie que ça en fait d'améliorer leur
+notes et puis puis se rendent bien
+compte que si Justine Bieber a la
+meilleure note ils seront jamais Justine
+Bieber il il y a pas vraiment de
+challenge en fait et donc cloud c'est
+une société qui a levé 37 millions de
+dollars et qu'on a dépensé 32 à côté de
+la plaque pourquoi parce qu'ils ont
+vraiment cru à leur traction il y a un
+moment ils avaient une courbe
+d'utilisateur comme ça
+puis comme ils avaient pas fait coup
+d'État ils ont confondu nombre
+d'inscrits et utilisateurs actifs le
+leur utilisateurs actifs étaient
+parfaitement plat mais personne l'avait
+jamais mesuré parce que tout le monde
+mesurait le nombre d'inscrits dans cette
+boîte et tous les investisseurs
+mesuraient ça et donc ils ont injecté
+plein d'argent le jeu du capital
+évidemment pas un jeu où si on met
+beaucoup d'argent on gagne forcément
+c'est pas ce que je dis ce que je dis
+c'est que si on met beaucoup d'argent la
+probabilité d'échouer est beaucoup plus
+faible elle est encore présente il y a
+encore des gens qui R
+mais elle est faible donc si vous
+regardez d'un d'un point de vue
+extrêmement abstrait qu'est-ce que c'est
+faire une start-up faire une start-up
+c'est réussir à créer une institution
+sociale qui capte suffisamment de
+crédibilité sur une hypothèse
+donnée pour pouvoir lever suffisamment
+de capital pour vérifier cette hypothèse
+et tester toutes les autres hypothèses
+au cas où cette hypothèse est fausse en
+attendant de trouver une certitude qui
+permet de rendre ce capital avec intérêt
+il faut comprendre la dynamique de
+l'investissement la dynamique de
+l'investissement c'est pas on va dehors
+et on annonce qu'on cherche 42 millions
+de dollars slack il cherchait 3 millions
+de dollars voilà donc ils disent aux
+gens ils disent à 100 personnes on veut
+lever 3 million 3 millions de dollars et
+là il y en a 99 qui disent oui ok je
+veux bien investir alors là tu reprends
+les 99 même et tu leur dis bon bah
+finalement il y a tellement de demande
+notre Valo vient d'être multiplié par 5
+et on cherche 10 là tu en as 50 qui
+disent oui puis en fait tu as 500
+millions de dollars al tu dis
+merde comment je fais tu dis bon bah
+finalement on lève 42 et à 200 millions
+de Valot puis là il y en a plus qu'un
+qui dit
+oui c'est c'est ça en fait la dynamique
+c'est que la valeur d'une boîte en d'une
+start-up et alors ça c'est le troisième
+point qu'il faut retenir en terme de de
+théorie du
+capital c'est que la valeur d'une
+startup n'est pas déterminé par sa
+valeur réelle mais déterminé uniquement
+par l'offre et la demande parce qu'il
+n'y a aucune donnée qui permet de
+déterminer la valeur d'une start-up tous
+les gens qui essaient de déterminer la
+valeur d'une start-up ils savent pas ce
+qu'ils font en fait ils sont
+parfaitement incompétents une startup
+n'a pas de valeur c'est simple alors
+qu'est-ce qui se passe c'est que tu as
+une dynamique de marché où tu te dis bon
+bah je suis prêt à payer 200000 million
+de valau parce que si c'est un gros
+succès ça vaudra un milliard et je
+gagnerai ma vie puis si c'est pas un
+succès ça vaut rien et de toute façon
+rien c'est pas grave c'est pas c'est pas
+même si ça valait 60 millions de dollars
+je m'en fous parce que de toute façon
+c'est pas un rendement sur mon capital
+suffisant ça il faut bien comprendre ce
+pointl et qui est lié au fait que on on
+on lève non pas l'argent qu'on veut mais
+l'argent qu'on peut c'est qu'une
+start-up n'a pas de valeur intrasc la
+valeur d'une société est liée au revenus
+qu'est-ce que c'est la valeur d'une
+société la valeur d'une société c'est
+dire combien tu es prêt à me payer à
+l'instant T pour posséder les revenus
+futurs de cette
+société c'est pour ça que la seule façon
+de véritablement valoriser une société
+c'est ce qu'on appelle une DCF
+discounted cash flow qu'est-ce que ça
+veut dire discounted cash flow ça veut
+dire qu'on regarde les cash flow les
+revenus le Bénéfic que la société va
+générer sur 4 ans on rajoute un taux de
+risque en se disant bah la société a une
+chance sur 10 de rater une chance sur 20
+de rater une chance sur 30 de
+rater on regarde la croissance naturelle
+du monde et le taux d'intérêt de
+l'argent et ça détermine la valeur
+réelle d'une société c'est la seule
+façon de déterminer la valeur réelle
+d'une société c'est le discomty de cash
+flow sauf que le discomty de cash flow
+il est fondé sur une hypothèse c'est que
+les revenus sont prédictibles quand tu
+fais la valeur de Total pourquoi total
+en bourse vaut moins que Google et
+Apple alors qu'il gagne beaucoup
+beaucoup d'argent et de façon
+extrêmement sûre parce que maintenant tu
+as la valau réelle des revenus futurs
+les revenus de total sur les 20
+prochaines années sont hyper
+prédictibles on connaî l'état des
+ressources de pétrole on connaît la
+croissance des prix on c'est des modèles
+hyper maîtrisés ce qui fait que
+maintenant tu as tu as un juste
+prix Google et Apple personne ne sait où
+ça s'arrête google vient d'annoncer
+encore 17 % de croissance de revenu
+alors qu'ils font des dizaines de
+milliards personne annonce des
+croissances de revenus à deux chiffres
+alors que tu fais des dizaines de
+millionss donc les type continu à tracer
+la courbe et se disent les revenus
+futurs mais ça veut pas dire que c'est
+vrai ça veut juste dire qu'à un instant
+T tu as une telle incertitude que tu ne
+veux pas être laissé sur le bord de la
+route donc tu payes plus en fait une
+startup on fait une DCF c'est la même
+chose sauf que il y a un petit problème
+dans cette DCF c'est que personne ne
+connaît les cash flows et quand je dis
+personne ne connaî les cas FL c'est
+extrêmement dur les types peuvent jouer
+à un jeu surtout en France on aime
+beaucoup jouer à ce jeu là de alors
+c'est quoi votre marché où vous en êtes
+qu'est-ce que vous avez fait alors c'est
+quoi les datas alors si vous avez vendu
+à 30 clients en un mois vous allez donc
+vendre à 300 clients en 2 ans et si vous
+vendez à 300 clients en 2 ans bon ben je
+veux bien vous donner tel prix tout ça
+c'est bullshit parce que d'abord tu sais
+pas si les 30 clients ils sont là parce
+que ils sont vraiment là ou parce que
+c'est un c'est c'est une illusion de
+début tu sais tu sais pas si c'est la
+chance du débutant ou si c'est du vrai
+revenu et tu sais pas dire si c'est
+prédictable ou pas prédictible ou pas et
+si c'est pas prédictible la valeur elle
+est pas sûre donc tout ça pour envenir à
+pourquoi du capital parce que le capital
+change la nature des boîtes une société
+qui a 100000 € est pas la même qu'une
+société qui a beaucoup sur son compte
+vous donnez un autre exemple vous
+connaissez tous gthub qui connaît pas
+gthub on va le faire à l'envers OK gthub
+c'est une plateforme qui permet à des
+codeurs d'avoir leur code source dans le
+Cloud et de pas l'avoir sur l'
+ordinateur de pouvoir le partager de
+collaborer de de de poucher des
+modifications et cetera donc c'est un
+outil pour les développeurs c'est un
+outil pour les développeurs qui n'a
+jamais levé d'argent et qui a
+entièrement bootstrappé alors boot
+strappé ça veut dire qu'ils ont
+simplement utilisé leurs revenus pour
+croître et ils ont pris leurs bénéfices
+ils l'ont réinvesti puis ils ont repris
+leurs Bénéfic ils l'ont rinvesti et
+c'est devenu une très très grosse boîte
+ils voulaaient pas lever d'argent puis
+un jour ils ont embauché un directeur
+financer et le directeur financier il a
+regardé le compte en banque de de gitum
+et il a vu qu'il y avait 1 million de
+dollars dessus et leur a dit les gars
+mais c'est c'est c'est un délire vous
+pouvez pas avoir si peu d'argent sur
+votre compte en banque s'il y a la
+moindre perturbation de marché s'il y a
+le moindre problème vous êtes
+structurellement en faillite parce que
+vous dépensez beaucoup plus d'argent et
+pourquoi parce que gitub était tellement
+LG que tous les mois il y avait de
+l'argent qui rentrait tous les mois il y
+avait de l'argent qui sortait et le cash
+disponible était très très très très fin
+et très très très
+mince résultat il les a convaincu
+d'aller lever de l'argent ils ont levé
+euh 150 millions de dollars ou 100
+millions de dollars je sais plus enfin
+un chiffre délirant et fondateur de
+gthub qui d'ailleurs vient bientôt à the
+family quand vous lui demandez tu as
+fait quoi de l'argent que tu as levé bah
+il dit
+rien j'en ai rien fait on avait pas
+besoin d'argent nos opérations sont
+couvertes sauf que
+la valeur de giththub avant c'est quoi
+c'est la valeur d'une société qui est
+dans un marché donné sans disruption et
+si le marché change la boîte n'existe
+plus alors que maintenant la valeur
+réelle de kitub c'est quoi c'est une
+société qui même si elle perdait tous
+ses revenus aurait 15 ans de vie devant
+elle vous voyez à quel point c'est
+beaucoup plus sûr donc c'est beaucoup
+plus valuable et c'est pour ça qu'on
+joue au jeu du capital dans une startup
+c'est que le capital change c'est un peu
+comme dans un jeu de rôle c'est des
+pouvoir que vous achetez donc il y a
+trois types de
+capital premier type de capital c'est le
+capital de survie ça c'est premier
+capital que vous allez lever c'est si
+vous l'avez pas vous n'existez pas si
+vous l'avez pas vous pouvez pas payer
+vos salaires vous pouvez pas payer vos
+opérations vous pouvez juste ne pas
+exister ce capital là le but du jeu
+c'est d'en sortir le plus rapidement
+possible faut surtout pas rester dedans
+c'est le pire quand vous allez demander
+de l'argent à des gens parce parce que
+le but du jeu c'est de survivre je peux
+vous dire que niveau pouvoir de no
+autour de la table c'est pas en votre
+faveur vous avez un deuxième type de
+capital qui est le capital de
+croissance vos opérations sont financées
+vous allez bien il y a pas de problème
+vous pouvez rester sans lever de
+l'argent ça changera rien par contre si
+vous avez de l'argent vous pouvez
+multiplier votre croissance par 2 3 4 5
+10 20 je sais pas parce que vous allez
+pouvoir
+accélérer la machine et donc ça c'est du
+capital qui nécessite une prédictibilité
+de traction ça suppose que vous ayez
+réussi à démontrer à petite échelle une
+traction donnée de type je dépense x ça
+me rapporte y y étant supérieur à X si
+je dépense 10x je gagne 10y si vous
+arrivez à écrire ce genre d'équation bah
+là le capital de croissance il vient
+avec une facilité énorme et en général
+là vous avez une vous avez une position
+de force extraordinaire si
+l'investissement venture était à zéro
+risque le rendement du venture serait
+pas de x 10 x 20 x 30 là où tu vois tu
+vois bullshit moi je vois taux de risque
+parce que l'hypothèse cachée c'est de
+dire ok j'ai X qui me rapporte y mais
+j'ai aucune certitude qu'en faisant 10x
+je rapporterai 10y parce que je sais pas
+où la courbe s'arrête je sais pas où la
+taille de marché s'arrête je sais pas où
+tiens prenons un cas bla blac bla blac
+vous avez un succès incroyable en France
+c'est quoi le pitch c'est dire B je fais
+un succès incroyable en France
+donnez-moi de l'argent pour que j'aille
+dans tous les pays d'Europe sauf que le
+rapport au covoiturage dans tous les
+pays d'Europe n'est pas le même que
+celui de la France donc tu as des succès
+plus ou moins mitigés à l'international
+donc tu as un rendement de capital qui
+d'un seul coup est plus ou moins mitigé
+en fait mais avant de le faire et avant
+de te lancer tu en sais rien la seule
+chose que tu sais c'est oui bon je veux
+bien y croire réfléchissez à quel point
+la valeur des actifs dans le temps
+change prenons un cas the family the
+family on a une qui va mal qui a bout de
+course et qui a un actif incroyable
+c'est sa page
+Facebook sa page facebook c'est 1700000
+fans le nombre d'utilisateurs dans leur
+produit c'est 1000 les types jettent
+l'éponge dernier meeting ce qu'on
+appelle le deathly meeting ok qu'est-ce
+qu'on fait est-ce que vous voulez
+trouver un boulot est-ce que machin et
+moi je vois la page avec 1600000 je dis
+tiens laisse-moi essayer de le vendre
+laisse-moi essayer de vendre cet actif
+et tu verras bien si tu fais un peu
+d'argent 1600 fans sur FaceBook ça fait
+un riche naturel par poste de 400000 à
+450000 personnes si vous devez acheter
+la pub sur une communauté de musique de
+400000 ou 450000 personnes par rich en
+plus très active parce que c'est une
+communauté organique et cetera ça coûte
+une fortune donc on fait le tour des
+Warners des machins des trucs blab
+blabla et il y a un type qui le rachète
+pour 600000
+€. ok le type qui rachète pour 600000 €
+il a fait l'affaire du siècle il a un
+super actif et cetera 2 semaines après
+après Facebook annonce que le rich est
+complètement changé et maintenant sur
+1600000 fans par poste ils ont 3000 de
+Rich alors un il y en a un qui a eu le
+coup de chance de sa vie l'autre celui
+qui a acheté bah qu- tu veux qu'est-
+veux que je te dise bah il il a pas eu
+de chance et et ce qui était quelque
+chose qui avait énormément de valeur
+parce que le contexte a changé n'a plus
+du tout de valeur donc le capital c'est
+un jeu qui permet de devenir immun au
+contexte c'est quelque chose qui fait
+que quand le contexte change violemment
+et bah toi tu es toujours là tu es
+toujours une business et tu es toujours
+in the game premier type de capital
+capital de survie deuxème type de
+capital capital de croissance trè type
+de capital capital stratégique alors le
+capital stratégique c'est quoi c'est le
+capital que vous ne levez alors que vous
+en avez ni besoin pour votre croissance
+ni besoin pour
+vous-même mais vous êtes dans une
+situation où vous pouvez le lever et
+donc vous changez complètement le
+rapport concurrentiel par exemple un
+acteur qui a un capital stratégique
+énorme
+Facebook qu'est-ce que ça fait ça fait
+que le jour où il faut balancer 10 % de
+Facebook par la fenêtre pour enlever une
+menace bah ils peuvent se le
+permettre parce que ils ont pas besoin
+de l'argent pour leurs opérations
+d'autres types d'acteurs qui ont du
+capital comme ça c'est genre Google
+Facebook Apple Amazon pourquoi Google
+Apple Amazon ont des réserves de cash
+extrêmement grandes c'est parce qu'ils
+ont ils vivent dans la peur d'une menace
+qui pourrait renverser leur business il
+faut avoir suffisamment d'argent
+disponible pour faire une offre que
+personne ne peut refuser
+être dans la capacité de pouvoir faire
+ce genre d'offre c'est quelque chose
+d'extraordinaire alors le dernier
+capital il s'acquère de deux façons soit
+on le lève soit on le génère avec ses
+revenus et c'est pour ça que aucune
+société numérique à l'exception d'Apple
+parce qu'Apple ils ont atteint des
+telles échelles que c'est même plus
+valable ne verse de
+dividendes pourquoi Google n'a jamais
+versé de dividende et qu'est-ce qu'ils
+font des 70 milliards qu'ils ont sur un
+compte bah ils en font juste une chose
+c'est qu'ils attendent le moment où ça
+peut servir c'est vraiment un point
+stratégique en
+fait donc le type de capital qui vous
+intéresse vous c'est les deux premiers
+trisème il est dans tellement longtemps
+que il est pas très intéressant les deux
+premiers types de capitaux ils ont un
+problème c'est qu'ils ont une relation
+entre eux qui est très
+compliquée le capital de survie en
+général vous prenez l'argent que vous
+pouvez et le problème de prendre
+l'argent que vous pouvez c'est que ça
+peut changer la nature de votre société
+et ça peut la rendre moins intéressante
+pour l'argent que vous pouvez dans
+l'étape de croissance il y a quelques
+années j'ai investi dans une une société
+qui
+euh fait un produit X et qui a besoin de
+Red assez longue personne n'a envie de
+financer la red norement c'est le truc
+quand vous allez voir les gens et vous
+dites il faut faire 2 ans ou 3 ans de RD
+devant moi bah ça fait chier tout le
+monde donc quand vous êtes dans la
+situation de devoir lever le premier
+capital de survie pour rendre cette red
+possible vous êtes dans le cas de
+conviction et vous êtes surtout dans le
+cas où vous n'avez pas le choix vous
+devez prendre l'argent que vous pouvez
+alors il a un problème avec l'argent que
+vous pouvez c'est que l'argent que vous
+pouvez bah il est pas forcément très
+shining il est pas forcément très
+agréable il est pas forcément
+extraordinaire donc l'argent que vous
+pouvez dans ce cas-là ça a été de
+l'argent ISF t pas bon vous levez 700000
+€ et vous payez vos 2 ans de
+RD 2 ans plus tard votre red en fait
+vous croyez que ça allaitre 2 ans mais
+en fait c'est 3 ans donc en plus vous
+avez besoin à nouveau d'enlever de
+l'argent puis vous êtes dans la pire
+situation possible parce que vous avez
+déjà engagé de derrière vous mais vous
+avez pas atteint les objectifs que vous
+vous étiez fixés donc tous les gens qui
+vous ont donné de l'argent en premier
+n'ont pas investi et vous devez chercher
+des nouvelles personnes donc vous allez
+chercher à nouveau de l'argent t pasa et
+vous vous retrouvez avec des gens qui
+ont mis de l'argent chez vous avec une
+réduction fiscale énorme et puis là
+votre RD est fini et vous avez une
+chance extrêmement rare c'est que pour
+une
+fois le jour où vous lancez votre
+produit votre produit marche c'est très
+rare ça c'est très rare de faire 3 ans
+de RD de lancer un truc et ça marche en
+général c'est l'inverse mais ça arrive
+he c'est pas impossible donc ça marche
+puis ça marche tellement bien que vous
+vous retrouvez dans la situation de
+gagner votre vie puis vous gagnez
+tellement bien votre vie que vous vous
+dites tiens j'aimerais bien aller
+beaucoup plus vite et je vais aller
+lever du capital de croissance et puis
+là badabou vous avez une offre
+incroyable d'un investisseur américain
+et ça fait 4 ans que vous faites votre
+boîte puis a 4 ans vous avez oublié
+quelque
+chose c'est que vous aviez de l'argent
+ISF et que l'argent ISF il vient avec
+des contraintes réglementaires et que
+ces contraintes réglementaires vous
+empêchent d'envoyer votre société aux
+États-Unis parce que sinon les gens
+perdent leur avantage
+fiscal alors là vous vous dites mais
+c'est pas grave les gens il sans de leur
+avantage fiscal ma boîte marche
+tellement bien que ils vont payer les 50
+% d'impôts le taux de risque il est
+super faible et puis vous racontez à une
+bande de
+papis que vous avez un super
+investisseur américain qui veut investir
+dans votre boîte et que vous devez la
+prendre aux États-Unis puis là les
+papisfingueurs ils vous disent mais non
+nous on a un avantage fiscal c'est des
+cûts à avoir un contrôle fiscal moi j'ai
+pas envie que mon patrimoine soit scruté
+parce que sous prétexte que tu pars aux
+États-Unis non non reste en France tu
+trouveras bien de l'argent en France al
+deux choix soit vous êtes du côté des
+gens violents puis vous flippez la boîte
+en les ignorant non courez-moi toujours
+après j'en ai rien à faire et donc dans
+ce cas-là vous ouvrez la possibilité
+d'un procès et vous ouvrez la
+possibilité d'emmerde qui font que ça
+peut refroidir les investisseurs de
+l'autre côté de l'Atlantique parce que
+s'il y a quelque chose dont tout
+américain a peur et c'est la moindre
+menace de l' su c'est c'est un truc
+surtout quand vous regardez suit
+la deuxième chose c'est que
+si vous êtes du genre commex conciliant
+bah vous dites oui après tout ils ont
+raison je va bien trouver de l'argent en
+France puis un an un an plus tard vous
+avez toujours pas trouvé d'argent puis
+votre concurrent américain a pris 100%
+du marché et puis votre boîte est vendue
+à la casse histoire
+réelle qu'est-ce qui s'est passé bah il
+s'est passé qu'une décision initiale
+dans lequelle vous avez pas le choix
+avait signé votre arrêt de mort sans
+même que vous vous rendiez compte donc
+vous allez me dire mais c'est quand même
+mieux que rien parce qu'ils ont permis
+d'avancer oui mais le problème c'est que
+ça leur a permis d'avancer vers leur
+mort et c'est ça qui est extrêmement
+compliqué à voir et c'est ça qui est qui
+est qui est le plus troublant c'est que
+les gens avec qui vous vous mariez vous
+mettent dans un destin où d'un seul coup
+vous n'avez plus l'ensemble des
+possibilités
+d'ouverte vous êtes chaque
+investisseur qui rentre chez vous
+représente un changement de votre nature
+un changement de qui vous êtes et
+représente un changement des
+possibilités qui seront offertes à votre
+société à long terme alors voyons les
+types d'investisseur d'où vient le
+capital premier type d'investisseur
+c'est le Love Money c'est vos proches
+ils comprennent rien ce qu' vous faites
+mais il vous aime bien il vous donne de
+l'argent parce que façon vaut mieux vous
+donner de l'argent que pas donner en
+général c'est ça le critère du love
+buoney c'est c'est j'aime bien mon
+cousin j'aime bien mon frère j'aime bien
+j'aime bien je sais pas qui bon il m'a
+pitché parce que c'est quand même
+marrant de faire semblant de jouer à
+l'investisseur j'ai pas pané un mot de
+ce qu'il me dit mais il a l'air de s'y
+connaître alors pourquoi pas le Love
+Money c'est un argent extraordinaire à
+une condition c'est que ce soit
+réellement du Love Money donc il y a une
+seule façon de prendre du Love Money de
+façon correcte c'est d'expliquer aux
+gens que leur argent est
+perdu de leur expliquer à nouveau que
+leur argent est perdu de recommencer une
+troisième fois et si à la troisème fois
+il vous le donne encore de le prendre
+sans aucun remord parce que de toute
+façon vaut mieux qu'il vous le donne
+qu'il dépense même si vous le perdez et
+la deuxème chose c'est que l'argent Love
+Money est génial à une deuxième
+condition c'est que vous signez avec les
+gens qui vous donnent l'argent une
+convention de vote qui font qu'ils ont
+jamais leur mot à dire et qu'ils ont
+jamais rien à faire et ils peuvent accé
+acter ce niveau de confiance là parce
+qu'il y a le mot LOVE avant
+money ça s'appelle pas money with love
+ça s'appelle Love Money donc Love est
+censé être plus important que money si
+vous êtes dans la situation où les gens
+sont pas capables d'accepter ce niveau
+de confiance envers vous Love Money vous
+oubliez parce que Love Money avec un
+type inactif qui met très peu d'argent
+mais qui a son mot à dire dans des
+décisions essentielles avec tout ce le
+stress que ça implique les décisions
+essenti
+c'est votre arrêt de mort c'est rien
+d'autre parce qu'un jour vous allez être
+à une table et vous allez expliquer à un
+type que en fait il faut parler avec
+votre cousin parce qu'il a autant son
+mot à dire que vous mais il sait même
+pas de quoi il parle il sait même pas ce
+que vous faites mais sauf que maintenant
+qu'il y a des centaines de millions sur
+la table ou des même des dizaines de
+millions sur la table d'un seul coup
+votre cousin s'est réveillé la deuxième
+chose c'est que le Love Money il faut le
+protéger de lui-même l'argent rend fou
+ça ne l'oubliez jamais les les au début
+tout va toujours très bien quand ça
+marche pas ça va encore mieux en fait le
+Love Money quand ça marche pas c'est la
+meilleure car parce que que les types
+ils sont fiers d'eux ils vous ont permis
+de rater et puis c'est grâce à eux que
+vous avez pu avoir une expérience et
+puis bon comme comme vous avez raté vous
+pouvez pas vous empêcher d'avoir un peu
+de culpabilité quand même à moins d'être
+fou et donc ça crée un rapport plutôt
+positif c'est pas ça le problème le
+problème c'est quand ça marche quand ça
+marche et que vous apprenez à quelqu'un
+que les 20000 € qu'il a mis chez vous ou
+les 30000 € qu'il a mis chez vous valent
+plus que l'ensemble de son patrimoine et
+qu'en plus ils sont pas liquide et que
+vous êtes en train de prendre des
+décisions qui pourraient peut-être le
+ramener à zéro bah là d'un seul coup je
+peux vous dire que l'angoisse et
+l'instinct de survie prennent le pas
+prennent le dessus et c'est
+incroyablement violent donc vous devez
+le jour où les gens vous donnent
+l'argent vous devez installer un trigger
+psychologique dans leur tête
+qui est tu n'auras jamais ton mot à dire
+et en général les triggers
+psychologiques initiaux ça fonctionne
+super bien les gens respectent leur
+engagement si vous êtes hyper clair le
+jour où vous prenez l'argent en
+expliquant tu vas me signer ce papier et
+jamais je vais parler avec toi de ce
+genre des décisions que je vais
+prendre soit les gens refusent et ils
+refusent immédiatement et vaut mieux ne
+pas avoir l'argent que l'avoir dans de
+mauvaises conditions c'est la conclusion
+vous pourvez mettre derrière chaque
+phrase que je dirai dans ce cours vaut
+mieux ne pas avoir l'argent que l'avoir
+dans de mauvaises conditions et donc
+vaut mieux ne pas avoir cet argent Love
+Money et trouver un autre plan et
+peut-être pas faire de boîes c'est pas
+grave que
+l'inverse parce que l'inverse il peut
+être très grave parce que vous imaginez
+si des années plus tard tout foir parce
+que vous avez mal géré le contenu
+initial ça c'est très amer alors que si
+vous le faites pas et que vous démarrez
+jamais vous pouvez pas savoir sil allent
+réussir ou pas aujourd'hui j'aborde
+j'aborde pas le sujet de comment prendre
+l'argent c'est plutôt le sujet des vidéo
+les détails techniques pour prendre
+l'argent ce que je veux que vous
+compreniez c'est c'est les principes
+sous-jacents à l'argent si vous
+comprenez les principe sous-jacant à
+l'argent vous pourrez aller parler avec
+des avocats vous pourrez rentrer dans
+The Family vous pourrez faire plein de
+choses et the family on gère très bien
+les les caractéristiques techniques de
+l'investissement il y a pas de problème
+on fait des r on fait des machins après
+il y a des dispositifs très complexes
+pour faire que ce que je suis en train
+de vous dire d'un principe théorique
+soit répercuté dans un principe
+contractuel mais le problème il est pas
+là le problème c'est que si vous avez le
+principe contractuel et que vous avez
+pas compris pourquoi ce principe
+contractuel par exemple dans R nous on a
+structuré r comme un outil de Love Money
+il a été pensé comme ça et donc quand
+les gens voient le dispositif a et
+voient tout ce qu'on limite chez
+l'investisseur ils sont choqués ils
+disent mais c'est honteux mais c'est
+parce qu'il voit pas l'hypothèse
+initiale qui est que c'est fait pour
+récolter de l'argent chez des gens qui
+sont plus dans le Love que dans le money
+et on pense que tout premier chèque même
+quand on est un professionnel devrait
+être plus dans le Love que dans le
+mononey position philosophique mais
+c'est ça que j'ai c'est ça que j'essaie
+de transmettre alors après les détails
+techniques de comment tout ça se
+répercute ça c'est autre chose donc Love
+Money très bien une des questions
+souvent que les gens se posent c'est ah
+oui mais je veux pas avoir trop
+d'investisseurs vous pouvez en avoir 400
+investisseurs si vous avez une
+convention de vote avec eux et qu's ont
+pas leur mot à dire ça change rien
+c'estàdire que vaut mieux en avoir 400
+dans cette situation là que deux dans la
+situation où ils ont le droit de vous
+dire quoi faire à longueur de journée
+donc le nombre d' actionnaire c'est pas
+quelque chose à optimiser c'est de la
+connerie beaucoup d'entrepreneurs
+optimisent leur nombre d'actionnaires en
+se disant ah je cherche 300000
+j'aimerais TR chèque de 100000 alors
+déjà si quelqu'un vous faisait un chèque
+de 300000 pourquoi vous le refuseriez qu
+l'idée d'aller dire ce genre de choses
+aux gens et puis deuxième chose si vous
+avez 30 personnes à 10000 vaut mieux
+avoir 30 personnes à 10000 dans les
+bonnes conditions que trois personnes à
+100000 dans les mauvaises orors si vous
+optimisez la mauvaise chose vous allez
+être obsédé par optimiser ça et vous
+allez pas être obsédé par avoir l'argent
+dans les bonnes conditions ce que vous
+devez optimiser c'est les bonnes
+conditions donc un le Love Money les
+Angels alors qu'est-ce que c'est un
+Angel investor c'est quelqu'un qui a le
+cœur d'un philanthrope et le costume
+d'un investisseur et les mauvais Angel
+c'est les gens qui ont un costume de
+philanthrope et ils ont le cœur d'un
+investisseur réfléchissez à ça le gen
+vous rencontr un Angel l'Angel
+investment c'est des gens qui sont prêts
+à venir plutôt que tout le monde avant
+que vos hypothèses ils sont le
+pourvoyeur de capital de survie numéro
+1 ils sont des pourvoyeurs de capital de
+croissance quand ils sont compétents
+mais ils ont une caractéristique c'est
+qu'ils sont prêts à prendre une décision
+humaine alors les Angeles le problème
+c'est qu'il y a un mot pour décrire
+toute une
+réalité donc on va essayer de faire une
+matrice tout simple la première matrice
+c'est qu'en en ord donné en abscisse
+pardon vous prenez la compétence de
+l'Angel et puis en ordonné vous prenez
+ces moyens le capital
+disponible par exemple vous avez des
+Angeles extrêmement compétent mais qui
+ont pas
+d'argent est-ce que ça veut dire que
+vous les voulez pas avec vous parce
+qu'ils ont pas d'argent
+non et alors ça c'est la deuxème idée
+que j'aim aujourd'hui vous donner c'est
+que comme vous avez de moins en moins
+besoin d'argent l'immatériel et
+l'incorporel c'est-à-dire la compétence
+le
+réseau la l'expérience ont aujourd'hui
+autant
+d'importance que l'argent en terme de
+valeur
+absolue c'est pour ça que par exemple
+slack il lève 42 millions de dollars
+avec un
+VI mais il laisse
+5 Angel investir 100000 dollars chacun à
+1/ diè de la Valo du VC le même jour le
+même
+jour pourquoi ils font ça parce qu'ils
+savent que la valeur de ces CQ personnes
+a beaucoup plus
+d'importance que l'argent qui est reçu
+et qui est une
+commodité en terme de valeur ajoutée
+donc les Angeles ils arrivent à tous les
+stades ils peuvent venir quand vous êtes
+pas mature ils peuvent venir quand vous
+êtes mature ils peuvent venir pour votre
+survie ils peuvent venir pour votre
+croissance ils peuvent venir pour le
+capital stratégique à tout moment vous
+pouvez faire rentrer un Angel et ce que
+je vous conseille de faire c'est de
+noter vos Angels sur cette matrice et ça
+vous donne quatre cases alors la case
+que vous voulez pas c'est la case en bas
+à gauche c'est les gens qui n'ont ni
+compéten ni argent par contre faites
+très attention à la case ils ont de
+l'argent mais pas de compétences
+parce que il y a un problème la case
+avoir de l'argent et pas de compétence
+ça devrait être la case du Love
+Money quand on a pas d'argent et pas de
+compéten et que donc on n pas le lien de
+confiance parce que c'est pas du love
+money on a un problème structurel c'est
+qu'on a besoin de demander des droits
+pour se protéger si je vous donne de
+l'argent
+bravo si je donne de l'argent mais qu'on
+se connaît pas
+même si je suis philanthrope même si je
+suis bienveillant même si quelque part
+je veux bien vous faire confiance au
+maximum je vais être obligé de me
+protéger sur un certain nombre de choses
+fondamentales pour pas que vous
+m'arnaquiez parce que quel Angel
+investor je serais si je laissais les
+gens pouvoir
+m'arnaquer
+alors si je prends ces droits là mais
+que je suis quelqu'un de raisonnable qui
+a l'habitude de faire ce genre de deal
+qui connait bien le milieu et cetera bah
+ça c'est pas grave parce que le jour où
+vous aurez une décision à prendre il est
+probable que je sois plus compétent que
+vous
+90 % des sociétés dans lesquelles j'ai
+investi dans d'un point de vue financier
+je suis infiniment plus compétent que
+l'entrepreneur qui la dirige et Dieu
+merci parce que s'il était compétent
+d'un point de vue financier c'est qu'il
+aurait passé beaucoup d'heures à
+réfléchir à ça plutôt qu'à sa boîte ça
+veut dire que quand il y a des décisions
+d'investissement à prendre et cetera en
+général je sais à peu près comment ça se
+passe je connais à peu près les
+pratiques de marché et ma réputation en
+tant qu'investisseur est trop importante
+sur le long terme pour que j'aille
+arnaquer qui que ce soit sur le court
+terme problème il est pas
+là le problème c'est qu'est-ce qu'on
+fait quand vous avez quelqu'un qui est
+dans la situation d'avoir l'argent dont
+vous avez besoin pour survivre mais qui
+n'est pas compétent et qui donc
+représente un risque pour ce moment-là
+qui donc représente une menace et au
+lieu d'être de devenir un asset ça
+devient une
+liabilities au lieu d'être un actif
+c'est un risque cette situation là c'est
+la plus dure à gérer si vous pouvez
+éviter ces gensl évitezles au maximum
+donc faites très attention parce que
+vous devez absolument évaluer l'argent
+non pas dans une valeur de capital mais
+dans une valeur absolue est-ce que la
+personne a déjà fait une startup alors
+attention compét dans le monde des
+startup ne veut pas dire expertise
+compétenence dans le monde des start-ups
+ça veut pas dire par exemple moi il y a
+un jeu auquel j'aime beaucoup jouer
+c'est demander la captable des gens et
+alors pardon la captable c'est la
+répartition du capital et qui a quoi
+comme pourcent et de prédire si la boîte
+va être un succès ou pas et j'ai un taux
+de fiabilité énorme et tout le monde
+pense que c'est un pouvoir magique mais
+c'est pas un pouvoir magique c'est juste
+que à la fin de la journée ça se passe
+toujours de la même façon par exemple je
+vais pas citer leur nom mais un jour une
+start-up vient voir on dis ouais on a
+donné 30 % de notre capitale à Patrick
+de Carolis président de France
+Télévision c'est un ouf il va nous
+ouvrir toutes les portes dans notre
+industrie et le jour où ils ont annoncé
+ça tout le monde les a félicité moi je
+leur ai dit franchement les gars
+c'est con de faire faillite aussi
+vite ils m'ont pas cru 2 ans après ils
+ont fait faillite ils m'ont raconté
+toutes les histoires d'horreur avec
+Patrice de Carolis ils m'ont dit mais tu
+le connais tu savais comment ça allait
+se passer j'i dit non mais c'est Patrick
+de Carolis Patrick decolis représente
+une expertise qui représente une
+certaine culture
+qui donc va prendre un certain nombre de
+décisions et c'est hyper prédictif et
+que donc à tous les moments de la vie de
+la start-up où il y a eu un désagrément
+qui a gagné d'après vous c'est les types
+qui avaient 70 % le type qui avait 30
+bah le type qui avait 30 parce que la
+grande naïveté des entrepreneurs c'est
+de croire qu'il y a une relation entre
+le nombre de pourcent qu'on a dans une
+boîte et le pouvoir qu'on a dans une
+boîte parce que le pouvoir qu'on a dans
+une boîte c'est une question de
+psychologie c'est une question
+d'influence c'est une
+question
+d'ora et c'est ça le point le point
+c'est est-ce que vous êtes suffisamment
+fort pour pouvoir
+résister à ce que les autres vont
+demander puis quand il demande 30 % et
+en plus il demande un droit de veto vous
+avez un type qui vous dit moi je suis
+pas d'accord vous dites mais non mais
+c'est ce qu'il faut faire vous essayez
+de le convaincre tu vous dit ouais mais
+je suis pas d'accord c'est parce que tu
+es inexpérimenté que tu dis ça qu'est-ce
+que vous répondez c'est fini la
+discussion est finie et le problème
+c'est que le jour où il y a
+l'investissement a été fait qu'est-ce
+qu'il a dit il a dit mais vous savez mon
+intérêt c'est comme vous c'est que cette
+société soit un succès donc vous
+inquiétez pas on prendra les bonnes
+décisions ensemble parce que mon intérêt
+c'est que ça ça aille le plus gros
+possible sauf qu'au moment où il a dit
+ça il a menti et il a menti sans même
+sans rendre compte parce que l'intérêt
+de Patrick de Carolis c'est quoi c'est
+pas que ce truc devienne le plus gros
+possible son intérêt c'est sa réputation
+parce qu'il est dans un arbitrage entre
+ce qui pourrait gagner en risquant sa
+réputation est- ce qu'il a immédiatement
+avec sa réputation et donc tous les
+moments où il faut franchir la ligne en
+se mettant du côté de H je peux avoir
+tort bah il va vous mettre de l'autre
+côté où bah vaut mieux pas faire de
+vague parce que tu comprends ma
+réputation vaut quelque chose ne vous
+associez jamais à quelqu'un qui a
+quelque chose à perdre et alors ça c'est
+l'autre règle sous-jacente c'est que la
+seule façon de faire en
+sorte que vos Angel investor soient
+aligné avec vous c'est qu'ils doivent
+prendre le même niveau de risque que
+vous ou ne pas prendre de risque du tout
+ça rime presque qu'est-ce que ça veut
+dire ça veut dire que soit vous avez des
+gens qui sont dans une situation où ils
+ont pas le choix ils ont sauté de la
+falaise avec vous soit c'est des gens
+qui vous poussent dans la falaise et ils
+ont rien à perdre parce que de toute
+façon eux ils sont très haut dans la
+montagne ne mettez jamais quelqu'un au
+milieu ne mettez jamais quelqu'un dans
+la situation de ah il sait pas trop si
+en fait il a plongé avec vous ou pas et
+si si il a pris un risque ou pas donc
+soit vous prenez beaucoup d'argent un
+type par rapport à son patrimoine c'est
+que le jour où Bernard Arnaud investit
+chez vous bah vous lui prenez 5 à 100
+millions soit vous lui prenez moins de
+100000 € moins moins que son budget
+cigare parce que si vous lui prenez
+moins que son budget cigar en fait vous
+avez pas Bernard Arnaud vous avez le
+marketing d'avoir Arnaud mais vous avez
+pas le problème d'avoir Arnaud si vous
+prenez plus de 5 millions c'est c'est
+suffisamment d'argent pour lui pour que
+il ait pas envie de les perdre et qu'
+fasse vraiment tout pour que ça devienne
+un vrai succès au-delà de sa réputation
+il va être obligé de prendre des risques
+parce que c'est trop tard l'argent est
+déjà
+engagé mais si vous le mettez dans la
+zone grise du c'est quand même pas mal
+d'argent mais pas suffisamment pour que
+je me lève le matin bah là c'est là
+c'est terrible en fait parce que là en
+fait vous avez plus un allié vous avez
+un poids et ce poids il peut il peut
+compter pendant très très longtemps il y
+a des critères de base il suffit de
+regarder la carrière des gens il suffit
+juste de regarder un CV de quelqu'un et
+tu verras en 3 minutes si la personne
+dans sa vie a pris des risques ou pas ou
+est-ce qu'elle a toujours maximisé ses
+intérêts sur une une mission donc c'est
+assez facile à voir par exemple Patrick
+decolie c'est un bon exemple c'est
+quelqu'un qui n'a jamais pris de risque
+il y a pas besoin de le connaître pour
+le savoir il est devenu président de
+France Télévision parce qu'il a écrit
+une biographie de Bernadette Chirac pour
+être prêt à faire un acte aussi vile
+faut tu imagines passer des heures à
+écouter Bernardette Chirac raconter sa
+vie simplement pour avoir un poste c'est
+que toute évidence tu savais que c'était
+un courtisan il y a pas il y a pas
+besoin d'être
+super super perspicace sur les gens pour
+le voir par contre tu vois par exemple
+il y a un type que j'aime beaucoup qui
+s'appelle Germain Simono Germain Simono
+c'est un type assez corporate il vous
+voit les gens il a un costard et cetera
+pourtant c'est pas un tocard c'est un
+type il a été viré de chez lui à 18 ans
+et vendait des journaux sur la plage à
+la Réunion aujourd'hui il dirige une
+société financière qui fait 200 millions
+par an
+bah il y a juste à voir la vie de ce
+type pour comprendre de quel côté de la
+barrière il est tu fais tu deviens pas
+un type qui dirige une boîte à 200
+millions par an quand tu as vendu des
+journaux sur la plage que tu as pas fait
+d'étude et que tu as même pas ton bac si
+tu as pas dans ta vie à des moments
+plongé à des endroits où tu aurais pas
+dû plonger et en fait tout se rapporte
+au rapport au risque c'est ça le point
+et c'est justement ce que je veux vous
+dire c'est que c'est pas un problème de
+compétence technique c'est un problème
+d'état d'esprit si Patrick de Carolie je
+pense que c'est un très bon
+professionnel c'est pas le problème je
+pense queeffectivement tant président de
+France Télévision il a ni fait un
+travail extraordinaire ni un travail
+merdique il a dû être un gestionnaire
+incroyable qui a qui a compté les
+crayons et et qui a dit combien il y
+avait de gomme dans dans la boîte mais
+personne s'est jamais dit la
+vache Patrick de Carolis quel courage
+c'est pas quelque chose que les gens se
+sont dit c'est ça le critère de base
+c'est entouré de gens et alors au
+passage les gens dans les réseaux de
+Business Angel et cetera a des rares
+exceptions près sont des moutons de
+Panurge dont la seule fonction est
+d'aller chercher de l'argent là où les
+autres mettent de l'argent donc c'est
+vraiment je vais dire quelque chose de
+dur mais si vous pouvez rester loin des
+réseaux de business en gel reste loin
+des réseaux de business en G alors
+compétence ça veut pas forcément dire
+que les gens ont fait une start-up et
+cetera on a une boîte ils ont un ils ont
+un mécanicien à la retraite qui a fait
+fortune dans les garages euh comme
+actionnaire le type il sait même pas ce
+qu' est une start-up je l'ai vu en nager
+là il y a quelques semaines j'étais mais
+épaté le type il avait tout compris
+vraiment il avait tout compris et il
+avait tout compris dans d'instinct en
+fait parce que le type était à se dire
+ah ouais mais on fait un million de
+revenus j'ai peur de les perdre type lui
+a dit mais tu m'as quand même pas fait
+mettre de l'argent c'est un type qui a
+peur de perdre un million quoi mais
+qu'est-ce que tu fous il a commencé à
+l'engueuler en agâer j'étais mort de
+rire et je me suis dit c'est quand même
+dingue qu'un type qui qui a 70 ans qui
+est mécano c'est un vrai mécanicien le
+mec c'est
+pas il avait un instinct sur ce qui
+était une startup beaucoup plus pré PRC
+que 70 % des types qui payent l'ISF et
+qui défient la longueur de journée à the
+family en nous disant qu'ils veulent
+mentorer des startups en général moi je
+leur réponds que je veux bien leur
+envoyer une start-up pour les mentorer
+et que ça coûte 5000 € la journée ils
+comprennent pas pourtant je ça leur
+ferait grand bien en fait parce parce
+parce qu'il verrait ce qui est le chi
+culturel en fait il faut regarder sa vie
+il faut regarder s'il a pris du risque
+ou pas c'est ça la compétence d'un
+business angel c'est est-ce qu'il est de
+ton côté culturellement ou pas le après
+le niveau technique et cetera c'est
+autre chose en fait est-ce que c'est
+quelqu'un qui a eu sa carrière parce
+qu'on lui a donné ou est-ce que c'est
+quelqu'un qui a eu sa carrière parce
+qu'on l'a prise quel que soit le milieu
+c'est pas je pense que les entrepreneurs
+des années 60 ils faisaient pas de
+start-up parce que d'abord ils savaient
+pas ce que c'était et ça existait pas
+mais mais a il y a des gens qui dans les
+années 60 dans les années 70 dans les
+années 80 dans les années 90 ont eu des
+carrières extraordinaires pas parce
+qu'ils ont parce qu'ils ont été là
+chercher et qu'ils ont pris des risques
+incroyables je prendre un exemple à la
+con mais je ferais beaucoup plus
+confiance à un type qui est banquier
+d'affaire qui un type qui est Kant dans
+une banque parce que les cantes dans une
+banque ils ont jamais rien choisi c'est
+des gens ils ont fait une bonne école
+des bonnes études on est venu les
+chercher on leur a dit tu vas me
+résoudre cette équation je vais te
+donner un million par an un C c'est les
+gens qui résolvent les équations dans
+les banques les banquiers d'affaires la
+seule façon de devenir un banquier
+d'affaires c'est de faire des deals
+réussis c'est très dur c'est un boulot
+où en général les juniors sont
+insignifiants mais les gens qui
+deviennent partnerur sont pratiquement
+toujours extraordinaires d'un point de
+vue risque parce que pour de devenir
+partenur il y a des moments don dans ta
+vie de Junior tu as dû prendre des
+risques énormes après encore une fois il
+y a des partenures de convenance il a
+des partenurs ils sont devenus partenur
+parce qu'ils ont fait l'Inspection des
+finances ils ont jamais fait de Deal et
+ils ont jamais fait d'affaires de leur
+vie donc au sein d'une banque d'affaires
+tu vois tout de suite qui sont les deal
+makers et les gens qui te ramène du
+business qui sont les harvis Spector
+quoi et puis qui sont les Louis qui
+regarde sus ok désolé pour la référence
+mais mais c'est Harv Spector vous le
+prenez comme investisseur Louise vous le
+prenez pas et ceux qui on pas regardé
+regardez juste un épisode vous allez
+comprendre c'est côté vous avez un type
+qui prend énormément de risque et de
+l'autre vous avez un type qui qui est
+toujours à faire ce qu'on lui demande en
+fait à chaque round que vous faites à
+chaque fois que vous allez lever de
+l'argent réfléchissez à qui sont les
+Angels bien cablés que vous pouvez faire
+rentrer même si vous avez pas besoin
+d'argent et entre nous dans la matrice
+si vous avez beaucoup de compétences
+mais pas de capital ça peut valoir le
+cût de faire un gros
+cadeau ça peut valoir un coût énorme
+parce que vous pouvez en fait avoir
+énormément de leverage sur eux et
+énormément de pouvoir sur eux même à des
+moments où vous en avez plus besoin
+parce que même quand vous en avez pas
+besoin aujourd'hui vous savez jamais ce
+qui peut se passer vous devez absolument
+rester par ano et les Angeles peuvent
+être le meilleur antidote à votre survie
+je vais juste vous raconter une anecdote
+qui est pas de moi mais que j'adore
+c'est l'anecdote qui a rendu Ron Conway
+extrêmement célèbre Ron Conway c'est un
+Angel dans la vallée qui qui est
+aujourd'hui considéré comme the GODF of
+silicon valley c'est vraiment en plus il
+a vraiment une figure de parrain très
+forte et il se comporte pas mal comme un
+parrain en fait il sait présenter les
+gens et il sait obtenir des gens ce
+qu'il a envie d'obtenir et il y a une
+histoire qui l'a rendu très célèbre
+c'est dans les années 2000 après
+l'explosion de la bulle à peu près 95 %
+des sociétés dans la vallée étaient en
+faillite parce que 95 % des sociétés
+dans la vallée ne tenaent que parce que
+la vallée était une industrie qui était
+en train de croître imaginez vous êtes
+une boîte de data center en 2000 et 90 %
+de vos clients font faillite bah la
+probabilité que vous fassiez pas
+faillite est quand même super faible
+forcément donc un jour vous êtes il y a
+une start-up qui perd un grand contrat
+il est minuit ils sont désespérés ils
+savent plus quoi
+faire et là ils envoient un email à tous
+leurs investisseurs et les types
+racontent alors ils le racontent super
+bien c'estmage qu'il y a pas de vidéo
+mais ils disent voilà on était dans
+cette pièce on était désespéré et assez
+simplement on a envoyé un email à tout
+le monde lors disant bah voilà on est
+super content d'avoir eu votre argent et
+de votre investissement mais là on vient
+de perdre le contrat le plus important
+de notre vie et si on récupère pas ce
+contrat bah votre argent est perdu on
+est désolé cétait ça l'email ils l'ont
+envoyé à 50 investisseurs il y en a pas
+un qui a répondu et puis il y a un type
+qui a répondu qui s'appelle Ron conoué
+les mecs ne savaient même pas qui
+c'était il ils savaient pas et pour eux
+ils avaient pris son argent parce qu'un
+ami leur avait dit prendre l'argent à
+l'époque Ron Conway n'est ni connu ni
+une star il est rien du tout et le type
+répond i'm on it juste ça le lendemain
+le patron de la boîte Télécom où ils ont
+perdu le contrat appelle en disant
+écoutez les gars je suis vraiment désolé
+qu'on vous a enlevé ce contrat il y a
+Ron qui vient de me téléphoner c'est un
+de mes meilleurs amis vraiment vous
+inquiétez pas on est sur le coup la
+semaine d'après ils ont récupéré le
+contrat ils ont vendu leur boîte de 100
+millions donc ce genre de situation
+dans ce milieu c'est pas rare si vous
+faites le plongeon vous allez voir que
+vous êtes dans des montagnes russes
+permanentes où vous êtes haut bas haut
+bas haut et puis la distance entre la
+faillite et le succès tient à rien du
+tout c'est un type qui se lève le matin
+c'est un type qui connait machin et
+cetera et c'est à ça que les Angels
+servent les Angels c'est votre dynamique
+d'entropie c'est votre dynamique de vous
+mettez suffisamment de CER et d'humains
+chez vous et de gens pour qui ça compte
+et alors quand vous interrogez Ron
+Conway sur
+pourquoi il s'est donné tant de mal il
+vous dit bah voilà moi j'étais un petit
+Angel à l'époque j'avais fait 15
+investissements il y en a 14 qui avaient
+déjà fait faillite c'était le dernier
+j'avais vraiment pas envie de perdre mon
+argent c'était tout pour moi donc vous
+voyez l'intérêt d'avoir des gens qui
+finalement n'ont pas beaucoup d'argent à
+chaque fois que tu fais rentrer de
+l'argent dans ta boîte tu devrais
+réfléchir à qui sont les Angeles
+pertinents que tu pourvais faire rentrer
+dans ton round et alors plus tes rounds
+sont élevés et plus tu es une boî
+extraordinaire et plus tu peux faire
+rentrer des gens extraordinaires ne
+jamais jamais désaligner le risque moi
+j'ai participé au premier round de local
+motion local motion c'est une boîte qui
+est en train de croîre qui est
+extraordinaire qui qui est en train
+d'ouvrir des bureaux dans toute l'Europe
+et cetera premier round de local motion
+les gens qui ont participé c'est des
+gens comme Tony HH Jason calcanis c'est
+c'est des stars et c'est des gens qui
+ont mis des tickets Tony h il a mis un
+ticket de 500000 dollars pour
+voir moi je voulais absolument investir
+et j'avais 52000 € sur mon compte à
+l'époque j'en ai mis
+50000 alors un non seulement ils m'ont
+accepté deux ils m'ont fait une Valo
+inférieure aux autres et trois je peux
+vous dire que j'ai été l'actionnaire le
+plus motivé pendant plus de 6 mois dans
+local motion parce que c'était tout pour
+moi en fait donc si j'avais eu 10000 €
+sur mon compte j'aurais dû en mettre
+9000 mais si tu as un type qui veut être
+Advisor parce qu'il a des compétences
+mais qu'il est pas capable de prendre le
+risque c'est que jamais il mettra ses
+compétences à ton service donc après
+risque ça peut vouloir dire des choses
+incroyable moi j'ai vu des gens lever
+des millions de dollars et laisser
+mettre et laisser des gens mettre 5000
+dollars et et tu peux dire 5000 dollars
+c'est rien mais non en fait si c'était
+beaucoup parce que le type en fait il a
+dû se mettre à découvert pour faire ce
+ de cheque de 5000 dollars parce
+que il était à un moment dans sa vie où
+il était cash pour donc il faut ce qu'il
+faut c'est toujours aligner le risque
+donner des actions à advis qui ne
+mettent pas d'argent c'est la meilleure
+façon qui ser à rien un associé c'est
+quelqu'un qui doit investir sa vie un
+associé c'est forcément quelqu'un full
+time les associés part c'est pas des
+associés c'est des investisseurs en
+capital il faut qu'il prennent du risque
+d'une autre façon que leur travail mais
+ça n'existe pas un associé qui met que
+du temps faut qu'il mette sa vie sinon
+il est pas égalité avec vous 3è type
+d'acteur
+alors c'est l'acteur que tout le monde
+connaît c'est les VC venture capitalist
+et j'aimerais vous raconter bonjour Père
+Castor j'aimerais vous raconter
+l'histoire secrète des VC parce qu'en
+fait les VC vous mentent et oui les v
+vous font croire qu'ils sont des
+investisseurs les v ne sont pas des
+investisseurs les V sont des gens
+professionnels compétents
+ont comme mission de gérer l'argent
+d'investisseur attention ça crée une
+grosse différence comment il constituer
+un vici un VC c'est une
+institution qui collecte de
+l'argent plein d'argent le met dans un
+pot et réinvestit cet argent en vue
+d'obtenir des retours pour les gens qui
+lui ont confié cet
+argent résultat inv VC
+c'est quelqu'un
+qui souvent commité dans son fond il
+s'est endetté pour acheter des action
+mais son commitment et même s'il s'est
+endetté même s'il a pris un gros risque
+à titre personnel c'est une fraction
+infime de l'argent qu'il a sous
+gestion il y a une deuxième
+caractéristique chez le Vic qui est
+intéressante c'est qu'un VI qui gagne de
+l'argent ou qui ne gagne pas de l'argent
+il gagne sa vie pourquoi parce que sur
+l'argent qui est dans ce pot tous les
+ans il va retirer entre 1 et 3 % pour sa
+poche pour payer son bureau pour payer
+les salaires pour payer les frais de
+fonctionnement pour payer tout
+ça donc sur un fond de VI d'indice 100
+l'argent investi en 5 ans c'est plutôt
+70 à peu près ça le
+ratio résultat s'il a 70 de l'argent
+investi et que ses
+investisseurs veulent récupérer de
+l'argent il a intérêt de faire des
+sacrés
+rendements maintenant deuxième chose
+qu'il faut comprendre c'est que si un VI
+investit l'argent des autres ça veut
+dire que tout les vicis ne sont pas
+égaux dans la confiance qu'on leur donne
+ils sont comme vous c'est quex aussi
+doivent aller lever des fonds et eux
+aussi il lèvent des fonds dans des
+conditions plus ou moins bonnes et
+résultat ça c'est très très troublant
+pour les pour les entrepreneurs à
+comprendre vous vous croyez que vous
+jouez à un jeu où vous allez voir
+quelqu'un vous le pitchez vous lui dites
+à quel point ce que vous faites est
+génial vous lui montrez votre équation
+et lui va être convaincu ou
+pas problème il est pas là le problème
+c'est que souvent il doit convaincre ses
+collègues donc vous avez des forces
+politiques au sein d'un vici qui peuvent
+être très forte parce qu'il y a des
+partenaires qui prennent des décisions
+d'investissement plus ou moins fortes et
+donc ils ont des rémunérations plus ou
+moins différentes et des bonus plus ou
+moins différent donc vous vous croyez
+que vous contactez ela mais vous avez
+pas compris que contacter Xavier c'était
+pas la même chose que contacter Marie et
+ça de l'extérieur c'est juste illisible
+parce que vous pouvez pas savoir à moins
+d'être un Insider depuis des années de
+connaître tout le monde de connaître les
+rumeurs et Cera enfin c'est c'est un
+boulot en fait de savoir l'état du
+marché la deuxième chose c'est que vous
+pensez qu'un VC il a besoin de faire un
+retour raisonnable avec vous donc vous
+pensez que ce qui compte pour un V c'est
+de faire un retour
+raisonnable maintenant prenons
+l'économic d'un VC vous avez
+70 vous l'investissez dans 10 boîtes à 7
+ok donc vous faites 7 7 7 7 7
+7 vous avez un ratio vous avez seulement
+une boîte sur 10 qui continue exister
+donc la boîte qui continue à exister si
+elle fait x 10
+elle rembourse que les se
+autres les les neu autres qui ont
+perdu si elle fait x 20
+elle ne fait que doubler la taille du du
+fond et donc eux ne rendent comme
+performance que 50
+%. vous voyez l'économic à quel point il
+est compliqué pourquoi les vis sont par
+votre Valo et pourquoi la seule chose
+qui intéresse un VI sur terre et votre
+valorisation contrairement à un Angel
+finalement la Valo à part pour la forme
+ça change pas grand-chose c'est parce
+que lui ses retours sont directement
+proportionnels au prix auquel il achète
+et donc mieux il
+achète plus il réduit son risque plus il
+augmente ses chances de
+survie
+mais si vous réfléchissez à un truc tout
+bête qui est qu'une société est vendue
+en moyenne en Europe quatre fois ses
+revenus son
+bénéfice si quelqu'un investit chez vous
+à 100 millions de
+Valot pour que la boîte soit vendue à X
+10 de 100 millions il faut qu'elle fasse
+100 millions de
+Valot pour faire 100 millions de Valot
+il faut qu'elle fasse 25 millions
+d'euros de
+bénéfice qu'est-ce que ça veut dire Val
+valoriser une boî 3 millions ça veut
+dire que vous êtes capable de
+générer plus de 3 millions de revenus de
+bénéfices en moins de 4 ans pour
+simplement rééquilibrer la valau que les
+gens viennent de payer par rapport aux
+contraintes de leur fond et si vous
+faites pas ça de bénéfice vous avez un
+problème parce que même si votre Valot
+structurelle monte parce que vous avez
+le marché en votre faveur ça veut pas
+dire que votre valau réelle monte il y a
+une différence entre la Valo sur le
+marché du capital et le Valo sur la sur
+le marché de la sortie et à chaque fois
+que vous levez de l'argent à une valeot
+plus élevée parce que vous avez de la
+compétition entre l'offre et la demande
+à chaque fois vous prenez le risque en
+fait à la fin de ne rien
+avoir résultat les VC sont une case par
+laquelle vous êtes en général forcé de
+passer je pense que dans cette salle à
+supposer que vous deveniez tous
+entrepreneurs et à supposer que vous
+réussissiez tous j'ai bien dit que vous
+réussissiez tous seulement 10 % de
+d'entre vous passeront par la case VC la
+case VC est absolument pas une case
+obligatoire contrairement à ce que
+pensent tous les entrepreneurs si vous
+prenez la liste de toutes les sociétés
+qui valent plus de 100 millions dans le
+monde et que vous regardez combien ont
+été vicb quand on dit VCB ça veut dire
+qu'ils ont reçu de l'investissement Vic
+la proportion de sociétés vcback sur les
+sociétés valant plus de 100 millions
+dans le monde est de 5 % le VCI est un
+un phénomène marginal de l'économie mais
+qui donne l'illusion d'être sa seule
+source de financement technologique mais
+c'est pas vrai alors un Vic ça
+intervient à quel stade il y a des Vic
+qui essaient d'intervenir tôt en
+investissant sur l'équipe mais ne rêvez
+pas là il faut avoir un CV super et
+sinon ils ont tendance à investir tard
+quand il y a beaucoup de Data pourquoi
+ils investissent tard parce qu'ils
+profitent d'une situation de marché où
+ils ont de l'ARG disponible à un endroit
+où personne n'est prêt à accepter un
+taux de risque tellement élevé et quand
+vous êtes dans un écosystème comme la
+France vous êtes dans un écosystème où
+structurellement il y a plus de projet
+que d'argent et ça c'est une grande
+naïveté de la plupart des
+entrepreneurs moi chaque fois que j'ai
+un entrepreneur qui sort d'un VC et qui
+me dit je comprends pas pourquoi le VC
+est pas convaincu alors que j'ai un bon
+business je réponds toujours la même
+chose c'est parce qu'il pense en avoir
+trouvé un meilleur ailleurs
+VC n'évalue un business dans l'absolu il
+évalue les dossiers par rapport à
+l'ensemble des dossiers disponibles
+aucun VC n'a suffisamment d'argent pour
+prendre tous les bons dossiers tous les
+VC sont dans une concurrence effrainé
+entre dossierers en plus ils sont pas
+d'accord entre eux sur ce qui est un bon
+dossier et donc parler à un V c'est
+parler à une machine politique instable
+extraordinaire à la fin de coup
+cet été je vais faire venir des
+entrepreneurs vous raconter leur levée
+de fond réel vous allez
+halluciner voulez que je vous raconte
+comment bunker a raté sa levée de fond
+chez Partech prenons un exemple tout
+bête bnker voit Partech partek sur
+enthousiaste ah mais ousama là on va le
+faire le deal franchement c'est un des
+meilleurs dossiers que tu nous ai jamais
+envoyé c'est génial j'organise un
+rendez-vous avec les avec les deux
+partenaires les plus importants il voit
+le partenire 1 le partenire 1 leur dit
+les gars pourquoi vous vous êtes à 5
+dollars par
+mois faut faut être gratuit faut être
+gratuit il faut avoir des millions
+d'utilisateurs et on vous vend à
+Microsoft dans 3 ans franchement il y a
+une opportunité incroyable àer faire 400
+million alors vous y allez à fond vous
+vous inquiétez pas pour les pertes nous
+on mettra tout l'argent qu'il faut sur
+la table pour vous
+soutenir mec dit ah ouais al le type à
+l'époque qui a pas encore compris
+comment March les levées de fond MPP dit
+ouais il m'a dit ça je savais pas trop à
+quoi répondre je dis bah écoute
+qu'est-ce que tu en penses toi il me dit
+bah je sais pas trop bon mais le
+lendemain il rencontre le deuxème
+partenire le plus important du fond et
+pour un autre rendez-vous de review et
+là le mec il regarde il dit mais les
+gars qu'est-ce que vous faites vous
+devriez être à 500 dollars par mois vous
+prenez pour qui une boîte de la vallée
+qui peut gagner sa vie sans faire de
+revenus vous croyez quoi qu'on va mettre
+de l'argent comme ça pour financer votre
+croissance moi je vous le dis Microsoft
+vous rachètera
+jamais c'est même pas
+exagéré les mecs étaai même pas d'accord
+sur la stratégie du
+fond résultat la semaine d'après alors
+là les mecs sortent ils sont terrorisés
+je lui dis mais tu as répondu quoi d je
+savais pas tu lui as dit que la veille
+l'autre t'avait dit dit non j'ai pas osé
+en plus le mec était tellement sûr il
+m'a hurlé dessus pendant une heure je
+savais pas quoi faire
+bon partnerer meeting alors quand vous
+passez les étapes dans un dans un
+partenariat vous avez d'abord les
+rendez-vous individuels puis après vous
+avez un rendez-vous avec tout le monde
+vous savez ce que ça été le Partner
+meeting ça a été une heure d'engueulade
+entre les deux sur ce que bunker devait
+faire avec comme conclusion non mais
+franchement ça vaut pas le coup de faire
+cet investissement les entrepreneurs qui
+ont confiance en eux ça n'existe
+pas la confiance en soi quand on est
+entrepreneur ça se bâtit avec le succès
+le jour où cœur va pitcher des
+investisseurs ils ont beau dire sur leur
+site internet on va tuer PowerPoint ils
+ont en tout et pour tout 10000 € sur
+leur compte donc quand ils vont voir un
+type qui gère 650 millions d'euros et
+que le type leur dit tu sais quoi on va
+te vendre 300 millions parce que tu vas
+faire peur à Microsoft et Microsoft va
+te racheter bah le kill PowerPoint n'est
+qu'un instrument de marketing pour que
+Microsoft a suffisamment peur et te
+rachète et que ta réaction quand tu es
+entrepreneur à ce moment-là quand un
+type te dit tu vas te faire acheter 300
+millions je te mets au défi de pas avoir
+une goutte de sur sur ton front à moins
+d'être fou tu vois à moins d'être
+complètement fou d'ailleurs maintenant
+ils ont un investisseur qui croit
+tellement à leur vision de de tuer
+PowerPoint qui leur a dit jamais on se
+vendra à Microsoft on va vraiment les
+tuer et on va vous soutenir pour ça mais
+c'est un coup de chance incroyable que
+leur vision soit aligné avec la vision
+de leur investisseur qui fait que
+maintenant qu'ils ont plus d'un million
+d'euros sur leur compte bah ils y
+croient vachement en fait à ça mais mais
+mais tu vois la différence qui s'est
+passée c'est que d'un côté on avait
+10000 € sur le compte de l'autre côté on
+a 1 million et en plus 1 million avec la
+promesse qu'on met 5 de plus si tu
+atteins une certaine métrique donc il y
+a juste à travailler sur la métrique
+c'est pas un problème compliqué tu vois
+ce qui se passe entre les deux mais le
+marketing des boîtes et le storytelling
+des boîtes change beaucoup avec le
+contexte les gens sont pas les gens sont
+pas cons je veux dire c'est très très
+dur d'avoir toute façon au passage les
+entrepreneurs qui essayent de prouver
+qu'il ont raison plutôt que d'essayer de
+gagner ils finissent tous par perdre ça
+c'est sûr parce que c'est un jeu où le
+but du jeu ce qu'on optimise c'est le
+fait de gagner pas pas le fait d'avoir
+raison quoi ce que j'essaie d'expliquer
+c'est qu'est-ce qui se passe quand on va
+voir un VC alors passons aux conclusions
+maintenant que vous avez compris la
+structuration d'un VC vous comprenez
+qu'est-ce que ça implique un VCI prendre
+de l'argent V ça implique que vous êtes
+dans une structuration de 1 ou zé vous
+devenez est binaire la réussite si vous
+avez pris de l'argent Vic ne se définit
+que par une seule chose c'est
+l'explosion
+capitalistique
+point alors que définir la réussite
+quand tu as pas d'argent viss c'est un
+truc hyper subtile est-ce que tu es
+heureux dans ton boulot est-ce que ça se
+passe bien est-ce que tu gagnes bien ta
+vie est-ce que tu as du revenu est-ce
+que tu vas être encore là dans 10 ans
+est-ce que tu as une bonne vision de ce
+que tu es en train de faire et ça c'est
+des questions philosophiques hyper
+compliqué à laquelle tu peux donner des
+réponses dans toutes les
+couleurs prendre de l'argent VI ça vous
+fait passer de l'autre côté de la
+barrière ça vous fait passer dans la
+cour des gens qui ne font qu'une chose
+c'est soit ils font un rendement pour
+leur VI ils ont gagné soit ils font pas
+de rendement pour le VI il ferment la
+boîte et ils arrêtent est-ce que faire
+une boîte qui vaut 180 million est une
+réussite qui pense que faire une boîte
+qui vaut 180 million est une réussite
+levez la main
+franchement les autres c'est parce que
+vous sentez le piège vous êtes malin tu
+as 50 % d'une boîte qui s'est vendu 180
+millions et qui a levé 60 millions
+d'euros c'est une réussite ou c'est pas
+une
+réussite qui pense que c'est une
+réussite
+ouais bah vous avez tort racontons
+l'histoire réelle de dig vous connaissez
+dig Kevin rose Kevin rose il fait une
+boîte il lève de l'argent première Valot
+12 millions 3è Valot euh 2è Valo 60
+millions 4è Valo 700 millions 3è Valo
+700 million avant la 3è Valo il reçoit
+une offre d'achat de Google de 700
+millions de dollars
+ok les mecs lui disent ces investisseurs
+il faut que tu la refuses parce que ta
+boîte elle va pas valoir 700 millions de
+dollars elle va envoir des milliards et
+que nous on est prêt à prendre le risque
+de te mettre dans cette situation là
+donc d'ailleurs pour te prouver qu'on
+est prêt à prendre ce risque on va te
+laisser lever de l'argent à 700 millions
+de Valo et on va te faire un chèque à
+titre perso de 3 millions pour que tu
+mettes un peu d'argent de côté si on
+s'est
+trompé Kevin rose prend le deal mais
+qu'est-ce qu'il a fait en prenant le
+deal il a pris une clause qui s'appelle
+une liquidation de préférence je vais
+pas rentrer dans le détail mais cette
+clause elle dit quoi elle dit que la Val
+de 700 millions c'est la Val d'achat
+mais que la valau de retour minimum à la
+vente doit être d'un milillard
+4 et ben quand il vend la boîte 180
+million il y a même pas 1 centime alors
+qu'il a 50 % de la boîte qui tombe dans
+sa
+poche même pas
+un pourquoi parce que le rendement qu'il
+a produit pour ces VCI est ridicule par
+rapport au rendement espéré vous jouez à
+un jeu du retour sur investissement vous
+jouez à un jeu du rendement et le jeu du
+rendement c'est un jeu auquel vous devez
+absolument jouer en conscience de cause
+donc je suis pas en train de dire qu'il
+faut absolument refuser l'argent VC
+d'ailleurs j'aurais même tendance à vous
+à vous le recommander de prendre
+l'argent VC je vais le dire pourquoi
+parce que si vous oubliez votre boîte et
+que vous regardez votre petite personne
+d'un point de vue très égoïste le fait
+de lever de l'argent auprès d'un Vic
+vous fait rentrer dans la ligue des gens
+qui ont levé de l'argent auprès d'un VI
+ici et ça sur un CV quoi qu'il arrive à
+votre boîte ça rend vachement bien donc
+si vous êtes dans une logique de
+construction de carrière
+entrepreneuriale en vous disant que le
+but du jeu c'est que vous ayez
+suffisamment de chance en recommençant
+suffisamment de fois et ben le fait
+d'avoir pris une fois dans votre vie de
+l'argent d'un investisseur top class
+connu mondialement bah ça vous met dans
+la catégorie dans la ligue des gens qu'
+ont fait ça c'est comme jouer en NFL
+même si vous avez mal joué en NFL vous
+pouvez être entraîneur dans toutes les
+équipes de ligue B jusqu'à la fin de
+votre vie vachement bien gagner votre
+vie parce que vous étiez en NFL vous
+aviez beau être le 100è joueur en NFL il
+n'empêche vous étiez en Ligue A et le
+fait d'être rentré en Ligue A c'est
+quelque chose sur lequel vous pouvez
+compter toute votre vie le VCI
+aujourd'hui il sort plus des boîtes
+parce que les marchés sont plus liquides
+et qu'aujourd'hui les Vic ils ont trouvé
+une astuce technique qui s'appelle la
+vente secondaire donc c'est leur fond
+qui vendent et non pas ta participation
+là ça devient stratosphérique qui est
+technique quelle est la meilleure façon
+de produire un un retour pour vos
+investisseurs si vous avez beaucoup de
+mal à sortir de vos participations une
+par une pourquoi vous avez beaucoup de
+mal à sortir de vos participations une
+par une parce que plus personne
+s'introduit en bourse cette année c'est
+c'est l'année de retour des
+introductions en bourse il y a eu 200
+introductions en Bourse dans les années
+2000 il y avait à peu près quand ça
+allait mal 3000 introductions en bourse
+par an donc le retour en fait est
+ridicule donc résult en fait les
+investisseurs ne sont plus dans le jeu
+je vends la boîte au bout de 5 ans parce
+que c'est très dur de prédire à quel
+moment la boîte sera revendue donc par
+exemple ce qui est avant était une
+pratique chez les Vic qui s'appelait la
+clause de sortie a disparu chez tous les
+investisseurs de catégorie A et a
+disparu chez tous les investisseurs de
+catégorie B c'est fini ça pourquoi parce
+que eux maintenant ne vendent plus leur
+participation ils vendent leur fond
+qu'il prennent l'ensemble de leur
+participation dans un véhicule et ils
+refourgent le véhicule en disant bah ça
+doit bien valoir temps et donc ça
+produit un rendement et donc ça permet
+de vendre alors qu'on n pas sorti
+individuellement des participations
+parce que les VC se sont rendus compte
+qu'ils étaient des très très mauvais
+vendeurs parce que pour sortir des
+participations faut être un bon vendeur
+ils vendent à des gens qui veulent
+acheter des classes d'actifs pour placer
+de l'argent je te donne un exemple la
+famille Ikea produit 2 milliards de
+dividendes par an bah ces 2 milliards
+faut les placer et donc si tu as un VC
+qui vient qui dit moi j'ai investi
+pendant 5 ans dans 25 société je te
+propose de racheter entre 10 et 20 % de
+ces 25 sociétés d'un coup bah c'est de
+la vente en gros tu vois ça vaut le coup
+parce que tu as tellement d'argent tu
+peux pas le réinvestir individuellement
+si la famille Ikea voulait investir 2
+milliards de façon individuelle dans des
+participations tous les ans faudrait
+qu'il devienne un VI eux-même en fait
+donc autant racheter le résultat final
+avec un premium que de construire et que
+ça te coûte l'argent de construire
+chaque participation individuelle si un
+jour vous faites une boîte et que vous
+levez de l'argent vous avez le droit de
+nous demander notre fichier secret avec
+la not tous les vicis d'Europe à the
+family on a un fichier où tous les vicis
+d'Europe ont été notés par tous les
+entrepreneurs aant levé de l'argent et
+vous avez une note de comportement et
+note de prestige qui est donné sur
+chacun mais les Vic sont catégorisés en
+trois catégories partout c'est Tier One
+tier two tier Free et ils sont
+catégorisés par quoi ils sont capacités
+par leur capacité à rendre l'argent
+qu'on leur a donné capacité à aider
+effectivement les entrepreneurs et à
+donner de la valeur et capacité à
+inquiéter les autres acteurs du marché
+quant à leur argent le tir
+en Europe c'est index et
+acel point ça c'est le tir one je pense
+que index venture et acel venure en
+Europe ont capté je connais le chiffre
+il y a 2 ans il y a 2 ans ils ont capté
+à eux tout seul 90 % de la plus-value
+produite en Europe c'est que 90 % de
+l'argent et du retour sur investissement
+a été capté que par eux ensuite tu as
+les tir tout alors tir tout tu as ID
+invest Partech ela et cetera puis après
+tu as le tier free où là il y a la
+majorité des
+investisseurs et ça
+c'est il y en a des centaines je sais
+pas le fond régional d'amorçage
+l'île-de-fance le fond régional
+d'amorçage PACA tuas un type qui sait
+même pas ce qu' une start-up il donne de
+l'argent quand même quoi parce que parce
+qu'il y a un type qui lui a dit qu'il
+fallait donner de l'argent au start-up
+il y a 3 ans il faisait les dossiers de
+subvention à l'inerme maintenant il met
+dans les startups et dans 5 ans il va il
+va je sais pas il va aller vendre des
+des trucs quoi idéalement il faut viser
+le Tier One
+ti one c'est pas une question de taille
+c'est une question de alors après
+évidemment c'est mécaniqu qui deviennent
+les plus gros mais c'est une question de
+performance en fait c'est comme ça que
+tu les classes c'est performance de tu
+préfères être du côté des gens qui ont
+de la performance que du côté des gens
+qui ont pas de performance c'est c'est
+évident un autre sujet qu'il faut
+comprendre avec les VC c'est que
+pourquoi tout à l'heure je disais que
+une minorité d'entre vous ça veut pas
+dire que je vous recommande pas prendre
+de l'argent VC mais en fait c'est une
+réalité c'est que normalement dans cette
+pièce la majorité entre vous ne voudront
+jamais jouer au jeu des taux de
+rentabilité je reprends l'histoire de
+dig tout à l'heure
+dig c'est une société qui si elle avait
+été gardée indépendante elle aurait
+rendu ses fondateurs extrêmement heureux
+elle aurait payé des salaires plus que
+convenables elle aurait eu un un taux de
+croissance plus que convenable et les
+fondateur aurait gardé le
+contrôle donc comprenez juste que quand
+vous prenez l'argent
+d'investisseur vous passez de l'autre
+côté de la barrière et quand vous passez
+de l'autre côté de la barrière B vous
+c'est plus votre boîte alors ça c'est le
+dernier élément prendre de l'argent
+Vic c'est reconnaître que la société ne
+vous appartient plus mais qu'elle
+appartient à la performance et que c'est
+la seule obsession et qu' y a rien
+d'autre qui compte Steve Jobs il avait
+1% d'Apple il n'empêche il avait tous
+les pouvoirs dans Apple et il avait pas
+tous les pouvoirs parce qu'il avait tous
+les pouvoirs et qu' était Steve Jobs non
+c'est parce qu'il les avait gagné tous
+les pouvoirs si vous faites de rentrer
+de l'argent investisseur dans votre
+société vous allez au devant de conflits
+politiques et de pouvoir énorme et
+certains vousent gagnez certains vous
+les perdez mais diriger une boîte avec
+un investisseur de premier rendedans
+c'est extrêmement sportif il y a des
+dizaines de livres que vous pouvez lire
+mais il y en a un est vraiment sympa
+c'est I feel lucky c'est le 50e employé
+de l'histoire de Google et qui raconte
+dedans les relations entre Larry Page
+Sergey Brin et les les fondateurs de
+Google et les investisseurs pardon Larin
+et les investisseurs de Google c'est une
+guerre permanente c'est des engueulades
+permanentes et et c'est des menaces
+d'être viré
+permanent c'estd que la majorité des
+fondateurs ayant un Vic comme
+investisseur finissent par se faire
+virer ça c'est c'est une réalité et les
+investisseurs détestent virer des
+fondateurs et c'est l'un des rares
+sujets sur lesquels ils sont honnêtes
+j'ai vu tellement d'entrepreneurs parano
+qui t'expliqueent qu'en fait
+l'investisseur il investit chez toi pour
+prendre le contrôle de la boîte et te
+virer quand ça marche pour prendre tout
+le crédit je peux vous dire un truc
+c'est aucun investisseur au monde ne
+souhaite ça pour une raison très simple
+c'est quand même génial d'avoir un type
+qui bosse dans la boîte et qui est
+commited et qui est tous les matins au
+bureau à 6h le matin quand eux ils sont
+en train de dormir parce qu'ils sortent
+du
+golf c'est quand même bien plus agréable
+comme situation il y a faut faut être
+sacrément paranoïac pour croire que le
+but d'un investisseur c'est de vous
+virer mais la vérité c'est que beaucoup
+d'investisseurs virent beaucoup
+d'entrepreneurs parce qu'ils ne sont pas
+à la hauteur et que le problème c'est
+que prendre de l'argent Vic être à la
+hauteur dans une définition Vic ce n'est
+pas être à la hauteur dans une
+définition
+classique c'est ça le problème donc
+c'est un choix que vous devez faire par
+rapport au jeux auquels vous voulez
+jouer et c'est pour ça que tout à
+l'heure je vous disais l'argent que vous
+prenez a énormément d'importance parce
+que les VC investissent de plus en plus
+tôt les fonds d'amorçage les machins
+maintenant les VC sont capables de faire
+des chècs de 50000 €. chose qui était
+impossible avant aujourd'hui ils en sont
+capables parce qu'ils veulent vous
+suivre le plus tôt possible mais un V
+qui met un chèque de 50000 € c'est un
+poison absolu deuxème chose c'est qu'un
+V qui met de l'argent c'est un signal je
+vous raconter un truc index a mis de
+l'argent dans The Family et a mis très
+très très peu d'argent index venture
+quand on a pris le nouveau lieu on s'est
+dit tiens on va relever un peu d'argent
+et puis là en ce moment on est dans le
+process de levere de
+fond quelle est la seule question que
+posent les gens quand on leur demande
+d'investir
+est-ce qu'index a remis de l'argent ou
+pas
+point pourtant à chaque fois je joue au
+jeu parce que d'abord la première
+personne que j'ai été voir pour remettre
+de l'argent c'est index pour commencer
+et la deuxième chose c'est que moi je
+joue au jeu de et pourquoi c'est
+important toute façon index représente
+une part tellement minoritaire de notre
+capital que ils ont pas leur mot à dire
+les gens disent oui non mais bien sûr
+ils ont remis de
+l'argent non mais juste là là si je leur
+demande ils diront oui et pourquoi parce
+que parce que le problème c'est que si
+vous avez un investisseur d'élite chez
+vous et qu'il a le malheur de pas
+réinvestir je peux vous dire quelque
+chose c'est que personne n'investira
+jamais chez
+vous
+personne et c'est pour ça que vous devez
+faire très attention au moment où vous
+faites rentrer les Vic et les Vic de
+catégorie 1 vous devez faire rentrer un
+VC qu'à partir du moment où vous êtes
+conf
+et que vous vous dites le raisonnement
+suivant soit je suis prêt à ce que la
+boîte ferme parce que j'ai pas atteint
+mes maétriques et donc vous vous dites
+je prends de l'argent et dans 18 mois si
+j'ai pas atteint mes métriques je
+préfère arrêter que continuer parce que
+ça me tient pas suffisamment à cœur pour
+que je
+réessaye soit vous acceptez le fait que
+si vous atteignez vos maétriques il va
+falloir les convaincre eux de remettre
+de l'argent sinon vous avez plus de
+signal mais prendre de l'argent vici en
+plus c'est vous mettre à risque non
+seulement sur le moment donc vous
+rentrez dans le jeu de la performance et
+des rendements mais en plus c'est vous
+mettre à risque sur le très long terme
+parce que maintenant c'est fini c'est e
+ou rien alors que la même boîte avec les
+mêmes métriques mais qui aurait pas eu
+index si nous on avait pas eu index tout
+le monde aurait investi sans
+réfléchir parce que nos métriques
+suffisaient s amplement à justifier le
+réinvestissement mais vous voyez la
+priorité de raisonnement dans la
+dynamique investisseur dans la dynamique
+investisseur ce que les investisseurs
+d'élite pensent de vous est bien plus
+important que la votre situation réel et
+des fois bah ça crée des drames vous
+avez un cas très célèbre Instagram
+Instagram a failli ne pas lever de
+l'argent parce que andrison orovitz a
+refusé de faire la série a alors qu'ils
+avaient fait le seed et ils ont failli
+rater leur sériea à cause de ça ça s'est
+joué à des histoires d'hommes les
+différents stades d'investissement
+premier
+sed ensuite série a série B série C
+série D la première fois que vous
+recevez un chèque quel que soit le
+montant du chèque ça s'appelle du SID la
+deuxème fois ça s'appelle de la série a
+la trème fois ça s'appelle de la série B
+la 4è fois ça s'appelle de la série C et
+cetera alors c'est une c'est une
+question technique parce qu'à chaque
+fois que vous faites investir quelqu'un
+vous émettez des actions et vous les
+appelez des actions de catégorie A des
+actions de catégorie B des actions de
+catégorie C et cetera les séries ne se
+définissent ni par le montant ni par le
+type d'investisseur ni par le moment
+après effectivement les v préfèrent les
+Séria que les
+Sid parce qu'il préfèrre que l'argent
+des autres a été dépensé pour vérifier
+les premières hypothèses avant de
+dépenser leur propre argent mais ça veut
+pas dire qu' un Vic ne peut pas faire
+une série
+a alors les VC ils ont un problème et
+ils ont un problème très grave c'est
+qu'ils ont de plus en plus de mal à
+garder leurs investisseurs inactifs je
+vous l'ai dit tout à l'heure inv V c'est
+quoi c'est quelqu'un qui va chercher de
+l'argent auprès d'investisseur qui le
+met dans un pot qui ponctionne une
+partie de ce pot et qui en échange de
+cette ponction travaille à à répartir
+l'argent le problème c'est que c'est une
+industrie qui a trop déconné pendant
+trop longtemps ce qui fait que de il y a
+plein de nouveaux acteurs qui sont en
+train d'émerger et il y a plein de
+nouveaux acteurs qui sont en train de
+les courtcircuiter
+par exemple à the family on est de plus
+en plus contacté par trois nouveaux
+types
+d'acteurs premier type d'acteur c'est
+les Edge F alors un edge F c'est quoi
+c'est comme un VC c'est quelqu'un qui va
+chercher de l'argent chez des gens et
+qu' invvestit sauf qu'il y a une
+différence entre un VC et un edgef c'est
+qu'un edgef il est capable d'investir
+dans n'importe quelle classe d'actifs
+différente qu'est-ce que ça veut dire ça
+veut dire qu'il est capable d'acheter du
+gaz le matin et d'investir dans facebook
+le soir et de vendre les actions
+Facebook pour acheter de l'or et mettre
+sur les sur les devises le lendemain
+pour prendre le bénéfice et l'investir
+dans votre start-up et les hedge fund
+ils ont découvert un nouveau monde celui
+des start-ups alors c'est la grande fête
+alors ça a commencé dans la vallée mais
+c'est en train d'arriver en Europe et
+vous voyez de plus en plus de hedgefund
+qui font des deals de plus en plus
+agressifs snapchat n'a pas été à financé
+par un un VC snapchat vient d'être
+financé par un hedgefund alors en Série
+B mais quand même toutes les term sheet
+VC ont perdu face au au term sheet c'est
+le contrat face au contrat offert par le
+hedge fundo résultat cet acteur un
+acteur de capital massif qui fait que
+comme vous avez besoin de moins en moins
+d'argent au début vous pouvez bâtir de
+laattacction de plus en plus forte et
+vous pouvez intéresser ces gens-là sans
+passer par la case
+VCI le de deè type d'acteur qui est en
+train de s'exciter alors les hedge F
+était un acteur qui traditionnellement
+mettait une partie de leur argent chez
+les VC maintenant ils l'investissent en
+direct le deuxème type d'acteur c'est ce
+qu'on va dire ce qu'on va appeler les
+hommes d'affaires au sens très large
+alors il y a une différence entre un
+homme d'affairire et un Angel c'est
+qu'un homme d'affaire va prendre un rôle
+actif dans votre
+boîte il va soit prendre un poste au
+Conseil d'Administration soit et cetera
+et il y en a de plus en plus qu' de plus
+en plus d'argent qui sont soit des
+anciens entrepreneurs
+soit c'est des gens qui ont hérité de
+grandes fortunes et qui se disent que
+quand même le monde du venture est un
+monde fascinant rempli de choses
+intéressantes et ça vaut le coup d'être
+actif et quand vous avez le choix entre
+prendre ben je sais pas 5 millions du
+fils drappeur ou 5 millions d'un VC bah
+il y a des gens qui préfèrent l'argent
+du fils drappeur donc c'est un deuxième
+élément de concurrence pour les
+VC et le troisième acteur c'est les
+industriels alors
+parlons des avantages et inconvénients
+des trois les hedge fond apportent de
+l'argent mais aucune valeur ajoutée les
+types ils savent même pas de quoi est
+fait votre business ils connaissent
+personne ils peuvent rien faire pour
+vous à part mettre de l'argent sur la
+table donc le deal est super simple en
+général les h f Il jouent à quoi il
+jouent à une explosion de Valo par
+exemple de snapchat il est à mourir de
+rire snapchat devait lever à 1 milliard
+de Valo et il y a un HF qui est arrivé
+qui a dit j'aiinvestis à
+4 vous prenez prenez
+pas voyez à quel jeu il joue il joue au
+jeu de l'argent agressif de l'argent
+massif et de l'argent sans aucune valeur
+c'est à peine s'il vous don le numéro de
+téléphone donc pour le coup c'est plutôt
+pas mal parce que ça remet à nouveau de
+la pression sur un marché qui s'était
+endormi et qui change un peu les règles
+alors attention juste une seconde il y a
+un gros problème avec les c'est que
+aucun n F au monde n'investira chez vous
+si vous avez pris de l'argent love money
+pourquoi parce qu'il y a une contrainte
+légale sous-jacente que vous ignorez
+c'est que les hedgefond sont responsable
+de leurs actifs de façon illimitée en
+général résultat ils ont terrorisé à
+l'idée qu'un actionnaire minoritaire
+viennent les attaquer en justice c'est
+une terreur pour eux parce que sils ont
+des class action ou des choses comme ça
+c'est c'est un gros problème et donc
+vous voyez comme une décision qui peut
+paraître insignifiante
+encore une fois on retourne à ça une
+décision insignifiante au début a des
+conséquences sur le très long
+terme donc le deal F il est simple il
+est plutôt straight forward il est
+extrêmement capitalistique et il a pas
+de
+problème les hommes d'affaires alors les
+hommes d'affaires c'est très dur de dire
+parce que c'est très individuel mais
+vous voyez bien l'engagement
+l'engagement c'est que c'est des gens
+insupportables parce qu'ils sont pas
+devenus ce qu'il cétait sils étaient pas
+profondément impliqué mais en général
+ils ont un nom ils ont ils ont de la
+culture et cetera et donc il y a une
+seule façon de voir ces investissements
+là c'est de voir ces investissements là
+comme des investissements d'apprentiss
+d'apprentissage qu'est-ce que ça veut
+dire ça veut dire que si vous faites
+rentrer un Bernard Arnaud chez vous et
+qui met beaucoup d'argent qui est très
+impliqué vous devez admettre l'idée que
+vous allez travailler pour Bernard
+Arnaud point c'est pas la peine de vous
+la jouer c'est pas la peine de vous la
+raconter c'est c'est un ur qui forcément
+devient en fait une votre patron et
+forcément vous avez des comptes à lui
+rendre en général les hommes d'affair
+quand ils investissent c'est qu'ils
+investissent dans un truc qu'ils
+connaissent sinon ils sont Angel
+investor la différence entre un Angel
+investor et un et un homme d'affaire
+c'est que l'homme d'affair connaît aussi
+bien voir mieux que vous ce que vous
+êtes en train de faire si tu prends un
+médecin très connu comme actionnaire
+parce que tu fais un truc dans la
+médecine bah si si tu es très jeune et
+qu'il est très vieux et qu'il est très
+connu et qu'il a une super réputation
+bah tu dois admettre l'idée qu'en fait
+tu es en train de travailler pour lui et
+que quand vous êtes pas d'accord s'il
+faut aller à droite ou aller à gauche
+s'il dit qu'il faut aller à gauche tu as
+beau avoir la majorité des parts vous
+irez à gauche parce que tu peux pas
+lutter contre ce leverage il faut juste
+le savoir faut faut juste savoir ce
+qu'on signe c'est pas c'est pas je suis
+pas en train de dire que c'est quelque
+chose de grave c'est juste c'est pas le
+même jeu c'est pas la façon de voir tout
+ça c'est que chaque investisseur écrit
+ses règles du jeu en vous donnant un
+chèque et la question c'est est-ce que
+vous jouez ou est-ce que que vous ne
+jouez pas c'est ça la bonne question à
+se poser et la bonne question à vous
+poser dès maintenant c'est à quel jeu
+vous voulez jouer est-ce que vous voulez
+jouer au jeu rapide ou lent est-ce que
+ce qui compte le plus pour vous c'est
+votre idée ou votre réussite et en
+fonction de ça vous optimisez l'un ou
+l'autre c'est ça ça peut vous paraître
+très abstrait mais en fait ça l'est pas
+c'est c'est vraiment des décisions que
+vous allez prendre le jour où vous
+fondez votre
+boîte l'impression que vous faites sur
+ces gens-là est très
+importante
+euh notre liste de société à The Family
+est
+secrète et les gens comprennent pas très
+bien pourquoi elle est secrète les gens
+pensent que elle est secrète parce que
+ça donne un côté secte mais ça j'ai
+envie de dire on a la porte à l'entrée
+le logo quoi on avait pas besoin d'avoir
+une liste de start-up secrète pour avoir
+l'air d'une secte les gens se disent
+leur liste est secrète parce qu'en fait
+ils ne veulent communiquer que sur leur
+succès la bonne blague à chaque fois
+qu'une start-up fait faillite chez moi
+je suis plutôt fier j'ai pas de j'ai pas
+de problème avec ça parce que je me dis
+ils ont arrêté de perdre leur temps ils
+vont faire quelque chose d'autre de leur
+vie en fait notre liste elle est secrète
+pour une simple raison c'est qu'on veut
+qu'à chaque fois que quelqu'un nous
+téléphone et nous demande ce qu'on pense
+de X Y ou Z pouvoir dire la
+vérité on veut ne jamais être pris en
+flagrant d'lit mensonge de ce qu'on
+pense de quelqu'un
+98 % des startup qu'on accepte à
+family on en pense du mal pourquoi parce
+que 98 % des startup qui rentr dans
+family ne sont pas prêtes et elles sont
+pas prêtes pour plein de raisons elles
+sont pas prêtes parce qu'elles ont pas
+encore trouvé leur marché elles sont pas
+prêtes parce qu'on sait pas encore si
+les mecs sont des sont des doux rêveurs
+ou des des génies parce que la
+différence entre un génie et un héros
+entre un héros et un tocar c'est d'être
+passé de l'autre côté de l'eau quand
+vous êtes sur votre radeau vous êtes un
+fou vous êtes un héros quand vous
+décidez de traverser la Manche sur un
+radeau vous êtes un héros quand vous
+arrivez de l'autre côté mais au milieu
+de l'eau c'est très dur de savoir ce que
+vous êtes alors pourquoi on exige le
+secret de nos membres parce qu'on leur
+dit écoutez les gars ce qui va se ça va
+nous permettre de nous donner
+suffisamment de temps pour se découvrir
+suffisamment
+intimement pour que le jour où quelqu'un
+me téléphone en me disant ah j'ai appris
+que machin était chez toi et ben je
+disent que du bien estce qu'on aura
+travaillé suffisamment et donc qu'est-ce
+qu'on révèle comme société on révèle que
+les sociétés sur lesquelles on peut dire
+du bien c'est notre façon à nous de
+mentir par omission et qu'est-ce qui se
+passe bah il y a il y a deux grands
+groupes d'entrepreneurs dans The Family
+il y a les naïfs et les
+autres les naïfs ils se disent non mais
+il dit ça mais en fait il va quand même
+dire du bien moi sinon il m'aurait pas
+pris et puis il y a les gens qui ça fait
+même pas une semaine qu'ils sont dans
+family ils vont vont faire des
+rendez-vous avec tous les investisseurs
+de la place c'est arrivé plusieurs fois
+c'est à mourir de à chaque fois et ils
+disent ouais on vient d'être pris dans
+the family on veut lever des fonds et
+ils prennent le fait d'avoir été pris
+dans The Family pour fond qu'est-ce que
+font la première chose de type pas à
+l'escalier qu'est-ce qui se passe bah
+mon téléphone sonne qu'est-ce que je
+fais je détruis la boîte parce que le
+problème c'est pas cette boîte le
+problème c'est ma réputation de ma
+parole sur les centaines de boîtes qu'on
+va accepter pendant les prochaines
+années et vous avez beau dire aux gens
+je vous offre une chance incroyable en
+vous laissant pas marketer votre
+appartenance profitez-en parce que le
+jour où vous êtes dehors et que vous
+allez lever des fonds ça va tout changer
+puis il y a l'inverse bah il y a des
+gens comme star of service par exemple
+qui a paré sur Star of service star of
+service pendant des mois si des gens
+m'avaient appelé en me disant ce que tu
+penses de star of service j'aurais été
+sacrément dans la merde cette boîte ne
+valait
+rien mais depuis quelques semaines elle
+vaut quelque chose et ils sont en train
+de dire à tout le monde qu' sont dans
+une famille à chaque fois quelqu'un
+m'appelle je dis c'est franchement l'un
+des meilleurs investissements de l'année
+pourquoi parce que je je le crois
+qu'est-ce qui s'est passé entre les deux
+entre les deux ils ont vachement bossé
+parce qu'une start-up elle ne né jamais
+correctement si vous croyez que le but
+du jeu c'est de sélectionner les bonnes
+idées vous avez rien compris à ce milieu
+personne n'a de bonnes idées dans ce
+milieu on l'a vu ensemble par contre
+vous jouez un jeu où si vous allez voir
+les vis trop tôt ou les industriels trop
+tôt et cetera ils vont se faire une
+opinion sur vous et c'est super dur de
+revenir
+par-dessus c'est super dur parce que
+c'est un milieu où les first impression
+comptent
+énormément donc la conclusion à mon
+petit speech du
+jour à un moment ou un autre vous allez
+avoir besoin d'argent plus ce moment est
+tard et mieux vous êtes plus vous
+reportez la décision de à quel jeu je
+joue mieux vous êtes prenez pas de Love
+Money trop tôt gardez le Love Money le
+plus tard possible ne prenez pas de vici
+trop tôt gardez-le le plus tard possible
+faites en sorte de vous bâtir une
+conviction sur ce que vous voulez être à
+quel jeu vous voulez jouer et quel type
+de société vous voulez être et C genre
+de conviction vous ne pouvez pas les
+bâtir le jour de la fondation de votre
+boîte déjà être d'accord avec ses
+cofondateurs sur ce ce genre de sujet
+c'est déjà très très dur donc vous avez
+deux cas soit votre vous êtes avec des
+condateurs qui s'en foutent et ils vous
+font confiance qui est vraiment le
+meilleur des
+cas et franchement la plupart des très
+bonnes boîtes c'est des structure de
+type vous avez des confondateurs qui
+s'en foutent et qui font confiance à
+l'un pour gérer ce genre de
+problème et vous avez un deuxième type
+de
+situation c'est la situation où vous
+êtes pas d'accord sur le type de boîte
+autant le découvrir avant d'aller
+chercher l'argent parce que quand vous
+allez chercher l'argent Vic je vais pas
+vous donner le nom de la boîte mais
+récemment on a on a vécu une
+crise des gens ont levé 7 million 3 et
+les mecs ont levé 7liion 3 de des
+fondateurs découvrent qu'il va falloir
+en rendre 50 mais sérieusement il le
+découvre en conseil d'administration je
+vous le jure ça peut vous paraître
+complètement dingue vous dites mais
+c'est pas possible mais les types ont
+vraiment sorti mais je comprends pas
+pourquoi on se fait chier là on a un bon
+revenu on a un bon
+salaire moi là je pars en vacances là ça
+fait chier quoi et vous avez le le CEO
+qui découvre que le qu'il est associé
+depuis 5 ans avec deux types dont le
+seul but c'était de
+coder et ils ont coder pendant 5 ans et
+maintenant qu'il faut faire autre chose
+que coder et que maintenant il faut
+transformer ça en vraie boîte bah ça les
+fichier et ben il y a une seule réponse
+à ça c'est de les sortir et je peux vous
+dire que ce genre de sorti là ça fait
+super
+mal parce que quand vous avez
+l'investisseur qui un découvre qu'en
+fait l'équipe parce qu'il a interagit
+qu'avec l'un mais que les deux autres
+sont absolument pas alignés je vous dis
+pas la confiance perdue c'est vous
+perdez moins 100 en confiance et pour
+les gagner vous allez falloir remonter
+deuxième chose vous vous dites mais
+c'est quand même dingue c'est comme
+passer 10 ans avec quelqu'un et jamais
+avoir parlé des enfants puis au bout de
+10 ans le type dit ah on fait des
+enfants ah bah non pas moi moi je me
+barre vous dites mais qu'est-ce qu'ils
+ont fait pendant 10 ans avant c'est
+exactement la même histoire c'est que
+vous vous dites il a un vrai problème de
+communication et de travail et d'un seul
+coup quand vous découvrez que les gens
+dans votre équipe jouent pas au même jeu
+que vous vous comprenez
+rétrospectivement pourquoi vous avez pas
+été aussi haut que vous auriez dû y
+aller parce qu'en fait vous aviez des
+poids invisibles qui vous retenaient et
+ces poids ils étaient accrochés et donc
+maintenant faut les décrocher il faut
+les décrocher au bout de 5 ans et et là
+je vous dis pas je vous dis pas la la la
+violence du décrochage les leveurs de
+fond c'est comme les
+champignons c'està que quand ils sont
+bons ils sont incroyables et quand ils
+sont mauvais ils sont incroyablement
+toxiques voire
+mortels donc choisir un leveur de fond
+c'est très dur très très dur et
+franchement sur la place à Paris il y en
+a trois vous avez Pascal Mercier global
+equity
+vous avez clipererton
+finance et vous avez la Financière
+Cambon donc les gobituin sont
+extrêmement utiles parce que dès que
+vous commencez à lever des sommes
+importantes vous avez un tel formalisme
+et tellement de dossiers à faire et
+cetera que je vois pas pourquoi ce
+serait vous qui les faites et les 50000
+€ plus les 4 % que vous allez payer ou
+les 6 % que vous allez payer sur votre
+lev ça coûte cher une lev il valent
+largement le coup parce que que parce
+que c'est des prises de tête mais ils
+valent le coup quand vous les payez à
+des gens qui savent ce qu'ils font
+maintenant ce que tu Appell les ce qui
+s'appelle les startup
+studio c'est un modèle
+euh assez assez sympa il y en a des bons
+il y en a des mauvais en France on a
+efunders par exemple où les types
+prennent 70 % de ta boîte et te laissent
+30 % mais ils font un tel travail que ça
+peut valoir le coupt pour une première
+expérience de la faire en mode
+soft donc après est-ce que tu as envie
+travailler avec efunders ou tu as pas
+envie de travailler avec efunders c'est
+des questions d'humain mais j'ai jamais
+vu quelqu'un travailler avec efunders
+c'est venir me dire ils sont
+incompétents il y a des gens qui
+viennent et te disent bon finalement
+j'aurais peut-être pu le faire tout seul
+mais ça c'est facile à dire après
+coup c'est toujours c'est toujours le
+même problème en fait les start-up
+studio c'est un modèle qui est pas très
+développé en fait tu as eunders Rocket
+internet enfin tu en as pas beaucoup en
+fait de gens qui majoritairement par
+contre les les leveurs de fond et des
+gens qui prétendent t'élever t'aider
+pour ta il y en a plein restez très loin
+d'eux sauf si vous pouvez vous payer les
+meilleurs et les meilleurs il y en a
+très peu vaut mieux ne pas avoir de
+leveur qu'un mauvais et vous n'imaginez
+pas la réputation que les mauvais
+leveurs ont chez les investisseurs c'est
+que des dossiers qui viennent avec les
+mauvais leveurs deviennent des dossiers
+que personne ne
+veut vraiment donc donc faites faites
+très attention à ça donc dernière
+catégorie de nouveaux acteurs c'est les
+industriels les industriels sont des
+deals du genre stratégique alors ils ont
+du du bon ils ont du mauvais qu'est-ce
+que ça veut dire un deal stratégique
+c'estd que un industriel qui investit
+chez vous c'est pas de l'argent neutre
+imaginez que Samsung investisse 10
+millions chez vous plus jamais vous
+mettez votre app sur l'App
+Store si vous êtes un fabricant de
+marchand d'appp iPhone et vous avez
+Samsung comme actionnaire vous êtes très
+mal que vous allez vous faire punir non
+pas d'avoir une mauvaise app mais vous
+allez vous faire punir d'avoir Samsung
+l'investissement industriel est à éviter
+au maximum si vous voulez être une boîte
+indépendante la façon de voir
+l'investissement des industriels c'est
+de voir ça comme une police d'assurance
+si vous êtes pas sûr de vous pourquoi
+une police d'assurance parce que vous
+faites rentrer quelqu'un qui peut vous
+racheter même si ça marche
+moyen mais par contre il va vous
+empêcher de pouvoir marcher à votre top
+potentiel parce qu'il va vous ouvrir
+autant de portes qui vous enferment ce
+qui veut dire que les portes qui vous a
+ouvert vous auriez peut-être pu les
+avoir sans lui par contre les portes
+qu'il vous ferment vous ne pouvez plus
+jamais les avoir vous voyez ce que c'est
+un investisseur industriel les
+industriels sont de plus en plus actifs
+dans l'investissement noroto a ouvert un
+fond de sed Castorama fait des concours
+de start-up les mulièis veulent investir
+dans les startup arriva à un fond de
+corporate venture c'est en train de de
+d'ouvrir comme des petits pains partout
+pourquoi ils investissent parce qu'ils
+investissent parce qu'ils veulent
+apprendre et le problème c'est que ça
+pose des problèmes catastrophiques par
+exemple prenons l'un des corporate
+venture les plus catastrophiques de
+l'histoire canal plus dans
+Netflix Canal Plus a acheté 10 % de
+Netflix dans le premier tour
+d'investissement de
+Netflix à l'époque Netflix était pas un
+concurrent pour Canal plus le jour où
+canal plus s'est rendu compte que
+Netflix allait devenir le truc qu'
+allait les tuer en France qu'est-ce
+qu'ils font avec leur participation vous
+imaginez le conflit d'intérêt vous
+pouvez même pas parler à votre
+investisseur parce que vous êtes une
+menace pour eux
+vous pouvez même pas partager d'infos
+avec lui parce que vous êtes une menace
+pour eux et en plus bientôt votre Valo
+des 10 % vaut plus que
+l'investisseur donc qu'est-ce que Canal
+Plus a dû faire ils ont dû vendre à bas
+prix la participation parce que c'est
+Netflix qui a gagné le combat mais c'est
+un bras de fer qui aurait pu tuer
+Netflix parce que quel était le seul
+intérêt de Canal plus c'était de tuer
+Netflix le plus rapidement possible il y
+a des
+exiwiiwi Carlos di si vous dites le mot
+d'asso système devant Carlos di il
+devient tout rouge pourquoi parce qu'il
+a laissé système investir 5 millions
+chez eu naïement qu'est-ce qui s dit
+inves 5 milli chez nous pour récupérer
+50 mais non ils ont investi 5 million
+chez lui pour découvrir comment faisit
+du bon logiciel parce que l'échelle Deo
+même si ça avait rapporter 50 ça valait
+rien c'est Apple une histoire du
+Corporate venture très drôle
+Apple a fait le corporate venture avec
+le retour sur investissement le plus
+extraordinaire de l'histoire 10000
+% ils l'ont
+fermé pourquoi parceils sont rendu
+compte ça servait à rien 10000 % sur 100
+million à l'échelle d'Apple ça faisait
+tellement peu d'argent que ça n'avait
+aucun intérêt mais le niveau d'emmerde
+apporté par ne jamais pouvoir tuer les
+boîtes dans lesquelles ils
+investissaient parce qu'il PL Nice ça ça
+avait pas de
+prix donc c'était un désalignement
+complet donc Apple au bout de 3 ans a
+décidé de fermer le fond alors qu'il
+surperformait parce que à l'échelle du
+groupe c'est rien vous imaginez d'O
+systemme 50 millions c'est quoi à
+l'échelle de leur groupe c'est rien du
+tout par contre l'info pour la
+réutiliser ailleurs et kil est le
+produit blokywii alors ça a une une
+valeur infinie donc le problème des des
+investisseurs industriels c'est qu'ils
+sont souvent très désaligné avec vous le
+corporate venture industriel peut être
+un plan B mais ce n'est jamais jamais un
+plan a quel que soit le type de boîte
+que vous voulez faire quel que soit
+votre niveau d'ambition quel que soit le
+niveau d'investissement que vous voulez
+imaginons que tu fais un truc dans les
+voitures tiens tu fais un device pour
+les voitures et Renault te dit ah c'est
+super ce que vous faites c'est vachement
+innovant laissez-nous mettre 2 millions
+pour prendre 10 %. bah le jour où tu
+prends l'argent de Renault tu existes
+plus sur le marché parce que tous les
+concurrents de Renault ils vont pas te
+laisser installer le device parce que tu
+es la boîte de Renault
+après si Renault vient et te dit bon je
+rachète 100 % de la boîte et vous venez
+travailler pour moi pour que cette
+techno ne serve qu' Renault ça c'est
+autre chose ça c'est une acquisition
+c'est ce que lui il a fait là c'est tu
+dis est-ce que le chèque vaut le coup
+que j'arrête ou pas c'est un c'est un
+problème de riche là c'est pas un
+problème de pauvre alors que prendre de
+l'argent de corporate venture ou pas ça
+c'est un problème de
+pauvre je connais aucune boîte qui a
+bout de straper qui a pas fini par lever
+je connais aucune boîte qui a bout de
+straper et qui n'a pas soit lever soit
+faire acheter voilà le bootstrap c'est
+pas un état en soi c'est forcément
+transitoire à un moment ou un autre
+parce qu'à un moment ou un autre tu as
+besoin de moyens tu as besoin de capital
+tu as besoin de CEER et à un moment ou
+un autre ne croî qu'à la vitesse de tes
+revenu est une mauvaise décision par
+contre et je vous l'ai dit et je vous le
+répète et je vous le conseille au
+maximum plus longtemps vous pouvez
+rester sans faire de décision par
+rapport au type de boîte que vous êtes
+et et face à à au à ce genre de ce genre
+de case un peu complexe vous avez vu
+c'est très complexe et c'est très
+subtile l'investissement et prendre de
+l'argent c'est vous mettre quelque chose
+que vous payez très longtemps c'est
+l'effet papillon donc plus longtemps
+vous pouvez le retarder et mieux vous
+serez et en plus apprendre à faire du
+revenu c'est pas une mauvaise chose
+prenons wisenbly par exemple wisenbly
+ils ont boostrappé jusqu'à 100on de
+revenus ils ont levé de l'argent la
+première chose qu'ils ont fait c'est d'
+arrêter de traiter le de leur vente et
+ils retournent sur le produit et
+pourquoi ils ont été obsédés par faire
+15on de revenus c'était pour gagner
+suffisamment de crédibilité pour avoir
+suffisamment de levredge et de poids le
+jour de la no pour les gens qui mettent
+de l'argent donc être d'abord une
+société de service pour devenir après
+une société produit c'est pas absurde et
+bootstrappé c'est la meilleure chose que
+vous pouvez faire vaut mieux gagner sa
+vie que ne pas la gagner c'est même pas
+une question en fait je je sais qu'il y
+a des gens qui présentent qui se disent
+le matin en se disant ouais je vais plus
+bout strappé plutôt que lever des fonds
+c'est de la
+connerie la vérité c'est que tu fais les
+deux tu tu tu lèves les fonds que tu
+peux et plus tard tu peux retarder cette
+décision et plus tu es fort c'est aussi
+bête que ça après il faut juste ne pas
+rater le train si si tu si tu te la
+joues je joue je lève tard et que tout
+ton marché a levé et que tout le monde a
+levé et que toi tu es comme un con tout
+seul sans argent bah tu vas tu vas la
+voir bonne d'avoir bot de strapper quoi
+en fait n'oubliez pas c'est autant une
+décision que vous prenez par rapport à
+votre état qu'une décision que vous
+prenez par rapport au marché c'est ça
+qui est compliqué le capital stratégique
+il faut toujours le prendre quand on
+peut le prendre mais le problème c'est
+que le capital stratégique pour en
+arriver à ce stade là c'est que tu as ni
+besoin d'argent pour suivvivre ni besoin
+d'argent pour ta croissance faut déjà
+être un acteur super gros la dilution ne
+compte pas
+point arrêtez de raisonner d'ailleurs
+vous voulez une bonne pratique moi j'ai
+interdit dans The Family à mes deux
+cofondateurs ça sa voir combien de
+pourcents ils ont et j'en sais rien moi
+non plus la seule chose qui compte c'est
+que on a mis 10 € dans The Family chacun
+ou 100 € je sais plus
+ouais pour un truc comme ça et
+qu'aujourd'hui ces 100 € valent
+plusieurs millions
+point qui vous préférez avoir quoi c'est
+quand même con comme jeu préférez avoir
+2 % d'une boîte qui vaut 1 milliard ou
+100 % d'une boîte qui vaut 1 million
+donc le simple fait de réfléchir pour
+age montre que vous avez rien compris ce
+qu'on optimise c'est sa Valo et son prix
+par action point la diluion c'est un
+truc de de gens qui savent pas à quoi il
+jouent alors évidemment le but du jeu
+c'est de faire exploser la valau donc
+mécaniquement vous optimisez votre votre
+diluion c'est assez il y a un rapport
+entre les deux mais si vous êtes diluion
+orienté plutôt que valale orienté vous
+allez faire des grosses conneries et
+l'autre point c'est que la part que vous
+avez dans une boîte elle change dans le
+temps
+par exemple le jour de l'introduction en
+Bourse Mar zugenberg avait 17 % de
+facebook aujourd'hui il a 27 % de
+facebook pourquoi bah tout simplement
+parce qu'ils lui ont donné 10 % de plus
+pour qu'il reste parce qu'il est devenu
+tellement essentiel à la boîte que de
+toute façon les types qui ont mis de
+l'argent ils ont juste une peur c'est
+que le mec se réveille et se dise
+finalement c'est pas mal de vivre avec
+des milliards je vais partir en
+vacances et ça c'est une c'est une
+angoisse réelle dès que les gens
+deviennent riches donc devenez riches
+quel que soit le pourcentage que vous
+aez dans la boîte et vous verrez que
+tout le monde fera tout pour augmenter
+votre pourcentage pour que vous vous
+sentiez plus impliqué les relutions de
+fondateur sont une pratique extrêmement
+courante pendant ce temps-là il y a des
+moi je vois des trucs absurdes qui me
+rendent malade quoi d'ailleurs on va
+faire une séance sur toutes les
+conneries que les gens font dans les
+levé de fond j'ai commencé à les noter
+mais mais j'en ai des centaines et la
+numéro 1 top connerie qui est
+insupportable c'est les gens qui
+optimise leur levé de fond j'ai quand
+même eu le droit au camping à l'époque
+où j'étais au camping à une boîte qui
+m'a expliqué qu'elle lever 50000 €
+auprès d'un des mentors du camping et
+que elle était pas contente parce que le
+type voulait un. 3 millions de valau et
+que elle elle pense plutôt que sa boîte
+quand même avec ce qu'elle avait fait
+vaut 1.5 et si vous faites la différence
+de 50000 € à 1.3 de Valo et 1.5 de Valo
+ça fait une différence de 0.2
+elle a passé 6 mois en ego c'est pas une
+blague on a quitté le camping on a fini
+le camping j'entendais encore l'histoire
+de ah ouais on lui a fait une
+contreoffre il nous a fait une propal et
+en fait on va lui mettre des BSPCE en
+fonction de la performance qui fait s'il
+vient et et donc là s'il y a bisounours
+qui tombe du ciel alors il y aura plus
+d'action
+elle elle aurait donné 20 % de sa boîte
+pour 50000 € et elle l'aurait fait en 1
+heure sa boîte aujourd'hui existerait
+encore quel que soit le pourcentage que
+même si vous faites arnaquer en
+pourcentage je vous assure que quelqu'un
+viendra vous vous sauver après vous
+inquiétez pas moi je je l'ai vu
+tellement de fois vous avez des des
+Angeles qui jouent au malin ils prennent
+beaucoup beaucoup de part en échange de
+pas beaucoup d'argent vous savez ce qui
+se passe à ces gens-là ils finissent
+tous de la même façon ils se font virer
+par les investisseurs
+professionnels que le jour où
+l'investisseur professionnel il arrive
+dans la boîte et qui découvre qu'il y a
+un mec qui a mis 10 balles et qui a 30 %
+de la boîte et qui bosse pas dans la
+boîte et qui fait rien et qui sert à
+rien bah je peux vous dire qu'il faut
+pas plus d'une conversation avec un
+avocat pour que le type descende à 5 ou
+4
+%. et ça je l'ai vu des dizaines et
+dizaines de fois donc arrêtez de vous
+prendre la tronche le problème il est
+pas là le problème c'est que si vous
+filez 20 % de votre boîte pour 50000
+balles c'est pas le problème de l'avoir
+fait c'est que vous allez enfin comment
+dire
+bad vous allez passer pour un con c'est
+que le problème c'est pas de les avoir
+filé le problème c'est que les gens vont
+se dire mais il est il a ur le mec où il
+est où il est pas àri pourquoi il a fait
+une connerie pareille mais si vous avez
+suffisamment de succès votre succès
+rattrapera toujours vos conneries parce
+que les gens se diront bon bah à
+l'époque il était naïf maintenant il
+l'est plus et hop on on efface l'erreur
+voyez c'est c'est une tension entre
+entre vos bêtises et vos succès plus
+vous faites de succès plus tout ce que
+je vous ai dit ne compte pas plus vous
+êtes moins vous avez de succès plus que
+ce que je vous ai dit ce matin compte
+énormément et donc optimiser les bonnes
+choses optimiser la qualité des gens qui
+sont chez vous n'optimisez pas votre
+Valot par exemple je parlais avec
+algolia là qui revient de W combinator
+et euh je leur ai dit pourquoi vous avez
+élevé à 12 millions de Valot et pas
+d'ailleurs c'était un Paris ça non euh
+pourquoi vous avez élevé à 12 millions
+de Valot et pas plus ils ont dit parce
+qu'on voulait les meilleurs et on
+voulait leur faire un cadeau pour qu'il
+nous aiment bien je me suis dit ah ils
+ont grandi mes petits
+parce que c'est ça le bon raisonnement
+le bon raisonnement c'est de se dire de
+toute façon qu'est-ce que ça change que
+les gens investissent à 12 ou 20
+millions de Valo vous croyez que si vous
+vendez votre boîte 200 million vous
+allez voir une différence dans votre vie
+si vous touchez 10 % de 200 million ou
+si vous touchez 15 % de 200 millions il
+y aura aucune différence par contre la
+probabilité que vous arriviez à vendre
+votre boîte 200 millions parce que vous
+avez fait rentrer les bonnes personnes
+en board avec vous ça c'est une
+différence
+énorme ça ça peut tout changer
+et pour le coup ils ont fait un cadeau à
+pas n'importe qui ils ont fait un cadeau
+à Patrick
+colison qui est le qui est le qui est le
+CE de pars je peux vous dire que avoir
+Patrick colison qui fait un Angel
+investment chez vous ça change tout sur
+votre réputation dans le marché c'est
+pas jojo le cludo tu as deux bons
+moments pour aller voir un investisseur
+le premier bon moment c'est que tu as
+pas le choix c'est le moment idéal pour
+aller voir un investisseur et c'est
+aussi le pire moment parce que quand tu
+as pas le choix bah tu as pas le choix
+bon et tu le sais en fait que tu as pas
+le choix tu sais bien que tu as plus
+d'argent en caisse que tu as payé des
+gens que tu as engagé des dépenses que
+que tu es dans une structure qui est
+plus grosse que ce que tu peux te
+permettre donc tu n'as pas le choix il
+faut aller parler à 200 personnes c'est
+buffer qui va parler à 500 Angel
+investors en Europe buffer pour faire
+leur levée de fond ils ont parlé à 500
+Angel investors en Europe 500 et il en a
+498
+qu'inant point tu le sais c'est tout tu
+tu sais que dans 3 mois il y a plus
+d'argent donc tous les jours tu passes
+au téléphone et tu es désespéré et tu
+vois le compteur et et tu dis il faut
+que ça passe ou ça casse l'autre bon
+moment pour aller chercher de l'argent
+c'est parce que tu sais que si tu vas
+proposer à n'importe qui d'investir il
+investira parce que ta boîte a un tel
+succès que c'est impossible qu'il disent
+non et que donc tu vas pouvoir choisir
+les
+meilleurs et donc soit tu travailles sur
+ton pitch
+soit tu travailles sur ta traction
+malheureusement il y a des moments où tu
+es obligé d'aller lever sans traction
+parce que et donc tu travailles ton
+pitch mais si tu as vraiment de
+l'attraction voulez je vous raconte
+comment jelly not a levé des fonds chez
+nous franchement s'il y a une boîte à
+qui je peux dire un merci niveau lev de
+fond c'est Jell par que les mecs ont
+quand même attendu 24 mois avant d'aller
+lever de l'argent pour la première fois
+de leur vie vous savez comment on a
+organisé avec gens les rendez-vous
+investisseur pour jelly note on envoyait
+ni deck ni présentation ni pitch ni
+slide on envoyait une seule chose leur
+courbe
+d'utilisateur ceci n'est pas une
+plaisanterie on envoyaé par email leur
+courbe d'utilisateur avec do you want to
+meet je crois que dans les 5 minutes
+tout le monde répondait yes on personne
+n'a pas voulu les voir pourquoi parce
+qu'il y avait une courbe comme ça et on
+on écrivait même pas ce que ça faisait
+ni le nom de la
+boî et vraiment les gens ils voulaient
+tous investir je suis sûr qu'on aurait
+mis la courbe et le RIB les gens
+auraient envoyé de
+l'argent parce que des courbes comme ça
+tu n'en vois pas dans le marché français
+chez des boîtes qui n'ont jamais levé
+d'argent quand tu arrives à avoir une
+courbe comme ça et que tu n'as jamais
+levé de l'argent tu es pas en catégorie
+A en catégorie A plus est-ce que ça veut
+dire que tous les types ont levé de
+l'argent en Angel pour avoir une courbe
+comme ça il lèv pas d'argent non
+je connais plein de super bonnes boîtes
+qu' on lev 300 ou 400000 dans parce
+qu'elle n'avait pas le choix qu'elles
+avaient besoin d'argent pour leurs
+opérations c'était un luxe incroyable de
+leur part de ne pas en avoir besoin ils
+avaient ni besoin de salaire ni besoin
+de c'est improbable comme situation mais
+au moins ils ont pas été en chercher
+alors qu'ils en avaient pas besoin et
+ils ont pas été en chercher parce qu'ils
+savaient que s'ils allaient en chercher
+personne n'en
+mettrait
+point et la courbe il y a pas besoin
+d'être un génie pour l' voir tu la vois
+la courbe c'est si tu prends mon live
+test de la semaine dernière eux ils sont
+plutôt dans aux horizons de 20 à 30 %
+par semaine plutôt que
+5 c'est pas tu poses tu te poses pas
+beaucoup de questions en fait quand tu
+es dans C stade là
+[Applaudissements]

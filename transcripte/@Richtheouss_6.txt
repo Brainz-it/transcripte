@@ -1,0 +1,1432 @@
+[Musique]
+[Applaudissements]
+C thibo je suis en face de toi mais en
+fait le principe c'est que c'est toi
+tout seul et vous faut pas hésiter à
+réagir en fait à poser des
+questions donc thibo tu dois partir à
+11h c'est ça oui je pars à 11h ok donc
+on se fait une demi-heure raconte-nous
+un max de ta de ta de ta vie
+entrepreneur comment ça s'est passé
+surtout le début parce que eux il sont
+dans une phase de début et puis ensuite
+on se fera un quart d'heure de
+questions-réponses je pense qu'ils
+auront plein de trucs à te demander bon
+déjà qu'est-ce que tu fais c'est quoi ta
+boîte ok donc Speedo c'est au départ
+c'est une technologie de recommandation
+de film et de programmes de télévision
+et au départ c'était une technologie
+parce qu'ensuite il fallait en faire un
+produit et toute une toute une gamme de
+service et quand la technologie on a
+commencé à la construire euh c'était
+c'est à peu près au à l'époque de la
+sortie de B rewind je sais pas si vous
+connaissez ce film Michel gondri voilà
+c'est un c'est un film un peu à
+l'ancienne qui se passe dans un vidéo
+club vidéo club de quartier qui montre
+un peu la la la déchéance et la
+décadence de de de ce business de
+location de film et donc à cette époque
+là c'est aussi le moment où le business
+de la location de film a commencé à
+vraiment s'effondrer c'estàd des
+enseigne comme Vidéo Futur que tout le
+monde connaissait qui ont commencé à
+fermer les magasins les uns après les
+autres et en
+fait au départ le constat de le besoin
+de départ qu'on avait identifié c'était
+les vidéo club de quartier ferment les
+uns après les autres au même rythme que
+les plateformes digitales de
+distribution de film ouvrent
+et dans ce mouvement de
+translation technologique on va dire qui
+est supposé être un progrès on était
+plus en train de se perdre dans des
+étagères ou dans des dans des longs
+couloirs avec des jaquettes donc c'était
+super pratique on pouvait faire ça
+direct de chez nous par contre il y
+avait un service qui avait disparu
+c'était le vendeur de vidéo club à
+l'entrée et donc c'était super pratique
+de pouvoir tout faire de chez soi
+simplement l'intérêt principal d'un
+vidéo club c'était de pas perdre une
+heure justement à à lire toutes les
+jaquettes de pouvoir dire bonjour à son
+à son à son conseiller du Vié au club
+lui dire salut j'ai adoré ceci cela
+qu'est-ce que tu as à me conseiller et
+ça dure 10 minutes et c'est un
+service que les gens adorent céit un peu
+ça le le problème de départ et ensuite
+toute la question c'était de savoir
+comment reproduire une expérience
+humaines autour des contenus
+c'est-à-dire très attaché à la culture
+très attaché aussi à je dire toute forme
+d'émotion aussi qu'on qu'on qu'on qu'on
+attache au contenu au film et cetera et
+le reproduire dans un dans un service du
+tout qu'on
+voulait ludique amusant à la fois utile
+pour les cinéphiles et à la fois
+pratique pour les gens qui ne sont pas
+cinéphiles c'estàd qu'il veulent juste
+trouver des films rapidement à regarder
+et voilà c'était ça le le challenge de
+départ c'est le problème mais tu sais
+tout de suite tu l'as défini ce problème
+là toi tu as fait quoi avant et comment
+tu vas te dire ok je je me lance dans ce
+dans ce problème à la solution de ce
+problème ok donc juste pour dire un mot
+de ce que c'est venu en terme de service
+c'est devenu un truc très abstrait qui
+s'appelle des API c'est-à-dire des des
+données qui sont échangées avec des des
+grands distributeurs de film et des des
+fournisseurs de bouquets de de chaînes
+le but cant que un utilisateur est
+toujours devant les yeux le bon film ou
+le bon programme de télévision de
+télévision à regarder au bon moment pas
+se perdre au milieu d'un bouquet de 300
+chaînes ou dans des catalogues de de
+10000 films donc ça c'est juste le le
+concept donc c'est du B2B pur c'est
+c'est du B2B et ça a été peut-être qu'on
+y reviendra ça a été un ça reste une
+question aujourd'hui de savoir si
+le une des pistes de développement de
+Speedo c'est de basculer sur des
+services B2C il y a une application
+speido qui existe sur iPad qui est
+aujourd'hui essentiellement un
+démonstrateur de servicees pour nos
+clients et presque un outil de
+démarchage et c'est une vraie question
+de savoir si si c'est cette application
+elle est elle a vocation à grossir et
+peut-être à remplacer notre activité de
+donc c'est si tu as aimé a tu aimeras B
+justement on fait pas ça on considère
+que c'est le non mais ça c'est très
+important dans le secteur de la
+recommandation si tu as aimé a tu aimes
+Rabé
+c'est c'est un peu la préhistoire mais
+en même temps c'est un moment éminemment
+important c'est Amazon qui l'a inventé
+l'histoire de la recommandation elle
+n'est plus ou moins pardon elle n plus
+ou moins avec Amaz
+simplement à cette époque là Amazon
+continue à faire comme ça c'est très
+statistique c'estàdire on regarde des
+schémas de consommation et en terme de
+probabilité si un utilisateur 1 a aimé a
+a consommé a puis B un utilisateur 2
+arrive consomme a alors on va considérer
+que il va probablement aussi consommer B
+donc on fait de la prédiction
+statistique donc si vous avezcheté une
+ante on va vous conseiller des
+cartouches d'encre c'est purement
+statistique cette démarche là elle a
+plus aucun sens quand on se projette
+dans des biens culturels à haute valeur
+émotionnelle c'est comme ça qu'on
+caractérise des films et surtout elle a
+plus aucune elle a plus aucun sens quand
+le l'objet se consomme dans un média de
+foyer la télévision qui est utilisé par
+papa maman petite sœur petit frères donc
+des personnalités très différentes qui
+sur une méthode statistique vont être
+agrégé vont être moyennisé et vont
+provoquer des des effets complètement
+absurdes du type je je vous assure que
+j'ai vu ça dans des salons de
+professionnel de la
+recommandation des services qui
+proposent en face de Bambi un film
+d'horreur pourquoi parce que
+structurellement dans un foyer il y a
+des enfants et des parents et des
+adolescents et que structurellement il y
+a des gens qui dans un même foyer
+regardent des films pour enfants et des
+films d'horreur alors c'est quoi la
+logique du coup de la recommandation
+chez toi du coup
+le du coup on a pris un on a pris un un
+billet très très différents sur sur
+cette activité on s'est dit queon ne
+pouvait pas recommander des films et des
+programmes vidéos sans les connaître
+sans sans partir de leur
+caractéristiqu intrinsèque c'estàd sans
+les connaître on peut pas faire ça à
+l'aveugle amazon va recommander une
+cartouche d'encre après une une
+imprimante euh sans sans chercher à
+caractériser euh l'intérêt ou la valeur
+ajoutée d'une imprimante par rapport à
+l'imprimante c'est une pure relation
+statistique dans dans les films et dans
+la dans les contenus vidéos d'une
+manière générale ça peut pas marcher
+comme ça parce que ça répond à des à des
+émotions à des humeurs particulières euh
+à des des goûts des préférences et la
+recommandation à notre sens elle ne
+pouvait pas fonctionner si euh elle elle
+était pas comprise et surtout expliquée
+à l'utilisateur on va te recommander un
+film parce qu'on a remarqué que tu
+aimais tel caractéristique je prends un
+exemple très
+concret un cas d'usage qui nous a
+beaucoup intéressé c'est 80 % des
+utilisateurs qui s'assient qui s'assi
+dans leur sofa et ouvre allument leur
+télévision ne savent pas encore ce
+qu'ils vont regarder à la télévision
+donc ils allument la télé pour regarder
+un truc et 80 % d'entre eux ne savent
+pas ce qu'ils vont regarder ils sont
+dans le dans l'ignorance total et ces
+gens-là la plupart du temps ils ne
+savent pas dire autre chose que Ben ce
+qui me plairait bien c'est un truc dans
+le genre où je suis je peux caractériser
+mon humeur du moment
+et donc un service tout simple qu'on a
+dérivé de la technologie c'était de
+permettre aux gens de par exemple
+combiner ce qu'on on a appelé euh des
+envies en français qu'on appelle des
+mood en anglais et c'est
+euh ce ce soir j'ai envie de euh changer
+d'air euh de violence et euh de rire
+qu'est-ce qui est disponible sur sur ma
+télévision en gratuitement ou payant et
+cette méthodelà elle part du coup de la
+connaissance du contenu parce que
+derrière chaque envie euh peut-tre qu'on
+reviendra sur la technologie mais
+derrière chaque envie en fait il y a euh
+euh des millions de données
+qui caractérise les contenus nous on
+appelle des des empreintes sémantiques
+donc on construit des empreintes
+sémantiques sur chaque contenu qui
+ensuite permettent d'identifier les
+contenus à travers des des éléments du
+langage
+naturel peut-être pour revenir sur le
+parcours comment on a comment spideo
+s'est créé on a cofondé spideo à 3 euh à
+une époque où moi j'étais encore très
+très jeune j'avais un an expérience
+professionnelle tu as quel âge là euh là
+j'ai tout juste 30 ans on a fondé C
+vidéo il y a 4
+ans
+j'avais j'avais j'ai eu des études un
+peu biscornu des trous au milieu de mes
+études mais j'ai vraiment terminé mes
+études à 25 ans j'avais juste un an de
+d'expérience professionnelle c'était
+quoi tes études
+c'était
+euh non c'est juste que c'est en grande
+partie totalement déconnecté de ce que
+je fais et il y a une micro partie qui
+est qui je pense intéressante mais bon
+bref donc j'ai fait des j'ai fait des
+sciences politique euh en Angleterre
+j'étudié en Angleterre puis en France
+et au milieu de de mes études
+je j'ai fait j'ai fait de la recherche
+j'ai rejoint un laboratoire de recherche
+à à l'École normale supérieure sur qui
+était dédié à l'analyse
+sociologique et
+et et sémiologique des discours
+politiques et j'ai fait une rencontre
+complètement inattendu à l'époque ce que
+je je trouvais qu'il y avait un un type
+un peu nerd au fond de la salle qui
+était pas du tout sociologue mais qui
+participait aux conférences et qui
+écoutant ce que ce que je faisais un
+jour m'a dit mais tu sais tous ces
+parcours de vie que tu que tu étudies et
+surtout tous ces scripts de d'entretien
+ce que je passais mon temps à faire
+passer des d'entretien à des gens on
+pourrait les les représenter de façon
+très amusante dans l'espace en
+fabriquant des polarités euh des
+polarités de sens sur les mots qu'ils
+utilisent et surtout en les projetant
+dans le temps et en fonction de la
+trajectoire des gens donc on a construit
+là tu parles chinois pour moi des
+polarités de sens des polarités de sens
+ou alors des euh des vous voulez
+représenter les discours par champ
+lexical par champ lexical voilà
+exactement et et donc avec lui on a
+construit euh des des macros de
+représentation de ces entretiens euh qui
+étaient très jolis des points qui
+évoluaient dans l'espace euh et qui
+montraient comment les comment les gens
+en fonction de de leur parcours
+professionnel leur parcours de vie
+savaient utiliser une variété plus ou
+moins large de niveau de langage
+vocabulaire euh voilà de niveau de
+vocabulaire est-ce que est-ce que les
+gens euh manipule couramment ou
+spontanément euh un langage très
+scientifique ou un langage au contraire
+très grossier ou euh basculle de l'un à
+l'autre très facilement vont savoir euh
+rentrer dans un discours de type
+vulgarisation pédagogique ou alors ne
+peuvent rester que dans un registre très
+technique et en fait on arrivve à relier
+ça à des parcours de vie de façon hyper
+euh hyper convaincante euh un des
+meilleurs exemples qu'on avait c'était
+euh
+les gens qui en particulier n'avaient
+pas fait d'étude et se
+retrouvai à des niveaux de
+responsabilité très élevée c'était ceux
+qui avaient des registres langagers les
+plus diversifiés et c'était une énorme
+force dans leur vie professionnelle je
+pense que ça c'est pas c'est pas
+totalement déconnecté de la vie
+d'entrepreneur je sais pas si vous savez
+ça mais le la très grande majorité des
+entrepreneurs sont des gens non diplômés
+c'estd des gens très différents de moi
+et la raison pour laquelle ce qui fait
+la souvent leur force c'est que ils
+n'ont pas fait d'études et ils se sont
+construits des des parcours de vie
+originaux qui leur permettent justement
+de dire les choses différemment et de
+les conceptualiser
+différemment bref donc je retombe sur
+mes pates non mais ça c'est hyper inant
+parce que c'est la rencontre avec ton
+confondateur associé où tu vois que le
+mec est génial alors lui il est pas
+cofondateur c'est une il était non non
+mais il est il était c'était vraiment un
+chercheur c'était un chercheur un peu
+fou qui s'amusait à
+modéliser à
+modéliser de la science sociale par par
+l'informatique bref ce type m'a
+convaincu qu'on pouvait faire des trucs
+vraiment
+amusantes ensuite j'ai fait d'autres
+choses je me suis retrouvé à à faire du
+marketing de l'innovation dans un
+laboratoire
+pharmaceutique ça m'a plu moyennement
+mais ça m'a permis de travailler dans
+une dans une boîte
+Suisse- allemande très sérieuse pendant
+un an et ça faisait déjà quelques temps
+qu'on qu'on avait ce projet de de monter
+de monter un service dans le secteur de
+la vidéo à la demande et des médias
+et un jour j'ai fait la rencontre d'un
+mes confondateurs un type qui était
+lui-même ingénieur informatique et qui
+avait fait un un des travaux assez
+intéressants sur sur le secteur de la
+vidéo on s'est parlé du projet il y
+avait un un autre ami à moi qui lui
+bossait depuis quelques temps dans une
+dans une boîte de production qui
+s'appelle marathon média on a en fait au
+début construit des des prototypes de la
+technologie
+dans dans notre chambre
+dans lui il avait quoi comme
+compétenence ton associé euh c'était un
+c'était un ingénieur informatique qui
+s'était retrouvé un peu par hasard à
+faire du marketing chez B telcom qui
+s'ennuyait furieusement dans son métier
+et qui du coup euh comme moi avait de
+l'énergie à à revendre euh en revenant
+du du travail quoi ouais j'ai fait un
+peu la même chose avec lui qu'avec mon
+copain chercheur simplement là j'ai
+appliqué le même savoir-faire de
+d'analyse des discours d'analyse des
+textes euh à des à des scénarios des
+descriptifs de de vidéos
+et et tu savais déjà que tu voulais
+t'attaquer au problème de la
+recommandation ou pas on se posait
+beaucoup de questions parce que
+donc bikin rewind c'est sorti à peu près
+en 2008 200009 c'est un une époque où la
+vidéo à la demande surtout en France
+c'était vraiment émergente les services
+étaient un peu pauvre c'était des
+catalogues de maximum 200 300 films là
+où un vidé club de quartier propose en
+moyenne 2000 ou 3000 films donc c'était
+encore vraiment faible faiblard comme
+service et au départ on trouvait que le
+vrai besoin c'était de réussir à réunir
+tous ces catalogues qui étaient un peu
+éparpillés partout pour en faire au
+moins un catalogue valable c'està-dire
+au niveau d'un d'un vidéo club de
+quartier au début on avait construit des
+ébauches de servicees en partant de ce
+problème là sauf que au bout d'un an ou
+deux le le business de la recommandation
+enfin le business de la VOD c'est
+totalement explosé pile à ce moment-là
+et au moment où on tâonnait un peu sur
+les sur les services on s'est retrouvé
+un an et demi plus tard avec des
+problèmes qui étaient totalement
+différents et euh les les catalogues ont
+totalement explosé devenait en moyenne
+gros de 5000 ou 10000 références et à ce
+moment-là le problème et surtout c'était
+les même catalogue chez dans chez tous
+les opérateurs chez TF1 Vidéo chez Canal
+chez France Télévision et on s'est dit
+mais là on est plus du tout face au même
+problème de la rareté du contenu on est
+face à un problème de l'hyper choix de
+choix exactement donc nos premier
+business model qui était était parti sur
+un problème de départ qui au fur et à
+mesure de nos réflexions étit totalement
+renversé et ce qui fait
+que une fois que le problème s'était
+renversé le la question c'était vraiment
+plus de savoir euh comment on allait
+comment on allait faire revenir tous les
+contenus sur une une même source mais au
+contraire comment on allait aider les
+gens quelle que soit la source euh à pas
+perdre des heures à acheter des films
+qui vont les décevoir ou qui vont pas
+leur perdre ok d'accord donc vous êtes
+deux vous faites un an et demi de proto
+vous tournez autour du problème donc on
+est trois on fait un an et demi de c'est
+qui le troisè il fait quoi donc Gabriel
+lui il est il a bossé chez marathon
+média c'est une boîte de
+prod il conna lui il connaissait très
+très bien le le business de la vidéo moi
+je je suis plutôt un un consommateur
+disons un cinéphile juste au lancement
+excuse-moi toi tu es tu es au chômage
+comment ça se passe non non je suis je
+travaille je vais tous les jours au
+boulot à ne dans mon laboratoire
+pharmaceutique on invente des façons de
+communiquer autour de l'innovation donc
+je fais aussi du travail d'analyse sur
+le langage mais pour le compte d'un
+laboratoire pharmaceutique comme je te
+le disais je je m'ennuyais furieusement
+au boulot et euh et donc on se
+retrouvait régulièrement le soir le
+weekend c'était presque un jeu au début
+hein euh on essayait des trucs on
+s'amusait et à la fin on a arri un truc
+qui qui fonctionnait quoi donc personne
+se dit on va devenir entrepreneur et
+cetera et cetera si on l'a tous on l'a
+tous en tête parce qu'
+entrepreneur enfin je sais pas si on
+avait trop le rêve de l'entrepreneuriat
+mais en tout cas on avait tous le désir
+de s'amuser dans notre travail ouais de
+et de se barrer de là où on était et
+donc
+voilà bon il se trouve que Netflix était
+quasiment inconnu à l'époque en France
+mais que commençait vraiment déjà à à se
+faire connaître aux États-Unis pareil
+2008- 200009 c'est le moment où où
+Netflix fait ce coup génial de négocier
+pendant 5 ans des droits sur les vidéos
+à la demande auprès des studios qui eux
+ne croient pas du tout à la vidéo à la
+demande ou plutôt ne savent pas du tout
+comment le monétiser Netflix s'est
+retrouvé pendant 5 ans avec un catalogue
+exceptionnel de
+trucs à la fois en quantité et en
+qualité extraordinaire qui les ont fait
+basculer de de leur business initial de
+de de d'envoie de d'envoie de DVD par la
+poste à une plateforme de stream Ils ont
+surfé sur ces droits pendant 5
+ans avec un catalogue génial qui a rendu
+le
+service absolument
+extraordinaire au bout de ces 5 ans les
+studios les attendaient tous au coin de
+la rue pour dire ok c'est la fin des
+droits ben on va faire x 10 et puis
+c'est ce que ça va vous coûter pour pour
+diffuser nos films sur sur votre
+plateforme du coup Netflix basculer
+s'est retrouvé avec un catalogue de
+merde et du coup s'est lancé dans la
+production de contenu parce qu'il
+fallait bien faire valoir le l'intérêt
+de la plateforme je je retombe sur mes
+pates mais Netflix n'était quasiment
+inconnu en France mais commenca à se
+faire connaître aux États-Unis et c'est
+là que nous on a on a eu cette idée de
+vraiment se sortir de la logique Amazon
+de la recommandation ça c'est ton secret
+c'est ta découverte c'estàdire que tu
+comprends que c'est l'hyper choix qu' le
+problème et que ça va être de plus en
+plus gros oui et que il y a faut rentrer
+par un autre modèle
+queationque a un acteur qui a tout pigé
+qui s'appelle Netflix et qui déjà
+commence à proposer une home une home
+personnalisée c'estàd qu' il y a pas un
+seul utilisateur qui arrive sur Netflix
+et qui voit les mêmes jaquettes sur sa
+première page et qui surtout le faisait
+pas très très bien au début mais avait
+au moins compris le l'importance du du
+problème donner des explications à la
+recommandation il y avait par exemple
+une ligne de recommandation qui
+s'expliquait par vous avez
+aimé vous avez
+aimé Pacific Rim
+[Musique]
+et n'importe quel autre film et un autre
+film de sur les robots et qui du coup en
+rebond va me proposer des films qui ont
+du
+sens c'était c'était assez élémentaire
+comme mode d'ex ah ouais mais au moins
+il faisait déjà cet effort de déjà de
+personnaliser la proposition de contenu
+et ensuite en plus de l'expliquer ta
+techno tu vas la développer comment tu
+vas la tester parce qu'il faut aller la
+il faut avoir des clients déjà pour et
+puis des des catalogues et puis des
+utilisateur et tu es en B enfin tu
+parles des business donc comment tu fais
+on l'a testé c'était vraiment flyer die
+on se poait avec nos prototypes chez
+Canal Plus big Telecom SFR
+enfin en fait on avait identifié que le
+le chiffre d'affaires de la VOD ne se
+faisait que sur IPTV c'est sur les Box
+ouais parce que la consommation de VOD
+sur Internet c'est c'est que de que de
+l'illégal du streaming illégal ok que du
+streaming illégal donc il y avait pas de
+business à faire sur Internet c'est la
+raison pour laquelle on n' pas fait euh
+un site internet avec notre technologie
+c'est la raison pour laquelle on n'est
+pas du tout parti dans le B2C ouais il y
+avait pas de business B2C dans la VOD
+quand on a commencé par contre il y
+avait un un business émergent euh qui se
+faisait qui passait par les grands
+opérateurs Télecom et les premières fois
+qu'on les a vu c'était vraiment euh
+arrivé avec notre mallette on avait
+hacké les box de chaque opérateur
+téléecom pour euh y intégrer nos
+logiciels et du coup on faisait des
+démonstrations sur leur box euh à des à
+des ingénieurs euh à des ingénieurs
+téléecom qui euh
+savait pas trop quoi faire de sur pour
+faire évoluer l'ergonomie de leur
+service disit voilà il y avait un peu de
+Pipo évidemment parfois on avait un peu
+trafiqué les boxes mais on on arrivait
+on disait voilà branchons la boxe à une
+télévision regardez c'est votre box et
+c'est votre télécommande aujourd'hui
+votre C votre service de VOD c'est ça
+c'était affreux passé un quart d'heure à
+faire défiler des jaquettes qui n'avaent
+aucun sens et on n arrivrivait jamais à
+trouver un film et ce que vous pourriez
+faire avec nous c'est ça donc on faisait
+un un petit jeu euh c'est génial comme
+effet démo un petit jeu à la noix qui
+était ben voilà avant après enfin
+aujourd'hui euh on est dans le on est
+dans le passé parce que c'est c'est un
+service qui a une ergonomie absolument
+immonde les gens qui consomment de la de
+la du film sur Internet même sur des
+plateformes ilillégal euh ben il y a une
+qualité de service qui est 1000 fois
+supérieure aux plateformes légales donc
+c'est sûr et certain que les gens ont
+absolument aucune raison de d'aller sur
+le sur les plateformes légales c'est pas
+du tout une question de est-ce que je
+paye ou est-ce que je paye pas c'est
+juste est-ce que je perds une demi-heure
+sur une plateforme
+horrible où je me perds à chaque instant
+donc sil faut faire pour faire payer les
+gens il faut qu'il y ait un service qui
+qui est du sens derrière donc le premier
+sens c'est avoir une vidéo ben en en
+belle qualité avec une belle image du
+bon son pas un truc foireux qui souffle
+dans une feu fenêtre de 10 cm sur sur 5
+donc tu transformes leur interface tu
+leur montres que c'est pour r avec toi
+c'est génial voà on arrive on leur dit
+voilà ça c'est ce que vous pourriez
+faire sur votre box si vous travaillez
+avec nous et à chaque fois que tu vas
+voir chaque client tu dois quand même
+faire une démonstration spéciale sur
+leur box donc du temps on avait fabriqué
+des des catalogues fake pour chaque pour
+chaque opérateur télécom on faisait
+vraiment des trucs en c'est to à
+l'ancienne on on y allait toujours à
+trois et comment tu fais pour faire
+signer les mecs parce que ça c'est
+vraiment les
+pires c'est simple on a mis un an et
+demi à faire signer les premiers un an
+et demi entre le premier rendez-vous et
+l'argent ouis oui parce que pendant un
+an et demi on montrait nos trucs et
+comme on était trois petits gars qui
+avaient l'air de sortir de nulle part
+bah le premier réflexe des mecs qui nous
+voyait c'était dire mais en fait si ces
+trois tocar l'ont fait franchement avec
+nos armées de avec nos armées de
+d'ingénieurs B en 3 mois ce sera plié
+quoi on fera au moins aussi bien queux
+et ils ont essayé de le faire aussi bien
+que vous ou pas sû tout le monde tout le
+monde a essayé de le faire notre premier
+gros client c'était canal plus
+aujourd'hui on est déployé
+sur Canal Play et sur Canal Sat canal
+plus ils ont vu ils ont essayé de faire
+ils ont passé un an et demi à essayé de
+de faire un truc qui ressemblait àel
+vous souenez ce que disait ousama sur la
+peur le flip d'aller pitcher un grand
+groupe et leur incapacité à faire quoi
+que ce soit qui soit du 10è du niveau de
+ce que vous êtes capable de faire parce
+que vous êtes agile canal plus on savait
+très bien que leur truc c'était de ils
+avaient ils avaient kiffé la démo ils
+avaient kiffé le produit il y avait
+quelques gens malins chez Canal qui
+avaient entendu parler de Netflix et qui
+voyait le truc arriver il y a y a 10 ans
+c'est absolument flippant aujourd'hui de
+constater que Canal Play a attendu le
+dernier mois avant la sortie de Netflix
+pour se poser vraiment les questions de
+des questions de d'ergonomie et d'usage
+on a fait raquer canal plus comme des
+dingues cet été par de tu fais payer
+combien quoi en fait ça c'est donc euh
+donc les gens étaient persuadés que il
+feraient beaucoup mieux que nous euh
+parce qu'on était juste TR tocar en fait
+à force de dépenser des millions dans
+les armées d'ingénieur en SS2I pour
+essayer de bricoler des trucs ça ça leur
+coûter 1 million d'euros de budget par
+an ils sont aperçu que autant te les
+donner en fait ben autant payer une
+licence pour avoir accès à des services
+en SAS enfin dans le Cloud et avoir un
+service clé en main qui leur coûte
+beaucoup moins cher c'estàd tu leur
+packages comment parce que c'est
+intéressant ça quand même en fait pour
+un pour un grand un opérateur comme
+comme canal ou comme BG le service c'est
+c'est hyper abstrait dans la mesure où
+c'est un un back office de catalogue qui
+dialogue
+avec avec une petite boîte noire un
+logiciel dans dans les nuages a juste
+des données qui qui fusent d'un serveur
+à l'autre et ce qu'on leur vend c'est ni
+plus ni moins qu'un accès à notre boîte
+magique cette boîte magique qui donc
+recommande bien mais qui va recommander
+bien expliquer à l'utilisateur quel sont
+ses intérêts enfin lui donner un reflet
+de ses intérêts lui expliquer quelles
+sont les caractéristiques d'un film lui
+montrer celles qui l'ont intéressé
+celles qui l'ont pas intéressé lui
+proposer forément tu rentres sur
+l'interface de de de la box on a on a un
+effet gigantesque sur l'interface mais
+c'est pas notre métier donc et en fait
+on s'est beaucoup posé cette question au
+début parce qu' au début on pensait
+qu'on serait incapable de vendre notre
+truc si on vendait pas l'interface avec
+parce que ça avait plein d'impact sur le
+sur le service or en fait ces grand
+distributeurs en fait ces grandes
+enseignes canal TF1 et cetera il y a
+rien qui leur fait plus peur que de ne
+plus contrôler l'interface qui va
+dialoguer avec l'utilisateur ils ont
+besoin d'avoir la certitude que ce sera
+bien leur look and feel euh leur leur
+couleur horrible TF1 euh leur truc canal
+plus soit-disant cool ils ont besoin de
+d'avoir le sentiment que c'est eux qui
+contrôlent l'interface à la fin donc
+quand on leur disait on va vous livrer
+ce truc et vous inquiétez pas on va vous
+faire l'interface le mec disait désolé
+mais c'est pas possible on pouvait pas
+toucher à notre interface donc on leur
+disait OK dans ce cas et là ça a quand
+même mis du temps ça fait partie des un
+an et demi de discussion on a
+progressivement
+lâché l'idée que il fallait vendre en
+package les interface avec pour dire ok
+nous notre métier c'est juste de ouvrir
+des accès à un logiciel super fabriquer
+vos interfaces simplement du coup ce
+qu'on faisait c'est qu'on on a on
+continuait à faire des démos avec des
+prototypes qui étaient designés pour en
+fait vendre des données totalement
+abstraites mais en fait l'outil de vente
+c'était des des moup d'interface qui
+étaient ensuite copiés par eux par leur
+équipe par eux et ça c'était le ça
+c'était tu fais travailler les mecs en
+plus qui te payent oui en fait on disons
+qu'on on leur prémachche le travail on
+leur fait copier nos nos modèles de de
+design et ensuite il il il se l'appropri
+et il le remettent à leur couleur et en
+fait du coup en fait ce qui est très ce
+qui est très amusant en fait c'est qu'on
+on on vend des accès à une technologie
+c'est ça notre notre notre métier et
+pour les vendre euh ben ça passe par des
+trucs qu'on vend pas c'estàdire des
+interfaces comment ils sont capables de
+vérifier que vous êtes pertinent sur le
+chiffre d'affaires ou sur le nombre de
+de vidéo demandé comment ils peuvent
+checker ça parce que une licence ça
+coûte combien avec toi une une licence
+ça c'est hyper variable ça peut aller de
+de 100000 100000 €
+annuels à presque 1 million annuel en
+fonction de du nombre d'utilisateurs tu
+as signé qui aujourd'hui on a signé en
+France on a signé canal euh
+T b tellecom euh un opérateur un autre
+opérateur télécom don j'ai pas encore le
+le droit de parler on a signé une autre
+plateforme qui s'appelle juk qui SVOD AB
+Production et vous êtes toujours trois
+ah non on est on est 25 an non d'accord
+vous avezas tu as levé des fonds on a
+levé des fonds mais que auprès de
+d'investisseurs privés oui parce que
+finalement tu en as pas eu besoin ben en
+fait on a un développement B2B on se
+pose plein de questions aujourd'hui hein
+sur tu as mis combien de temps avant
+donc tu m'as dit un an et demi avant de
+toucher le premier euro ouais et donc
+pendant un an et demi tu as gardé ton
+travail
+pendant 6 mois j'ai gardé mon boulot
+ensuite je devenais complètement fou je
+j'étaispuisé en fait donc j'ai j'ai
+négocié une rupture conventionnelle et
+pendant un an j'ai vécu avec avec les
+assédiques ENF pas les assédiquesoua
+ouais mais rien à voir mais du coup ce
+est-ce qu'il y a une opportunité dans la
+musique parce que moi quand j'utilise
+Spotify clairement c'est exactement ça
+je rentre par le mood leur listing bah
+c'est simple en fait nous le dans la
+dans dans les sources d'inspiration du
+service on avait Netflix Pandora Pandora
+avait fait avait fait ça c'estd la
+recommandation la recommandation de
+musique bien faite c'est-à-dire expliqué
+qui parle un langage qui compris par les
+gens qui est intuitive et cetera et il
+l'avait fait avec une démarche
+sémantique comme nous mais il l'avait
+fait 10 ans plus tôt mais d'une manière
+général le business de la musique a
+presque tout le temps 10 ans d'avance
+sur le business de la vidéo
+euh et la vidéo évolue presque tout le
+temps après des innovations qui sont
+venues du porno du porno ouais bien sûr
+le porno est hyper comment dire tu
+prends tout en fait le coût des 15
+minutes non non ce que je veux dire
+c'est que dans l'in dans Internet il a
+non mais c'est vrai le coût des 15
+minutes
+euh gratos et puis ensuite tu dois
+sortir ta carte bleue enfin il y a plein
+de choses le coupt des chapitrag qui ont
+été reprise par YouTube et qui ont été
+effectivement inventé dans dans dans le
+porno en fait c'est c'est le porno qui a
+inventé le le ce que nous maintenant on
+vend comme un concept qui est le
+moodbard c'estàdire j'ai envie de ça
+plus ça plus ça c'estàdire mon cocktail
+de fantasme ouais ben c'est sur les
+c'est sur les plateformes les plus
+dégueulasses de porno que on a trouvé
+que ces premiers services ont été
+inventé j'ai envie de d'un mec fort
+d'une euh d'uneune meuf avec des gros
+boobs et voilà et à la fin ça me trouve
+la vidéo qui répond à tous mes fantasmes
+ouais ouais ben donc pas hésiter à aller
+chercher ailleurs pour s'inspirer au
+contraire en fait ça par pour le coup
+c'était vraiment un un c'était vraiment
+un un Insight hyper fort de de Gabriel
+qui connaissait très bien le le le
+business de la vidéo travailler chez
+marathon pour les contenus jeunesse mais
+savait de sa culture euh
+sur métier que presque toutes les
+innovations partaient du porno dans dans
+dans dans les dans la vidéo le premier
+exemple c'est la VHS aujourd'hui c'est
+c'est un truc de dinosaure mais la la
+VHS la cassette le fait de de vendre et
+louer des cassettes euh est né avec le
+porno pourquoi ben parce
+que c'est comme ça enfin c'est le porno
+qui était le produit euh qui faisait
+déplacer exaement dur chez eux donc il
+fallait juste le prendre il fallait non
+mais et surtout c'était un produit
+honteux pour pour pour les chaînes
+donc il a fallu attendre Canal Plus pour
+que pour que le porno est droit de citer
+à la télévision enfin de façon un peu
+officielle
+mais le la vidéo porno ben c'était
+difficile d'y avoir accès on se parle
+d'un d'une époque où il y avait pas
+Internet et cetera la vidéo porno pour y
+accéder ben fallait aller au kiosque
+dans un petit truc derrière
+raué VHS etes VHS vend de fois plus ch
+que les films d'Hollywood elle coûtait
+entre 100 fois et 1000 fois moins cher à
+produire
+et et ça passait par un petit truc en
+plastock tout pourri qu'on qu'on app une
+vidéococassette et ben les mecs se sont
+rincés avec ça quoi rincé et le le mode
+de distribution de de la vidéo par la
+VHS c'est développé par le porno ensuite
+c'est
+ok dernière question après je laisse les
+jambes parce que là je sais que tu dois
+partir dans 10 minutes c'est quoi tes
+objectifs maintenant tout de suite à 6
+mois on va dire euh à 6 mois c'est de
+d'avoir autant de réussite
+au en Amérique du Nord et en Amérique du
+Sud que j'en ai aujourd'hui en France en
+fait aujourd'hui en France j'ai à peu
+près
+le j'ai à peu près la certitude que la
+recommandation de vidéo en France va
+passer par spidéo c'est on avait trois
+concurrents il y a 5 ans Français qui
+sont tous morts c'était qui CIT une
+boîte qui s'appelait cogniic ok ouais
+une boîte qui s'appelait
+cinétfic qui existe toujours mais qui
+sur sur le point deord sur le point de
+de crever et une troisième
+boîte dont n m'échappe OK et donc à
+conquérir
+l'Amérique en fait ça fait maintenant ça
+fait un an et demi qu'on a réussi à à
+exporter nos services à l'étranger donc
+pour l'instant aux États-Unis et en
+Allemagne
+et aujourd'hui on est en on est on est
+un moment un peu clé de de la la V
+spideo parce que le les leviers de
+progression de de spedo passent par
+passent par l'exportation donc quelque
+part on doit refaire on doit presque
+tout recommencer de zéro sur un plan
+commercial je dis presque tout parce que
+pas tout à fait on est arrivé aux
+États-Unis par le billet de Technicolor
+qui est une boîte qui s totalement
+américanisé depuis 5 ans mais qui a des
+origines françaises et les mecs qui font
+la red chez Technicolor il y en a
+beaucoup qui sont installés en France
+c'est c'est ces mecsl qui nous ont
+repéré nous ont fait connaître auprès de
+Technicolor et qui du coup nous ont ils
+font quoi déjà
+Technicolor ils font toutes sortes de
+trucs mais et pour le pour ce qui
+concerne mon business notamment ce qui
+les a sauvé c'est que Hollywood a
+absolument besoin d'eux pour toutes les
+technologies de post-production donc dès
+qu'il y a des effets spéciaux quelque
+part dans un film les studios
+dehollywood ont besoin de Technicolor
+mais Technicolor c'est une boîte qui qui
+qui est passé à ça de de la faillite il
+y a y a 5 ans et donc qui a été repris
+par un fond américain qui a dit de toute
+façon on va reprendre que les technos de
+post-production tout le reste on va le
+bazarder ce que ça fait perdre de
+l'argent au moins on va sauver ça et
+depuis ils ont relancé la red c'est eux
+qui ont qui ont déposé les premier
+brevet sur le 4K je sais pas si ça vous
+parle le 4K mais donc c'est un nouveau
+format de vidéo de très très haute
+définition tout ça pour dire que
+Technicolor ça nous intéresse parce que
+c'est Technic color qui a lancé une
+plateforme qui s'appelle
+MgO et qui est la plateforme de
+consommation de vidéo sur toutes les box
+roku aux États-Unis ok euh et roku ben
+c'est un peu l'équivalent de d'une
+Freebox quoi c'estd que il y a 5
+millions de de foyers aux États-Unis qui
+passent par une box recoup pour pour
+regarder des films et regarder la
+télévision donc il y a 5 millions de
+personnes aux États-Unis qui
+quotidiennement sans savoir qu'il y a
+spidéo derrière trouve des contenus il a
+pas de problème et barrière de langage
+avec ton algorithme qui va ficher chaque
+film ça c'est pas ça c'est un truc qu'on
+a résolu d'accord c'est un truc qu'on a
+résolu mais c'est un c'est un un énorme
+sujet ouais ok un énorme sujet parce que
+ça passe par le langage effectivement
+ouais
+et ça se fait de manière automatique
+c'estd que maintenant chaque film à
+sa'ffiche en fait on on a résolu en
+partant de enfin tu tu passes pas par
+des gens qui vont se matter tous les
+films à la mano dans Je on le fait vous
+l'avez fait on le fait plus et au début
+c'était ça ok donc tu passais par des
+gens et au début je vi te dire c'était
+moi lesil je je prenais des je prenais
+des taableur Excel je faisais la liste
+des des films dans les catalogues de VOD
+ça c'est quand on faisait nos chez les
+opérateurs j'avais juste des tableurs
+Excel dans lesquels à la main je
+remettais les titres de tous leurs films
+dans leur dans leur catalogue ensuite
+j'avais un j'avais un truc une formule
+un peu compliquée pour rentrer des
+tonnes de données sur les films que
+qu'on que j'allais choper en
+aspirant en aspirant toutes les fiches
+et ensuite en retriant l'formation de
+façon au début à la mano au début
+totalement à la mano et ensuite tu l'as
+et ensuite ben on avait des idées pour
+le pour pour industrialiser le le truc
+mais il fallait qu'on ait de la tune on
+en avait ouais donc un algorithme c'est
+pas un truc magique qu'on fait coder
+dans sa chambre pendant un an et on se
+rend compte que ça marche quoi ben en
+fait tu peux faire ça enfin tu peux
+faire tu peux faire des algorithmes euh
+où tu ne vois que des mathématiques tu
+fais que de la probabilité et tu dis
+attention magie puis attention magie ça
+donne sus à côté de Bambi quoi ouais
+donc ça c'était un peu le problème et
+nous on voulait surtout pas faire faire
+de la magie on voulait faire de la
+recommandation qui était immédiatement
+comprise et expliquée bon les questions
+vous avez forcément des
+questions
+euh tout d'abord félicitations c'est un
+intéressant et il il y a un moment qui
+me semble être charnière dans ton
+histoire c'est justement le moment où
+vous êtes allé voir les les studios et
+que tu dis que tu savais pertinemment
+qu'ils étaient en train de travailler
+sur les sujets comparables au tiens
+jeouis les opérateurs les distributeurs
+plutôt distributeurs pardon je voulais
+savoir dans votre tête comment ça s'est
+passé à ce moment-là est-ce que vous
+étiez dans la démarche confiant bon nous
+on sait qu'on a fait un truc super et
+justement comment est-ce que vous avez
+vécu ça et quel à mon avis il a fallu
+beaucoup de résilients justement à ce
+momentlà dire c'est pas fichu ils vont
+pas y arriver on est quand même vivant
+on était complètement parano et surtout
+tellement naïf que on a fait trucs le
+plus con qu'on pouvait faire à cette
+époque là c'estàd bon bref on était
+totalement
+parano par exemple la première fois
+qu'on s'est pointé chez SFR
+euh on leur a envoyé un mail avec un NDA
+qui disait si vous voulez voir notre
+proto signnez ce
+NDA c'était un mec qui était au bord de
+SFR il nous a renvoyé un mail en disant
+mais les gars j'ai en 30 ans de carrière
+j'ai jamais vu un truc aussi con de ma
+vie votre NDA gardez-le j'en ai rien à
+ de ce que vous faites il nous a
+fallu 3 mois pour passer par d'autres
+contacts euh et trouver les bonnes
+personnes pour reparler à ces gens chez
+Canal Plus
+euh à à chaque fois qu'on les voyait
+c'est donc passé devant un un
+un presque une conférence il y avait 25
+ingénieurs qui venaient regarder nos nos
+démonstrations qui nous posaient des
+tonnes de questions et essayer de nous
+cuisiner savoir mais l'algorithme quelle
+est la formule magique et nous on bah on
+lâchait rien en fait et on disait ben il
+y a rien de magique mais voilà ce qu'on
+vend c'est le résultat et ça fonctionne
+bien regardez et m et même si tu avais
+lâché tes trucs magiqu en fait c'était
+un truc c'est un truc de con on pouvait
+communiquer autant qu'on
+voulait le problème c'est que ils
+avaient pas les données en fait on a
+compris beaucoup plus tard que la
+la richesse de notre système c'était
+qu'on avait pensé un système de
+structuration de données autour des
+contenus qui ensuite nous permettait de
+faire fonctionner des algorithmes de
+façon tout à fait originale donc les
+mecs de canal s'ils savaient pas comment
+organiser des données intelligentes
+autour des contenus ce qui était leur
+vrai problème ben il ils faisaient comme
+tout le monde enfin comme tous les gens
+qui pensaient que les algorithmes
+c'étaaient que de la probabilité il
+faisait des petits trucs à la Amazon
+avec de la probabilité qui sortaiit des
+trucs complètement foireux et donc en
+fait on aurait pu leur expliquer mais
+non la recommandation les gars il faut
+l'expliquer et tout ça mais de toute
+façon il serait arrivé à rien mais mais
+ça on était beaucoup trop jeune beaucoup
+trop flippé pour pour être lucide en
+fait sur ce truc tu as pas parlé de ta
+relation avec tes cofondateurs tes
+associés est-ce que ça se passe bien
+est-ce que ça a été dur c'est ça se
+passe hyper bien ça s'est pas toujours
+passé hyper bien on a eu parfois des
+idées très différentes sur sur la façon
+de faire évoluer spideo mais on est
+toujours là ça fait 5 ans on connait
+beaucoup d'entreprises dont les
+fondateurs se sont séparés enfin les
+entreprises survivent mais nous on a un
+peu l'impression d'être des des
+survivants quoi justement j'avais posé
+une question là-dessus vous êtes trois
+donc quand vous êtes en désaccord il y a
+vous votez c'est démocratique où il y a
+le CEO qui dit c'est comme ça comment ça
+se passe pour réseau en fait on a fait
+un truc de communiste un peu dans les
+dans les statuts de de
+spedo il y a trois cogérants on est les
+trois peuvent
+engager
+engager les trois peuvent engager la la
+responsabilité de l'entreprise et la
+décision enfin ce qu'on a décidé de
+faire c'est que pour qu'il y ait pas de
+blocage dans les décisions les décisions
+se prennent à la majorité des fondateur
+donc si moi j'ai une idée que je trouve
+géniale et que mes deux associés la
+trouvent merdique
+ben c'est déjà arrivé ouais c'est arrivé
+pour chacun d'entre nous trois
+moment de frustration
+ouis mais c'était à 3 à 3 on était par
+contre suffisamment lucide au début de
+la création de SPO pour savoir que si on
+devait prendre des décisions à
+l'unanimité c'est sûr qu'on se
+flinguerait donc voilà on préféit vivre
+avec nos frustrations que que d'aller se
+flinguer dans le mur quoi d'aller se
+cracher dans le M c'est tout le
+contraire de ce qu'on dit à nos
+entrepreneurs nous on leur dit les gars
+faut un chef il fautut juste derrière le
+chef quoi ok alors ça par contre c'est
+euh en fait c'est un c'est c'est pas
+visible pour nos clients et pour nos nos
+partenaires et nos actionnaires c'estàd
+que pour nos actionnaires nos clients on
+prend on prend soin de mettre en scène
+la gouvernance de Spido de façon très
+différente on a fabriqué une statue à
+Gabriel qui est devenu le
+CEO parce que c'est lui qui fait signer
+les contrats à la fin on lui a fublé ce
+titre de CEO ça c'est un titre pour les
+autres mais en interne en en interne le
+leadership il se fait à des moments très
+différents et en fonction des sujets
+c'est toujours un truc qui est un peu
+mouvant quoi c'estàdire parfois c'est
+Gabriel sur des idées de de de vente sur
+des intuitions commerciales qui va faire
+changer radicalement le produit et donc
+en fait c'est des moment où moi je vais
+le suivre dans la dans sa roue parce que
+je m'occupe du produit il y a des
+moments où sur des des contraintes
+techniques que moi je maîtrise pas Paul
+nous dit les gars en fait si on continue
+comme ça on va pas être scalable on va
+pas pouvoir aller aux États-Unis donc
+les gars va falloir repenser ce truc
+dans ce cas-là c'est lui qui nous fait
+prendre une direction et parfois ben moi
+j'ai j'ai une idée de la façon dont la
+recommandation devrait être amenée à
+l'utilisateur qui nécessite de repenser
+la façon dont on vend nos produits et de
+repenser la façon dont on développe nos
+logiciels
+et à ce moment-là ben c'est eux qui me
+suivent mais ça c'est vraiment la
+dynamique interne au quotidien parce que
+c'est vrai que la vitrine de spideo ben
+il y a Gabriel qui est CEO il y a thibo
+qui est CEO responsable des produits et
+il y a Paul qui est CTO qui est Monsieur
+technologie il a le maître des machines
+le maître des mots et le
+maître le maître des le maître de la
+caisse moi j'avis une petite question
+donc donc tu disais qu'au début quand
+vous avez commencé vous le faisiez parce
+que vous vouliez vous amuser donc
+j'imagine que il y a eu des moments qu'
+on pas été drôle donc comment ça s'est
+transformé est-ce que vous êtes
+quotidiennement du coup vous l'avez
+toujours abordé en on va s'amuser est-ce
+que vous avez anticipé par moment est-ce
+que vous êtes trouvé obsédé par la
+résolution de ce problème et aujourd'hui
+comparativement à la première année
+comment comment vous vivez l'aventure
+est-ce que c'est encore la la peur le la
+peur non
+en fait ça c'est vraiment un la peur
+c'est un truc qu'on s'est toujours
+défendu de c'est une dynamique qu' on a
+essayé de vraiment détruire dès dès le
+début et on savait que quand on allait
+devant nos nos 25 ingénieurs de Canal
+Plus voilà on avait le track on avait
+peur on pensait se faire piquer nos
+trucs on se disait en fait si on y va
+avec la trouille en fait il va rien se
+passer si on a la trouille on va jamais
+montrer nos trucs on va jamais on aura
+même jamais l'opportunité de de leur de
+leur dans le crâne que ils ont
+besoin de nous et donc c'est un truc
+entre nous trois c'était comme dans un
+vestire de d'équipe de foot c'est ben
+allez quoi on sert les coudes et et on
+et on fait face et à à chaque moment de
+la vie de spideéo où on a eu
+le on a eu cette cette peur ou le
+trac on a vraiment pris le temps en fait
+de de regarder la peur droit dans les
+yeux et d'essayer de trouver d'autres
+d'autres sources d'énergie d'essayer de
+retrouver le le des énergies positive
+quoi je raconter une anecdote de la vie
+de speideo pendant un an en fait on a
+été presque totalement dépendant de
+canap plus sur nos revenus canal plus
+pouvait nous enfin si Canal Plus disait
+mais c'est bon gars votre contrat je je
+le je le mets à la poubelle bah on
+fermait la boîte et il se trouve que il
+y a eu un moment intéressant chez Canal
+plus où le directeur de de Canal Play
+qui nous avait fait venir à changé de
+poste il le remplça par un autre mec qui
+lui était anciennement chez Free qui
+nous aimait pas du tout parce qu'il
+avait essayé de faire la même chose c
+n'y était pas arrivé et quand il est
+arrivé chez Canal plus je dis ça alors
+aujourd'hui c'est notre meilleure ami
+comme quoi les relations changent mais
+aujourd'hui c'est notre meilleur ami
+chez Canal plus mais à l'époque quand il
+est arrivé il nous aimait pas il avait
+des a priori sur nous et ben il a coupé
+le il a coupé le la source
+d'argent on s'est retrouvé pendant
+quelques mois sans sans flux qui est
+arrivé dans notre compte en et on s'est
+sérieusement posé la question de comment
+on réagit par rapport à ça parce que le
+mec disait moi c'est simple votre
+service j'y crois pas j'arrête de
+payerant on a un contrat et dans cette
+dans cette situation
+bah ouais on sait comment on a commencé
+à avoir peur enfin peur au
+sens ça sert à quoi de faire ce truc
+pour du jour au lendemain se faire
+écraser comme une petite
+mouche et le truc c'est que on s on a
+pris le temps de se regarder droit dans
+les yeux on s'est dit mais en fait les
+gars on a lâché nos boulots pour faire
+ça tenter
+l'aventure aussi pour ça quoi pour vivre
+ces moments de d'adrénaline où en fait
+on va se farcir les services juridiques
+de Canal Plus pour leur dire les gars
+vous rigolez on n'est pas en Union
+soviétique quoi il y a des contrats mais
+c'est pas parce que il y a un mec chez
+Canal qui pense que notre service il est
+pas bien
+que on arrête de payer quoi c'est c'est
+n'importe quoi et on s'est retrouvé à
+devoir faire de la politique à devoir se
+battre avec les services juridique de
+Canal Plus pour à la fin juste ben
+rouvrir l'accès et faire revenir
+l'argent ça a durer 3 4
+mois et à ce moment-là ben à ce
+moment-là il a fallu qu'on trouve de
+l'énergie positive pour faire ça c'està
+dire pas la trouille mais Ben le
+l'amusement c'est vraiment ce qu'on se
+disait ben on va découvrir d'autres
+d'autres gens chez Canal Plus
+l'amusement d'aller se farcir le service
+juridique de Canal Plus et d'aller
+défendre leurs engagements contractuels
+et on s'est dit il va falloir qu'on
+s'amuse là-dedans parce que on va être
+obligé de de passer par là aujourd'hui
+c'est très très différent canal plus
+c'est nos meilleurs amis surtout depuis
+qu'on est plus dépendant deux on a une
+relation formidable avec eux mais voilà
+c'est juste un moment de la vie de de
+spideo où on est passé à un cheveu de de
+juste s'arrêter et
+et comment bah on le ça ça arrivit à un
+moment on disait ben on va on va vous
+assigner voilà on vous assigné en
+justice vous avez ruiné une start-up
+prometteuse ça va vous faire une
+réputation de merde euh et on connaît
+des gens voilà on a
+voilà et enfin je je dis ça parce
+que ouais la la réputation parce que
+globalement nos licences pour le budget
+de Canal plus c'est c'est c'est trois
+cacahuètes quoi mais non ce qui ce qui
+les emmerdait c'était de alors qu'ils se
+positionnent comme
+innovant qu'ils ont une structure de de
+maturation des start-ups dans lequel par
+ailleurs on n'est jamais passé par qu'on
+trouvait que c'était merdique mais
+communique
+là-dessus on connaissait des gens qui
+étaient capable de leur tailler une
+réputation vraiment de merde et ça là
+c'était juste un désagrément contre un
+autre le désagrément
+de juste ben continuer à là je parle
+vraiment pour le mec qui disait bon ben
+on va juste arrêter de les payer il
+avait deux désagréments possibles soit
+se faire tailler une réputation de merde
+dans le monde des médias et à
+l'intérieur de Canal Plus soit même sil
+nous aimeit pas tropue à nous payer ben
+agrément contre désagrément et il a
+décidé de rouvrir son budget et de
+continuer à nous payer et puis ensuite
+on a appris à cohabiter avec lui quoi et
+aujourd'hui on est super
+copain retournement copain ça s'est fait
+lentement mais le retournement copain il
+s'est fait le jour où il s'est aperçu
+que il avait vraiment besoin de nous et
+dans le besoin dans le besoin il s'est
+aperçu qu'on était sympa maintenant
+Canal Play dans la façon de d'amener les
+films aux gens
+et très dépendant de nous parce qu'il se
+trouve qu'on leur a par le biais de de
+nos de nos services on a aussi réimporté
+de notre côté tout un tas de trucs qui
+leur enlèv des épines du pied qui qui
+était lié au fait que depuis 5 ans enfin
+5 ans avant qu'on arrive ils avaient une
+plateforme de de de stockage de leur
+contenu qui était complètement foireuse
+qui faait que parfois on appelait un
+film et puis en fait c'était un autre
+film avec un autre titre le casting
+était mauvais bref c'était juste des
+problèmes de base de données il faisaent
+cohabiter trois trois bases de données
+différentes qui étaient supposé être
+synchronisé en fait l'était jamais je
+passe les détails techniques mais en
+fait pour l'efficacité du service on a
+réemporté une partie de cette gestion de
+base de données chez nous qui est pas du
+tout notre métier mais on l'a fait parce
+que c'était plus efficace pour pouvoir
+faire notre métier
+et maintenant qu'on est dans cette
+situation
+canal a vraiment du mal à se passer de
+nous parce que ça voudrait dire qu' il
+faudrait qu'il change complètement leur
+plateforme technique ben ce qui
+s'appelle Reka c'est la c'est le la
+marque ombrelle de la recommandation qui
+qui est agi agit en partie par spidéo je
+dis en partie parce que à l'époque où
+ils ont dépensé des millions pour faire
+les trucs à notre place ils avaient pris
+soin de déposer la marque Reka en
+pensant qu'il ferait les trucs eux- même
+et euh c'est pour moi c'est juste une
+question de maintenant de question de
+temps c'est-à-dire ce qui résiduellement
+était géré par les services internes de
+canal sera progressivement totalement
+remplacé par SPO on avait renégocié le
+contrat bien bien avant
+ça dernière question peut-être à à quel
+moment exc excusez-moi à quel moment tu
+vous avez fondé réellement la société
+dire en terme de stat 2010 on l'a fondé
+le jour où on s'est barré de nos boulot
+d'accord on est tous allés au au
+tribunal du commerce et on allait tous
+les trois déposer nos statuts euh sin SS
+et on a c'est c'était une nécessité pour
+euh déjà avoir la gouvernance qu'on
+voulait avoir c'est-à-dire un truc de
+communiste euh à3 qui est aujourd'hui
+est plus un truc de communiste mais bref
+avoir cette originalité là et pouvoir
+faire investir des gens
+facilement franchement céit génial moi
+j'ai kiffé merci bravo
+[Applaudissements]
+[Musique]

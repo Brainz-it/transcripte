@@ -1,0 +1,1875 @@
+dans l'épisode précédent on a essayé de
+voir comment on pouvait comprendre de la
+meilleure manière les utilisateurs de
+notre produit les futurs utilisateurs de
+notre produit pour pouvoir comprendre de
+quoi ils avaient besoin exactement où
+était leur frustration leur motivation
+et tous les déterminants émotionnels
+qu'on allait pouvoir activer pour leur
+vendre notre produit et pour pouvoir
+régler leur vrais problèmes et on a
+conclu qu'il fallait créer son premier
+produit on va parler de ça dans cet
+épisode de créer la première version de
+son produit parce que c'est vraiment
+important de comprendre com limiter
+cette première version à la version la
+plus simple
+possible avant de commencer et avant de
+partir de la théorie et de d'essayer
+d'expliquer des des concepts je vais
+prendre quelques exemples
+[Musique]
+le premier exemple que j'aimerais
+prendre c'est facebook facebook donc
+c'est du software c'est juste un
+logiciel c'est juste un site web qui a
+été créé par Marx gberg à Harvard en
+2004 dans sa chambre bon ok pour vous
+expliquer un peu mieux ce que j'entends
+par première version d'un produit il
+faut qu'on regarde en fait de quoi
+Facebook était composé à la toute base
+quand ça a été lancé à la base Facebook
+c'est quoi les motivations et les
+frustrations que facebook veut régler à
+la base c'est que quand tu es Harvard ou
+dans une univers unité de manière
+générale connaître tous les gens que qui
+que qui sont sur le campus en même temps
+que toi c'est hyper compliqué connaître
+quelle relation social ils ont les uns
+aux autres c'est encore plus compliqué
+savoir dans quel cours ils sont inscrits
+et cetera n'en parlons pas pour régler
+ce problème làà il y a eu besoin que de
+très très peu de features et c'est le
+deuxième point qui fait un produit une
+première version de produit très simple
+c'est que tu as besoin de peu de choses
+finalement à la base Facebook c'est une
+page d'accueil tu peux t'inscrire tu
+crées ton profil tu renseignes des infos
+sur toi tu peux rechercher les le le le
+profil d'autres personnes et tu peux euh
+t'ajouter en ami c'est à peu près les
+seuls features de Facebook au lancement
+donc finalement c'était un produit qui
+était très simple surtout par rapport à
+ce qu'on connaît maintenant sur Facebook
+et les ressources qui étaient
+nécessaires pour créer cette première
+version elles étaient hyper limitées il
+suffisait de savoir maîtriser du PHP et
+de savoir faire un peu d'HTML un petit
+peu de CSS pour Marc Zuckerberg au final
+ça lui a pris un peu plus d'une semaine
+à créer Facebook dans sa chambre
+derrière son ordi donc trois choses un
+les motivations et les frustrations qui
+sont les relations sociales sur le
+campus de le fait qu'il y ait peu de
+features avec juste l'ajout d'amis et
+l'annuaire grosso modo et trois les
+ressources nécessaires extrêmement
+faibles qui sont juste savoir coder et
+passer une semaine de dev si on prend un
+autre exemple où là on va pas parler
+forcément de c'est c'est c'est un
+produit qui est plus physique et où on
+peut développer la première version sans
+sans coder sans savoir coder uber uber
+c'est un exemple de ça avec uber c'est
+quoi les motivations et les frustrations
+qu'on veut régler la motivation c'est je
+veux pouvoir me déplacer facilement d'un
+point à un point B les frustrations
+c'est surtout que tous les modes de
+transport qui sont connus avant uber
+sont vraiment pas pratiques grosso modo
+genre les transports en commun il y a
+des situations dans lesquelles ça
+fonctionne pas les taxis il y a beaucoup
+de situations dans lesquelles ça
+fonctionne pas et à la base la
+frustration elle est observée pour ber
+on raconte qu'elle est observée en
+sortant de le web qui est un gros salon
+du du numérique en à Paris les deux les
+deux fondateurs de se retrouvent dans la
+neige en sortant du salon sans pouvoir
+prendre un taxi c'est hyper compliqué
+donc ils se disent là il y a une méga
+frustration qui est je veux pouvoir me
+déplacer et je suis dans l'incapacité de
+le faire il faut qu'on règle ce problème
+encore une fois il y a eu besoin de très
+très peu de features pour lancer uber il
+y a eu besoin de très très peu de
+fonctionnalités pour lancer
+il fallait juste pouvoir mettre en
+relation les gens qui voulaient
+commander des chauffeurs et les
+chauffeurs pour faire ça à la base il y
+a eu besoin juste de décrocher un
+téléphone et avoir une liste annuaire de
+tous les chauffeurs qui étaient
+disponibles pour pouvoir répondre aux
+besoins des clients les ressources
+nécessaires pour faire ça elles sont
+extrêmement faibles il faut un téléphone
+et un paquet de postit grosso modo ber a
+fonctionné sur un paquet de postit
+pendant des mois jusqu'à ce qu'ils
+commencent à automatiser leur process et
+qu'ils aient bien compris vraiment
+comment ça marchait mais la première
+version de beurre elle était très simple
+on veut résoudre le problème du
+déplacement on veut mettre en relation
+les chauffeurs avec les clients et pour
+ça on va utiliser des postit et
+décrocher notre téléphone et ça va
+amplement suffire je prends un troisième
+exemple parce que vraiment j'ai envie
+d'enfoncer le clou sur la simplicité de
+tous ces services qui sont maintenant
+devenus très complexes mon troisème
+exemple ça va être un produit physique
+c'est FO bon c'est une boîte qui est
+moins avancée que uber ou que facebook
+évidemment mais c'est quand même
+intéressant FO encore une fois elles
+font des culottes menstruelles qui
+permettent aux femmes de pas avoir
+apporté d'autres protections hygiénique
+que cette culotte pendant leurs règles
+et à la base de fempo la motivation et
+les frustrations c'est que avoir ses
+règles en tant que femme c'est encore
+extrêmement compliqué en 2018 alors que
+ça devrait pas être le cas pour le leur
+premier modèle elles ont fait une
+culotte qui était toute simple qui
+réglait le problème donc qui était bien
+serré bien élastique bien étanche mais
+qui était moche et vraiment j'en
+discutais avec Fanny l'autre jour et
+c'est hyper marrant parce qu'elle me
+montrait le prototype euh
+la culotte est vraiment moche et elle me
+dit on l'a vendu on l'a vendu cette
+culotte ce premier prototype on l'a
+vendu parce que c'était important pour
+nous de voir s'il y avait des gens qui
+seraient prêts à payer pour notre
+produit et en fait ça ça a fonctionné
+comme ça les ressources nécessaires pour
+créer la première culotte FMO c'est une
+usine trouvée sur Google qui fait un
+échantillon et encore une fois on est
+sur un produit où on détecte une
+frustration et une motivation on la
+comprend en profondeur on crée une
+première version qui est est vraiment
+toute simple où il y a très très peu de
+fonctionnalités et tout tous les toutes
+les petites améliorations qu'on peut
+imaginer pour dans le futur et cetera
+elles n'y sont pas c'est juste des
+paillettes en fait finalement c'est
+juste de la déco par-dessus et les
+ressources nécessaires à chaque fois
+pour toutes les boîtes qui ont créé des
+produits même des produits exceptionnels
+à long terme ça a commencé par des
+versions minimaliste très très simple un
+des avantages aussi à créer un produit
+qui est extrêmement simple et qui
+demande très peu de source qui peut être
+fait très rapidement c'est qu'en fait
+c'est beaucoup plus facile d'itérer sur
+un produit simple si tu sors ta première
+version de ton produit et qu'elle est
+déjà extrêmement complexe quand tu vas
+devoir améliorer ce produitlà tu vas
+devoir améliorer tous les aspects de ce
+produit et ça va être trop trop
+compliqué donc garder le truc simple
+pour créer un produit simple il faut
+quand même être en mesure de créer ce
+[Musique]
+produit si tu veux faire des chaussures
+ou du textile faut que tu soit en mesure
+d'aller trouver une usine qui va pouvoir
+te faire un prototype qui va pouvoir te
+produire tes premières collections si tu
+veux faire une app il va falloir que tu
+sois en mesure de la coder et de la
+développer si tu veux faire un site
+pareil si tu veux créer du hardware
+informatique et que tu dois faire des
+soudures et créer ton premier produit il
+faut que tu saches le faire je pense que
+c'est vraiment important et c'est une
+erreur que on peut faire vraiment
+facilement c'est d'imaginer un produit
+qui est complètement hors de notre
+portée pour qu'on puisse le créer
+nous-même et et en en fait c'est c'est
+toujours une erreur et pour les
+multiofondateurs c'est pareil si tu es
+plusieurs dans ton équipe il faut que il
+y ait au moins une personne de l'équipe
+qui soit en mesure de développer la
+première version du produit et et
+au-delà de ça même genre si tu sais pas
+développer la première version du
+produit il faut que tu sois en mesure de
+payer quelqu'un pour le faire mais je
+pense quand même que c'est vraiment
+important de savoir le faire un minimum
+soi-même parce que pour pouvoir déléguer
+ça à une équipe plus tard c'est très
+très difficile de déléguer quelque chose
+que tu n'as pas déjà fait toi-même et
+que tu as pas déjà compris et
+internalisé maintenant pour rentrer dans
+le vif du sujet parlons des ressources
+qui existe pour créer les différents
+types de produits perso moi mon mon mon
+délire ce que ce que je fais
+habituellement c'est plus tout ce qui
+est logiciel création de s création
+d'application tout ce qui est hors du
+monde physique du coup qui est vraiment
+que numérique c'est ce qui m'intéresse
+le plus donc je vais pouvoir je vais
+passer un petit peu plus de temps sur
+ces aspects là mais je vais essayer de
+couvrir tous les différents types de
+produits
+qu'on peut trouver c'estàdire les
+produits physiques les produits
+électroniques les produits logiciels
+aussi du coup mais vraiment je j'essaie
+de donner des concepts qui vont pouvoir
+être utiles à tout le monde déjà on va
+parler de toutes ces boîtes qui font que
+du logiciel que du software ça peut être
+un sas une Marketplace tous ces types là
+de business qui sont des business en
+ligne déjà il y a une première
+problématique pour tous ces business là
+quand tu veux créer la première version
+de ton produit c'est est-ce que tu sais
+coder ou est-ce que tu sais pas coder
+c'est déjà le le premier truc la
+première question qu'il faut se poser si
+tu sais coder très bien pour toi c'est
+cool tu vas pouvoir créer la première
+version de ton produit il va te falloir
+te poser les bonnes questions avant de
+créer cette première version pas trop
+longtemps il faut se les poser
+rapidement et puis ensuite prendre une
+décision le premier problème auquel tu
+vas être confronté c'est de choisir la
+bonne stack technique donc pour ceux qui
+codent pas une stack technique c'est
+l'ensemble des technologies que tu vas
+utiliser dans ton dans ton dans ta base
+de code c'est tous les langages en gros
+et tous les les outils externes qui vont
+venir se brancher à peu près à ça il
+faut que tu te poses la question de
+savoir quels outils tu vas utiliser pour
+pour coder ta base il y a pas vraiment
+de bonnes répones à cette question
+quelle est la bonne stack technique il y
+en a pas ça va dépendre vraiment d'un
+business à l'autre par contre il y a pas
+de secret la meilleure stack technique
+c'est celle que tu maîtrises et je reste
+assez convaincu que si tu détectes un
+problème des frustrations des
+motivations sur un marché et que tu as
+vraiment envie de tester de voir si tu
+peux apporter une solution te prends pas
+la tête à réapprendre un langage parce
+que potentiellement dans 6 mois ça va te
+permettre de scaler ta base de code plus
+rapidement c'est certain que que ça
+fonctionnera pas ensuite toujours en
+tant que développeur il y a une autre
+question qui est de au-delà de la stack
+technique et des techno réel à utiliser
+c'est de choisir les bons outils j'ai
+j'ai passé trop de temps personnellement
+et j'ai vu trop d'autres dev passer du
+temps à coder des trucs qu'ils avaient
+pas besoin de coder fondamentalement il
+y a il y a il y a tellement ement
+tellement d'outils en ligne que tu peux
+trouver qui vont te permettre de réduire
+ton temps de dev par 5 par 6 par 10
+qu'il faut vraiment faire cette veille
+là je pense qu'en tant que développeur
+si tu veux créer des premières versions
+de produits après si tu veux t'intégrer
+à une plus grande organisation et et
+faire partie d'un tout et et être très
+précis dans ce que tu fais ok tu peux
+t'amuser à redévelopper plein de techn
+qui existent déjà je pense que quand tu
+es dans une optique de créer la première
+version de ton produit et de la
+distribuer au marché plus rapidement
+possible il faut pas se poser la
+question il faut aller chercher les
+outils que tu connais et pour connaître
+ces outilsl il faut faire une veille
+constante moi je sais que perso j'ai un
+un l'extension product Hunt sur mon
+Google Chrome et donc dès que j'ouvre un
+nouvel onglet j'ai tous les produits qui
+sont dans productunt aujourd'hui et ça
+m'arrive régulièrement de me dire ah ça
+c'est intéressant d'en faire un favori
+et 6 mois plus tard quand je me pose la
+question et que et de créer une nouvelle
+fonctionnalité ou que il faut développer
+quelque chose je repense à ce truc que
+j'avais mis en favoris il y a quelques
+mois et hop on gagne 3 semaines de def
+parce que on a le bon outil au bon
+moment qui nous permet de reproduire le
+comportement qu'on a envie d'avoir sans
+avoir à le coder de zéro je dis ça pour
+les gens qui sont qui sont dev mais en
+fait même si tu es pas dev c'est un
+concept qui est vraiment important si tu
+commences à bosser avec des freelan en
+dev à externaliser ton développement il
+faut que tu sois capable de remettre un
+peu en question le travail des gens avec
+qui tu bosses pour que tu t'assure de
+qui développe pas des choses qui ont
+déjà été développées et en fait en tant
+que dev c'est même très agréable de
+travailler avec des clients qui savent
+un peu faire cette gymnastique là parce
+que bien sûr il faut pas remettre en
+question tout le temps le travail de la
+personne parce qu'elle sait un minimum
+ce qu'elle fait mais c'est intéressant
+de de toujours chercher à faire moins et
+en fait c'est enfin c'est c'est assez
+intéressant de voir à quel point faire
+moins ça a beaucoup de valeur quand tu
+es sur la première version de ton
+produit et même de de manière générale
+quand on a créé la première version du
+nouveau coup d'État avec Nicolas fils
+donc qui est dev chez chez coup d'État
+on a passé je pense que j'ai passé
+allez 4 jours à faire les maquettes du
+nouveau site et ensuite on a passé de
+jours entiers avec Nicolas à enlever
+tous les trucs qui servaient à rien et
+en fait ça nous a permis de réduire
+notre temps de dev par deux ou par
+quatre par rapport à ce qu'on avait
+estimé à la base pour pouvoir avoir la
+version la plus plus simple possible
+maintenant pour les non codeurs pour
+ceux qui sont pas
+dev la première question qu'on peut se
+poser si on veut créer un logiciel un
+produit software c'est est-ce que je
+dois apprendre à coder je pense que la
+meilleure raison pour commencer à
+apprendre à coder c'est d'en avoir envie
+et pas forcément de le faire parce que
+tu dois et parce que tu as un produit et
+que tu as envie de le créer
+après je je suis assez convaincu que de
+toute façon si tu veux créer une boîte
+software à un moment tu vas devoir euh
+déléguer le travail de création de
+produit à une équipe et pour ça c'est
+important de connaître les bases du code
+moi perso je suis pas du tout un bon dev
+euh je sais bricoler je sais faire du
+HTML du CSS du PHP un peu de rails et
+cetera mais par contre je suis incapable
+de créer un un produit software de zéro
+par contre toute la logique et toute
+l'architecture du dev je la comprends
+parfaitement et je sais discuter en fait
+avec des dev qui savent le faire 1000
+fois mieux que moi ça j'estime que ça a
+une grande valeur et et c'est une
+compétence qu'on retrouve en fait chez
+beaucoup de de product managers et de
+product builders de manière générale
+donc est-ce qu'il faut apprendre à coder
+à moins que tu en ais vraiment envie et
+que tu sois prêt à passer les 10
+prochaines années de ta vie à ne faire
+que coder je pense que c'est vraiment
+très compliqué par contre apprendre les
+bases aller se faire un un code cademy
+aller aller se faire des des cours en
+ligne de dev même sur le Site du Zéro
+enfin qui s'appelle open classrooms
+maintenant genre il y a il y a vraiment
+beaucoup de choses que tu peux faire
+pour apprendre à coder je suis vraiment
+pas perçu
+que si tu sais pas du tout coder et que
+la seule raison pour laquelle tu veux
+apprendre c'est de créer la première
+version de ton produit c'est une
+mauvaise idée à partir du moment où tu
+sais pas coder et où tu as pas
+nécessairement envie d'apprendre il se
+pose une nouvelle question qui est
+est-ce que je vais chercher de l'aide
+est-ce que je vais chercher de l'aide à
+l'extérieur est-ce que j'ai out source
+mon développement il y a plusieurs
+possibilités quand tu fais ça la
+première c'est d'aller chercher un
+cofondateur qui est technique aller
+chercher un condateur qui est technique
+c'est compliqué parce que tu vas tu peux
+très vite tomber dans le travers de
+bonjour je cherche un co parce que j'ai
+une super idée business qui veut me
+rejoindre parce que c'est impossible que
+toi en tant que cityo tu ai eu la même
+une idée aussi bonne que la mienne ce
+qui est déjà hyper condescendant et
+trouver un cofondateur dans cette
+optique là c'est compliqué de manière
+générale de ce que j'ai pu observer chez
+chez tous les les
+cofondateurs au sens large en fait à la
+base ils sont déjà potes ou c'est déjà
+des connaissances et et tu accroches
+pour d'autres raisons qui sont
+personnels qui font que tu tu t'associes
+et que tu crées la boîte ensemble et
+après interviennent les relations de
+travail mais trouver un cofondateur pour
+développer la plateforme et juste lui
+donner le titre parce que ça fait bien
+je pense que c'est pas forcément une
+bonne idée par contre si tu as déjà
+quelqu'un dans ton entourage qui fait du
+code et qui est emballé par ce que tu
+fais et qui est prêt à bosser avec toi
+génial si tu arrives à convaincre les
+gens de bosser avec toi alors que tu as
+encore rien et que tu as même pas la
+première version de ton produit c'est
+que potentiellement tu as déjà peut-être
+quelque chose et que tu as bien fait t
+cherche utilisateur au départ donc bien
+joué ensuite il y a une deuxième
+possibilité qui est que si tu veux pas
+un cofondateur peut-être que tu veux
+prendre un freelance quelqu'un qui va
+être en externe qui va intervenir dans
+la création de ton produit qui va coder
+pour toi et à qui tu vas pouvoir donner
+des guidelines gérer un freelance c'est
+compliqué c'est un c'est un job c'est
+encore différent de gérer un employé ou
+une employé et en fait c'est c'est c'est
+tout un truc d'aller-retour de négocier
+correctement les prix
+de savoir comment donner le le la bonne
+vision enfin vraiment il y a tout un
+enjeu à travailler avec des freelance de
+manière générale surtout qu'ils ont
+parfois d'autres clients en même temps
+avec qui tu bosses et tout ça trouver un
+bon freelance franchement aujourd'hui à
+faire tu vas sur Comette et tu cherches
+des freelances dans ta stack technique
+et si tu as pas de stack technique de
+base tu cherches un freelance de manière
+générale tu finis par trouver ça et si
+tu as un feit personnel et que tu
+arrives à bien exprimer la ta mission et
+les problèmes que tu veux régler chez
+tes utilisateurs normalement ça devrait
+le faire et tu arriveras à bosser en
+freelance même chose pour un ou une
+employé que tu voudrais embaucher et qui
+coderait pour toi finalement le les deux
+cas sont assez similaires donc il y a la
+possibilité soit de trouver un
+cofondateur ou une cofondatrice qui va
+coder pour toi et avec toi soit trouver
+un employé ou une freelance ou n'importe
+euh qui va te qui va aussi être un peu
+plus en externe et que et que tu vas
+devoir manager et a tu vas devoir
+transmettre toute la vision des choses
+que tu as accumulé dans tes recherches
+utilisateurs elle est là ta valeur en
+fait en tant que créateur de produit si
+tu sais pas coder ça ça devient flagrant
+les les deux dans les deux premiers
+épisodes on a parlé de comprendre qui
+étaient vraiment les gens et pourquoi on
+leur bâtissait un produit si tu as cette
+valeur là même si tu sais pas coder tu
+as une gigantesque valeur que que que
+d'autres n'ont pas le truc c'est qu'il y
+a une sorte d'astuce quand tu sais pas
+coder et qui est propre propre à
+maintenant à 2019 tu vois genre il y a
+il y a jamais eu autant d'outils qui
+existaient j'en parlais juste avant pour
+parler des gens qui codent et dire que
+quand tu codes il faut te poser la
+question constamment de est-ce que ce
+truc a une vraie valeur est-ce que je
+suis en train de coder parce que ça a
+une valeur ou est-ce que ça me fait
+juste plaisir c'est vrai même si tu sais
+pas coder en fait je pense qu'il y a
+vraiment suffisamment d'outils pour que
+si tu sais pas coder tu puisses créer
+une première version de ton produit Tech
+qui fonctionne très très bien qui certes
+est du bricolage et qui va pas aller
+scaler euh le plus possible mais par
+contre tu peux créer la première version
+avec tous les outils qui
+existent si on prend un exemple c'est
+Comè Comette euh c'est une boîte qui met
+en relation donc des freelance avec des
+entreprises qui ont besoin de freelance
+donc ce dont je parlais il y a 2
+secondes Comè c'est une boîte qui a fait
+de 0 à 500000 € de volume d'affaires
+sans une seule ligne de code d'ailleurs
+il y a un coup d'état talk qui parle de
+ça où Charles CEO de Comet explique
+comment ils ont fait avec quels outils
+et cetera c'est pas très compliqué ils
+ont utilisé Google sheets donc le Excel
+de Google dans lequel ils ont inscrit
+des sortes de base de données avec les
+freelances d'un côté les entreprises de
+l'autre ils
+avaient zapier donc zapier c'est un
+outil qui te permet en fait de connecter
+un outil à un autre par le biais de ce
+qu'on appelle des triggers donc ça va tu
+vas pouvoir dire par exemple si quelqu
+si je rajoute une ligne dans mon tableau
+Google sheet euh alors ça déclenche un
+trigger zapier et ça va envoyer un email
+à telle personne avec tel contenu et tu
+peux faire ça avec des dizaines et des
+dizaines d'outils différents sur
+Internet et en connaissant un peu ces
+outils et en les mettant en relation à
+travers zapier je pense que tu peux
+vraiment faire des merveilles et tu peux
+construire les premières versions de ton
+produit et même toutes les versions
+suivantes jusqu'à ce que ce soit
+bloquant hyper facilement ce sujetl
+intéresse tout particulièrement parce
+que c'est vraiment le le la
+démocratisation de la création de
+produit dans son essence je pense
+vraiment qu'on a de la chance d'être en
+2019 et d'avoir accès à autant de
+technologies qui nous permettent de
+faire autant de choses en ayant peu de
+connaissance et en ayant surtout pas à
+apprendre à coder pendant 10 ans donc
+pour être un peu plus dans le vif du
+sujet on va faire une partie pratique où
+je vais vous montrer comment on peut
+recréer uber avec juste Google sheets un
+outil qui s'appelle chat fuel et qui
+permet de faire des botes Messenger et
+zapier et on va voir comment on va
+connecter ces outils pour recréer la
+mécanique de
+[Musique]
+uber je pense sincèrement que tu as pas
+besoin de coder quoi que ce soit pour
+créer la plupart des premières versions
+de produits que tu as en tête je pense
+que c'est surtout une notion de
+réflexion de création de produit en fait
+mais pas tant une question de de tech
+dans le sens où aujourd'hui en en 2019
+on a énormément d'outi à notre
+disposition pour créer ce qu'on veut mon
+but c'est de montrer ça en recréant
+ber le le flow de beurre en tout cas
+avec des outils déjà existants sans
+coder une seule ligne pour essayer de de
+voir comment on peut faire tout ça la
+première étape pour créer un pour créer
+ce ce produit là ça va être de se mettre
+dans la peau de l'utilisateur et de
+savoir qui il est et comment ça se passe
+donc si on part du principe qui a deux
+côtés va y av voir l'utilisateur qui va
+être la personne qui commande un
+chauffeur qui va venir le l'amener d'un
+point à un point B et il va y avoir le
+chauffeur en lui-même qui lui attend
+qu'un utilisateur lui commande une
+course et qui va ensuite rejoindre cette
+personne et cetera donc le mieux pour
+pour commencer à avoir la réflexion de
+comment je vais créer le produit c'est
+de dessiner ce qu'on appelle un user
+flow et qui en fait est bah ce dont je
+parlais qui en gros il faut absolument
+imaginer l'expérience complète de la
+personne dans son contexte pour pour
+pouvoir créer une expérience qui va de A
+à Z et pas juste un bout de produit
+imaginer par-ci par là donc pour
+commencer ça il faut se demander dans
+quelle situation l'utilisateur est amené
+à utiliser l'app ce que j'aime bien
+quand je dessine des user flow en
+général c'est de faire des petits
+dessins des petits pictos même si c'est
+mal fait peu importe ce qui est bien
+c'est que ça permet d'êtreavoir une
+réflexion qui est un peu plus visuelle
+donc on va commencer l'idée c'est qu'à
+la base on a un utilisateur qui est dans
+une situation initiale donc hop un
+[Musique]
+utilisateur qui lui euh est dans la rue
+par exemple on va partir du principe
+qu'il est dans la rue seul euh qu'il est
+euh dans une situation où il veut se
+déplacer grosso modo donc il a besoin de
+se
+déplacer qu'est-ce qui se passe quand il
+a besoin de se déplacer la première
+chose qui fait c'est qu'il va appeler un
+chauffeur donc hop ça c'est un téléphone
+euh il appelle un
+chauffeur lui quand il appelle le
+chauffeur qu'est-ce qui se passe et ben
+de l'autre côté il y a un chauffeur donc
+on va le mettre en
+parallèle on va lui mettre une petite
+casquette parce que c'est un
+chauffeur et le chauffeur lui dans sa
+situation initiale il est en attente il
+est peut-être en train de tourner dans
+sa voiture ou quelque chose comme ça et
+il va du coup être en attente de l'appel
+de la part de
+l'utilisateur qu'est-ce qui se passe
+quand la personne appelle le chauffeur
+et ben il y a deux choses qui se passe
+en même temps un il va rentrer dans un
+mode où il est en
+attente et en même temps ça va notifier
+le
+chauffeur le chauffeur lui il reçoit la
+notification et il choisit
+soit de l'accepter
+soit de la refuser si jamais il refuse
+et ben on va envoyer une notification à
+un autre chauffeur par contre si jamais
+il accepte on va envoyer une
+notification à
+l'utilisateur et ensuite qu'est-ce qui
+se passe et ben une fois qu'il a
+accepter on enication à utilisateur et
+en plus lui va recevoir les infos conc
+l'utilisateur une fois qu'il a les infos
+donc sur la localisation de la personne
+où elle se trouve et où est-ce qu'il
+doit se rendre il va
+conduire h ça c'est une voiture voilà on
+fait ce qu'on peut il va conduire
+jusqu'à ce qu'il arrive au point de
+rencontre
+entre les deux personnes une fois qu'il
+se rencontre l'utilisateur il monte dans
+la voiture du chauffeur du coup ils sont
+ensemble ils arrivent sur une expérience
+qui est commune où il y a de nouveau de
+la
+conduite puis jusqu'à ce qu'ils arrivent
+à la destination auquel cas le chauffeur
+choisit de terminer la
+course et éventuellement on peut
+rajouter que l'utilisateur lui va
+choisir de mettre un rating au chauffeur
+pour qu'on puisse avoir un feedback sur
+la qualité de la course avec tout ça on
+a le flot utilisateur de l'expérienceur
+alors évidemment on va pouvoir rajouter
+des choses on verra ça après je pense
+que là on a vraiment le la base du truc
+évidemment il a la localisation il va
+falloir choisir comment on notifie le
+chauffeur est-ce qu'on géolocalise la
+personne est-ce que on lui mon est-ce
+qu'on montre à l'utilisateur au moment
+où il est en attente et que le et que le
+le le chauffeur a accepté la
+notification est-ce qu'on choisit de lui
+afficher une carte avec la localisation
+du chauffeur en en temps réel et cetera
+je pense que là on est dans une phase où
+on veut créer un MVP on veut créer
+vraiment la toute première version du
+produit c'est pas nécessaire ce qui est
+nécessaire réellement pour l'utilisateur
+à ce ce stade là c'est de pouvoir se
+déplacer d'un point A à un point B de
+passer d'une situation où il est dans la
+rue avec un besoin de se déplacer à une
+situation où la course est terminée et
+donc du coup dans l'autre cas le
+chauffeur il doit passer d'une situation
+en attente à une situation où la course
+est terminée et il revient en attente
+avec tout ça on a le flow initial deber
+une fois qu'on a tous flow et qu'on a ce
+ce user flow général on va se poser la
+question de comment on va faire
+interagir les outils entre eux pour qu'à
+chaque étape ce soit le plus efficace
+possible et ensuite on va se demander
+aussi quelle est la version la plus
+simple qu'on puisse créer pour que ça
+nous demande le moins de travail
+possible donc à la base l'utilateur est
+dans la rue il a besoin de se déplacer
+il va appeler un chauffeur pour appeler
+un chauffeur ça veut dire qu'il a besoin
+d'interagir avec notre application avec
+notre notre outil notre produit pour ça
+je pense qu'on va utiliser un outil qui
+s'appelle chat fuel qui en fait va nous
+permettre de créer un chatbot sur
+Messenger qui va demander à
+l'utilisateur de télécharger aucune app
+il va juste pouvoir venir sur notre page
+facebook qu'on aura créé et utiliser le
+bot pour dire ok je suis à telle adresse
+venez me chercher ça ça nous permet
+d'avoir l'étape une pendant ce temps-là
+le chauffeur est en attente il faut
+qu'on le notifie donc je pense qu'on va
+aussi utiliser chat fuel ça c'est pour
+ça va être la même chose on va lu lui
+envoyer une notif qui dit attention il y
+a quelqu'un donc on va créer un chat
+fuel utilisateur et un chat fuel
+chauffeur et donc les dans les deux cas
+ils vont recevoir des messages un peu
+différents donc la notification du
+chauffeur elle se fait dans chat fuel
+aussi il accepte ou il refuse ça se fait
+dans chat fuel le fait que ce soit en
+attente benah il y a rien à faire la
+notification d'utilateur elle se fait
+dans chat fuel aussi la réception des
+infos elle va se faire également dans
+chat fuel pendant toute la phase de
+conduite la rencontre on est à ça aussi
+la conduite de nouveau il termine la
+course là dans chat fuel le chauffeur va
+pouvoir indiquer que la course est
+terminée et ensuite ça va envoyer un
+message de nouveau dans chat fuel à
+l'utilisateur donc tout ça ça va
+s'englober dans le chat fuel la question
+c'est comment on fait pour relier le
+chat fuel de l'utilisateur au chat fuel
+du chauffeur et ben pour ça on va
+utiliser un outil qui s'appelle zap
+qui va nous permettre de connecter les
+deux chat fu entre eux et et de de créer
+en fait des des pont entre entre les
+deux les deux applications et en même
+temps on va stocker tout ce qui se passe
+dans un tableau Excel dans un Google
+she pour avoir un historique de tout ce
+qui s'est passé en terme de courses dans
+le temps donc ça nous crée une espèce de
+base de données qu'on va stocker dans
+Google sheet et en fait on pourra même à
+partir partir de Google sheet qui est
+automatique en fonction des courses qui
+se font et cetera on pourra même créer
+des dashboards de données on va pouvoir
+faire des graphe pour voir à quelle
+vitesse le nombre de courses par semaine
+augmente et cetera donc avec ces trois
+outils là je pense que on peut déjà
+créer cette version là de ber qui est
+une version qui est incomplète par
+rapport à ce qui existe chez ber mais
+qui est suffisante pour régler le
+problème de cet utilisateur là qui veut
+juste se déplacer et qui potentiellement
+aura entendu parler de ton produit parce
+que tu auras bombardé en Canau
+d'acquisition le premier truc qu'on va
+faire c'est qu'on va créer un compte
+chatfu qui va nous permettre de créer le
+bot qui va être utilisé par
+l'utilisateur infin donc on va aller sur
+chatfuel.com et on va créer un
+compte une fois qu'on a créé le compte
+chat fuel on va pouvoir créer un nouveau
+bot donc on va créer un un bot from
+template on va dire qu'il est blanc
+comme ça j'ai pas besoin de faire quoi
+que ce soit et je vais le connecter à
+une page Facebook
+que j'ai préalablement créé on app ça
+sera super
+catégorie
+transportation et notre P existe parfait
+maintenant on peut la connc notre compte
+chat Connect page et la page est
+connecté ça veut dire quoi ça veut dire
+que si maintenant je vais dans
+Messenger que je tape
+ici il y a un business et donc je peux
+parler à la page facebook vroom
+vroom donc là ce qu'on voit c'est que je
+peux déjà cliquer sur un bouton qui fait
+get started ù ça va me renvoyer un
+message qui est automatique de la part
+de chat fuel et maintenant il suffit que
+je change la réponse de chat fuel à ce
+get started pour ça ça marche très très
+simplement en gros il suffit de cliquer
+ICI sur automate dans chat fuel et on a
+des blocs qu'on va pouvoir déplacer et
+qui vont correspondre à des réponses à
+des questions qui sont posées par
+l'utilisateur donc par exemple ici ce
+qu'on veut c'est que il y a un welcome
+message
+salut qui dit salut bienvenue sur vroom
+vroom commande ton chauffeur dès
+maintenant et une default her donc ici
+on va utiliser la default her ça veut
+dire que quand les gens posent pas des
+questions nécessairement liées à ton
+flow à toi tu vas pouvoir une défaute
+TER ce qui fait que ici si je viens et
+que je tape coucou il va me donner la
+réponse automatiquement que j'ai écrite
+salut bienvenue sur wom roomom commande
+ton chauffeur dès maintenant parfait
+maintenant ce qu'on veut c'est que la
+personne elle puisse faire l'action
+d'appeler un chauffeur donc on va lui
+ajouter un
+bouton appeler un chauffeur si jamais il
+clique sur ce bouton là on va lui dire
+qu'il va recevoir un nouveau bloc un
+nouveau bloc qui n'existe pas encore
+donc il faut qu'on crée ici un bloc qui
+va contenir la réponse qu'on lui donne
+quand il clique sur le bouton appeler un
+chauffeur donc là on va appeler ça étape
+une une fois que la personne a cliqué
+sur le bouton appeler un chauffeur ce
+qu'on va vouloir lui demander c'est
+l'adresse à laquelle elle se trouve pour
+pouvoir l'envoyer au chauffeur juste
+derrière pour ça on va utiliser une
+option de chat F qui s'appelle user
+input et qui va nous permettre déjà de
+lui poser une question on va lui dire
+génial envoi-nous l'adresse à laquelle
+tu te trouves est-ce qu'il y a une
+validation non parce qu'on peut pas
+valider départ adresse et on va sauver
+la réponse qui nous donne à dans une
+variable qu'on appelle user address ok
+donc ça c'est une variable ça veut dire
+qu'elle va être stockée dans notre chat
+fu et qu'on pourra la ressortir à un
+autre moment on va voir pourquoi c'est
+utile juste après parce qu'on va pouvoir
+ensuite l'envoyer à l'autre chauffeur
+par exemple donc une fois qu'il nous il
+nous a donné ça nous ce qu'on veut c'est
+peut-être éventuellement lui lui donner
+un exemple exemple 25 rue du petit
+muscle maintenant qu'on a créé ce bloc
+il vaoir le connecter au bouton dont on
+a parlé tout à l'heure donc ça veut dire
+que dans la default her sur le bouton
+appeler un chauffeur on va lui envoyer
+le bloc étape 1 qui donc commander un
+chauffeur là ça sauve et une fois que
+c'est sauvé on peut réessayer donc si je
+tape hello dans mon bot il va me
+renvoyer la réponse salut bienvenue sur
+room roomom commande ton chauffeur dès
+maintenant avec le bouton appel un
+chauffeur si je clique
+dessus il dit génial envoie adresse à
+laquelle tu te trouves exemple 25 r du
+petit muscle Paris on va lui donner
+exactement ce qu'il veut 25 ru du petit
+muscle
+Paris hop donc ça fonctionne il nous a
+demandé quelque chose et on a une
+réponse qui va être stockée dans la
+variable qu'on a appelé user adress il
+va falloir qu'on lui demande qu'elle
+donne l'adresse à laquelle elle veut se
+rendre c'est la deuxième étape donc on
+va créer un nouveau bloc qu'on va
+appeler étape 2 dans lequel on va
+également demander un user
+input qui va s'appeler user destination
+et le message c'est ok maintenant
+donne-nous l'adresse à laquelle tu te
+rends on veut quand que une fois que la
+personne a rentré son adresse elle
+puisse passer en fait à l'étape 2 donc
+pour ça on va utiliser l'option go to
+block et dire ok une fois que l'étape
+une est terminée il va passer à l'étape
+2 pour ça donc si on réessaye et qu'on
+tape hello et que du coup ça relance le
+truc appeler un chauffeur il va nous
+demander l'adresse 25 R du petit muscle
+ensuite il va nous envoyer le second
+message maintenant à laquelle tu trend
+donc on va dire
+s avenue deschampsélysé Paris et on va
+pouvoir continuer une fois qu'on a
+l'adresse initiale de l'utilisateur qui
+est stocké dans user adresse donc et
+qu'on a l'adresse finale la
+destinationateur qui est stocké dans
+user destination on a les deux infos
+qu'on va devoir envoyer au chauffeur
+pour qu'il puisse se retrouver l'info
+qui manque ça va être le numéro de
+téléphone de la personne parce que ce
+sera plus pratique pour qu'il puisse se
+retrouver entre eux c'est certain donc
+on va lui demander une troisème étape
+qui va contenir également une user
+input validation on peut mettre phone
+parce que du coup on cherche vraiment un
+truc et on va on va appeler ça user
+phone celle-là c'est l'étape 3 et ce
+qu'on veut c'est qu'à la fin de l'étape
+2 on aille go to block et qu'on aille à
+l'étape 3
+donc dans le flot l'utilisateur il va
+arriver dire je veux un chauffeur il
+donne son adresse initiale l'adresse de
+destination son numéro de téléphone et
+maintenant il faut qu'on passe à la
+deuxième étape du du flow donc là la
+personne appel un chauffeur maintenant
+il est dans une situation d'attente ce
+qu'on doit faire c'est notifier le
+chauffeur qui lui est déjà en attente
+donc lui envoyer les infos de la
+personne pour qu'il puisse choisir
+d'accepter et ensuite pouvoir se rendre
+sur le lieu où la personne se trouve
+déjà à cette étape là ce qu'on va faire
+c'est qu'on va connecter
+ces données là et on va on va les
+inclure dans une Google sheet donc pour
+ça on va aller créer une Google
+sheet on crée une Google sheet vide et
+pour rentrer des données dans cette
+Google sheet on va devoir créer un zap
+qui va connecter chat fuel à Google
+sheet donc on va aller sur zapier
+donc dans zapier ce qu'on va pouvoir
+faire c'est qu'on va pouvoir utiliser la
+version beta de chat fu il y a une
+version beta qui fonctionne avec zapier
+à laquelle il faut juste s'inscrire
+rapidement mais qui en fait te permet de
+utiliser chat fuel comme un trigger donc
+ça veut dire qu'à chaque fois qu'il va
+se passer quelque chose dans chat fuel
+tu vas pouvoir déclencher quelque chose
+dans un P donc on utilise chat fu comme
+app et on va utiliser le truc export VI
+Z plugin parce que dans chat on va
+pouvoir faire c'est qu'au moment où
+l'étape 3 se termine on va pouvoir
+ajouter quelque chose qu'on va appeler
+qui est export
+VI et o en fait on va pouvoir
+connecterat donc ici dis de faire exp
+plugin je continue je connecte un compte
+chat F à mon compte Z il s'appelle blank
+bot que je l'ai pas nomm il est ici
+est-ce que je peux le tester c'est bon
+ça a marché je continue et ensuite il
+faut que je je choisisse le truc donc
+étape 3 trigger il est ici donc c'est le
+c'est c'est le trigger qu'on a ici dans
+chat fuel qui est vraiment repris dans
+un Pier et on veut récupérer le first
+name le last name de la personne user
+adresse qui est le le le truc qu'on a
+créé qui est l'adresse que la personne a
+donné on veut récupérer user destination
+user phone on va le récupérer aussi et
+une fois qu'on a toutes ces données là
+on continue et on va pouvoir t tester
+cette étape pour ça on continue et on va
+devoir passer à la deuxème étape de la
+création d'un zap donc dans zap on crée
+des zap à la base c'est un trigger et
+ensuite ça va être une action donc on va
+cliquer sur A2 step c'est une action
+qu'on veut faire ce qui veut dire que
+quand on est trigger par chat fuel donc
+que l'étape dans chat fuel de zappur se
+déclenche on va faire l'action suivante
+on va faire que dans Google sheets on va
+créer une ligne dans Google sheet qui va
+contenir les infos qu'on a récupéré dans
+chat fuel je teste pour voir si ça
+fonctionne ça dit que c'est un succès je
+continue ma feuille de calcul elle va
+s'appeler vroom
+vroom ici je vais la récupérer dans chat
+fuel donc elle s'appelle vroom vroom et
+la worksheet c'est la page une de la de
+la de la feuille Excel il y a pas donc
+là il me disent qu'il y a pas de header
+donc ça veut dire qu'il va falloir que
+je récupère ici les infos donc là on va
+faire une colonne first name last name
+phone user adresse user destination ici
+dans mon tableau Excel j'ai rajouté des
+entêtes qui sont les CIN informations
+qu'on a récupéré dans le chat fuel et
+qu'on veut remplir dans ce tableau
+automatiquement à chaque fois que
+quelqu'un fait une demande pour ça on
+voit qu'ici dans app j'ai j'ai les noms
+de colonnes que je viens de rajouter
+dans mon Google sheet et dans lesquels
+je vais pouvoir mettre les attributs que
+j'ai récupéré dans chat fuel depuis chat
+fuel donc depuis ici donc je mets mon
+first name je mets ma variable last
+nameame je mets ma variable téléphone
+userphone je mets ma variable adresse et
+ma variable user destination je clique
+sur
+Continue on va appeler le Zap chatf
+Google sheet on va le mettre on et si
+tout va bien à chaque fois qu'on va
+aller dans chatf et qu'on va remplir les
+trois étapes ça va uploader une une
+nouvelle ligne dans Google
+sheets et ici hop magiquement zapier a
+connecté en fait le chat fuel à mon mon
+tableau Excel et donc j'ai fini les
+trois étapes et ici et ben voilà on voit
+que euh euh j'ai mon tableau qui est
+rempli avec les infos que j'ai renseigné
+donc maintenant qu'on a fait ça
+maintenant que à chaque fois que
+quelqu'un rentre dans le chat fuel et
+fait une demande de chauffeur ça se
+stock dans la dans le tableau Excel et
+ça crée une ligne avec les infos qui ont
+été rentrées il va falloir qu'on envoie
+ces informationsl au chauffeur pour
+qu'il puisse ensuite accepter ou non la
+course pour ça on va créer un nouveau
+zap qui va être connecté entre chat fuel
+et et qui va en fait se déclencher au
+même moment que on remplit la Google
+sheet donc de nouveau le trigger c'est
+chat fuel expor viaap plugin save plus
+continue c'est de nouveau l'étape 3
+trigger et ce qu'on veut récupérer comme
+info et bien c'est les mêmes first name
+last name et cetera une fois qu'on a le
+trigger qui est sensiblement le même que
+dans l'autre app on va pouvoir continuer
+et créer l'action qui a juste derrière
+qui va être d'envoyer un message au
+chauffeur pour qu'il puisse accepter ou
+non la course pour ça on va utiliser
+chat fuel de nouveau et on va dire qu'on
+veut envoyer un text message à un
+subscriber le problème c'est que pour
+envoyer un message au chauffeur il faut
+qu'on le trouve il faut qu'on sache à
+qui on va envoyer un message pour ça le
+mieux c'est qu'on aille pocher dans une
+liste de tous les chauffeurs qui
+existent cette liste on va en faire une
+deuxième feuille de calcul dans dans
+dans Google sheet hop donc la première
+on va la renommer de feuille 1 à demande
+et la deuxème on va l'appeler chauffeur
+ici chauffeur ils vont avoir un
+Messenger ID on va voir juste après ce
+que c'est il va y avoir leur leur prénom
+leur nom de famille et leur numéro de
+téléphone et on va créer en fait un
+deuxième bot qui va permettre au
+chauffeur lui d'interagir avec son
+application chauffeur pour ça il faut
+qu'on r tourne au dashboard de chat fuel
+et on va créer un deuxième bot c'est
+parti ok donc la page facebook vom
+roomom for chauffeur est créé et donc il
+va falloir qu'on la connecte à notre
+nouveau chatbot
+ok donc maintenant que notre page vroom
+vroom for shaufferss elle a été
+connectter à notre chatbot qui s'appelle
+maintenant vroom vroom chauffeur on va
+pouvoir commencer à faire le flow pour
+ça on a un premier euh une première
+étape qu'on veut qui est que le
+chauffeur doit s'inscrire pour qu'on
+puisse en fait lui envoyer des messages
+par la suite c'est la première étape si
+on veut pouvoir lui envoyer des messages
+automatiquement quand quelqu'un fait une
+demande il faut qu'on ait son ce qu'on
+appelle son Messenger ID qu'on va
+stocker dans une base de données pour ça
+on va dire que donc il y a un welcome
+message qui est
+hello inscris-toi où va y avoir un
+bouton je m'inscris la default danser ça
+va être la même chose je m'inscris et
+donc ici on va créer un groupe de bloc
+qu'on va appeler inscription on va créer
+un premier bloc dans lequel on va lui
+demander de renseigner des infos sur lui
+et ça va être le même process donc user
+input de la même manière on va faire en
+sorte que ça s'exporte depuis zapier à
+au moment où il passe à l'étape
+2 et juste derrière on va lui dire c'est
+tout bon tu es inscrit donc on va créer
+un nouveau zap qui va dire que quand la
+le chauffeur s'inscrit en fait sur son
+sur le l'application il va falloir qu'on
+update le Google sheet des chauffeurs
+pour ça bah le trigger c'est de nouveau
+chat fuel avec toutes les infos qu'on
+veut avoir on connecte le zapierur à
+vroom vroom chauffeur et donc on sait
+qu'on veut l'Étap de trigger et qu'on
+veut récupérer de nouveau donc là là ici
+ce qu'on veut absolument c'est le
+messenger user ID parce que avoir ça en
+base de données c'est ce qui va nous
+permettre derrière d'envoyer un message
+à la personne donc pour ça on va
+récupérer ce Tru là mais on va aussi
+récupérer son nom prénom et info même
+chose pour Google sheet on va ajouter ça
+à la feuille de calcul dans la page
+chauffeur et on va inclure dedans le
+messenger user ID prénom nom et
+cetera on appelle ce zap inscription
+chauffeur on le met en ligne ça veut
+dire qu'à chaque fois que le chauffeur
+va faire une étape d'inscription ça va
+se rajouter dans la Google sheet qui est
+celle de des chauffeurs finalement donc
+on va pouvoir aller ensuite piocher
+dedans ce qui fait que maintenant si je
+viens dans le bot et que euh je
+m'inscris ça va me demander d'abord mon
+numéro de
+téléphone et ensuite ça va me dire que
+c'est bon je suis inscrit et dans la
+feuille de calcul voilà on le voit ici
+le les infos ont été remplies bon deux
+fois parce que j'ai testé deux fois mais
+les infos ont été remplies l'idée c'est
+que maintenant on a une base de données
+des chauffeurs qui sont inscrits dans
+notre chat fuel for chauffeurs donc dans
+notre room roomom for chauffeur et donc
+on revient au moment où la personne
+appelle un chauffeur et où il faut
+notifier cette personne-elà donc ce
+qu'on va faire c'est que on va revenir
+créer un nouveau zap qui va partir de
+chat fuel de nouveau il part donc de
+notre chat fuel pour les users plugin
+étape 3 trigger output attributes et
+bien on va vouloir récupérer de nouveau
+first name last name téléphone user
+adresse et
+cetera et on peut continuer ce qu'on
+veut nous c'est aller chercher un
+chauffeur pour pouvoir le notifier donc
+on va ajouter une step qui est une
+action search et en fait on va chercher
+dans notre feuille de calcul un
+chauffeur qui va être disponible pour
+qu'un chauffeur soit disponible ça veut
+dire qu'il faut que dans le tableau ce
+soit indiqué qu'il est disponible donc
+on va créer une colonne qu'on appelle
+disponible et on va dire que c'est True
+ou False ça nous permet en fait nous de
+de de voir si si si effectivement le
+chauffeur est disponible ou pas c'est
+une truc qu'on pourra updater donc quand
+il va être en course quand il va être en
+train de d'avoir accepté une course on
+va passer ce statut à n'est pas
+disponible et ensuite on pourra du coup
+ça va cherch zapur va chercher
+automatiquement les chaueurs qui sont
+disponibles une fois que l'utilisateur
+il a demandé une course à un chauffeur
+qu'on lui a trouvé un chauffeur dans la
+la Google sheet il va falloir qu'on
+envoie un message au chauffeur pour lui
+dire écoute il y a une course qui est
+disponible pour toi est-ce que tu veux
+l'accepter oui ou non pour ça ce que zap
+nous demande c'est à qui je dois envoyer
+un message donc ici on doit lui donner
+un Messenger user ID qu'on a récupéré
+dans notre Google sheet qui était la
+liste des chauffeurs donc on va pouvoir
+lui dire ok bah je l'ai déjà récupéré
+ici je vais utiliser ce Messenger ID à
+qui je vais envoyer le message suivant
+hello ici donc je récupère le message
+initial qui qui a été envoyé par
+l'utilisateur qui est notre trigger dans
+appier et je dis first name last name
+donc Valentin Richard a demandé une
+course à l'adresse suivante ici bah il
+faut que je trouve la user adresse il va
+à cette
+adresse user destination son numéro de
+téléphone tu es chaud il reçoit ce
+message là et il doit pouvoir accepter
+la course il doit pouvoir aussi la
+refuser c'est tout un autre flow qui va
+redéclencher des apps et cetera donc
+c'est pas forcément nécessaire de vous
+le montrer je pense maintenant mais par
+contre là on voit déjà on commence à
+voir déjà bien la logique l'idée c'est
+que la personne peut accepter ça va
+l'envoyer sur un chat fuel block ce chat
+fu block il faut qu'on le crée donc on
+va dire que c'est un groupe qu'on va
+appeler pendant la course qui va contire
+tous les messages qu'on enverra au
+chauffeur pendant la course et le
+premier message qu'on va lui envoyer
+c'est le bloc course accepté où ça va
+être un texte genre génial la course est
+accepté Go donc l'idée c'est que ici on
+va l'envoyer sur le bloc course accepté
+et on met pas de deuxième bouton ni de
+troisème bouton on continue j'envoie le
+test à chat fuel ce zap il faut le
+mettre en marche donc on va l'appeler
+envoie du message au chauffeur on le met
+en marche et maintenant on peut tester
+donc si je vais sur vroom vroom et que
+je tape hello j'appelle un chauffeur ok
+je choisis d'appeler un chauffeur on me
+demande mon adresse à laquelle je suis
+actuellement donc je donne une adresse
+on me demande l'adresse à laquelle je
+vais je donne l'adresse je donne mon
+numéro de téléphone ça me dit que c'est
+bon on contacte le chauffeur on prévient
+quand il accepte la course et là côté
+chauffeur le chauffeur sur un message
+qui dit hello Valentin Richard a demandé
+une course à l'adresse suivante 25 rue
+du Petit mususcle Paris il va à cette
+adresse 104 Aven champ d'élysée Paris
+son numéro de téléphone t es chaud il
+peut accepter et chatul déclenche
+automatiquement le message suivant qui
+est génial la course est acceptée Go et
+là le chauffeur peut aller chercher la
+personne et on a un début de
+l'expérience uber et au final avec tout
+ça il y a énormément de choses à
+faire alors avec tout ça on n pas tout
+fait pour l'instant on a l'util ateur
+qui est dans la rue il peut appeler un
+chauffeur donc il envoie ses messages on
+lui pose les bonnes questions pour qu'il
+puisse nous donner les infos on va
+chercher les chauffeurs dans la base de
+données de chauffeur et on leur envoie
+une notification ils peuvent accepter la
+course il reste toutes les étapes où il
+y a le moment de la rencontre il
+faudrait ajouter des information
+éventuellement sur la plaque
+d'immatriculation pour que l'utilisateur
+puisse retrouver le chauffeur et il y a
+toute la tout l'aspect terminer la
+course il y a l'aspect paiement il y a
+l'aspect rating je vais pas m'étaler et
+je vais pas vous montrer l'enti fierté
+de comment on va se servir de de ces
+outils pour faire le flow entier je
+pense pas que ce soit pertinent par
+contre ce qui est très intéressant c'est
+qu'avec tout ce qu'on a vu jusqu'à
+maintenant vous pouvez tout faire et
+vraiment c'est la logique de mixer chat
+fuel avec zap et Google sheets ça fait
+que derrière tu vas pouvoir créer des
+flows utilisateurs complet les gens vont
+pouvoir interagir tu vas pouvoir
+récupérer des données de leur part les
+stocker dans des variables et et en en
+fait les réutiliser plus tard tu vas
+pouvoir vraiment mettre en place
+énormément de choses sans coder une
+seule ligne et en fait c'est ça qui est
+intéressant avec ces outils c'est pas de
+voir nécessairement l'ensemble de
+comment faire un flow et de comment
+recréer en entier c'est de savoir que ça
+existe mon but c'est pas de vous faire
+un cours pratique sur comment créerur
+mon but c'est c'est d'expliquer que AC
+des outils qui existent c'est possible
+de créer des flows utilisateurs de créer
+des expériences et donc que c'est
+possible de créer des produits si tu te
+poses la question ensuite de savoir
+est-ce que je peux mettre de la
+géolocalisation pour non pas trouver
+uniquement les chauffeurs qui sont
+disponibles mais les chauffeurs qui sont
+proches de la personne ça existe dans
+chat fuel il y a ce qu'on appelle du
+geoencing et qui en fait va te permettre
+de dire ok cette personnel est dans une
+zone de temps de kilomètres autour de
+l'utilisateur donc je vais demander à ce
+chauffeurl en priorité il y a vraiment
+énormément de choses je pense que c euh
+un skill très particulier à apprendre de
+savoir utiliser ces outils pour pouvoir
+mettre en place des flows mais cet
+aspect design savoir écrire un flow
+utilisateur et pouvoir mettre en place
+avec des outils simples et rapidement je
+pense que vraiment faire ce ce ce ce
+flow entier ça demande 3 jours de
+travail pour quelqu'un qui a expérimenté
+genre vraiment là là ça fait 2 he que
+j'y suis en 2h on a déjà fait la moitié
+du flow si on veut mettre des détails
+qu'on veut travailler bien l'expérience
+qu'on veut faire des tests et cetera en
+3 jours tu as une app uber qui
+fonctionne quand même plutôt bien et qui
+te permet de tester et surtout sur
+laquelle tu peux itérer même si tu es
+non technique et c'est ça mon point
+c'est que vraiment ça te permet en fait
+de d'aborder la technique d'une manière
+beaucoup plus simple que le code et le
+jour où ce flow là c ces outils là vont
+atteindre leur limite il y en a toujours
+un il y a un moment où un tableau Excel
+ça suffit pas mais le temps que tu
+atteignes ça tu te seras formé à la
+réflexion produit à la réflexion design
+et tu vas pouvoir déléguer ce travail
+ensuite et on est sur la première
+version du produit on n'oublie pas on
+parle de la première version elle doit
+être la plus simple possible et tu dois
+y mettre le moins de travail le moins de
+ressources possibles en apportant la
+valeur qui est nécessaire à
+l'utilisateur qui est dans une situation
+initiale et qui a un
+[Musique]
+problème ce schéma là il est hyper
+intéressant parce que je pense qu'il est
+à la fondation de toutes les choses
+qu'on peut mettre en place pour gérer
+des business différemment de nos jours
+vraiment il y a il y a une puissance
+colossale à savoir se servir d'outils
+déjà existant à les connecter entre eux
+via un outil comme zapierur et à
+automatiser les tâche pourquoi parce que
+déjà ça permet de de faire ce qu'on
+cherche à faire dans ce dans cet épisode
+qui est de créer les premières versions
+d'un produit donc rien que ça ça te
+permet en fait de prototyper très
+rapidement sans avoir forcément de
+connaissance et sans avoir forcément
+beaucoup de ressources là où ber a
+utilisé des possttit au début toi tu
+peux utiliser Google sheets Sapur ça te
+prend quasiment le même temps de travail
+que l'utiliser des postites et pourtant
+c'est 1000 fois plus puissant donc déjà
+tu as un avantage le deuxième truc qui
+est trop bien quand tu utilises ce genre
+de méthode là d'automatisation grâce à
+des outils c'est qu'en fait tu comprends
+la logique de code donc même si tu es
+pas développeur même si tu es pas codeer
+en fait ça te permet de comprendre
+comment ça fonctionne et si tu maîtrises
+bien la logique d'un zapierur qui va se
+connectter à une Google sheet ou un chat
+fuel ou à je que sais-je n'importe quel
+autre outil si tu maîtrises bien ça ça
+devient facile de discuter avec un
+développeur et de comprendre la logique
+qu'il y a derrière du code parce que
+c'est la même c'est la logique
+informatique c'est celle qui automatise
+des choses c'est des des sortes
+d'algorithmes et et fondamentalement
+même si tu comprends pas ce que le dev
+va écrire ou ce que la Dev va écrire et
+vraiment genre euh que tu tu piges rien
+à une ligne de code connaître cette
+structure là et savoir automatiser des
+tâches à travers des outils comme zapier
+ça va te permettre de comprendre ça et
+de bien communiquer avec ton équipe plus
+et le troisième effet qui est hyper
+positif c'est que ça peut te faire
+gagner du temps dans tes opérations
+genre là on parle de créer la première
+version de son produit depuis tout à
+l'heure mais en fait fondamentalement
+sur des boîtes qui ont besoin de Deah
+d'opération de vraiment d'aller sur le
+terrain de d'être au contact de gens des
+boîtes de services tu vois tu peux aller
+euh scaler en fait plein de parties du
+business pour gagner du temps faire
+gagner du temps à tes équipes et du coup
+amener tout le temps ton business au
+niveau supérieur c'est un truc que
+j'avais fait quand j'avais fait du
+freelance l'année dernière avec avec une
+boîte qui s'appelle imparfaite qui
+propose des fringues
+vintage pour les femmes qui sont très
+stylées et donc de seconde main et c'est
+une Marketplace où tu as des vendeurs
+d'un côté qui proposent des pièces à
+vendre sur un parfaite et elles ont tout
+un flot du coup d'aller prendre des
+photos d'aller de les uploader sur leur
+site et cetera et j'étais venu pour
+automatiser en fait toutes ces
+opérations là le mieux c'est d'en parler
+avec avec Camille qui est la CEO
+d'imparfait salut Camille salut Val ça
+va ouais super et toi bon ça va très
+bien toi tu fais imparfaite donc
+imparfaite c'est des c'est une
+Marketplace qui met en relation des
+vendeurs de Frip donc des fringues
+vintage pour pour nana principalement
+euh et et donc des nanas qui veulent
+acheter ces fringues là donc vous avez
+une un site sur lequel vous vendez
+énormément de pièces déjà
+utilisées de de mode en gros on a bossé
+ensemble il y a quelques mois un petit
+peu plus que ça même et on a avait
+justement utiliser plein d'outils qui
+étaient existants pour vous faciliter un
+petit peu la vie et que vous gagniez du
+temps dans vos opérations raconte-moi ça
+genre comment comment on a fait ça et et
+quelles étaient vos problématiques à la
+base auquell vous avez fait face pour
+ces opérations là alors en gros quand on
+a commencé imparfait on savait très bien
+que les opérations allaient être un vrai
+challenge globalement l'objectif c'était
+de digitaliser du stock de vendeurs
+professionnels et on savait que c'était
+on parlait de centaines de pièces par
+vendeur que eux-mêmes avaient un
+inventaire très approximatif globalement
+de ce qu'ils avaient et qu'ils avaient
+pas temps c'était pas des gens hyper non
+plus digitaux donc il y avait deux
+possibilités soit boutstraper des trucs
+essayer de trouver comment faire avec
+des chos qui existait soit développer
+une app carrément de zéro développer une
+app ça prend du temps nous on n'est pas
+des enfin nous on n'est pas technique à
+l'origine dans la boîte donc on savait
+qu'on allait au CPIP parce que forcément
+notre V1 allait être pourri on allait
+mettre 6 mois à développer et pour du
+coup pour avoir vu écouter ousama vu
+coup d'État on savait qu'il fallait
+tester le marché avant de se lancer dans
+des grands investissements et et des
+développements longs donc on s'est dit
+ok on va essayer de trouver une solution
+assez rapide et facile pour développer
+un truc utilisable et effectivement on
+est venu voir en tant que CPO en disant
+est-ce qu'on peut qu'est-ce qu'on peut
+faire ques sont les bonnes idées on
+avait déjà senti le truc avec Messenger
+s dit que Messenger en gros l'avantage
+des vendeurs c'est que sont pas digitaux
+S comme je disais mais ils ont tous
+Messenger en gros dans leur portable on
+s'est dit est-ce qu'il y a pas un truc à
+faire et effectivement on a discuté
+ensemble on a brainstormé et on s'est
+dit ok on va essayer de faire un truc un
+un Messenger boot qui va permettre aux
+vendeurs professionnels grâce à quelques
+questions et un rebot automatisé de nous
+uploader des produits de nous proposer
+des produits en référencement sur la
+plateforme imparfaite donc toute cette
+phase où gen j'ai un peu observé les les
+opérations ce que vous faisiez tout le
+flow tous les différents points on a
+pris des outils on a utilisé chat fuel
+pour pour automatiser avec le le B les
+questions et cetera on a développé un
+tout petit peu de trucs en interne avec
+un pote dev à moi qu'on a qu'on a on a
+créé tout ce truc là mais c'est
+intéressant ce que tu dis parce
+qu'eectivement en fait on a à la base
+fait ce truc pour aller vite et chippper
+quelque chose rapidement et et utiliser
+des outils déjà existants pour pas avoir
+à tout recoder et au final ça s'est
+quand même intégré encore mieux dans
+dans la vie de tous les jours des
+vendeurs parce qu'ils avaient déjà
+Messenger et tu avais pas besoin de les
+pousser à mais en fait c'est tu as
+complètement raison là où on est même
+surpris c'est que ça fait 1 an qu'on a
+développé en fait le messenger bot et
+nous on continue à scyer on marche super
+bien en fait avec le messenger bot on n'
+pas changé de système aujourd'hui donc
+on a même été surpris de la facilité
+dont les vendeurs en vrai s'appropri ce
+type de d'outil parce que en fait c'est
+assez simple on les appelle euh on les
+démarche on leur dit voilà c'est très
+très simple euh en vous pouvez mettre
+une pièce en ligne en moins d'une minute
+vous avez rien à installer sur votre
+téléphone il y a rien à faire il y a
+juste à utiliser l'application Messenger
+euh tout le monde a Messenger parce que
+ils sont quand même un minimum connectés
+à ce monde quoi et et du coup
+aujourd'hui c'est complètement intégré
+dans la manière dans dans les opérations
+en gros d'imparfaites alors qu'à
+l'origine on s'était lancé enfin on
+s'était dit ok ça va être une usine à
+gaz il va falloir qu'on prenne en photo
+toutes les pièces au tout tout tout
+départ on demandait aux vendeurs
+d'envoyer carrément les photos des
+pièces par WhatsApp mais c'était une
+galère de référencement enfin vraiment
+on s'en sortait pas dans les opérations
+et très vite on était capé dans la
+croissance on s'est dit ok on va tester
+le messenger juste pour se rendre compte
+de est-ce que les vendeurs sont cap
+capable de faire des photos bien est-ce
+qu'il sont capablees de nous faire des
+descriptions bien et en fait on s'est
+rendu compte que un oui ils sont
+capables mais deux c'est hyper simple et
+que grâce à Messenger on arrive à les
+emborder en 100 minutes alors
+aujourd'hui après un an quand même on
+voit les limites du système
+voilà mais entre-temps ça nous a permis
+de lever de l'argent ça nous a permis de
+prouver un modèle ça nous a permis de
+recruter des gens qui croient en notre
+projet et maintenant on a une équipe qui
+nous permet de développer tout ça en
+interne de manière sine quoi trop bien
+il y a deux choses supplémentaires c'est
+que un ça nous a permis d'apprendre
+énormément effectivement sur le marché
+et du coup maintenant de développer
+l'appp de manière beaucoup plus éclairée
+que ce qu'on aurait fait à l'origine je
+pense qu'on aurait développé là puis y a
+un an quand on en a parlé et que tu m'as
+dit surtout pas essaie de faire autre
+chose tu as raison parce que à l'époque
+je pense que je l'aurais mal développé
+on aurait pris du temps on aurait
+développé on aurait ça nous aurait
+demandé énormément d'argent pour au
+final faire un truc approximatif et
+avoir énormément de maintenance derrière
+sur ça surtout que enfin faire des v V30
+app c'est compliqué à faire télécharger
+au mec enfin c'est toujours un peu
+complexe là on sait qu'on la développe
+avec déjà un an enfin d'expérience
+derrière de retour et avec 100 vendeurs
+qui sont OK pour s'asseoir n'importe
+quand autour d'une table et pouvoir
+discuter ensemble de comment doit être
+lu X et cetera et la dernière chose
+aussi j'avais pas forcément anticipé ça
+mais ça a vraiment été un point positif
+quand on a dû lever de l'argent parce
+qu'on est allé voir des investisseurs on
+leur a dit bah on a été malin en fait on
+n pas attendu de cramer 50000 balles ou
+où on a pas attendu 6 mois pour pouvoir
+tester le marché nous ce qu'on a voulu
+c'est aller au plus propre au plus au
+plus vite et tester notre modèle et du
+coup ça je pense que pour les gens qui
+nous accompagnent aujourd'hui ça dénote
+aussi d'une capacité d'adaptation et euh
+et euh et l'envie de délivrer vite
+d'avancer et de tester et de corriger
+derrière bah trop bien Camille merci
+beaucoup avec plaisir merci à
+[Musique]
+toi bon on a parlé euh des logiciels on
+a parlé de si on était non codeur ou si
+on était codeur et pour les autres ben
+pour les autres si tu as un produit
+physique finalement les problématiques
+vont être les mêmes il faut que tu te
+poses la question de savoir comment tu
+fais pour euh utiliser le moins de
+ressources poss possible euh pour
+pouvoir créer une première version qui a
+le moins de fonctionnalité possible mais
+qui va quand même réussir à résoudre les
+problématiqu des gens prototyper un
+produit physique ça peut passer par deux
+choses si c'est un textile quelque chose
+comme ça dans dans beaucoup de cas il va
+falloir passer par une usine qui va
+pouvoir te proposer un prototype essayer
+de négocier avec cette usine parce que
+très souvent elles vont te proposer de
+faire des des des des centaines ou des
+milliers de pièces et tuas pas forcément
+l'intérêt de le faire si tu veux
+seulement prototyper et voir si tu peux
+vendre la première version de ton
+produit par contre en négociant bien tu
+peux avoir une première version qui est
+intéressante si tu fais du hardware
+électronique il y a plein plein de
+possibilités pour toi genre il y a
+vraiment tu peux apprendre à prototyper
+avec des imprimantes 3D en allant dans
+des lieux comme usine ao où tu vas
+rencontrer plein de gens qui sont
+passionnés de hardware et qui vont
+pouvoir te donner des conseils tu vas
+avoir accès à des machines qui coûtent
+très très cher où tu vas pouvoir usiner
+tes propres pièces tu vas pouvoir
+trouver des des cartes mères ensuite
+utiliser des outils comme Arduino des
+raspberry P et cetera en tout cas il y a
+vraiment plein de choses à à à apprendre
+qui sont très intéressantes dans le
+prototypage de produits physique et de
+produits hardware je m'y connais un
+petit peu moins mais par contre la
+logique reste la même la logique reste
+la même c'est comment j'en fais le moins
+possible pour résoudre un minimum les
+frustrations et les motivations qu'on a
+observé chez utilisateur en faisant
+notre recherche
+[Musique]
+initiale j'ai déjà dit ça dans l'épisode
+2 mais je pense que il faut insister sur
+le pricing en terme de pricing
+encore une fois si ton produit est voué
+à devenir payant à un moment fais le
+payer dès le départ et pour ça il y a
+quelques outils dont je voudrais parler
+rapidement certains don sur lesquels on
+est déjà
+passé si tu fais un produit software mon
+conseil c'est d'utiliser stripe il y en
+a d'autres il y a adien il y en a enfin
+y a quelques autres outils qui te
+permettre de d'inclure des flots de
+paiement dans ton site ou dans ton
+application pour moi stripe vraiment
+hyper performant comment ça marche STPE
+ben en fait dans ton code tu vas pouvoir
+aller implémenter des workflow de
+paiement tu vas pouvoir générer des
+abonnements du coup ça va débiter la
+personne sur sa carte de manière
+régulière tu vas pouvoir gérer la la la
+retransmission de fond entre différents
+acteurs si tu es une Marketplace en
+vraiment il y a énormément de choses que
+stripe propose le prix est franchement
+pas élevé et le gain de temps par
+rapport à toutes les autres solutions
+que tu peux essayer sur le marché est
+quand même plutôt gigantesque donc te
+pose pas la question si tu as un produit
+Software va sur stripe ensuite euh si
+jamais tu fais pas un produit software
+là tu as vraiment plein de possibilités
+qui s'offrent à toi pour vendre ton
+produit physique euh pour moi les
+meilleurs ça va être Shopify euh
+squarespace ou alors faire comme dans
+l'épisode 2 et utiliser un type form
+dans lequel tu vas mettre un formulaire
+stripe euh ou alors se faire payer en
+cash ou par virement genre vraiment il y
+a plein de manières de se faire payer
+Shopify est très très puissant
+euh c'est relativement limité à grande
+échelle par contre pour commencer pour
+aller vite créer la première version de
+son e-commerce et vendre rapidement des
+produits donc rapidement tester si ta
+première version fonctionne c'est hyper
+efficace il y a des concurrents il y a
+Prestashop et cetera qui vont
+potentiellement être un peu plus avancés
+en terme de fonctionnalité au fur et à
+mesure que tu fais grossir ton business
+mais au départ franchement mon conseil
+c'est Shopify tout
+l'enjeu c'est d'arriver à utiliser c'est
+toutes les ressources qui sont à ta
+disposition ce que ce que vraiment tu
+peux utiliser toi-même pour créer une
+première version simple qui va plaire
+aux gens parce qu'elle va résoudre leurs
+problèmes et qu'elle va matériellement
+améliorer leur vie on est sur ça dans la
+création de produit en fait si on met ça
+dans d'autres termes l'idée c'est de
+créer le produit le plus simple possible
+pour qu'il soit viable sur le marché et
+c'est ça qui est compliqué c'est qu'il
+faut arriver à résoudre les frustrations
+et les motivation de tes utilisateurs en
+passant le moins de temps possible à
+développer ce produit plus tu passes de
+temps plus tu t'exposes à créer un
+produit qui est trop complexe et qui va
+être qui va être un peu Overkill tu vois
+par rapport à ce que tu veux régler
+comme problème et en fait bah ça ça
+porte un nom ça a été conceptualisé de
+nombreuses fois notamment dans le
+bouquin lin startup qui est qui est un
+bon bouquin même si ça reste une méthode
+et que je suis pas un grand fan de
+méthode euh en fait ce qu'on cherche à
+faire là quand on crée la première
+version de notre produit c'est un MVP le
+minimum viable product c'est vraiment la
+version initiale qui va te permettre de
+tester si tu résous ou pas le problème
+que tu avais détecté chez les gens qui
+qui composent ton marché une fois que
+ton MVP est prêt une fois que tu as tout
+créé et que ta première version elle est
+simple qu'elle te demande peu de
+ressources et que tu peux la vendre il
+faut arriver à le vendre c'est ça le
+c'est ça tout l'enjeu si tu en as déjà
+vendu cool ça veut dire que déjà tu peux
+livrer les premières versions de ton
+produit aux gens qui ont précommandé ton
+produit ou qui ont ou qui l'ont acheté
+tout simplement et tout l'enjeu une fois
+que les gens ont ton ta première version
+entre les mains ça va être de bien
+observer leur comportement de savoir
+comment ils l'achète dans quel contexte
+ou comment il l'utilise dans quel
+contexte et surtout comment ils font
+pour s'en servir vraiment et est-ce que
+ça règle vraiment leur problème et tout
+ça c'est des questions de tracking de
+mattrix à mettre en place
+de bons outils aussi pour observer
+vraiment le comportement de parler de
+nouveau à ses utilisateurs pour
+comprendre comment ils vivent
+l'utilisation de ton produit et tout ça
+c'est ce dont on va parler dans
+l'épisode 4

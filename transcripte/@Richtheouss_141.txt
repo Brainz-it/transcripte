@@ -1,0 +1,2435 @@
+quand vous cherchez un
+cofondateur arrêtez de le
+chercher faites des choses avec des
+gens aujourd'hui on va on va parler de
+l'équipe euh et on va parler de l'équipe
+en 3 temps
+d'abord on va parler de l'équipe en tant
+cofondateur qu'est-ce que ça veut dire
+trouver un cofondateur et cetera ensuite
+on va parler de l'équipe avant le
+product market fit enfin du plutôt avant
+d'avoir vraiment les moyens et on va
+parler de l'équipe ad scale quand on a
+vraiment quelque chose qui tourne alors
+les premières personnes avec qui on va
+travailler c'est ces cofondateur et
+j'aimerais aujourd'hui vous donner un
+message très très très simple à propos
+des cofondateurs je ne sais pas pourquoi
+le conseil qu'on donne toujours aux
+entrepreneurs c'est de trouver des
+cofondateurs complémentaire en disant si
+tu es un tech Guy trouve un bis Guy ou
+ou un mec du design c'est un conseil
+très étrange qui est donné par tout le
+monde vous allez dans n'importe quel
+incubateur
+VC je sais pas quoi c'est le conseil le
+plus structurant que j'entends le plus
+souvent et c'est un conseil qui est
+fondé sur deux choses d'abord
+empiriquement c'est faux j'aimerais bien
+savoir dans Larry Page et Sergey Bren
+lequel des deux et le mec complémentaire
+si vous regardez la plupart des boîtes
+de the family c'est fondé par des mecs
+qui ont la même gueule et qui se
+ressembleent c'est très rarement fait
+par des mecs qui s'associent malgré les
+barrières et puis la deuxième chose
+c'est que non seulement empiriquement
+c'est faux mais c'est surtout très
+dangereux comme conseil parce qu'on ne
+comprend pas ce qu' a un cofondateur un
+cofondateur c'est pas une compétence
+technique un cofondateur c'est un
+soutien moral psychologique
+énergétique de confiance qu'on va garder
+pendant toute la vie de sa boîte c'est
+un peu comme quand on fait un enfant son
+partenaire c'est pas vous personne s'est
+jamais dit bon ben moi je suis un pro
+des couche toi tu es un pro des petits
+pots et donc il faudrait qu'on fasse un
+bébé ensemble parce que je pense que
+tous les deux franchement on va assurer
+quoi non personne pense comme ça en fait
+quand vous avez un enfant vous êtes sur
+le même bateau et et que même s'il y en
+a un qui est meilleur au petit pot et un
+qui est meilleur au couches les choses
+peuvent se faire naturellement en fait
+et donc entendez-moi bien ça veut pas
+dire que quand vous avez des dans une
+équipe cofondatrice ça veut pas dire
+qu'il y a pas des gens qui ont des
+spécialités différentes évidemment que
+dans l'idéal il y a un type qui fait la
+tech un type qui fait le commerce un
+type qui fait le design ça c'est idéal
+mais la question c'est est-ce que les
+compétences sont un choix de premier
+ordre ou un choix de second ordre et
+évidemment que les compétences sont un
+choix de second ordre pourquoi parce
+qu'en fait les compétences sont
+culturellement marquées on va prendre la
+compétence qui fait rêver tout le monde
+et 80 % des gens que je rencontre à
+savoir les dev tout le monde vient me
+voir et me dit j'ai une super idée c'est
+génial j'ai une idée incroyable elle
+vaut des milliards par contre faudrait
+que je trouve un dev pour la développer
+alors c'est une question vraiment
+étrange pour trois raisons d'abord
+le stock de dev il est en rupture on
+n'est pas dans un marché où il y a
+beaucoup de dev et si vous regardez le
+stock de dev qu'est-ce qu'il y a dans
+les dev dans les dev il y a les mecs ont
+leur propre idée qui créent leur propre
+brî en attendant personne donc déjà il y
+a tous ces mecs là donc vous les enlevez
+ensuite il y a tous les mecs qui vont
+travailler chez Facebook Google pfit
+algolia je crois qu'algliia cette année
+ils embauchent 100
+dev pfit ils en embauchent 50 side ils
+en embauchent 30 et cetera ok donc il y
+a tous ces mecsl qui sont plus sur le
+marché et vous vous voulez prendre le
+stock restant ne pas leur offrir de
+salaire h et leur dire c'est génial je
+vais te donner desparts et en plus la
+plupart du gens vous voulez leur donner
+10 % de votre boîte quoi et le pire
+c'est qu'il y a des mecs qui trouvent
+des def comme ça et pourquoi dans 100 %
+des cas ça marche pas parce que le seul
+dev qui peut accepter un deal pareil
+c'est un tocard et donc en fait vous
+faites de l'antiélection vous finissez
+par aller trouver le seul mec dont
+personne voulait il a pas d'idée il sait
+pas quoi faire il il a pas trouvé de
+travail personne veut de lui en
+freelance donc il finit sur votre projet
+en en cofondateur à 10 %. alors soit
+parce qu'il est pas bon techniquement
+soit parce qu'il a des vrais problèmes
+de confiance en lui ou des vrais
+problèmes sociaux ce qui va souvent le
+cas avec les devs et parlons de ça de
+cette réalité dans la pièce Les dev ne
+supporte pas les humains c'est connu les
+les les dev ça peut pas blairer les
+humains pourquoi parce qu'ils sont dev
+déjà pour être dev pour en
+étant un mauvais ex dev je peux vous
+dire c'est horrible d'être dev vous
+passez votre journée devant un écran
+vous faites des trucs vous êtes trop
+fier de vous et après des utilisateurs
+l'utilisent n'importe comment vous savez
+pourquoi tous les dev deviennent parano
+parce que vous tous il y a pas quand on
+développe un truc on finit force
+forcment parano parce qu'un jour c'est
+utilisé par des humains et les humains
+ils font n'importe quoi avec votre truc
+vous faites un truc où les gens sont
+censés choisir un chemin et puis là les
+mecs dis tiens si je clique là que je
+fais ça avec truc ah tiens ça marche pas
+ah tu avais pas pensé à ce cas-là non
+c'est tellement con que j'y avais pas
+pensé et donc ensuite les deves
+qu'est-ce qu'ils font bah ils deviennent
+complètement paranoïqu ils essaient de
+penser à tous les cas et ça ça a des
+impacts culturels la personnalité des
+gens bons en Scien n'est pas la
+personnalité des gens bons en lettres
+qui n'est pas la personnalité de des
+gens bons en en je sais pas quoi en
+physique qui n'est pas la personnalité
+des gens bons en musique les savoirs ont
+un impact culturel sur qui vous êtes le
+type de personnalité que vous avez
+défini le type de compéten technique que
+vous pouvez acquérir et le type de
+compéten techniqu que vous allez
+acquérir ont un impact sur le type de
+personnalité que vous avez si vous êtes
+du genre introverti et que vous passez
+toute la journée derrière un écran ben
+ça aide pas vous êtes un peu plus
+introverti si vous êtes du genre
+extraverti et que vous passez toute la
+journée derrière un écran bah en général
+vous y passez moins d'heures que le mec
+introverti donc vous êtes moins bon
+résultat à la fin les meilleurs ils sont
+quoi ils sont plutôt introvertis et les
+meilleurs qui sont pas des dev bah ils
+sont plutôt extravertis prenez l'exemple
+inverse vous êtes un commercial vous
+êtes introverti c'est un enfer c'est un
+cauchemar d'être commercial en être
+introverti imaginez vous allez parler à
+un mec vous vous sentez pas bien vous
+vous devez lui lui lui raconter une
+histoire pour vendre un truc c'est pas
+tout tout à fait exactement les faits la
+réalité et exactement les détails de ce
+qui concerne mais personne nachète un
+truc comme ça les gens achètent parce
+qu'il y a une bonne histoire qu'à un
+moment tout acte de vente est une mini
+arnaque enfin c'est y a il y a un moment
+vous avez besoin que le type il visite
+un appart atypique il trouve ça charmant
+il y a une verrière mais il sait pas
+qu'à chaque fois qu'il pleut faut mettre
+dis
+saut s'il savait qu'à chaque fois qu'il
+pleut il faut mettre dis saut bah
+peut-être qu' en fait il l'aurait pas
+pris il savait riè typique mais est-ce
+que quand vous êtes vendeur le mec
+rentre imaginez le mec
+rent oh c'est charmant cette verrière
+alors il faut que je vous dise trois
+choses l'été il fait très chaud sous la
+verrière l'hiver il fait très froid et à
+l'automne et au printemps quand il pleut
+ça fuit est-ce que vous êtes sûr que
+vous voulez la
+verrière ah ouais euh
+ouais peut-être pas et donc vous pensez
+pas vraiment au downside mais si on vous
+présente le downside et l'opside tout de
+suite de de facto et et avant de
+commencer bah évidemment que vous avez
+du tendance à réfléchir et que vous avez
+tendance à ne pas prendre la décision
+donc quand vous êtes un vendeur vous
+avez besoin de faire faire ce chemin aux
+gens vous avez besoin d'être un petit
+peu agressif légèrement vous avez besoin
+d'entraîner la conviction et vous avez
+besoin d'amener des gens à faire des
+choses qu'il n'auraient pas fait
+autrement et ça en fait c'est
+le point pour lequel c'est tellement dur
+de s'associer à des gens qui nous
+ressemblent pas la probabilité quand
+vous êtes dev de vous associer à des
+gens qui ne soient pas des ingénieurs
+elle est très faible et même le
+commercial devrait être un ingénieur et
+souvent l'erreur que les entrepreneurs
+font c'est d'avoir des espèces de
+modèles parfaits en tête qui n'existe
+pas vous ne pouvez pas vivre dans une
+fiction vous devez vivre dans la réalité
+vousz des choses vous avez des points
+forts vous avez des choses vous avez des
+points faibles vous pouvez vous appuyer
+sur vos points forts il faut que vous
+ignorez vos points faibles et la
+constitution de votre équipe fondatrice
+elle s'appuie là-dessus alors qu'est-ce
+qui est important quand on cherche un
+cofondateur ce qui est important quand
+on cherche un cofondateur c'est que la
+décision de cofondateur elle est plus
+importante que n'importe quelle décision
+de couple que vous prenez s'il y a des
+gens ici qui ont des cofondateurs vous
+savez très bien que vous passer plus de
+temps avec lui qu'avec n'importe qui
+avec qui vous êtes en couple donc la
+première chose c'est que vous devez vous
+sentir bien beaucoup trop de gens ont
+des histoires de cofondation artificiell
+qui sont fondées sur la raison pourquoi
+les mariages de raison ça finissait
+souvent en catastrophe vous savez il y a
+une époque pas si lointaineù on mariait
+les gens pour des raisons économique
+familial de prestige de pouvoir et
+cetera pourquoi ça finissait mal bah
+parce que vous on pouveit vous marier à
+un psychopathe on pouvait vous marier à
+des gens qui faisaient n'importe quoi
+comme c'était pas le critère on vous
+demandait surtout au d'ailleurs bah de
+la fermer et de supporter et pendant des
+siècles les mariages de raison ont été
+la norme et puis est arrivé le
+romantisme contemporain Roméo et
+Juliette Tristan et isux on a raconté
+aux gens l'histoire qu'il était possible
+d'être en harmonie avec quelqu'un de
+trouver l'amour et et d'avoir une vie
+intéressante et ben c'est exactement la
+même chose avec votre cofondateur c'est
+que finalement by the way c'est pour ça
+que j'adore les cofondateurs couple
+dédicace parce parce que parce qu'en
+fait ils ont déjà prouvé que l'essentiel
+était derrière eux tout le monde vous
+dit ah là là ils sont en couple c'est
+dangereux s' rompent bah oui mais en
+même temps s'ils sont en couple et qui
+rompent bah de toute façon la boîte elle
+sautera autant que s'ils sont pas en
+couple et qui rompent et au moins quand
+ils sont en couple quand c'est solide
+c'est plus solide bon c'est sûr que
+quand c'est faible c'est mort mais c'est
+pas grave ce qui compte c'est de d'aller
+pour l'upside mais pas pour le downside
+donc vous devez trouver quelqu'un avec
+qui vous vous sentez bien avec qui vous
+avez envie de passer beaucoup de temps
+parce que le secret d'une relation
+cofondateur réussi c'est que vous avez
+vraiment envie de passer tout votre
+temps avec votre cfondateur moi je peux
+passer des semaines à rien faire avec
+Alice et Nicolas ça fait 5 ans qu'on est
+cofondateur et ça fait 5 ans qu'on est
+amis comme si c'était le premier jour
+parce que il y a quelque chose entre
+nous de personnel c'est pas c'est pas
+pour leur compétences que je me suis
+associé à eux je me suis associé à eux
+parce qu'ils ont quelque chose que
+j'apprécie ils ont une énergie qui fait
+que je me sens bien et donc le deuxème
+critère c'est que non seulement vous
+devez apprécier passer du temps mais
+surtout vous devez être en absolu
+confiance alors il y a un test que
+j'aime beaucoup euh euh faire avec nos
+équipes ça s'appelle le test du
+portefeuille est-ce que vous êtes prêt à
+filer pour de vrai votre portefeuille
+vos comptes en banque et toute votre vie
+à votre coffondateur et de être détente
+à l'idée qu'il va rien en faire de
+catastrophique ou de mal vous donnez le
+code vous donnez ça c'est ça en fait une
+relation cofondatrice pourquoi parce
+qu'il y aura toujours des moments dans
+l'histoire de la boîte où votre
+cofondateur devra prendre des décisions
+pour tout le monde et ce jour-là si vous
+êtes pas en confiance absolue ça ne
+marche pas quels sont les pires équipes
+cofondatrice c'est les équipes où vous
+avez besoin de parler à tous les
+cofondateurs pour prendre une décision
+et qu'il y a du débat entre eux et que
+il y en a un qui est pas d'accord avec
+l'autre et cetera une bonne équipe
+cofondatrice c'est une équipe dans la
+quelle un des membres peut prendre une
+décision avec laquelle aucun des autres
+membres est d'accord et on en discute
+même pas ça peut paraître dingue mais
+c'est la meilleure façon de fonctionner
+pourquoi parce que c'est une façon de
+fonctionner qui s'appuie sur les forces
+de chacun et qui fait qu'on va plus vite
+si vous êtes trois cofondateurs ou deux
+cofondateurs et que ça signifie que pour
+chaque décision vous avez besoin deux ou
+trois fois plus de temps votre boîte
+elle est morte si vous êtes deux ou
+trois cofondateurs et que ça signifie
+que vous pouvez faire deux trois fois
+plus de choses et que dans 80 % des cas
+vous êtes d'accord et que dans 20 % vous
+l'auriez pas fait comme ça vous-même
+mais vous vous en foutez parce que ça
+avance et parce que vous êtes en
+confiance là vous avez une boîte
+extraordinaire souvent les gens me
+félicitent pour des trucs que j'ai pas
+fait dans The Family
+ou félicitalis pour des trucs qu'elle a
+pas fait ou Nicolas pour des trucs qu'il
+aa pas fait ça nous fait toujours rire
+parce qu'en fait les gens imagine
+vraiment qu'on est au courant de ce que
+les autres font j'ai aucune idée moi
+quand Nicolas il fait des trucs j'ai
+aucune idée de ce qu'il fait quand Alice
+elle fait des trucs j'ai aucune idée de
+ce qu'il fait et d'ailleurs je m'en fous
+fondamentalement et c'est parce que je
+m'en fous que ça va vite c'est parce
+qu'on a chacun nos responsabilités qu'on
+a chacun notre Drive et que la somme des
+trois est hyper puissant beaucoup plus
+que ce besoin permanent de ça et la
+confiance c'est important parce qu'il y
+aura toujours des moments où vous devrez
+prendre des décisions essentielle par
+exemple rien de pire que les levées de
+fond négociés avec plusieurs
+cofondateurs vous voulez rater va te
+lever fond allez la négocier à
+plusieurs parce que c'est simple hein
+s'il y a deux mecs autour de la pièce ou
+trois mecs il y en aura toujours un pour
+jouer contre les autres il y en aura
+toujours un pour être plus froid que les
+autres il y en aura toujours un pour
+faire pour dire la bêtise que les deux
+autres n'auraient pas dit et de donner
+en fait des cartes infinies au
+cofondateur d'ailleurs c'est pour ça que
+tous les investisseurs disent venez en
+équipe ça c'est un vrai piège ne tombez
+jamais dedans vous y allez seul il y a
+un responsable de la levée de fond il
+assume il a réussi il a réussi il la
+rate il la rate c'est pas grave vous
+êtes sur un bateau et il y a plein
+d'histoires comme ça par exemple il y a
+quelques années j'ai une ami qui a un de
+ses cofofondateurs qui a fait une erreur
+monumentale qui leur a coûté 250000 €
+d'ursaf d'Amand dursaf et évidemment
+tout le monde lui a dit c'est une honte
+il faut que tu vires machin c'est une
+erreur inacceptable et elle a dit ok
+donc on le vire et il nous rembourse
+toutes les fois où il nous a fait gagner
+250000
+€ ok je me suis pas occupé de ce sujet
+c'était sa responsabilité il a foiré
+est-ce que si j'avais contrôlé ce qu'il
+faisait il aurait pas foiré sans doute
+peut-être que je l'aurais vu peut-être
+que je l'aurais pas vu mais quel est le
+coût de faire ça à chaque fois et ben le
+coût de faire ça à chaque fois est bien
+supérieur au donside d'assumer que un de
+vos C fondateurs un jour fera une
+connerie qui coûtera très cher parce que
+on ne peut pas éviter les conneries on
+finit tous par faire des conneries et ce
+qui est important c'est pour ça que la
+confiance c'est le socle des
+cofondateurs c'est que si vous êtes en
+confiance vous avez l'impression de
+trouver ce qui va pas alors quel est le
+problème le problème c'est que comme
+c'est pas fondé sur la compétence et que
+la compétence c'est un critère de second
+ordre il y a le sujet de l'inégalité
+entre le CEO et les autres l'avantage
+d'être CEO d'une boîte c'est que c'est
+un boulot flou CEO personne sait
+vraiment ce qu'ils font
+ils peuvent ne rien faire et être utile
+quand même c'est la beauté d'être CEO si
+vous êtes CTO c'est pas possible si vous
+êtes le cofondateur CTO vous avez besoin
+d'être le meilleur dev et donc il y a
+toujours un jour où en fait vous êtes
+capable si la boîte est un gros succès
+d'embaucher des gens qui sont meilleurs
+que vous et là commence cette
+transition hyper délicate qui
+est comment on fait pour rester un
+fondateur dans une boîte où le
+cofondateur a embauché que des gens qui
+sont meilleurs que lui et ça arrive dans
+plein de boîtes surtout les boîtes
+d'autodidacte vous savez vous avez des
+mecs il bricolent ils sont forts ils
+créent des trucs euh et puis la boîte
+elle cartonne elle lève des fonds et
+puis le type il embauche un responsable
+de a un responsable de B un responsable
+de C puis les trois responsables
+trouvent que le cofondateur bah il est
+pas très bon et il est même en fait
+gênant parce qu'il est dans leur pates
+et cetera et dans ces moments-là vous
+avez deux types de cofondateurs vous les
+cofondateurs qui détruisent les boîtes
+les cofondateurs qui font grandir les
+boîtes les cfondateurs qui détruisent
+les boîtes c'est ceux qu'ils prennent
+comme une histoire d'ego et qui pensent
+que leur job dans leur boîte est garanti
+parce qu'ils sont cofondateur et ça
+c'est terrible parce que quand vous êtes
+cofondateur d'une entreprise vous devez
+vous vivre plus comme un actionnaire de
+cette entreprise que comme un employé de
+cette entreprise ça c'est un drame
+Franco
+il y a beaucoup moins ce genre de
+problème aux États-Unis parce qu'aux
+États-Unis d'abord on peut se faire
+virer du jour au lendemain et on a
+l'habitude de se faire virer au jour au
+lendemain et donc on n pas l'impression
+de se transformer en syndicaliste dès
+qu'on a un problème au travail en France
+on a une culture où la plupart des
+cofondateurs pensent que leur valeur
+dans l'entreprise c'est le travail qu'il
+fournissent à cette entreprise ce qui
+est complètement ahuri quand vous êtes
+un entrepreneur vous devez d'abord vous
+vivre comme actionnaire et vous devez
+vous poser cette question fondamentale
+est-ce que vaut mieux que ce travail
+soit fait par moi ou quelqu'un qu'on
+paye et qu'est-ce que ça va avoir comme
+impact sur mes actions évidemment que au
+moment où vous êtes un entrepreneur
+quand vous vous devez raisonner en vous
+disant à quel moment je qu'est-ce que je
+peux faire pour valoriser la valeur des
+actions que j'ai dans cette entreprise
+et qu'est-ce que je peux faire pour
+donner le meilleur à cette entreprise si
+je ne suis plus la bonne personne je
+dois me retirer et nous on le voit dans
+The Family parce que on gère tous les
+ans des transitions de cofondateurs
+c'est incro comme à ce moment-là la
+personnalité le rapport au travail
+change tout si vous êtes du genre à
+croire que tout ça est une question de
+travail au 35 he vous prenez un avocat
+vous faites des procès vous commencez à
+vous engueuler avec vos cofondateurs et
+pourquoi parce que fondamentalement il y
+avait pas de confiance au début si vous
+avez compris fondamentalement que vous
+êtes là non pas parce que vous êtes
+compétent mais simplement parce qu'il y
+a personne d'autre et que vous êtes la
+première brique d'une maison qui vous
+dépassera peut-être
+si vous arrivez à ne pas avoir ce
+rapport d'ego et à mettre l'entreprise
+en avant avant de mettre vos propres
+intérêts vous pouvez construire des
+histoires extraordinaires et en fait
+c'est là où le jeu en tant que
+cofondateur et en tant qu'équipe passe
+par le fait de se réinventer de se
+réinventer en permanence le travail
+qu'on faisait dans The Family en tant
+qu'équipe fondatrice la première année
+n'est pas le travail qu'on fait
+maintenant mais il faut apprendre à être
+en transition à donner le meilleur de
+soi-même à obtenir des nouvelles choses
+à apprendre de nouvelles choses à être
+toujours toujours dans l'apprentissage
+parce qu'il y a des choses que personne
+d'autre que le fondateur peut faire la
+représentation publique c'est quelque
+chose qu'un fondateur incarne toujours
+mieux que n'importe quel employé le fait
+de d'être capable de recruter des gens
+d'être le RH le RH ça devrait être un
+rôle des cofondateur quand les boîtes
+ont du succès par exemple un des trucs
+que j'explique souvent au Citeo qui se
+font dépasser ok tu as maintenant un VP
+engineering qui est meilleur que toi
+arrête de coder arrête de faire semblant
+que tu es un bon dev la preuve tu en a
+embauché 10 qui sont meilleurs que toi
+mais par contre va convaincre les 10
+meilleurs dev de rejoindre ta boîte
+parce qu'il y a rien de plus impactant
+qu'un conf fondateur qui passe 2 heures
+pour convaincre quelqu'un de rejoindre
+une boîte et pourtant les gens préfèrent
+déléguer ce genre de fonction en disant
+ah ben c'est le rôle de je sais pas quoi
+et garder des fonctions opérationnelles
+qui ne devrai pas être leur rôle si vous
+raisonnez en tant qu'action et pas qu'en
+tant qu'employé vous voulez faire les
+actions qu'aucun employé ne peut faire
+et donc tout le sujet et toute la
+question c'est comment vous faites pour
+suivre ces rôles là et ça ça marche
+mieux quand au début il y avait une
+grande entente une grande complexité un
+grand amour entre les cofondateurs et
+beaucoup trop d'équipes moi je le vois
+the FAM family il y a tellement de gens
+qui applaent vous leur dit mais comment
+vous vous connaissez ah on se connaît
+depuis 3 mois on s'est rencontré un
+Meetup meet your cfounder il est trop
+fort en code et alors moi ce que by the
+way j'adore les nom dev qui parlent des
+dev c'est une grande passion dans ma vie
+ça c'est écouter un nom dev parler d'un
+dev puisqueen général il dit des trucs
+qui croit trop impressionnant mais le
+mec dev sa qu'il est en train de se
+faire arnaquer récemment il y a un mec
+qui me dit ouais le mec il est trop fort
+il a travaillé à la NASA sur des
+simulations et maintenant il fait le
+frontain de mon site
+internet tu as déjà vu une interface de
+la NASA moi je ferais pas confiance je
+je me sens pas rassuré et en fait en
+fait le mec était stagiaire à la NAA
+pendant 3 semaines enfin c'est c'est
+c'est classique cette histoire en fait
+pourquoi parce que les non dev savent
+pas juger les dev donc moi je conseille
+souvent aux gens business de leur dire
+faites des business où le corps n'est
+pas le dev et et aux gens dev faites des
+choses dont le corps et le dev allez là
+où vous êtes fort appuyez-vous sur vos
+point fort pensez leverage pensez asset
+vous êtes le premier asset de la boîte
+vous êtes le premier actif de la boîte
+vous êtes sur quoi tout le reste va se
+construire et donc il y a des choses que
+vous allez comprendre et il y a des
+choses que vous allez pas comprendre
+vous voulez par exemple prenons une
+équipe comme side trois achus et un dev
+pourquoi ça cartonne B bah d'abord parce
+que le dev il était pas réellement dev
+avant d'être dev il a fait plein de
+trucs et donc il est devenu dev sur le
+tard en faisant 42 donc ça c'est une
+situation idéale et les mecs qui ont
+fait à chaussé ils ont appris à coder
+ils ont appris à designer ils ont appris
+à faire du produit et donc il y a une
+cohésion d'équipe incroyable d'ailleurs
+si vous regardez leur gueule au 4at là
+il se ressemblent alors ça c'est un de
+mes critères secrets je devrais pas le
+dire mais mais mais moi j'ai j'ai j'ai
+tendance à ne jamais faire confiance aux
+équipes fondatrices où physiquement il y
+a trop grande différence de style entre
+les gens vous savez pourquoi parce que
+la mode c'est un message et que si vous
+envoyez un message contradictoire vous
+pouvez pas vous comprendre au niveau le
+plus intime s'il y a un mec super dans
+la mode et un mec pas du tout dans la
+mode et ils s'associent ensemble ça ça
+s'appelle pas une association ça finit
+toujours mal c'est c'est c'est évident
+parce que ça veut dire qu'ils accordent
+pas la même importance à quelque chose
+de très intime ça peut paraître
+complètement dingue vous allez vous dire
+mais le type il est il est complètement
+fou mais en fait on devrait choisir un
+cofondateur comme ça et on devrait
+assumer que son cofondateur a des
+problèmes et des manquements techniques
+qui seront remplacés par les employés et
+c'est ça la différence entre un employé
+et un cofondateur c'est même pas une
+histoire d'equity by the way il y a des
+gens qui donnent beaucoup d'quti à des
+employés par exemple souvent récemment
+il y avait quelqu'un qui me disait mais
+on va pas donner tant de pourcentage à
+quelqu'un je racontais cette histoire
+quand Eric Schmith a rejoint Google Eric
+Schmith n'a jamais été le fondateur
+Google les fondateurs de Google c'est
+Larry
+Page et Sergey Brin mais quand Eric
+Schmidt a
+rejoint Google Google avait quelque
+chose comme 1000 employés gagné un
+milliard de chiffre d'affaires donc
+petite boîte quoi petite petite PME dans
+les standards américains et ils lui ont
+donné 10 % de la
+boîte j'ose imaginer la conversation en
+France je la vois d'avance conversation
+en France genre mais attends on fait un
+milliard de chiffre d'affaires de toute
+façon en France serait arrêté un
+milliard en fait déjà ils auraient
+trouvé ça accidentel de faire un
+milliard cheril sonberg quand on a
+rejoint Facebook alors Facebook était
+pas du tout rentable ils avaient pas de
+business model mais ils avaient déjà 800
+employés et levé quelque chose comme 800
+millions ou 1
+milliard petite boîte quoi ils lui ont
+donné 15 % de facebook mar zugenber
+avait 23 % de facebook d'accord et la
+boîte elle avait 4 ans et demi donc vous
+avez un fondateur qui a 23 % de la boîte
+et qui donne 15 à une nana qui rejoint 4
+ans et demi et il trouve ça
+normal imaginez le rapport qu'on a à
+l'quity en France après ça genre genre
+oui attends 1
+% mais pourquoi donc évidemment Cherry
+Sandberg c'est pas jojo le cludo bon euh
+elle a derrière elle une carrière
+incroyable elle a elle a vraiment un un
+un un apport extraordinaire mais des
+gens comme ça en fait il il y a plein
+d'histoires comme ça donc c'est pas une
+histoire d'employé cofondateur c'est une
+histoire de est-ce que vous avez
+quelqu'un dans la pièce à qui vous
+pouvez faire confiance contre vent et
+marée est-ce que vous avez quelqu'un
+dans la pièce où quand il y aura des
+décisions très dur à prendre et que
+c'est des décisions que seul un
+fondateur peut prendre vous pouvez
+compter sur lui est-ce que un c un
+cofondateur c'est quelqu'un quand vous
+êtes déprimé vous pouvez lui parler
+honnêtement de votre déprime vous pouvez
+pas parler honnêtement de votre déprime
+avec un employé si vous AZ si vous avez
+des problèmes personnels très graves
+dans la boîte vous pouvez pas en parler
+réellement à votre équipe vous pouvez
+être transparent avec votre équipe mais
+si vous commencez à paniquer votre
+équipe avec vos états d'âme permanent ce
+serait une catastrophe et c'est pour ça
+que les boîtes où il y a des
+cofondateurs ça fonctionne mieux que des
+boîtes où on est solo fondeur ça veut
+pas dire que c'est impossible d'être
+solo fondeur ça veut juste dire que
+c'est beaucoup plus dur et souvent quand
+on est solo fondeur on est un solitaire
+et on accepte tous les défauts d'être
+solitaire et ils sont nombreux en fait
+alors évidemment quand on est
+cofondateur bah on accepte les problème
+d'être cofondateur c'està-dire d'être
+plusieurs que ça peut mal tourner que on
+peut se battre qu'on peut se taper sur
+la gueule que on peut divorcer qu'on
+peut s'en vouloir mais c'est comme dans
+un couple c'est quand même plus sympa de
+vivre avec quelqu'un que de vivre seul
+après de temps en temps ça finit mal
+mais c'est pas parce que ça finit mal de
+temps en temps qu'on remonte pas à
+cheval qu'on recommence pas et cetera
+donc pensez à ça oubliez toutes les
+histoires alors évidemment quand vous
+avez des cofondateurs qui sont
+complémentaires en compéten et unifier
+en culture c'est le rêve je vous dis pas
+je vous dis pas le contraire maintenant
+est-ce que c'est réellement possible
+autrement que par la chance non
+d'ailleurs c'est pour ça que les
+meilleures équipes fondatrices sont des
+gens qui se sont rencontrés enfants
+parce que quelle est la plus grande
+probabilité d'avoir une forte diversité
+de compétences mais une grande
+homogénéité culturelle c'est d'avoir
+grandi ensemble vous avez trois potes
+vous avez grandi ensemble en un il est
+devenu ingénieur l'autre il est devenu
+designer et le troisème il fait des
+sales et ils se connaissent depuis
+qu'ils ont 4 ans évidemment que ça ça
+donne des équipes on en a deux trois
+comme ça dans The Family
+euh ça donne des équipes
+invraisemblables parce que ils ont une
+sorte de relation personnelle qui est
+quasi familiale donc ils se connaissent
+par cœur ils ont tout vécu ils ont eu
+des problèmes des hauts des bas des ils
+ont eu 20 ans de leur vie pour apprendre
+à se connaître et en même temps ils ont
+eu des parcours de vie un peu différent
+parce que il y en a un qui préférait les
+sciences un qui préférait les lettres et
+puis les choses se sont fait un peu de
+façon hasardeuse et résultat il
+partagent une culture et une amitié très
+forte alors qu' qu's ont pas les mêmes
+compétences ça ça marche mais le faire
+artificiellement c'est hyper dur
+d'ailleurs quand vous cherchez un
+cofondateur arrêtez de le
+chercher faites des choses avec des gens
+moi j'ai pas rencontré Alice parce que
+je cherchais une cofondatrice j'ai
+rencontré Alice parce que j'ai travaillé
+pour des dizaines et des dizaines de
+projets en consultant et un jour par
+hasard je suis tombé sur
+Alice j'ai eu un coup de foudre
+et et pareil pour Nicolas j'ai jamais
+cherché Nicolas comme cofondateur
+Nicolas je le connaissais depuis 7 ans
+quand on a créé the family ou 5 ans 5
+ans ça fait 10 ans que je connais
+Nicolas donc c'est c'est
+vraiment c'est vraiment important
+d'avoir une relation préalable forte
+jamais de la vie je me serais associé à
+Nicolas si je l'avais pas connu pendant
+5 ans c'est pas possible surtout Nicolas
+faut au moins ça pour le connaître donc
+donc vous avez besoin vous avez besoin
+de temps vous avez besoin de créer et
+donc un des grands problèmes que je vois
+avec les gens qui veulent être
+entrepreneurs c'est leur timeline perso
+par rapport au
+projet vous saz la moyenne d'âge d'un
+projet réussi c'est 45 ans je sais pas
+si vous le savez ce genre de réalité
+mais le le SOMUM quand on est
+entrepreneur c'est 40 ans parce que on
+commence à avoir 20 ans d'expérience
+mais c'est pas 45 ans après avoir passé
+25 ans chez L'Oréal non c'est 45 ans
+après avoir passé 20 ans faire des
+choses et donc passer 20 ans à faire des
+choses ça veut dire quoi bah savoir des
+projets être freelance rencontrer des
+gens faire des choses et votre première
+boîte est pas forcément la boîte ultime
+vous avez pas besoin de faire les choses
+parfaitement vous pouvez être solo
+fondeur faire une boîte avoir des
+employés la vendre ensuite vous associer
+avec un mec que vous avez rencontré
+pendant un dîner faire des choses
+ensemble ensuite ça marche pas
+construire autre chose la vie est longue
+faites confiance à la vie il y a pas de
+problème vous avez pas besoin tout de
+suite souvent j'ai l'impression que les
+gens prennent les conseils qu'ils
+entendent sur internet ils en font des
+checklist et ils se disent que le but du
+jeu c'est d'être parfait dans chacune
+des cases ben ça marche pas ça c'est
+c'est pas comme ça en fait que ça marche
+ça marche c'est quand on est
+extraordinaire dans une case et qu'on
+n'est pas dans le dans le reste donc si
+vous avez pas d'équipe fondatrice qui
+vaut le coup vaut mieux être seul vaut
+mieux être seul que mal accompagné mais
+aussi des fois les gens cherchent des
+confondateurs à des endroits absurdes
+récemment j'ai eu
+une une histoire où je me suis dit les
+les gens sont dingues
+est vraiment dingue en fait on a on a
+une boîte de the family où le mec est
+solo fondeur
+et à chaque fois qu'il vient il vient
+avec un de ses potes et son pote parle
+plus du projet que
+lui et puis un à un moment je lu dis
+mais c'est qui ce mec en fait
+ouais c'est mon
+pote qu'est-ce que ça veut dire c'est
+mon pote il a l'air de connaître le
+projet mieux que toi ce qui est
+d'ailleurs un peu bizarre entre nous
+hein il a l'air d'être à fond machin tu
+lui as proposé d'être cofondateur ah
+ouais non ce serait génial mais il
+voudra
+jamais ah ouais essaye le mec revient
+une semaine après j'avais l'impression
+d'avoir donné vous saz le le conseil au
+petit garçon la petite fille dit va lui
+parler à ton
+amoureux ah c'est fou elle m'a fait un
+bisou
+ouais elle t'a fait un bisou bah ouais
+et maintenant ils sont associés et je me
+suis rendu compte que les gens avaient
+des gens obvious autour d'eux et qu'ils
+étaient juste pas capables de comprendre
+que c'est aussi leur rôle de les
+convaincre de switcher c'est-à-dire que
+souvent les gens disent ouais j'ai
+rencontré personne pour être mon
+cfondateur pourquoi parce qu'il cherche
+quelqu'un qui veut être cofondateur mais
+Alice et Nicolas ils voulaient pas être
+condateur ils avaient tous les deux un
+boulot c'est moi qui un moment et dit on
+arrête de déconner on fait un truc
+ensemble les gars vous avez quand même à
+un moment besoin de quelqu'un qui aligne
+les gens et vous avez besoin si à un
+moment souvent les gens disent ouais
+j'ai proposé et et les gens ont pas
+voulu B pour moi c'est un test ça si
+vous êtes pas capable de convaincre
+votre meilleure pote de se lancer avec
+vous comment vous voulez convaincre qui
+que ce soit de faire quoi que ce soit
+pour vous en fait si la personne qui
+vous connaît le mieux qui vous aime le
+plus se sent pas à l'aise à perdre 18
+mois de sa vie au pire vous m'expliquez
+comment vous espérez un jour convaincre
+1000 personnes 200
+clients faire des truc impossible il y a
+un moment il faut rappeler aux gens
+qu'être entrepreneur c'est faire des
+choses qui ne sont pas faciles et que la
+plupart des gens considèrent difficile
+et c'est aussi ça le vrai test
+entrepreneur être entrepreneur ça vous
+est pas dû oui il y a des gens qui sont
+meilleurs à convaincre les autres de les
+rejoindre oui il y a des gens qui sont
+meilleurs à faire des choses que
+d'autres oui il y a des gens qui qui qui
+ont du charisme de l'ambition qui vibre
+mais c'est parce qu'il mérite plus
+d'être entrepreneur que les autres je
+veux dire c'est quelque chose qui se
+mérite d'être entrepreneur c'est pas
+quelque chose qui vous est dû on a
+l'impression un peu en ce moment que
+être entrepreneur c'est quelque chose
+qui est dû à tout le monde d'ailleurs on
+dit nous anyone can be an entrepreneur
+on n pas dit everyone hein il y a une
+grande différence entre anyone et
+everyone anyone ça dire l'entrepreneur
+il peut venir n'importe où everyone ça
+veut dire tout le monde est entrepreneur
+mais c'est pas un du entrepreneur et
+vous les gens devraient beaucoup plus
+prendre ce genre de moment comme des
+tests sérieux si vous n'arrivez pas à
+convaincre quelqu'un d'être votre
+condateur et que vous êtes pas à vous
+considérer du genre solitaire et absolu
+et capable de de tout surmonter tout
+seul et en vous en foutant des autres si
+vous êtes dans cette C intersection vous
+avez besoin des autres mais vous êtes
+pas capable de les convaincre bah c'est
+peut-être tout simplement vous êtes pas
+fait pour être entrepreneur vous avez
+peut-être juste simplement raté le
+premier test et entrepreneur c'est plein
+de tests comme ça et il faut simplement
+l'accepter se regarder en face dire bon
+ok si je vais pas faire ça je vais faire
+autre chose et il y a plein de façons
+d'être entreprenant je veux dire les
+entrepreneurs n'ont pas le monopole
+d'être entreprenant vous pouvez
+rejoindre un projet être instrumental
+vous pouvez être employé et être
+formidable vous pouvez vous pouvez avoir
+une vie extraordinaire sans jamais être
+le CEO ou le condateur d'un projet je
+dire c'est pas il n'y a pas que eux qui
+ont des vies qui valent le coup d'être
+vécu et je peux vous dire que ça vient
+avec un prix que la plupart des gens ne
+veulent pas payer de toute façon donc
+détendez-vous est-ce que vous voulez
+est-ce que vous voulez passer 5 ans à
+manger des pâtes en verre et contre tout
+quoi je dire c'est il y a il y a des
+moments où il y a des des moments où
+être entrepreneur c'est pas drôle et si
+c'est pas drôle c'est parce que les gens
+qui le sont c'est plus fort queeux il
+faut aussi avoir conscience de ça quoi
+alors si vous trouvez ce cofondateur à
+qui vous faites confiance commence
+l'étape numéro 2 qui est la construction
+de l'équipe alors deux choses l'équipe
+il y a trois phases quand on construit
+une équipe il y a préproduct market fit
+post product market fit et
+scale préproduct market fit mon conseil
+garder l'équipe la plus petite possible
+et si vous avez besoin d'une grande
+équipe pré produ marketfit vous êtes
+dans la merde je l'une des boîtes les
+plus dures de the family c'est agricool
+parce que agricool c'est une boîte qui
+préprodu market fit a besoin de beaucoup
+beaucoup de gens construisez des
+conteners des usines des machins c'est
+horrible
+horrible vous n'imaginez pas à quel
+point es sont dures à
+construire et surtout quand c'est votre
+première boîte quand quand c'est votre
+première boîte faites attention à
+construire quelque chose de simple sur
+lequel vous pouvez être vite sur le
+marché et vite gagner de l'argent pour
+écrire une première histoire facile que
+les gens peuvent reconnaître comme étant
+une histoire
+entrepreneuriale ne sous-estimez pas à
+quel point votre première œuvre n'a pas
+besoin d'être votre chefdœuvre
+vous pouvez construire plusieurs uvres
+avant d'écrireire un chefdœuvre c'est
+comme ça dans l'art c'est comme ça dans
+l'entrepreneuriat
+maintenant préproduct market fit
+l'équipe c'est horrible pourquoi parce
+que vous avez pas d'argent pour la payer
+vous savez pas réellement combien vous
+pouvez payer les gens pourquoi parce que
+la façon dont on paye les gens dépend du
+type de produ market fit qu'on a si vous
+avez un produ market fit
+extraordinaire vous pouvez pouvez payer
+les gens de façon extraordinaire si vous
+avez un produit un produ market fit avec
+très peu de marge vous avez besoin
+d'avoir une culture où vous payez mal
+les gens et les inégalités de salaire
+entre les boîtes sont terribles par
+exemple vous prenez une boîte comme
+free Free c'est un opérateur téecom low
+cost qui compte chaque centimes Free ne
+peut pas payer les gens auudessus du
+prix de marché si par contre vous êtes
+chez Goldman sax
+Goldman sax il y a tellement d'argent
+que vous pouvez payer une secrétaire
+plus chè qu'un ingénieur chez Free
+pourquoi Goldman sax paye les
+assistantes des MD plus cher que ne
+gagne la moyenne d'un ingénieur débutant
+chez Free bah tout simplement parce que
+ils savent plus quoi faire de leur
+pognon la masse salariale est tellement
+faible comparé à l'argent qui gagne que
+ils peuvent se permettre de gaspiller de
+l'argent par la fenêtre et ça crée de la
+cohésion sociale
+si vous payez chez Goldman sax une
+assistante le prix qu'on paye une
+assistante chez Free l'ambiance va être
+vachement mauvaise au bureau parce que
+quand elle verra passer le salaire du MD
+ça va créer beaucoup de ressentiment
+est-ce que les gens comprennent souvent
+pas sur les salaires c'est que on ne
+paye pas quelqu'un pour sa valeur on
+paye quelqu'un pour la valeur qui crée
+dans le contexte où il est
+comparativement à l'ensemble des
+salaires de entreprise il y a pas un
+market trate de la secrétaire une
+secrétaire qui travaille pour un PDG ne
+gagne pas plus sa vie parce qu'elle est
+meilleure elle gagne plus sa vie parce
+que toute façon le PDG gagne des sommes
+tellement indécentes qu'il faut donner
+des sommes indécent pour une secrétaire
+pour créer une cohésion sociale sinon il
+y a du ressentiment sinon il y a des
+troubles sinon il y a des choses pas
+sympas qui se créent dans l'entreprise
+et le problème c'est que quand vous êtes
+prê produ market fit vous n'avez que de
+l'espoir là-dessus vous savez pas quel
+est votre taux de marge vous savez pas
+quel est votre taux de BF vous savez pas
+si vous allez avoir beaucoup de clients
+évidemment que vous pouvez imaginer que
+votre boîte sera une billion de dollars
+mais pour l'instant vous avez aucune
+preuve concrète sur le fait que ça le
+sera vous n'avez que de l'espoir donc
+préprodu market fit ne crée pas d'équipe
+essayez de alors je vais vous dire un
+truc que personne ne vous
+dira mais les startup ça
+d'horrible que en général les 20 ou 30
+premiers employés sont rarement les 20
+ou 30 employés qui restent à la fin
+pourquoi parce que comme elles sont
+assez peu attractives en terme de talent
+les gens les plus brillants et les plus
+compétents rejoignent rarement ce genre
+de start-up les gens brillants et
+compétents ils ont des opportunités dans
+des start-ups beaucoup plus grosse et
+donc vous avez des cycles naturels de
+remplacement où les gens se font sont
+remplacé par des gens qui sont bien
+meilleurs dans leur boulot et c'est pour
+ça que quand vous constituez votre
+équipe l'erreur de débutant que tout le
+monde fait c'est de donner des titres
+gonflant à des gens trop tôt euh vous
+savez les start-ups c'est souvent
+l'endroit où il y a un chief technologie
+officer chief product officer chief
+marketing officer avec des
+stagiaires sauf que le problème le jour
+où vous embauchez vraiment votre chief
+marketing officer il faut retirer le
+titre du mec et le donner au nouveau qui
+arrivve et souvent les gens disent ah
+c'est qu'un titre ouais ouais ouais
+ouais ouais c'est que de legego ouais
+ouais ouais ouais non non l'ego c'est le
+truc le plus important dans la vie vous
+savez il y a des procès au prudom si
+vous voulez avoir une vraie leçon de
+management vous allez sur le site des
+prudom et vous regardez pourquoi les
+gens attaquent au prudom et notamment il
+y a ces procès très célèbres de
+changement d'étage vous savez qu'il y a
+des gens qui attaquent au prudom parce
+qu'ils ont été changé d'étage dans un
+bureau ils étaient au 5e étage ils sont
+passés au 3e étage ils attaquent et
+alors les gens ont des réactions comme
+ça ils disent mais c'est absurde c'est
+vraiment con les gens mais non les gens
+ne sont pas cons retenez cette hypothèse
+les gens ne sont jamais cons je sais que
+ça peut paraître bizarre comme hypothèse
+mais en fait les gens font toujours des
+choses profondément rationnelles quand
+vous êtes dans une entreprise
+traditionnelle et qui a une hiérarchie
+et il y a du statut quand on vous passe
+du 5e au 3e étage on vous dit que vous
+êtes une
+vous pouvez faire semblant de pas
+comprendre et vous pouvez faire semblant
+de dire c'est pas important en fait
+c'est essentiel parce que vous êtes dans
+ce genre de boîte parce que vous êtes
+dans une boîte où ce genre de truc est
+important et donc on peut pas vous dire
+le jour où ça vous arrange ouais en fait
+c'était pas important non en fait si
+c'est important je sais que c'est
+important donc je vais t'attaquer au
+prudom et d'ailleurs la plupart des gens
+ces gens gagnent au prudum en fait ils
+ont raison de gagner au prudom parce que
+si vous êtes assez con pour pour créer
+une culture d'entreprise où vous mettez
+le patron au 6e étage les vipi au 5e les
+principal au 3e les ING au 2è et les
+stagiaires au premier et qu'un jour vous
+passez un mec du 5è étage au premier
+étage en disant non non mais c'est
+simplement de la réorganisation
+logistique et bah faut pas vous étonner
+que les gens ils vous attaquent et qu'il
+gagnent c'est normal en fait et de la
+même façon c'est pour ça que c'est hyper
+important d'instaurer une culture du
+travail l'effort dès le début et que
+quand les gens viennent et demandent des
+titres vous leur dites non parce que
+pourquoi les les gens dans les start-up
+donnent des titres parce que non
+seulement les start-up attirent pas les
+gens les plus compétents en début mais
+en plus elles attirent les gens qui ont
+les GO plus gonflé et donc les gens ils
+viennent pourquoi ils viennent parce que
+justement ils vont avoir le titre de
+chief marketing officer ou de chief
+machin et ils vont être trop content de
+dire aux gens qu'ils ont ce titre là et
+donc vous en tant qu'entrepreneur vous
+avez une responsabilité à vous dire vaut
+mieux ne pas embaucher quelqu'un
+qu'embaucher quelqu'un qui accorde
+l'importance à ce genre de chos mais
+imaginez que vous donnez ce titre à
+quelqu'un moi je le vois dans mes
+startups parce que évidemment c'est la
+règle personne m'écoute à the family
+contrairement aux apparences et donc je
+raconte toujours ça aux entrepreneurs et
+je finis toujours avec des start-ups
+qu'on des chiffres et en général post
+Série A ou post série B j'ai toujours la
+même conversation je comprends pas là on
+veut embaucher machin et on veut lui
+donner ce titre donc on a dit au mec que
+maintenant il serait plus ce titre là
+mais en plus c'est trop drôle parce que
+résultat ça crée des
+hiérarchies vous avez un chief qui a des
+heads et les head ils ont des directors
+mais il y a toujours pas de
+salariés mais qui mais qui dirige quoi
+en fait et donc le mec dit oui j'ai
+proposé à notre chi marketing que
+maintenant il serait head of marketing
+il est vexé comme du poisson pourri
+pourtant on savait bien que c'était pas
+important parce que les gens ils disent
+c'est pas important vous savez comment
+donc ça donne un truc comme ça
+l'entretien d'embauche donc voilà on a
+ené on a pensé t'embaucher au marketing
+ah oui mais ce sera quoi mon titre bah
+je sais pas le titre que tu veux ah
+ouais d'accord non mais parce qu'en fait
+moi je pensais tu un poste de CMO oui
+oui bah c'est un CMO mais bon c'est pas
+important oui oui c'est pas
+important voilà définition c'est pas
+important et puis 2 ans plus tard tard
+vous retirez le titre au mec et type ah
+quoi mais c'est une honte ça fait 2 ans
+que je suis là le mec est arrivé depuis
+une semaine ouais mais le mec il a 20
+ans d'expérience il était chief
+marketing officer dans une boîte où il y
+a 400 personnes toi tu étais chief de
+trois stagiaires euh donc en fait non en
+fait en fait tu vas lui donner le titre
+ouais ben je démissionne et ce qui est
+dingue c'est que les entrepreneurs à ces
+moment-là comme ils portent la
+culpabilité ils comprennent même pas en
+fait que c'est une c'est une ils sont
+bénis des dieux quand les mecs
+démissionnent parce que quand les mecs
+ne démissionnent pas et qu'ils ont ce
+genre de de d'attitude de terroriste
+c'est terrible en fait ils viennent ils
+pourrissent l'ambiance il y a des
+guerres infernales et cetera mais encore
+une fois je le reproche pas aux employés
+si on vous donne un titre de chief
+machin le jour où on vous l'enlève c'est
+un désaveux c'est pas la peine de faire
+semblant que ça l'est pas c'est il faut
+être complètement con et être un entre
+eneur pour le coup pour faire semblant
+que ces chosesl ne sont pas importantes
+mais bien sûr qu'elles sont importantes
+le mec est souspayé de toute façon
+évidemment qu'il lui reste que ça
+imaginez mettez-vous toujours
+empathiquement à la place des gens les
+gens ils ont des potes qui gagnent deux
+fois mieux leur vie queux qu'est-ce
+qu'ils ont besoin de dire pour pas
+passer pour des cons B qu'ils ont des
+responsabilités ces responsabilités ça
+s'incarne dans quoi dans un titre et au
+moment où la boîte marche vous leur
+enlevez le seul truc qu'ils ont eu
+pendant 2 ans et après les gens disent
+c'est quand même bizarre ils sont pas
+très sympas ces gens mais non ils sont
+rationnel ils sont parfaitement
+rationnels et en fait le con dans
+l'histoire c'est toi c'est
+l'entrepreneur parce que le jour où il y
+a eu le dialogue par exemple nous on l'a
+tout le temps ce dialogue à famille les
+gens il viennent ah je vais être
+directeur mais j'en dis toujours la même
+chose vous Verz les titres à famille
+c'est un moyen deire Jeur dis soit tu
+inventes un titre que personne comprend
+ça tu as le droit tu peux être
+head of fairy head of fairy tale chief
+happiness
+officer vas-y fais-toi plaise soit tu
+portes le titre de ton département par
+exemple fellhip il y a pas de fellhip
+manager et alors il y en a toujours un
+pour aller me un fell chip
+manager mais tu manages quoi il y a
+personne que tu manages et en fait on
+est vraiment radical là-dessus et les
+bonnes boîtes le sont en général c'est
+les second time entrepreneurs qui
+comprennent cette connerie tous les
+first time entrepreneurs font la
+connerie des titres c'est rassurez-vous
+détendez-vous moi je l'ai fait moi
+j'avais réussi à créer des Chiefs des
+VIP j'avais créé le vipi en dehors entre
+le Chief et le
+Head c'est et il y avait que des
+stagiaires donc donc je la connais
+l'histoire je la connais par cœur en
+fait l'histoire mais évidemment quand on
+est entrepreneur comme on a pas
+grandchose à offrir mais en fait c'est
+parce que fondamentalement on ne croit
+pas assez dans ce qu'on fait la chose la
+plus dure quand on est first time entre
+entrepreneur c'est de croire qu'on est
+en train de faire quelque chose
+d'important c'est de croire qu'on est en
+train de faire quelque chose de
+suffisamment précieux pour que le simple
+fait d'y participer suffise oui c'est
+mal payé oui il y a pas de titre oui tu
+auras des problèmes à expliquer à ton
+entourage pourquoi tu es là mais par
+contre on va s'amuser on va faire des
+choses dont tu seras fier toute ta vie
+ça si vous êtes capable de regarder
+quelqu'un dans les yeux et de lui dire
+ça vous verrez que vous passerez une
+étape en terme de management parce que
+pré product market fit vous ne pouvez
+rien promettre ensuite il y a l'équipe
+post product market fit alors là créer
+une
+équipe c'est un enfer parce que
+maintenant tout le monde sait
+objectivement ce que votre boîte vaut et
+vous avez un désalignement terrible
+entre le fait que vous voulez consacrer
+un maximum de moyens à la croissance et
+que les gens veulent avoir un maximum de
+re
+de court terme et c'est le moment le
+plus conflicté entre les entrepreneurs
+et les employés pourquoi parce que
+préprodu market fit tout le monde a
+travaillé dur pour un espoir là
+maintenant l'espoir il est concret
+l'argent il rentre et la question c'est
+comment on répartit cet argent est-ce
+que on consacre cet argent pour aller
+chercher plus de croissance ou est-ce
+qu'on consacre cet argent pour
+rewarder les gens qui sont là pour
+pendant la phase d'avant alors trois
+outils outil numéro 1
+l'hypertransparence beaucoup trop
+d'entreprises en 2018 pense qu'on est
+encore en 1980 et by the way beaucoup
+trop d'entrepreneurs expérimentés
+donnent des conseils aux jeunes
+entrepreneurs sans savoir qu'il y a eu
+un shift de génération terrible en terme
+d'ambiance
+vous appartenez à une génération qui ne
+supporte pas le manque de transparence
+et qui ne supporte pas être pris pour
+des cons l'histoire des hommes
+d'affaires MDEF années 80 qui gagnaient
+des millions en se faisant passer pour
+des pauvres avec des chaussettes trouées
+dans Paris Match vous connaissez cette
+histoire c'est euh la grande mode dans
+les années 80 de tous les PDG qui
+étaient pris en photo dans Paris Match
+c'était d'avoir des trous dans leurs
+chaussette pour faire homme du peuple et
+oui c'est la génération de nos parents
+les gars enfin c'est et les mecs osent
+venir nous donner des leçons euh
+résultat il ils ont pas compris en fait
+que fondamentalement les gens a demandé
+de la transparence du respect et que
+comme l'information elle est maintenant
+transparente vous pouvez toujours
+comparer l'argent que vous faites avec
+l'argent que les autres font par exemple
+glace d'Or est un très bon site pour ça
+et puis il y a des il y a des listes
+anonymes de salaire et vous avez tous
+des potes et maintenant demandz par
+texto par par WhatsApp à un de vos potes
+combien il gagne dans une entreprise
+pour un poste équivalent l'espoir que
+vous vous avez en tant qu'entrepreneur
+de pouvoir aller arnaquer vos salariés
+elle est proche de zéro donc l'hyper
+transparence est hyper importante il y a
+pas d'autre façon de le dire et toute
+info que vous voulez cacher je peux vous
+garantir que quelqu'un la connaîtra
+notamment moi mon truc le plus drôle
+c'est les fondateurs qui cachent leur
+salaire parce que quand une boîte est
+post product market fit c'est le moment
+où o les fondateurs commencent à avoir
+des vrais retours sur investissement en
+terme de salaire faut savoir que
+maintenant les fonds d'investissement
+ont compris que souspayer les
+entrepreneurs c'était pas bon pour la
+boîte que bien payer un entrepreneur une
+fois que le Produit marketfit est là
+c'est plutôt agréable que le mec il a
+plus de problème à la maison et que ou
+que la et que à un moment donné il est
+hyper
+important que les gens soient à l'aise
+financièrement pour pouvoir donner le
+meilleur d'ux-même
+bon le problème c'est que les fondateurs
+ils augmentent leur salaire mais ils
+augmentent le salaire de personne
+d'autre et ils espèrent que ça se serura
+pas et qu'est-ce qui se passe dans 100 %
+des cas et ben ça c'est parce qu'il y a
+toujours un document sur la Dropbox qui
+traîne il y a toujours une nana à la
+conta qui va parler à un mec qui est
+l'assistant du patron et qui va
+l'apprendre et qui machin ou il va
+toujours se passer un Lig d'information
+et l'entrepreneur ce jour-là sera dans
+la situation où il aura cassé la
+confiance avec son équipe donc l'hyper
+transparence c'est hyper important
+ensuite le deuxième outil c'est que si
+vous êtes transparent vous devez
+expliquer le plan et vous devez mettre
+100 % des gens de votre équipe dans un
+plan très concret sur combien il
+gagneent pourquoi il le gagne comment ça
+va monter et comment c'est lié au
+résultats de l'entreprise et vous devez
+sortir des logiques de bonus et rentrer
+dans des logiques de monter des coûts en
+même temps que la montée des revenus et
+vous devez vous mettre d'accord avec
+l'équipe sur quel est le pourcentage qui
+va à la croissance et quel est le
+pourcentage qui reste pour récompenser
+les gens qui ont déjà travaillé pendant
+longtemps et si vous êtes pas capable de
+faire ce travail là en en cohésion alors
+attention c'est c'est pas une démocratie
+c'est pas un vote c'est faites quelque
+chose qui est faire expliquez-le et les
+gens qui sont pas contents il faut leur
+faire prendre la porte mais au moins
+vous avez un plan précis sur lequel les
+gens peuvent s'appuyer et ils peuvent se
+positionner je suis content pas content
+et si je suis pas content ben je peux
+aller faire autre chose de ma vie et
+alors ça c'est hyper
+important que ce soit les employés ou
+les entrepreneurs il faut arrêter de se
+comporter comme si on est on était des
+ouvriers dans les
+Voges c'est un truc c'est un truc je ne
+comprendrai jamais en France que ce soit
+les cofondateurs qui partent des boîtes
+ou les employés qui se font virer il y a
+un espèce d'ambiance on est tous des
+ouvriers dans les vuge du textile et si
+l'usine ferme on ne retrouvera jamais du
+travail si vous êtes vous avez moins de
+40 ans que vous êtes dans une start-up
+et que vous êtes compétent votre
+employabilité normalement elle est au
+top donc s'il y a un endroit où vous
+êtes pas content bah vous arrêtez de
+faire chier les gens vous partez vous
+trouvez un endroit où vous êtes plus
+content parce que cette espèce de truc
+où vous êtes en permanence dans la lutte
+l'enhase la râerie et je sais pas quoi
+ça ne marche pas mais c'est vrai aussi
+pour les entrepreneurs moi je n'ai
+jamais compris comment les entrepreneurs
+en France peuvent supporter d'avoir des
+gens dans leur équipe qui ne sont pas
+d'accord avec leur décision il y a un
+mec qui est pas d'accord avec vos
+décisions
+stratégique ou vos positionnement et
+tout vous lui montrez la porte et vous
+payez ce qu'il faut payer pour lui
+montrer la porte on narrête pas de dire
+aux entrepreneurs c'est impossible de
+virer en France non c'est impossible de
+virer gratuitement en France mais il y a
+un moment c'est un cost of business il y
+a un mec dans votre équipe faut lui
+donner 6 mois de salaire pour qu'il
+parte mais vous lui donnez 6 mois de
+salaire et vous passez autre chose dans
+votre vie c'est quoi cette espèce de
+truc si quelqu'un est dans votre équipe
+et ne supporte pas votre stratégie ou
+n'est pas bon c'est qui le responsable
+c'est vous en tant
+qu'entrepreneur c'est quoi cette espèce
+de mythe qu'en fait c'est les gens qui
+bossent pas qui sont responsables c'est
+vous qui l'avez personne vous a forcé à
+l'embaucher vous lui avez fait passer
+des tests vous lui avez fait passer des
+entretiens vous avez foiré
+lamentablement et voulez qu'en plus ce
+soit
+gratuit que en fait quand vous foirez
+votre sélection c'est gratuit mais non
+vous payez vous raquez vous vous donnez
+les mois qu'il faut pour que la personne
+vous fasse pas chier et vous passez à
+autre chose dans votre vie nous on a à
+the family on a viré 35 personnes en 5
+ans on est amis avec 34 d'entre
+eux bon ça peut pas marcher à tous les
+coups mais si vous faites les choses en
+respect en franchise vous dites aux gens
+écoute ça marche pas voilà tes
+indemnités voilà la porte on n jamais
+quelqu'un qui nous a dit ah là là c'est
+une honte les gens ont pris leur chèque
+ont dit bon ça l'a pas fait d'ailleurs
+100 % des gens qu'on a viré on les a
+recommandé hein vous saz pourquoi parce
+qu'on savait très bien pourquoi ça
+marchait pas chez nous c'était c'était
+pas c'est jamais des problèmes de
+compétences c'est des problèmes de fit
+c'est des problème vous avez quelqu'un
+de très rigide qui rejoint notre équipe
+on a pas vu qu'il était rigide vous
+imaginez dans une équipe chaotique la
+catastrophe pour quelqu'un de rigide
+l'impression d'être en en milieu hostile
+permanent bah à un moment vous lui dites
+écoute on va arrêter de se faire du mal
+hein tu tu tu vas partir on va te donner
+de l'argent mais va dans cette boîte ils
+sont aussi rigides que toi
+vous allez vous sentir bien entre mecs
+comme ça et et voà et d'ailleurs super
+heureux cet employé nous adore enfin
+c'est c'est c'est vraiment on a on a
+l'impression d'avoir changé sa vie quoi
+personne lui avait jamais dit qu'elle
+était rigide bon ben maintenant
+quelqu'un lui a dit elle cherche que des
+gens rigides et c'est pas être souple ça
+a des désavantages autant que être
+rigide quand vous êtes une boîte
+chaotique comme the FAM family vous avez
+des downsid qui sont différents des
+downside que vous avez quand vous êtes
+une boîte rigide mais il y a pas un
+modèle qui est bon et un modèle qui est
+mauvais il y a que des choix les choix
+existent parce qu'il portent en eux oui
+c'est le truc de Ying et de Yang dans
+tout Ying il y a un Yang dans ton Yang
+il a un Ying c'est c'est la même chose
+c'est que vous avez vous avez besoin
+d'un équilibre où à chaque fois que vous
+choisissez quelque chose vous devez
+payer les conséquences de ce que vous
+avez pas choisi donc deuxème règle
+mettez en place des plans de
+rationnalisation des rémunérations et
+d'explications concrètes de qui est payé
+quoi pourquoi comment et mettez quelque
+chose en place qui est cohérent ça sert
+à rien d'essayer de alors by the way les
+trois erreurs qu'on fait tous quand on
+est entrepreneur la première fois on
+négocie les salaires avec les gens moi
+je ne négocie jamais aucun salaire avec
+les gens on fait des offres les gens ils
+prennent les offres ils les prennent ils
+les prennent pas ils les prennent pas
+vous êtes pas un marchand de tapis si
+vous faites des offres faire et que la
+personne l'accepte pas ça veut dire que
+vous êtes pas vous êtes pas capable de
+payer ce qu'elle a besoin et si elle est
+vous êtes ê pas capable de payer ce
+qu'elle a besoin elle va dans une
+entreprise où elle aura ce qu'elle a
+besoin mais vous ne pouvez pas rentrer
+dans ce jeu-là parce que sinon vous
+commencez à payer pour le même job des
+gens à des tarifs très différents et
+quand vous commencez à payer pour le
+même job des gens à des tarifs très
+différents vous n'êtes plus faire ça
+devient inexplicable c'est un c'est un
+point hyper important ensuite la deuxè
+le le deuxème sujet
+fondamental c'est que le pardon le 3
+point c'est que les histoires de
+rémunération c'est
+dynamique vous avez besoin de réévaluer
+vos politiques de rémunération quand
+vous êtes product market fit tous les 6
+mois vous avez besoin de faire des one
+Toone avec les gens hyper régulièrement
+et toutes ces histoires de de de bonus
+annuel d'évaluation annuelle du de la
+performance c'est des trucs de grandes
+boîte qui ne s'occupent pas de ces des
+gens je ne comprends pas pourquoi les
+start
+pense que les grands groupes ont quoi
+que ce soit à leur apprendre sur comment
+diriger leurs boîtes les grands groupes
+trouvent des optimisation qui sont du à
+leur taille et c'est-à-dire c'est des
+systèmes qui ne marchent pas mais comme
+ils ont des tailles géantes ils ont pas
+le choix pourquoi les grands groupes
+font des évaluations annuelles de
+performance c'est parce qu'il y a
+tellement de monde que vous pouvez pas
+faire plus rapide qu'annuel c'est pas
+parce que les grands groupes trouvent
+que c'est la panassée de voir un mec une
+fois par an vous imaginez un feedback
+une fois par an dans une start-up où
+tous les mois les choses changent
+fondamentalement nous on conseille aux
+start-up personne dans une start-up
+devrait passer un mois sans faire un One
+Toone pas un mois qui doit et un
+feedback qui n'est pas donné
+immédiatement dans une équipe est un
+feedback qui ne vaut rien rien si un mec
+fait quelque chose devant vous qui est
+pas bon vous lui dites ça vaut quelque
+chose si au bout d'un an vous dites à un
+mec alors ton travail ça va
+pas moi moi je me dis mais moi moi je
+serai salarié au bout d'un an on me dit
+que ça fait un an que je fais un truc
+qui va pas mais mais je lu pète la la
+table sur la tête quoi je pouvais pas me
+le dire avant connard ça fait un an que
+je m'emmerde donc vraiment essayez de
+mettre du rythme et prenez soin des gens
+si vous prenez soin de votre équipe
+votre équipe prendra soin de vous et
+c'est vrai dans toutes les entreprises
+je veux dire qu'est-ce que les
+entreprises traditionnelles ont de
+fondamental à apprendre dans les
+start-ups c'est que les start-ups c'est
+jamais une décision de quoi c'est
+toujours une décision de qui tout le
+monde a envie de réfléchir à la
+stratégie c'est un truc qui me fascine
+moi la passion des gens pour la
+stratégie vous savez en général les
+stratégies dans les start-up ça se
+résume en trois lignes faire un bon
+produit que les gens veulent le
+distribuer là où les gens l'achètent et
+essayer de pas trop foirer tout ce qu'il
+y a
+autour je pense que à peu près je viens
+de vous résumer la stratégie de 95 % des
+startup là peut-être qu'il y a 5 % de
+start-up un peu régulés qu' on des trucs
+du genre éviter la
+police comme critère mais à part ça je
+veux dire c'est qui ces bouffons qui
+pensent vraiment que ça apporte de la
+valeur de passer 5 heur dans une pièce à
+réfléchir parce que quand bien même ok
+imaginons que vous allez réfléchir à la
+stratégie commerciale et que grâce à 3
+mois de réflexion vous allez faire 20 %
+de performance en plus
+façon vous êtes à
+zéro qu'est-ce que ça change ça ne
+change rien si ces 3 mois vous les aviez
+passé à faire l'annuaire de A à Z vous
+eriez beaucoup mieux d' un de mes
+meilleurs moments dans l'histoire de the
+family c'est un déjeuner qu'on a
+organisé avec les fondateurs de star of
+service bon cé un déjeuner un peu piège
+mais j'avais pris tous les entrepreneurs
+qui me gonfl c'est ce que j'appelle les
+intello bloqués c'est tous les gens qui
+sont très intelligents
+mais ils sont tellement intelligents que
+c'est vraiment dangereux pour eux ils
+sont paralysés quoi c'est ils vont se
+poser une question la question va amener
+une question qui va donner une question
+et la question en fait n'est qu'une
+grande question tu tu te sens visé mon
+pote il y a elle à côté qui fait
+écoute super le
+soutien et et donc une espèce de truc
+vous savez pas comment sor
+et alors le sujet c'était quelle est la
+bonne stratégie marketing et alors star
+of service c'est une de mes boîtes
+préférées vraiment Dieu sait que j'aime
+ces mecs parce que chez eux la réflexion
+c'est plutôt j'agis et je réfléchis
+après c'est plutôt dans ce sensl et donc
+j'avais organisé un déjeuner avec eux et
+il y avait les entrepreneurs et et donc
+la question cétait ouais star of service
+c'est génial votre truc c'était quoi la
+stratégie
+marketing on appelait les gens télé
+ouais d'accord mais comment vous
+décidiez d'appeler les gens en téléphone
+bah on a pris
+l'annuaire de A à Z excuse-moi je
+comprends pas la
+question qu'est-ce que tu comment tu
+veux faire en fait comment ça l'annuaire
+bah ouais les pages jaunes on a scrappé
+les pages jaunes et on écrit à tout le
+monde mais comment ça ouais puis un
+moment on s'est rendu compte qu'il y
+avait des pages jaunes dans tous les
+pays donc on fait ça dans 60 pays
+mais ça marche bah ouais on est 180
+employés je peux vous dire ils sont tous
+sortis de là ils étaient bon c'est quoi
+les PES
+[Rires]
+jaunes et en fait à votre avis entre
+quelqu'un qui optimise 10 he de
+réflexion et quelqu'un qui agit pendant
+10h lequel des deux gagne imaginez que
+le mec qui agit pendant 10h est vraiment
+à côté de la plaque est bête bah c'est
+le mec qui est à côté de la plaque qui
+est bête
+pourquoi parce qu'il aura agi donc même
+si d'ailleurs c'est une erreur que font
+très souvent les commerciaux moi je vois
+souvent dans family les mecs il me
+disent voilà j'ai 10 % de conversion sur
+100 lid je vais essayer de passer de 10
+à 20 % de
+conversion pourquoi ne pas passer de 100
+à 1000
+lid si vous passez de 10 à 20 % de
+conversion ce qui est déjà un effort
+titanesque vous imaginez c'estàd que 100
+% des 100 % de performance en plus sur
+la conviction c'est vous parlez à 100
+personnes et au lieu d'en convaincre 10
+vous allez en convaincre 20 donc vous
+allez passer des heures à raffiner votre
+argumentaire vous allez passer des mois
+et des mois à tester des trucs trouver
+des machins essayz de développer un truc
+complètement dingue pour passer de 10 à
+100 à 20 vous passez de 100 à 1000 liad
+passer de 10 à 100 clients C fois le
+résultat de l'autre vous avez rien
+besoin de changer vous avez même pas
+besoin de réécrire un doc commercial et
+d'ailleurs vous savez ce qui se passe
+quand vous passez de 10 à 100 clients
+bon en général vous savez les 10 % de
+conversion que vous aviez pas bah les
+mecs disent ah il y a tous ces
+gens-là qui utilisent moi aussi je vais
+utiliser et ça se fait tout seul en fait
+et en fait vous avez des effets réseaux
+qui se produisent mais les gens mettent
+leur effort au mauvais endroit parce que
+les gens ont tendance à valoriser leur
+intelligence sur leur action et quand
+vous construisez une équipe c'est la
+même chose quand vous construisez une
+équipe vous avez besoin non pas des gens
+les plus intelligents et les brillants y
+a un grand malentendu dans les
+startup sur la notion de player il y a
+beaucoup de gens qui disent dans les
+startup faut embaucher des
+a problème c'est qu'en France on a une
+définition complètement débile de ce qui
+un a notamment on a une boîte à the
+familyère fois je parlais avec eux et il
+me disaient que ils ont enfin il a enfin
+trouvé un assistant et le mec a fait
+l'école Centrale
+je lu dis oh là là tu enfin tu sais que
+ça va devenir une catastrophe il me dit
+pourquoi il me dit parce que d'abord le
+mec tu pourras jamais l'appeler
+assistant tu vas devoir l'appeler
+adjoint
+elle me dit ah ouais c'est vrai il m'a
+demandé ça je la connais l' histoire et
+puis en fait tout ton travail
+d'assistant bah il le fera jamais donc
+il va ne faire que augmenter et il
+voudra faire que des choses où il sait
+pas faire c'està-dire être ton
+adjoint prendre des décisions réfléchir
+stratégiquement tous les trucs de relou
+quoi et ben ça pas manqué et après donc
+il s'est fait virer au bout de 3 mois il
+m'a dit on m'a dit qu'il fallait des a
+alors moi j'embauche un a je dis oh là
+donc toi tu te dis Jambo je suis un
+assistant je veux assistant niveau a tu
+penses centre un
+lien il est où le problème en fait non
+quand les américains ils disent on
+embauche que des a ils savent même pas
+le diplôme qu's ont les a non c'est pour
+chaque job j'embauche le meilleur qu'à
+passer les interviews et je vais
+chercher des poules de candidat
+tellement large que je peux choisir
+quelqu'un d'extraordinaire d'ailleurs il
+y a qu'à voir les assistants moyens dans
+les boîtes américaines c'est toujours
+les mecs et les filles les plus
+extraordinaires de la boîte parce qu'ils
+vont chercher des gens qui ont toujours
+rêvé être assistant et qui c'est on le
+voit dans tous les films américains si
+vous regardez suits pourquoi Dona est
+l'un des personnages les plus intér
+inessant parce que c'est une assistante
+moyenne d'un cabinet d'un grand cabinet
+d'avocat parce que dans tous les grands
+cabinets d'avocat les assistants sont
+des gens dingu parce que c'est des gens
+pendant 15 ans ils sont super bien payés
+ils ont des carrières incroyables et ils
+ont toujours eu envie d'être assistant
+et de donner le meilleur de même en tant
+qu'assistant c'est très anglo-saxon ça
+comme approche c'est l'idée que il y a
+pas de sommétier et donc il y a pas une
+histoire de hiérarchie de métier et on
+le voit dans la construction des équipes
+quelle est l'erreur que tous les
+entrepreneurs font c'est de promouvoir
+des gens à leur niveau d'incompétence
+vous avez un excellent ingénieur
+qu'est-ce que vous en faites un très
+mauvais
+manager si vous êtes le meilleur
+ingénieur en général la probabilité que
+vous soyez le meilleur manager elle est
+plutôt décorrélée temps en temps il y a
+des mecs touchés par la grâce c'est des
+ingénieurs incroyables des managers
+incroyables et puis puis en plus ils
+sont beau fidèles enfin tout ce que vous
+voulez mais c'est rare la vérité c'est
+qu'en général plus vous êtes bon
+techniquement moins vous êtes bon en
+tant que manager et c'est pour ça qu'il
+faut décorréler la promotion technique
+de la promotion ingénieur et manager
+vous devez pouvoir gagner plus d'argent
+que votre manager parce que manager
+c'est un boulot c'est pas un titre
+manager c'est celui qui fait que les
+équipes communiquent entre elles
+respectent les deadlines et explique à
+la direction où on en est c'est pas un
+truc hiérarchique mais le problème c'est
+que comme on en crée un truc
+hiérarchique on crée une culture qui qui
+va avec et ensuite on dit un ingénieur
+mais non tu vas pas devenir manager tu
+es plus important et le mec il voit bien
+qu'autour de lui les seuls gens
+valorisés sont justement les gens qui
+sont managers la preuve tous les
+managers sont mieux payés que lui si
+vous avez des ingénieurs qui sont mieux
+payés que les managers les gens ils ont
+plus envie d'être managers d'un seul
+coup les gens ils disent ouais je suis
+manager parce que j'aime ça ils sont pas
+managers parce qu'ils vont gagner plus
+d'argent vous comprenez c'est pour ça
+que la la distinction la culture dans
+une entreprise c'est pas ce qu'on
+déclare c'est comment on paye les gens
+et comment on promeut les gens et arrive
+le trè moment de de toute entreprise que
+je vous souhaite qui est le moment de
+scale qui un moment forcément plus flou
+pour les gens plus rare c'est que si
+vous avez survécu à cette phase de produ
+market fit vous avez ensuite des équipes
+où le plus dur c'est de tenir contre le
+splin c'est beaucoup plus facile de
+survivre que de vivre c'est beaucoup
+plus facile de motiver les gens quand on
+est à la guerre que tout va mal qu'il y
+a plein de problèmes à résoudre que
+quand tout va bien et c'est le train
+train et là il faut faire quelque chose
+que la plupart des entrepreneurs ne
+savent pas bien faire c'est assumer la
+transition c'est assumer que les choses
+ne vont pas être pareils et que
+maintenant les gens sont plus les mêmes
+types de
+gens pour vous donner une image c'est
+comme le passage de de l'enfance au
+monde adulte quand vous êtes adulte vous
+pouvez pas réellement définir ce qui
+fait de vous un adulte il y a aucun
+critère objectif qui fait de vous être
+un adulte à part le fait que vous
+choisissiez d'être adulte mais il y a
+pas un truc du genre personne a reçu un
+certificat un jour où quelqu'un est venu
+le voir lui a serré la main lui a dit
+bravo tu es adulte mon frère non il y a
+pas il y a pas de certificat d'adulterie
+mais le problème c'est que quand vous
+êtes une entreprise il y a toujours un
+moment où vous devis décider en tant
+qu'entrepreneur qu'il est temps de
+stabiliser et qu'il est temps de
+reconnaître que il y aura les arbres
+touchent pas le ciel qu'il y aura plus
+de croissance et que il va falloir faire
+rentrer des gens très différents et
+qu'il va falloir laisser les gens du
+début partir faire autre chose parce que
+les gens qui aiment faire la guerre sont
+rarement des gens qui gèrent bien la
+paix et ce passage là est un passage
+forcément assez abstrait pourquoi je
+vous le raconte aujourd'hui parce que je
+je pense qu'à long terme les choses
+qu'on accepte à court terme passent
+mieux si vous avez conscience si vous
+arrêtez de croire que votre boîte est là
+pour toute votre vie mais que vous
+comprenez que il y a toujours une date
+de début une date de fin et ben vous
+vous comporterez pas de la même façon
+quand il y aura des décisions très
+importantes à prendre le grand problème
+des entrepreneurs c'est qu'ils ont
+tendance à se considérer comme des
+salariés de leur entreprise au lieu de
+se considérer comme des actionnaires de
+leur entreprise et c'est le truc le plus
+important quand vous construisez
+l'équipe quand vous choisissez votre
+cofondateur vous devez penser comme le
+premier investisseur de votre boîte vous
+êtes finalement souvent les
+entrepreneurs se voient eux contre les
+investisseurs alors qu'en fait les
+investisseurs sont beaucoup moins
+alignés avec eux que ne les eux-mêmes
+sont avec la boîte un investisseur il a
+10 boîtes donc s'il y en a une qui
+plante il y en a neuf qui peuvent
+marcher un entrepreneur il en a qu'une
+seule de boîte un entrepreneur c'est un
+actionnaire
+qui n'a le droit d'investir que dans une
+seule
+entreprise ça veut dire que vous devez
+avoir un éos d'actionnaire mais en plus
+un actos actionnaire beaucoup plus
+prudent que les vici autour de vous
+c'est le monde à l'envers le fait que
+les entrepreneurs veulent prendre plus
+de risque que les VC c'est parce que les
+Vic en France savent pas ce qu'ils font
+je veux dire si les Vic en France
+savaient ce qu'ils faisaient on aurait
+des grandes boîtes du numérique
+françaises on n a pas pourquoi parce que
+les mecs pensent que leur rôle c'est
+d'être le garde fou avec l'entrepreneur
+mais mais non l'entrepreneur en terme
+d'alignement d'intérêt c'est celui qui a
+besoin de préserver les intérêts de sa
+boîte le vici c'est celui qui a besoin
+de le motiver à faire quelque chose de
+gros c'est en ça que est un bon VCI
+c'est un Vic qui permet à l'entrepreneur
+de se dépasser comme un entreeneur
+d'exception aux Jeux Olympiques c'est un
+type qui vous aide à vous dépasser qui
+qui vous permet de faire le dernier mal
+ce que vous auriez jamais imaginer
+pouvoir faire qui vous permet de faire
+la dernière longueur ou penser que si
+vous la faites vous allez couler et vous
+vous rendez compte qu'en fait non vous
+coulez pas et et et ce rôle de
+cheerleader/ coach il est extrêmement
+important dans les start-up parce qu'en
+tant qu'entrepreneur vous avez besoin de
+comprendre que vous n'êtes pas un
+employé de la boîte le travail dans
+votre boîte un jour sera fait par des
+gens autres que vous croyez vraiment que
+Larry Page et Sergey Brin il travaillent
+dans Google mais ça fait très longtemps
+qu'ils ont arrêté de bosser mais ils
+font des choses que personne d'autre ne
+peut faire il prennent des décisions
+ils choisissent des choses que aucun
+autre dans l'entreprise ne peut choisir
+de faire mais il y a que les
+entrepreneurs français pour passer 15
+ans dans une boîte et au bout de 15 ans
+être toujours des microanagers comme le
+premier jour et en plus en être fier et
+aller faire les malins c'est une culture
+de merde parce que c'est une culture qui
+est fondée sur le fait que ces types là
+n'ont jamais réussi à se dépasser
+eux-mêmes et n'ont jamais réussi à
+comprendre que le but du jeu c'est que
+l'entreprise elle vive en dehors de vous
+pour vous redonner une dernière image
+moi ma maman elle m'a toujours dit que
+le but de l'éducation c'est que les
+parents peuvent mourir
+tranquille un entrepreneur qui a réussi
+sa boîte son seul critère de réussite
+c'est qu'il peut mourir et la boîte
+continue combien d'entrepreneurs ont
+atteint ce stade avec leur boîte très
+très peu parce qu'ils ont leur ego au
+mauvais endroit et qui pensent que le
+fait d'être indispensable c'est la seule
+chose qui va les protéger dans leur
+boîte c'est faux le fait d'être
+indispensable c'est être un bottleneck
+être un bottleneck c'est ne pas laisser
+l'entreprise pouvoir atteindre son plein
+potentiel merci
+[Applaudissements]
+beaucoup alors question vas-y parle fort
+euh bonjour euh j'aimerais savoir hier
+tu parlais des restaurants qui skit au
+deuxème restaurant il fermait parce que
+le patron peser tout le taf euh moi j'ai
+ce problème en fait dans ma boîte j'ai
+bâti ma valeur sur sur le le le les
+clients et tout tout le C et tout ça
+comment on fait pour scaler du coup ce
+genre de de truc et pas avoir ce
+problème de fermer à la deuxième deuxème
+ouverture et ben il faut il faut faire
+un process de transfert il faut prendre
+le process de transfert très au sérieux
+euh par exemple avant quand les boîtes
+applent à the family elle me rencontrait
+moi
+c'est exponentiel le nombre de boîtes
+qui the family donc en clair je pourrais
+maintenant passer ma journée qu'à
+recevoir les gens qui rejoignent the
+family et ne rien faire d'autre en fait
+alors tout le monde m'a dit oui mais les
+gens il viennent pour toi c'est
+impossibleou mais bien sûr le truc c'est
+que comment font les gens habituellement
+pour déléguer un truc comme ça bah du
+jour au lendemain il créent une équipe
+il disent maintenant c'est plus moi
+c'est eux bon courage
+l'équipe ça c'est catastrophique
+évidemment parce que c'est pas toi et
+puis là tu paniques et soit tu micro
+manages et bah c'est horrible soit tu
+que c'est merdique et les gens dis c'est
+plus comme avant en fait le bon process
+c'est de comprendre qu'un transfert ça
+se fait en tro étapes en étape numéro 1
+il faut
+commencer à le faire non plus de façon
+artisanale
+mais en réfléchissant à c'est quoi le
+process et c'est quoi les critères par
+exemple moi j'ai commencé à me dire ok
+pourquoi lui je lui ai dit OUI ou NON
+commencer à à vraiment essayer d'être
+explicite là-dessus dans ma propre tête
+ensuite le deuxème process tu embauches
+une équipe avec qui tu le fais en
+permanence c'est que tu embauches deux
+ou trois personnes et tu fais avec eux
+comme tu le faisais avant mais tu fais
+100 % des rendez-vous avec eux et moi
+j'ai été poussé le visce jusqu'à leur
+présenter tous les entrepreneurs qui
+avent été sélectionné dans The Family et
+leur faire revivre leur entretien de
+sélection et donc c'est un an
+d'investissement et au bout d'un an tu
+viens un rendez-vous tu tu tu les
+laisses faire un rendez-vous sur quatre
+tout seul puis un rendez-vous sur deux
+puis trois rendez-vous sur 4re puis plus
+aucun rendez-vous et tu as fait un vrai
+passage de témoins mais les passages de
+témoins c'est des choses à prendre très
+au sérieux mais il n'existe aucune chose
+que tu fais que quelqu'un ne peut pas
+faire mieux que toi c'est juste qu'il
+faut lui laisser le temps et il faut
+accepter les erreurs du début évidemment
+il fut il y a au début quand tu passes
+bah le un rendez-vous sur 4 de temps en
+temps il y en a un qui est raté mais là
+faut être solide faut surtout pas le
+reprocher faut comprendre pourquoi il
+est raté il faut construire mais il faut
+que tu admettes que la courbe elle est
+pas comme ça mais que la courbe elle est
+comme ça tu as des pqus en fait à chaque
+fois chaque fois que tu lâches du lait
+ça tombe un peu et hop ça reprend
+et et tu dois être à l'aise avec ça mais
+déléguer quelque chose c'est un c'est un
+investissement hyper profond mais tu
+dois avoir cette croyance que tout ce
+que tu fais quelqu'un peut mieux le
+faire que toi si tu as pas cette
+croyance si tu crois que tu es unique et
+que tu es quelqu'un de spécial et tout
+ça ne marche pas et notamment tu dois
+aussi comprendre que bah oui ça met du
+temps c'est c'est pas tu dois avoir la
+bonne moi j'avais un horizon d'un an en
+tête c'est long un an c'est c'est pas
+c'est pas genre allez vas-y la semaine
+prochaine ça y est c'est délégué quoi et
+c'est un bonheur moi je vois plus aucune
+boîte qui rentre à the family
+mais comment je suis
+heureux c'est non mais tu imagines
+l'enfer que c'était ma vie c'est
+horrible de passer ta vie à dire non aux
+gens maintenant j'ai que le bon côté les
+gens ils sont pris ils me trouvent
+sympa c'est c'est c'est c'est eux qui
+sont qui sont vus comme les connards
+c'est plus moi non non c'est les gens ne
+voient pas en fait si tu perçois la
+beauté de la délégation euh et tu vois
+le la joie que ça va te procurer le
+process devient aussi plus simple faut
+vraiment avoir cette cet horizon en vue
+de de voir ça comme une
+libération question
+ouais euh bonjour Merci à votre
+conférence j'aimerais savoir euh aussi
+la question de la culture mais culture
+de l'entreprise comment family qui a
+constuit votre
+culture comment pour construire la
+culture entreprise et par où au début
+pour éviter les problèmes et les erreur
+après les les questions de culture
+d'entreprise en fait les la culture
+d'une entreprise ça se construit pas ça
+subit et ça se subit par les gens que tu
+embauches la culture de ton entreprise
+en général c'est les 10 premières
+personnes que tembuches si tu fais bien
+ton travail sur les 10 premières
+personnes de ton entreprise la culture
+sera assez évidente donc la culture
+c'est pas les cononnerie que tu écris
+sur le mur parce que souvent les gens
+écrivent des choses qui ne sont pas des
+cultures c'est rare d'écrire des trucs
+aussi dur nous on écrit des trucs sur
+les murs qui sont des vraies cultures
+parce qu'en fait une valeur d'une
+culture d'entreprise c'est quelque chose
+que tu peux rive et qui est valable
+quand même prenons un exemple si vous
+dites ma culture c'est la transparence
+ça c'est une valeur
+pourquoi parce que dire notre culture
+c'est le secret c'est valable aussi donc
+si vous pouvez retourner la valeur et
+avoir quelque chose qui reste acceptable
+et ben c'est ça veut dire que c'est
+quelque chose de fort si vous dites ma
+culture c'est le courage bah vous pouvez
+dire ma culture c'est la prudence voyez
+c'est vous pouvez pas être courageux et
+prudent à la fois si vous êtes soit
+prudent soit vous êtes courageux vous
+espérez qu'un mec qui gère une centrale
+nucléaire et plutôt du côté prudent que
+du côté courageux si le mec a une chance
+sur 1000 que ça pète vaut mieux qu'il a
+peur de cette chance voyez c'est c'est
+c'est pas le mec ouais nous ici on est
+des Warriors allez allume la centrale
+boum merde
+encore va vraiment falloir qu'on voie
+nos process les gars
+donc trop souvent les entreprises par
+exemple la dernière fois j'étais à la
+SNCF ils ont écrit nous sommes innovants
+ah bah merci les gars tu crois vraiment
+qu'un mec peut écrire dans un hall nous
+sommes des ringars non c'est tout le
+monde a besoin d'être innovant
+l'innovation c'est pas une culture par
+exemple personne peut écrire sur son mur
+par exemple imagine ici notre notre
+valeur c'est
+l'honnêteté bah oui mais en fait c'est
+un peu une condition cineéquanon
+l'honnêteté si quelqu'un écrit nous
+sommes malhonnêtes à la rigueur tu es
+une mafia quoi ouais bon tu es une
+organisation occulte mais mais forcément
+tu c'est c'est c'est c'est compliqué en
+fait donc les valeurs c'est pas ce qui
+est écrit sur les murs les valeurs c'est
+en fait trois choses c'est qui tu
+embauches comment ils sont payés et
+comment ils sont
+promus c'est ça qui incarne la valeur
+d'une entreprise par exemple j'adore moi
+les boîtes qui disent on est
+collaboratif et qui promeuvent tous les
+connards qui le sont pas du tout les
+gens sont pas cons ils savent très bien
+qu'il faut pas être collaboratif en fait
+euh un autre exemple que j'ai eu
+récemment c'est un une de nos boîtes qui
+nous dit ouais on a écrit notre
+manifesto et dans le manifesto ils ont
+écrit we are one team we are all
+together
+pardon et c'est une boîte où tout le
+monde est payé à la commission en eat
+what you kill et le plus grand jeu dans
+la boîte c'est de parler un max de
+clients avant que les autres parlent
+pour pouvoir que dans le CRM la com soit
+attachée à eux et les mecs ont osé
+écrire dans leur manifesto we are all
+together we are one team et je me dis
+mais en fait les gens sont fascinants en
+dissonance intellectuelle he sa tu sais
+ils mangent du quinoa toute la semaine
+ils prennent de la cocaïne le weekend
+c'est c'est enfin pourquoi en fait
+fais-toi un burger mon
+frère tant qu'à faire en fait donc donc
+et ça c'est pareil c'est c'est on dis
+dis fais pas ce que je dis mais dis ce
+que je fais pas quoi c'est c'est
+vraiment très étrange et et en fait il y
+a pas besoin de quand on a une boîte de
+1000 personnes 2000 personnes c'est des
+moments où il faut faire très attention
+parce que il faut écrire sa culture
+parce qu' on a plus un contrôle informel
+sur les gens et donc il y a des gens qui
+peuvent être embauchés sur des
+malentendus qui vont bousill la culture
+mais jusqu'à 1000 personnes la culture
+c'est un truc évident tu vois tu viens
+en the family tu passes une semaine avec
+nous tu la connais notre culture je
+c'est ça ça transpire de partout en fait
+parce que les gens qui ont été embauchés
+incarne ce truc si tu prends les 10
+personnes les mieux payées de the family
+chacune d'entre elles incarne un aspect
+de la culture the
+family
+question comment faire pour entreprendre
+dans un domaine qu'on ne connaît
+absolument pas en apprenant tout sur le
+sujet mais est-ce qu'il faut d'abord
+tout apprendre et après entreprendre
+faut faire en même temps tant qu'à faire
+tu seras juste un mauvais entrepreneur
+un peu plus longtemps que la moyenne
+c'est pas grave mais il y a rien il y a
+rien qui ne puisse pas s'apprendre enfin
+tu peux te faire des trips dans la vie
+avec Internet et apprendre des trucs
+mais c'est c'est Internet plus les
+livres
+c'est je me demande je me demande dans
+le monde dans lequel on va comment les
+experts vont faire ça ça doit être
+vraiment terrible de se sentir expert
+dans quelque
+chose les les experts c'est vraiment une
+c'est un truc en voie de disparition
+quoi c'est euh c'est
+ouais je je sais pas tu tu es récemment
+euh euh je vais souvent moi dans des
+conférences absurdes j'adore ça euh
+j'adore me faire inviter à parler devant
+des
+milieux c'est un des grands kiifs de mon
+boulot c'est d'avoir accès à des gens
+euh machin et récemment je suis j'ai été
+invité par une nana incroyable elle est
+chasseuse de serpents donc je vous
+explique ce ceci est un vrai métier elle
+vous elle vous montre des vidéos où en
+fait elle va dans la jungle elle va au
+fin fond du monde et elle travaille pour
+l'industrie pharmaceutique où elle
+récupère des venins de serpents rares et
+donc comment on récupère le venin d'un
+serpent B on se met devant le serpent on
+fait comme ça pour que le serpent
+attaque on fait un un truc comme ça le
+serpent attaque on attrape le serpent
+quand il attaque et on on lui on lui
+plante dans les dents un truc machin
+alors le problème c'est que de temps en
+temps ça rate et donc elle vous montre
+son bras et sur tout son bras elle a les
+cicatrices de serpent de toutes les fois
+où elle a glissé elle a pas attrapé le
+mec machin on s'est fait piquer par des
+cobras royales des machins donc elle a
+des antidotes machin vous raconte ça bon
+et elle vous dit voilà euh j'ai vu vos
+vidéos en ligne j'adore on organise le
+Congrès international des chasseurs de
+serpent j'aimerais que vous veniez
+parler et alors c'est incroyable déjà
+est-ce que vous saviez que ce métier
+existait bon moi non plus
+voilà ensuite vous allez vous rencontrer
+alors ils ont ils ont tous des alors
+autant elle elle en jette mais alors je
+vous dis pas les mecs comment ils en
+jettent aussi quoi ils ont tous des
+gueules d'Indiana Jones parce que
+évidemment faut être hyper sportif parce
+que vous vous ils font de la randonnée
+du track de l'escalade c'est des
+athlètes hyper complets les mecs en fait
+et alors 1 L de crobras de l'Amazonie je
+sais pas quoi c'est c'est des prix c'est
+des 150000 € 200000 € donc il sont tous
+richissimes bah oui faut y aller quand
+elle te monte la vidéo où elle attrape
+un anagonda et elle chope le venin de
+l'anagonda tu comprends que ça vaut un
+peu d'argent quoi tu tu te dis
+ouais c'est un truc et et donc la conf
+c'était donc ils étaient tous ensemble
+et ils avaient amené des speakers
+d'inspiration
+alors franchement j'ai pas compris
+pourquoi je je à mon avis c'est à eux
+d'aller inspirer des gens mais bon très
+bien j' t'ai payé pour ça et alors toute
+la journée il y avait les confes étaient
+alternés avec des trucs de chimie sur
+les venins et cetera et à chaque fois
+qu'il y avait un mec qui faisait une
+presse c'était assez obscure c'était des
+trucs de chimie du genre
+Cobra rencontre
+cafar formule chimique de je sais pas
+quoi donne ça et il y a pas un mot
+chimique que j'ai cherché qui avait pas
+une page
+wikipédia et je me suis dit
+internet quoi vous vous rendez compte
+c'est quand même dans le genre marché de
+niche les mecs spécialistes des venins
+et ben les mecs se sont dit on va aller
+écrire des pages Wikipédia sur les
+formules chimiques des venins de serpent
+avec les les formules de de bivalence de
+tétravalence et de machin j'ai passé une
+journée trop drôle quoi j'ai j'ai appris
+plein de trucs en chimie des serpents et
+d'ailleurs j'avais très peur des
+serpents et ben maintenant je suis
+vraiment vraiment
+[Rires]
+paniqué en fait le nombre de serpents
+mortels sur terre est beaucoup plus
+impressionnant qu'on croit et d'ailleurs
+figurez-vous qu'il y a des serpents qui
+ont des trucs du genre chimique hyper
+grave toique et tout donc non c'est la
+folie mon
+frère apprends ce que tu veux et fais en
+même temps la meilleure façon
+d'apprendre cette
+faire tu as pas lu des livres avant de
+rencontrer ta première meuf bon c'est
+pareil merci beaucoup Ciao
+[Applaudissements]

@@ -1,0 +1,753 @@
+comme vous avez pu le voir dans anyone
+can scale j'essaie de vous encourager et
+j'essaie de vous motiver à bâtir votre
+entreprise avec le moins d'argent
+possible et on ne le vend pas forcément
+des fonds mais des fois on n pas le
+choix on a besoin de capital pour
+grandir des fois on est contraint par le
+capital pour deux raisons la raison
+numéro 1 c'est qu'on a besoin d'acheter
+du stock ou du Matériel Si vous avez
+besoin de d'acheter des machine pour
+produire des choses si par exemple vous
+êtes chantil biscuit bah vous avez
+besoin à un moment de construire des
+usines parce que vous pouvez pas servir
+les clients juste en construisant les
+biscuits dans votre propre cuisine et
+pour ça il faut lever des fonds la
+deuxième raison de lever des fonds c'est
+pour accélérer vous êtes en croissance
+vous avez des clients vous pourriez en
+avoir plus si seulement vous aviez la
+main d'œuvre en interne dans ce cas-là
+la levée de fond sert surtout à acheter
+des salaires ces deux grands cas
+théorique le besoin en actif et le
+besoin en personnel représente 90 % des
+besoins de levée de fond il y a 10 % un
+peu compliqué qui nous intéresse pas
+vraiment aujourd'hui dans anyone can
+scale alors la levée de fond c'est
+l'instrument du scale le capital bien
+déployé c'est ce qui permet d'accélérer
+et accélérer c'est ce qui permet de
+scaler évidemment se pose la question de
+quel type de capital vous avez le droit
+et quel type de capital vous pouvez
+aller chercher
+[Musique]
+[Musique]
+on va essayer de de de de faire ça en C
+grandes catégories à the family on parle
+beaucoup de la catégorie de la levée de
+fond investisseur VC c'est quoi un VC ça
+vient de l'anglais venture
+ça veut dire quelqu'un qui prend de
+l'argent pour le mettre à risque à
+risque c'est pour ça qu'on parle de
+venture le VC c'est assez minoritaire au
+monde des levé de fond évidemment les
+startups sont obsédés par les VC quand
+on fait une start-up on a l'impression
+que le seul moyen de financer son
+entreprise c'est le VC mais dans le
+grand schéma de la vie et dans
+l'économie mondiale le VCI est assez
+minoritaire alors le VC est minoritaire
+pourquoi parce que le VCI s'adresse à un
+petit nombre de sociétés quand vous êtes
+un VC vous prenez de l'argent auprès de
+ce qu'on appelle des LP LP ça vient de
+l'anglais limited partner c'est des
+investisseurs qui confie à un
+gestionnaire de l'argent et cet argent
+doit être mis à risque et il doit aller
+dans des sociétés qu'on un certain type
+de contrainte par exemple si vous êtes
+vici vous n'êtes pas payé par vos
+investisseurs pour investir dans une
+pizzeria ça a beau être la meilleure
+pizzeria du monde elle va peut-être
+cartonner elle va peut-être rendre son
+fondateur richissime vous allez
+peut-être faire le McDonald's de la
+pizza et valoir des milliards il
+n'empêche ce n'est pas fait pour le VC
+pourquoi parce que les critères du VCI
+sont des critères
+d'hyperscalabilité et sont des critères
+de risque technologique la plupart des
+VC ont comme mandat de mettre l'argent
+au travail dans des entreprises qui ne
+pourrait pas avoir d'autres sources de
+fonds et le VC ça coûte cher les
+investisseurs qui confient leur argent à
+un VC le paye tous les ans 2 % de
+management fees ça veut dire que tous
+les ans sur 100 € qui sont confiés à ce
+VC l'investisseur va payer le VC
+l'investisseur que vous vous connaissez
+pour gérer cet argent et ça coûte cher
+parce que c'est un travail humain qui
+demande des ressources qui demande du
+temps qui demande de l'artisanat qui
+demande de l' lise et tout ça c'est pas
+gratuit alors évidemment quand on
+cherche des VC et qu'on cherche à lever
+de l'argent auprès de VC il faut être
+start-up compatible alors il y a cinq
+grands critères que les VC vont explorer
+je les ai abordé des centaines de fois
+dans les vidéos de The Family il y a
+énormément de contenu en ligne que vous
+pouvez trouver sur les lev VC on va pas
+y revenir ici dans cette formation si
+vous êtes concerné par la levée de fond
+VC je vous invite invite à aller voir
+tous les contenus gratuits que the
+family produit ce que je vais vous dire
+aujourd'hui à anyone kencale c'est en
+quoi le VC peut être dangereux pour
+votre entreprise quand vous prenez de
+l'argent VC vous signez un Pact avec ce
+vici de rendre beaucoup d'argent et
+rendre beaucoup d'argent ça passe par le
+fait d'avoir du rendement et d'être
+capable de grandement impacter la courbe
+de croissance de votre boîte grâce à cet
+argent un VI est prêt à prendre des
+risques il préfère avoir une chance sur
+100 d'avoir un retour sur investissement
+de 10000 fois sa mise qu'avoir 20
+chances sur 100 d'avoir un retour sur
+investissement de trois fois sa mise et
+pourquoi bah tout simplement parce qu'il
+se trompent beaucoup la plupart des
+start-ups meurent on oublie de dire aux
+gens que les start-ups peuvent mourir
+par excès de capital nous on l'a vu à
+the family dans plusieurs cas quand vous
+avez beaucoup d'argent vous devez
+devenir un gestionnaire vous devez être
+capable de déployer correctement cet
+argent et c'est pas un skills très
+facile à acquérir et c'est normal de se
+planter et c'est normal des fois de se
+tromper les Vic des fois investissent
+dans des entreprises qui ne marchent pas
+ça fait même partie de la majorité des
+Vic parce que ce qui compte pour un Vic
+c'est pas le nombre d'échecs mais la
+magnitude des succès quand ils en ont un
+s'ils ont un investissement qui a un
+retour sur investissement hors du commun
+et ben ça suffit à juste justifier leur
+déploiement dans de nombreux et nombreux
+échecs alors le VCI peut mettre sous
+pression une entreprise comme le VCI
+achète un avenir glorieux il a tendance
+à être moins sensible au prix que les
+investisseurs classiques si on peut
+distinguer la catégorie VC de la
+catégorie de tous les autres
+investissements c'est tout simplement
+parce que le VC payent des valorisations
+d'entreprise qui sont
+décorrélé de la valeur réelle de ces
+entreprises au moment de
+l'investissement pourquoi parce que le
+VC compte sur le fait que la croissance
+de l'entreprise va rattraper cette
+valeur et c'est là où on peut se tromper
+souvent quand on prend de l'argent viss
+on peut faire quelque chose d'assez
+dramatique qu'on appelle le premature
+scaling c'est le fait de scaler trop
+prématurément anyone can scale mais ce
+qui vous scalz trop vite vous pouvez
+prendre le risque de dépenser de
+l'argent bêtement pour des choses dont
+vous n'avez pas encore besoin et si vous
+dépensez bêtement de l'argent pour des
+choses dont vous avez pas encore besoin
+vous créez une dette sur l'avenir et
+c'est les clients futurs qui vont devoir
+payer cette dette et des fois bah les
+courbes elles se croisent parce que vous
+avez perdu trop d'argent et ça rend
+votre entreprise non viable prenons un
+cas très connu wework wework c'est 20
+milliards d'investissement il va falloir
+que les clients remboursent ces 20
+milliards peut-être qu'ils ont trop
+dépensé qui sait si wework arrive à
+avoir du rendement de ses clients tant
+mieux mais il existe un monde dans
+lequel les clients n'arriveront jamais à
+payer la dette capitalistique que wework
+a accumulé dans le temps c'est en ça que
+le VC est spécifique le VCI est
+différent de toutes les autres classes
+d'Asset puisque c'est la seule classe
+d'Asset qui achète l'avenir quand vous
+levez des fonds auprès d'un VC vous ne
+levez pas sur ce que vous avez fait vous
+levez sur le potentiel qui reste à venir
+or si vous regardez quand vous allez
+prendre un crédit bancaire si vous
+regardez le private equity si vous
+regardez le business angel et toutes les
+formes alternative d'investissement on
+est plutôt dans des analyses où le but
+du jeu est de sécuriser ce qui a été
+fait par le passé et de d'analyser en
+quoi le passé va prédire l'avenir dans
+le VC il y a peu de passé quand enlève
+un site quand enlève une série a en
+général on a 1 an 2 ans au grand maximum
+3 ans de temps en temps d'historique et
+cette historique n'est pas suffisant
+pour se faire une conviction c'est
+pourquoi les VC sont des gens optimistes
+par nature la différence entre le pitch
+VC et tous les autres pitch de levée de
+fond c'est que le pitch VC est un pitch
+qui par nature est profondément
+optimiste et donc il faut avoir un
+exercice de cells et de pitch optimiste
+vous devez faire rêver les gens faire
+rêver un banquier ça ne sert à rien les
+banquiers ne savent pas rêver s'il
+savaiit rêver ils seraiit jamais devenu
+banquier je vous aime mes amis les
+banquiers mais quand on accorde un prêt
+on essaie d'évaluer le risque quand on
+donne de l'argent vici on essaie
+d'évaluer le gain quel que soit le
+risque et c'est en ça que l'argent VCI
+est différent de tous les autres argents
+si vous êtes comme 90 % des entreprises
+sur terre pas compatible avec le VCI se
+pose la question des autres modes de
+financement alors on va essayer de les
+voir catégorie par catégorie le premier
+mode de financement le plus accessible
+le plus sympathique mais qui pose
+beaucoup de problèmes c'est celui de la
+Love Money alors qu'est-ce que c'est la
+Love Money la Love Money c'est de
+l'argent qui est donné par vos proches
+sur le simple fait que justement vous
+êtes proche d'eux alors c'est de
+l'argent pas très négociable par
+définition parce que les gens vous
+donnent de l'argent non pas parce que
+ils comprennent quelque chose à ce que
+vous faites mais parce que
+fondamentalement il vous aime alors la
+Love Money pour que ce soit bien fait il
+faut respecter trois règles très simples
+d'abord il faut comprendre que les gens
+qui vous donnent de l'argent même s'ils
+posent des questions même s'ils
+analysent votre dossier ils seront
+toujours biaisés par le fait qu'ils vous
+connaissent et leur validation ne
+signifie rien du tout il y a des gens
+qui lèvent de la Love Money il se disent
+que si les gens ont mis de la Love Money
+c'est que leur business doit être
+important ça ne veut rien dire la
+deuxième chose qui est hyper importante
+avec la Love Money c'est que dès que
+vous prenez de la Love Money
+il faut absolument regarder les gens
+dans le dans les yeux et leur dire que
+cet argent est perdu c'est très
+important de ne pas vous mettre avec vos
+proches à risque et il faut expliquer
+des fondamentaux c'est de l'argent qui
+n'est pas facilement récupérable c'est
+de l'argent qui ne peuvent pas décider
+de revendre quand ils le veulent c'est
+de l'argent qui peut être bloqué des
+années la plupart des entreprises
+privées ne sont pas liquides c'est pas
+un matin vous vous levez vous décidez de
+vendre vos parts et il y a quelqu'un en
+face qui est prêt à racheter vos parts
+c'est beaucoup plus compliqué que ça
+donc c'est de l'argent qui est à risque
+qui n'est pas liquide et qui a donc
+toutes les caractéristiques de l'argent
+perdu n'investissez jamais en Love Money
+de l'argent que vous n'êtes pas prêt à
+perdre à 100 % et c'est votre
+responsabilité d'entrepreneur d'être sûr
+que vos proches le comprennent
+parfaitement la troisième règle très
+simple avec la Love Money c'est qu'il ne
+faut jamais considérer cet argent comme
+de l'argent professionnel et c'est pour
+ça qu'il faut absolument limiter les
+droits de vote et tous les droits
+avoisinant cet argent dans votre cap
+table le cas très classique c'est vous
+avez votre cousin qui vous aime bien qui
+vous donne de l'argent votre entreprise
+cartonne cet argent représente
+maintenant quelque chose de très
+important pour lui il panique et ça crée
+des tensions entre vous parce que vous
+vous avez besoin de prendre des
+décisions qui sont bonnes pour
+l'entreprise mais qui mettent son argent
+à risque et qui sont peut-être
+complètement contradictoires avec son
+besoin de sûreté à lui à cause de son
+profil d'investisseur non professionnel
+c'est pourquoi pour votre bien et pour
+leur bien et pour le bien de votre
+entourage il est essentiel qu'il
+comprennent que cet argent est perdu et
+il est essentiel qu'il comprennneent que
+cet argent est entre vos mains le temps
+où vous avez besoin évidemment la Love
+Money a comme avantage extraordinaire
+que si les chose marche bien et ben tout
+le monde en profite nous on a vu à the
+family de nombreux cas où des gens ont
+investi de la Love Money ça a bien
+marché ils ont gagner beaucoup d'argent
+c'est toujours fabuleux de permettre à
+ses proches de pouvoir avoir une partie
+du succès que vous avez durement bâti et
+durement mérité après la Love Money il y
+a les dispositifs publics
+d'accompagnement ils ont pour vocation
+d'être là pour les gens qui n'ont pas
+dans leur entourage de Love Money
+disponible ou pour des gens qui ont de
+la Love Money disponible et qui veulent
+la compléter
+alors la France est un pays qui a
+énormément de subventions énormément de
+dispositifs publics si vous êtes un peu
+fan de coup d'état vous savez ce que
+j'en pense vous savez que ça me gonfle
+et cetera bon
+maintenant cet argent il est là faut pas
+être con si vous en avez besoin il faut
+le prendre mais il faut bien le prendre
+alors je vais vous donner mes petits
+conseils concernant cette prise d'argent
+public d'abord essayer d'y passer le
+moins de temps possible il faut
+reconnaître que les organismes comme BPI
+ont fait des progrès extraordinaires sur
+les dernières années alors c'est pas
+faute d'avoir tapé dessus c'est pas
+faute de les avoir critiqué mais quand
+ils font les choses bien il faut le dire
+il faut le reconnaître et il y a des
+progrès incroyables qui ont été faits
+alors là j'en vois beaucoup qui se
+marrent et qui se disent ousama il a dit
+du bien de la BPI et oui ousama il a dit
+du bien de la BPI parce que c'est pas
+non plus idéologique chez moi de dire du
+mal de la BPI la deuxième chose c'est
+que si vous y passer le moins de temps
+possible il faut pas devenir un
+spécialiste du dispositif pour le
+dispositif quel est le problème en
+France le problème en France c'est que
+ces gens-là ils font leur travail et
+c'est pas leur rôle de dire à un
+entrepreneur d'arrêter que c'est trop
+tard et cetera au contraire quand vous
+allez voir un charger d'affaires à la
+BPI lui son rôle c'est d'aller chercher
+le maximum d'argent pour vous pour vous
+donner les moyens de réussir et c'est
+tout à leur gloire le problème et c'est
+là où il y a un problème de mécanisme à
+mon avis c'est que comme ils sont pas
+skin in the game ils ont pas de punition
+à donner de l'argent à des gens qui n'en
+ont pas besoin mais bon la France est un
+pays centralisé avec un état omnipotent
+qui donne énormément d'argent et c'est
+pour ça que ça appelle votre
+responsabilité d'entrepreneur si vous
+réfléchissez entre perdre de l'argent et
+perdre votre temps perdre votre temps et
+beaucoup plus grave que perdre de
+l'argent donc si vous êtes dans la
+situation où vous pouvez éviter de vous
+retrouver dans une situation où vous
+avez besoin de prendre de l'argent vous
+pouvez éviter d'être dans une situation
+où vous avez besoin de prendre de
+l'argent faites-le n'allez pas perdre
+votre temps à devenir le champion des
+subventions ne de perdez pas votre temps
+à aller chercher subvention par
+subvention des fois vaut mieux mourir et
+recommencer à zéro et avoir une nouvelle
+chance de partir d'une page blanche
+plutôt que de survivre comme un zombie
+sous prétexte que le dispositif vous
+sauve et dans ces cas-là ce dispositif
+peut devenir extrêmement toxique pour
+vous alors évidemment il existe plein de
+façons de faire sous-traiter ses besoins
+par des cabinets de conseil donc
+évidemment que s'il y a de l'argent à
+prendre vous devez le prendre vous devez
+y passer le moins de temps possible et
+vous devez surtout pas en devenir
+dépendant alors en dehors de l'argent de
+l'État il y a aussi l'argent des banques
+3è dispositif de financement enfin 4e si
+on compte les vis les banques c'est très
+très compliqué on va faire les choses
+simples et on va mettre sur la table une
+règle que j'espère que tous les membres
+de la communauté coup d'État vont
+respecter vous n'êtes jamais sous aucun
+prétexte caution personnel d'un prêt
+bancaire pour votre entreprise
+jamais sous aucun prétexte beaucoup
+beaucoup de gens que je connais qu' on
+fait des entreprises dans les années 60
+70 80 n'ont pas eu le choix on a inventé
+un concept juridique qui s'appelle la
+responsabilité limitée qui dit que un
+entrepreneur n'est responsable en terme
+de dette que des dettes contractées au
+lors de par l'entreprise et à la limite
+de ses apports en clair si vous avez mis
+10000 € de capital dans votre entreprise
+et que la boîte vos doit 100 million
+créancé vous ne perdez que les 10000 €
+que vous avez mis ce principe de la
+responsabilité limitée a permis la
+création du risque c'est l'une des plus
+belles inventions juridiques ever il n'y
+aurait pas d'entrepreneur s'il n'y avait
+pas de responsabilité limitée si
+lorsqu'on se plantait les dettes de
+notre entreprise devenaient nos dettes
+perso ce serait catastrophique
+évidemment les banques sont venus
+ce principe et les banques adorent de
+demander aux gens d'être caution
+personnelle il faut faire la grève de la
+caution personnelle il faut lancer un
+mouvement pour ne pas laisser les
+banques si le l'État avait le moindre
+courage il ne laisserait aucune banque
+avoir le droit de demander une caution
+personnelle à aucun entrepreneur pour un
+prêt contracté par aucune
+entreprise maintenant que ça s'est dit
+quel est le cas dans lequel le
+financement bancaire fait sens le
+financement bancaire ne comprend que
+deux choses l'actif et le yelt
+c'est-à-dire acheter des choses que la
+banque peut revendre si ça marche pas
+l'immobilier par exemple ou des choses
+qui ont un rendement une machine que
+vous louez par exemple vous êtes une
+entreprise de distributeur de billets
+automatiques à chaque fois que vous
+installez un un distributeur de billets
+vous gagnez 500 € par mois je dis une
+bêtise j'en sais rien et ce distributeur
+coûte 10000 € ça fait 5 % de rendement
+la banque peut vous prêter de l'argent
+pour acheter autant de distributeurs que
+vous voulez parce qu'elle a une garantie
+de rendement alors les banques ne
+comprennent que deux choses l'historique
+et la sécurité s'il y a pas d'historique
+et il y a pas de sécurité vous pouvez
+oublier les financements bancaires les
+banques ne sont pas là pour prendre du
+risque c'est normal les banques ne sont
+pas là pour prêter à des gens qui ont de
+l'incertitude les banques sont là pour
+assurer le fonctionnement de l'économie
+lorsque les cash flows sont prédictifs
+et que les bénéfices sont ré c'est pour
+ça que le financement bancaire est
+habituellement un financement réservé
+aux entreprises profitables alors le
+financement bancaire est un financement
+assez formel quand vous allez chercher
+un crédit vous avez pas mal de juridique
+vous avez pas mal de documentation et
+vous avez surtout pas mal de problèmes
+vis-à-vis du banquier pour le convaincre
+il faut faire des dossiers il faut faire
+des business plans il faut être dans un
+S process alors contrairement au VCI
+c'est comme je vous le disais tout à
+l'heure c'est un sales process qui ne
+repose absolument pas sur le rêve le
+financement bancaire est un financement
+qui repose avant tout et principalement
+sur la qualité de vos chiffres et la
+qualité de votre présentation financière
+c'est pour ça qu'il ne faut pas hésiter
+à se faire accompagner d'un expert
+comptable ou d'un consultant CFO
+parttime pour pouvoir rendre le meilleur
+dossier possible pour obtenir votre
+financement alors évidemment les
+financements bancaires sont des
+financements de confiance ce qui se
+passe c'est que si vous avez besoin de
+beaucoup d'argent bancaire n'hésitez pas
+à diviser ces sommes entre plusieurs
+banques à les rembourser et ainsi bâtir
+votre acricord de confiance pour mettre
+la banque de plus en plus en confiance
+par rapport à votre niveau de risque en
+tout cas c'est sûr que si vous faites
+quelque chose d'innovant quelque chose
+de radical quelque chose de différent
+vous pouvez oublier le financement
+bancaire si les vici c'est pas pour vous
+que vous avez pas de proche vous êtes
+j'allais dire orphelin mais c'est
+peut-être un peu abusé
+ou du moins juste pauvre que vous ne
+supportez pas l'état que vous êtes
+libertarien que vous ne voulez pas
+prendre l'argent de la BPI et qu'en plus
+vous avez un business risqué et qui a
+pas de cashfow positif il vous reste
+quoi et ben il vous reste tout le reste
+alors tout le reste c'est une source de
+financement complètement indéfini ce
+qu'il faut comprendre c'est qu'on aime
+bien mettre des catégories mentales
+investisseur mais investisseur ça décrit
+des réalité complètement différente ça
+décrit un hedge fond un fond Private
+Equity un type qui a de l'argent parce
+que son oncle est riche ça peut décrire
+tout et n'importe quoi ce qu'il faut
+comprendre c'est que vous êtes dans un
+monde où tout le monde a la liberté de
+faire les deals qu'il veut avec qui il
+veut si vous comprenez ça vous pouvez
+trouver des sources de capital
+extrêmement exotique par exemple the
+family on a levé auprès d'entrepreneurs
+de l'Internet on n pas levé auprès de VC
+on n pas levé auprès de fond on a
+d'abord levé auprès de gens qui
+comprenaient profondément notre mission
+et qui avaient envie de participer alors
+évidemment avec ces gens-là la
+négociation est différente et vous avez
+la responsabilité de l'éthique de faire
+un bon deal parce que vous pouvez être
+face à des gens qui ne comprennent pas
+forcément ce qu'ils font à l'inverse
+vous pouvez être face à des gens qui
+comprennent vraiment très bien ce qu'il
+font parce que c'est des investisseurs
+très aiguisés très aguéris et qui ont
+simplement envie de choses un peu
+différentes ou de leur faire de faire
+des choses avec leur investissement
+personnel alors ce qu'il faut comprendre
+c'est que comme le mot investisseur
+décrit tous ces gens-là et toutes ces
+réalités là c'est votre travail d'être
+capable de faire un deal et de
+construire un deal et de cibler la bonne
+personne c'est en ça que la levée de
+fond se rapproche énormément du sales
+process avec ces gens vous avez besoin
+d'un tunnel avec énormément de gens
+dedans vous avez besoin d'un pitch que
+cette cible là peut comprendre alors
+c'est là où il faut faire un vrai
+travail de Target on ne parle pas de la
+même façon à quelqu'un qui investit son
+argent personnel parce qu'il est
+héritier que quelqu'un qui investit son
+argent personnel parce qu'il travaille
+dans un edge fond ou qu'on lève de
+l'argent auprès de quelqu'un qui est un
+expert de votre industrie et cetera et
+cetera tous ces cibles là on leur propre
+langage leurs propres besoins leurs
+propres pitch et évidemment il faut être
+capable de vous adapter c'est votre rôle
+en tant qu'entrepreneur d'être capable
+de créer les conditions d'un deal et
+d'aller susciter l'intérêt de ces
+gens-là alors des fois les gens me
+disent oui mais je connais personne
+c'est pour ça qu'à the family on a
+inventé la méthodologie de la levée
+LinkedIn je vous invite à lire l'article
+de mon collaborateur Pietro sur le sujet
+vous avez un petit lien juste en dessous
+et vous vous verrez qu'il est possible
+de contacter des inconnus avec une
+stratégie de Cold email et de leur
+proposer d'investir dans un deal
+énormément d'entrepreneurs à the family
+ont fait des levé LinkedIn parce qu'ils
+étaient trop tôt pour les VC trop tard
+pour la Love Money et qu'ils avaient
+besoin d'argent pour se développer il
+faut différencier deux types de levée de
+fond d'un côté vous avez le levée de
+fond que nous on appelle low resolution
+à savoir des levées de fond où tout le
+monde se met autour de la table sur les
+mêmes conditions pour investir un
+montant donné ça c'est le premier sujet
+et de l'autre côté vous avez les levées
+de fonds high resolution qui sont des
+levées de fond où là vous avez des gens
+qui se mobilisent pour investir au fur à
+mesure une levée de fond high resolution
+c'est une levée de fond où vous êtes
+capable de prendre un ticket à quelqu'un
+non pas parce qu'il y a un tour de table
+mais parce que cette personne croit
+suffisamment dans votre entreprise pour
+faire un deal juste avec vous alors ces
+levées de fond en France sont moins
+courantes qu'aux États-Unis mais à the
+family on a inventé un outil qui
+s'appelle le R a ir r accord
+d'investissement rapide qui permet de
+prendre cet argent et de développer une
+relation intuition personnal avec un
+investisseur si vous allez sur
+myetir.co vous aurez toute la
+documentation qui explique comment un r
+fonctionne et qui vous permettra de
+prendre de l'argent au fur à mesure des
+levés auprès des gens qui ont envie de
+vous soutenir alors évidemment cette
+catégorie elle est infinie évidemment
+cette catégorie elle est compliquée
+évidemment c'est la catégorie dans
+laquelle il y a le plus de problèmes il
+y a le plus de tension c'est évidemment
+la catégorie la plus risquée mais
+retenez que quand on n pas le choix il
+reste qu'un seul choix celui de faire le
+bon choix la levée de fond c'est un
+processus long compliqué chiant
+insupportable c'est pour ça qu'il faut
+lever des fonds que si vous en avez
+absolument besoin ou parce qu'on vous
+offre plein d'argent et que c'est pas
+compliqué que c'est très simple et
+cetera et vous êtes une superst mais
+pour la plupart des gens la lev de fond
+c'est un moment difficile painful qui
+vous défocus c'est pour ça qu'il faut
+essayer de le mettre derrière vous le
+plus vite possible vous ne pouvez pas
+passer votre vie à lever des fonds si
+vous passez votre vie à lever des fonds
+vous allez jamais diriger votre boîte si
+vous voulez avoir du temps pour scaler
+préparer des choses préparer la
+croissance de votre entreprise permettre
+de préparer des choses pour l'avenir
+vous ne pouvez pas être dehors à parler
+à des investisseurs à tout en permanence
+en plus moi je le vois tout le temps le
+processus de levée de fond est le
+processus le plus déprimant du monde
+c'est un processus qui a 90 à 95 % de
+taux de rejet c'est normal que tout le
+monde dise non à vous donner de l'argent
+c'est pas facile de donner de l'argent
+et résultat ça fait quoi ça fait que
+vous entrepreneurs vous déprimez et vous
+prenez ses feedback il est fort probable
+que chaque investisseur que vous
+rencontriez a une opinion différentes
+sur votre business si vous commencez à
+les écouter vous allez devenir fou c'est
+pour ça qu'il faut rentrer dans le
+processus de levée de fond avec quelque
+chose d'hyper fort en tête en se disant
+que vous savez ce que vous faites que
+même si vous vous trompez c'est le
+marché qui vous l'apprendra c'est pas
+les investisseurs que si les
+investisseurs savaient faire une
+entreprise ils la feraient eux-mêmes et
+que leur opinion n'est juste qu'une
+opinion que de temps en temps vous
+pouvez écouter que souvent vous pouvez
+ignorer et que surtout jamais jamais il
+ne faut déprimer parce que la déprime
+elle vous attend en tournant elle vous
+attend à deux stades elle vous attend au
+stade où quand vous êtes en levée de
+fond vous passez tellement de temps
+dehors que vous perdez de vue votre
+équipe vos opérations vos clients et vos
+produits et ça ça peut créer de la
+distance et en plus quand vous voulez
+pas communiquer sur chacune des étapes
+en temps réel avec les hauts et les bas
+d'une levée de fond vous avez tendance à
+donner le sentiment d'être devenu un
+ghost de disparaître de ne plus être là
+de ne plus être disponible évidemment la
+levée de fond dans ce sens-là c'est
+quelque chose de très très painful pour
+vous protéger de ça il y a des
+techniques simples la première c'est de
+rencontrer d'autres fondateurs qui sont
+par c pas process qui vous expliquent
+leur galère et qui vous racontent à quel
+point ça a été difficile la deuxième
+chose que vous pouvez faire c'est
+d'avoir qu'une seule personne dans votre
+équipe dédiée à la leve fond surtout
+n'allez pas lever de fond si vous êtes
+plusieurs cofondateurs tous ensemble
+c'est le meilleur moyen de planter la
+boîte et la troisième chose c'est que si
+une levée de fond ne marche pas il faut
+pas hésiter à la resisette et changer
+complètement de stratégie ou
+complètement de catégorie d'investisseur
+vous avez vu des vis tout le monde vous
+a dit non il est temps de tout reset et
+la meilleure façon de reset c'est de
+prendre un ou deux moins de recul ne
+risettez pas en passant d'une cible
+altente à l'autre parce que vous allez
+passer à tout l'escalier des Nant au
+lieu de monter l'échelle des oui alors
+évidemment le processus de levée de fond
+c'est un processus qui prend du temps en
+France en moyenne c'est entre 3 et 6
+mois pour lever des fonds famille on a
+réussi à réduire ce processus à moins
+d'un mois pour avoir un gonogo mais même
+à mois c'est extrêmement long c'est
+extrêmement chronophage

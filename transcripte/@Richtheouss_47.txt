@@ -1,0 +1,283 @@
+bienvenue dans cette vidéo sur comment
+créer votre première annonce SEM on va
+voir ensemble comment se servir de la
+plateforme Google Ads pour voir que bah
+c'est pas très très compliqué à mettre
+en place et que ce qui est compliqué
+comme je le dis dans la vidéo principale
+de ce module c'est d'arriver à faire des
+itérations suffisamment pertinente pour
+trouver quelque chose qui va performer
+et vous rapporter plus d'argent que ça
+vous en coûte donc ici on est sur
+l'interface de Google Ads Google Ads
+c'est la plateforme de publicité de
+Google ça va vous permettre de gérer à
+la fois vos campagnes SEM à la fois vos
+campagnes de pub sur Youtube et plein
+d'autres choses les campagnes de pub sur
+Youtube j'en parle notamment dans le
+module sur les social ADS hein j'ai une
+vidéo qui parle exclusivement de ça donc
+si ça vous intéresse nésitez pas à
+acheter un aujourd'hui on va se
+concentrer uniquement sur euh la
+création d'une pub sur Google he dans
+les résultats de recherche donc ici moi
+j'ai des campagnes vidéo mais si vous en
+avez pas normalement l'interface elle
+devrait être un petit peu différente de
+ce que vous voyez chez moi et donc vous
+pouvez cliquer ICI sur Smart campaigns
+et vous voyez la liste bah des campagnes
+qui sont euh en train d'être en cours ou
+qui ont été mis en pause donc ici on va
+cliquer sur create new
+campaign et il va nous demander ce qui
+est notre principal objectif de
+publicité donc là nous ce qu'on veut
+c'est d'avoir des gens qui sign up sur
+notre site par exemple donc c'est un
+truc
+web on va choisir le business coup
+d'État je vais enlever la petite erreur
+et ensuite il va nous demander de
+choisir une localisation donc là ici par
+défaut il a mis Paris mais en fait moi
+ce qui m'intéresse c'est la France en
+général ça me dit que à peu près par
+mois il y a 56 millions de personnes qui
+peuvent être touché ça veut dire qu'ils
+estiment à 56 millions de personnes le
+nombre de gens en France qui utilise
+Google chaque mois ce qui est pas mal
+vous allez pouvoir choisir la langue
+dans laquelle vous voulez faire votre
+publicité donc nous on va choisir le
+français et ensuite choisir la catégorie
+de votre business donc là il nous
+propose des choses donc il a créer un
+compte je sais pas trop comment il
+définit ce truc là c'est un peu cassé
+mais donc là ici donne un exemple qui
+est plombier donc en fonction de votre
+industrie et de votre marché vous allez
+pouvoir choisir ce truc moi je vais
+choisir
+entrepreneuriat est-ce que vous voulez
+choisir des des produits spécifique pour
+à promouvoir dans cette pub c'est là que
+vous allez choisir vos mots-clés donc
+j'en parle dans la vidéo principale de
+ce module c'est essentiel de savoir sur
+quel mots-clé il faut se placer pour
+pouvoir toucher les gens qui ont une
+expérience de recherche qui est liée à
+ce que vous proposez et même si c'est à
+l'inverse si vous voulez créer une
+expérience de vente qui est liée à des
+recherches qui sont déjà faites il va
+falloir se poser la question des bons
+mots clés pour ça il y a une vidéo dans
+Ce module qui s'appelle choisir les bons
+mots-clés où je vous présente plusieurs
+outils pour trouver quelles requêtes
+sont les plus tapées dans Google autour
+de votre industrie pour et mettre des
+hypothèses et voir ce que vous allez
+mettre dans ce champ-là donc c'est ici
+que vous allez taper les différentes
+requêtes que vous espérez euh recevoir
+des gens qui vont euh chercher des trucs
+qui sont similaires à votre business
+donc par exemple ici moi je vais taper
+lancer sa
+start-up je vais en ajouter un autre qui
+va être monter euh sa
+boîte ou alors créer son
+entreprise ça c'est les mots clés sur
+les lesquel je vais vouloir apparaître
+avec ma pub et donc google va me mettre
+en avant sur les toutes les recherches
+qui contiennent ces mots-clés là je
+clique sur
+Next et on arrive sur l'écriture de l'AD
+en elle-même ici donc vous avez
+plusieurs champs dans le formulaire pour
+pouvoir créer votre pub vous allez
+pouvoir voir votre pub se créer en temps
+réel juste en tapant les mots que vous
+voulez taper et donc votre objectif
+c'est de créer une pub qui va répondre
+le plus possible à la requête que la
+personne a faite donc là chez moi les
+gens ils ont tapé monter sa boîte donc
+ici en headline 1 une bonne pratique ça
+va être de mettre quelque chose qui
+rappelle cette requête pour montrer aux
+gens qu'on leur montre pas des résultats
+qui ont rien à voir avec ce qu'ils ont
+demandé hop donc j'écris apprends à
+monter ta boîte ensuite peut-être que
+derrière ce qu'on va vouloir c'est une
+value proposition en général c'est ça
+qui est fait dans les dans les Google
+Ads mais c'est libre à vous de de tester
+il faut comprendre que là dans votre pub
+tout ça va apparaître donc apprends à
+monter ta
+boîte et ensuite en headline 3 peut-être
+qu'on va mettre un call to
+action la description elle va apparaître
+en dessous de la petite
+URL donc ici donc vous avez créé votre
+pub ce qu'il faut bien comprendre c'est
+que Google ils ont un objectif de
+optimiser les résultats de recherche sur
+tous les Devic possibles c'est pour ça
+que vous avez headline 1 headline 2
+headline 3 description 1 description 2
+c'est parce que dans plein de cas ils
+vont choisir de retirer certains de ces
+éléments typiquement la headline 3 elle
+apparaît très très peu en général sur
+les résultats de recherche parce que bah
+si vous êtes sur mobile par exemple il y
+a pas la place d'afficher autant de
+texte que ce que vous voyez ici donc du
+coup bah ils vont choisir d'enlever des
+éléments ça veut dire que vous devez
+écrire des phrases qui sont
+indépendantes les unes des autres et
+avoir un message général qui fait sens
+si jamais vous enlever la description 2
+la headline 3 et même la headline 2 on
+est le 10 juin 2020 au moment où je fais
+cette vidéo et en majorité bah c'est la
+headline 1 et la headline 2 qui
+apparaissent toujours le reste ça peut
+être enlevé ce qui est hyper intéressant
+là-dedans c'est que c'est tellement
+simple d'écrire une Google ad que vous
+allez être obligé de mettre beaucoup
+d'intensité et beaucoup d'énergie dans
+le fait de R réiger votre annonce alors
+évidemment il y a personne qui est
+jamais arrivé sur Google ad qui a tapé
+ses premières phrases venu de sa tête en
+théorie et qui a choper un taux de
+conversion gigantesque ça ça n'existe
+pas ton cityard il ne va augmenter qu'au
+fur et à mesure de tes différentes
+itérations et donc c'est ce que je dis
+dans la vidéo principale du module ce
+qui est important c'est de lancer ta
+première pub de tester avec un petit
+budget et ensuite de voir comment
+améliorer ton copywriting de voir
+comment faire en sorte que cette pub
+elle convertisse mieux en fonction des
+requêtes que tu as choisi plutôt
+ensuite tu vas pouvoir choisir l'URL
+vers laquelle tu veux renvoyer avec
+cette pub et cliquer sur
+Next ensuite la troisème et dernière
+étape ça va être de choisir un budget
+pour votre pub et donc là google va vous
+faire des recommandations j'en parle un
+peu plus longuement dans la dans la
+vidéo principale de ce module en général
+ce qui vous propose c'est des budgets
+qui sont adaptés à ce que la concurrence
+paye pour les motsclés que vous avez
+choisi là il se trouve que j'ai choisi
+des mots-clés qui sont quand même pas
+très très recherchés monter sa boîte
+créer unere entreprise finalement on a
+vu dans la vidéo sur comment trouver les
+bons mots clés que c'était pas des
+recherches qui étaient effectué très
+souvent en France et donc bah j'ai un
+budget qui est quand même plutôt faible
+mais qui devrait me rapporter une
+certaine performance donc tu peux
+choisir ce que tu veux tu as un budget
+qui est journalier et tu peux choisir
+d'arrêter ta pub quand tu veux donc ça
+te permet de définir un budget max donc
+ici on a 274 € par mois maximum si tu
+veux choisir de faire ta pub pendant une
+semaine donc ça fait 9 x 7 63 pour 63 €
+vous avez vous avez une semaine de Bub
+qui tourne et donc vous pouvez voir déjà
+si ça vous fait de la
+conversion ensuite vous faites
+next vous allez voir une un
+récapitulatif de tout ce que vous avez
+mis en place donc là vous voyez la pub
+que vous avez faite vous voyez que là ça
+s'est cropé donc c'est bien ce que je
+vous disais tout à l'heure sur les Devic
+c'est que Google va choisir de faire
+apparaître certains éléments ou pas vous
+avez la localisation vous avez votre
+goal principal vous avez les mots clés
+que vous voulez targetter vous avez
+votre budget et vous pouvez faire next
+pour valider votre campagne une fois que
+c'est fait votre campagne elle est en
+pending elle est under review en général
+Google vous le dit ça prend à peu près
+une journée ça peut être moins que ça et
+une fois qu'elle est lancée et ben votre
+campagne va commencer à tourner et vous
+allez pouvoir revenir ici sur votre
+dashboard de cette campagne là pour
+regarder le nombre d'impression donc le
+nombre de fois où le lien a été montré à
+des gens le nombre de clics l'argent que
+vous avez dépensé et c'est à vous de
+traquer derrière si cette campagne là
+elle vous a rapporté de la conversion
+pour ça vous utilisez Google Analytics
+pour voir s'il y a eu des conversions
+par rapport à tout ça vous pouvez même
+pluguer Analytics directement ici il y a
+des tutos qui sont très très bien faits
+mais là je pense que vous avez pigé
+comment mettre en place votre première
+annonce Google ad c'est très simple
+encore une fois ça n'est qu'une histoire
+d'itération il faut s'y mettre il faut
+tester il y a un minimum de budget qui
+va être passer à la poubelle que vous
+allez cramer juste pour tester et
+trouver des values proposition qui vont
+fonctionner préparez-vous à ça c'est
+pour ça que je dis dans la vidéo
+principale qu'il faut avoir un budget
+pour faire du SM à la base parce que
+c'est très difficile de se dire je vais
+démarrer avec 10 €. si vous créez un
+compte et que vous attendez un petit peu
+c'est même possible que Google vous
+envoie par la poste des avoirs de 75 €
+pour tester votre première pub c'est
+peut-être une manière pour vous de vous
+lancer si vous avez pas du tout de
+budget en tous les cas vous pouvez
+tester ça va vite c'est facile et c'est
+hautement euh précis en terme de mesure
+donc il y a moyen d'en faire quelque
+chose de fort il y a moyen d'en faire un
+vrai canal d'acquisition au service de
+votre business ça peut aussi être
+quelque chose qui vous permet de tester
+des mots clés avant de les optimiser en
+SIO et donc là je vous renvoie au module
+sur le SEO j'espère que ça vous aura plu
+j'espère que vous aurez compris que
+c'est à votre portée et que il y a moyen
+de se lancer dans les Google Ads dans le
+SM parce que bah le seul truc qu'il faut
+c'est le faire bon courage

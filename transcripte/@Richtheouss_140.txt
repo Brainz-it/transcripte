@@ -1,0 +1,3056 @@
+faire une boîte tech en 2018 c'est pas
+avoir une armée de dev qui développe une
+technologie incroyable c'est utiliser la
+tech qui existe et la mettre au service
+de la résolution de ton
+problème la première question c'est
+pourquoi on crée un produit la
+principale raison pour laquelle on crée
+un produit c'est pour
+décorréler l'argent du temps on dit tout
+le temps l'AR le temps c'est de l'argent
+le temps c'est de l'argent machin mon
+cul en fait tous les gens riches à qui
+vous allez pouvoir parler dans votre vie
+ils vont vous dire écoute le temps c'est
+de l'argent c'est chouette mais c'est un
+truc qu'on dit au salariés de boîte pour
+que il travaille plus pour gagner
+plus grosso modo le truc c'est que
+travailler plus pour gagner plus c'est
+complètement con parce qu'on peut pas
+devenir riche juste en ayant une courbe
+linéaire ça c'est un truc que donousama
+a déjà parlé dans les conférences
+précédentes la vérité c'est qu'en fait
+il faut travailler moins et gagner plus
+et comment tu fais ça bah tu automatises
+des actions qui ont de la valeur pour
+les gens tu crées un produit et en fait
+tu passes d'un système
+où tu travailles tu donnes de ton temps
+pour gagner de l'argent donc par exemple
+ça marche quand tu es salarié tu donnes
+de ton temps tu gagnes un salaire en
+échange ça marche encore plus c'est
+encore plus flagrant quand tu es
+freelance par exemple quand tu es
+freelance en fait tu viens tu viens voir
+la personne tu lui dis
+salut enfin pour moi par exemple je
+viens salut je vais te faire tel produit
+je vais te le créer enfin voilà tu sais
+je vais te créer ce produit là je suis
+payé tant la journée est-ce que ça
+t'intéresse oui non et voilà en fait le
+truc est là je suis payé tant la journée
+et si je fais 3 jours B je suis payé TR
+fois plus si je fais 10 jours je suis
+payé 10 fois plus mais en fait à la fin
+du truc à la fin du contrat bah c'est
+terminé et je passe à un autre truc et
+je passe à un autre contrat je passe à à
+un autre produit sur lequel je travaille
+et en fait je capitalise pas sur le
+travail que j'accomplis éventuellement
+je vais capitaliser sur les clients que
+j'ai chopé euh il y en a qui vont
+revenir il y en a qui vont me
+recommander à d'autres donc
+potentiellement ça va m'amener plus de
+business et cetera mais si je veux
+grossir avec une boîte de service le
+seul moyen que j'ai de le faire c'est de
+recruter plus de gens et recruter plus
+de gens ça implique d'avoir plus de cûts
+donc en fait tu vas gagner de l'argent
+linéairement et tu vas juste continuer à
+vendre ton temps à plus de gens et tout
+le monde est tout le monde est content
+c'est une très belle manière de faire
+une boîte mais il y a une autre manière
+de faire une boîte qui est la manière
+des start-up la manière qu'on voit tous
+et qu' qu'on qui nous fait un peu rêver
+quoi c'est qu'au final tu bosses un peu
+de ton temps tu passes ton temps à créer
+un produit que les gens vont aimer ce
+qui est le l'intitulé de cette conf à
+créer un produit que les gens vont aimer
+et une fois que les gens aiment ce
+produit bah ils vont en parler à
+d'autres et tu travailles pas plus et il
+y a d'autres gens qui vont venir et
+utiliser ton produit il y en a de plus
+en plus de plus en plus de plus en plus
+et l'objectif qu'on vise c'est d'avoir
+une croissance exponentielle de gens qui
+vont se parler de ton produit tout le
+temps tout le temps tout le temps et que
+toi en fait tu travailles pas plus pour
+gagner plus tu travailles juste autant
+pour pour gagner plus quoi finalement et
+ça implique que ça scale en fait un
+produit la différence entre un service
+et un produit c'est que ça scale
+euh la vérité c'est que ce que tu fais
+toi c'est c'est c'est possible de mettre
+en place un produit alors que tu avais
+un service à la base d'ailleurs c'est
+souvent un truc qui se fait c'est
+souvent un truc qui se fait les plus
+belles boîtes qu'il y a en ce moment
+elles ont été créées comme ça par
+exemple tu prends uber
+uber aujourd'hui la promesse c'est quoi
+la promesse c'est tu pousses un bouton
+sur ton téléphone et tu as une bagnole
+qui arrive devant toi et qui t'emmène où
+tu veux c'est stylé c'est le futur tu
+vois en C tuit le futur il y a 5 ans
+aujourd'hui en fait tu pousses un bouton
+et puis il y a un mec qui arrive dans le
+quart d'heure et puis peut-être qui va
+t'amener chez toi mais tu es pas sûr tu
+vois gen c'est un peu plus compliqué
+qu'il y a 5 ans la valeur proposée est
+quand même moins moins intéressante
+c'est sûr mais il y a plein de
+concurrents et cetera la valeur est
+super chouette à la base ber comment ça
+a été créé
+ber ça a été créé par de Gus qui ont eu
+l'idée qui se sont dit vas-y c'est bien
+il faut qu'on presse un bouton et qu'il
+a une voiture qui arrive ok tu peux
+avoir l'idée c'est cool ça pareil ça a
+été évoqué par dans la conf sur les
+idées comment tu fais pour le mettre en
+place il y a deux approches il y a une
+première approche qui est je vais
+trouver un dev ou alors je sais coder
+moi-même et je vais le mettre en place
+euh je vais trouver un dev je vais
+développer une application je vais aller
+recruter des dizaines de chauffeurs
+parce que s'il y a pas assez de
+chauffeurs comment je fais gen a il y
+aura pas assez d'offres les gens ils
+vont pas prendre mon service ce sera pas
+bien euh je vais donc développer une
+application de géolocalisation trouver
+des chauffeurs faire un algorithme de
+mise en relation que s'il y a un
+chauffeur qui accepte
+pas non ça marche pas en fait cette
+méthode là elle marche pas et pourtant
+c'est la méthode que 90 % des gens que
+je vois et à qui je donne des conseils
+sur comment créer un produit utilise
+c'est cette méthode là et cette
+méthodeel elle marche pas la vraie
+méthode qu' a utiliser
+c'est qu'ils ont pris leur téléphone ils
+ont trouvé des premiers chauffeurs même
+c'était eux les premiers chauffeurs ils
+ont pris leur téléphone il y avait des
+gens qui appelaient un numéro uber qui
+leur disaient salut je voudrais un un
+taxi à cet endroit-là les mecs se poai
+dans leur caisse venaent et amenaient
+les gens d'un point A à un point B et
+quand c'était et quand c'est devenu un
+tenable pour eux de le faire parce
+qu'ils avaient un super service parce
+qu'ils donnaient des bouteilles d'eau
+parce qu'ils étaient sympathiques parce
+qu'ils expliquaient la vision de la
+boîte et cetera quand c'est devenu
+intenable pour eux de le faire bah ils
+ont commencé à chercher d'aut d'autres
+clients enfin d'autres clients et
+d'autres chauffeurs surtout pour
+augmenter leur offre et puis
+progressivement ils sont rendu compte de
+tous les problèmes qu' pouvaient y avoir
+parce qu'ils étaient au téléphone ils
+étaient derrière le truc toi aujourd'hui
+c'est cool tu as tu appuies sur un
+bouton et tu te dis genre ah le gars il
+arrive dans 4 minutes la vérité c'est
+que les mecs de beur à la base quand
+quand on les appelait les gars ils
+demandaient vous êtes là dans combien de
+temps c'est pas forcément un truc auquel
+ils auraient pensé ils auraient pas
+forcément pensé à mettre un compteur de
+ça fait c'est dans 4 minutes que
+j'arrive c'est dans 3 minutes que
+j'arrive c'est juste que les gens ils
+devaient les harcelé s'il mettait plus
+de 20 minutes à arriver il recevait des
+messages des SMS qui disaient e
+qu'est-ce que tu fous ça traduit quoi ça
+traduit une frustration du côté du user
+qui te dit putin si tu mets trop de
+temps à venir je suis frustré ça te
+permet de mesurer mais mais sans avoir à
+faire du tracking incroyable ça te
+permet de mesurer juste de tête et de
+voir ok entre 15 et 20 minutes d'attente
+les gens pètent un plomb et ça devient
+le standard de ton service parce que tu
+as observé tu peux pas juste le faire
+comme ça genre je lève mon doigt et je
+je touche je goûte le vent et ça marche
+pas tu vois
+donc ce truc c'est c'est c'est
+révélateur de comment tu crées un
+produit et
+de et d'en fait choisir ce que tu crées
+comme produit et c'est ça qui est
+important c'est c'est c'est c'est la
+deuxième partie sur laquelle je sur
+laquelle je voulais insister c'est qu'en
+fait choisir quel est ton
+produit vous par exemple choisir quel
+est ton produit c'est aussi important
+que de bien le faire c'est ce qu'on
+appelle l'idée tu vois genre souvent on
+appelle ça l'idée genre ouais j'ai eu
+mon idée machin mais en fait l'idée
+c'est pas l'idée c'est qu'est-ce que tu
+veux faire qu'est-ce que tu veux amener
+au marché et cetera mais en fait ce qui
+est hyper important c'est de choisir
+quel est le produit et de savoir s'il
+répond à une problématique réelle chez
+des personnes et en fait ce travail là
+c'est le travail d'un designer et être
+un designer c'est ce que tout CEO de
+boîte devrait être fondamentalement être
+un designer ça veut pas
+dire je sais faire des trucs en 3D je
+sais faire du graphisme je sais utiliser
+Photoshop je sais faire utiliser
+Illustrator et cetera être un designer
+ça peut être déjà sur une palette de
+skill qui est super large parce qu'en
+fait il y a des designers de plein plein
+de choses différentes mais surtout c'est
+c'est surtout être capable d'observer le
+monde d'une manière différente des
+autres en fait être designer quand quand
+tu apprends à être designer quand tu si
+un jour en je sais pas il y en a d'entre
+vous qui sont designer ou pas ouais
+quand ok ok cool quand quand quand tu
+quand tu apprends à être designer un des
+premiers trucs qu'on t apprend c'est en
+fait à réfléchir à à ta manière
+d'aborder des problématiques
+différemment tous ces trucs de think
+outside the box et tout ça ça sort pas
+de nulle part quoi c'est des trucs qui
+en fait sont sont très très utilisés en
+design et qu'on et qu'on et qu'on répète
+à longueur de journée parce que c'est
+vrai think outside the box ça te permet
+de prendre du recul sur un problème d'en
+identifier la source la source la plus
+profonde et de régler ça plutôt que de
+régler le problème superficiel
+typiquement un des premiers problèmes
+qu'on te pose quand tu arrives en école
+de design euh c'est qu'en fait on
+dit comment tu aborderais la
+problématique de designer une
+voiture donc toi tu arrives et tu fais
+bah designer une voiture il y a un
+pare-brise des portières des vitres
+elles sont électriques peut-être je vais
+mettre la clim il y a un moteur enfin je
+disig une voiture quoi genre c'est tout
+ça et en fait tu dois apprendre à casser
+tout ça et à comprendre que designer une
+voiture c'est comprendre ce que ça fait
+passer 2 he par jour dans 1 m
+C et et qu'est-ce que ça implique sur
+ton sur ton psyché sur ton sur ta
+psychologie sur qu'est-ce que tu fais
+dans ta journée le matin tu te lèves tu
+bois ton café tu manges ton croissant
+éventuellement si tu as de la chance tu
+vois ensuite tu rentres dans ta caisse
+tu imagines si ton expérience de passer
+2h dans 1 m³ pour aller au taf elle est
+toute pourrie ta journée elle est niquée
+ta journée elle est toute pourrie aussi
+et c'est ça créer une expérience c'est
+ça être un designer c'est arriver à
+prendre le problème de base qui est je
+veux créer quelque chose et d'arriver à
+le transformer en quelque chose de plus
+méta et de plus proche des gens vous
+voyez ce que ce que je viens de
+faire je viens de de d'essayer de faire
+un exercice qui fait qui te permet
+d'avoir de l'empathie en fait qui te
+permet de travailler sur ton empathie
+c'est de réfléchir à quelle est la
+situation dans laquelle la personne
+utilise ton produit pour une voiture
+c'est facile genre tout le le monde a le
+truc mais en fait le chemin le
+cheminement de pensée qui est il se lève
+le matin il est fatigué il a les yeux
+qui piquent c'est galère il prend son
+café c'est un peu moins galère mais
+après bon voilà c'est c'est c'est
+toujours c'est toujours compliqué et
+puis il avance il descend dans son
+garage il ouvre son garage il monte dans
+sa voiture tout ça c'est des petites
+actions qui en fait peuvent te faire
+prendre conscience de tout un tas de
+choses et de faire comprendre des
+petites problématiques des petits trucs
+que tu dois régler pour euh bah pour
+choisir quel produit tu crées et
+qu'est-ce que tu apportes comme valeur
+aux
+gens c'est hyper important d'observer
+tout le temps tout le temps tout le
+temps et et ça va avec un truc qui est
+euh un truc qu'on répète tout le temps
+et qui qui est un peu flou et
+qui c'est c'est c'est c'est devenu
+chiant c'est devenu chiant parce que
+tout le monde te dit quand tu crées un
+produit quand tu lances ta start-up tout
+le monde te dit parle à tes
+users parle à tes user ça veut rien dire
+genre quoi tu parles à tes users ouais
+ok bah des fois j'en croise dans la rue
+et je leur parle tu vois et en fait bah
+ouais c'est ça c'est ça le truc et
+parler à tes users si c'est si compliqué
+c'est parce qu'en fait il y a pas
+tellement de technique qui te permettent
+de parler à tes users
+là on on on parlait justement
+de du fait que coup d'État ce soit un
+produit qui est en création que cette
+conférence soit en cours d'élaboration
+euh et en fait ça tombe bien parce que
+moi je suis en train de parler à mes
+users tout le temps et mes users bah
+c'est certains d'entre vous il y en a il
+y en a il y en a que que je vois
+régulièrement il y en a que je vois que
+à qui je avec qui je discute et cetera
+parler à tes users en fait
+c'est tu vois quand tu es au collège et
+que tu veux draguer tu es une meuf un
+mec tu es ce que tu veux tu veux draguer
+B en fait tu vas envoyer des messages
+aux gens et leur dire salut ça va et
+c'est tout en fait tu vas pas commencer
+à essayer de les de faire une technique
+d'approche un truc un machin tu vas
+juste dire salut ça va et et la
+meilleure technique d'approche bon
+peut-être pas quand tu es au collège
+mais un peu plus tard la meilleure
+technique d'approche pour draguer
+quelqu'un c'est pas de venir le voir et
+d'essayer de lui dire e je te drague
+c'est de lui dire salut ça va et et
+d'être vraiment intéressé par la réponse
+est-ce que ça va est-ce que est-ce que
+et cetera et en fait parler à ces users
+en tant que designer en tant que je dis
+designer mais c'est pas le côté métier
+c'est vraiment le côté l'approche que
+vous devez avoir pour pour savoir quel
+produit vous voulez créer en tant que
+designer quand tu vas parler à quelqu'un
+tu veux juste parler et en fait faire
+aller aller poser suffisamment de
+questions pour creuser au plus profond
+quels sont les problématique auquell la
+personne fait face et pouvoir du coup
+agir par agir dessus
+quoi parce que si vous vous pointez et
+que vous venez et que vous venez dire
+aux gens
+salut j'ai une
+solution qui te permet de géolocaliser
+tes
+potes et de leur envoyer des messages
+géolocalisés tu trouves ça chouette vous
+voyz que les gens ils vont vous dire
+quoi les gens ils vont vous dire oui
+parce que déjà la base du truc la base
+de de de faire du du user testing mais
+de toute manière de parler à tes
+utilisateurs de manière générale c'est
+que les gens mentent tout le temps la
+base c'est que les gens mentent tout le
+temps c'est super triste mais c'est
+comme ça tu as des catégories de
+personnes des catégories des des cibles
+sur lesquelles tu peux tu peux aller
+target é où il mente pas c'est un luxe
+énorme par exemple moi j'étais le
+cofondateur d'une boîte qui s'appelle
+menu nexdor enfin qui s'appelait menu
+nextdor et qui mettait en relation des
+chefs amateurs ou professionnels qui
+cuisinent chez eux et qui permettaient
+au aux gens de de venir prendre les
+plats emportés donc en fait au lieu
+d'aller te taper un un sushi ou un vieux
+kebab bah tu aller chercher un un un
+plat stylé un tajine de je sais pas quoi
+chez ton voisin tu prenais un petit
+verre chez la personne et tu et tu
+revenais et tu tu prenais et tu mangeais
+ton plat chez toi tu étais
+content quand tu parles à des chefs à
+des chefs cuistau professionnel ils
+mentent pas ils mentent pas ils ont pas
+le temps tu vois ils sont en train de
+cuisiner comme ça ils sont là genre
+entre entre deux découpes et ils disent
+ouais mec c'est de la merde ton idée je
+m'en BC et toi tu es là genre ok ça
+marche je reviendrai plus tard tu vois
+c'est trop bien c'est un super luxe
+pouvoir se faire dire non par tes users
+c'est un super luxe parce qu'en fait la
+réponse de base que tout le monde va
+vous donner quand vous vous allez leur
+demander est-ce que ça ça t'intéresse
+c'est h c'est intéressant c'est
+intéressant c'est le truc que les
+américains ils disent pour te dire ouais
+ta gueule tu vois genre c'est c'est le
+truc genre tout le monde est tout le
+monde te dit ouais c'est intéressant
+parce que ça t'engage à rien dire c'est
+intéressant c'est genre
+dire c'est intéressant mais pas pour moi
+tu vois genre la meuf qui te dit ouais
+il est mignon mais pas pour moi tu vois
+c'est que c'est que tu as raté un truc
+c'est que genre il y a un truc qui va
+pas et ça marchera pas et en fait il
+faut trouver du vrai bah comme pour les
+meufs faut trouver du vrai consentement
+du vrai constantement ça veut dire genre
+si tu viens voir la personne et que tu
+lui dis est-ce que tu es prêt à payer 20
+balles pour ce truc et qu'elle te dit
+ouais c'est intéressant bah c'est que
+non quoi il faut il faut arriver à
+casser ce truc de les gens te ment tout
+le temps et arriver à les faire démentir
+parce qu'en fait ils mentent pas parce
+que c'est des menteurs ils mentent parce
+que ils veulent te faire plaisir il
+monre par que c'est des animaux sociaux
+genre ils ont ils ont il y a il y a un
+truc qui qui moi me fascine euh dans
+dans le comportement humain c'est qu'en
+fait si tu veux genre un un un des des
+des des des réseaux de notre plaisir de
+des trucs qui nous font plaisir c'est
+euh enfin une hormone qui est libérée
+quand on quand on pour nous faire
+plaisir c'est la dopamine la dopamine
+c'est ce que tu c'est ce que tu as c'est
+c'est un c'est une hormone qui est
+libérée quand tu reçois une notifce sur
+ton téléphone et que tu te dis oh j'ai
+une notif c'est quoi tu regardes et puis
+c'est SFR qui t'envoie un message tuas
+le se tu vois en fait làas eu un shot de
+dopamine qui dit W c'est trop bien il va
+se passer un truc de ouf et pu en fait
+il s pas passer un truc de ouf donc ah
+ça retombe ça retombe et il y a un des
+comportement donc la dopamine ça sert en
+fait à à créer des comportements che
+chez l'être humain je dis ça sert parce
+que c'est vraiment un truc évolutif ça
+sert à créer des comportements chez l'êt
+humain qui vont lui permettre de
+survivre si tu prends nous dans cette
+pièce mais il y a il y a 100000 ans
+euh donc début d'Homo sapiens
+machin la vérité c'est qu'en fait tu
+étais dans ta grotte avec ta famille
+tranquille au calme et en fait tu sors
+de là et tu te fais attaquer par un par
+par des TIGR à dans de sabre quoi bon
+c'est pas vrai mais mais mais l'idée est
+là c'est qu'en fait c'est super
+dangereux de se balader tout seul quand
+tu es à la Préhistoire quand tu es un
+être humain à la Préhistoire se balader
+tout seul c'est hyper dangereux donc qui
+sont les gens qui survivent qui qui est
+favorisé par Darwin c'est les gens qui
+sont capables de se mettre en groupe les
+gens qui sont capables de se mettre en
+groupe c'est eux qui sont capable de
+faire plaisir aux autres d'être accepté
+par les autres et donc tous les gens qui
+ont survécu à l'époque de la préhistoire
+c'est des gens qui en fait recevaient
+des chotes de dopamine donc des
+récompenses hormonales quand les gens
+acceptaient ce qu'il disait quand les
+gens étaient d'accord avec eux et en
+fait c'est un vrai truc c'est un truc
+sur lequel tu peux agir toi genre là
+maintenant tu peux commencer à à prendre
+conscience de ça et agir dessus et et
+c'est fascinant c'est fascinant parce
+qu'en fait qu'est-ce qui s'est passé
+après c'est que en 2000 ans bon après il
+y a eu tout l'agriculture machin mais en
+2000 ans l'environnement a évolué
+tellement vite que l'évolution est
+passée complètement à la trappe parce
+que si aujourd'hui euh
+euh les les les plus
+euh les les les plus faibles d'entre
+nous euh mourraent dans notre société à
+nous occidental par que c'est un voilà
+ça saurait
+euh mais en fait ce mécanisme là qui est
+préhistorique qui dit que quand
+quelqu'un est d'accord avec toi tu es
+content il existe toujours mais il sert
+à rien parce qu'aujourd'hui tu peux très
+bien vivre ta vie en hermite passer
+toute ta vie dans ta chambre à te faire
+livrer les délirou et à parler à
+personne et tu survis et en fait ce truc
+est toujours là et si les gens vous
+mentent c'est parce qu'ils ont un shot
+de dopamine quand il quand il quand vous
+quand ils sont enfin c'est parce qu'ils
+veulent que vous vous ayez un chot de
+dopamine quand ils vont vous dire ouais
+je suis d'accord avec toi parce qu'ils
+savent que c'est la manière normale de
+se faire accepter dans un groupe et tout
+le monde veut veut que les gens soient
+d'accord avec eux tu vois tu sais c'est
+ce pot qui tant que tu es d'accord avec
+lui il est trop sympa et le jour où tu
+es pas d'accord avec lui il t'insulte
+ouais mais tu comprends rien oui ben je
+comprends rien mais c'est parce que tu
+as tu as tort tu vois ouais mais non
+mais tu comprends pas machin mais c'est
+ça c'est qu'en fait les gens ils ont
+tout le temps envie de leur shot de
+dopamine et ça ça
+ça se contre ça se contre et tu peux
+aller creuser poser les bonnes questions
+et faire preuve d'empathie faire preuve
+d'empathie et savoir poser les bonnes
+questions à à tes users pour savoir ce
+que tu dois
+créer une fois que tu tu décides quel
+quel produit tu dois
+créer tu observes un comportement ok je
+vais prendre un exemple que je connais
+bien du coup ça ça va être menu next
+door menu next door le comportement
+qu'on observe c'est
+les gens mangent tro fois par
+jour ce qui est déjà un bon début genre
+une action que tout le monde fait trois
+fois par jour universellement il y en a
+pas un
+milliard donc c'était déjà pas mal et
+les gens on ont marre de manger toujours
+la même chose les gens ont la flemme de
+cuisiner enfin tous les trucs que tu
+vois dans toutes les fot Tech qui
+existent tu vois comment tu fais pour te
+différencier quand tu crées une foot
+tech comment tu fais pour créer une
+boîte qui vaut des
+milliards une boîte qui va nourrir le
+monde entier
+à travers un réseau de
+cuisinier bah j'ai toujours pas la
+réponse si je l'avais je serai
+probablement pas là et je suis très
+content d'être là mais grosso modo
+comment tu fais une fois que tu as
+choisi ton ton idée comment tu crées ton
+produit pour créer ton produit donc on
+on va arriver à la troisème partie tu as
+deux choix soit tu as des
+dev et du coup tu passes tout un pan qui
+est compliqué de ah ouais mais il faut
+que j'attende d'avoir des devs pour
+commencer à coder ma plateforme et puis
+si j'ai pas de dev machin mais donc et
+en fait tu je vois des gens qui passent
+6 mois à chercher des devs qui en
+trouvent jamais parce qu'en fait trouver
+des devs c'est hyper compliqué si vous
+voulez trouver des devs euh allez où
+sont les devs quoi en fait
+fondamentalement les dev ils sont où
+aujourd'hui à Paris ils sont au wagon
+shoutout euh ils sont au wagon ils sont
+dans les conférences de
+dev et ils sont chez eux quoi comment tu
+trouves des dev bah soit tu passes du
+temps avec des dev tu t'intéresses à ce
+qu'ils font la plupart du temps c'est
+des gens qui sont suffisamment
+passionnés et persévérant parce que il
+faut s'accrocher hein pour faire du dev
+faire du dev c'est des hauts et des bas
+constants mais constant genre tu te
+lèves le matin tu commences à coder un
+truc tu es trop content de toi parce que
+c'est
+stylé tu ip ton truc et ça bug et en
+fait tu passes 10 % de ton temps en tant
+que dev je diverge là-dessus parce que
+c'est important de comprendre l'état
+d'esprit d'un si vous voulez en recruter
+un jour tu vois
+c'est tu passes 10 % de ton temps à
+coder des vrais trucs à mettre en place
+ton produit à créer ce qui est cool à
+styler pour que ce soit beau si
+éventuellement tu fais ça à affiner ton
+tes algorithmes tes trucs tes machins et
+tu passes 90 % de ton temps à débugger
+mais tout le temps temps tu es tout le
+temps en train de débuger et quand tu as
+réglé un bug ça crée un autre bug à côté
+et puis quand tu règles l'autre bug ça
+crée deux autres bugs à côté et c'est
+insupportable et tu es tout le temps là
+et tu te dis ah mais c'est un enfer
+c'est un enfer et puis quand il est 3h
+du math que tu es complètement défoncé
+de fatigue et que tu te dis bon je vais
+me coucher parce que là ce problème il
+est irrésolvable c'est impossible je
+trouverai jamais tu vas te coucher tu
+dors 6h tu te le matin et tu fais
+j'avais oublié un
+pointvgule et tu as perdu 6h de ta
+journée à juste pas avoir un pointvgule
+parce que tu la tête dans ton code et du
+coup chot de dopamine était là genre ou
+mais c'est trop bien si j'ai résolu ce
+problème là qui était irrésolvable je
+peux résoudre tous les problèmes de la
+terre allez go on est parti tu codes un
+truc 10 % de ton temps après ça bug et
+ça recommence des haut des bas tout le
+temps tout le temps tout le temps et du
+coup pour pour être dev et s'accrocher
+suffisamment longtemps pour devenir un
+bon dev ça veut dire 10 10 ans à faire
+que
+coder pour être un bon dev faut être
+hyper persévérant
+ou hyper
+passionné ou hyp sociopathe je sais pas
+ENF il faut forcément un truc un truc
+qui te drive quoi et et en fait c'est ça
+le truc donc si vous voulez un jour
+pouvoir parler à des dev il faut que
+vous vous intéressiez à ce qu'ils font
+un minimum c'est
+obligatoire c'est c'est la seule
+solution la seule solution c'est
+vraiment genre soit prendre un
+cofondateur qui qui qui comprenne ce que
+c'est qu'être un dev et qui comprennent
+tout ce que je viens de vous expliquer
+suffisamment profondément pour pouvoir
+dialoguer avec des dev constamment soit
+que vous vous le fassiez quoi soit vous
+fassiez ce travail là et que vous
+compreniez ce que ça implique d'être un
+dev et pouvoir leur parler et que quand
+il vient vous voir et qu'il vous dit
+écoute j'ai besoin d'un serveur Heroku
+et parce que si on rajoute des Dino pour
+soutenir la charge c'est hyper important
+et en plus ma stack elle est en Ruby
+donc il y a des plugins qui fonctionnent
+pas que vous le regardiez pas avec des
+grands yeux
+commeass parce qu'en fait c'est leur
+quotidien c'est leur quotidien et si
+vous êtes pas un minimum dans leur
+quotidien vous arriverez jamais à les
+recruter ça vous fait peur ou pas non
+bah alors soit vous faites
+ça soit si ça vous fait peur vous le
+faites pas et c'est la deuxième solution
+la deuxième solution c'est si tu as pas
+de dev prends pas de dev et démerde-toi
+et en fait on est en 2018 on on vit à
+une époque en 2018 où tu peux
+littéralement créer une boîte de zéro
+créer un produit qui fonctionne et
+monter à un million utilisateur tout
+seul tout seul sans sans sans
+connaissance de code ça dépend du
+produit évidemment si tu veux lancer une
+fusée tu arriveras
+pas comment tu fais comment on fait
+alors c'est parti non comment tu fais
+ben en fait tu bricoles il y a 1 million
+d'outils qui existent qui ont été créés
+par des gens qui codent et qui te
+permettent de mettre ça en
+place euh récemment il y a une boîte
+chez de Family qui est rentré et et et
+je les aime beaucoup ça s'appelle the
+toolbox the toolbox c'est un un service
+en ligne tu viens sur le site tu dis tu
+remplis un type form qui connaît pas
+type form ok cool tu remplis un type
+form tu dis voilà mes problématiques
+business c'est ça ça ça ça ça tu réponds
+à plein de questions pour qu'on
+identifie tes problématiques business et
+cetera donc type for premier
+outil derrière ça rentre dans un tableau
+Excel un un un Google sheets donc le
+typeformor est relié par zapier un
+Google sheet donc zapier c'est un truc
+qui crée des triggers donc tu peux dire
+quand le le type form a été rempli je
+veux que il y ait une ligne dans mon
+tableau Excel qui soit ajoutée ça tombe
+dans ce tableau Excel ce tableau Excel
+il
+analyse enfin eu eux l'analysent à la
+mano quoi ils regardent ils font ah il y
+a eu cette demande là eux ils ont des
+corrélations entre les réponses et et
+les outils qu'il peuvent proposer et il
+te propose en fait des outils pour
+justement mettre ton business en
+place bon c'est un peu Inception ce que
+ce que je viens de dire parce que c'est
+ça fait deux exemples en un le premier
+exemple c'est que un vous pouvez
+utiliser the toolbox pour aller trouver
+les outils qui vont vous être utiles
+pour pas avoir à coder et créer votre
+produit et deux vous pouvez faire comme
+eux vous pouvez juste sans coder une
+seule ligne les mecs savent pas coder
+hein ils savent pas coder et pourtant
+ils ont un site tu viens dessus c'est
+stylé genre tu arrives et tu rendes tes
+trucs et c'est bien fait machin et puis
+à la fin tu reçois un mail une
+demi-heure plus tard qui te dit ah on a
+analysé vos réponse et on vous on vous
+propose tel tel tel et tel outil à
+mettre en place de telle telle telle et
+telle manière et en plus si vous voulez
+on peut vous aider à les implémenter on
+fait aussi du consulting Booum tu rendes
+du cash Booum tu observes ce que les
+gens font de ton produit tu parles à tes
+users parce qu'en fait parler à ses
+users je reviens c'est prendre n'importe
+quelle opportunité de rencontrer
+quelqu'un qui utilise ton produit de
+près ou de loin ou qui devrait
+l'utiliser selon toi et et causer avec
+lui tout le temps tout le temps voir ses
+problématiques c'est possible c'est
+possible vraiment de mettre en place des
+boîtes qui qui qui nécessite pas une
+seule une seule ligne de code et qui
+peuvent devenir après des boîtes des
+boîtes tech et cetera menu nextdoor
+c'est un bon exemple de ça menu next
+door c'est eu un gars qui est belge qui
+s'appelle Nico et qui qui a à 30 ans se
+dit bon je vais recréer une nouvelle
+boîte tu sais le le storytelling c'est
+ouais j'étais chez ma tante aux
+États-Unis euh et j'ai vu qu'en fait
+elle avait un pot de fleur sur sa plaque
+à gaz euh et qu'elle cuisinait jamais
+parce qu'en fait à Thanksgiving
+pas de sens à Thanksgiving il y a la
+voisine qui cuisine une dinde
+gigantesque et en fait elle fait des
+plats emportés et tout le monde vient
+chercher les plat chez la voisine pour
+Thanksgiving et tout le monde est hyper
+content ça c'est le storytelling ça
+s'est jamais passé dans la vraie vie en
+fait enfin si sont probablement passé
+mais c'est pas ça l'idée l'idée c'est je
+veux faire une boîte qu'est-ce que je
+fais et en fait il s'est dit je veux
+faire une boîte de plat emporté il y en
+a marre de tout ce truc de livraison je
+veux pas vivre dans un monde où c'est
+Wolly tu sais genre tout le monde est
+gros comme ça fade dans son lit ils
+appuient sur un bouton ah je veux un
+délivreou bonjour Voilà il arrivve à ta
+porte et tu bouffes dans ton lit comme
+un porc comme ça je veux pas vivre dans
+ce monde là je veux que les gens se
+déplacent je veux que les gens se
+rencontent je veux que les gens
+discutent la bouffe c'est un vecteur
+social enfin voilà tu crées ta vision
+machin qu'est-ce que tu fais le mec est
+pas codeur pour un sous genref moi
+j'étais CPO chez MEnu nextd donc je
+gérais tous les DF je m'occupais de tout
+le design du produit chez MEnu
+nextd il a jamais compris un seul truc
+que je lui disais ça tombe bien j'étais
+son cofondateur et je m'occupais de
+cette partie là quoi
+comment il a fait il a créé un groupe
+facebook dans ce groupe facebook il a
+ajouté 60 de ses potes ses potes les
+plus proches ses potes où il est sûr que
+quand il leur parle et qu'il leur dit
+salut ça va ils lui répondent ce qui est
+déjà pas mal
+euh il crée un groupe facebook il met 60
+personnes dedans et il se barre à la
+ferme jusque là il se barre à la ferme
+et il commence à prendre des photos des
+selfies de lui avec des chèvres des
+selfies de lui avec sa pote qui all être
+la première chef menu next d'or en train
+de d'acheter du fromage en train
+d'acheter des épinards machin et il
+poste les photos au fur et à mesure dans
+le groupe puis dans le groupe du coup
+tout le monde tout le monde trouve ça
+marrant tu vois donc les gens ils
+mettent des commentaires ils disent ah
+marrant et alors la biquette vous la
+ramener à la maison
+lol tout le monde se marre tu vois wou
+on rigole bien quoi et euh et puis à 17h
+ils rentent chez eux ils continuent à
+faire des photos machin ouais Catherine
+elle est en train de mettre la tarte au
+four ah la tarte au four lol et puis ça
+continue et puis à la fin il met une
+photo et il dit voilà cette tarte chèvre
+épinard elle coûte 5 € elle est à venir
+chercher à telle adresse venez
+maintenant 27 commandes les gens se
+pointent c'est tous ses potes c'est tous
+ses potes 27 commandes les gens se
+pointent trop bonne ambiance oh c'est
+cool oh ils boivent un petit verre
+machin mais forcément ils sont tous pot
+ils boivent en verre tu vois ah trop
+cool machin ah mais c'est un super
+concept ah mais moi je connais quelqu'un
+qui cuisine super bien et qui devrait
+faire ce truc ah mais moi aussi ah moi
+aussi et la semaine suivante tu as trois
+chefs de plus et la semaine suivante tu
+as 350 personnes de plus dans le groupe
+facebook parce que tu as dit à tout le
+monde eh ajouterz vos potes ce sera cool
+et ça marche que parce que c'est tes
+potes ça marche que parce que c'est tes
+potes proches tu peux te permettre
+d'aller les voir et de prendre leur
+téléphone et de leur dire e donne-moi
+ton téléphone j'ajoute tous tes potes
+que je connais et je les mets dans le
+groupe et tu trouves d'autres manières
+de faire grossir ton produit quand à la
+base je parlais de de comment comment tu
+crées un produit sans coder une seule
+ligne ça ça a divergé sur comment créer
+une communauté c'est aussi
+important mais en fait menu next dooror
+à la base c'était un groupe facebook le
+seul truc qui différenciait menu nextor
+d'un autre group Facebook c'est qu'il y
+avait une cover avec le logo menu
+nextdor qui avait été fait en 7 minutes
+sur
+squarespace il a pris un logo the N
+project où c'était une cloche il l'a
+colorié en rouge et il a écrit menu next
+door en Pacifico en dessous et les gens
+ont tous fait genre il est super ce logo
+really hein genre ouis il est super ce
+logo tu
+vois ok tu vois mais c'est vrai il était
+super ce logo parce qu'en fait il
+représentait vraiment le le côté chaud
+le côté chaleureux qui qui pouvait y
+avoir un Bonu next door tu vois il
+marchait
+bien et le produit c'était quoi c'était
+Nico qui postait le soir pour le
+lendemain enfin qui postait les menus du
+lendemain sur le groupe facebook alors
+demain il y a Joris qui cuisine un
+burger de canard demain machin et les
+gens ils venaient et ils mettaient des
+commentaires et il disaient bonjour deux
+portions pour 19h30 s'il vous plaît et
+il venait et il payait en cash tu veux
+un produit qui scale mais tuas pas
+besoin et on est on on avait 25000
+personnes sur ce groupe avant de faire
+la transition sur le site c'est quand je
+suis arrivé quand qu'on a qu'on a
+commencé à faire la transition sur le
+site en même un peu plus tard parce que
+moi j'ai même bossé sur le groupe
+facebook on a commencé à essayer
+d'automatiser ce truccl là d'automatiser
+le groupe facebook comment tu fais pour
+générer des posts à la volée pour que
+les postes so publiés automatiquement
+aux bonnes heures et tout parce qu'on a
+eu des situations où avoir ce produit
+qui scalit pas qui était pas tout
+automatisé et parfait pour notre pour
+notre notre croissance et qui respectait
+pas forcément notre vision machin
+c'était un vrai problème on s'est
+retrouvé à des journées où on allait
+distribuer des flyers dans les rues de
+Bruxelles parce que commencé à Bruxelles
+du coup on a distribué des fers dans les
+rues de
+Bruxelles et il était 16h50 et on était
+là genre merde mais on a oublié de faire
+le poste pour demain les gens il vont
+pas pouvoir commander
+ouais mais on on n pas d'ordi et on
+allait à l'Apple Store et on se
+connectait sur l'ordi de l'Apple Store
+en Scade il y en avait un qui faisait le
+gay comme ça et l'autre qui était sur
+l'ordi genre je vais pénétrer le système
+tu vois et hop on créait notre truc on
+créait notre poste et on le publiait
+depuis l'Apple Store on avait pas le
+choix tu veux un produit qui scale mais
+mais non tu vois genre ça marchait sans
+ça ça marchait sans ça et ça ça à la
+fois son l'utre problème parce que voilà
+tu es en galère tout le temps tu dois
+tout le temps être présent pour pour
+poster si tu fais une boîte de service
+tu dois tout le temps être là pour que
+pour répondre au téléphone tu dois enfin
+tu vois c'est c'est c'est compliqué
+j'aurai un autre exemple après mais en
+fait le truc c'est que tout ce qui te
+paraît compliqué et et qui est compliqué
+à faire parce que tu as pas créer ta te
+tu as pas embaucher ton dev dépenser
+6000 balles de freelance pour créer une
+plateforme qui est un peu bancale et que
+en fait dont personne ne veut tout ça
+c'est
+compensé parce que tu comprends plein
+plein de choses
+genre quand tu mets ton numéro de
+téléphone dans le SMS que tu envoies à
+la personne qui vient de commander sur
+le groupe facebook quand tu mets ton
+numéro de téléphone et que la personne
+elle t'appelle et qu'elle te dit
+eh je suis arrivé devant chez la
+personne là mais
+euh il y a pas de sonnette
+ah donc tu appelles le chef tu dis eh il
+y a pas de sonnette chez toi mais si
+mais c'est parce qu'en fait mon nom il
+s'est effacé à cause de la pluie et et
+du coup voilà qu'est-ce que tu fais B tu
+me une étiquette menu nextdor sur toutes
+les sonnettes de tes chefs après tu
+crois que si tu avais fait un site à la
+base où les gens ils sétaient juste mis
+en relation tu les avais jamais vu de ta
+vie tu aurait su ce truc et c'est vrai
+pour plein plein de choses genre ah les
+sacs en papier qui fuit ah la sonnette
+ah le ce plat là il fonctionne pas parce
+qu'il est parce qu'il est froid une fois
+qu'il arrive et que je peux pas le faire
+réchauffer et et plein plein de petits
+trucs qui font que ce que tu trouves
+galère c'est do things that don scale
+quoi ce que tu trouves galère à la base
+euh
+en fait ça t'apporte énormément de
+choses et même ce qui est compliqué pour
+toi ce qui te prend du temps et tu te
+dis titin ça devrait pas me prendre
+temps de temps de faire ça ce qui
+devrait me prendre du temps c'est
+trouver des chefs c'est c'est de faire
+en sorte que la qualité sur le site elle
+soit meilleure c'est c'est d'organiser
+des événements pour rassembler la
+communauté et cetera ce qui devrait me
+prendre du temps c'est pas de modérer
+les commentaires parce que vu qu'on
+ajoute 500 personnes par jour dans le
+groupe il y a des fois un bot qui se
+glisse dedans et qui te fait des pubs
+pour du viagr dans les commentaires de
+toutes tes publications question depuis
+le début du groupe ça arrivait tout le
+temps tu te dis je devrais pas passer
+mon temps à ça mais en fait si tu passes
+ton temps à ça parce que quand tu seras
+gros tu vas pas le faire quand tu seras
+quand quand tu seras sur un quand ton
+groupe facebook il sera terminé et que
+tu auras une plateforme où les gens dès
+qu'ils ont fin ils commandent sur Menu
+next tu vas pas le faire donc fais-le
+maintenant tant que tu peux c'est ce
+truc de tu sais toutes ces boîtes qui
+vendent des produits physiques et qui
+dis ouais mais tu sais c'est pas
+nécessaire parce que team Cook il met
+pas des cartes postales écrites à la
+main dans toutes les boîtes d'iPhone
+qu'il envoie bah ouais bah du coup
+fais-le tu as l'opportunité pour une
+fois dans ta vie de faire un truc mieux
+que team Cook vas-y Go tu vois ton
+produit à la base c'est c'est c'est
+c'est tout c'est tout le package c'est
+toi c'est pour ça que Nico c'est ses
+potes et cetera c'est toi c'est le C que
+tu mets dedans et c'est ton produit mais
+s'il y a que ton produit ça fonctionne
+pas parce que forcément ton truc il est
+bancal à la base tu testes quelque chose
+tu testes un truc donc bah tu dois
+donner aux gens des trucs qui compensent
+quoi tu
+sais tu es obligé un autre bon exemple
+de ça d'une boîte qui était une boîte de
+service à la base et qui et qui
+progressivement
+ESS de
+transformer ces différentes activités en
+produit c'est the family the family à la
+base c'est une boîte de service the
+family à la base c'est ama dans un
+appartement tu viens le voir et et il
+défonce c'est pas dis comme ça c'est pas
+la meilleure value propre mais c'est ça
+qui se passait c'est qu'en fait tu
+arrivais tu disais euh voilà mon
+business c'est ça et ousama pendant 2 he
+il disait non ça ça va pas ça non plus
+ça non plus ça non plus ça non plus ça
+non plus et c'était du service c'était
+du consulting c'était du Consulting sur
+comment faire des start-up gratos et en
+fait progressivement bah quand il y a eu
+trop trop de gens qui se poinaient et
+que c'était impossible de faire du
+consulting en one Toone avec tout le
+monde bah il a bien fallu trouver un
+moyen de sker ça et en fait chaque
+partie de
+Family commence à se décorréer les unes
+des autres elles sont toutes sous le
+même chapeau mais en fait deviennent il
+y en a certaines qui deviennent des
+produits typiquement aujourd'hui la
+manière dont de Family lèvent des fonds
+pour ses start-up ça devient presque un
+produit
+parce qu'ils l'ont fait tellement de
+fois en mode service qu'ils ont pu
+observer les patterns tout le temps et
+c'est que ça c'est que observer des
+patternes et dire ah mais ça c'est c'est
+un truc que les gens font tout le temps
+et c'est super chiant on va leur enlever
+et ça c'est créer un produit et et et tu
+peux créer des produits comme ça et donc
+la manière dont the family lève des fond
+c'est startup c'est presque un produit
+parce que ils ont presque plus qu'à
+faire une fiche un outil de mise en
+relation et boum ça part et de toute
+façon la confiance elle est là tous les
+trucs de base auquel on pense pas tu
+vois c'est un c'est un c'est un bon
+exemple genre j'ai des
+des tu tu crées une plateforme de mise
+en relation euh
+entre investisseurs et startup pour que
+les investisseurs puissent puissent
+trouver les bonnes start-up dans
+lesquell investir et que les start-ups
+puissent trouver des gens qui peuvent
+leur donner du
+freak c'est quoi ton
+produit ton produit c'est un site web
+sur lequel euh
+les gens peuvent venir et avoir une
+liste de de de start-up dans laquelle
+ils peuvent investir non ton produit
+c'est la confiance que tu donnes à tes
+Vic qui vont trouver que des start-ups
+trop stylés et de l'autre côté c'est la
+confiance que pour tes start-up elles
+vont trouver un VI qui soit compétent et
+c'est toujours pareil il faut trouver
+les les les sous-jacentes qui sont pas
+forcément évidentes tu vois mais qui
+sont nécessaires c'est toujours pareil
+Airbnb
+Airbnb le produit c'est pas un site web
+sur lequel tu peux trouver des maisons
+dans lesquelles tu vas quand tu voyages
+Airbnb c'est un tiers de confiance parce
+que trouver des maisons dans lesquelles
+tu vas quand tu voyages il en a déjà il
+y a déjà des chambres d'utes il y a déjà
+des gites puis il y a déjà ton pote Gigi
+qui a une pote qui a une maison en
+Ardèche et tu peux aller voir tu
+vois mais en fait ça c'est chiant parce
+que quand tu te pointes dans une chambre
+d'ôut et qu'en fait ah mais on avait pas
+votre votre réservation et du coup c'est
+compliqué je sais pas trop comment on va
+faire bah c'est galère c'est hyper
+compliqué Airbnb le produit qu'il
+vendent c'est que c'est un tiers de
+confiance c'est quand tu arrives dans un
+Airbnb et que le gars il fait ouais j'ai
+pas eu ta réservation j'ai pas vu
+tuaelles Airbnb le mec se fait détruire
+et Airbnb te trouve un autre appart
+c'est ça le produit d'Airbnb c'est de la
+confiance tout le temps tout le temps
+tout le temps et c'est essentiel de
+comprendre quelle est la sous-jacente de
+ton
+produit plutôt que de penser à la à la
+technique c'est c'est c'est c'est ça le
+le gros truc et c'est pour ça que je dis
+que tu peux bricoler
+euh sans être dev et tu peux bricoler
+beaucoup beaucoup de choses parce que ça
+te force à faire ça ça te force à penser
+autrement que technique ça te force à te
+dire ok j'ai ce problème- làà comment je
+le résous le plus vite possible faire
+une boîte tech en 2018 c'est pas avoir
+une armée de dev qui développe une
+technologie incroyable c'est utiliser la
+tech qui existe et la mettre au service
+de la résolution de ton problème tout
+temps tout le temps tout le temps et
+c'est hyper important un des un des
+trucs qui qui me fascine c'est la
+capacité qu'on a à rendre des produits
+addictifs et si je dis la capacité qu'on
+a on de manière générale
+quoi c'est parce que vraiment c'est un
+truc qui se crée c'est pas un truc qui
+existe c'est pas genre c'est pas
+addictif par hasard tu
+vois le bon exemple c'est
+Facebook c'est de moins de moins en
+moins un bon exemple mais à la base
+c'est ça à la base Facebook c'est le
+truc où tu es tellement addicte que
+quand tu as 2 minutes de pause dans ta
+journée tu fais pom t F entrée et ça
+toutou Facebook et tu te dis genre ah
+mais ça fait trois fois de suite que je
+fais ça pourquoi je vais voir Facebook
+pourquoi je vais voir Facebook tout le
+temps pourquoi j'y reviens tout le temps
+pourquoi pourquoi j'ai besoin Instagram
+aujourd'hui ça va être Instagram tu vois
+c'est pareil pourquoi je reviens tout le
+temps sur Instagram pourquoi pourquoi je
+vais pas tout le temps sur Wikipédia
+lire des trucs qui vont qui m'apendraiit
+des vrais trucs pourquoi je vais voir
+des vidéos de chat pourri tu vois et en
+fait il y a une vraie raison il y a une
+vraie raison qui est qu'en fait ce dont
+je parlais tout à l'heure donc la la
+dopamine et tout le circuit de la
+récompense chez l'être humain et même
+pas chez l'être humain forcément
+euh ça fonctionne sur des produits comme
+celui-là en fait ça fonctionne en en
+quatre parties il y a c'est un c'est
+vraiment une boucle en fait
+ce ce ce pattern là cette matrice là
+elle a été créée par
+un merde je sais plus qui c'est mais
+c'est un qui a écrit un bouquin qui
+s'appelle hooked qui a un très très bon
+bouquin sur comment créer un
+produit lisez-le ça vaut vraiment le
+coup si si vous si vous vous posez des
+questions et je pense que si vous êtes
+ici aujourd'hui c'est parce que vous
+vous posez des questions sur comment
+créer un bon produit c'est un truc qu'il
+faut toujours avoir en tête en fait
+c'est que créer une addiction chez
+quelqu'un pour un produit ça se passe en
+quatre étapes la première étape c'est
+qu'il y a un trigger ce trigger c'est le
+truc qui va vous donner en envie de
+faire une action ok ce trigger ça peut
+être j'ai vu une affiche dans la rue ça
+peut être j'ai reçu une notification sur
+mon téléphone pour Facebook ça peut être
+je suis aux toilettes je m'emmerde j'ai
+envie de regarder mon téléphone ça c'est
+un trigger c'est une situation c'est un
+contexte c'est quelque chose qui vous
+donne envie de d'agir ok du coup si ça
+vous donne envie d'agir vous agissez
+vous faites une action cette action ça
+va être ouvrir votre téléphone ça va
+être ouvrir Instagram ça va être ouvrir
+Facebook et cetera cette action et c'est
+là que c'est hyper important et c'est là
+que tout le monde se plante c'est
+qu'elle a une reward une récompense
+variable et en fait c'est le variable
+sur lequel faut vraiment insister et
+c'est le variable qui marche
+toujours c'est qu'en fait tu passes d'
+d'un patterne où tu as une récompense
+genre tuouvre ton truc et tuas Facebook
+et voilà à un truc où tu sais pas ce que
+tu vas avoir et c'est pour ça tout à
+l'heure quand je parlais de tu reçois
+une notif sur ton téléphone tu es trop
+content shot de dopamine trop stylé tu
+regardes c'estes
+SFR bah en fait la probabilité que ce
+soit SFR qui t'a envoyé un message et
+que ce soit pourri elle crée une un
+mécanisme d'addiction chez toi parce que
+tu te dis quand ton téléphone sonne tu
+te dis h soit c'est un super pote et il
+veut qu'on sorte boire des bières soit
+c'est SFR mais j'ai trop envie de savoir
+j'ai trop trop trop envie de savoir
+quand tuouv Facebook c'est pareil tu
+sais quand tuouv Facebook ou quand tu
+ouvrees
+Instagram c'est jamais la même image qui
+apparaît genre faites le test là si vous
+ouvrez Instagram maintenant vous allez
+avoir la photo que vous avez vu en
+dernier qui était qui était en haut de
+votre fil et puis ça va se recharger et
+Bou c'est une nouvelle photo qui va se
+mettre à la place et c'est pour ça
+qu'ils font des algorithmes hyper hyper
+complexe c'est pour pouvoir te donner
+des contenus que tu as pas déjà vu tout
+le temps différent si tout TR fois de
+suite en un quart d'heure en haut tu
+auras jamais le même poste et même ton
+fil sera à chaque fois différent parce
+qu'en fait ils veulent que tu puisses te
+dire oh là là si ça se trouve va y avoir
+un truc intéressant dans mon facebook ça
+arrive de moins en moins parce qu'en
+fait Facebook c'est pété genre tout tout
+le monde tout le monde commence à se
+plaindre que facebook c'est en train de
+détruire la démocratie c'est pas faux
+tout le monde commence à se plaindre de
+plein plein de choses et moi la chose
+dont je me plains le plus c'est que sur
+mon Facebook
+il y a plus il y a plus il y a plus que
+des chats et des trucs pourris tu vois
+alors que je like même pas tu je trouve
+ça nul mais mais c'est des trucs qui
+sont tellement virux mais par contre ça
+marche comme il y a beaucoup de contenu
+de chat qui est produitah ils peuvent te
+donner une vidéo de chat différente à
+chaque fois que touves Facebook et les
+gens qui kiffent les vidéos de chat ils
+sont hyper addictes à Facebook et ça
+marche pour tout et comment tu crées une
+variable une variable une reward
+variable c'est en mettant en place un
+système qui fait que la première chose
+qui t'arrive une fois que tu as fait ton
+action c'est quelque chose de forcément
+différent d'une d'une minute à
+l'autre un bon exemple de ça c'est une
+communauté qui s'appelle comment ça
+s'appelle indie hackers ou je sais je
+sais plus comment ça s'appelle mais qui
+a une communauté de gens qui font des
+start-up et qui font des des ou des
+sideite project un peu en tech enfin un
+peu surt ce dont on est en train de
+parler là tu vois c'est des gens qui
+c'est c'est un peu le la communauté coup
+d'État américaine tu vois
+euh ce site là à la base ils avaient une
+landing page de base tu vois sur
+laquelle tu arrivais et tu pouvais aller
+visiter les différentes parties du site
+les différentes catégories machin page
+fix tuares et c'est écrit ouais là tu
+peux regarder tous les projets qui ont
+été fait en dev tous les site project
+des gens machin page fixe tu ouvres la
+page tu fermes la page tu ouvres la page
+c'est toujours la même ils ont changé un
+truc et ça a fait skyrocketter
+complètement leurs chiffres c'est qu'ils
+ont enlevé cette page pourrie qui était
+entre les deux et ils ont mis le
+leaderbard des questions principales
+directement sur la page d'accueil et
+donc en fait comme il y a quand même pas
+mal d'activités sur site et que les gens
+posent beaucoup de questions poent
+beaucoup de contenu et des trucs
+intéressants en fait à chaque fois que
+tu ouvres le site de nouveau bah tu as
+un truc
+différent et donc quand tu es aux
+toilettes et que tu tu as rien à faire
+c'est une situation hyper commune genre
+c'est la situation dans laquelle tout le
+monde ve se glisser c'est bizarre dit
+comme ça mais mais
+mais en T en tous les cas quand tu as
+ton trigger et que tu fais ton action tu
+as envie d'avoir un truc différent tu te
+dis ah qu'est-ce qu'il va y avoir sur
+indie hackers aujourd'hui et ça marche
+tout le temps tout le temps tout le
+temps tout le temps c'est
+essentiel et ensuite une fois que tu as
+eu ta ta ta
+variable ta variable
+reward tu as un investissement et c'est
+la dernière partie c'est que tuas c'est
+tu as un investissement et cet
+investissement c'est quoi c'est
+potentiellement j'ai un truc c'est mais
+ça peut être des petites choses tu vois
+j'ai liké un truc j'ai regardé une vidéo
+c'est c'est plus que l'action c'est le
+fait
+que comme tu as fait ton action tu as
+gagné quelque chose qui fait que la
+prochaine fois que tu vas recevoir un
+trigger tu auras encore plus envie de de
+d'agir quoi de faire une action et que
+ta variable reward sera encore meilleure
+pourquoi parce que si tu vas sur
+Instagram
+B je vais arrêter avec cet exemple si tu
+vas sur
+Youtube et que tu la moi je j'ai deux
+passions dans la vie de grandes passions
+dans la vie à part l'entrepreneuriat et
+coup d'État j'ai deux passions dans la
+vie c'est le rap français et la cuisine
+pour rien à
+voir si tu vas sur Youtube et que tu
+likes une vidéo de rap
+français ta page d'accueil Youtube c'est
+plus que du rap français pour les 10
+prochaines années tu vois c'est
+insupportable c'est
+insupportable mais en même temps ça veut
+dire que ça marche parce que moi quand
+je vais sur Youtube je suis fan de rap
+français j'ai liké un jour une vidéo de
+rap français il me propose plus du rap
+français et le fait que j'ai liké
+c'était un investissement pour que la
+prochaine fois que je reviens quand
+j'arrive sur Youtube me propose des
+trucs que j'aime bien pareil pour
+Netflix tu vois Netflix quand j'ai quand
+j'ai commencé à à bosser sur coup d'État
+je me suis mis à regarder beaucoup
+beaucoup de
+standup je ça assez fascinant la façon
+dont en standup ils arrivent à à filmer
+à rendre intéressant un mec qui est
+juste sur une scène et qui parle pendant
+2 heures tu vois je trouve ça assez ouf
+parce que en vidéo tu t'endors
+facilement tu vois
+euh mon Netflix c'est plus que du
+standup c'est chiant c'est chiant d'un
+côté parce que j'aurais envie que ce
+soit pas que du standup et que il puisse
+me proposer d'autres truc que je puisse
+découvrir des choses mais en même temps
+j'ai fait cet investissement de dire ah
+cette série là elle m'a plus j'aimerais
+bien qu'on m'en propose plus et hop bah
+il m'en propose plus et donc
+investissement et à chaque fois je vois
+une notif une notif Netflix ça fait que
+comme j'ai investi dans Netflix j'ai
+investi du temps j'ai investi de de mes
+données personnelles tu vois ben en fait
+mais les triggers elles sont de plus en
+plus performantes pourquoi parce que
+quand je reçois une notif ah tel série
+devrait
+t'intéresser la qualité de cette
+notification là qui me dit ça devrait
+intéressé elle est 1000 fois meilleure
+aujourd'hui qu'elle l'était il y a 6
+mois quand j'ai commencé à utiliser
+Netflix parce qu'il commence à bien me
+connaître et que j'ai investi tellement
+de de données personnelles et de et de
+temps à à à dire ce que j'aimais bien
+sur Netflix et ce que j'aimais pas
+qu'aujourd'hui ils sont hyper pertinent
+et quand je reçois une trigger j'agis
+direct et votre objectif quand vous
+créez un produit pour en faire une boîte
+de malade et avoir un produit que les
+gens aiment un produit auquel les gens
+sont addictes c'est d'arriver à réduire
+le temps entre ces quatre
+actions et une fois que vous avez réduit
+le temps entre le trigger et l'action le
+temps entre l'action et la reward le
+temps entre la reward et
+l'investissement et entre
+l'investissement et la prochaine
+trigger vous recommencez et vous le
+faites tout le temps tout le temps tout
+le temps tout le temps et quand il
+arrive suffisamment longtemps tu finis
+avec un produit où les gens passent leur
+temps dessus c'est ce qui marche bien
+avec les avec les jeux mobiles par
+exemple
+c'est un produit certes c'est pas un
+réseau social c'est pas une c'est pas un
+software enfin mais c'est un mais c'est
+un
+produit genre aujourd'hui tu vois tu
+vois une boîte comme voodo Games il
+viennent de lever 250
+millions
+correct c'est une boîte qui en fait à la
+base créer des jeux mobiles vous avez
+forcément vu des des pub VO Games sur
+sur Instagram ou des trucs comme ça
+c'est à la base c'est une boîte qui crée
+des jeux mobiles vous savez les petits
+jeux un peu pété qui on aucun univers
+graphique mais où tu te dis wou j'ai
+trop envie de jouer à ce jeu quand tu
+vois la vidéo dans une pub tu te dis ah
+ça quand je serai aux toilettes ce sera
+super tu vois c'est ça que tu te dis
+hein il créent ces jeux-là ça commence à
+bien marcher ils font quelques millions
+de CA ça commence à vraiment bien
+marcher machin la la chose qui a fait
+qu'ils sont passés d'une boîte classique
+de de jeux de jeux vidéos mobile à une
+boîte incroyable qui lève 250 milliard
+250 millions parce que chiffre euh qui
+lève 250 millions c'est parce qu'en fait
+ils ont arrêté de développer leur propre
+jeu ils ont été voir des gens qui créent
+leurs jeux tu vois des petits des d 20D
+des des des gens qui veulent créer leurs
+jeux des petits studios et cetera mais
+qui galèrent et ils leur ont apporté
+leur expertise pour faire
+quoi pour faire ça ils ont été leur dire
+bon ton jeu il est chouette mais si tu
+faisais ça ça ça et ça les gens ils
+jaient 14 fois plus par jour ah ouais
+bah vas-y on essaye et en fait ils font
+quasiment plus que ça ils prennent des
+jeux qui existent déjà mais qui sont pas
+hyper addictifs mais qui ont quand même
+un concept un petit peu sympa et ils
+transformment tout ce qu'ils peuvent en
+choses addictives en créant des des des
+des variables des reward variables en
+créant de l'investissement des
+mécanismes d'investissement tu vois tu
+joues à ton jeu et à la fin tu gagnes
+des pièces et du coup bah tu as envie de
+jouer plus parce que tu veux des trucs
+comme ça et c'est en fait à la base le
+jeu il est il est peut-être très très
+simple et ils arrivent à créer les bons
+mécanismes qui font que tu reviens tout
+le temps tout le temps tout le temps
+c'est c'est vous dire à quel point ça a
+de la valeur si aujourd'hui une boîte
+qui fait que du consulting et qui
+rachète en fait des jeux qui existent
+déjà qui sont un peu pétés et qui juste
+en appliquant ce truc est capable de
+faire une boîte qui lève 250 millions
+d'euros tu peux le faire avec n'importe
+quel produit c'est juste qu'il faut
+avoir la bonne réflexion pour le faire
+tout le temps tout le temps tout le
+temps ensuite tuas un truc qui est
+important c'est le
+tracking le ing c'est un peu la la bête
+noire de de tous les entrepreneurs qui
+sont pas Tech qui sont pas un minimum
+tech tu vois c'est genre
+ouais il faut lire le
+Analytics il faut savoir utiliser mix
+panel il faut comprendre Google
+Analytics il faut savoir utiliserar
+enfin tu vois et tu entends parler de
+plein d'outils et tu te dis genre mais
+qu'est-ce que je vais faire de de tous
+ces outils c'est ma question préférée et
+et du coup
+genre qu'est-ce que tu fais et la
+première chose par rapport à ça c'est
+qu'il faut déjà absolument mais
+absolument arrêter le complexe
+Airbnb arrêter le complexe Airbnb de il
+y avait cette histoire enfin j'aime bien
+dire ça parce que j'avais plein plein de
+gens à une époque quand quand je leur
+donnais des conseils sur comment faire
+un produit les gens venaient me voir et
+ils me disaient ouais je voudrais faire
+de la B
+testing pourquoi que en général demander
+pourquoi aux gens pourquoi les gens
+veulent faire les choses c'est une bonne
+idée pourquoi pourquoi tu veux faire de
+la B testing bah parce que j'ai vu cet
+article d'Airbnb où il disait qu'ils
+avaient changé la couleur de leur
+boutons sur leur formulaire
+d'inscription et que ça avait augmenté
+de 10
+% leur
+conversion et tu es là genre ouais mais
+mec tu as un site où il y a deux
+personnes qui passent genre à la limite
+tu peux augmenter de 100 % ta conversion
+parce que tu as deux personnes de plus
+cliquer mais tu vas rien tirer comme
+conclusion c'est pourri faut arrêter
+avec ce complexe Airbnb ce complexe de
+machin parce qu'en fait tant que tu as
+pas une certaine masse de données et de
+gens qui transitent sur ton site ou sur
+ton app ou sur ce que tu veux tu pourras
+pas comprendre tu pourras pas tirer de
+conclusions sur est-ce que changer la
+couleur de mon bouton ça va changer ma
+conversion non non fais un produit que
+les gens kiffent faire un produit que
+les gens kiffent sors-toi ça de la tête
+tout de suite genre c'est essentiel de
+comprendre qu'il faut pas trop cqué au
+départ je vois tellement de gens qui
+installent mix panel donc mix panel pour
+ceux qui qui connaissent pas c'est un un
+un outil qui est
+phénoménal fabuleux j'avais envie de
+dire les deux
+euh parce qu'en fait ça te permet
+donc comment expliquer ça ça te permet
+quand tu as du code qui tourne donc tu
+as des actions tu vois genre par exemple
+je clique sur ce bouton hop tuas une
+fonction de code qui s'exécute et donc
+qui qui qui te renvoie une autre donnée
+tu vois et ben en fait au milieu de ce
+code là quoi que tu fasses tu peux
+envoyer des events qui vont être
+retranscrit dans mix panel et tu vas
+pouvoir dire par exemple quand quelqu'un
+clique sur ce bouton je reçois un event
+et donc tu peux avoir le nombre de fois
+où ce bouton a été cliqué sur une
+journée tu peux le le le retracer au
+user qui l'a fait donc tuasas tu tu te
+retrouves avec une fiche de toutes les
+actions que le mec a fait sur le site
+c'est hyper creepy tu vois tu vois il
+arrive comme ça homepage ah il a cliqué
+sur le formulaire ah mais il a été lire
+les CGV avant de s'inscrire il y a plein
+de gens qui font ça qui lisent les
+conditions générales d'utilisation et de
+vente avant de s'inscrire sur un site tu
+le soupçonnes pas tu vois et en fait un
+outil comme mix panel te permet de
+comprendre tout ça je vois plein de gens
+qui arrivent et qui installent un mix
+panel c'est une usine à gaz tu vois mix
+panel ça coûte hyper cher parce qu'en
+fait ça ça tu payes au au nombre de
+points de Data qui sont envoyés à mix
+panel donc dans le cas de quand un user
+clique sur ce bouton ou mettons on fait
+un event le user c'est c'est inscrit tu
+vois à chaque fois qu'un user s'inscrit
+tu as un point de Data qui est pioché
+sur ton mix panel et puis genre quand tu
+as atteint 300000 points de Data tu dois
+passer au plan supérieur et tu dois et
+tu dois tu dois payer plus quoi grosso
+modo je vois des gens qui arrivent et
+qui installent un million d'event genre
+alors le user a vu la page d'accueil
+ensuite il a vu la page de con connexion
+il a cliqué sur le lien je n'ai pas
+encore de compte je vais créer un compte
+il a tapé son nom dans la barre du nom
+il a rentré un mot de passe il s'est
+trompé il y a eu une erreur et en fait
+ils ont un milliard d'event et tu sais
+plus où donner de la tête quand tu
+arrives sur ton tableau de Bor mix panel
+et qu'on dit voilà tes données
+principales pour pour avoir un truc et
+que tu as une donnée sur il s'est trompé
+de mot de passe genre évidemment que tu
+comprends rien et que tu as un milliard
+de trucs et c'est pour ça
+que en même temps de d'oublier ce
+complexe rirbnb et ce truc de de il faut
+traquer tout et ça qui de toute façon
+marche pas tant que tu as pas une
+certaine masse il faut aussi comprendre
+qu'il faut réduire un maximum tes KPI à
+des KPI quoi genre des des des des Key
+Performance indicatur genre genre
+vraiment les trucs clés et tu fais
+grossir ça pour deilies à la base faire
+grossir le le le le enfin le KPI qu'il
+faut faire grossir c'est le nom
+d'entrepreneurs qui viennent voir ousama
+pour qu'il les défonce
+pour pour menu nextdor c'est le nombre
+de repas qui sont
+vendus pour Facebook c'est le nombre
+d'utilisateur qui se connecte tous les
+jours il y a plein d'exemples il y a
+plein d'exemples mais mais un KPI ça
+suffit très très souvent de la même
+manière qu'on dit tout le temps do
+things that don scale et cetera traacker
+comme si ça SC est pas de la même
+manière traquez soyez sûr de ce que vous
+faites soyez sûr de vos chiffres mais la
+limite faitesles à la main ayez un
+tableau Excel dans lequel vous rentrez
+tous les clients qui sont venus vous
+voir et et et du coup vous pourrez
+commencer à dans votre tableau Excel
+vraiment bricoler des trucs corrects
+parce que un jour il y a un mec qui va
+vous dire ouais bah moi je trouve ça
+hyper intéressant dans ton service de de
+géolocalisation pour mes gosses c'est ce
+qui est devenu zenly tu vois je
+trouveais ça hyper intéressant de
+pouvoir envoyer facilement un screenshot
+de ma position à quelqu'un sans avoir à
+faire tout le tout tout le truc du
+screenshot et ben dans ton tableau Excel
+peut-être que tu vas noter que ce
+gars-là il a il a dit ça et tu vas
+pouvoir commencer à faire des stats sur
+les feedback de tes gens et en fait ça
+va ça va te permettre d'avoir un tableau
+de bord qui certes est tout moche pas
+fonctionnel et scale pas mais qui va te
+permettre de de tirer des datas d'un
+truc que tu as juste compris à la main
+et que tu aurais jamais compris si tu
+avais juste observé chez MEnu nextdor on
+a fait l'erreur on a fait l'erreur
+beaucoup beaucoup beaucoup tu vois et
+j'ai j'ai mis du temps à comprendre
+pourquoi c'était une erreur
+mais on est on est arrivé à un point si
+si menu nextd a fermé c'est parce qu'on
+était arrivé à un point
+où on essayait d'optimiser le produit
+justement on faisait ça on faisait ce
+complexe rirbnb on essayait d'optimiser
+le produit pour qu'il y ait plus de
+conversion sur certains trucs par
+exemple on envoyait un un un mail de de
+ce qu'on appelait un mail de follow donc
+sur Menu nextor tu pouvais venir suivre
+un chef et dès qu'il faisait qu'il
+reproposait un menu on t'envoyait un
+mail pour te dire e il recuisine
+commande chez lui pour augmenter la
+rétention et tout tu vois ce mail là il
+avait un taux d'ouverture de 30 % un
+truc de 10 % ça faut être capable de
+traquer mais c'est mailch encore une
+fois tu vois c'est pas du code c'est
+juste mettre des outils en place il
+avait un taux un taux d'ouverture de 30
+et un taux de clic de 10 et on essayait
+d'augmenter ça tu vois ah ouais mais si
+là on change la couleur du bouton
+peut-être que les gens ils vont cliquer
+plus ah mais si là machin et puis au
+final ça marchait pas donc on a augmenté
+on envoyait un mail et un sms e salut
+ton chef il
+recuisine commande chez nous s'il te
+plaît tu vois et les gens ils voulaient
+juste de la bonne bouffe ils voulaient
+pas des jolis boutons ils voulaient pas
+des des mails qui étaient stylés il
+voulait de la bonne bouffe il voulait
+bien manger si on s'était concentré sur
+traquer les bonnes choses on aurait pas
+commencé à traquer tout ce qu'on pouvait
+on aurait trackqué ce qu'on devait et
+c'est ça qui est hyper important c'est
+que le tracking tout le monde prend ça
+de travers après comment ça se met en
+place c'est un truc que potentiellement
+on fera dans une dans une prochaine
+conférence coup d'État euh un peu plus
+pratique potentiellement sur comment
+mettre en place du du vrai tracking et
+et comment faire ça mais mais si tu veux
+genre je pense vraiment qu'une boîte au
+tout début quand tu crées ton produit tu
+traques à la main tu traques tout à la
+main et ça va te permettre d'avoir des
+KPI que tu aurais pas forcément
+soupçonné euh de voir des corrélations
+que tu aurais pas forcément observé si
+tu devais être un Data scientiste avec
+des bases de données gigantesques et
+cetera tu pourras faire des corrélations
+entre certaines actions d'une personne
+sur le site et certaines autres actions
+qu'elle va faire c'est le truc que tu
+peux pas forcément mettre en place quand
+tu as les choses mais mais donc
+faites-le à la main parlez à vos users
+ça c'est la première étape la deuxième
+étape c'est que tu commences à traquer
+des
+funnels à la base oui c'est bien beau je
+dire oui machin je me permet d'insister
+sur sur le fait de pas faire l'erreur de
+traquer trop et de passer trop de temps
+à traacker parce que finalement ça vous
+sert à rien
+mais après il y a y a une étape un peu
+intermédiaire qui est de traquer des
+fenellles c'est c'est c'est une très
+bonne méthode pour commencer à apprendre
+à à digérer de la data et à
+l'interpréter c'est de mettre en place
+des feneles un Fenel c'est quoi un Fenel
+c'est un truc qui d'ailleurs est fait en
+mix panel par exemple c'est donc donc
+c'est comme une sorte d'enton noir quoi
+où à la base tu fais rentrer un certain
+nombre de personnes et ressort de sa t
+noir un certain nombre de personnes plus
+faible il est toujours plus faible parce
+que sinon ça veut dire qu'il y a des
+gens qui sont incrustés dans le flow ça
+marche pas il est toujours plus faible
+pourquoi par exemple tu peux avoir un
+funnel qui est ton formulaire
+d'inscription si dans ton formulaire
+d'inscription mettons mettons tes Shine
+Shine c'est une app qui permet aux
+indépendants de créer enfin c'est c'est
+une app qui une app bancaire en fait qui
+permet aux indépendants de créer leur
+compte bancaire leur société
+auto-entrepreneur hyper facilement et du
+coup tu as rien à faire à part trouver
+tes clients et bosser et tous les trucs
+administratifs sont gérés dans shine le
+process d'unboarding c'est incroyable
+c'est c'est c'est vraiment une très
+bonne app moi j'utilise ça euh le
+process d'boarding de Shine c'est pas le
+process d'unboarding de Facebook c'est
+pas juste tu t'inscris tu mets ton nom
+ton prénom ton adresse email et tu es
+dedans le process d'unboarding de Shine
+c'est quand même MRE ton nom ton prénom
+ton mot de passe ton adresse mail mais
+après il faut mettre une copie de ta
+carte d'identité mettre une copie d'un
+justificatif de domicile appeler l'URSAF
+pour demander je sais quel et quel truc
+tu il y a pas mal de tâches et sur un
+unboarding comme ça qui est linéaire et
+où tu vois action après action ce qu'il
+faut mettre en place pour pour bah
+activer ton utilisateur quoi là tu peux
+mettre un FUNEL en place un FUNEL qui
+est il s'est inscrit étape 2 du
+FUNEL il a mis sa carte d'identité étape
+3 du FUNEL il a mis son jusff de
+domicile étape 4 du FUNEL l'URSAF est
+revenu vers la personne pour pour lui
+dire que c'était validé et étape 5 il a
+activé sa carte bancaire qu'on lui a
+envoyé par la poste pour pouvoir faire
+ses dépenses
+pro tout ça ça vous permet de créer un
+funnel qui vraiment va
+euh vous permettre d'analyser où sont
+vos points vos points de de de friction
+et c'est ça qu'il faut déterminer et
+c'est ça qui est important et et et et
+quand on parle de tracking c'est surtout
+ça qui est important c'est déterminer où
+sont tes points de friction mais de
+manière général sur ton business et on
+revient à ce truc de tout à l'heure qui
+est comprenez quel est le problème
+sous-jac à votre produit et réfléchissez
+pas à votre produit comme juste la tech
+ou juste l'outil que vous délivrez aux
+gens mais comprenez le besoin qu'il y a
+derrière comprenez le le comportement
+qu' a derrière refait cet exercice de il
+se lève le matin il mange un croissant
+il boit un café il va dans sa voiture
+tout le temps tout le temps tout le
+temps si la personne si vous obser dans
+votre tracking dans votre fenellele que
+la personne elle rentre pas son
+justificatif de domicile et que c'est à
+ce point-là que tu passes de au début à
+100 personnes et puis carte d'identité
+tu en as 50 c'est pas mal c'est un utau
+de conversion pour demander une carte
+d'identité sur une app que les gens vont
+juste tester c'est incroyable d'ailleurs
+je pense que c'est pas ça qu'ils ont
+quoi
+euh mettre un justificatif de domicile
+tu passes à 5 personnes c'est qu'il y a
+un problème et le problème il faut pas
+juste se concentrer et réfléchir au
+produit en soi à l'outil que tu mets en
+place et dire ah bah sur la page de
+jusicatif de domicile je vais mettre un
+petit bonhomme qui sourit mettre un
+bouton qui clignote et les gens il ont
+cliquer plus il faut comprendre quel est
+le comportement derrière Tupp tous les
+gens qui sont restés bloqués à ce truc
+là à la main et tu leur dis e pourquoi
+tu as pas mis ton justif de domicile
+ouais parce que mon chien l' mangé ouais
+parce que machin parce que si parce
+qu'en fait montif de domicile il est pas
+à mon j'en a pas à mon nom parce que je
+vis chez mes parents machin et
+tuobserves des patterns et tu observes
+des patterns quand tu as 25 étudiants
+qui te disent ouais mais j'ai pas de
+justificatif de domicile à mon nom parce
+que je vis chez mes parents et ben tu
+trouves une solution et tu l'inclus dans
+ton produit
+et c'est un truc que tu aurais pas fait
+si tu avais juste traqué des datas et tu
+avais réfléchi à mon produit c'est quoi
+et mon produit c'est mon outil et c'est
+c'est vraiment important d'avoir cette
+étape intermédiaire où tu traques que
+des fenelles et de bien maîtriser cet
+outil là qui te permet bah de ouais
+genre une règle qui est intéressante et
+qui fonctionne pas dans tous les cas
+c'est une règle
+quoi c'est de dire que si tu augmentes
+la conversion ENF plus tu augmentes la
+conversion dans le funnel à un niveau
+qui est bas plus ça a d'impact sur ton
+business typiquement
+passer de de 10 % à 25 % de conversion
+sur ton just de domicile dans l'exemple
+de Shine c'est beaucoup plus impactant
+que passer de 50 à 70 % dans juste ton
+inscription parce que plus les gens sont
+bas plus ils sont déjà engagés et plus
+tu es sûr que c'est les bonnes personnes
+et ça marche avec le le le principal
+FUNEL que tout le monde connaît c'est le
+FUNEL
+euh donc
+c'est acquisition activation
+rétention référal
+revenu ok c'est c'est c'est les cinq
+étapes que tu veux que tu à travers
+lesquelles tuux faire passer ton users
+dans dans ton user dans ton business
+quoi tu veux l'acquérir donc trouver un
+moyen de l'avoir donc ça peut être du
+sales ça peut être du marketing et
+cetera tu veux l'activer une fois qu'il
+est dans l'app je vais reprendre je vais
+toujours continuer sur cet exemple de
+Shine une fois qu'il est dans l'app il
+faut qu'il mette sa carte d'identité il
+faut qu'il mette tout son truc pour
+activer son compte et que et que il soit
+enfin un vrai user actif quoi chez
+Facebook un user actif c'est quelqu'un
+qui va liker une publication par exemple
+qui va faire une action ça devient un
+user actif c'est une définition c'est un
+truc arbitraire définir un user actif
+c'est aussi un moyen de faire du
+tracking définir un user actif c'est
+complètement arbitraire c'est dire il y
+a des boîtes pour qui un user actif ça
+va être quelqu'un qui va poster cinq
+fois dans le mois tu as des boîtes qui
+vont dire c'est c'est quelqu'un qui va
+poster c une fois dans le mois et c'est
+vraiment arbitraire c'est vous qui
+définissez où est la valeur donc
+acquisition activation rétention comment
+une fois que la personne a utilisé votre
+service une fois tu l'amènes à à la
+réutiliser comment tu amènes à
+réutiliser ce service et comment tu
+pousses ça ça peut être ça va être par
+le produit mais ça va être aussi par des
+actions potentiellement marketing par
+des actions potentiellement sales tout
+le temps tout le temps et bref et
+ensuite référal comment la personne
+invite des gens est revenu comment tu
+gagnes de l'argent sur cette sur cette
+boucle quoi et plus tu es bas dans ce
+Fenel plus la valeur que tu as à
+augmenter t tau de conversion est
+importante et o ça m'a parlé de ça la
+semaine dernière et il disait euh il y a
+des fois où c'est pas vrai et et et
+c'est juste il y a plein de fois où
+c'est pas vrai et ça et ça se ça se
+rapproche du du du du complex Airbnb
+quoi c'est que au début c'est pas vrai
+au début essayer d'augmenter ta
+rétention et ton référal sur ton FUNEL
+ça a pas de sens ça a pas de sens parce
+qu'il vaut mieux faire rentrer 1000
+personnes de plus au début pour avoir
+des vrai data et pouvoir dire que tu as
+vraiment influé et eu un impact sur un
+vrai nombre parce que faire passer ton
+taux de conversion de de de rétention
+ton ton taux de rétention de 10 à 50 %
+sur un panel de 10
+personnes tu veux une médaille genre tu
+as rien fait tu as juste demander à ta
+sœur de de cliquer sur Suivant tu vois
+genre tu as rien fait alors que quand tu
+commences à avoir 1000 personnes qui
+utilisent ton truc et que tu passes de
+10 % à 50 % là tu peux tu peux être fier
+là tu peux être vraiment fier de ton
+travail parce que tu as vraiment pris
+une situation a et grâce à ton taf tu l'
+amener une situation B tu as pas juste
+eu de la chance et deux personnes de
+plus qui trouvaient ça chouette tu vois
+et c'est c'est c'est h important tout le
+temps tout le temps de reprendre ça en
+compte et de de de savoir de enfin c'est
+de la science c'est de la science tu
+observes sur des panels suffisamment
+grands pour pour pouvoir en tirer des
+conclusions quoi
+euh et après le le la dernière étape une
+fois que tu maîtrises un peu les
+fenelles et que tu comprends comment
+trackquer tout ce que tu dois traquer
+euh c'est de mettre en place des
+segments utilisateurs une fois que tu as
+une certaine masse de personnes le mieux
+c'est de comprendre quels sont tes
+différentes catégories utilisateurs
+pourquoi pourquoi tu les catégorises
+comme ça
+euh typiquement sur Instagram tu vas
+avoir des catégories d'utilisateurs qui
+sont influenceur et suiveur tu vois sur
+tous les réseaux sociaux de manière
+générale tu vas avoir ça tu vas avoir
+des catégories de personnes où tu
+as la meuf ou le mec dans ton réseau qui
+va poster 8000 photos par jour moi à la
+plage moi au candib bar moi machin et
+puis l'autre qui va juste stalker la
+personne et peut-être mettre un like de
+temps en temps et ça c'est deux
+catégories de personnes différ et tu
+peux forcément pas traquer ces deux
+personnes là de la même manière et par
+extension tu peux pas traquer ces deux
+segments de ta population de la même
+manière forcément donc tu vas commencer
+à mettre en place des règles qui disent
+cette personne là elle fait partie de
+tel segment elle fait partie des
+influenceurs qui postent tant de temps
+qui passe tant de temps par jour sur mon
+app et cetera et cette cette autre
+personne là elle fait partie des des
+suiveurs et du coup tu dois comprendre
+quel est le comportement de chaque
+segment de ta
+population et essayer d'augmenter les
+métriques qui sont adapté à à ce segment
+là et à leur comportement typiquement
+pour le suiveur ça va être lui proposer
+plus de contenu d'influenceur de bonne
+qualité alors que pour l'influenceur ça
+va être lui mettre plus en
+avant que il a été combien de fois il a
+été liké lui donner des outils pour pour
+tracker je sais pas si lui si la
+performance de ses post et cetera et en
+fait ça te permet de d'observer les
+métriques et dans quel sens elles vont
+pour chaque segment et si vous observez
+tous les trucs bah tous les mix panel
+tous les intercom tous ces trucs de
+tracking qui qui servent à ça vont vous
+proposer un outil pour segmenter vos
+populations et c'est hyper important et
+ça pour le coup quand tu passes un
+minimum de masse d'utilisateur c'est
+hyper important de le faire parce que
+même si tu en as pas 100 millions même
+si tu as 1000 2000 personnes il y a
+forcément des comportements différents
+que vous allez observer chez vos users
+et il faut pouvoir les différencier les
+uns les autres
+je vais faire une dernière partie
+euh qui est un peu une une théorie que
+je suis que je suis en train d'observer
+et que je suis en train de de mettre en
+place donc mais je trouve ça assez
+intéressant et je suis en train de
+vérifier si c'est vrai mais en tous les
+cas il y a il y a un phénomène qui me
+fascine en ce moment euh qui me fascine
+vraiment parce que je je suis gamer
+depuis euh quoi
+15 ans
+quoi un truc comme ça enfin en tout cas
+j'étais gamer je le suis beaucoup moins
+en ce moment parce que j'ai pas trop le
+temps de jouer
+euh un phénomène qui me fascine en ce
+moment c'est
+fortnite qui connaît
+fortnite ok donc pour ceux qui
+connaissent pas
+fortnite c'est un jeu vidéo qui a été
+créé par une boîte qui s'appelle Epic
+Games euh et qui en fait est un un
+Battle
+Royale si vous voyez Hunger Games Hunger
+Games donc le le principe de Hunger
+Games c'est qu'il y a une arène un
+certain nombre de personnes qui rentrent
+dans l'arène il s'entretue et le dernier
+vivant il a gagné bah fortnite c'est ce
+principe là tu arrives dans une arène tu
+es dans un bus volant dans le ciel et tu
+es largué comme ça sur une île et il y a
+plein de zones sur l'île et en fait tu
+sur l'île donc tu arrives complètement à
+poil quoi genre enfin tu es tu es
+habillé quand même mais mais tu as pas
+tu as pas d'armes tu as rien et puis tu
+commences à fouiller les maisons et puis
+tu trouves des armes avec les armes tu
+commences à tuer d'autres gens et en
+fait le la dernière personne qui est
+debout a gagné la partie c'est un
+concept qui est super simple à
+comprendre fortnite ça me fascine parce
+que assez récemment il y a quelques mois
+il y a il y a Drake donc qui est quand
+même un des rappeurs les plus connus de
+la planète qui a posté qui jouait à
+fortnite et qui a posté des vidéos de
+lui en train de jouer à fortnite c'est
+un truc qui
+était impossible à imaginer il y a 10
+ans quand moi j'ai commencé à jouer quoi
+quand j'ai commencé à jouer un peu
+sérieusement c'était impossible à
+imaginer qu'un jour il y a un rappeur
+trop stylé incroyable qui disent oh B
+moi aussi je joue à des jeux vidéo comme
+vous les gars et c'est et c'est la
+preuve qu'en fait ce marché là du jeu
+vidéo est en train d'exploser
+complètement mais c'est la preuve
+surtout d'un truc plus important je
+trouve c'est que fortnite
+euh c'est à la fois un produit de ouf et
+à la fois une stratégie de distribution
+de ouf et c'est ça mon point c'est que
+aujourd'hui votre produit ça peut voir
+ça doit être votre stratégie de
+distribution créer un produit que les
+gens aiment c'est pas juste créer un
+produit que les gens trouvent cool c'est
+créer un produit que les gens vont
+partager c'est créer un produit qui va
+être
+reconnaissable à l'inverse de
+fortnite moi mon le jeu principal sur
+lequel je joue c'est League of Legends
+League of Legends c'est un jeu qui est
+certains vous diront que non mais qui
+est complexe mine de rien pour pour pour
+le quelqu'un de de normalement constitué
+qui est pas complètement timbré à jouer
+toute la journée comme comme j'ai pu le
+faire quoi c'est complexe parce que ça
+se joue à 5 contre 5 il y a 120
+personnages qui peuvent être choisis par
+les C
+personnes chaque personnage possède un
+kit de quatre sorts il peut
+utiliser il peut combiner six objets
+qu'il a acheté dans une boutique qui en
+comporte 1200 enfin c'est hyper
+compliqué il y a beaucou oup beaucoup
+beaucoup beaucoup d'éléments et donc
+quand tu regardes une vidéo de League of
+Legends et que tu connais rien à League
+of Legends une conversation de quelqu'un
+qui parle ça fait un truc improbable tu
+vois tu entends deux personnes qui
+jouent à League of Legends alors que tu
+joues pas ça fait genre ouais là le gars
+il flash il utilise son Z et en fait
+après du coup il retourne et il se fait
+le ncheor et ensuite il détruit le Nexus
+et il gagne personne comprend rien tu
+vois quand deux personnes parlent de
+fortnite c'est genre ah ouais tu as vu
+il lui a tiré dessus l'autre est mort du
+coup il a gagné
+c'est tout de suite plus simple et quand
+on voit une vidéo de fortnite sur
+facebook même si on a jamais joué à un
+jeu vidéo de sa vie on comprend comment
+ça marche c'est facile genre c'est juste
+ils sont dehors ils ont des Guns ils se
+tirent dessus et à la fin quand il en
+reste qu'un il a gagné et c'est une
+stratégie de distribution avoir un
+produit qui est visuellement
+reconnaissable avoir un produit que les
+gens ont envie de partager parce que
+c'est fun c'est une stratégie de
+distribution un bon exemple de ça qui
+soit pas du jeu vidéo c'est
+snapchat snapchat à la base une des
+raisons pour laquelle ça a cartonné
+hyper vite et ça a grossi très très très
+vite une fois que ça va passer les
+campus américains c'est la la petite
+barre noire transparente avec le texte
+blanc dedans vous savez genre les
+screenshots de snapchat snapchat à la
+base il y avait pas tous les textes
+qu'on rajoute par-dessus où tu peux
+mettre écrire en arc-en-ciel ajouter des
+gifes de chat et tout il y avait pas
+tout ça il y avait juste tu prenais ta
+photo
+tu étais moche et tu écrivais dessus
+genre une petite barre noire
+transparente avec du texte et en fait le
+fait d'avoir ce format je vais je vais
+le mettre parce
+que je trouve ça ça important
+voilà super on un des super screenshots
+vous voyez ce truccl ce truc de la barre
+noire avec le texte je l'avais dit qu'on
+était moche quand on se prenit en photo
+sur snapchat euh la barre noir avec ce
+texte ça a cartonné parce qu'en fait
+tous les gens
+voyent des screenshots de ça sur
+Facebook sur Instagram un peu partout
+sur les autres réseaux que snapchat et
+tout le monde disait comment tu as fait
+pour écrire avec cette barre noire avec
+le texte blanc ah bah c'est snapchat ah
+ok et puis après quand toute ta journée
+tu vois c publications où tu as des
+photos comme ça avec des barres noires
+et du texte blanc tu te dis bon bah
+vas-y je va m'installer snapchat tout le
+monde utilise ce truc tu imagines si
+snapchat ils avaient juste fait un truc
+où tu pouvais envoyer des photos truccl
+là ce Tru je suis persuadé que c'est un
+des gros gros facteurs de la réussite de
+snapchat juste le fait d'avoir un
+élément visuel qui est reconnaissable
+parce que c'est la même chose que pour
+fortnite c'est la même chose que pour
+slack
+slack tout le monde partage des trucs
+genre au début à la base slack c'est
+parti dans les startup de la Silicone
+Valley c'est un un endroit où les gens
+sont principalement dev ou en dev ou
+enfin comprennent un minimum le dev donc
+font attention au détail d'une techno et
+par exemple le fait que dans ce lac ton
+écran de chargement il y a des messages
+customisables et que il y a des messages
+un peu un peu rigolo tu vois et on
+rigole bien tu vois dans ce LAAC ça a
+été partagé les gens il postai des
+screenshots ah vous avez vu dans ce LAAC
+quand ça charge il y a des messages
+marrants discord pareil discord c'est un
+slack pour les gamers euh chaque écran
+de chargement c'est un petit personnage
+et c'est une référence à un jeu vidéo
+qui existe et c'est tout le temps c'est
+dans les détails et dans les dans les
+effets visuels et dans les trucs
+reconnaissable que vous pouvez
+transformer votre produit en stratégie
+de
+distribution
+aujourd'hui si on prend coup d'État donc
+le produit qu'on est en train de créer
+ensemble maintenant
+euh coup d'État c'est aussi une
+stratégie de distribution
+si le fait qu'ousama à la base que voà
+le fait qu'ousama soit capable euh
+de prendre des anecdotes de prendre des
+points vraiment particuliers de créer
+des espèces de théories des
+contre-théorie enfin de tout ce qu'il
+veut donner des exemples pour appuyer
+ses propos et que en fait sa conférence
+soit 2h mais segmentée en petit bout de
+10 minutes c'est pas un hasard c'est pas
+un hasard c'est parce que quand quand
+quand je disais au tout début de la
+conférence que on allait on alla les
+bouriner sur la com avec coup d'État
+pour essayer d'avoir un maximum de gens
+qui s'inscrivent euh on va le faire
+comme ça on va juste prendre les vidéos
+de 2hes les découper en bout de 10
+minutes les poster sur Youtube les
+poster sur Facebook les poster sur
+Instagram et voir ce qui se passe mais
+c'est du contenu qui a trop de valeur
+rien que les 10 petites minutes d'une
+théorie d'Ousama ça a beaucoup de
+valeur si on multiplie ça et qu'on dit
+aux gens eh vous voulez voir la suite
+aller sur coup d'État c'est ça notre
+stratégie après est-ce qu'elle marchera
+est-ce qu'elle marchera pas j'en sais
+rien mais c'est ça qu'on va tester en
+tout cas et c'est la même chose c'est
+qu'aujourd'hui nous on a la chance
+d'avoir un produit qui a un média en
+fait finalement coup c'est un
+média ça se découpe ça se découpe et on
+pense pas à notre produit comme juste on
+va on fait un produit puis on va faire
+de la pub à côté notre produit c'est
+notre stratégie de distribution parce
+que c'est reconnaissable parce que le le
+ton est toujours un peu similaire et
+parce que on arrive à faire quelque
+chose de fou quoi
+euh le truc de ça le truc de cette
+stratégie de distribution liée à votre
+produit c'est que ça ne c'est à la fois
+positif et négatif c'est plus
+positif parce que ça ne marche que si
+vous parlez correctement à votre
+audience et et c'est c'est hyper c'est
+hyper dangereux du coup à mettre en
+place mais tu vois sur un truc comme
+slack où justement je parle de des
+petites blagues des petites des petites
+des petits clin d'œil qui font que slack
+est fun par rapport à un hpchat ou un
+des concurrents qui existent depuis
+longtemps ça marche parce que justement
+s'adressait au start-up de la vallée et
+que les start-up de la vallée tout le
+monde c'était cet humour là tu vois et
+et en fait dans cet humour
+euh ça c'est c'est de l'humour qui est
+adressé directement à ton cœur de cible
+typiquement une une boîte que j'adore
+que je trouve vraiment incroyable c'est
+revolut donc revolut pour ceux qui
+connaissent pas c'est une start-up c'est
+une fintech
+Anglaise qui en gros fait une banque
+mais où c'est bien tu vois normalement
+c'est une oxyor mais en fait en fait tu
+peux avoir une banque où c'est stylé
+genre le service est cool tu vois et moi
+je suis user revolute depuis 2 ans je
+suis trop fan le cœur de cible de
+revolut c'est les gens qui voyagent
+parce qu'en fait à la base la value
+proposition de revolut c'est c'est de
+dire vous vous faites complètement
+arnaquer par les banques sur les taux de
+change genre par exemple il y a des
+banques où quand tu fais changer ton
+argent de euros en pound il donne le
+taux de change du marché mais il donne
+le taux de change le plus élevé du mois
+dernier tu vois la douille la douille
+complète tu vois et en plus il te
+prennent un fi par-dessus disent ah
+ouais mais tu comprends nous la
+transaction elle nous coûte cher
+revvolute c'est gratuit et ils prennent
+le taux de change à la seconde près
+genre quand tu ouvr rvolute et que tu
+dis je veux changer mes euros en pound
+il dit ok le taux c'est ça ah non
+maintenant c'est ça ah non maintenant
+c'est ça c'est incroyable comme service
+et ça a marché et ça continue à marcher
+parce qu'ils se focusent toujours alors
+qu'ils ont je sais plus combien je crois
+qu'ils sont à 1 100 utilisateurs enfin
+c'est gigantesque quoi euh ils ont une
+masse gigantesque et ils continuent à
+parler uniquement aux gens de leur niche
+aux gens qui voyagent pourtant moi je
+suis pas un grand voyageur tu vois je
+passe pas mon temps entre Londres et
+Paris j'y vais de temps en temps mais
+c'est pas non plus le gros truc et mais
+je comprends totalement qu'il me parle
+pas à moi et qui parle aux gens qui sont
+tout le temps en train de voyager tout
+le temps dans un train tout le temps
+dans un avion et qui ont besoin de ces
+problématique là et toutes leurs blagues
+toutes leurs com et tout tous toutes les
+petits clin d'œil qui peut y avoir dans
+leurs produits et il y en a plein c'est
+les trucs qui sont dédiés à ces gens-là
+parce que leur produit c'est aussi leur
+stratégie de distribution parce que
+quand tu sors ta carte révolute et que
+tu payes avec les gens te demandent e
+c'est quoi cette carte la la carte
+révolute de base
+elle est genre comme ça tu vois au début
+j'étais gen ah c'est pas très beau c'est
+un vieux
+dégradé je suis pas hyper fan tu vois et
+en fait j'ai compris c'est parce qu'en
+fait cette carte elle ressemble à aucune
+autre carte sur le marché et que les
+gens quand quand il te voi la sortir
+maintenant ils la reconnaissent et ça
+fait partie de leur produit ils la
+reconnaissent disent ah mais tu es chez
+rvolute ouais ça fait quelques temps que
+j'ai réfléchi tu trouves ça bien bah
+ouais mec vas-y va chez rvolute tu vois
+et tout le monde devient ambassadeur
+parce que le produit c'est la stratégie
+de distribution et et et ça fonctionne
+ça cartonne quoi et donc si tu arrives
+grosso modo pour
+à comprendre ce que les gens veulent
+pour de vrai à faire preuve d'un esprit
+de designer pour de vrai à comprendre où
+sont les pain des gens les vrais pain
+pas les pain superficiels pas les pas
+les problèmes de de surface de ah ouais
+mais moi machin les vrais trucs les
+vrais trucs de leur vie c'est les
+problèmes que tu discernes uniquement
+quand tu arrives à avoir des
+conversations profondes avec les gens
+moi quand quand quand je parle à des
+gens au téléphone j'essaie de parler au
+minimum une demi-heure parce que sinon
+avant tu es est coincé et et et tu
+essaes de creuser creuser et des fois tu
+pars sur des 1h et dem de discussion et
+tu finis par savoir ah mais combien tu
+as de gosses ah mais machin et comment
+tu les élèves ah ouais tu penses qu'en
+terme d'éducation et en fait tu vas
+chercher des trucs qui ont rien à voir
+et qui te permettent de détecter des
+patterns si tu arrives à faire ça à
+comprendre les problèmes des gens
+qu'est-ce qu'ils sont à créer quelque
+chose sans avoir un biais technologique
+mais en ayant vraiment l'intention de
+régler ce problème de tester de faire
+les allers-retours en parlant à tes
+users constamment de tracker comme il
+faut pas bêtement et vraiment d'avoir un
+d'avoir un une logique de quel est mon
+KPI principal et comment je le fais
+grossir et comment je peux aller
+chercher pareil les pines qui sont lié à
+au frein de à ma croissance que tu
+arrives à faire ça et que tu lis le tout
+avec une stratégie de distribution qui
+est liée à ton produit parce que ton
+produit visuellement il crée du référal
+il crée du bouche à oreille et les gens
+ont envie d'en parler de partager ça
+marche en B2C ça marche en B2B ça marche
+partout tu as un produit que les gens
+aiment et tu es merci
+[Applaudissements]
+beaucoup bon ça vous a plu ou
+pas vous mentez c'est sûr
+ouais c'était intéressant ouais oh merde
+euh
+bon B il il y a des questions est-ce
+qu'il y a des
+questions ouais ok ouais dis-moi je vais
+je vais répéter ta
+question donc la question
+c'est il y a donc je pense qu'on l'avait
+dit dans le précédent coup d'étard c'est
+un truc qu'on avait potentiellement dit
+je pense mais donc en gros entre entre
+enfin soit tuas une conversion qui est
+en dessous de 5 % et du coup c'est du
+bruit et et en fait c'est juste un peu
+anecdotique quoi soit tu es au-dessus de
+30 % et ça veut dire que tu as vraiment
+quelque chose qui fonctionne qu'est-ce
+que j'en pense j'en pense que c'est une
+très bonne règle
+radicale pour faire du mieux que tu peux
+parce que c'est ça le but genre dire il
+faut aller viser 30 % de conversion ça
+t'évite de te dire ah ouais bah en fait
+à 10 je suis bon tu vois donc déjà c'est
+une très bonne règle à se fixer quoi
+qu'il arrive fixez-vous des objectifs de
+malade aller chercher les étoiles
+peut-être que vous attz sur la lune quoi
+truc cliché de
+ouf qu'est-ce que j'en pense ouais c'est
+vrai c'est vrai après ça dépend de ton
+business quoi ça dépend vraiment de ton
+business tu vois genre genre en SAS par
+exemple en SAS
+B2B tu peux estimer que quand tu as 10
+clients qui payent pour ton service tu
+as un truc qui
+fonctionne si tu as 10 clients qui
+payent pour ton service mais qui
+fonctionne vraiment bien genre c'est
+beaucoup gen arriver à faire du sales à
+10 personnes pour un sas faut que les
+gens il payent pour pour c'est même pas
+un service que toi tu délivres c'est ton
+produit quoi c'est déjà beaucoup tu vois
+franchement si tu as 10 clients qui
+payent pour ton SAS alors que tu en as
+vu 1000 ton de conversion il est pourri
+mais c'est pas grave tu as quand même un
+business qui peut tourner parce qu'après
+tu as de quoi tu as de quoi construire
+par-dessus effectivement si tu es en
+dessous de 5 % de conversion tu as du
+bruit c'est pas toujours vrai tu vois
+c'est pas toujours vrai et il faut
+savoir faut savoir enfin c'est pas
+toujours vrai tu prends un un site
+e-commerce ton tau de conversion il est
+pas à 3 % tu vois et ça dépend comment
+tu m t de conversion ça dépend enfin il
+y a y a il y a plein de choses comment
+tu fais pour distinguer le bruit de de
+gens qui sont vraiment fan de ce que tu
+fais c'est pas c'est justement c'est
+justement le complexe de de Airbnb et de
+j'ai envie d'avoir des métriques je veux
+pouvoir mettre des chiffres parce que ça
+fait classe ça fait beaucoup plus classe
+de dire écoutez moi j'ai 15 % de
+conversion et quand je passerai à 30
+dans quelque chose de solide c'est
+beaucoup plus facile de dire ça que ah
+ouais j'ai parlé à Jan il m'a dit qui
+fait trop ce que je fais mais en fait la
+vérité c'est ça la vérité c'est que tu
+dois parler aux gens qui utilisent ton
+produit et si les gens ils te disent wou
+ça a changé ma vie peu importe que tues
+5 % de conversion ou 150 en vrai c'est
+ça que tu as gagné quoi c'est ça que tu
+as gagné et et tes chiffres ils vont
+découler de ça tes chiffres ils vont
+forcément découler de ça et ça et ça et
+ça se dérive avec le le fait d'avoir une
+une communauté aussi tu vois genre quand
+onfin là j'espère qu'on va arriver à se
+parler un un peu plus entre nous et et
+d'ailleurs faudra enfin je vais je vais
+envoyer un mail à tous les gens qui ont
+participé aux conféren à la fin pour
+rejoindre le slack on est une petite
+centaine dedans mais ça parle pas
+beaucoup tu vois parce que c'est
+compliqué de faire parler de faire
+parler les gens entre eux euh c'est déjà
+compliqué d'avoir des questions pendant
+les conférences tu imagines s'il faut
+poser des questions sur slack euh c'est
+compliqué de fa parler des gens entre
+eux mais en même temps le fait d'avoir
+une proximité le fait de se
+parler ça a à la fois un effet où tu
+peux observer des des phénomènes et
+tirer des conclusions mais ça a aussi un
+effet de tu augmentes tes maétrixes tu
+augmentes forcément je veux dire quand
+quand quand tu quand tu as 100 clients
+et que les 100 clients tu les connais
+par cœur tu sais qui c'est tu sais ce
+qu'ils font dans la vie tu sais pourquoi
+ils se lèvent le matin tu vois c'est des
+questions genre tu as potentiellement
+même des potes à qui tu as pas posé la
+question pourquoi tu te lèves le matin
+quoi alors que c'est une question de ouf
+genre c'est quoi qui drive dans ta vie
+est-ce que est-ce que ici il y a des
+gens qui peuvent me dire mes clients ce
+qui les driv dans la vie c'est ça
+ouais mais ouais grave toi tu peux et
+c'est trop bien c'est trop bien ça veut
+dire que tu fais tout ton taf
+correctement quoi et et et aujourd'hui
+il y a trop peu de gens qui font qui
+font ce travail là et le fait de savoir
+vraiment qui sont tes clients et d'avoir
+une proximité mentale et psychologique
+avec eux ça augmente forcément tes
+matrixes c'est do things à Don scale
+encore une fois mais c'est beaucoup plus
+facile d'avoir 100 personnes qui te font
+des matrixes de malade et de les
+transformer en 1 million de personnes
+qui te font des matrix vraiment
+bien que d'avoir 1000 personnes qui te
+font des matrixes pas trop mal et et
+voilà parce qu'après quand tu vas monter
+un million de personnes tu auras des
+marixes pourries et c'est fini tu vois
+parce que forcément ton ton ton niveau
+de service il va se réduire c'est le
+truc de team Cook avec la carte écrite à
+la main évidemment que c'est moins stylé
+ce serait plus stylé de recevoir un
+iPhone avec une note de team couc écrite
+à la main ce serait vachement plus stylé
+tout le monde serait trop refait ou de
+Johnny high avec écrit aluminum tu vois
+ce serait trop bien genre tout le monde
+kifferait trop la vérité c'est qu'ils
+peuvent pas ils peuvent pas et ils
+doivent compenser ils doivent forcément
+compenser
+et par exemple sur coup d'État
+euh il y en a il y en a il y en a parmi
+vous que j'ai j'ai
+appelé au tout début de coup d'état
+euh j'ai appelé une centaine de
+personnes j'ai passé entre une
+demi-heure et 1 he et3i avec chaque
+personne pour discuter de la vie et de
+coup d'état et et de comment ça va tu
+vois et euh et dans ces personnesl bah
+quand j'envoie des mails le taux
+d'ouverture c'est 95
+%. mais c'est logique c'est comme quand
+tu envoies un un
+mail à ta meuf ou à ton mec ton taux
+d'ouverture c'est 100 % tu vois parce
+que c'est toi enin j'espère sinon
+c'est le temps est pas forcément
+toujours le même mais le taux
+d'ouverture c'est j'espère que c'est
+toujours le même mais en tous les cas
+c'est ça le truc c'est que être proche
+de ses clients c'est bien c'est c'est
+toujours do things at don't scale et
+c'est pas une question de chiffres les
+chiffres ça découle des actions que vous
+faites forcément forcément forcément et
+c'est pour ça qu'il faut pas se
+benchmarker c'est pour ça que c'est
+compliqué de se benchmarer et que dans
+ta question il y a ce truc de euh 5 ou
+30 % ben tu vois le le le raccourci
+mental que tu vas faire c'est ouais bah
+mon concurrent il fait 30 % de
+conversion euh donc je dois faire pareil
+ou ouais mon concurrent il fait il fait
+5 % de conversion donc je dois faire
+pareil non mec fais du mieux que tu peux
+fais du mieux que tu peux déchire-toi
+pour que les gens ils soient trop trop
+fan de ton produit et qui vivent et qui
+dorment pour ça et c'est c'est un truc
+qui est fou c'est un truc qui est fou et
+que j'ai réaliser il y a il y a
+peut-être un an de ça et dont on parle
+pas assez souvent c'est qu'il y a
+beaucoup de
+gens il y a vraiment beaucoup beaucoup
+de gens tu vois j'ai réalisé ça l'autre
+fois parce que on parlait de revolute
+justement et à l'époque mon mon mon pote
+me fait mais revolute il rendent 2500
+nouveaux clients par
+jour et tu vois genre quand onend révolu
+tu fais un million d'utilisateurs
+quandentends révolu tu fais 100 millions
+de chiffres d'affaires quand entends si
+i tu te dis ouais ok c'est stylé c'est
+une belle boîte je trouve que 2500
+personnes qui rentrent et qui achètent
+une carte bleue tous les jours c'est un
+vrai chiffre palpable tu vois 2500
+personnes là on est 100 tu imagines 2500
+c'est gigantesque et il y a plein de
+gens il y a plein plein plein plein de
+gens et ça implique qu'il y a plein
+plein plein plein de gens différents et
+que tous ces gens différents ils peuvent
+avoir des envies très spécifiques et
+quand je dis tu dois faire en sorte que
+les gens ils vivent ils dorment ils
+mangent ils boivent pour ton produit
+c'est possible c'est possible parce
+qu'il y a plein de gens et en fait il y
+a tellement de gens que pire quoi genre
+tu vas en parler à 100 personnes et
+elles vont toutes te dire ouais non ça
+m'intéresse pas trop et puis en fait tu
+vas trouver qu'il y a une autre niche
+qui qui qui qui qui qui qui a plus le
+problème que tu as identifié et puis eux
+ils vont tout de suite accrocher et ça
+va cartonner mais a mais il faut
+vraiment prendre ce truc en compte il y
+a plein plein plein plein de gens et
+dans ces plein plein de gens il y a
+beaucoup de gens qui sont prêts à vivre
+et à mourir pour votre produit quoi nous
+menu nextdor quand on posait la question
+si menu next dooror s'arrête demain
+qu'est-ce que tu fais on avait quatre
+réponses c'était genre rien je m'emb
+balc
+euh c'est galère
+euh je vous aide à à à remonter et je
+manifeste je manifeste et les gens à 80
+% ils disaient je manifeste au top de
+menu next door pourquoi parce qu'on
+était hyper proche d'eux ça ça ça
+implique plein de choses je je dis je je
+digresse un peu mais tu sais quand on
+on parle tout le temps de success is
+obvious et de ouais 5 % 30 % de
+conversion tu as un truc tu vois tout le
+monde cherche le product market fit tout
+le monde cherche le tas un truc le jour
+où tu as un vrai product market fit tu
+le sais c'est tout point bar n nous chez
+MEnu next door on savait qu'on avait le
+product market fit parce qu'on avait des
+chefs qui venaient nous
+voir avec des liasses de
+billets c'est pas une blague il venait
+avec des liases de billets il nous
+disait les gars je me sens super mal
+parce que je me fais 600 balles de BF
+tous les soirs et je vous donne même pas
+de commission parce que vous avez pas de
+paiement par carte bleue je peux vous le
+donner en cash
+euh bah vas-y ouais fais n tours tu vois
+vas-y go on y va on y va quand tu as des
+gens qui viennent te donner de l'argent
+dans ta cuisine où tu es en train de
+taffer et tu es en train de prendre des
+photos des plats des chefs suivants tu
+as un succès tu as un product marketfit
+tuas des gens qui sont prêts à se battre
+quand les gens nous répondaient on est
+prêt à manifester
+on l'a vérifié on l'a vérifié parce
+qu'en
+fait un truc qui s'est passé avec menu
+nextdor plus tard c'est qu'on avait des
+problèmes avec avec l'fsa donc on était
+dans trois villes avec Mandor on était à
+Bruxelles Paris et Londres mais à
+Bruxelles c'est là qu'on était les les
+plus gros proportionnellement par
+rapport au au au marché
+quoi et je vais enlever ce truc là c'est
+un peu c'est un peu pété personne me dit
+rien tu sais ouais ouais ouais
+à Bruxelles on avait un problème avec
+l'fska l'fska à Bruxelles c'est l'Agence
+fédérale pour la sécurité de la chaîne
+alimentaire c'est un organisme qui a été
+créé pendant la vache folle pour
+protéger les gens de d'une mort certaine
+s'ils mangent des choses en France c'est
+le fisque grosso modo qui fait ça qui
+qui gère la qui fait l'inspection des
+restos et tout ça là-bas il y a un
+organisme à part et grosso modo ils sont
+détestés par la
+population parce que ils interdisent
+tout plein de trucs qui sont cool tu
+vois genre en Belgique ils ont un
+patrimoine culinaire qui est bon qui est
+qui qui est pas hyper riche mais qui est
+sympa quand même quoi genre vraiment il
+y a quelques trucs vraiment chouettees
+notamment ils ont une tartorie qui est
+faite au lait cru de des ardenes et le
+lait cru c'est pas validé par l'askaa tu
+vois le lait cru c'est c'est hyper
+dangereux à la consommation donc il y a
+plus de tartorie en Belgique à cause de
+l'askaa et donc laavska donc c'est une
+espèce de cellule de cellule un peu
+arbitraire qui décide si oui ou non tu
+as le droit de vie ou de mort sur ton
+resto quoi et donc ils ont vu menu next
+ils ont vu un groupe Facebook qui était
+passé de 500 personnes à 2500 en 2
+semaines et ils sont fait oh là on va se
+faire ubérisé ils ont flippé tu vois et
+et comme ils ont flippé ben ils ont
+commencé à envoyer des inspecteurs chez
+tous nos chefs tous les chefs genre tous
+les jours il y avait deux contrôles
+sachant qu'on avait genre 500 chefs en
+tout c'était c'était beaucoup quoi
+proportionnellement tu vois et le
+problème c'est pas que les chefs étaient
+pas en règleou quoi que ce soit en vrai
+les chefs ils étaient en règle
+cuisinaient dans leur cuisine là où ils
+cuisinent pour leur gosse tu vois mais
+tu imagines la flip pour la maman de 50
+ans qui cuisine pour 20 personnes le
+soir qui viennent prendre les plats
+emporter il y a ces gosses qui sont en
+train de jouer dans ses pattes et leur
+dit oh les enfants poussez-vous et tu as
+un mec qui débarque qui met sa charlotte
+qui met ses gants et qui dit bonjour
+madame vous n'êtes pas en règle vous
+allez avoir une amende de 1500 € mais
+moi je gagne 100 B avec menuor tu vois
+bah forcément il flippe et il se barre
+tu vois et on a dû trouver une solution
+la solution qu'on a trouvé c'est qu'on
+s'est retrouvé à 1hure du math dans un
+café avec Ousama et Nicolas Collin on a
+écrit une lettre ouverte qui s'appelait
+afska mon amour on a écrit en lettre de
+sang comme ça hyper épique on s'est bien
+marré et on a écrit cette lettre ouverte
+en Nicolas Colin a écrit cette lettre
+ouverte grosso modo on l' signé de Nico
+qui était le menu next et c'étaitska mon
+amour on a essayé de dialoguer avec
+vous on a pas
+réussi allez je je digresse encore un
+tout petit peu la au tout début on
+reçoit un courrier de laavska qui nous
+dit on vous convoque à une audition on
+vous convoque on vous invite à une
+discussion c'était plus ça le terme
+d'ailleurs c c'était cool tu vois donc
+on se dit trop cool on va voir l'avska
+comme on est des mecs sympas et que
+potentiellement c'est des mecs sympas on
+va arriver à trouver un terrain
+d'entente et on va faire un truc cool tu
+vois
+on arrive dans le bâtiment de l'avska
+c'est un grand bâtiment comme ça tout
+gris tu arrives là-dedans tu vas à
+l'accueil tu dis bonjour je viens voir
+le président de laaska oui c'est au 13e
+étage ok s tu arrives tu prends
+l'ascenseur il y a un bouton c'est le
+13e étage tuis déjà tu es là chelou tuis
+tu montes 13e étage tu arrives dans une
+salle donc tu te dis ça va être cool
+çaêre casuel tuis va y avoir le mec on
+va se mettre dans son bureau on va
+discuter voir ce qu'on peut faire machin
+tuar dans une salle de réunion où c'est
+le FBI tu as genre 10 personnes en
+costard et le mec se lève à l'autre bout
+de la table il fait bonjour je suis le
+président de laaskaa je vous présente
+monsieur qui gère le fisque monsieur qui
+gère les impôts monsieur qui fait ça ça
+ça et ça madame machin et tu es là genre
+euh
+ok bah écoutez en tout cas merci de nous
+avoir reçu ça fait très plaisir donc
+Nico dit ça ça fait très
+plaisir j'espère qu'on va pouvoir
+dialoguer discuter échanger et trouver
+les solutions pour mettre ensemble à
+bien cette inititive
+citoyenne et le mec nous regarde et nous
+dit vous savez il y a 200 ans les
+initiatives citoyennes on leur coupé la
+tête donc tu te rassois tu fais OK et et
+c'est galère tu vois c'est galère et et
+donc donc dans la lettre ouverte un an
+plus tard on leur écrit ça on leur dit
+ça on leur dit écoutez vous on a voulu
+dialoguer avec vous et vous nous avez
+dit que vous alleiez nous couper la tête
+qu'est-ce que vous voulez qu'on fasse et
+tous les gens qui dans le dans le type
+form on leur avait demandé qu'est-ce que
+vous feriez si exdor s'éteint et que ils
+avaient dit on va manifester tous les
+gens ont lu cette de lettre
+ouverte ça a été lu 400000 fois en
+Belgique ils sont ils sont 100 millions
+dont 1 million à Bruxelles il y a 400000
+personnes qui ont lu cette lettre il y
+en a aussi un peu en France et tout mais
+c'est quand même énorme tu vois et en
+fait cette lettre cette lettre elle nous
+a permis de rencontrer le ministre qui
+était en charge de l'avska à l'époque on
+est devenu pote avec lui on a bu des
+bières et tout en Belgique tout se règle
+en buant des bières on a bu des bières
+avec lui et et le gars a fait passer une
+loi pour que l'avska puisse plus nous
+emmerder quoi
+et et c'est ça la force d'avoir des
+users qui sont fan de ce que vous faites
+et qui sont fan plus que de ce que vous
+faites qui sont fan de vous en fait il y
+a un truc comme ça il y a un peu un
+tabou
+français sur la mégalomanie tu vois je
+je vois je vois beaucoup d'investissurs
+qui me disent la mégalomanie c'est bien
+genre pour monter une start-up si tu
+veux faire un truc gigantesque faut être
+mégalo tu vois forcément tu es obligé
+sinon tu peux pas vouloir avoir envie de
+monter des empires et c'est pas
+forcément mal ça veut pas dire que tu es
+une mauvaise personne évidemment si tu
+es mégaloman et que tu veux buter tout
+le monde tu es une mauvaise personne
+mais si tu es mégaloman et tu veux juste
+créer un grand truc bah grand bien ten
+face tu vois et et fais-toi plaisir et
+c'est ça et dans être mégaloman et
+accepter le fait d'avoir un petit peu de
+mégalomanie en soi ça implique qu'il
+faut accepter que les gens ils soient là
+pour toi aussi ils sont pas là forcément
+pour ton pour ton produit ils sont là
+parce que toi ils te kiffent quoi et
+c'est vrai au début et et c'est vrai de
+plus en plus au fur à mesure et et tu
+représentes quelque chose c'est pour ça
+qu'il y a souvent une personne qui est
+mise en avant dans une boîte c'est pour
+ça que souvent c'est le CEO et que il y
+a une personne qui est dans la presse et
+ça crée des conflits tu sais moi je vois
+des boîtes où les gens ils me disent
+ouais euh ouais mais moi je suis le
+cofondateur et c'est tout le temps le
+CEO qui est dans la presse et on parle
+jamais de moi bah ouais mec c'est plus
+facile pour les gens de retenir une
+personne que un qui tueur de fondateur
+et toi tu fais quoi dans l'équipe alors
+moi je m'occupe des développeurs les
+gens ils lisent L'Express ils
+comprennent rien tu vois genre tu es
+obligé d'avoir une personne une figure
+tu imagines si à chaque fois que Marc
+Zuckerberg qui parlait dans la presse on
+disait Mar Zuckerberg et c'est
+cofondateur Edouardo savrine et Machin
+et Machin d'ailleurs j'arrive même pas à
+les avoir de tête tu vois genre
+forcément c'est c'est trop compliqué et
+c'est et c'est hyper important d'avoir
+des gens qui sont là pour toi aussi je
+suis sûr que dans les gens le il y a 2
+ans je sais pas si je sa pas je sais pas
+quel est chiffre maintenant mais le NPS
+de facebook donc le net promoter score
+c'est en gros le le score que tu obtiens
+quand tu poses la question aux gens euh
+à quel point vous seriez prêt à
+recommander ce produit à quelqu'un
+d'autre grosso modo si tu es entre 1 et
+5 B ton produit pourri quoi euh si tu es
+entre 5 et 8 tu as un truc qui est bien
+et si tu es à 9 et 10 tu as un produit
+incroyable et les gens kiffent trop ton
+produit ça veut dire qu'ils le
+recommandent à tout le monde et qu'ils
+sont ambassadeurs c'est quasiment sûr tu
+vois
+le le NPS de Facebook il y a 2 ans
+c'était
+90 c'est gigantesque tu vois je suis
+persuadé que dans une une partie des
+gens qui promuvent Facebook et qui
+disent c'est incroyable je mets 9/ 10 à
+Facebook il y en a plein qui le font
+pour Mar Zuckerberg quoi et et si
+c'était pas le cas au départ si si c'est
+plus le cas maintenant c'était le cas au
+départ et c'est toujours pareil tu vois
+il le ils le font pour marerberg ils le
+font peut-être pour Vard ils le font
+peut-être pour plein de raisons mais ils
+le font jamais parce que juste le
+produit est ouf ils le font parce qu'ils
+veulent leur de chot de dopamine
+et où ils se sentent acceptés tu sais
+genre c'est ce truc du du leader le le
+leader qui mène par l'exemple le gars
+qui va dire avant tout le monde oh
+regardez ça c'est trop bien alors que
+personne avait remarqué que c'était trop
+bien et quand tout le monde est dessus
+c'est le mec qui vient de voir et qui
+dit ouais moi j'étais là avant que ce
+soit cool et c'est toujours pareil c'est
+des mécanismes sociaux il faut
+comprendre ces mécanismes sociaux il
+faut comprendre qui sont vos
+utilisateurs et pourquoi ils font ce
+qu'ils font encore encore encore ben
+merci beaucoup en tout cas

@@ -1,0 +1,1276 @@
+bienvenue dans cet épisode 3 alors dans
+l'épisode précédent on a vu comment
+standardiser maintenant on va s'attaquer
+à transformer cette standardisation en
+des process automatisé alors
+l'automatisation c'est le pouvoir
+magique de l'époque à chaque époque il y
+a des chamans il y a très longtemps il y
+a des types ils se sont soignés ils ont
+découvert comment mieux soigner que les
+autres ils ont pris le pouvoir c'est les
+premiers chaman après il y a des mecs
+qui ont découvert comment faire des
+armes plus solides que les autres c'est
+devenu les sorciers après il y a des
+mecs qui ont compris comment
+fonctionnaient les astres et
+l'astronomie c'est devenu les chaman de
+cette époque et à chaque époque il y a
+un petit groupe de gens qui sait
+maîtriser une technologie qu'un plus
+large groupe de gens ne sait pas
+maîtriser et ce groupe de gens prend le
+pouvoir pour tout œil non observateur il
+est impossible de faire la différence
+entre une technologie assez avancée et
+de la magie la magie et la technologie
+se confondent quand on n pas l'œil
+expert donc première chose parce que
+vous faites partie de la communauté coup
+d'état vous allez me tuer ces chamanes
+on est en train d'atteindre une époque
+où pour automatiser il y a plus besoin
+d'être un ingénieur il y a plus besoin
+d'être un codeur il y a plus besoin
+c'est dans ces F de film où les types il
+tapent très très vite sur des écrans
+noir et vert matrix like ça c'est fini
+l'automatisation c'est un pouvoir qui
+est à la disposition de tous et qui a
+une caractéristique assez marrante c'est
+que l'automatique
+comme tous les pouvoirs est en train de
+se démocratiser et énormément
+d'entreprises dans le monde sont en
+train de trouver des moyens
+d'automatiser des process en vous
+donnant des outils qui permettent de
+faire des choses magiques mix max pipifi
+ATABLE je sais pas quoi je suis sûr
+qu'il y a des outils que vous connaissez
+que je connais pas zapieur évidemment
+merci la régie t ces chosesl sont des
+des outils qu'on peut aujourd'hui vous
+donner et appréhender simplement par un
+peu d'effort un peu de conceptualisation
+tuez ce dieu automatisation et prenez ce
+pouvoir entre vos mains tout le monde
+peut automatiser anyone can automate et
+c'est la base de anyone can scale vous
+devez vous enlever toutes ces barrières
+mentales de croire que ce pouvoir
+magique ne vous est pas accessible
+d'ailleurs petite parenthèse avant de
+continuer ce pouvoir il a quelque chose
+chose d'extraordinaire c'est que ce
+pouvoir n'a besoin de la permission de
+personne c'est un peu la vibe de
+l'époque dans cette époque il y a des
+robots ils sont là ils sont disponibles
+c'est une armée de robots et sans aucune
+permission vous pouvez en devenir le
+général et c'est ce qu'on va voir
+ensemble aujourd'hui dans cet épisode de
+anyone kale
+[Musique]
+dans les différentses office hours que
+j'ai pu faire pour en Cancale donc avec
+Léa avec Lavia et avec d'autres
+personnes vous allez voir c'est des
+petites surprises qui arrivent au fur et
+à mesure je me suis rendu compte que
+l'automatisation c'était extrêmement
+puissant ça c'était un truc que je
+savais déjà mais surtout que ça pouvait
+paraître complexe quand on voulait se
+mettre dedans effectivement comme dit
+ousama il y a un aspect armé de robot et
+c'est facile d'y accéder et aujourd'hui
+il y a plus besoin de savoir coder et il
+y a plus besoin de comprendre des des
+concepts très très très complexes pour
+pouvoir s'y mettre par contre ça demande
+quand même du travail ça demande quand
+même du travail et je pense que le plus
+difficile dans ces histoires
+d'automatisation c'est de choisir les
+bons outils parce que choisir les bons
+outils c'est vraiment la la première
+étape et ensuite de s'y tenir et
+d'apprendre à les utiliser de mieux en
+mieux parce qu'en fait le vrai probl
+problème dans le choix des outils c'est
+qu'il y en a vraiment une multitude donc
+soit on est dans une situation où on
+connaît aucun outil et il faut commencer
+à chercher pour ça il y a des sources
+comme product Hunt il y a plein de blogs
+qui parlent de ça il y a the toolbox
+chez the family qui fait ça très très
+bien sur coup d'État dans le slack den
+one can scale je suis sûr qu'on va se
+partager plein d'outils très
+intéressants là voilà pendant le
+tournage avec Ousama il me parle de
+pipefi et je suis là en mode ah mais
+c'est quoi hop on échange le TIPS je
+vais aller tester je vais regarder il y
+a quand même une approche à
+l'automatisation c'est quelque chose
+dont on doit être conscient constamment
+il y a une veille il y a des nouveaux
+outils qui sortent et même si c'est
+moins compliqué qu'apprendre à coder et
+et je pèse mes mots parce que c'est
+vraiment beaucoup beaucoup moins
+compliqué qu'apendre à coder il y a
+quand même pas mal d'outils à connaître
+par exemple avec Léa dans son office
+hour c'est ce qu'on a pu voir on a pu
+automatiser toute sa gestion des leads
+entrant par sa landing page grâce à des
+outils comme MailChimp comme zapier
+comme les outils de squarespace
+directement pour créer la landing page
+tous ces trucsl c'est des outils qui
+existent qui sont utilisables assez
+facilement et dont la prise en main est
+plutôt
+rapide ici avec la on a plusieurs
+problématiques qu'on va vouloir
+automatiser grâce à des outils ces
+outils il y en a plein il y en a
+vraiment beaucoup parce qu'en fait
+l'automatisation c'est un des trucs qui
+est le plus demandé sur le marché et du
+coup bah forcément il y a énormément
+d'outils qui ont été créés pour ça le
+premier outil qu'on va utiliser ici
+c'est mail Chimp parce qu'en fait il va
+nous permettre de dans la continuité de
+la génération de Lead de la donc en fait
+on a créer des leads qui sont des gens
+qui sont intéressés par le travail de la
+et qui vont vouloir télécharger le pdf
+gratuit donc tous ces gens qui sont des
+leads de la donc qui ont décidé de
+laisser leur adresse email et de remplir
+ce formulaire et qui vont euh vouloir
+recevoir le pdf gratuit il va falloir
+que on les mette dans une liste déjà
+comme ça on a toute la liste de leurs
+emails en plus du truc de base de
+squarespace mais euh on va surtout
+utiliser une liste MailChimp et donc
+faire en sorte que dans cette liste tous
+les gens qui s'inscrivent par ce
+formulaire tombent et à chaque fois que
+quelqu'un s'inscrit dans cette liste il
+reçoit un email automatiquement qui lui
+dit merci déjà de t'être intéressé à mon
+travail et en plus de ça voilà le PDF
+qu' qu'on t'a promis donc pour ça on va
+d'abord aller dans
+MailChimp et dans MailChimp on va
+pouvoir aller voir ce qu'il s'
+appppellent les audiences donc les
+audiences c'est vraiment les listes de
+gens que tu as et tu vas pouvoir créer
+une audience très simplement déjà avec
+la version gratuite de MailChimp c'est
+vraiment une des fonctions de base et
+donc ici on va créer une audience je
+vais vous montrer comment on crée une
+audience
+donc ici si tu veux créer une nouvelle
+audience ça va être juste un formulaire
+assez simple dans lequel tu vas devoir
+rentrer plusieurs infos donc le nom de
+l'audience ça va être la leads par
+exemple l'email l'email à partir duquel
+tu vas envoyer des mails à cette
+audience donc ça va être par exemple
+laavocat.co je sais pas LR le name donc
+le le nom qui apparaît dans la boîte
+mail des gens
+euh qui qui va qui va s'afficher donc on
+peut choisir ça et cetera et donc en
+gros toutes ces infos là tu vas pouvoir
+les utiliser créer une liste et à cette
+liste choisir d'envoyer des emails
+automatiques ou non dans notre cas ce
+qui est important dans un premier temps
+c'est d'arriver à relier le formulaire
+qu'on avait mis sur squarespace sur le
+site de la à une liste MailChimp donc
+pour ça on va utiliser notre liste de
+tests qui s'appelle coup d'Éat anyone
+can scale staging et on va essayer de on
+va faire en sorte que dans dans
+squarespace à chaque fois que quelqu'un
+remplit ce formulaire on puisse recevoir
+dans ma ses infos donc ici on va aller
+dans le formulaire et on va cliquer sur
+Modifier ici dans
+squarespace on va appeler le formulaire
+lead generation ça c'est déjà le cas et
+ici dans archive il y a déjà des
+connexions on va pouvoir se connecter
+directement à machimp donc ça marche sur
+le plan payant de squarespace c'est un
+plan payant qui est pas très très
+cher username coup d'état
+voilà on se connecte à MailChimp et on
+choisit la liste dans laquelle on veut
+envoyer tous les gens qui ont rempli ce
+formulaire donc ici on va l'envoyer sur
+anyone can staging on va appliquer ça et
+donc là ça y est c'est automatisé ça
+fait que automatiquement tous les gens
+qui remplissent ce formulaire rentrent
+dans la liste MailChimp de diffusion que
+vous aurez créé auparavant l'idée c'est
+que une fois qu'on est dans une fois
+qu'on a ça dans MailChimp on va pouvoir
+créer une ouvelle campagne un nouvel
+email on va choisir que ce soit un email
+automatique donc automated pour welcome
+new subscribers donc automatiquement ça
+va faire en sorte que les gens qui
+s'inscrivent dans la liste reçoivent un
+email directement on va l'appeler pdf
+gratuit après abonnement tac et on va
+l'envoyer sur anyone can scale staging
+begin dans Mach c'est très très simple
+donc là ici il nous indique que il va
+envoyer tous les nouveaux contacts qui
+rentrent dans cette liste immédiatement
+après qu'il rejoignent la liste C can
+scale staging que ça va être envoyé
+depuis Valentin Richard coup d'État donc
+on doit pouvoir on peut modifier ce
+truccl là on peut mettre Léa
+Érard avocate pour
+startup et on peut mettre son adresse
+mail en fonction de ce ce qu'elle a et
+cetera et ici donc ici on va pouvoir
+modifier le sujet donc ici ça va être
+votre PDF gratuit par Lesa érar un truc
+comme
+ça et ici c'est le preview text donc ce
+qui va apparaître dans les premières
+lignes du mail et donc qui va apparaître
+dans les quand le mail n'est pas encore
+ouvert chez la
+personne merci pour ton
+abonnement voilà ton pdf
+gratuit hop et ensuite il reste plus
+qu'à designer le contenu de
+l'email donc ici on va pouvoir enlever
+cette partie là mettre éventuellement
+qu'une partie texte et ici donc si on
+récupère
+ça on va pouvoir insérer des variables
+comme par exemple le prénom de la
+personne donc ça va faire hello prénom
+voilà et donc ici on a on a un truc donc
+on pourra mettre un lien avec un lien
+vers un truc de téléchargement ça peut
+être n'importe quoi tous les fichiers ça
+peut être un lien Dropbox ça peut être
+vraiment beaucoup de choses mais en gros
+tout l'intérêt de ça c'est qu'une fois
+qu'on fait save and continue on va
+pouvoir dire que cet email automatique
+est activé donc on fait start sending
+start now et là ça y est tous les gens
+qui vont s'inscrire et qui vont remplir
+le formulaire sur squarespace ici vont
+tomber automatiquement dans la liste
+mailcham qu'on a créé et à chaque fois
+qu'il rentre dans la liste mail team
+automatiquement ils vont recevoir un
+email de bienvenue avec le lien vers le
+PDF donc là on passe d'un système où au
+lieu que la reçoive une notification par
+email à chaque fois que quelqu'un
+s'inscrit et qu'ell doivent lui envoyer
+à la main le PDF on a automatisé ça et
+on a fait en sorte que ça l'envoie
+automatiquement donc ici en
+automatisation il y a un un truc qui est
+très important euh qui est
+qu'aujourd'hui donc Léa automatiquement
+quand les gens deviennent des leads et
+ben il tombe dans son euh dans son dans
+son mail Chimp et il y a un email
+automatique qui est parti c'est
+intéressant mais on a aussi tout ce
+qu'on a standardisé avec la avec le
+pipeedrive et ça c'est vraiment
+important que dans le pipedrive
+automatiquement les gens qui lui
+indiquent qu'ils ont besoin d'une
+prestation légale ils tombent
+automatiquement dans le pipedrive donc
+potentiellement dans notre pipedrive ce
+qu'on va faire donc on va faire
+paramètres du pipeline et ici on va
+modifier et donc on a prospect
+identifier donc on va le on va l'appeler
+a répondu au questionnaire donc ici on a
+deux choses qu'on va vouloir connecter
+entre elles d'abord on va avoir ce
+typeform là qui un typeform très très
+basique sur les demandes que peut
+recevoir la donc c'est vraiment la toute
+première itération on peut faire mieux
+forcément et en gros on va avoir donc
+juste le Welcome screen demander le
+prénom et nom de la personne son adresse
+email décrivez votre problème et quel
+est le statut de votre société
+évidemment ce formulaire il va être plus
+poussé à terme mais l'idée c'est que ici
+dès quelqu'un va envoyer ce formulaire
+il faut qu'il tombe automatiquement dans
+le pipedrive pour que Léa le matin elle
+ait une liste de tous les gens qui se
+sont inscrits la veille et qu'elles
+puissent les traiter les contacter et
+dire ok ceux-l bah il c'est des clients
+potentiels pour moi ceux-là non et en
+tout cas pouvoir tous leur répondre
+l'idée ici c'est que donc on a le P la
+pipeline de de pipeedriive et on a le
+type mais il faut connecter les deux
+entre eux pour ça on va utiliser un
+outil qui est ultra puissant qui
+s'appelle zapier et qui te permet en
+fait d'automatiser une énorme partie de
+ton workflow genre c'est vraiment
+exceptionnel comme outil parce que ça se
+connecte à énormément d'outils déjà
+existants et ça les connecte entre eux
+pour créer des automatisations on va
+devoir créer un
+zap si on veut créer un zap il faut
+d'abord choisir un trigger ce trigger
+c'est type form chez nous c'est à chaque
+fois que quelqu'un remplit le type form
+il va se passer quelque chose donc là on
+a new entry donc à chaque fois que le
+type for est submitted donc là on y
+est on va choisir un compte donc je
+prends mon compte et on va choisir le
+formulaire et donc ici c'est j'ai une
+problématique légale c'est comme ça que
+notre formulaire s'appelle et on fait
+continuer et on va vouloir ajouter un
+step donc on va faire une action et donc
+ça veut dire qu'à chaque fois que le
+trigger est déclenché donc à chaque fois
+que mon type form est rempli on va
+vouloir rentrer dans pipeedrive
+automatiquement la personne donc on va
+créer un deal le deal c'est ce qui
+apparaît ici c'est carte là et il est
+lié directement à une personne et une
+compagnie et cetera mais ce qui est
+important c'est le deal et ensuite on va
+faire
+continuer hop c'est le bon compte
+pipedrive c'est peut-être pas le bon
+compte pipedriive en
+fait on connecte le compte pipedrive à
+zapier donc c'est ici que ça se passe
+c'est ici dans Paramètres du pipeline on
+va aller chercher
+la clé d'pi donc c'est dans appli
+intégration comment fait
+trava donc c'est ici dans les paramètres
+dans autre on a le jeton personnel qui
+est ici on va le copier et le coller
+dans le truc de
+zapier tac et donc notre compte
+pipedriive est connecté à
+zapier une fois que c'est fait on
+sauvegarde et ensuite on va pouvoir
+mettre un titre donc le titre on va dire
+qu'on veut une variable qui va être le
+nom et prénom de la personne le statut
+on va le mettre dans la bonne colonne
+donc aujourd'hui il est
+Open donc le statut c'est il est Open
+c'est en cours et le stage
+hop ça va être à répondu au
+questionnaire comme ça on le fait
+rentrer directement dans la première
+colonne et ensuite le tout ça est
+optionnel donc tu peux vraiment remplir
+ta carte P drive comme tu veux donc là
+ça je vous je vous laisserai jouer avec
+si vous voulez et ensuite on envoie un
+test à pipedriive le problème c'est
+qu'on avait pas de de test
+machin tac et si on revient dans les
+offres ici on
+a une offre lorpsum dollar qui a priori
+marché donc on va pouvoir la virer h on
+va cliquer sur
+Supprimer et ici on
+finiche on va
+l'appeler leads to
+pipedrive hop et on active le
+Zap et normalement ça tourne donc si on
+vérifie et on va regarder le type
+form hop on commence prénom et nom
+Valentin Richard
+email
+valentincouet.co décrivez votre problème
+j'ai un problème quel statut de votre
+société
+SAS
+submit l'information é voyez et si on
+check ici dans la colonne ici on a
+automatiquement une carte Valentin
+Richard qui a été créée et on n pas
+d'autres infos mais donc dans dans
+zapier tu vas pouvoir rajouter plus
+d'infos donc en fait toute l'idée ici
+encore une fois on va pas rentrer dans
+le détail de comment fonctionne zapier
+avec pipeedrive vous pouvez jouer avec
+et vous pouvez tester des choses et voir
+comment ça peut être de mieux en mieux
+mais l'idée est là c'est que
+automatiquement à chaque fois que
+quelqu'un va remplir le formulaire sur
+le site de la pour faire une demande
+d'aide légale ça peut être sur le site
+mais ça peut être aussi par mail une
+fois qu'elle va les contacter et cetera
+et ben à chaque fois qu'elle va faire
+cette quelqu'un va faire une demande de
+légal ça va tomber dans le a dans la
+colonne a répondu au questionnaire de
+Léa et elle pourra traiter parce qu'ici
+il y a pas de Call oou il y a pas de
+rendez-vous qui est prévu dans le futur
+donc elle va pouvoir programmer une
+activité pour le futur et une fois que
+cette personne a il y a eu une prise de
+contact et cetera et ben hop elle va
+pouvoir passer dans la colonne suivante
+et l'idée c'est que avec mix max ça
+combiné à mix max ça va te permettre de
+avoir des templates ça va te permettre
+d'avoir des automatisations et tu vas
+pouvoir progressivement avec zapier
+automatiser avec tous les outils que tu
+utilises dire ok euh tu vas peut-être
+pouvoir rajouter une colonne euh où tu
+as tous les gens qui sont juste des
+leads pour voir comment tu pourrais les
+contacter pour qu'ils deviennent des
+gens qui ont répondu au questionnaire
+donc ajouter une colonne sur la gauche
+du du Fenel enfin vraiment voilà il y a
+énormément de choses et l'idée c'est que
+pour Léa euh et pour n'importe qui qui a
+ce problème cette problématique de
+devoir gérer beaucoup de clients à la
+fois avoir une fiche comme ça par client
+et savoir où tu en es et avoir des
+rappels de si tu dois les appeler et
+cetera ça te permet d'avoir des Tod list
+de regarder en début de semaine comment
+tu fais pour organiser ton temps pour
+abattre tout le taf que tu dois abattre
+absolument et qui est à l'intérieur du
+CRM et donc ça te permet de t'organiser
+beaucoup mieux grâce à des
+automatisation pour Lavinia pour cette
+histoire d'automatisation de des emails
+et cetera on va utiliser la même logique
+que Léa avec le zapierur où en fait on
+va faire en sorte que tous les gens qui
+remplissent le questionnaire de lavinha
+euh tombe dans intercom donc intercom
+c'est un outil qui est extrêmement
+puissant je vous invite aussi à à
+regarder la saison 2 et surtout
+l'épisode 5 où je parle d'intercom et où
+je présente intercom intercom c'est très
+très puissant parce que ça te permet
+d'automatiser la relation à distance que
+tu as avec tes clients en envoyant des
+emails de manière régulière et cetera
+donc en fait intercom ça va fonctionner
+un peu de la même manière que que
+pipedrive ça va être un outil qui va te
+permettre de gérer ta relation avec tes
+clients mais c'est une autre manière
+parce qu'en fait la viinia elle a pas
+particulièrement besoin d'avoir beaucoup
+d'action sur les les gens qui ont qui
+sont dans son Fenel là où Léa va devoir
+gérer tout le temps à droite à gauche
+des clients où est-ce qu'ils en sont et
+cetera la Vigia elle elle va avoir
+surtout besoin d'un truc automatique qui
+va envoyer des messages régulièrement et
+si les gens répondent tant mieux si les
+gens répondent pas tant pis mais il y a
+pas il y a pas un besoin d'action
+constant de sa part donc intercom est
+plus adapté à ce à cette situation là de
+la même manière qu'on a connecté euh
+zapier à pipeedrive pour Léa on va
+pouvoir connecter zapierur à intercom
+pour la vinia donc ça va faire en sorte
+que à chaque fois que quelqu'un
+remplisse le formulaire il tombe dans
+cette liste de people sur intercom et en
+fait ces gensl vont avoir des propriétés
+propriétés on va pouvoir les updater à
+chaque fois avec zapur et avec
+différentes avec différents éléments et
+donc l'idée ici c'est que on va pouvoir
+leur envoyer des messages automatiques
+par exemple donc ici par exemple si je
+veux créer un message automatique et ce
+qui est un email
+donc ici si on va envoyer un email
+automatique on va l'appeler email auto 1
+qui est en gros potentiellement tous les
+gens qui se sont inscrits récemment
+voilà donc je vais je vais donc donc
+potentiellement voilà donc on va
+l'appeler hello
+machin j'ai vu que tu avais
+fait une demande de consultation
+n'hésite pas à prendre ton premier
+rendez-vous
+ici avec un lien et en fait on va
+pouvoir l'envoyer à une certaine
+catégorie d'utilisateur avec des règles
+et donc par exemple on p va pouvoir dire
+je veux envoyer ce mail là aux gens qui
+ont sign up il y a plus de 2 jours et
+donc ça fait que potentiellement tous
+les gens qui sont incris à plus de 2
+jours vont recevoir ce mail
+automatiquement et ça te permet
+d'engager la conversation et en fait
+avec Lavinia il y a énormément de choses
+à automatiser via intercom pour
+l'exemple je pense que le le le plus
+intéressant ça va être de de faire en
+sorte que les gens donc ils reçoivent
+leur mail automatique chaque jour de la
+part de lavinha qui leur dit remplissent
+questionnaire pour savoir où en est ton
+niveau de santé et ton état de santé
+général et ce qui est intéressant pour
+laavinia c'est de savoir quand la
+personne a à utiliser a rempli ce
+questionnaire pour la dernière fois et
+en fait en fonction de ça ça va lui
+permettre de catégoriser les gens entre
+est-ce qu'ils sont actifs passifs ou
+perdus donc ça va nous permettre d'avoir
+un exemple très très simple sur comment
+tu peux automatiser via intercom et donc
+l'idée c'est que ici on va avoir donc on
+va créer un nouveau questionnaire
+donc ici on a un formulaire extrêmement
+simple bon vraiment j'ai fait la base de
+la base où on va demander l'email de la
+personne et une comment vous une
+question comment vous sentez-vous qui va
+de 0 à 10 juste pour le test l'idée
+c'est d'arriver à connecter ce
+formulaire qui va être l'équivalent du
+formulaire que la Vigia utilise et de le
+connecter à intercom et donc il a
+quelqu'un qui tombe ici dans le le
+projet intercom pour ça on va utiliser
+zapur de
+nouveau donc on va créer un
+zap ce zap il va partir de type form de
+nouveau
+on va ajouter un step où ça va être
+intercom à la réception et on va créer
+updater un
+user ce qui fait que à chaque fois
+quelqu'un va remplir le questionnaire
+s'il existe dans la base intercom il va
+être UPD s'il existe pas encore dans la
+base intercom il va être créé
+donc ici ce qui est très important c'est
+de repérer l'email donc c'est vraiment
+le seul truc qui est require d'ici c'est
+intercom va avoir besoin d'une adresse
+mail pour chercher si cette personne est
+déjà dans la base donc ici hop on va
+utiliser
+ça full name et ben ici on va récupérer
+son nom si jamais on l'a mais on a rien
+du tout et donc on va ensuite euh
+récupérer un attribut custom qui est euh
+comment vous sentez-vous enfin health
+state un truc comme
+ça qui va être la réponse à comment vous
+sentez-vous et on
+continue donc ça c'est pas mal j'envoie
+le test à intercom ça fonctionne ça
+finishe on va l'appeler Lavinia x
+intercom
+et on va le lancer
+on tac et on va pouvoir
+tester donc ici
+donc ici on va pouvoir le
+tester et donc si on teste ce zap on va
+remplir le questionnaire de lavg donc on
+va mettre
+test01@gmail.com comment vous
+sentez-vous plutôt bien h submit
+normalement quand on arrive ici dans
+intercom si on recharge la
+page et cont triit par date de signup et
+cont tri par dat de signup et ben voilà
+on le voit juste ici test01gmail.com
+email testgérgmail.com et donc on a un
+profil intercom qui a été créé pour
+pouvoir suivre tous nos utilisateurs
+donc ça c'est vraiment puissant et ici
+si on regarde dans les détail fait
+afficher les hidden on voit toutes les
+properties toutes les propriétés qui
+sont sur cet uisateur et donc son he
+state et à 10 donc à chaque fois que la
+personne va remplir le formulaire ça va
+updater ce truc là c'est intéressant
+mais c'est pas encore assez dans le sens
+où il va falloir qu'on sache exactement
+à chaque fois qu'il a fait cet événement
+donc on va ajouter en fait un step dans
+notre zap où on va dire à chaque fois
+que quelqu'un remplit le type for en
+même temps qu'on va updater son
+utilisateur on va ajouter un event
+et cette event va dire ok là il a rempli
+le formulaire donc on va utiliser notre
+interc
+test son
+email c'est
+l'email event
+name on va l'appeler type form field et
+la metadata ça va être health
+level et on va rajouter dedans le niveau
+de santé que la personne a indiqué
+mince ce qui fait que si je reviens dans
+mon type form et que je le rempl une
+deuxième fois donc par exemple le typeef
+est reparti le lendemain et ben je vais
+pouvoir remettre euh mon mon mail
+test01@gmail.com alors évidemment ça
+aussi c'est un truc qu'on peut
+automatiser dans type for si tu mets un
+lien particulier tu vas pouvoir avoir
+directement l'adresse email qui est
+préempli tu vas pouvoir passer en champ
+caché et donc en fait ça fait que la
+personne aura pas besoin de remplir son
+adresse mail elle va juste
+avoir on saura directement que c'est
+associé à elle on pourra le faire
+automatiquement dans MailChimp ou dans
+intercom et ensuite comment vous
+sentez-vous et ben cette fois je me sens
+à 8 tac et donc si je charge ma page ici
+donc la page du profil de test01
+àgmail.com et ben on va voir qu'ici il y
+a un truc type form field qui a été créé
+donc un événement qui a été créé et cet
+événement si on regarde les détails on
+voit que le health level est à 8 et si
+on recommence et B ça va rajouter un
+autre événement et ça va faire ça
+commencer à faire une timeline et en
+fait tout l'intérêt et la puissance
+d'intercom c'est qu'on va pouvoir créer
+des profil utilisateur ou grâce à
+zapierur peu importe les services à
+travers lesquels on les fait passer on
+va pouvoir
+à la fois le profil de la personne sur
+où elle en est et à la fois les
+différents événements qu'elle a
+accomplis pour pouvoir regarder sa fiche
+des différentes actions automatiques
+qu'elle a prise avec nous et donc en
+fait c'est ultra puissant parce que pour
+Lavinia et ben ça lui permet de plus du
+tout soucier de ça et on va pouvoir
+créer des catégories et en fait ce qui
+est fou c'est que on va pouvoir créer
+des catégories en fonction des
+différents événements en fonction des
+différentes propriétés donc par exemple
+ici on va vouloir si on retourne dans la
+liste de tous nos utilisateurs
+et que on fait ajouter un filtre et
+qu'on veut regarder uniquement les gens
+qui ont rempli le type form donc type
+form
+field
+laster
+less donc ça veut dire qu'on va regarder
+tous les gens qui ont eu l'événement à
+rempl type for il y a moins de 30 jours
+et ceux on peut les sauver comme un
+segment et on peut dire que ces gensl
+c'est les gens qui sont actifs
+et en fait voilà tous les gens qui
+auront rempli le type form il y a moins
+de 30 jours vont être considérés comme
+actif on va pouvoir créer un autre
+segment où on va dire tous les gens qui
+ont rempli le type form il y a plus de
+30 jours
+et qui ont rempli le type
+form il y a moins de 60
+jours et ces gens-l on va pouvoir les
+sauver et dire qu'il sont passif ça veut
+dire que potentiellement ils ont ils ont
+ils sont ils sont en train de glisser et
+en fait on va pouvoir même créer
+d'autres segments où on va dire ok on
+veut tous les gens qui
+ont less 30 days ago donc tous les gens
+qui ont rempli le tyform il y a moins de
+30 jours et qui ont une
+propriété qui ont une propriété
+hestate qui
+est qui est qui
+qui est 8 par
+exemple et tous ces gens-là hop et ben
+boum ils vont tomber dans cette
+catégorie là et en fait ça nous permet
+d'avoir des catégories des segments de
+gens qui répondent à certains critères
+et ces critères vont être updatés en
+live par zapier dès qu'on va connecter à
+un nouveau service et donc en fait
+l'idée c'est d'arriver à à à prendre
+tous les outils qui existent tous les
+outils qui vont nous servir donc les
+outils de prise de rendez-vous mix max
+et cetera et regardez comment les
+connecter à travers zapier pour générer
+ici un intercom qui est complet avec des
+profils qui nous permettent de dresser
+des segments en fonction de comment on
+avance et en fait euh ces segments on va
+pouvoir les utiliser pour envoyer des
+messages automatiques et donc ici notre
+mail auto 1 par exemple où on dit euh
+bonjour j'ai vu que tu avais fait une
+demande de consultation et cetera et ben
+on va pouvoir l'envoyer ou genre hello
+first name j'ai vu que tu n'avais pas
+rempl le formulaire depuis longtemps par
+exemple est-ce que ça va hop et ici on
+va pouvoir dire ok je veux envoyer ce
+mail à tous les gens qui bon on va
+enlever ça et on va on va envoyer ce
+mail à tous les gens qui ont fait
+l'événement type form field et et la
+dernière occurrence était il y a euh
+plus de 15
+jours là actuellement on en a pas mais
+l'idée c'est qu'en fait dès que
+quelqu'un va rentrer dans la catégorie
+de gens qui ont pas rempli de type form
+depuis plus de 15 jours hop on va leur
+envoyer un email automatique et donc
+tout ce truc de suivi de client et
+cetera est pris en charge aussi et donc
+on a vraiment ces ces deux ces deux phes
+de comment on peut scaler et automatiser
+la relation avec les clients la première
+prre phase c'est qu'on va pouvoir le
+faire avec un pipe drive comme Léa donc
+Léa elle va pouvoir passer d'une colonne
+à l'autre faire en sorte que les clients
+avancent dans le flow et cetera et elle
+a des actions à faire donc c'est
+intéressant d'avoir un système de
+colonne alors que pour la viinia c'est
+plus monitorer où en sont les gens
+updaté en live tout ce que font les gens
+dans son dans son flow dans ses
+automatisations et leur envoyer des
+emails qui sont précis par rapport à des
+actions qui sont répétitives et qui sont
+dans le temps et cetera donc voilà ce
+que je vous invite à ce que je vous
+invite à à faire après tout ça c'est de
+vous poser la question de comment je
+peux automatiser et avec quoi je pense
+que dans nu one can scale la communauté
+pourra vous aider à ça vous pouvez nous
+poser des questions aussi soit dans les
+commentaires soit sur le slack d' one
+can scale sur quels outils utiliser pour
+quel cas et cetera et si on arrive à
+avoir des fiches qui sont suffisamment
+complètes je pense qu'on pourra les
+intégrer aussi à la suite d' new one can
+scale on pourra tous créer des fiches
+ensemble sur quelles automatisation on a
+mise en place parce que c'est vraiment
+un énorme chantier en fait les
+automatisations tout ce que tu peux
+créer c'est quelque chose de gigantesque
+et il y a pas de limite il y a pas de
+limite la seule limite c'est les outils
+existant et il en sort tous les jours
+des nouveaux donc vraiment il y a il a
+il y a tout un tas de choses qu'on peut
+faire en tant que propriétaire de boîte
+de service et de et de et de personnes
+qui veulent scaler individuellement pour
+mettre en place des outils
+d'automatisation qui est probablement
+c'est mon outil je pense préféré c'est
+celui qui te fait gagner vraiment du
+temps et qui te décharge de de toutes
+les choses qui sont manuel et qui ont
+pas forcément de sens dans ton
+business le truc le plus compliqué dans
+la chaîne de valeur de Léa en tant
+qu'avocate ça a été l'automatisation des
+documents de bah des documents legau
+qu'elle peut écrire aujourd'hui bah ce
+que disait ama dans l'épisode sur la
+standardisation un avocat fait beaucoup
+de copiers-collés et en fait c'est
+beaucoup de temps perdu moi je suis
+hyper impressionné par les avocats de
+manière générale parce que je trouve que
+leur connaissance du droit est
+absolument stellaire et que c'est un
+truc que je prendrai jamais le temps
+d'apprendre ou probablement jamais le
+temps d'apprendre et pourtant je vois
+j'ai vu Léa pendant ces office hours
+passer des dizaines d'heures à rédiger
+des docs qui étaient toujours les mêmes
+j'ai vu Léa passer du temps à juste
+changer quelques lignes dans un document
+qu'elle avait déjà un peu templé mais en
+fait il fallait checker à chaque fois
+que il y avait pas la moindre erreur que
+c'était toujours parfait donc tu passes
+du temps à vérifier que tu as pas fait
+d'erreur humaines dans la rédaction de
+ton doc parce que les erreurs humaines
+il y en a plein et donc il a fallu
+trouver un moyen d'automatiser la
+création de ces documents legau et ça a
+eu plusieurs effets ça le premier effet
+que ça lui fait gagner du temps des
+heures et des heures de travail gagné et
+surtout ça a eu le deuxième effet que
+bah en fait il y a plus ces erreurs
+humaines à partir du moment où c'est un
+ordinateur qui va faire la tâche de
+rédiger un document et que c'est plus un
+être humain qui supposé faire des
+erreurs et ben dans une situation où il
+y a pas d'erreur pour ça on a demandé de
+l'aide à Pierrick Pierrick qui travaille
+chez the family qui a qui F un coup de
+main constamment à Léa sur
+l'automatisation de ses processus et il
+nous a fait une super séquence que vous
+allez pouvoir voir sur comment on rédige
+des documents Lego de manière
+automatique grâce à Google sheet à
+zapier et à Google Docs tu bosses déjà
+avec la en fait pour automatiser une
+partie DEES docum j'ai déjà fait une
+grande partie de ces documents et l'idée
+c'est de lui faire gagner beaucoup de
+temps et par exemple avec ce document
+passer plusieurs heur entre 4 et 8 sur
+sur ce document là et là aujourd'hui ça
+cré en moins de 30 secondes ok c'est
+plutôt efficace voilà un l'exemple de
+document que la peut avoir généralement
+les avocat ce qu'ils font c'est que ils
+ont leur template qui est déjà créé sur
+Word et ils mettent ils surlignent en
+jaune toutes les variables qui sont
+jaune et comme ça quand il quand ils ont
+à créer une nouvelle société ils ont
+juste à changer ces variables là et donc
+donc c'est le nom d'entreprise le
+capital l'adresse du sage social la date
+sinon le reste du document c'est le même
+quoi sinon le reste du document comme
+vous pouvez le voir c'est exactement le
+même l'idée c'est d'utiliser zapier
+zapier je crois que on en parle
+plusieurs fois dans l' formation déjàou
+euh zapier c'est un outil qui permet de
+connecter les API et donc là ça on va
+connecter Google sheet qui est le Excel
+de de Google et Google Doc qui est le
+word de Google aujourd'hui Léa quand
+elle reçoit les documents on lui dit ok
+là pour cette nouvelle société va y
+avoir certain certains investisseurs et
+donc les infos qu'on a c'est
+généralement dans un tableau Excel c'est
+le nom
+l'adresse ça peut être la date de
+naissance et compagnie et la somme
+qu'ils investissent dans la société au
+départ l'idée de zapierur c'est que ça
+fonctionne sous forme de trigger et
+ensuite
+action là nous ce qu'on veut c'est avoir
+un trigueer que nous on puisse maîtriser
+lui dire ok toute ma data est
+prête vas-y shoot-moi les documents donc
+ça moi j'ai créé simplement un un N un
+autre onglet et mon trigger il va être
+dans cette case là je vais la mettre
+tout de suite en jaune comme ça on n pas
+perdu et donc ça veut dire que dès que
+je vais rentrer n'importe quel data ici
+ça va lancer la la génération des
+document en automatique donc là
+l'objectif final on est d'accord que
+c'est à ton ton document statut
+constitutif que tu veux pouvoir rentrer
+dans ton tableau Excel le nom de tous
+les investisseurs et ensuite trigger le
+lancement de parsap et qui génère ton
+document automatiquement ok c'est dire
+que c'est à partir d' Excel on fait
+juste un copiercollé donc du coup de de
+cette partie là parce que c'est la seule
+qui change finalement et après ça fait
+tout le reste tout seul d'accord et donc
+toi dans ton dans ta partie trigger ici
+tu vas pouvoir à la fois lancer le truc
+et à la fois mettre les variables qui
+sont en ça c'est quelques variables qui
+sont derrière et donc ça va te faire
+vraiment tout ton document en entier
+juste en disantant parti lance ton
+script exactement zapur pour comprendre
+que c'est des variables il a besoin
+d'une certaine syntaxe il suffit de
+mettre deux accolades et de de coller
+tous les mots et de remettre deux
+acolades à la fin donc ça il va
+comprendre que c'est c'est une variable
+qui s'appelle non entreprise c'est un
+peu long mais une fois mais en fait on
+le fait une fois et ensuite ça bouge
+plus jamais ici j'ai toutes mes
+variables qui sont ici et maintenant
+faut que je leur donne exactement le
+même nom que dans le document pour que
+zapur puisse les reconnaître la forme
+c'est nom de
+l'avestisseur virgule espace de rend
+espace de point espace adresse de
+l'investisseur pointvule nous il va
+falloir qu'on colle exactement à ça donc
+ce qu'on va faire c'est que on va on va
+mettre du texte et donc pour ça
+simplement on va faire on va on va
+concatéer des mots concater c'est les
+mettre les un à les mettre c'est les
+coller à les uns à la suite des autres
+donc je mettre dans ma première cellule
+égal concaer
+et donc là il va me dire ok qu'est-ce
+que tu veux que je mette en premier moi
+ce que j'avais en premier c'était nom de
+l'investisseur donc je vais aller le
+chercher dans le tableau qu'on avait et
+le premier investisseur c'est do Brown
+voilà donc là on a le nom d'investisseur
+ensuite il faut qu'on
+rajoute virgule espace demeurant à et
+compagnie donc ce qu'on va faire c'est
+que là simplement on va le mettre entre
+guillemets parce que ça ça veut dire que
+c'est du texte P et donc ensuite après
+ça ce qu'on veut c'est l'adresse donc
+simplement on met une virgule parce que
+ça lui dit ok donc il y a le nom ce
+texte et encore une valeur et la valeur
+qu'on cherche elle est juste là c'est
+l'adresse après l'adresse il y avait un
+point virule faut y penser donc on remet
+on fait une virgule on remet des
+guillemets ça et ensuite on dit OK et
+voilà là on a notre phrase qui est déjà
+toute faite et après ce qu'on peut faire
+c'est simplement latirer et on descendra
+autant de fois qu'on a besoin ok donc ça
+c'est tous les textes qu'on va vouloir
+avoir donc comme je disais tout à
+l'heure dans mon tableau ici les
+soussignés donc on peut faire le test
+tout de suite on va dans trigger et dans
+les soussignés on va reconquer con c'est
+la formule parfaite on peut tout faire
+avec et donc là maintenant on a plus
+qu'à choisir les champs qu'on veut
+concaténner moi c'est tout de la ligne
+de la colonne C
+hop on ferme ma formule et voilà ils
+sont tous là les un dessous des autres
+donc quand on va les ajouter dans le
+document et ben ils vont tous venir se
+mettre les un dessous les autres donc si
+on récapitule tu pars d'une d'une data
+donc toutes tes variables ici tu vas
+créer un nouvel onglet qui va te
+permettre de remplir ces variables là
+donc toutes les variables simples elles
+sont directement mises dans le trigger
+c'est n entreprise il y a rien à créer
+de spécial faut juste écrire le nom et
+cetera et toutes les variables complexes
+genre je je sousigné machin avec tous
+les noms à la ligne et cetera tu vas
+créer un onglet qui permet de faire les
+calculs et d'avoir finalement le texte
+qui est le texte complet dont tu as
+besoin pour dans ton document exactement
+OK et après une fois que tu as ça il y a
+plus qu'à trigger zapier pour que ça
+aille remplir ton documentement c'est
+maintenant c'est maintenant que la magie
+opère et donc on va passer sur zapier
+zapier comme je disais tout à l'heure
+c'est trigger action nous on a dit que
+le trigger c'était cette case là c'estàd
+que dès qu'on rentre n'importe quoi dans
+case ça va lancer
+zap donc nous notre trigger c'est Google
+sheets et qu'est-ce qu'on veut derrière
+on veut que ça remplisse un google
+doc et donc qu'est-ce que je veux que ça
+fasse je veux que dès qu'il y a une
+nouvelle ligne qui est mise à
+jour ça va lancer crer document from
+text donc ça va créer finalement un
+template et on va faire
+use donc ça ouvre l'interface de
+création de
+zapier donc voilà vous arrivez là-dessus
+Google
+sheet
+nuro cl là vous connectez bien à votre
+compte donc moi c'est pierri cl voilà et
+à partir de là vous allez lui dire ok
+moi je veux que ce soit dans un dans un
+spreadsheet particulier et moi c'est le
+spreadshe qui s'appelle data for
+template anyone can SC la worksheet nous
+on a dit que c'était donc dans la
+worksheet trigger donc
+celle-ci et là il nous dit ok donc
+quelle est la colonne exactement qui va
+être le déclencheur nous on est nous on
+en a setup une déjà et c'est la colonne
+que j'ai appelé trigger simplement et
+donc on va la choisir c'est la
+colonne trigger voilà juste la colonne
+A voilà et donc là continue
+donc là il est parti chercher
+l'information qu'il avait et ça ça va
+PIR ça nous permettre de pouvoir
+tester
+donc
+continue
+clac donc ce que je veux c'est un Google
+Doc ah alors là tout à l'heure il nous
+proposé from texte en fait nous ce dont
+a besoin c'est from template et vous
+voyez il vous met bien dans les
+explications qu'il faut bien la
+nomenclature
+[Musique]
+acolade acolade nonoladeolade ok donc on
+choisit ça
+clac on continue donc c'est bien
+connecté à mon google
+doc et donc là maintenant on va
+simplement aller chercher tout d'abord
+le
+document alors moi j'ai j'ai une petite
+astuce qui permet juste d'aller un tout
+petit peu plus vite c'est vous faites
+custom value
+et vous allez chercher sur votre
+document en fait l'ID du document elle
+est unique euh partout dans le monde ce
+sera la seule c'est la seule ID que vous
+avez pour votre document et en fait
+c'est celle qui est
+ici ça c'est une petite astuce que m'a
+donné le support de zapur quand j'ai pas
+réussi à le faire sin tu dois chercher
+dans tous tes documents Google Docs
+depuis le truc zapier c'est ça et en
+fait au bout d'un moment la machine elle
+peut se prendre les pieds dans le tapis
+et et donc ça et donc ça pose problème
+là lait je sais laquelle c'est parce que
+c'est généralement celle qui est entre
+entre ces deux Slash et juste it
+derrière faut pas prendre et c'est
+exactement pareil pour pour Google sheet
+l'ID c'est celuiy il y a encore edit
+donc vous savez que c'est tout ce qu' av
+voilà document name et ben on va
+l'appeler par exemple
+St
+statut
+constit
+tif et donc là maintenant on va mettre
+une variable comme ça ça va pouvoir nous
+permettre de de mettre le nom de la
+boîte à chaque fois et comme ça à chaque
+document que ça va créer ça va créer un
+document avec le nom de la boîte et où
+est-ce qu'on veut que ce soit alors moi
+j'ai pas envie que ce soit dans dans
+dans la racine de mon Google Doc j'ai
+envie que ce soit dans le dans le
+dossier qui s'appelle coup d'État anyone
+can
+scale clac et ben maintenant il reste
+juste à
+remplir à à mettre la variable donc là
+gole face de la variable de Google ce
+que zapier a fait c'est qu'il a scanné
+ton doc Google Doc cherché tous les
+trucs où il y avait des accolades et là
+il dit bon maintenant j'ai trouvé qu'il
+y avait ça faut que tu me donnes la
+valeur et tu vas pouvoir les prendre
+dans ton qu'est-ce que tu veux mettre en
+face et donc B maintenant il y a juste à
+cliquer juste là sur le petit sur le
+petit plus et puis il y a juste à
+remplir donc non entreprise c'est coup
+d'état et donc là on va faire le test et
+ça va être le moment magique alors on va
+pouvoir tester
+directement et donc là ça va permettre
+de pouvoir faire un premier document
+statut constitutif coup d'État ok il a
+été
+créé voilà on a coup d'État société
+commerciale le bon capital et donc tout
+ça ça a été fait correctement tout ce
+qui a été apporté vous voyez c'est c'est
+propre il y a pas de passage à la ligne
+il y a pas d'erreur ici pareil dans dans
+le nombre départ il y a aucune erreur
+parce que c'est machine qui l'a faite et
+pareil à la fin où on doit avoir toutes
+les signatures qui sont ici du coup là
+c'était simplement le test de zapur
+maintenant ce qu'il faut faire c'est
+lancer le Zap pour que à chaque fois que
+vous déclenchez dans le document ça
+fasse la même chose et vous faites on
+voilà alors maintenant il est on
+c'està-dire que quand vous allez changer
+vos valeurs lu le test ça va être le nom
+d'entreprise ça va nous permettre de de
+voir si le document a bien été changé TR
+élément déclencheur je fais ça on va
+attendre quelques secondes parce qu'il
+faut que zapier se lance et voilà mon
+document est arrivé donc vous voyez bien
+qu'il a le il a le il est le nom qu'on
+lui avait mis voilà CP d'État test et
+donc voilà là c'est un autre document et
+donc maintenant à chaque fois que vous
+changerez une valeur
+une la valeur qui a ici pour mettre
+n'importe quoi et ben ça rééditera un
+document avec toutes les valeurs qui a
+ici voilà parfait magie
+zapier bon ben j'espère que tout cette
+magie vous a plu moi par exemple le
+moment où Pierrick a automatisé les SPV
+qui était un vrai casse-tête dans cette
+boîte à chaque fois qu'on cré un SPV on
+en arrivéit même à des discussions de
+est-ce que cet investissement veut
+vraiment le coup parce qu'on savait que
+ça allait être 3 jours de travail alors
+qu'on devrait simplement les créer à la
+volée automatiquement j'espère que ce
+épisode vous a donné envie de vous y
+plonger de tester des outils d'aller sur
+les forums d'aller sur Google d'aller
+dans le slack de anyone kcale de
+partager des tips de partager des trucs
+c'est quelque chose de constant c'est
+comme toutes les bonnes choses c'est
+encore une fois une routine de la même
+façon que vous avez besoin d'une routine
+de Sales de la même façon que vous avez
+besoin d'une routine de standardisation
+vous avez besoin d'une routine
+d'automatisation et restez ouvert c'est
+pas parce que vous avez mis des semaines
+et des semaines à créer un process dans
+un outil que quand il y a un nouvel
+outil vachement mieux vous l'utilisez
+pas faut être agile faut pas être
+nostalgique faut pas se dire que parce
+que vous avez développé quelque chose il
+do vous devez le garder non adopter la
+nouveauté
+surfez la nouveauté et prenez plein de
+plaisir à automatiser évidemment tout ne
+s'automatise pas il y a des choses que
+vous ne pouvez pas automatiser et c'est
+le moment de transformer vos clients en
+collaborateurs vous êtes dans la partie
+individu scale pas encore dans la partie
+équipe donc je parle bien de déléguer à
+des clients et pas déléguer à des
+employés d'ailleurs si vous savez
+déléguer à des clients vous saurez un
+jour déléguer à des employés c'est
+beaucoup plus dur mais c'est beaucoup
+plus rewarding la délégation au client
+c'est l'outil hyper complémentaire à
+l'automatisation c'est ce qui permet
+d'encore plus scaler quand
+l'automatisation a atteint ses limites
+j'espère que ces trois premiers épisodes
+d'en one Kin scale vous ont plu et que
+vous allez continuer l'aventure avec
+nous

@@ -1,0 +1,1194 @@
+bonjour à tous bienvenue dans cette
+nouvelle vidéo de coup d'état on est
+encore avec Ousama aujourd'hui bonjour
+Osama euh on va échanger sur le cas uber
+et pourquoi est-ce que uber a fait un si
+grand succès et aller essayer
+décortiquer petit à petit bah pourquoi
+ça a été un grand succès et quel est
+l'avenir euh de de de cette super
+start-up
+ousama la première question avec
+c'est euh comment est-ce qu'ils ont
+commencé
+alors uber a commencé de la façon la
+plus simple possible alors la légende
+dit que Travis était à Paris pendant le
+web avec Garet qu'ils ont pas réussi à
+trouver de taxi pour rentrer de le web
+sans blague que ils étaient dans le
+froid qu' né en plus c'était c'était
+cette année où il néigeait vraiment très
+très très fort à Paris et la ils se sont
+dit mais je comprends pas pourquoi on ne
+peut pas appu sur un bouton et une
+voiture vient euh donc donc ça c'est la
+légende je sais pas si elle est vraie ou
+fausse je sais qu'ils étaient
+effectivement le web cette année et
+qu'ils étaient en galère de taxi mais en
+tout cas ça leur a mis une petite idée
+sur la tête et ils sont rentrés à San
+Francisco ils ont fait un un truc assez
+simple c'est que Garet a commencé à
+prendre son téléphone et appeler des
+voitures avec chauffeurs donc des
+fameuses limousines les limau comme on
+dit aux États-Unis et dire voilà est-ce
+que votre business va bien ils se sont
+rendus compte que non le business des
+des limo qui était un business modèle de
+type je vais chercher des hommes
+d'affaires à l'aéroport depuis 2008 et
+en écroulement d'accord parce que les
+entreprises ont de moins en moins
+d'argent la crise est de plus en plus
+dure elles doivent serrer tous les
+coupts donc il y a pas d'argent pour
+payer à des cadres sup des limau qui
+viennent et résultat ils se sont dit ok
+on va on va faire quelque chose de de
+tout bête c'est qu'on va vous fournir
+des clients si vous voulez bien aller
+les chercher à l'adresse qu'on vous
+indique et ils ont commencé uber et
+c'est ça qui est intéressant par un
+service téléphonique donc d'un côté ils
+avaient leurs copains qui appelaient en
+disant j'ai besoin d'une voiture au 232
+Lake Avenue et uber appelé un les
+chauffeurs qu' avaient dans leur base de
+données donc 10 15 chauffeurs les uns
+après les autres et leur disait et c'est
+un vrai cas euh de do things V don't
+scale parce que c'est des gens en fait
+uber qu' ont toujours eu cette culture
+d'être en retard par rapport à leur
+boîte ok euh et et en fait ils ont fait
+à la main jusqu'au moment où c'était
+plus gérable à la main et à ce moment-là
+ils ont pas fait une app ils ont fait un
+spreadsheet et donc il y avait un Google
+spreadsheet dans lequel tu venais
+rentrer tes réservations je m'en
+souviens euh et donc voilà et alors pour
+la petite histoire ils étaient c'est une
+équipe qui m'a beaucoup impressionné ils
+étaient dans un incubateur qui s'appelle
+Rocket space à San Francisco euh et
+c'est c'était les types les plus les
+plus focus euh sachant qu'à l'époque
+Travis qui est aujourd'hui le CEO très
+célèbre du BE était pas le CEO du BE h
+ouais c'est ça il il était je sais plus
+comment chief incubator chief incubator
+donc c'était une sorte d' d'incubateur
+personnel et il aidait l'entreprise et
+plus tard il switchera comme si h et si
+onev un peu sur l'histoire de Travis euh
+c'est pas un mec qui est venu de nulle
+part et qui a qui a créé qui qui a aidé
+à développer d'abord uber et puis après
+qui a pris le poste de CEO et il avait
+quand même énormément d'expérience avant
+avec quelques start-up une qui a
+notamment bien fonctionné et est-ce que
+ça tu peux tu peux revenir tu as des
+détails alors oui
+euh il faut savoir quelque chose sur sur
+Travis c'est que d'abord Travis c'est
+pas jeune ouais dans l'échelle de la
+vallée Travis quand il a fondé uber il
+avait 37 ans fonder une boîte à 37 ans
+dans la vallée c'est un peu je sais pas
+c'est c'est comme je sais pas avoir 70
+ans en France quoi c'est il y a un côté
+comme il y a un gros côté jeunisme dans
+la vallée orienté vers les fondateurs
+euh et et aussi pourquoi parce que
+normalement quand on fonde une boîte à
+37 ans comme Travis c'est qu'on en a
+besoin encore parce que sinon on joue le
+rôle de chief incubateur et cetera et en
+fait il y a il y a un grand malentendu
+sur l'histoire de Travis c'est que
+l'histoire de Travis c'est l'histoire
+d'un type qui a énormément souffert qui
+a était un loser très très très
+longtemps et qui même sa start-up qui a
+réussi et que les journalistes
+présentent comme réussi parce qu'il a
+touché quelques millions est vu comme un
+un un échec énorme et dans la vallée à
+l'échelle de la vallée donc l'histoire
+de Travis c'est l'histoire d'un d'un
+type qui a créé une première boîte qui
+s'est mis beaucoup de monde à dos avec
+sa première boîte qui l'a pas réussi qui
+a fait faillite et qui dans la deuxième
+boîte a convaincu un investisseur très
+célèbre qui s'appelle Marc uban euh donc
+Travis c'est un enfant de l donc il a il
+a plutôt fait ses boîes dans dans l et
+le business angel de Los Angeles c'est
+Marc Cuban qu'on voit dans la série
+Entourage faire faire sa vodc à dans son
+jet ou cette équ là et en fait ça a été
+tellement mal avec Marc Cuban que Marc
+Cuban c'est le genre d'investisseur a
+demandé à être remboursé quand ça marche
+pas d'accord il a même dû prendre un
+crédit pour enenser marque Cuban tout le
+monde a quitté la boîte et c'est quand
+même le la chose la plus intéressante
+sur Travis c'est qu'il était dans une
+boîte qui ne valait rien qui ne gagnait
+rien qui était en faillite qui était qui
+était ravagé par les procès par tout ça
+et il a réussi à la fourguer euh par un
+acte complètement incompréhensible à un
+type qui l'a racheté pour quelques
+millions et Travis s'est fait je sais
+pas un ou 2 millions de dollars ouais
+euh donc assez pour pouvoir avoir du
+temps devant lui réfléchir au prochains
+projets pas assez pour se considérer
+comme riche et ne plus jamais avoir
+besoin d'argent surtout surtout dans la
+vallée surtout a 40 % d'impôts faut pas
+oublier ouais c'est ça euh et et
+résultat Travis s'est mis dans dans dans
+une situation où il a commencé à à
+mettre des petits tickets dans des
+boîtes et je crois que son
+investissement dans dans uber en tant
+que chief incubator c'est qu'il a filé
+20000 balles à Garette d'accord il a pas
+il a pas filé des centaines de milliers
+de dollars dans dans uber mais ce côté
+investisseur il a pas du tout aimé il a
+pas aimé ne pas dire ce qu'il fallait
+faire aux entrepreneurs il a pas aimé
+revoir des dossiers machin et en fait
+très rapidement Garet a eu des problèmes
+d'exécution or ce qui est important dans
+l'histoire de Travis c'est que dans les
+deux premiers cas il a essayé de faire
+des boîtes contre le marché il a essayé
+de faire des des entreprises qui
+n'avaient pas qui avaient pas un marché
+en croissance qui avait des marchés en
+décroissance et on a beau être
+extrêmement talentueux on ne bass jamais
+le marché et dans le cas du Bur c'est
+différent il avait le timing de son côté
+il avait le marché la demande de son
+côté et et il a démontré des capacités
+d'exécution donc Garet n'était pas cap
+et alors un autre élément qui est
+typique de la vallée et qui est très
+intéressant à observer c'est que si uber
+avait été une société française
+elle serait partie en flamme dans le
+switch entre Garet CEO et Garet ce fait
+dans la vallée il y a un rapport
+méritocratique au titres et au poste
+beaucoup plus fort et quand quand travis
+est devenu ce je vais pas dire que ça a
+fait plaisir à Garet il a forcément mal
+pris il a forcément il a forcément ça
+fait forcément mal quelque part mais
+l'intérêt de la société est plus fort
+que leur intérêt individuel et de ce
+point de vue-là ils ont réussi à à à
+faire une transition plus que Pacifique
+Garet a été C et a donné énormément
+d'actions à à à Travis pour rattraper
+euh son son son arrivée et cette cette
+situation et et ces mouvements de
+captable sont beaucoup plus simples dans
+dans l'esprit Vallet que nulle part
+ailleurs
+parce que ce qui faisait peur à Garet
+c'est de rater la boîte à cause
+d'exécution et que les gens lui disent
+mais je comprends que tu as pas mis
+Travis regarde il exécuté beaucoup mieux
+que toi ouis c'est ça et à partir du
+moment où Travis a pris la boîte la
+croissance c'est c'est c'est hyper
+accéléré et ça a été ça a été vraiment
+fascinant mais mais ça montre aussi que
+dans l'entrepreneuriat quand on admet
+que c'est un voyage à sens unique on
+peut rater beaucoup de fois on peut
+vivre très durement très longtemps ça
+lui a coûté beaucoup de choses hein mine
+de rien il il a pas de femme il a pas
+d'enfants c'est aussi parce que il a
+vécu comme une sorte de SDF pendant 15
+ans quand il vendait d'ailleurs sa
+seconde boîte il dormait chez ses
+parents ouais chez ses parents à 34 ans
+ouais tout à fait ou donc c'est vrai que
+c'est c'est très très dur et c'est super
+intéressant ce que tu dis sur sur ce
+changement de de rôle et accepter de
+dire ok je laisse les reennes de mon
+bébé Garret qui a fait ça et il y a
+quelqu'un qui sera meilleur sur le la
+fameuse le fameux tweet de Travis qui
+dit no we need business Balas ou quelque
+chose comme ça c'est vraiment ça c'est
+vraiment partir de ça euh ensuite sur
+l'exécution euh ils sont passés vraiment
+en mode euh d'abord les appels les
+textos euh tu pouvais envoyer des textos
+à à ton à ton driver pour te dire ok je
+suis là euh après le spreadsheet comment
+est-ce qu'ils ont pass comment est-ce
+qu'ils sont passés justement euh à just
+from a click bah très rapidement en fait
+et très lentement à la fois très
+rapidement parce que je pense que ça a
+pris moins de 3 mois de passer de l'un à
+l'autre euh mais très rapidement parce
+que à chaque étape ils étaient débordés
+par le design d'accord euh ils ont fait
+les appels et les textaux ils arrivaient
+plus à gérer moi je me souviens de
+Travis alors pour la petite histoire
+j'ai bien connu ce début parce que
+j'étais dans dans le même incubateur je
+les ai vu fairecord je les ai vu faire
+leur Réo le vendredi soir je les ai vu
+machin et je voyais les mecs coller des
+des POS partout sur leur wall ouais et
+c'était des commandes et et je voyais
+les mecs au téléphone toute la journée
+euh et et ce qui est intéressant dans
+cette culture
+un le temps travailler par jour h est
+très différent dans une start-up aux US
+et dans une start-up en France ça il y a
+il y a pas photo et les fondateurs et et
+et à l'inverse les je pense que les
+employés français dans les start-ups
+travaillent plus que les employés aux US
+ok les employés aux US sont assez pépèes
+en fait mais les fondateurs ouais c'est
+délirant
+c'est des types qui arrivaient à 8h le
+matin et partaient à 22 23h ok c'est ce
+genre de rythme là tous les jours et et
+donc c'est des gens qui commençaient à à
+qui réfléchissaient à leur boîte et
+cetera au moment où il y avait pas de
+commande d' donc entre 10h et midi 14h
+et 16h 22h et minuit et et dans tous les
+autres moments ils étaient en mode
+opérationnel je pense qu'un entrepreneur
+français dans dans la même situation
+aurait plein d'excuses en disant on n
+pas les ressources qu'il faut on n pas
+on n pas le temps on n pas les moyens on
+peut pas répondre et cetera et ça ça se
+constate dans plein de boîtes hier on
+j'étais en train de d'essayer de trouver
+des factures qu'on a perdu h euh 18h34
+j'écris au CEO de quickprot que je ne
+connais pas ni d'è ni d'Adam il m'a
+juste envoyé un email promotionnel en me
+disant e j'espère que tu aimes bien
+notre produit machin j'ai répondu en
+disant e j'adore ton produit mais j'ai
+perdu ta facture et 4 minutes après je
+reçois un email du CEO avec une facture
+attachée qui me dit he we go et il y a
+une facture attachée à Quick Frot et ça
+vraiment c'est c'est c'est c'est unique
+en fait cette cette attention à la à
+l'exécution et cetera et c'est un PDG
+qui doit faire des fond rising des
+événements c'est une boîte qui marche
+bien mais ça n'empêche qu'il est capable
+de traiter ce flow ça veut pas dire que
+ça arrive tout le temps ça veut pas dire
+que tous les gens qui écrivent là à vont
+avoir une réponse mais de temps en temps
+il y en a qu et ça entretient d'abord ça
+entretient le myth ça entretient la
+culture d'entreprise et et ça montre en
+fait qui va et ce qu' va pas dans
+l'exécution et de ce point de vue là
+dans ces 3 mois ils ont ils ont été
+hyper rapidement d'abord ils ont
+développé l'app eux même et ils ont ils
+ont vraiment en
+fait comme ils ont tellement souffert du
+problème de la réservation ouais et
+comme ils l'ont tellement fait à la main
+avant de commencer à designer une app
+ils savaient exactement je pense et
+d'instinct ce que devait être l'app et
+pourquoi one click parce que le One
+Click a toujours l'air évident
+rétrospectivement et ça a toujours bah
+oui c'est simple c'est comme ça qu'il
+faut le faire mais quand on imagine une
+app pour la première fois on n'est pas
+capable de faire autre chose que
+complexe et la seule façon de pas faire
+complexe c'est d'être un expert et la
+seule façon d'être un expert c'est de
+l'avoir vécu à la main ça et je pense
+que ce passage par le téléphone par le
+spreadsheet a fait que bah c'était les
+rois du de la RAA il voyait il voyaent
+comment les gens réservaient ce qu'ils
+avaient comme problème ce qui était
+important comment comment passer de la
+tension de eux point central au réseau
+notamment le fait que tu puisses appeler
+le driver et cetera ils ont eu des
+instincts énormes sur sur ces sujets là
+parce que moi je les ai vu en double
+appel ouais c'est ça moi je les ai vu
+avec un téléphone là avec le driver et
+un téléphone là et à un moment le type
+se dire mais parlezvous quoi tu vois
+elle est là en fait la connexion et
+c'est il y a il y a que dans ce genre de
+moment où les idées peuvent émerger les
+bonnes idées peuvent émerger c'est pour
+ça que le le do things V down scale il
+est pas que théorique et et de ce point
+de vue là uber ils ont ils ont fait des
+des choses magiques c'est comme
+l'exemple de la fondatrice de H jooy qui
+part faire des ménages euh sans arrêt
+avant de avant même de créer le produit
+pour pouvoir comprendre quelles sont les
+vraies problématiques et comment est-ce
+qu'on on va les résoudre alors c'est un
+très bon exemple et j'aimerais dire
+quelque chose là-dessus parce que quand
+on dit ça en France les gens ils vont
+faire un ménage en mode observation ils
+vont regarder quelqu'un faire le ménage
+ils vont regarder quelqu'un faire le
+ménage d'abord et ils rentrent et disent
+ouais j'ai bien compris les problèmes
+ettape d'après c'est pas ce que ces
+gens-l font ce que ces gens là font
+c'est que la Dom joy a été faire le
+ménage jusqu'au point de rupture ouais
+jusqu'au point de rupture elle a été le
+faire à un moment où ça devenait insane
+elle cétait elle vivait dans sa voiture
+parce que elle avait trop de commut
+entre ses clients et là où elle codait
+et donc elle vivait dans sa voiture et
+elle codait dans sa voiture entre les
+les shifts d'accord et c'est ce genre
+d'énergie là que ces gens-là déploient
+pour démarrer l'énergie cinétique qu'il
+faut pour démarrer une boîte à un moment
+donné elle est elle est vraiment immense
+elle est vraiment intense et euh et et
+pourquoi ces gens-là déploient ça et
+pourquoi en France on le fait pas c'est
+parce qu'en France on est dans un
+environnement concurrentiel beaucoup
+plus simple en France on peut glander et
+à peu près réussir sa boîte il y en a
+plein j'en connais euh mais le sujet
+c'est qu'on fera jamais un géant parce
+que réussir sa boîte en France dire elle
+vaut 5 10 millions et cetera pourquoi
+dans la vallée ils sont tous comme ça
+c'est parce que ceux qui ne sont pas
+comme ça ils réussissent pas parce que
+c'est tellement concurrentiel il y a eu
+plein de gens qui ont fait des homes Joy
+dans la vallée sans aller faire le
+ménage 6 mois mais on en a juste jamais
+entendu parler parce qu'il y en avait
+tellement que celle qui a gagné c'est
+celle qui faisait le ménage pendant 6
+mois et celle qui était en terme
+d'intensité au-dessus donc c'est c'est
+comme il y a la plus grande parce que on
+croit qu'uber et le premier on a tous
+des copains qui ont créé des dizaines de
+concurrents du beurre dans la vallée
+dont personne n'a jamais entendu parler
+et même les gens dans la vallée nont pas
+entendu parler donc ils sont ils sont
+vraiment au-dessus du lot de de ce point
+de vue- là ils sont audessus du Lot ils
+sont au-udessus de il sont auudessus de
+tout ce qui fait la la beauté de du
+démarrage d'entreprise et de l'intensité
+qu'il faut pour démarrer une entreprise
+et c'est ça qui est intéressant au final
+c'est que plus tu exécutes et plus tu es
+commited sur sur cette problématique là
+sur ok je vais aller voir vraiment
+quelle est la problématique avoir des
+doubles appel et ce genre de choses plus
+tu dis ensuite les problématiques que tu
+rendsontes quand quand ta boîte a besoin
+de scaleup euh c'est des problématiques
+où tu te sens je pense que tu te sens
+plus fort et et tu es dans un mode où tu
+dis j'ai pas fait tout ça pour
+abandonner ma boîte maintenant et du
+coup il y a il y a ce côté scale up qui
+est vraiment ok maintenant on y va et
+c'est aussi pour ça qu'il y a de
+l'ambition d'ailleurs tu pourrais
+peut-être nous expliquer ça c'est
+peut-être un des facteurs mais il y a
+sûrement d'autres facteurs sur le fait
+que
+uber a réussi et pas les autres alors
+euh c'est une question que je me pose
+tout le temps en fait parce que parce
+que des cas comme uber il y en a peu h
+euh d'ailleurs petit point on fait le
+cas uber dans Coup d'État on en parle en
+interview mais il faut faire très
+attention parce que faut jamais prendre
+les extremum comme exemple il faut
+prendre les extremum comme inspiration
+grande bêtise des gens qui prennent les
+extremum comme exemple c'est que des
+boîtes comme uber il y en a pas une tous
+les ans il y en a une tous les 10 ans
+c'est un peu ça le le niveau de
+rentabilité de profusion du beur et
+cetera donc c'est comme gagner au loto
+on peut pas on peut pas se dire que
+c'est un modèle patrimonial de gagner au
+loto ça veut pas dire qu'il y a pas des
+gens qui gagnent l'OTO et qui sont qui
+vivent heureux ça veut juste dire que
+c'est pas un
+modèle mais par contre ce qu'on peut en
+tirer c'est une inspiration et une sorte
+de de de de d'asymptote de l'ambitionou
+en se disant si eux l'ont fait pourquoi
+pas moi et il se passera des bonnes
+choses si on essaie de pousser quoi donc
+c'est pour ça qu'on en parle maintenant
+qu'est-ce qu'ils ont fait de plus que
+les autres d'abord ils ont eu
+un ils ont eu un goût pour les things va
+don scale unique ouais unique par
+exemple euh au tout début il les
+chauffeurs les chauffeurs n'avaient pas
+d'iPhone d'accord ils achetaient les
+iPhones ils achet leurs iPhon ils
+achetai leurs iPhon il leur donnent
+maintenant c'est les chauffeurs qui
+l'achètent avec un dépôt de garantie
+machin ils nont pas à scale mais au
+début machin et alors je me souviens de
+quelqu'un qui m'a dit uber c'est des
+débiles le jour où ils auront 100000
+drivers 100000 drivers fa un iPhone ça
+fait ça fait des des centaines de
+millions et c'est pas c'est pas tenable
+comme modèle ils vont pas lever des
+centaines de millions pour acheter un
+iPhone et je me souviens que c'est l'une
+des premières fois où j'ai compris ce
+truc de F V je suis dit mais tu es
+vraiment un aurri je crois que le jour
+où ils ont 10000 drivers ou 100000
+drivers ils ont Apple Store va pas juste
+faire un partenariat de crédit avec eux
+et que c'est les chauffeurs qui vont
+absorber le coup de l'iPhone oua euh et
+donc tu vois c'est c'est c'est cette
+c'est cette c'est cette logique qui fait
+que ils ont compris mieux que tout le
+monde qu'il fallait se concentrer hm hm
+sur les choses qui ne seent pas et que
+c'est pas grave quand ça seera on
+trouvera des solutions on trouvera des
+méthodes et on s'en occupe pas donc on
+achète il faut des iPhones on achète des
+iPhones un autre exemple de two things
+down scale quand ils rentrent dans une
+ville uberut toujours la même chose
+Travis invite les 20 premiers chauffeurs
+à dîner dans un dîner dont ils
+souviennent toute leur vie d'accord
+pour marquer vraiment une expérience
+alors c'est c'est c'est mieux que ça
+c'est quoi la thèse de c'est hyper malin
+c'est quoi la thèse de Travis t de
+Travis c'est qu'un chauffeur parle aux
+autres chauffeurs de limau pendant les
+pauses ouais et que si tu l'éclates le
+mec que parce que quand je dis dîner
+c'est des dîners qui sont à je pense 200
+dollars par personne c'est des vins
+incroyables c'est du champagne c'est du
+machin il en prend 20 les quelques rare
+qu'on qu'on accepté à l'époque de
+prendre du beurre qu'est-ce que pendant
+3 mois les mecs racontent à tout le
+monde parle pas du beurre parle du dîner
+ouais et j'étais un dîné mais c'est qui
+qui tap'appé ce dîné c'est uber mais
+c'est quoi uber alors uber c'est un truc
+machin alors que s'il avait dit au
+chauffeur écoute tu vas dehors et tu
+parles à tes copains et je te donne un
+coupon de 10 € si tu me ramènes un
+chauffeur bah tu peux toujours courir
+pour que le mec aille se faire chier à
+expliquer alors qu'en fait là il les
+avait psychologiquement piégé en leur
+faisant vivre une expérience tellement
+dingue que tout le monde en parlait et
+c'est et c'est vrai que c'est une
+population hyper virale parce que tu
+vois ça passe d'un Chau à l'autre euh un
+autre truc qui qui est unique dans leur
+façon de faire toutes les start-ups qui
+s'internationalisent font toujours la
+même chose chose donc tu as lancé San
+Francisco ça marche ça ça cartonne ça
+d'enfer tu veux lancer Chicago qu'est-ce
+que tu fais tu recrutes quelqu'un à
+Chicago et c'est comme ça que font
+toutes les startups pour
+s'internationaliser tu dis ben je veux
+lancer Chicago je vais trouver mon MD
+Chicago qui va se constituer son équipe
+mais qui de mieux que pour lancer une
+ville que quelqu'un qui connaît la ville
+c'est cette hypothèse bon Travis s dit
+c'est les pires c'est les pires parce
+que tu embauches des B qui embauche des
+C ça va pas c'est terrible machin donc
+qu'est-ce qu'ils ont fait ils ont écrit
+quand ils ont lancé San Francisco ils
+ont écrit un journal intime tous les
+jours qui s'appelle un PlayBook et quand
+ils ont été lancés la deuxième ville
+Travis avant d'aller lancer la deuxème
+ville a embauché quelqu'un pour gérer
+San Francisco ok il savait exactement le
+profil qu'il fallait parce qu'il
+connaissait les problèmes c'était quoi
+les difficultés c'était quoi la culture
+de la ville c'était machin et ensuite
+flu to Chicago ou New York ou je sais
+plus quelle est la deuxième ville et là
+dans cette deuxième ville c'est lui qui
+s installé pendant 3 mois d'accord et s
+installé pendant 3 mois et c'est lui qui
+a lancé la ville et quand la ville était
+lancée qu'elle était opérationnelle et
+cetera il il il a mis quelque chose et
+maintenant ad scale ça donne quoi bah
+dans uber il y a des launcheurs dont le
+seul métier est de lancer des villes et
+qu'est-ce qui s'est passé c'est qu'à
+chaque fois qu'ils sont passés dans une
+ville ils ont réécrit le PlayBook depuis
+le premier jour ou et ils ont eu une
+sorte de synthèse de bonnes pratiques de
+truc et donc maintenant quand les
+launcher arrive dans une ville ils ont
+des one faire sed et tout et on a fait
+un graphique pour une levée de fond ici
+euh
+sur sur le temps qu'il fallait à uber
+pour ouvrir une ville et on voit que au
+début il leur faut 3 mois puis après 2
+mois puis un mois puis une semaine puis
+2 jours puis un jour et résultat
+maintenant ils arrivent à toutes les 2
+jours ils lance une nouvelle ville et
+pourquoi parce qu'ils ont skalé cette
+infrastructure de launcher mais ils ont
+spécialisé des gens dans c'est quoi les
+bons réflexes pour lancer une ville qui
+sont très différents que de former
+quelqu'un justement à lancer une ville
+pourquoi parce que gérer une ville et
+faire grossir une ville c'est pas le
+même process que la lancé et faire
+crossir une ville et ben ça c'est
+quelque chose où on peut embaucher
+quelqu'un et donc les launcherss
+embauchent mais comme comme les
+launchers embauchent le mec qui va
+diriger la ville ils embauchent des top
+star parce qu'ils s'en foutent ils sont
+pas en concurrence avec le mec c'est
+c'est pas un type qui peut prendre leur
+place ou machin et c'est comme ça que
+uber a réussi à à à mettre en place en
+fait des équipes exceptionnelles et
+l'autre point c'est que stratégiquement
+la façon dont les villes se comportent
+c'est qu'elles ont du reporting assez
+strict au siège en terme de de voiture
+de machin mais le reste ils font ce
+qu'ils veulent il y a pas une politique
+uber marketing mondial alors aujourd'hui
+à megga scale ça leur pose des problèmes
+parce que qu Mme alors tu as des
+guidelines évidemment mais à Meg scale
+maintenant tu as je sais pas tu as
+malheureusement quelqu'un qui se fait
+agresser dans un dans une voiture en
+Inde c'est la faute du beur un type qui
+se fait Grasser machin c'est la faute du
+beur donc maintenant comme c'est devenu
+une marque mondiale il suffit d'un
+événement à Kyoto pour que les les
+clients San Francisco s'en plaignne mais
+c'est aussi le le champ d'action et le
+et la réalité en fait de de ces
+entreprises qui qui passent et et et
+donc le fait que aujourd'hui uber soit
+une entreprise qui qui qui a cette
+domination mondiale et cette cette cette
+Rayonnance mondiale et cetera ça a des
+problèmes mais ça a quand même des
+avantages extraordinaires c'est que
+c'est la première société de mobilité à
+vraiment être unifié partout tu tu
+prends l'avion tu descends à Londres tu
+truc uber qui arrive et C c'est une
+expérience unifié assz
+et et cette expérience unifiée et et du
+coup ce
+scaleup énorme Enel en en quelques
+années quand on voit à Paris par exemple
+ça a fait peur à beaucoup beaucoup de
+monde et et on feu le combat vtc/ash
+taxi comment comment est-ce que quand on
+a une problématique
+d'internationalisation et une
+problématique de dire ok je launche tous
+les de jours une nouvelle ville comment
+est-ce qu'on fait pour se battre contre
+des lobbies euh qui sont quand même
+assez puissant qui ont qui sont vraiment
+bien implantés dans les organes
+gouvernementaux alors il y a pas uber a
+a très vite pris les trois recettes ouis
+de de la réussite sur ce
+sujetl en il y a un type qui a
+théoriser la la victoire en politique
+américaine en disant qu'il fallait trois
+choses you need brain you need muscles
+and you need money you need brain parce
+que tu as besoin d'avoir un message
+clair
+qui est pour uber très simple les taxis
+sont des connards h et c'est tout
+transparé dans l'expérience uber pour te
+prouver que ton expérience passée des
+taxis et des connards et en fait c'est
+quoi uber de ce point de vue là c'est
+une plateforme d'éducation de chauffeur
+ouais c'est une sorte de de de formation
+continue à évaluation continue pour
+viser vers l'excellence un chauffeur
+uber n'a pas le droit une seule fois à
+l'erreur c'est comme ça c'est dans le
+système c'est dans le design et c'est
+cette peur qui fait que personne se
+relâche parce que quand tu travailles
+pour uber tu es bien payé relativement
+mieux qu'un chauffeur en fait on peut
+dire ce qu'on veut les gens peuvent
+ragonder il son non ils sont mieux payés
+que les chauffeurs aujourd'hui le revenu
+moyen d' chauffeur à New York est plus
+de 7000 dollars par mois euh tellement
+qu'il fait de course parce que c'est ça
+euh pour donner un exemple le marché
+total du taxi à San Francisco c'était
+130 millions de dollars aujourd'hui
+juste à San Francisco uber dépasse les
+600 millions de dollars de chiffre
+d'affaires c'est des gens qui ont
+multiplié par 5 la taille du marché
+ouais c'est c'est et aujourd'hui le taxi
+doit faire 10 millions de dollars s
+français et plus personne ne sait ce
+qu'il y a un taxi c'est donc donc
+résultat il ils ont vraiment poussé le
+truc à fond
+euh et ils ont réussi donc à à à donner
+de l'intelligence dans une profession où
+il en avait pas ouais la deuxième chose
+qu'il faut c'est du muscle alors le
+muscle c'est quoi c'est par exemple les
+syndicats en politique avoir du muscle
+c'est d'avoir quand tu veux faire passer
+une réforme ou quand on passe une
+réforme qui est contre ta politique bah
+tu as des millions de gens dans la rue
+ça c'est du muscle dans le cas du beurre
+c'est une une un instinct incroyable que
+les utilisateurs seraient le premier
+muscle de la
+lutte Nicolas Collin qui qui est mon
+associé dans The Family a écrit un
+article contre G7 je sais pas combien de
+dizaines de milliers de vues cet article
+a eu les fauxours de
+l'innovation il a été attaqué en justice
+par G7 et en diffamation à cause de cet
+article le soutien le hashtag tous avec
+CIN a été un trending tropique topique
+national ouais c'est ça que uber se cite
+chez les donc ils ont réussi à avoir du
+muscle et ils ont le plus beau muscle
+qui est le votant aujourd'hui tous les
+politiques dans le monde n'osent pas
+l'avouer mais quand ils ont entre choisi
+entre le lobby des taxis et la
+population ils font semblant de choisir
+le lobby des taxis mais la population
+survit uberpop est interdit depuis le
+1er janvier à Paris on peut là partir
+tout de suite en uberp on peut même
+continuer la vidéo dans un uberp si vous
+voulez mais mais mais mais c'est c'est
+c'est ça montre en fait que d'un côté il
+y a un discours politique mais de
+l'autre il y a politique c'est que les
+gens veulent pas les politiciens veulent
+pas se mettre des centaines de milliers
+d'électeurs às on fait ADOPI on condamne
+20 personnes par an peu le même sujet si
+on commence à mettre en prison les gens
+qui téléchargé illégalement on va tous
+finir en prison politiquement c'est pas
+acceptable en fait par contre faire
+faire semblant de faire plaisir au
+patron de la Warner et le recevoir dans
+un cabinet dire oui on va passer la loi
+d'OP on va lutter très dur ouais ça
+coûte rien enfin si ça coûte quelques
+dizaines de millions à l'état mais c'est
+pas c'est c'est pas un sujet et la TR TR
+trème chose que tu as besoin c'est money
+et
+ça il il a eu un instinct incroyable
+c'est que uber est une boîte qui a une
+caractéristique c'est qu'elle est cash
+flow positif depuis assez longtemps en
+fait et
+et c'estd qu'elle gagne plus d'argent
+qu'elle en dépense quand elle dépense un
+dollar ça lui rapporte 1.2 1.3 ce qui
+est énorme pour pour pour donner une
+idée par exemple Twitter qui a 10 ans
+aujourd'hui pour gagner un dollar ils
+doivent dépenser c'est 1 dollar 56 ouais
+ça ça change de paradigme ça ça ça
+change de paradigme donc il aurait pu
+avoir une approche hyper conservatrice
+de la levée de fond et en fait il a fait
+l'extrême inverse il a injecté plus de
+cash qu'il en avait besoin ouais tout
+simplement pour atteindre une taille ou
+to big to fail et donc comment tu luttes
+contre les lobbyes il y a pas de secret
+tu deviens assez gros assez vite pour
+avoir tellement d'argent que tu peux
+balancer euh je sais pas si c'est vrai
+ou pas mais il y a une rumeur qui dit
+que uber dépense plusieurs millions
+d'avocats par mois rien qu'en Europe ah
+ouais plusieurs millions par mois et je
+pense que c'est vrai je vois par exemple
+le cabinet qu'ils ont choisi en France
+qui s'appelle Brodin Prat qui est le
+cabinet le plus cher de la place
+indépendant je pense qui est de loin le
+meilleur sur ce genre de question je
+vois le taux horaire d'un Brodin Prat le
+prendre en retainer ue je sais pas
+combien ça coûte mais à mon avis ça ça
+ça ça ça doit se mesurer à plusieurs
+centaines de milliers de dollars donc
+c'est c'est c'est vraiment en fait tout
+tout le sujet est là et tout le sujet
+pour un pour un pour un cabinet comme ça
+et et de réussir en fait à à à à à
+devenir aussi gros que l'argent n'est
+plus un problème et et de pas être
+conservateur par rapport aux dépenses
+parce que parce que effectivement ça n'a
+pas de prix en fait de créer un monopole
+et uber a eu cet instinct très tôt et
+ils sont en train ils annoncent un
+milliard 2 un milliard 4 ils vont àpo
+ils ont une Valo qui semble élevée mais
+mais est-ce qu'elle est si élevée que ça
+je veux dire le jour où ils auront pour
+pour donner un chiffre sur le phénomène
+uber dans leur levée de fond là de
+décembre où ils ont ils ont eu un peu de
+mal à lever ce qu'ils voulaient parce
+que que les investisseurs comprenaient
+pas pourquoi ils voulaient autant
+d'argent alors qu'ils ont déjà plus d'un
+milliard en caisse pourquoi mettre 2
+milliards de plus de façon privée et et
+le mec leur a fait remarquer Travis a
+faire remarquer dans un slide du slide
+deck d'investissement que aujourd'hui
+euh 99 % des revenus duuber venent des
+CIN premières villes d'ber qui sont San
+Francisco New York Londres Paris euh et
+je me souvens plus qu' la 5e Chicago euh
+et ces cinq villes aujourd'hui qui sont
+des villes historiques pour uber
+représente 99 % du revenus uber a ouvert
+130 villes 140 villes dans le monde ça
+te montre la la proportion de croissance
+et puis autre chose c'est que tout le
+monde est en train de concurrence de
+lancer un concurrent duberur notamment
+en Asie l'Asie est en train de en train
+de flamber sur uber c'est des
+problématiques très différentes que
+l'Europe et cetera et et de ce point de
+vue-là il aurait plus se dire B on va
+garder l'Europe on va garder l'Amérique
+du Sud on va garder les États-Unis ça
+suffit mais c'est pas leur culture leur
+culture c'est on va être dominant
+partout ça n'a pas de prix d'essayer
+donc si on doit cramer un milliard 5
+pour rien on les cramera on IR
+donc c'est vraiment uber assez unique de
+ce point de vue là et l'autre chose
+c'est que uber est hyper hyper hyper
+généreux en compensation package plus
+que ils ont ils ont pu attirer des
+profils alors c'est une boîte
+d'exception encore une fois c'est une
+unicorne c'est une super méga dragon
+quoi c'est c'est plus que unicorne mais
+mais mais c'est tellement mythique qu'on
+y croit pas mais par exemple le le type
+qui a faitire Obama en 2008 qui
+s'appelle David
+plouf il vient de rejoindre uber en
+vipat
+et c'est quelqu'un qui qui a touché un
+equity deal de plusieurs
+pour alors que uber a déjà en fait une
+taille de plusieurs milliards c'est
+qu'ils viennent de donner pour embaucher
+quelqu'un plus d'un milliard en fait ils
+on ils ont théoriquement donné plus d'un
+milliard pour embaucher quelqu'un qui
+doit être le milliè employés de uber je
+sais pas combien ils sont dans le monde
+aucune idée de ce genre de chose mais
+mais ça montre en fait qu' que rien
+n'est trop beau pour gagner et et je
+pense que c'est la grande différence
+avec tous les autres c'est qu'ils ont
+ils ont poussé ça à un point où ils
+auraient pu cramer 1000 fois mais mais
+ils ont pas cramé et ils viennent d'un
+d'un truc c'est que la première levée de
+fond uber personne n'a voulu investir
+dedans ouais c'est ça person personne
+n'a voulu investir dedans et et du coup
+qu'est- qu'est-ce qui a fait parce que
+de mémoire c'est first capital qui a qui
+qui a mis de l'argent dans la série a
+dans la série A après comment ça s'est
+passé en C est-ce que c'est juste Travis
+qui a qui a mis de l'argent et et on y
+va ou euh il a eu d'autres personnes
+donc il y a eu il y a eu pas mal de
+personnes ouais alors l'histoire c'est
+que Travis a été chercher son son site
+entre amis machin ouais personne n'a
+voulu mettre d'abord parce que il se
+disait c'est trop ambitieux trop machin
+trop truc et puis mine de rien il y
+avait un il y avait une question de fond
+c'est de se dire mais comment comment on
+peut comment on peut fonder une
+compagnie de taxi mondiale qu'est-ce que
+ça veut rien dire quoi la réglementation
+la régulation c'est ville par ville
+c'est c'est les gens ont vu toutes les
+complexités donc personne de sérieux un
+peut investir puis il y a des gens comme
+Rea Bundi par exemple qui un
+investisseur franco-iranien qui vit à
+Paris qui passe pas mal dans la de temps
+dans la vallée qui a qui a fait des
+beaucoup qui vient de du milieu de l il
+y a il y a les mecs d'angelist qu' mis à
+titre perso il a machin et donc Bonan
+Malan il a réussi à récupérer son side
+mais ce qui est dingue c'est qu'entre
+son Side et sa série a c'est quelqu'un
+qui en 3 mois juste grâce à cet argent
+et donc d'avoir un peu de moyens ou fait
+un million de dollars de revenus ouais
+et il l'a fait en 3 mois c'est c'estàd
+que moi je me souviens autant moi
+j'aurais pu rentrer dans le site du beur
+ouais euh je l'ai pas fait j'ai pas
+compris ce que c'était j'ai je voyais
+pas où ça envenait en plus je
+connaissais pas les types j'ai vu ça sur
+Angelis machin euh puis je voyais de
+temps en temps le mec à Rocket space
+ilinpirait pas confiance quoi il se
+baladait avec des lunettes zèbres et des
+tongs à l'époque j'étais sensible à ce
+genre de chos honte à moi mais mais bon
+c'est vrai que tu dis ah c'est pas ça
+l'image que fait d'un entrepreneur en
+plus tout le monde à l'époque croyait
+que c'est c'est marrant parce qu'à
+l'époque tout le monde croyait qu'un
+entrepreneur c'était un geek à la
+zugenberg et lui c'était un hustlerur
+ouais c'était pas cétait c'était pas un
+geek et donc c'est vrai que c'était
+c'était la mode des produ Guy c'était
+pas la mode des execution Guy comme
+comme Travis donc donc c'était
+pas je voyais pas quoi faire et et quand
+le dossier en en Série A est sorti alors
+là évidemment je voulais investir mais
+juste là c'était impossible et donc
+first round Capital a chopé le deal
+ouais a chopé le deal à une Valo
+délirante délirante et tout le monde a
+dit les mec ils ont perdu leur argent
+c'est débile machin et aujourd'hui ça va
+être un meilleur investissement je pense
+à terme que ne l'aura été Facebook pour
+c'est sûr pour pour OK et du coup
+comment quel est le futur pour ber parce
+que parce que là ils sont en train le
+futur court terme il est il est obvieuse
+un peu c'est bah on va aller conquérir
+toutes les villes du monde en Asie on va
+se battre contre wichat parce que tu as
+un logiciel de messagerie qui te permet
+de commander un taxi enfin voilà il y a
+il y a les petites batailles comme enfin
+les petites entre guillemets batailles
+comme ça mais après est-ce qu'il y a pas
+quelque chose d'autre derrière parce que
+c'est quand même aujourd'hui
+bah on peut noter ses ses chauffeurs
+mais les chauffeurs peuvent nous noter
+donc est-ce que il y a il y a un paradig
+de sécurité ou d'identification par
+rapport à la personne est-ce que c'est
+bah on va changer on va changer la façon
+de se transporter et ça va coûter il y a
+des articles sur le fait que ça coûte
+moins cher à SF San Francisco de de
+payer toute l'année que que d'acheter
+une voiture ou est-ce que ça va être
+totalement autre chose euh je pense que
+dans uber il y a il y a il y a trois
+grandes phases évidente au-delà du fait
+est-ce qu'ils vont survivre ou pas qui
+est une grande question en fait parce
+que pourrai cramer dans d'affreose
+souffrance à cause de leur croissance
+mais maintenant supposons qu'il
+survivent qu' passent cette étape il va
+y avoir trois grandes phases la première
+phase c'est que le premier marché que
+uber va conquérir c'est l'alternative à
+la voiture et moi je serai constructeur
+automobile je pense que la plus grande
+menace que je regarderai c'est uber
+ouais parce que si les gens prennent des
+uber et n'ont plus de
+voiture c'est évident et notamment moi
+je je pense qu'uber euh et dans cette
+quête de la de
+la du remplacement de la voiture VO vous
+lancez une offre longue distance ouais
+uberpool va lancer une offre longue
+distance qui sera un un un blablacar
+plus cher que blablacar ouais mais qui
+sera qui sera pas sur l'idée que c'est
+un particulier sera un chauffeur
+professionnel qui t'amènera à à Londres
+ou je sais pas où à Paris de Paris à
+Lille ou tu veux te faire un weekend à
+Doville mais tu pourras le partager avec
+d' d'autres gens et donc je pense qu'il
+va se positionner dans le price point
+qui est moins cher que le train plus
+convénient parce qu'il permet d'aller
+dans des endroits où le train n'est pas
+tu as pas besoin de faire de changement
+et cetera
+euh mais suffisamment rentable pour que
+ce soit intéressant pour le chauffeur
+parce que aujourd'hui les gens sur
+blablacar ils ont un petit revenu pour
+payer les frais on très bien imaginer
+que des chauffeurs professionnels se
+disent ah ben je prends un un van ou un
+je sais pas quoi je mets personnes
+personnes qui payent 50 € pour aller à
+Lille ça me fait 450 € ça fait ma
+journée quoi j'y vais je reviens et si
+en plus uber a suffisamment de liquidité
+utilisateur dans toutes ces grandes
+villes pour pouvoir faire des
+allers-retours assez assez sympait euh
+donc le le ça c'est c'est c'est évident
+que
+hop et du coup on reprend au villes
+ouais donc uber a des connexions dans
+dans dans dans toutes les grandes villes
+ouais et donc je pense qu'ils auront
+suffisamment de liquidité pour faire
+partir un chauffeur et revenir un
+chauffeur et et et et et et je pense que
+c'est je pense que tout le monde pense
+que la plus grande menace de blablacar
+c'est le fait que Rocket lance un
+blablacar aux US je pense que la plus
+grande menace pour blablacar c'est que
+blablacar
+soit soit euh
+euh donc ouais tout le monde pense que
+la plus grande menace pour blablacar
+c'est le fait que Rocket lance un copy 4
+de blablac car US mais je pense que la
+plus grande menace en fait à court moyen
+terme c'est uber qui se dit je vais
+lancer et je me demande si uber va pas
+racheter en fait un un blablacard like
+ou BL blacard et cetera donc c'est c'est
+une vraie question après BL blacar on
+quand même beaucoup d'années devant lui
+heureux et paisible mais à un moment
+c'est c'est des géants qui peuvent qui
+peuvent se rencontrer donc ça c'est le
+premier sujet le deuxième sujet euh pour
+uber c'est qu'une fois qu'ils auront
+conquis ce marché et qu'ils ont réussi à
+remplacer la voiture le fait de posséder
+une voiture ouais ils ont un deuxième
+marché évident qui est la logistique
+urbaine euh et le transport ouais et et
+notamment alors oui le transport mais
+surtout la logistique que aujourd'hui
+uber te te te te permet d'aller d'un
+point A à un point B mais il peut aussi
+te permettre de transporter des objets
+d'un point A un point B donc ça très
+important je pense ils ont commencé à
+faire des petites expérimentations
+là-dessus je pense que leur timeline
+là-dessus est 5 10 ans ils sont pas
+beaucoup plus pressés que ça là-dessus
+mais ils ont le temps pour développer
+quelque chose donc la deuxième grand
+marché queu va attaquer c'est la
+logistique urbaine c'est que au-delà de
+transporter les gens d'un point A un
+point B ils vont commencer à se dire je
+peux livrer des choses d'un point A un
+point B parce qu'ils ont déjà l'
+infrastructure ils ont commencé des
+expériences à New York à Boston
+là-dessus euh malgré tout je pense que
+leur vision là-dessus est plutôt une
+vision de moyen terme parce qu'il faut
+d'abord gagner le premier marché et
+installer l'infrastructure avant de
+développer des apps sur l'infrastructure
+et je me demande à quel point uber va
+devenir un facebook de ce point de
+vue-là je crois beaucoup au fait que
+uber va lancer un uber Connect d'accord
+je crois beaucoup au fait que uber va
+dire bah tu vois notre infrastructure de
+chauffeur je te la livre elle est là
+crée les app que tu veux tu as un resto
+tu veux avoir un truc de commande parce
+que tu as des clients fidèles tu es
+spoon Rocket tu veux livrer des repas tu
+es toc toc toc t'inquiète pas on n pas
+concurrente tu fais l'expérience achat
+parce qu'il va falloir sortir de l'AP ou
+ça et donc donc je je je je j'ai parlé à
+quelques mecs à la stratégie chez uber
+ils en sont loin de la réflexion et
+cetera mais c'est pas une idée qui
+exclut le uber Connect et ce serait pas
+un uber Connect B2C ce serait vraiment
+un uber Connect B2B c'estàd ça
+permettrait de de n'importe quel
+développeur d'app de pouvoir développer
+des apps en top of the uber platform qui
+sont les voitures qui roulent toute la
+journée parce que le but duuber c'est
+d'occuper chaque minute d'un chauffeur
+et même si tu optimises à fond le
+transport tu peux pas utiliser les
+chauffeurs à chaque minute ils ont
+forcément des temps de retour à vie des
+machins et cetera et c'est des temps où
+ils peuvent faire du dévement et ça en
+terme de logistique de RD et CETA c'est
+un problème très complexe mais c'est un
+problème que uber a la capacité
+d'attaquer avec ses mathématiciens avec
+ses ingénieurs avec son équipe technique
+extrêmement forte d'accord le troisième
+sujet chez uber qui est là ce que uber
+peut devenir à très long terme qui est
+l'automatisation ouais qui est-ce que
+uber va être est-ce que uber va être
+disrupté par l'aomatisation où est-ce
+qu'ils vont adopter l'optimisation il
+faut comprendre la structure de coût de
+uber aujourd'hui uber prend 20 % de
+l'argent et laisse 80 % au chauffeur si
+80 sont remplaçable par une machine qui
+coûte 10 % d'un chauffeur annuellement
+ça peut devenir hyper hyper hyper
+intéressant ouis ok génial merci
+beaucoup pour tous ces détails j'espère
+que vous en savez plus maintenant sur
+uber et sur l'expérience et sur comment
+du
+coup cette entreprise a réussi à
+s'internationaliser et à relever les
+défis qui qui se sont posés devant lui
+devant elle plutôt euh je vous remerci
+n'hésitez pas à poser vos questions sur
+en bas de la vidéo comme d'habitude
+merci beaucoup

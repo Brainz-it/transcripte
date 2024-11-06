@@ -1,0 +1,1907 @@
+on va vraiment s'intéresser dans un
+premier temps des idées fondamentales je
+pense dans la conception et dans
+l'approche de son App d'une app
+mobile donc donc une app mobile c'est
+quoi donc avant même de commencer à
+designer avant même quand on est
+vraiment whitebard et qu'on veut veut
+commencer un projet je pense qu'avant
+tout il faut bien définir un use case
+c'est vraiment très important et un seul
+use case
+on verra aussi l'idée le concept de
+graphe donc ça c'est plus pour les app
+sociales même si aujourd'hui une
+beaucoup d'app mobile quand même intèg
+des fonctionnalités sociales donc je
+pense que c'est important qu' qu'on
+comprenne bien ce que
+c'est donc commençons par le use case
+donc un use cas je pense que c'est une
+action t tangible pour le user ça qui
+est très important c'est que c'est une
+action quand l'utilisateur il va va
+ouvrir votre il va va va essayer de la
+comprendre ça va être instantanément
+tangible pour lui c'est que ça peut pas
+être quelque chose ça peut pas être
+quelque chose que vous devez
+contextualiser que vous devez expliquer
+c'est une phrase très simple je prends
+une photo je je je je commande un
+chauffeur ça doit vraiment se se résumer
+en une phrase très très très
+simple et c'est pas un casse-tête c'est
+pas un Fourtout il faut au début quand
+on conceptualise un projet absolument se
+forcer à se restreindre à se à se focus
+sur une seule idé même si c'est la
+mauvaise au début au moins en allant
+dans cette direction je pense qu'on
+qu'on qu'on se qu'on s'oblige à à à à se
+à se poser les bonnes questions et à
+évacuer tout le superflu le superflu
+c'est l'itération c'est ce qui vient
+dans un second temps c'est ça va venir
+quand on commence à
+travailler la quand on vous dit en
+général qu'il faut quand vous allez à
+coup d'État entreprendre par exemple
+avec Ousama la première chose qu'il va
+vous dire c'est faites un truc résumable
+en une phrase parce que les gens
+comprendront mieux euh en fait tout part
+de là quoi c'est-à-dire comment le
+finalement la bonne exécution design
+pour votre produit ça va être quelle
+quelle va être cette phrase mais au
+niveau design typiquement pourquoi enfin
+snapchat c'est une app de photo ça ouvre
+directement c'est une app pour prendre
+des photos ça ouvre directement sur
+l'appareil photo c'est c'est un truc qui
+est spécifique à snapchat il y a aucune
+autre app du monde quand vous regardez
+le le le le le comment dire le le Market
+qui a ça euh pareil quand ils sont
+arrivés c'était une map sur laquelle tu
+avais un bouton c'est c'est ça résume la
+bonne exécution c'est c'est ça doit être
+spécifique à votre produit après il y a
+des trucs qui qui peuvent être inventés
+du
+style des petits trick du I et cetera
+mais l'idée en fait d'une bonne
+exécution de produit c'est quand vous
+arrivez à la maturité de vos produits et
+que vous êtes unique unique sur le
+marché c'est ça qui demande du temps
+parce que en général la première fois
+qu'on fait une approche on a une vision
+très basique et est général et
+finalement on fait une app qui ressemble
+à toutes les les autres app sur le
+marché quand je dis app c'est aussi bien
+mobile que web c'est c'est c'est un truc
+général et tout travail en fait c'est de
+dire comment parmi tout ce que je fais
+qu'est-ce qui est spécifique chez moi
+qui n'y a que chez moi que que je le
+fais et comment je le fais ressentir sur
+le produit pour que l'utilisateur dès
+qu'il arrive il comprenne directement ce
+que je fais et c'est ça la partie entre
+guillemets qui est à la fois simple
+parce qu'en général ça se traduit par
+une exécution technique qui est très
+simple mais et c'est ça qui demande la
+maturité qui demande qui vous demande en
+fait de comprendre exactement ce que
+vous vous faites et quand on vous dit
+aussi qu'il faut se focaliser sur une
+seu feature h ça sert
+c'est c'est c'est ça ça veut pas dire
+queil faut tout enlever et qu'il faut
+garder une seule chose c'est qu'en fait
+il faut vraiment mettre en avant votre
+fature principal et et cacher le reste
+ou alors rendre le reste moins
+accessible c'est quand quand vous
+essayez de de créer un produit au début
+vous vous renseignez sur tout ce qui
+existe vous téléchargez plein d'applis
+vous regardez euh comment ça marche et
+votre idée elle s'étoffre très très vite
+ça au début c'est ça ça vous pouvez
+commencer par une idée assez simple et
+puis après ça ça se complexifie parce
+qu'en fait vous vous apercevez qu'il y a
+beaucoup plus de problèmes qu'il y a des
+problèmes à régler donc il faut faire ça
+ça ça et donc vous voulez euh ajouter
+vous voulez régler les problèmes dans
+votre appli mais ce qui se passe c'est
+que au début c'est très simple pu après
+il y a l'apparition d'un menu et après
+il y a l'apparition de de plein de
+boutons et et en et souvent les les
+applications sont pas pensées sous forme
+de FUNEL FUNEL c'est que
+vous vous dites à quelqu'un que l'appli
+sert à à donc à une chose et vous le
+guidez du début à la fin jusqu'à cette
+chose là donc Grégoire il parlait de de
+l'ouverture de l'appli où directement on
+comprend a y a ce fameux bouton central
+ou cette action centrale qui fait que
+vous allez directement aller à l'action
+que vousz vous avez envie de faire et et
+ce pourquoi vous avez téléchargé l'appli
+mais a surtout comment arriver à
+finaliser cette action la manière la
+plus rapide le plus rapidement possible
+et avec manère plus efficace parce que
+souvent quand quand vous
+vous vous quand vous divisez un FUNEL
+par exemple un FUNEL c'est je sais pas
+par exemple pour uber vous voulez
+commander un vous voulez commander donc
+donc un uber et il faut passer par plein
+par plein de choses qui sont alors ça
+peut être ajouter la destination payer
+par carte valider et cetera et il faut
+laisser le moins de choix possible à
+l'utilisateur tout en étant assez rapide
+dans l'exécution donc souvent il y a des
+questions qui se posent qui par exemple
+qu'est-ce que je fais est-ce que je
+j'allonge le FUNEL est-ce que je je leur
+fais prendre plus de temps pour arriver
+à à cette exécution final ou est-ce que
+je propose est-ce que je divise le FUNEL
+mais alors là il y a il y a une sorte de
+Dilemme parce que la personne se
+retrouve divisée aussi par rapport à la
+la finalité de son action donc il faut
+arriver à trouver ce bon équilibre où
+vous êtes quand même rapide et vous
+arrivez à cette exécution finale sans se
+perdre dans les méandres de alors là
+est-ce que je je je je je vais proposer
+quelque chose de plus précis mais par
+contre je vais je vais un petit peu
+sortir de de du funnel principal ou
+est-ce que j'arrive directement à ce
+funnel là mais par contre il y aura pas
+il y aura pas de détail particulierers
+et donc directement je je vais avoir une
+action qui va qui va moins rassurer
+l'utilisateur par rapport à sa finalité
+quoi
+ouais typiquement la la première
+approche que tout le monde a c'est tout
+le monde a une vision assez plate des
+futurs quoi tout le monde croit que
+enfin c'est pas que tout le monde croit
+c'est que quand on est débutant et nous
+on a fait cette erreur ouais si on croit
+que toutes les features sont les plus
+importantes les unes des autres c'est
+bien important d'identifier surtout si
+vous adaptez un produit déjà que vous
+êtes sur du web et que vous créez un
+produit mobile et que vous l'adaptez à
+identifier quel est l'usage de 90 voire
+95 % des des utilisateurs parce que la
+majorité des des utilisateurs en fait
+utilisent trois boutons dans votre app
+déjà les utilisateurs on en avait déjà
+parlé mais ils ont pas le temps pour
+utiliser les apps ils son'en foutent
+vous si AR si vous utilise vous c'est
+vraiment que vous avez éta exceptionnel
+mais il y a des millions d'applis sur le
+Store et ils ont pas que ça à faire déjà
+à télécharger c'est une pain et cetera
+donc quand ils vont arriver chez vous de
+toute façon il vont appuyer sur deux
+boutons trois boutons maximum peut-être
+un peu plus mais faut pas espérer plus
+et là et nous et quand quand on début
+là-dedans on croit que toutes les en
+gros on met toutes les toutes les toutes
+les fonctionnalités au même niveau on se
+dit ah bah s'il aur a le choix c'est
+bien en fait s'il a le choix il fait
+rien du tout quoi parce que il fait
+oh déjà déjà si vous lui laissez c'est
+le choix c'est c'est mort parce qu' les
+gens ils ont pas envie ils ont pas le
+temps de de de choisir en fait il faut
+que vous choisissiez pour vous en fait
+quand Stan il parlait de FUNEL en fait
+c'est des choix que vous allez faire
+pour lui c'est pas c'est c'est c'est pas
+le le laisser libre vous voyez ce que je
+veux dire et et ça c'est le truc très
+difficile parce que faut pas se planter
+c'est des choix stratégiques de design
+c'est sûr que si vous mettez tout sur un
+si nous par exemple avec Mindy on a eu
+ce problème là on mettait tout sur
+choisir la musique avant il y avait tout
+un débat sur faut-il choisir la musique
+avant ou la musique après et cetera et
+en fait on avait on avait on s'était
+dit c'est un peu compliqué mais on
+s'était au début on s'était dit on va
+mettre la musique avant parce que ça va
+permettre on sera plus unique en général
+on on sera plus unique mais il y avait
+plein de problèmes genre par exemple les
+gens quand ils avaient pas de réseau B
+ils pouvaient pas utiliser l'appli parce
+qu'il fallait télécharger la musique
+avant qu'elle arrive et donc du coup il
+disait hop il fermait donc du coup on a
+on a complètement on avait complètement
+orienté l' sur un truc qui était pas
+utilisable
+et et c'est con mais c'est c'est c'est
+c'est une une énorme erreur qu'on a fait
+à un moment donné on se disait pourquoi
+pas aussi on pourquoi enfin on
+autochoisirait une musique pour eux
+alors on se disait comme ça ils auront
+pas le choix et cetera mais alors là
+c'est un autre problème qui se pose
+c'est que les gens se disent ouais mais
+alors si j'ai plus le choix et cetera y
+a faire un produit c'est un c'est une
+bataille psychologique c'est trouver
+exactement le bon équilibre sur un truc
+précis qui fonctionne tout le temps et
+c'est ça ça le c'est ça le le gros
+challenge et c'est ça qui fait que
+ouais c'est c'est le use case et mais
+c'est c'est un truc vraiment très précis
+c'est c'est c'est la niche de la niche
+d'un comportement d'utilisateur qui est
+tout petit mais qui en fait les gens
+vont le faire 100 fois par jour
+potentiellement tu vois
+et c'est ce truc là qu'on va essayer de
+vous transmettre pendant les pendant
+toute la formation parce que quand on
+regarde nous les quand on regarde en
+France les produits qu' a beaucoup de
+sont géniaux au niveau ingénierial beaup
+produit sont des super exécutions
+business il y a pas ce truc qu'on les
+Américains qui va faire que tu vas
+utiliser un produit français typiquement
+français 100 fois par jour c'est
+vraiment rare 10 le fait un peu mais je
+pense que Spotify le fait beaucoup
+beaucoup
+mieux je peux on peut et on peut trouver
+plein plein plein d'exemples comme ça
+pareil bla blac c'est un super produit
+un super business je pense qu'il
+pourrait être encore mieux sur le un
+super produit ingénieerrial faire
+business et je pense qu'il pourrait être
+encore mieux sur l'exécution produit et
+c'est quelque chose encore en France
+qu'on a qu'on met du temps à à à à venir
+là-dedans
+euh donc ensuite je pense que c'est
+intéressant qu'on qu'on qu'on essaie de
+de comprendre un
+peu en gros j'ai pris on a pris une une
+dizaine d'appp qu'on trouve intéressante
+et qui aussi ont un use case très
+spécifique ou qui ont réduit la friction
+sur sur pas mal de questions donc
+rapidement j'ai on a classé les apps
+donc les apps utilitaires on va les très
+vite dessus c'est les apps de météo les
+apps de notes les apps de filtres pas
+Instagram toutes les apps utilitaires
+type je prends une photo je vais ajouter
+un filre particulier ça me ressort une
+photo qui est dans mon caméra roll dans
+l'iPhone par exemple donc ça c'est j'ai
+pris cet exemple d'app là en fait parce
+que c'est des apps qu' on pas de graphhe
+donc c'est des apps qui sont autonomes
+et qui mettent pas en relation des
+Utilisateurs entre eux donc ça c'est
+assez important de comprendre ça c'est
+que s'il y a pas de graphe à partir il y
+a un graphe à partir du moment où les
+utilisateurs vont interagir entre eux et
+vont être lié d'une certaine façon donc
+on passe assez vite sur ça parce que je
+pense que c'est assez tangible pour tout
+le monde une app de note on prend des
+notes dessus une app de météo on regarde
+la météo ellees répondent à un besoin
+très spécifique et une bonne app
+utilitaire c'est une app qui va aller au
+plus vite à cette information ensuite
+comme c'est des app assez simple je
+pense qu' évidemment le design va jouer
+et un enjeu majeur sur ces app là parce
+que typiquement l'AP de météo de de Yao
+elle a elle a elle a elle a extrêmement
+bien marché parce qu'elle est
+extrêmement belle donc c'est une des qui
+est en en haut du ST pour les apps de
+météo en tout
+cas et comme par hasard les appes les
+plus belles en général sont les appes où
+il y a quasiment rien dessus c'est ce
+qui est ce qui est étonnant mais c'est
+c'est les app où comme je vous disais le
+mec a tellement trouvé ce qui marche que
+il y a il y a un bouton et c'est tout et
+quand tu en a là tu es super mature et
+en général tu as beaucoup de chance de
+grimper
+et encore une fois je le répèterai
+jamais assez mais nous notre produit il
+faisait tout notre premier produit qui
+s'appelait ever il faisait tout tout
+t'inquiète on
+dès qu'on avait une idée on va le
+rajouter ça va être encore mieux ça va
+être encore mieux échec total échec
+total
+c'est quelque chose à dire par rapport
+donc si on regarde le store aussi pour
+les app de photos par exemple on
+s'aperçoit que dans le top 100 des des
+applis photo vidéo qui sont téléchargés
+il y a que des apps de Tool et c'est
+c'est c'est je sais pas ça doit être 30
+ou 40 % des app téléchargés sur le Store
+et pourquoi parce que ça répond à une
+ftion très précise qui qui peut être de
+couper sa photo il faut les gens ils
+réfléchissent vraiment comme ça quoi
+c'est ils se disent là ils sont en train
+de ils sont en train de prendre une
+photo et là ils se disent ah mais ça
+serait là il faut vraiment que je je
+j'écrive joyeux anniversaire dessus ou
+que je coupe ma photo à cet endroit-là
+quoi et donc là ça y est là là on ouvre
+une case dans la dans la tête de
+l'utilisateur et donc directement soit
+il a aucune idée et donc là directement
+ça y est il pense à l'a store donc ça
+c'est c'est vraiment comme ça que ça
+marche ça peut marcher pour tout hein
+pour pour uber c'est ça c'est il y a pas
+de taxi uber par exemple tu vois ou et
+donc directement soit tu vas sur le
+store tu cherches par rapport à ce que
+tu as envie donc tu vas faire collage
+photo soit tu as déjà une une une app
+qui est souvent bien pourrie c'est des
+app qui peuvent dater de 2010 2011 et tu
+vas galérer avec cet appli parce que
+dans ta tête le le le use case a été
+créé il y a deux ou 3 ans tu l'as
+peut-être utilisé trois fois dans ta vie
+mais tu sais que c'était exactement pour
+couper une morceau croper la le la photo
+et l'utiliser et c'est pour ça que euh
+c'est les gens qui ont par exemple fait
+des des applications d'editing photo
+celle qui March le mieux euh et qui sont
+le plus téléchargé c'est cell qui qui
+ont une seule fonction et même quand
+quand on l'essaie on se dit mais attends
+c'est quoi cette app je comprends pas je
+je je je peux rien faire je peux même
+pas rajouter un filtre après mais parce
+que aujourd'hui les les les les
+personnes qui ent des applis donc entre
+14 et 20 ans aux États-Unis ils ont pas
+une seule appli qui fait tout ils ont 12
+applis et dans leur tête ça marche donc
+s sous forme euh de donc de use case et
+sous forme de FUNEL mais inter app
+c'estàd que par exemple s'ils veulent
+ils veulent envoyer Joy anniversairire à
+leur potes ils vont prendre une photo
+avec une première appli la couper avec
+une deuxième rajouter un filtre avec une
+troisième et ce qui les intéresse c'est
+pas d'avoir Instagram où ils peuvent
+tout faire forcément d'un coup Instagram
+c'est la fin du FUNEL c'est le moment où
+ils vont avoir leurs pures photos qui
+ont été modifié qu CIN fois ça leurre ça
+leura peut-être pris 10 minutes mais par
+contre il ils seront allés de use case
+en use case et de de STEP de FUNEL
+jusqu'à la fin et directement bah ils
+auront le exactement le produit qu'ils
+avaient envie euh donc et souvent quand
+on est entrepreneur c'est ça c'est que
+on se dit mais mais moi je je il faut
+que je détruise la la concurrence il
+faut que je je sois présent partout et
+directement et ben l'utilisateur il va
+il va télécharger votre appli dans son
+son son premier sa première utilisation
+la première minute c'est là où il va il
+va quitter ou ou souvent garder l'appli
+il va se dire mais de toute façon ça
+j'ai déjà et puis c'est quatre fois
+quatre fois mieux fait avec insta size
+parce que c'est c'est fait en plus pour
+Instagram j'ai ce truc vsco pour les
+filtres qui sont 1000 fois mieux que
+Instagram et tout ça et c'est impossible
+d'être très très bon partout donc il
+vaut mieux être bon sur une seule partie
+de de de votre de de du marché mais même
+une toute petite partie et vous allez
+voir que ça va ça va vous allez tout de
+suite avoir de la croissance ça marche
+pour tout ça marche pour le
+service et et donc là l'idée aussi dans
+dans ce cours de de produit design ça va
+être si vous avez une par exemple une
+section web et que vous voulez le porter
+sur mobile ça va être d'essayer de de
+voir si enlever des parties ça va pas
+vous faire exploser votre appli plutôt
+que que que finalement que que
+finalement appauvrir l'idée que vous
+aviez à la
+base en gros finalement le le gros
+message de tout ça c'est que les les
+décisions design dans les applis sont
+des décisions business en fait c'est
+c'est complètement lié
+c'est
+que on veut pas que vous considériez si
+vous tiez de votre boîte que le design
+c'est à faire par le designer le design
+il doit être c'est une décision
+stratégique qui est
+fondamentale les décisions que vous
+allez prendre ça va déterminer tout tout
+tout votre business et c'est c'est pas
+juste comment faire des boutons plus
+beaux en fait c'est juste comment tri
+trixer la tête de l'utilisateur pour que
+vous soyez complètement déjà pour que
+pour qu'il a envie de parler à d'autres
+personnes qui utiliser un produit un
+produit de ouf et surtout qu' soit
+complètement addicte à ce que vous
+faites ouais le le le design c'est du
+business c'està-dire c'est c'est
+critique c'est le centre de tout et et
+d'une certaine manière si un design est
+mauvais ou est mal fait c'est pas la
+faute du designer si dans une boîte
+c'est la faute du CEO parce qu'il a
+laissé faire ça et c'est
+c'est voilà c'est c'est c'est nous notre
+but c'est de vous faire comprendre à
+quel point c'est pas optionnel quoi
+c'est c'est le corps même de votre
+produit c'est même limite le cor même de
+votre technique de de toutes de
+l'exécution technique qui a
+derrière bon je pense que sur les app
+utilitaires et les tools on a on a
+compris l'idée de ce que c'est ensuite
+bon il y a a une grosse haute catégorie
+d'AP j'ai essayé de catégoriser les app
+pour qu'on puisse approcher les
+différentes les spécifications de
+chacune donc c'est les app de service
+qu'on utilise tous et évidemment uber on
+en a déjà beaucoup parlé uber en terme
+de en terme de produit évidemment c'est
+un business génial donner des chauffeurs
+aux gens et ceera mais ça je pense que
+que qu'on reviendra plus tard par contre
+en terme de design ce qui est
+intéressant c'est un bouton j'appuie il
+y a une voiture qui arrive on est quand
+même un niveau de friction qui est très
+très très très très bas là et je pense
+que ça explique en grande partie le
+succès du bain on avait déjà un peu
+parlé Cavia qui est je sais pas si vous
+connaissez c'est du Food delivery c'est
+très proche de te c'est c'est quasiment
+la même chose d'ailleurs c'est tikitizi
+c'est un peu le le caviier
+français et alors won won beaucoup plus
+intéressant alors en terme de business
+on en parlera pas parce que c'était ils
+ont quelques difficultés c'est peut-être
+pas le produit le plus rentable de
+l'histoire mais mais ils ont quand même
+été achetés par par Alfred une boîte de
+New York qui fait de la Conciergerie won
+won c'était un produit c'est la friction
+au niveau zéro je pense vous ouvriez
+l'app il y avait une page blanche avec
+marqué qu'est-ce que vous voulez et un
+bouton envoyé vous pouvez dire ok je
+veux un pack de bière et un paquet de
+chips vous appuyez et on vous le livrait
+on vous allez vous chercher quelqu'un
+allit le chercher pour vous et vous le
+ramenez vous aviez paramètré votre
+adresse de livraison votre votre carte
+bancaire et je pense que c'est un très
+bon exemple pour dire jusqu'où on peut
+aller dans en enlevant la friction il y
+a pas besoin d'avoir un menu des fois
+pour se faire livrer à manger il y a pas
+besoin de d'avoir euh d'avoir des
+suggestion ce que vous voulez c'est on
+peut des fois essayer d'expérimenter au
+niveau de friction zéro et c'est
+intéressant de partir de là aussi des
+fois de se dire c'est quoi mon mon le
+minimum du minimum de mon app là c'était
+je dois me faire livrer quelque chose il
+y a un coursier qui m'amène quelque
+chose donc bah qu'est-ce que je vais
+faire je vais faire une page blanche et
+je demande ce que je veux et je pense
+que dans tous les projets c'est c'est un
+processus qui peut être intéressant qui
+est pas spécialement la solution et la
+bonne solution et celle qu'il faut
+garder mais c'est de réduire au maximum
+d'aller vraiment sur le sur le minimum
+du minimum et après on reconstruit on
+repart dans l'autre sens on a 10 idées
+on en prend qu'une salle et on remonte
+dans lere sens après faut faut voir ça
+faut voir l'exécution produit comme un
+un jeu quoi un Game et le Game
+c'est réduire au maximum partir du
+principe que les gens sont des par ux et
+leur réduire tous les steps tous tous
+tous tous tous pour qu'ils fasse ce que
+vous avez envie qu'il fasse et
+considérer que même appuyer sur un
+bouton ou ou c'est évidemment et
+derrière il faut que ça soit utile ça
+sert à rien de faire une app où il y a
+zéro step mais qui sert à rien les gens
+n'utiliseront pas prenez quelque chose
+évidemment qui est utile pour eux et
+vous vous prenez tous les step à partir
+du moment où le mec entend parler de l'a
+à partir du moment où il se dit bon je
+vais aller la télécharger à partir du
+moment où il va la charger l'ouvrir et
+cetera et tout votre jeu ça va être de
+casser tous les murs tous les murs tous
+les murs jusqu'à obtenir un truc
+tellement simple que c'est ça qui va
+faire qu'en fait vous allez obtenir un
+produit exceptionnel et vous dites-vous
+toujours comment je réduis la friction
+pour les utilisateurs c'est le truc
+numéro 1 de c'est faire un business
+c'est réduire la friction pour des
+utilisateurs que ce soit n'importe quoi
+que ce soit Instagram pour qui réduit la
+fricion de produire de faire des photos
+que ce soit euh Airbnb qui réduit la
+friction de de de booker des des hôtels
+à tous les niveaux c'est vraiment ça le
+le le le truc le plus
+important
+h après bon bien sûr par rapport à unoun
+il y a un truc aussi intéressant c'est
+que bon moi je suis moins partisan de
+Moon parce que par exemple en
+l'utilisant j'étais à ce niveau zéro de
+friction où j'allais demander quelque
+chose mais finalement bah je savais pas
+quoi demander parce que je savais que
+j'avais faim mais je sais pas exactement
+ce que j'avais envie et ce truc de caviè
+à côté euh c'est clairement pour moi ça
+marche beaucoup mieux parce que on ouvre
+l'appli on se retrouve directement face
+à quelque chose qu'on peut manger et
+donc il y a là il y a un équilibre entre
+les deux en tout cas où il y a où il y a
+un extrême d'un côté et une sorte de
+neutralité de l'autre qui fait que là
+directement je peux arriver à à ce que
+j'ai envie
+ou là tu en as pour une heure pour
+commander euh qu'est-ce que je dire
+aussi
+on va commencer àeridée du gra et une
+idée ass important ouais donc je dis on
+on va avancer pour pour amener l'idée du
+graph qui qui est une idée assez
+intéressante euh donc ensuite rapidement
+sur les apps médias alors donc ça je
+pense que c'est assez intéressant les
+les les apps médias donc évidemment il y
+a toutes les apps type Flipboard
+l'agrégation news donc qui était qui
+sont arrivés il y a très longtemps au
+début des des iPhon et cetera donc
+l'idée c'était de se dire on regarde
+plus qu'une news on agrège et cetera
+c'est quelque chose je pense qu'on a
+tous utilisé quand on fait un peu de
+veille et cetera on va aller assez
+rapidement là-dessus par par contre
+Youtube qui est donc là YouTube donc
+tout le monde connaît Youtube pour moi
+c'est devenu une app média aujourd'hui
+plus qu'un réseau social vous avez
+toutes les fonctionnalités sociales que
+vous pouvez retrouver ailleurs vous
+pouvez poster une
+vidéo vous pouvez commenter vous pouvez
+liker et Cera et cetera donc les
+fondamentales d'une d'e d'un site social
+mais aujourd'hui on se rend compte que
+c'est 1 % des gens qui postent et 9 %
+des des gens qui regardent donc c'est
+social mais moi je pense que c'est une
+app méia et que évidemment ça devient la
+nouvelle télé et cetera pareil pour
+twitch qui un peu le même exemple donc
+twitch pour ceux qui connaissent pas
+c'est du live de jeux vidéo des jeux des
+des gamer se mettent en ligne et stream
+leur jeux vidéo et puis tout le monde
+interagit
+derrière ce qui est intéressant c'est
+qu'on a quand même un graphe ici donc là
+on va commencer à amener l'idée du
+graphe le graphe c'est des gens qui sont
+liés entre eux qui sont qui
+interagissent entre eux des utilisateurs
+via différents systèmes qu'on va voir
+juste après mais rapidement par exemple
+pour pour qu'on comprennent bien sur sur
+Youtube c'est je follow quelqu'un et et
+donc j'ai accès j'ai je me suis lié à
+lui du coup il me renvoie du contenu et
+donc il y a une interaction entre les
+gens même Airbnb a un grap en fait
+toutes les tout tout tout dès que vous
+allez faire un service et cetera d'une
+certaine manière vous allez avoir un
+graphe c'est ça qui va faire que les
+gens ça le graphe est important pour la
+rétention c'est ça qui explique le Graf
+c'est magique donc c'est pour ça aussi
+dans dans vos idées que vous allez faire
+il faut optimiser pour le Graf mais
+c'est c'est ça qui est magique parce que
+Youtube c'est une appli complètement
+dégueulasse et tout le monde s'accorde à
+le dire même chez Google ils le disent
+Youtube c'est une appliqu complètement
+nul mais comme il y a des l'application
+en elle-même c'està-dire le design et
+cetera c'est de la metadata et cetera
+mais comme à l'époque où ils sont
+rentrés dans le marché il ils avaient
+c'était tellement les plus simples pour
+poster faut faut faut bien comprendre
+que vous en tant que early boy votre
+truc c'est de rentrer dans le marché
+c'est c'est c'est pas faire le meilleur
+produit c'est le meilleur produit pour
+rentrer dans le marché une fois que vous
+êtes rentré vous pouvez faire ce que
+vous voulez mais c'est c'est la porte à
+l'entrée en fait qui est le plus
+difficile et YouTube à l'époque où ils
+sont rentrés c'était les plus rapides et
+les plus facile pour uploader des vidéos
+et c'est comme ça qu'ils sont montés et
+après derrière ils peuvent faire un truc
+complètement compliqué ou je sais pas
+quoi s'ils ont tous les utilisateurs et
+que les utilisateurs à un moment donné
+ont pris cette habitude vous vous les
+aurez loqué et vous pouvez faire
+absolument tout ce que tout ce que vous
+voulez mais YouTube à leur à leur timing
+c'était les plus simples pour uploader
+de la vie vidéo et c'est ça qui a fait
+que même 10 ans 15 ans plus tard c'est
+toujours les leaders même s'ils sont
+concurrencés mais pour d'autres raisons
+par Facebook par exemple donc ce qu'on
+appelle le graphe en fait c'est toute la
+valeur en fait que vous allez créer donc
+pour un réseau social c'est les gens
+pour uber c'est c'est toutes les
+personnes t t tous les tous les
+conducteurs et cetera pour rirbnb c'est
+tous les tous les euh comment s'appelle
+les euh les les les quoi ouais les host
+et cetera euh c'est c'est ça qui est
+fondamental qui va faire que vous vous
+êtes valuable quoi qui va qui va faire
+que vous allez vraiment avoir de la
+valeur sinon après vous FZ vous aurez
+des petites apps qui sont par exemple
+juste purement éditorial ou je sais pas
+quoi mais s'il y a pas cette dynamique
+vous serez forcément short terme il y a
+aucun business qui a 10 ans et qui qui a
+pas cette dynamique de graphe dans leur
+dans
+leur dans leur conception quoi nous pour
+vous raconter l'histoire de Mindy donc
+Mindy en gros on l'a lancé euh en 2013
+on a eu un peu de traction mais on a
+jamais eu quelque chose de fou au bout
+d'un an et demi on s'est dit on va
+essayer un truc qu'on avait jamais
+essayer on va permettre aux gens de
+partager de la musique sur snapchat et
+des des musiques vidéos alors je
+reprends à la base qu'est-ce que c'est
+mindi c'est une application de musique
+vidéo c'était comme Instagram ou vine
+sauf que vous pouvez rajouter une
+musique sur vos vidéos en gros bon notre
+vision donc pour pour parler de friction
+et cetera comment nous quelle était
+notre vision c'est que la majorité des
+vidéos que tu prends sur mob sont
+chiantes et et chiantes et nul et et et
+nous on se disait dès que tu rajoutes
+une musique en fait ta vidéo devient
+marrante émotionnelle et cetera et on
+s'est dit en fait rajouter une musique
+ça va enlever la les gens vont préférer
+le faire
+que ils vont être trop contents quoi la
+vision c'était musique c'est le filtre
+de la vidéo c'est l'équivalent du filtre
+pour les photos mais pour la vidéo donc
+c'est ça la vision on a lancé le produit
+on a eu quelques influenceurs et cetera
+mais on a un peu t COF on a levé de
+l'argent mais on a jamais vraiment
+décollé et c'est simple tu regardes le
+graph fait le truc et comme ça il monte
+un peu alors des fois on fait des on
+faisait des petits boost on a été
+featuré par Apple ou des trucs comme ça
+mais ça ça retombait limite enfin ça
+retombait pas comme ça mais ça en fait
+ça ça ça montait et puis ensuite ça
+descend ça descendait et un jour on s
+dit tiens on va faire un truc on va
+permettre aux gens de partager de la
+musique sur snapchat des musiques vidéos
+sur snapchat parce que snapchat c'est
+c'est enfin c'est un produit euh bon
+pour ceux qui connaissent tu peux rien
+faire enfin je veux dire tu peux juste
+prendre des vidéos et cetera on s'est
+dit tiens si les gens voient de la vidéo
+d'une musique vidéo sur snapchat
+peut-être que ça pe être marrant et là
+donc gros en gros pendant un an et demi
+on a eu 200000 utilisateurs en un an et
+demi et en 10 jours on en a eu
+100000 le double enfin la moitié de
+toute votre user base en 10 jours c'est
+quand vous avez trouvé un truc vous le
+savez tout de suite c'est c'est c'est
+radical et tout tout votre alors comme
+on avait fait évidemment on avait
+optimisé pour snapchat c'estd qu'on
+avait mis un bouton bouton sharing
+snapchat était directement en bas de la
+caméra tous les boutons étaient blancs
+on l'avait mis en jaune
+euh voilà on avait optimisé pour que les
+gens le fassent et vous vous trouvez
+vous trouvez un truc vous tapez sur le
+nerf vous optimisez là-dessus et et vous
+le savez tout de suite c'est c'est vous
+regardez vos graves d'utilisation et
+vous voyez le truc qui qui qui explose
+bon il se trouve qu'après on s'est fait
+exploser par snapchat parce qu'il
+voulait pas qu'on fasse ça et que et qui
+qui nous ont coupé et que du coup on
+avait plus trop d'idées on est passé à
+un autre projet mais mais mais mais tout
+ça pour vous dire que le jour où vous
+trouvez un
+truc c'est c'est c'est un peu enfin
+c'est magique je sais pas comment dire
+mais déjà vous le voyez tout de suite il
+faut vraiment tout faire pour que les
+gens vous vous vous vous organisez les
+gens pour qu'il pour qu'ils aille faire
+çaelques he la différence c'est snapchat
+c'est en quelques heures qu'on a vu la
+différence pas en quelques jours cétait
+sur Live sur le store on avait un
+certain on avait un bon flot de download
+on avit plusieurs milliers de download
+par jour Mme dizaine de milliers des
+fois et et et d'un coup ça s'est
+multiplié mais vraiment en quelques
+heures on l'a vu nous on avait notre
+bend interne où on pouvait tout voir et
+ça a explosé donc c'est vraiment c'est
+il y a pas il y a pas de il y a pas de
+demimesure ça marche ça marche pas et
+des fois vous êtes entre les deux et
+vous sentez qu'il vous manque quelque
+chose pour passer au au au ça marche et
+vous c'est quelques heures pour le voir
+vraiment en terme de en terme de
+croissance on va peut-être avancer un
+peu sur sur les autres donc les appes de
+shopping bon on va passer très
+rapidement mais il y a des il y a
+quelque chose qui est intéressant c'est
+spring
+je sais pas si vous connaissez spring
+c'est une app new yorkaise c'est ça
+c'est New York qui en gros l'idée c'est
+de c'est de de se dire ok Instagram il y
+a plein de personnes qui postent des
+vidéos de leur tenue tous les jours il
+vendent des choses sur Instagram ça se
+fait un petit peu aussi on va reprendre
+le modèle d'Instagram on va l'appliquer
+au shopping tout le monde peut poster
+tout le monde peut poster du contenu des
+vêtements à vendre donc c'est vraiment
+sur les vêtements ça il y a un feed on
+peut commenter on peut follow des gens
+du coup on accède à ce qu' poste c'est
+que des produits et je me me faire une
+collection je peux liker reposter et
+cetera euh donc ce produit il est
+intéressant je pense que pour ceux qui
+font du shopping c'est intéressant
+d'aller le voir parce que ils ont pris
+le modèle social d'Instagram le modèle
+communautaire aussi où les gens se
+commentent et cetera ils l'ont appliqué
+au shopping et euh ça marche plutôt bien
+c'est en croissance c'est pas encore non
+plus énorme mais il y a des y a des
+points intéressants euh pochemark aussi
+pour ceux qui pour ceux alors pochemark
+qui marche beaucoup mieux qui est en
+haut de l'AP Store américain euh donc
+pochmark c'est du vide dressing en gros
+euh come on le connaît ici mais pareil
+avec un format qui ressemble beaucoup à
+Instagram parce qu'Instagram ils ont
+posé quelque chose en terme de uxux en
+terme de simplicité de navigation qui
+est intéressant qui marche bien du coup
+ils sont dit on prend la même chose et
+on l'applique au shopping donc là c'est
+du vide dressing ce qui est intéressant
+c'est que c'est contrairement à Spring
+ou c'est surtout les marques qui postent
+là c'est vraiment des utilisateurs qui
+veulent vendre leurs chaussures et
+cetera case
+eu et alors voil pop qui est une app que
+j'aime beaucoup parce que eux ils ont
+vraiment aussi cassé la friction j'ai
+besoin de vendre n'importe quoi c'est le
+bon coin sur mobile euh deux choses
+intéressantes sur wallapop je pense en
+terme de design et en terme d'expérience
+première chose déjà on arrive sur un
+feed qui est quand même ressemble
+Pinterest Instagram on est dans quelque
+chose très mobile très orienté user sur
+le sur le sur la consultation aussi pas
+seulement sur la transformation de
+l'achat deuxième chose le bouton caméra
+en bas on pourrait croire qu'on est dans
+une app de photo donc ils ont vraiment
+essayé d'engager le user comme il
+l'engage sur comme Instagram le fait
+avec la caméra ils ont essayé de le
+faire dans le dans la revente d'objets
+dans le système type mon coin type eBay
+et la troisième chose sur ce produitl
+c'est que une fois que vous avez vous
+rentrez dans un produit vous entrez dans
+un chat comme si vous étiez en texto ou
+en Messenger et donc du coup encore une
+fois ils reprennent une habitude de
+l'utilisateur une habit tout le monde
+chat tout le monde envoie des textos il
+est dans un dans un dans un cadre de
+confiance dans l'app et quand il discute
+avec quelqu'un tout de suite il est dans
+une interaction très rapide pas dans un
+inbox comme on peut voir sur ebay où il
+y a de la latence de la friction euh
+c'est comme si je recevais un texto du
+coup je vais aussi en tant que vendeur
+vouloir répondre tout de suite et on
+enlève encore de la friction dans la
+vente à travers le produit à travers le
+design donc je pense que c'est trois
+exemples de de de de produits qui sont
+assez intéressant tu branches ton Mac on
+est en en lot batterie là ça pas pas euh
+et trois apps de shopping qui ont un
+graphe c'està que on follow les gens on
+peut parler avec eux euh et ça c'est
+intéressant parce que ça montre bien que
+use case plus graph on a quelque chose
+qui est complémentaire et qui vraiment
+prend du sens dans la vie réelle presque
+on est plus dans on est pas dans quelque
+chose de virtuel on est dans quelque
+chose de réel c'estd que je je vais pas
+alors je vais pas vendre je vais pas
+quand je poste sur ebay il y a quand
+même quelque chose de très c'est très
+très distant avec les autres
+utilisateurs là on est dans quelque
+chose de beaucoup plus proche un peu
+plus émotionnel et et dans du rapport
+plus
+socialose avance on
+avance app de shopping app social
+bon évidemment
+WhatsApp Instagram et snapchat je pense
+que les trois plus grosses app sociales
+aujourd'hui
+elles ont un graphe donc là on va je
+pense que on va commencer à intégrer
+vraiment la notion de graphe et après on
+va directement enchaîner on va vraiment
+rentrer dedans et bien comprendre ce que
+c'est donc WhatsApp juste pour la petite
+pour le use case juste sur le use case
+qu'on soit qu'on soit bien qu'on finisse
+là-dessus le US cas de WhatsApp pourquoi
+WhatsApp ça a explosé pour une raison
+très simple les textos c'était cher aux
+États-Unis ils sont arrivés c'était
+moins cher de payer c'est 1 € par mois
+je crois WhatsApp c'est moins cher de
+payer 1 € par mois et d'avoir les textos
+illimités avec la data ça prend
+quasiment pas de Data d'envoyer des
+messages et c'est ça qui les a fait
+exploser il ser un truc très simple
+c'est envoyer des messages à mes amis je
+le fais tout le temps par texto mais
+c'est cher je vais le faire moins cher
+c'est la seule raison pourquoi WhatsApp
+s explosé le produit était pas
+incroyable c'était rapide mais le
+produit en terme de design nétait pas
+exceptionnel c'était très simple c'était
+vraiment ils ont copié l'appli de de
+texto euh
+et je pense que c'est intéressant de de
+se dire des fois le use case il est
+vraiment à 1 cm de moi j'ai pas besoin
+de réinventer non plus tout le produit à
+l'inverse des fois j'ai pas besoin de
+réinventer le produit je prends ce qui
+marche je trouve la différenciation dans
+dans l'usage et j'y vais à fond c'est ce
+qu' a fait WhatsApp WhatsApp racheter 19
+milliards par facebook c'est 800
+millions d'utilisateurs par mois enfin
+même plus je sais plus enfin c'est on
+connaît tous peêtre tu voulais parler un
+peu d'Instagram et
+snapchat Instagram ils ont inventé le
+ils ont inventé le fit photo sur mobile
+enfin c'est c'est c'est c'est le fait de
+comment dire quand Facebook est arrivé
+il y a c'était Twitter et cetera
+globalement c'était une époque où tout
+était de la metadata c'était globalement
+des posts et cetera et pas tant que ça
+de photos et Instagram ça a été le
+premier déjà avec ce format photo carré
+le format c'est très important c'est ça
+qui quand vous avez un
+format il faut sticker c'estàdire encore
+une fois quand quand on parle de ce truc
+d'unicité c'est il faut que faut il faut
+typiquement par exemple là notre
+première notre prochaine application
+c'est une application pour envoyer un
+dollar à des gens sur Twitter pour les
+typer ou pour les ou pour les supporter
+on s on se tique à un format le format
+du dollar parce que les gens comprennent
+ce truc si on avait dit c'est une
+application pour typer ou pour supporter
+je sais pas quoi les gens ils disent ah
+bon ok je vois à quoi ça peut servir
+mais ils vont pas le faire tant que tu
+as pas trouvé un format pour eux
+Instagram a trouvé ce format le le le
+format carré et les gens dans la tête
+ben c'est carré c'est simple c'est
+facile c'est ça qui a optimisé aussi le
+fait que les gens comprennent mieux tout
+simplement l'app c'est il faut que vous
+pensiez dans votre business quel est mon
+format même si c'est un format qui n'a
+rien à voir avec du du sharing ou je
+sais pas quoi on peut considérer que
+uber appuyer sur un bouton c'est un
+format aussi c'est il faut que vous je
+pense qu'il vous pensiez comme ça de
+manière
+très A + B é= ce que je fais c'est de
+manière très précise et et et c'est ça
+qui est ensuite il voilà c'est c'est je
+pense que c'est ça qui est la clé aussi
+de de la réussite c'est quand vous
+trouvez quelque chose que les gens
+puissent sidentifier comme quelque chose
+de simple et facile et moi j'appelle ça
+un format c'est c'est ce que
+je mais après snap c'est pareil sauf que
+snap le format c'est la photo FMR
+il y a pas grand chose à dire dessus
+aujourd'hui aujourd'hui les gens
+beaucoup de gens ne parlent ne prennent
+plus de de photos avec enfin de plus en
+plus de gens ne prennent plus de photos
+avec
+la la caméra Apple ils vont ils passent
+directement par snapchat et il décid à
+la fin si ils vont la partager ou pas
+c'est c'est ils ont pris ce truc quoi
+c'està dire que les gens quand ils
+veulent prendre une photo ils vont ils
+vont c'est tellement fort le le le
+trigger qu'ils ont dans la tête que les
+gens ils vont même plus passer par la
+caméra Apple ils vont passer par
+snapchat quoi quand vous en êtes là
+quand vous avez hacké Apple sur leur
+propre truc c'est quand même vous avez
+fait quelque chose d'assez fort et il
+faut que vous fassiez ça sur votre
+marché faut que vous haquiez le marché
+par des par des trucs comme ça c'est con
+mais il y avait aucune app de partage
+vidéo qui ouvrait sur la caméra quoi
+c'est un truc de ouf quand on y
+réfléchit c'est c'est c'est c'est pas
+normal elles ouvraent toutes comme
+facebook sur des feeds c'était Instagram
+et cetera il y en avait aucune qui
+ouvrait sur la caméra au moment où c'est
+sorti et maintenant grâce à ça snap il
+continue de grossir et même s'il y a
+encore des gens qui comprennent pas
+s'empêche pas qu'ils vont faire 500
+millions d'utilisateurs encore parce
+qu'ils ont hacké ce truc ils ont ils ont
+pris un usage d'Apple qui était
+fondamental et ils l'ont adapté ils ont
+créé tout un business autour donc c'est
+c'est c'est c'est ce que vous devez
+faire pour votre marché vous regardez
+votre marché sur et tu dis comment je
+peux être un killer sur ce truc et je
+vais être number one et je vais réduire
+tout et et et on va vous je pense queon
+va le marteler jusqu'à ce que vous le
+fassiez vraiment parce que beaucoup de
+gens se le disent ah je le fais mais en
+théorie mais en fait on le fait pas
+euh il faut se faire mal pour le faire
+en fait c'est c'est c'est c'est pas
+facile c'est un processus qui paraiss
+simple et qui qui est assez long et
+difficile et nous tout notre boulot ça
+va faire ça vaêre vous donner des coups
+de pieds pour que vous alliez dans cette
+direction il y a un pe truc intéressant
+aussi à dire par rapport à Instagram qui
+en parlant des features secondaires donc
+eux il c'est la photo ça restera
+toujours la photo par contre il y a un
+an et demi à peu près quand vine est
+arrivé que snapchat commencé à monter il
+y a eu des pressions de tous les côtés
+pour mettre de la vidéo avant on aurait
+pu se demander mais comment ça se fait
+qu'Instagram n pas mis de la vidéo avant
+c'est pas possible ils ont attendu 2 ans
+et demi presque 3 ans pour la mettre
+c'est parce que effectivement ce ce
+format éta établi et le but c'est par la
+suite c'est d'améliorer l'appli mais
+sans détruire le format principal donc
+si vous essayez de faire une vidéo avec
+Instagram vous allez voir c'est assez
+drôle le nombre de clic il est multiplié
+par 3 quoi si vous voulez par exemple
+uploader une vidéo dans votre caméra r
+je pense qu'il do en tout il doit
+falloir peut-être 13 ou 14 clics pour
+arriver à la fin parce qu'ils sont dit
+de toute façon nous ce qui est pas c'est
+c'est pas grave c'est pas un problème
+d'avoir un FUNEL qui est très long pour
+arriver jusqu'à la fin ce qu'il faut
+c'est que l'idée d'Instagram se se feed
+avec cette image elle elle reste chez
+l'utilisateur c'est pour ça que il y a
+besoin de trois clics par exemple pour
+pendant que vous faites une vidéo pour
+choisir la cover de votre vidéo qui est
+en fait cette image photo qui va
+apparaître sur le feed et donc c'est
+pour ça c'est là où on peut s'apercevoir
+que bah eux ils ils ont toujours stické
+à leur à leur à leur fonctionnalité
+principale mais ils ont quand même
+réussi à améliorer l'application pareil
+pour le messaging aussi c'est quand même
+allallucinant que on a attendu plus de 3
+ans pour que le messaging arrive sur
+Instagram c'est parce que il faut du
+c'était pas leur leur truc principal
+c'était pas ça qui les
+faisait croître
+90 % des gens continuent àoder que des
+photos sur Instagram enfin c'est c'est
+mais bon après c'est c'est c'est on va
+dire c'est pas une question qui s'adapte
+à vous parce que là vous en êtes
+vraiment à la à la première on va dire à
+la première version de votre produit
+c'est juste quelque chose qu'on vous dit
+si un jour vous arrivez à à marcher euh
+le jour où devez faire un shift pareil
+il y a des milliers de manières de de
+faire un shift au niveau produit et bon
+Instagram c'est un exemple de comment
+ils ont fait un shift euh snapchat s'en
+est un autre et donc c'est pour ça qu'on
+on on on voulait parler un peu de ça
+mais mais c'est pas le plus important
+pour nous aujourd'hui pour nous
+aujourd'hui c'est la première version de
+ce produit le truc le plus important et
+voilà
+h donc du coup on a beaucoup parlé du
+graphe de façon un peu vague un peu
+désordonné on va essayer de restructurer
+ça pour bien comprendre les différents
+types de graph et on prendra l'exemple
+de Facebook et de tous leurs produits
+pour bien comprendre comment plusieurs
+produits peuvent aller sur plusieurs
+graphes donc les différents types de
+graph alors on on peut l'appeler public
+ouvert le grave de Twitter le grave
+d'Instagram c'estàd que j'ai accès à
+tous les
+utilisateurs directement je peux les
+rechercher me connecter avec eux
+typiquement c'est le modèle du follow
+qu'on utilise tous sur Instagram et
+Twitter le modèle des amis donc là c'est
+différent j'attends qu'on m'accepte
+typiquement c'est Facebook je demande on
+m'accepte on est ami
+euh c'est un modèle de relation entre
+deux personnes alors l'adressbook là
+c'est beaucoup plus intéressant parce
+que c'est vraiment très particulier au
+mobile c'était assez peu utilisé sur le
+desktop avant même si on avait un
+adressbook avec des emails et cetera
+mais sur mobile l'adressbook c'est un
+graphe qui est utilisé quasiment toutes
+les apps sociales maintenant alors on va
+essayer de de bien comprendre avec
+l'exemple de WhatsApp comment ça marche
+donc on a tous un canadresse avec 200
+300 des fois beaucoup plus de
+contacts c'est celui qui est peut-être
+le plus proche de notre vie réelle
+clairement si j'ai le numéro de
+quelqu'un c'est que j'ai une le plus
+souvent une vraie interaction avec lui
+dans la vie réelle ou une ou alors des
+fois c'est une interaction de travail
+c'est un collègue et cetera mais dans le
+cas des teenagers ils ont pas de
+collègues ils ont des ils ont des
+copains à l'école et c'est des gens qui
+sont proches les gens avec lesquels ils
+partagent leur vie donc clairement c'est
+une très bonne cible quand vous faites
+une app sociale et donc l'adresse book
+donc pour prendre l'exemple de WhatsApp
+WhatsApp quand je m'inscris sur WhatsApp
+je rentre mon numéro de
+téléphone le WhatsApp va enregistrer
+votre numéro de téléphone va d'abord le
+confirmer puis va l'enregistrer dans ses
+bases données ainsi que tout votre can
+d'adresse il vont prendre tout votre can
+d'adresse et le mettre dans une base de
+donné
+ensuite vous rentrez dans l'app on va
+vous afficher tous vos amis comme s'ils
+étaient sur l'App alors qu'ils y sont
+pas sauf que vous allez rentrer en
+conversation par exemple je rentre en
+conversation avec Grégoire sur WhatsApp
+je vais rentrer dans une timeline de
+chat comme s'il était déjà sur l'App
+mais il y est pas encore je commence à
+parler avec lui j'envoie un message et
+là WhatsApp a le numéro de Grégoire et
+lui permet d'envoyer un texto
+et et de le ramener sur la en gros c'est
+que du Trix quoi c'est faire croire aux
+utilisateurs que même si c'est pas vrai
+mais du moment qu'il le croi et que
+c'est utile pour eux ils vont le faire
+et en gros toutre boulot de design aussi
+ça va être de de faire un peu le
+magicien quoi c'est de de de de faire en
+sorte que voilà vous ayez céit une des
+premières appli qui a troué ce système
+qui fait qu'en fait vous aviez même pas
+invité vos amis en fait c'est c'est
+c'est ça qui était génial c'est que sur
+facebook tout le monde en a marre des
+enfin à l' les gens en avaient un peu
+moins marre mais aujourd'hui tout le
+monde en a marre de recevoir des
+invitations pour un truc ou je sais pas
+quoi tu vois c'est tu as pas envie il a
+trop et WhatsApp c'était la première
+application qui fait que tu invitais les
+gens et tu es alléis dessus sans même
+avoir l'impression de l'inviter c'était
+complètement transparent parce que dès
+que tu arrivais en gros il te faisait
+croire que ton ton adress book était
+déjà là et que déjà tout le monde était
+sur
+WhatsApp et et ça a été ça a été la clé
+pour laquelle la simplicité
+d'utilisation a été énorme et pour
+laquelle WhatsApp a complètement décollé
+quoi et et juste par rapport à WhatsApp
+ce qui est très intéressant c'est
+pourquoi ils ont utilisé l'adresse book
+parce queusi le grave c'est pas un choix
+arbitraire il faut bien comprendre que
+ça doit réagir avec vot use case dans le
+cas de WhatsApp c'est du texto c'est de
+la discussion et clairement l'adressbook
+c'est le graph de ça parce que c'était
+c'était le pardon WhatsApp c'est du du
+chat et le graph de l'adressbook c'était
+du texto et de l'appel avant et ce qui
+est le plus proche du texto bah c'est le
+chat parce que la différenciation pour
+moi le chat c'est ce qui passe par la
+data et le texto c'est ce qui passe par
+le réseau cellulaire le réseau
+téléphonique plus basique
+euh et ça prend du sens et donc quand si
+vous choisissez un graphe il doit
+prendre du sens par rapport à votre SH
+case
+typiquement si vous avec par exemple
+avec Mindy c'est intéressant parce que
+on a on s'est beaucoup posé la question
+du graph et on l'a cherché on on l'a
+croisé dans tous les sens on a essayé de
+mélanger toutes les idées et à un moment
+on a dans Mindy à la base vous pouviez
+juste poster une vidéo en publ et
+c'était le modèle de Twitter et
+d'Instagram et on s'est dit on va
+rajouter du du du privé on va pouvoir on
+va on va laisser aux gens la possibilité
+d'envoyer une musique vidéo à leurs amis
+en
+privé on l' fait après pour une raison
+simple les gens ne disaient le le
+premier truc qu'on faisait c'était qu'on
+qu'onit comme feedback c'est ah non les
+vidéos des gens sont trop bien moi si je
+fait quelque chose ça va être nul super
+sympa tu vois je veux dire tu fais du
+coup la pression elle est énorme pour
+l'utilisateur sil se dit dès qu'il va
+faire un truc qui qui va faire un truc
+qui qui va pas lui plaire là on parle
+vraiment dans un cas là l'exemple qu'on
+vous donne c'est un cas pour une app
+sociale mais je pense que c'est
+adaptable à n'importe quiux si le mec
+sent qu'il y a une pression quelque part
+euh il va pas le faire il va se sentir
+mal si si tu sens que il y a un truc une
+condition psychologique quand il utilise
+son produit où il se sent pas bien bah
+c'est pas bon pour toi tu vas jamais
+grossir là-dessus alors nous on s'est
+posé cette question comment réduire au
+maximum cette pression bon on a on a on
+avait répondu notamment par des trucs
+privés mais en fait on s'est enfin enfin
+chez nous ça ça ça a pas forcément
+marché mais en gros il faut réduire
+vraiment tout toute cette pression alors
+si vous faites un service comment tu
+réduis la pression dans le service pour
+que limite le payeur a l'impression de
+pas payer ou que ça lui ça lui paraît
+pas cher ou c'est c'est c'est
+il faut faut faut vraiment tout orienter
+par rapport à ça faire des
+trucs nous par
+exemple l'appli là qu'on est en train
+sur laquelle on est en train de
+travailler donc c'est une appli de
+typing et cetera ça paraît chiant de
+donner on essaie de trouver une ux où on
+envoie un billet et du coup tu envoie un
+billet d'un dollar
+du coup nous on pense que ça va réduire
+la pression d'envoyer ça va rendre le
+truc fun en fait c'est un tric on pense
+que nous ça va être un tric de design
+pour rendre le fait de donner un peu
+d'argent rembourser et cetera que ça
+paraisse plus painful de ta l'image
+quand même de sortir ton porte-monnaie
+de faire de de donner de l'argent qui a
+un truc super lourd et que personne n
+envie de faire
+et posez-vous toujours cette question
+quoi
+comment dis-toi que prendre dans ta tête
+un utilisateur horrible qui super chiant
+en fait tout le monde est horrible c'est
+c'est c'est automatiquement
+naturellement tout le monde est horrible
+c'est c'est normal tu vois c'est
+mets-toi dans sa tête du pire du du du
+pire mec possible et dis-toi comment
+est-ce que je pourrais le pire mec même
+le pire mec possible comment est-ce que
+je pourrais avoir une chance qu' utilise
+mon produit
+et toujours et cette ce truc en tête et
+et toujours pense comme ça et là tu
+seras capable de beaucoup travailler
+déplacer les montagnes pour faire un
+truc truc que peut-être qu'il va marcher
+mais dis-toi que l'utilisateur moyen il
+voilà il est il est chiant quoi et et tu
+tu dois c'est c'est et tu tu tu dois
+tout faire pour même le mec le plus
+chiant du monde qui soit content et ça
+et c'est ça ça
+passe comme je te dis nous ça passe par
+envoyer un billet ça rend le truc un peu
+plus fun tu vois on a mis des couleurs
+aussi qui sont pas qui sont un peu
+pétantes pour que ce soit un peu fun
+aussi on a on on on oriente le truc de
+manière à se dire
+ok en fait c'est pas si chiant que ça à
+faire c'est facile c'est marrant et
+cetera et il faut se poser cette
+question tout le temps quand tu fais le
+produit c'est pas non plus que la
+simplicité ou la le design de l'appli et
+cetera ça peut être aussi une récompense
+c'estàd que tu disons que dans votre
+produit c'est quand même quelque chose
+qu'on fait pas que je sais pas que tu
+fais pas tout le temps et donc pour le
+pousser à le faire voir que tu que tu
+lui dises que bah que ok ça va peut-être
+te prendre un peu plus de temps à faire
+qu'une autre appli et cetera mais tu
+auras soit quelque chose de vraiment
+unique soit tu vas
+pouvoir comment dire ça va ça va flatter
+ton ego par exemple ou ça va te te te
+mettre en avant par rapport à tes amis
+et donc là en fait on se bat toujours
+d'un point de vue psychologique entre la
+la difficulté de contribuer la
+difficulté de de consulter et ce cette
+projection de cet imaginaire que tu vas
+avoir en disant mais je vais peut-être
+ça va être peut-être un petit peu chiant
+mais si je le fais je vais quand même
+paraître super cool donc c'est des
+choses comme ça qui si tu arrives à
+dépasser un tout petit peu
+ce cet équilibre et ben tu tu rends la
+contribution possible la consultation
+possible ensuite donc le graph qu'on
+appelle
+stranger très souvent couplé au local
+donc on va s'intéresser à ça typiquement
+tinder
+tinder c'est des gens qui n'ont aucun un
+lien qui auquel je n'ai aucune relation
+sociale dans la vraie vie théoriquement
+qui sont autour de moi c'est les
+strangers c'est un graph illimité on
+limité à 7 milliards de personnes
+bientôt donc c'est un graph illimité et
+qui est intéressant mais qui en même
+temps est un graphe où j'ai pas du tout
+une le même lien émotionnel le la même
+fréquence d'interaction qu'avec un ami
+donc là pareil il faut trouver les
+usages typiquement le dating c'est le
+plus gros usage là-dessus euh et je vois
+pas trop de après il y a d'autres usages
+qui existent par exemple j'ai besoin
+d'un service quelqu'un autour de moi
+peut me le rendre un voisin quelqu'un
+qui est mais c'est des services qu'
+aujourd'hui ont pas encore été prouvé
+qu'on qui marche vraiment c'estd qu'on
+se rend compte que les ce genre de
+service avec des strangers en local
+finalement ça s'oriente plus avec des
+choses comme uber ù c'est plus
+institutionnalisé et on a on limite le
+minimum d'interaction on limite le au
+minimum les interactions avec la
+personne qui rend le service et du coup
+on a un flux qui est peut-être plus qui
+a moins influ avec moins de friction que
+si je parle à quelqu'un qui est pas un
+professionnel et cetera euh ensuite on a
+le l'anonymous
+local pareil c'est un grave qui a émergé
+ass pas pas si pas si récemment parce
+qu'il y avait ask FM qui qui marchait
+bien où on pouvait poster en anonyme
+mais c'était pas vraiment local par
+contre sur yckyak et secret euh je sais
+pas si vous en avez entendu parler mais
+c'est des app où je partage un message
+de façon anonyme dans une zone dans une
+zone autour de moi limitée souvent à 1
+km quelque chose comme ça et donc ça
+c'est pareil c'est un graphe qui est
+illimité dans le sens où je peux me
+déplacer avoir accès à à des personnes
+différentes à chaque fois et limité
+parce que c'est géographiquement autour
+de moi pour 1 km 2 km c'est ce genre de
+grandeur et enfin euh et là c'est là que
+ça devient intéressant c'est que en tant
+que en tant que que produit en tant que
+boîte je peux créer un graphe Facebook
+au début a pris le graphe de mes amis
+dans la vraie vie l'a étendu et c'est
+devenu un graphe en en eux-mêmes
+Facebook les amis facebook c'est devenu
+un Graf c'estàdire que ça a une
+cohérence euh sociale par rapport à
+Internet et c'est pour ça que nous en
+tant que développeur d'application on
+peut venir faire des Facebook Connect et
+attraper ce grave pour l'utiliser dans
+notre propre service pareil pour Twitter
+instagram est en train de s'y mettre
+aussi euh et ce point clé je pense que
+c'est aussi ce qui explique pourquoi
+Facebook c'est aussi gros pourquoi-
+Facebook ça vaut autant d'argent
+pourquoi tout le monde s'intéresse à ça
+c'est qu'ils ont réussi à recréer un
+phénomène social qui est la base de la
+de de de plein de choses de la
+consommation de l'interaction de la de
+la façon don on consomme ils ont réussi
+à le recréer dans un service
+et et si vous arrivez à faire ça en tant
+qu'apte social bah vous avez tout gagné
+et c'est ce qui est en train de faire
+snapchat et
+cetera je sais que je suis pas sûr qu'il
+y a beaucoup de gens qui font des apps
+socials et donc nous c'est la première
+fois qu'on se fait un truc c'est un
+première fois qu'on donne des cours et
+qu'on transmet ce qu'on ce qu'on a fait
+donc nous on arrive pour l'instant par
+par le prisme de de social nous on pense
+qu' en fait il y a des leçons à
+apprendre ce qu'on appelle un grave ça
+peut être u vous pouvez appeler ça la
+clientèle ou je sais Pasi qu tu vois et
+nous on pense qu'il y a des leçons à
+apprendre qui sont applicables de
+partout le Graf c'est pas juste un
+concept euh euh on va dire abstrait
+c'est un truc qui joue vraiment sur le
+design de ton application et c'est pour
+ça que bon nous on appuie vraiment
+beaucoup là-dessus euh mais a il y a
+énormément de choses en gros euh j'ai
+nous on a un peu l'impression
+que un nouveau business c'est une sorte
+de facebookisation d'une certaine
+manière d'un business et comment dire
+par exemple d'une certaine manière uber
+et Airbnb ont facebookisé
+euh ce qu'ils sont en train de faire que
+ce soit du du R sharing ou ouou de la
+location est important c'est çara que
+l'idée de Graf c'est très propre au
+social mais au-delà de ça c'est la
+cohérence la façon dont les boîtes ont
+approché un use case et on le coupé avec
+un graphe mais clairement vous pouvez
+coupl un use case avec avec une
+clientèle avec une jeune géographique
+avec plein de choses c'est la cohérence
+c'est la façon dont on travaille et et
+le graphe c'est quelque chose de
+tangible parce que je pense qu'on
+utilise tous des graphes tous les jours
+qu'on fasse du B2B qu'on fasse du B2C on
+utilise tous Facebook on utilise tous
+les textos on utilise tous son adresse
+book et c'est juste pour essayer de
+faire comprendre ça et par rapport à
+ça juste tracer un petit graphe euh
+qu'on comprenne bien aussi et ça c'est
+important de bien comprendre je pense
+cette méthodologie de travail parce que
+ça vous permet de vous placer par
+rapport à vos concurrents qui existe
+déjà ou par rapport à des boîtes qui
+sont un peu dans votre secteur j'ai
+tracé une ligne privacy à gauche vie
+privée ce serait des apps qui plutôt
+vont dans ce sens-l de l'autre côté show
+ça serait tout ce qui est de l'ordre je
+présente du contenu à une grosse
+audience c'est du bon contenu j'attends
+de recevoir derrière une certaine
+reconnaissance sociale donc évidemment
+mettrait snapchat à gauche ensuite on
+aurait les AB de messaging serait très
+proche un petit peu moins je pense privé
+que snapchat parce que snapchat ça
+s'efface quand même donc on est quand
+même quelque chose de très très très
+très très qui qui vraiment préserve
+votre vie privée ensuite Facebook qui
+est au milieu qui quand même encore on
+encore ses amis sur facebook on en parle
+encore même si ça tend à de plus en plus
+devenir du média dans nos feed ils ont
+refait l'algorithme maintenant on a plus
+de médias plus de publicité plus de de
+marque ensuite Twitter
+qui a toujours un Graf ouvert donc quand
+même t vraiment aller vers la
+droite Instagram pareil à peu près au
+même niveau alors ce qui est intéressant
+c'est qu'Instagram au début c'était plus
+privé et maintenant c'est plus ça va
+plus vers la droite vers quelque chose
+de plus ouvert pour la monétisation on
+va revenir juste sur ça après près et
+enfin Youtube qui je pense est n presque
+plus un réseau social en soi qui est
+plus une plateforme interactive de de
+médias donc on se rend compte que plus
+on est dans le privé et ça c'est pas
+quelque chose d'arbitraire c'est quelque
+chose vraiment on se rend compte de ça
+de façon statistique plus on est dans le
+privé sur mobile plus on on protège ses
+utilisateurs plus on est sur un grave
+fermé proche des amis plus les
+contribuent et plus on ouvre plus on est
+sur de la
+consultation grave fermé grave ouvert et
+on on se rend compte qu'il y a un
+équilibre et que facebook tend à rester
+au milieu encore pour
+l'instant on s'aperçoit que plus le
+produit est mobile plus il est
+lié comment dire plus le en gros les
+utilisateurs si vous faites un produit
+uniquement mobile par exemple vous devz
+avoir les utiliseurs qui sont accro
+accro accro à ce produit c'est pas comme
+le web ou le web ça peut être peut y
+avoir un même les gens en gros les gens
+peuvent utiliser un produit web Une fois
+par mois ça peut marcher en mobile c'est
+trop compliqué là déjà il faut
+télécharger l'app et cetera c'està-dire
+que il faut absolument que si vous
+faites un produit uniquement mobile que
+les gens contribuent beaucoup qu'il soit
+complètement accro au produits qu'il
+utilise tous les jours les les les le la
+fréquence d'utilisation sur mobile c'est
+daily la fréquence d'utilisation sur le
+web c'est monthly et ça c'est un truc je
+sais pas ce que vous faites faudra qu'on
+en parle que vous m'expliquz votre
+projet mais il faut si vous choisissez
+d'aller full mobile ou et cetera il faut
+que vous optimisiez vraiment le produit
+pour que les gens utilisent tous les
+jours en tout cas
+votre objectif c'est qu'il l'utilise
+tous les jours ils le feront jamais
+forcément tu vois mais votre objectif
+c'est l'utiliser tous les jours si vous
+faites un service qui est
+utilisable on va dire qu'une seule fois
+par mois et cetera le le mobile est
+moins important en fait il va être moins
+il va être moins critique dans votre
+croissance bon là il y a il y a aucun
+aucun service alors que parmi vous il y
+a pas mal de personnes qui travaillent
+sur le service mais pour les graphes ce
+qui est intéressant à dire aussi
+c'est
+que c'est c'est aussi utilisé pour des
+services comme par exemple le système
+d'invitation qui est basé sur ce qu'on
+appelle les referals c'est qu'en gros je
+sais pas Airbnb vous en avez peut-être
+entendu parler par un ami vous avez
+peut-être reçu un texto à un moment qui
+vous a proposé de de vous inviter ou
+alors vous avez vous voulez commander
+quelque chose à manger et et vous
+recevez un un code et cetera souvent ce
+qui se passe c'est que le graphe est
+utilisé pour ça pour vous faire venir
+parce que vous venez de la part d'un ami
+donc vous avez le droit je sais pas 10 €
+de réduction et cetera et c'est ça ça
+permet de de Locker un utilisateur dès
+le début en fonction de son graphe donc
+ça peut être par exemple Facebook ça je
+me jeens plus comment ça'appelait
+laappli mais c'était une app de
+recherche de de de boulot euh il y avait
+une sorte de tu pouvais trouver un
+travail en fonction de de de tes amis
+donc c'est beaucoup plus c'est beaucoup
+plus logique de de de travailler sur ce
+graphe là euh pour Airbnb c'est c'est
+c'est tu as envie d' dans un
+environnement un peu plus safe donc tu
+ve faire plus confiance à tes amis ça
+passe plus proche du careradresse où tu
+vas recevoir un texto par exemple donc
+ça c'est c'est des exemples voilà par
+rapport
+au alors pour en finir sur donc du coup
+oui donc juste pour finir sur sur cette
+sur cette courbe là donc on se rend
+compte qu' fait il y a une
+différenciation sur le B2B pur sur
+mobile petite anecdote juste pour ceux
+qui ça intéresse on peut classifier les
+les les apps en deux catégories plus
+communication
+ou je suis pas là je suis j'envoie du
+contenu dans l'idée de discuter et de
+partager quelque chose qui est de
+l'ordre plus de de la communication et
+la publication et donc on voit que ça
+quand même ça tend à aller plus
+publication vers un grap ouvert
+communication vers un Graf fermé et ça
+c'est quelque chose queon voit
+maintenant après avec études des
+statistiques de snapchat de Facebook de
+Messenger de
+WhatsApp juste donc si on juste pour
+bien comprendre pour finir sur le graphe
+et comprendre aussi comment on peut
+orienter son graphe par rapport à son
+business par rapport à ses besoins sur
+sur une vision long terme Facebook au
+début quand ils a commencé ils étaient
+clairement plus du côté communication
+entre amis quelque chose de privé où je
+cher mes photos et cetera donc ça
+c'était il y a encore 2 3 ans on va dire
+ensuite ils ont shifter qu'on appelle un
+shift c'est quand on déplace quelque
+chose de fondamental dans son business
+donc là dans le cadre de Facebook ils
+ont chifter leur graphhe ver quelque
+chose de beaucoup plus ouvert en ouvrant
+sur les en ouvrant sur les pages en
+ouvrant sur les likes sur les sur les
+pages qu'on peut liker en ouvrant sur
+les groupes aussi en ouvrant sur sur les
+events et donc du coup ils ont
+complètement ouvert leur graph et on a
+accès à du contenu qui n'est plus que
+nos amis pourquoi ils ont fait ça
+clairement dans une perspective
+d'intégrer les marques et de de
+monétiser avec leur mod leur modèle leur
+business model de d'advertising ensuite
+ils ont acheté Instagram
+euh donc c'est leur première acquisition
+vraiment mobile je pense que c'était
+pour renforcer leur mobile aussi et
+aussi je pense que c'était parce que
+Instagram à l'époque
+euh se trouvait plus vers la droite et
+c'était pour complémenté alors peut-être
+une petite erreur c'est juste
+qu'Instagram serait plus vers la gauche
+ici quand ils l'ont acheté et maintenant
+ils sont ici pour moner
+et à l'époque ils l'ont acheté parce
+qu'ils avaient un fort engagement des
+gens à poster du contenu et ils avaient
+du mal à faire poster des du contenu sur
+mobile Facebook donc du coup ils sont
+dit ok on y arrive pas là peut-être que
+c'est parce qu'il il y a besoin d'une
+app spécifique avec un use case
+spécifique on va pas spécialement
+essayer de les copier ils ont essayé ils
+ont mis des filtres dans la caméra de
+Facebook ça marchait pas et ça montre
+bien que une app égale un use case et
+que parfois il faut pas essayer de de
+gonfler son App il y a besoin d'une app
+spécifique et vous pouvez avoir un
+business avec deux app trois apps c'est
+pas un problème si même si je pense
+qu'au début il faut commencer sur un axe
+principal mais après vous pouvez vous
+dire ok là sur ce business là qui est
+très proche du mien et qui est
+complémentaire j'ai besoin d'une
+nouvelle app parce que sur la première
+ça va parasiter le message principal ça
+va ça va parasiter le le use case de
+base ensuite ils ont sorti le chat de
+Facebook parce que justement ils avaient
+des lacunes sur leur graphe sur le sur
+leur graphe de base sur les amis les
+gens utilisaient plus le chat de de
+Facebook qui était dans l'app à la base
+du coup ils l'ont sorti ils ont créé une
+app qui s'appelle Messenger et et ils
+sont allés ils ont changé leur graphhe
+c'estàd que sur Messenger vous vous
+inscrivez avec votre adresse book avec
+votre numéro de téléphone parce que
+c'est propre à la communication ensuite
+évidemment ils ont acheté WhatsApp
+récemment pour renforcer encore et je
+dirais même qu'ils ont essayé d'acheter
+snapchat pour encore plus tirer leur
+grave vers la privacy vers la vie privée
+vers les Friends et hner tout un secteur
+mobile mais à chaque fois tous ces
+produits vous prvez tous ils ont tous
+commencé par être très fort en
+contribution et petit à petit ça s'est
+estompé et ils sont allés plus vers un
+produit où les gens contribuent plus
+pourquoi parce qu'en fait c'est la
+fréquence d'utilisation qui vous permet
+de rentrer dans le marché quoi que vous
+fassiez comme comme style de produit il
+faut que les gens en gros il faut que
+vot taux d'utilisation soit supérieur
+peut-être FO 100 par rapport à la
+moyenne du marché peut-être pas fois 100
+mais au moins FO 10 par rapport à la
+moyenne du marché dans lequel vous êtes
+c'est comme ça que vous allez rentrer
+dedans c'est si vous faites un produit
+mou vous y arriverez pas faut faire un
+produit dur un produit qui qui soit euh
+fulgurant quoi et ça ça doit se voir
+dans le taux d'utilisation et il se
+trouve que WhatsApp et par exemple ça a
+été rcheter 20 milliards parce que c'est
+juste l'app la plus utilisée de toute
+euh sur de de de tout internet c'est ils
+ont même ils sont plus utilisés que
+facebook les gens utilisent plus
+WhatsApp que Facebook et c'est ces taux
+d'utilisation qui fait et et uber uber
+le taux d'utilisation pour une app où
+vous allez 10 dollars par jour
+dans un un truc pour vous déplacer
+c'était jamais vu av avant c'était
+unique airbnv c'était pareil c'était
+unique le le le taux d'utilisation de
+ces de ces business était complètement
+hallucinant par rapport à par rapport à
+ce qui se passait dans le marché à
+l'époque et c'est c'est ça tout votre
+goal c'est ça c'est et c'est là que le
+design entre en jeu c'est comment
+tuoptimises cette cette utilisation et
+et c'est c'est ça que vous devez c'est
+ça que vous devez réfléchir donc pour
+résumer je pense que dans le cas d'une
+app sociale ça serait une action
+tangible et qui prend du sens dans un
+graphe et dans le cas d'une app de
+service ça serait une action tangible
+pareil et et qui prend du sens je pense
+dans dans un dans un dans un marché où
+il y a de la friction comment je vais
+comment je vais enlever la friction
+c'est toujours cette idée de grâce au
+mobile j'ai accès à des informations je
+mets le user à un clic de mon service du
+coup je me j'ai pas le droit dans mon
+app de créer de la friction j'ai pas le
+droit de le faire parce que déjà le
+téléphone enlève de la friction du fait
+d'appeler ou même d'aller sur un d'aller
+sur un dans un ordinur donc je me dois
+d'aller dans cette continuité

@@ -1,0 +1,508 @@
+bienvenue dans cette vidéo sur comment
+installer le pixel Facebook alors c'est
+pas mal de voir cette vidéo avant de
+voir la vidéo sur comment créer sa
+première pub Facebook parce que le pixel
+c'est un des outils qui va nous
+permettre de justement targeter les gens
+d'une meilleure manière comme je l'ai
+expliqué dans la vidéo principal de ce
+module le pixel Facebook il enregistre
+beaucoup beaucoup d'actions qui sont
+effectuées par les gens sur votre site
+et il renvoie l'information à Facebook
+comme ça Facebook a des infos sur le
+comportement de l'ensemble des gens sur
+Internet qui ont un compte Facebook en
+dehors de Facebook c'est flippant un peu
+mais c'est très utile quand on veut
+faire des pubs qui sont targetés
+notamment vers des gens qui ont par
+exemple fait une action spécifique sur
+notre site donc on va voir ensemble
+comment installer le pixel Facebook un
+petit peu comment naviguer l'interface
+du business manager de Facebook parce
+que c'est un peu le bordel je l'avais
+dit aussi dans la vidéo principale chez
+Facebook c'est pas forcément les
+meilleurs en ux design et surtout quand
+il quand on arrive à cet outil là on se
+rend bien compte qu'il y a pas eu
+beaucoup d'efforts qui a été mis pour
+faire un truc simple à utiliser mais au
+final même s'il y a beaucoup beaucoup
+d'infos on va pouvoir s'en sortir je
+vais vous montrer un petit peu ce qui
+est essentiel et ce qu'il est pas alors
+on y va tout de suite donc d'abord
+évidemment la première étape ça va être
+de créer un compte facebook business euh
+ça c'est pas très dur hein vous tapez
+Facebook for business sur Google vous
+suivez les instructions vous créez votre
+compte va y avoir des infos sur votre
+boîte à mettre et cetera donc il y a et
+vous pouvez le faire aussi en tant que
+particulier mais donc il y a un petit
+peu de travail à faire en amont de cette
+vidéo vidé euh je vous invite à le faire
+dès maintenant si vous voulez vous
+lancer dans vos premières pubs Facebook
+et dans vos premières pubs Instagram euh
+parce que le pixel va nous servir à ça
+donc euh là on est sur l'interface
+principale du business manager donc on
+voit qu'il y a des add accounts des
+pages euh les pages c'est les pages
+facebook hein euh que que vous gérez par
+rapport à ce business là et donc en fait
+le menu principal est juste ici et donc
+toutes les toute la navigation se fait à
+partir de là donc vous voyez il y a pas
+mal de choses euh beaucoup trop de
+choses en fait hein fondamentalement qui
+peuvent servir à plein de types de gens
+mais en fait ouais le problème c'est que
+bah sur Facebook il y a des pubs pour
+tout types de business à l'infini mais
+donc ça veut dire aussi que pour vous
+vous retrouver dans votre type de
+business c'est un petit peu compliqué
+donc aujourd'hui on parle uniquement euh
+du pixel Facebook euh dans une autre
+vidéo je vous montrerai comment créer
+votre première pub votre première
+campagne de pub et votre première pub
+mais donc ici on va parler uniquement du
+pixel donc le pixel ça se trouve ici
+dans Business settings donc ici c'est
+les gens qui ont accès à mon compte de
+pub et cetera donc on va aller dans data
+sources et on va aller sur pixel vous
+voyez il y a tout un menu hein vous
+pouvez explorer un peu tout si ça si
+l'envie vous en prend mais bon grosso
+modo normalement dans les vidéos de ce
+module vous avez tout ce qu'il faut pour
+comprendre comment ça marche donc ici
+vous voyez moi j'ai un pixel qui existe
+déjà qui est le pixel de coup d'étard
+quel pixel qu'on met partout sur le site
+de coup d'tard histoire de tracker bah
+ce que vous faites sur le site et
+pouvoir vous retargetter avec des pubs
+et vous nous inclure dans votre vie et
+vous montrer des choses qu'on a envie de
+vous montrer qui seraient pas forcément
+poussé organiquement par facebook hein
+euh donc voilà donc ici il y a le pixel
+coup d'État ce que vous allez faire
+quand vous avez pas de pixel au départ
+c'est que vous allez créer votre pixel
+vous allez cliquer sur Add ici et vous
+allez lui donner un nom vous allez taper
+une URL de votre
+site juste ici
+et vous allez créer votre pixel là il va
+vous demander si vous êtes prêt à setup
+le pixel vous allez pouvoir cliquer sur
+setup de pixel now et ensuite vous allez
+pouvoir utiliser bah soit utiliser le
+code du pixel que vous allez devoir
+mettre dans toutes les pages de votre
+site donc pour ça c'est très simple
+quelle que soit la façon dont vous
+générez un site il y a forcément un
+endroit où vous pouvez injecter du code
+j'en avais déjà parlé dans la vidéo sur
+les landing page dans le fonctionnement
+d'un canal d'acquisition comment
+intégrer le code d'Analytics bah ça
+fonctionne un peu de la même manière
+donc l'idée c'est que vous allez avoir
+un code comme
+celui-ci que vous allez copier dans
+votre votre press papier et que vous
+allez coller dans votre code à un autre
+endroit sinon il y a d'autres manières
+de faire he il vous propose par exemple
+d'utiliser une intégration partenaire
+avec différents services donc
+typiquement si vous utilisez Webflow
+WordPress ou Wix ou même Shopify ou
+d'autres trucs vous allez pouvoir
+intégrer votre pixel Facebook
+directement avec ces gens-là assez
+facilement bon donc ça c'était pour
+l'exemple du pixel Facebook test pour
+créer un pixel maintenant à quoi ça sert
+un pixel ça sert à traquer ce qu'on
+appelle des events donc ça sert à
+mesurer à chaque fois que quelqu'un a
+fait une action spécifique sur votre
+site donc normalement quand vous avez
+intégré le code de votre pixel à votre
+site web bah il y a déjà pas mal d'infos
+qui sont envoyé à Facebook à travers ce
+petit pixel donc ici on va cliquer
+directement sur open in events manager
+ici parce que bah Facebook a décidé de
+pas afficher les events directement dans
+cette page donc on va ouvrir une
+nouvelle page et là du coup on voit
+l'overview de tous les events qui ont
+été envoyés via le pixel Facebook depuis
+le site de coup d'état donc on voit que
+sur euh je pense que c'est sur les 30
+derniers jours ouais c'est ça depuis le
+13 mai jusqu'au 10 juin euh on voit
+qu'il y a eu 54600 page view donc des
+gens qui ont vu une page sur coup d'État
+c'est le l'event de base qui est envoyé
+par le pixel Facebook et après nous on
+lui envoie des events custom donc on lui
+envoie par exemple un événement qui est
+landing page visited pour les gens qui à
+l'époque visitaent la page de anyone can
+scale 125 pour Bame lead parce que on a
+mis en place un truc où les les gens
+pouvaient indiquer leur intérêt pour any
+one can scale et du coup on avait testé
+des choses à ce niveau-là c'est des
+choses que dont on sert plus forcément
+aujourd'hui mais qui sont toujours
+traqués par facebook donc ici vous voyez
+vous avez la liste de tous les events
+qui ont été reçus ces derniers temps
+donc vous avez par exemple la pagew
+comme je vous disais landing page become
+lead email confirm purchase made tout ça
+c'est des des des événements qu'on a
+créé directement dans le pixel Facebook
+et qu'on est capable de lui envoyer de
+manière custom ça ça demande du code
+grosso modo ça demande de savoir coder
+ça demande d'envoyer des événements si
+vous voulez aller plus loin dans le
+setup de vos événements comme celui-là
+vous pouvez commencer à taper sur Google
+ce que je vous invite à faire c'est de
+vraiment regarder he on creusera plus je
+pense les pubs Facebook dans un dans un
+dans une autre formation très
+certainement he genre sur uniquement sur
+les pubs Facebook mais ici donc si vous
+voulez commencer à regarder allez
+chercher sur google et regarder bah ce
+que vous pouvez mettre en place comme
+événement custom si vous voulez créer
+votre propre event customisé que vous
+soyez en train de coder votre propre COD
+base ou que vous vouliez ajouter des
+événements spécifiques euh par rapport à
+un site que vous êtes en train de créer
+dans un éditeur de site vous allez
+pouvoir venir ici sur create custom
+conversion
+donc ici par exemple donc là je vais
+prendre mon coup d'État pixel de de base
+celui qui marche déjà et ensuite donc
+ici ça va être un website event donc un
+événement qui va être traqué via le
+biaia du site et on va avoir des règles
+par exemple vous pouvez filtrer sur une
+URL spécifique vous pouvez dire par
+exemple je veux que il y ait un
+événement spécifique qui se déclenche
+quand dans mon url il y a écrit checkout
+donc ça veut dire que vous allez pouvoir
+envoyer un événement au pixel Facebook à
+chaque fois que quelqu'un visite cette
+page là spécifiquement vous allez
+pouvoir lui donner un
+nom ici je vais l'appeler checkout page
+viewed et vous allez pouvoir lui mettre
+une description une catégorie une valeur
+si jamais c'est un truc de purchase et
+puis du coup vous avez votre custom
+conversion qui est faite ça ça vous
+permet donc de vraiment setup votre
+pixel Facebook dont c'est la principale
+fonctionnalité par exemple si vous tapez
+euh Facebook pixel avec squarespace sur
+Google vous allez tomber sur cette page
+donc squarespace c'est un éditeur de
+site web qui est très très utilisé
+aujourd'hui euh vous allez avoir cette
+page-là et donc par exemple il vous
+explique genre si un visiteur ouvre une
+une product page bah ça va être un event
+qui s'appelle view content si quelqu'un
+qui fait une search ça va être search
+add to cart initiate checkout purchase
+lead complete registration et ils
+expliquent un peu tout l'avantage des
+éditeurs de sit comme squarespace c'est
+qu'ils ont déjà bah setup tout le pixel
+directement eux-même donc vous avez pas
+forcément à le faire vous-même donc ce
+que je vous inv vite à faire c'est en
+fonction de votre situation de vous
+renseigner sur comment envoyer des
+events correctement si vous savez coder
+vous allez pouvoir le mettre dans votre
+code base si vous avez une code base à
+vous et si vous avez un éditeur vous
+allez pouvoir trouver assez facilement
+comment mettre tout ça en place pour
+vérifier que tout ça marche bien vous
+allez pouvoir naviguer votre site
+vous-même et vérifier que pour les
+actions spécifiques que vous demandez à
+être envoyé à Facebook bah le pixel va
+bien recevoir ses infos là donc par
+exemple vous pouvez aller juste sur
+votre site de base vous allez trigger
+normalement un événement qui qui
+s'appelle pageeview et vous allez
+pouvoir voir dans les 20 minutes en
+général ça prend pe près 20 minutes
+l'envoi via le pixel Facebook à à la
+base de données Facebook vous allez
+pouvoir voir cet événement qui a été
+traqué donc par exemple ici on voit que
+sur mon événement pageeview j'ai c'est
+actif et il y a 6 minutes et on a reçu
+un dernier événement qui avait fait ce
+trucl donc ça c'est pour le pixel
+Facebook et comment il track les
+informations et maintenant la question
+c'est qu'est-ce qu'on va en faire ce
+tracking tous ces événements là qui sont
+en voy à Facebook à chaque fois que
+quelqu'un fait une action spécifique sur
+votre site que vous avez décidé de
+mesurer vous allez pouvoir l'utiliser
+pour créer des audiences les audienence
+soit vous pouvez créer une audience
+custom soit vous pouvez créer une
+audience look like on va d'abord
+commencer par les audiences custom et
+vous comprendrez ce que c'est une
+audience look like derrière donc si je
+crée une audience
+custom que je la mets dans mon compte
+ADS coup d'État et donc on arrive sur
+cette fenêtre où on dit voilà il faut
+ajouter des gens dans votre audience
+alors une audience ça va vous servir à
+faire des pubs qui sont targetés sur
+cette audience là spécifiquement et pas
+sur le reste de tout Facebook donc par
+exemple moi je veux tous les gens donc
+include people who meet any of the
+following criteria donc ça veut dire les
+gens qui qui qui qui ont au moins un des
+trucs que je vais définir ici donc par
+exemple je veux tous les gens qui ont
+visité le site dans les 30 derniers
+jours et peut-être que je veux exclure
+des gens donc par exemple je vais
+vouloir faire une pub sur tous les
+visiteurs du site sur les 30 derniers
+jours
+et que en fait je vais vouloir exclure
+tous les gens qui ont fait purchase made
+dans les 30 derniers jours ça me permet
+de faire une pub qui va targetter tous
+les gens qui ont visité le site mais pas
+ceux qui ont acheté comme ça j'évite de
+spammer les gens qui ont déjà acheté
+quelque chose et ça permet d'être plus
+granulaire sur les gens à qui je vais
+proposer ma pub et ensuite il faut la
+nommer il faut la nommer donc en général
+ce qu'on fait c'est qu'on fait last 30
+days ce qu'on fait c'est qu'on moi j'ai
+une nomenclature
+qu'on m'a apprise avec le temps qui est
+last 30 days parce que j'ai décidé que
+c'était sur les 30 derniers jours que
+j'allais mesurer mon audience last 30
+days people
+who
+visited but didn't
+buy voilà donc là j'ai mon audience qui
+est créée et je peux venir bah hop créer
+mon audience l'audience custom a été
+créée et donc là on a deux options soit
+on va pouvoir créer une pub ce qu'on
+verra dans une autre vidéo comment créer
+sa première pub Facebook soit on peut
+créer une audience look like une
+audience look like c'est prendre
+l'audience qu'on vient de créer donc
+cette fameuse audience des gens qui ont
+visité le site les 30 derniers jours
+mais n'ont pas acheté les 30 derniers
+jours et on va pouvoir récupérer tout un
+tas de profils de gens qui ont des
+profils similaires à cette audience donc
+typiquement vous allez avoir bah des
+gens qui vont liker les mêmes pages
+avoir des comportements similaires sur
+d'autres sites c'est un un regroupement
+de toutes les données que Facebook a sur
+les gens ils établissent des profils
+psychologiques à partir de ça et donc
+ils vous disent voilà ce que vous pouvez
+faire c'est prendre votre audience
+existante avec des gens qui ont été
+traqués sur votre site et qu'on vous
+propose des gens qui ont des
+comportements similaires dans cette
+audience il faut un minimum de personnes
+donc là on le voit typiquement on a
+notre audience qu'on vient de créer qui
+s'appelle laster
+people visit but buy c'est une custom
+audience et elle est pending elle est
+pending parce qu'il faut attendre que
+les gens effectuent les actions qui sont
+nécessaires à rentrer dans cette
+audience et il faut que le temps que
+facebook remplisse le le pot en fait
+grosso modo donc là vous voyez il y a
+pas mal de choses on a pas mal
+d'audiences différentes nous on a
+l'audience par exemple ACS leads donc
+les gens qui sont des leads anyone can
+scale sur les 30 derniers jours et ce
+qu'on va pouvoir faire c'est créer par
+exemple un look like ici donc hop créer
+une look like
+audience ma source ça va être ACS
+leads last 30
+days je vais mettre une localisation en
+France et donc là je vais choisir la
+taille de l'audience look alike donc en
+général plus la plus le pourcentage est
+faible donc 1 % ça veut dire que ça va
+être les 1 % de gens qui sont les plus
+proches selon le profil psychologique
+donc si on choisit 1 % ça veut dire que
+ça va être le 1 % de gens qui sont les
+plus proches psychologiquement en terme
+de profil par rapport à votre audience
+source donc l'audience custom que vous
+avez créé là donc on va choisir 1 % et
+ça estime que ça fait 400000 personnes
+ça veut dire que potentiellement je peux
+toucher 400000 personnes si je mets un
+budget assez conséquent des personnes
+qui vont être dans le 1 % les plus
+proches du profil psychologique des gens
+qui ont déjà été des leads anyone can
+scale donc si jamais je veux vendre à
+des je veux proposer un début de quelque
+chose d'one can scale à des gens et ben
+ça va être très efficace de les
+targetter eux-même donc je vais pouvoir
+créer mon audience et ensuite j'aurai
+mon audience lookalike qui va être dans
+ma liste
+elle est juste ici look alike fr one
+person ACS leads last 30 days et donc là
+on a à la fois une custom audience et à
+la fois une look likee audience ces
+audiencesl vous allez pouvoir l'utiliser
+pour mettre en place vos
+pubs avec ça je pense que vous avez
+toutes les clés pour comprendre comment
+fonctionne le pixel Facebook et comment
+fonctionne le système d'audience ces
+deux informations qui sont essentielles
+pour se mettre à faire de la social ad
+sur Facebook et sur Instagram j'ai été
+volontairement un peu vite pour vous
+montrer que c'est possible à faire
+hésitez pas à rejouer cette vidéo
+plusieurs fois à suivre le truc et
+cetera là vous avez la base de la base
+sur comment créer ce qu'on appelle
+généralement dans le langage digital
+marketing euh même si je suis pas un
+grand fan de ce terme-là ce qu'on
+appelle des buckets donc vraiment
+imaginez chacune de vos audiences comme
+un buckette donc vraiment un saut que
+vous allez remplir de gens ces gens-là
+vous allez les remplir en les filtrant à
+travers les events qui sont envoyés au
+pixel Facebook que vous avez setup juste
+comme je vous ai montré avant au fur et
+à mesure que ces buckets se remplissent
+ils sont de plus en plus précis parce
+que Facebook peut dire OK dans ce groupe
+de personnes-là qui a effectué telle
+action et ben je commence à pouvoir
+établir un profil psychologique moyen
+général Facebook demande au moins 1000
+personnes dans ce trucl pour avoir un
+profil psychologique intéressant à
+partir de là vous allez pouvoir prendre
+le bucket initial des gens que vous avez
+mesuré sur votre site à vous et dire je
+veux faire un bucket secondaire qui va
+être une copie du premier mais au lieu
+de mettre les même personne dedans je
+vais mettre des personnes qui leur
+ressemblent psychologiquement parlant à
+partir de ce que facebook me dit ça ces
+audiences là vous allez pouvoir les
+targeter spécifiquement quand vous allez
+créer des des campagnes de pub Facebook
+et des pubs Facebook c'est très très
+puissant ça vous permet de targeter
+exactement les bonnes personnes et
+d'avoir des profils très intéressants
+c'est pas pour rien que Facebook est une
+des boîtes qui fait le plus de chiffres
+d'affaires au monde en vendant de la pub
+en ligne c'est parce que vous avez de
+fortes chances pour que ça fonctionne
+très très bien et que vous ayez des
+conversions derrière ça c'est pour le
+tracking le pixel Facebook la création
+d'audience maintenant si vous voulez
+vous mettre à créer votre première
+campagne Facebook et targetter une des
+audiences que vous aurez créé grâce à
+cette vidéo pratique et ben vous allez
+vous allez dans la deuxième vidéo de ce
+module qui s'appelle comment faire sa
+première pub Facebook j'espère que vous
+aurez compris un minimum comment ça
+fonctionne c'est pas trivial c'est pas
+simple au premier abord ça a l'air très
+compliqué il y a beaucoup beaucoup
+d'infos mais il faut jouer avec les
+choses dont je vous ai parlé aujourd'hui
+c'est les seules choses qui comptent
+pour pouvoir communiquer avec les
+audiences que vous avez choisi et avoir
+un contrôle réel sur les pubs Facebook
+et à qui vous allez les afficher c'est
+un travail qui prend un peu de temps qui
+demande de comprendre un petit peu la
+logique de Facebook book qui demande de
+tester aussi pas mal donc commencez à
+jouer jou avec le business manager même
+si c'est un truc qui a l'air d'être un
+peu ind digeste au premier abord parce
+que vous allez vite vous rendre compte
+que ça peut être très puissant pour
+votre boîte et j'espère que ça va vous
+aider à mettre en place des social ADS
+bon courage

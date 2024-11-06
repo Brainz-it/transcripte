@@ -1,0 +1,323 @@
+bonjour et bienvenue dans ce nouvel
+épisode de anyone can scale aujourd'hui
+on va parler du sujet des PlayBook un
+des grands sujets à l'international
+c'est de réussir à créer des manuels que
+les employés peuvent exécuter pour
+réaliser l'ensemble des tâches au sein
+de l'entreprise si vous n'avez pas déjà
+réalisé des PlayBook et si vous avez pas
+écouté les leçons précédentes c'est le
+moment absolument où vous n'avez pas le
+choix autant lorsque vous réalisez une
+entreprise qui est monopays les PlayBook
+ne sont pas un outil pensable c'est sans
+doute un outil utile agréable efficace
+mais pas indispensable à l'international
+les PlayBook deviennent obligatoire
+pourquoi parce que quand quelqu'un est
+loin dans un pays isolé tout seul et qui
+doit développer quelque chose il peut
+pas poser des questions aux collègues de
+bureau il y a plus tous les échanges
+informels oubliez pas que
+l'international signifie beaucoup plus
+de complexité opérationnelle et cette
+complexité opérationnelle a besoin
+d'être documentée alors pour écrire un
+bon PlayBook interne il faut absolument
+réussir à simplifier la première chose à
+faire c'est de réussir à décrire
+l'ensemble de l'entreprise de façon
+simple et réussir à faire passer les
+process que l'ensemble des employés
+doivent euh réaliser de la façon la plus
+simple possible cette simplicité n'a
+rien de simple pour le coup c'est très
+dur de faire un PlayBook simple et vous
+allez pas réussir du premier coup alors
+chez uber ils avaient une tradition que
+je trouve assez agréable et que je
+trouve très efficace dans les cas des
+PlayBook c'est simplement de transformer
+les PlayBook à partir de journaux
+intimes la technique chez uber pour
+créer un PlayBook est tout simplement de
+faire écrire un journal intime quotidien
+à l'ensemble des employés qui envoyé à
+l'ensemble de leur managers et ainsi au
+bout au bout d'un certain temps ces
+journaux intimes deviennent des bouts et
+des extraits du PlayBook qui est
+simplifié le fait de transformer des
+tâches journalières et le fait de
+raconter des tâches journalières permet
+petit à d'accumuler le savoir-faire les
+trucs les astuces et tout ce qui avant
+n'était pas explicite encore une fois à
+l'international comprenez que votre
+ennemi est l'invisible c'est tout ce que
+les gens pensent mais ne disent pas
+c'est tout ce qui se passe mais que vous
+ne voyez pas et c'est tout ce que la
+distance crée loin des yeux loin du cœur
+c'est d'autant plus vrai dans une
+entreprise que pour tout autre sujet et
+n'allez pas croire que les outils
+numériques qui vous permettent de rester
+connectés changent grandement la donne
+c'est pas parce que vous allez parler
+sur slack avec quelqu'un que vous allez
+pouvoir contrer les 9hur de décalage
+avec la Californie c'est pas parce que
+vous pouvez faire des zoom que vous
+allez pouvoir vivre dans le même créneau
+horaire que les gens qui sont au Japon
+de façon inhérente les contraintes de
+l'international le fait qu'on ne vive
+pas dans les mêmes fuseaux horaires le
+fait qu'on ait des décalages culturels
+le fait que des choses qui sont
+importantes dans une pièce ne sont pas
+importantes à l'extérieur tout ceci crée
+des situations ou l'international
+devient une source de chaos et rien de
+pire que des gens qui dérivent vous
+pouvez voir le fait de lancer quelque
+chose à l'international un peu comme le
+fait de dériver de quelques degrés avec
+un bateau vous dérivez vous driftez vous
+driftez et puis à un moment vous êtes
+vraiment très loin du point de
+destination tout simplement parce que
+vous n'avez pas réussi à corriger la
+route tout ce que vous pouvez faire pour
+réduire la taille des loupes et
+augmenter la vitesse la fréquence et la
+pertinence des feedback permettent
+d'améliorer les process et vos fameux
+PlayBook vous devez voir les PlayBook
+comme un processus itératif ce n'est
+surtout pas 6 mois de travail pour venir
+écrire une bible un PlayBook c'est pas
+une religion c'est pas parce que quelque
+chose est écrit dans un PlayBook qu'on
+ne peut pas le changer au contraire vous
+devez encourager tout le monde à avoir
+une approche critique des PlayBook une
+approche actif des PlayBook rien de pire
+que des gens qui appliquent un process
+sans réfléchir sans y mettre du cœur et
+c'est en ça que les process sont
+dangereux les process sont dangereux non
+pas parce que ils portent en eux des
+erreurs d'exécution mais ils sont
+dangereux parce qu'ils enlèvent le
+contexte et le cerveau des gens qui les
+appliquent évidemment que le process
+doit servir les objectifs de
+l'entreprise et ne surtout pas être un
+obstacle à l'innovation à la prise
+d'initiative et au fait que tout le
+monde peé changer pour faire ça il faut
+donc avoir un processus de PlayBook
+interactif c'est aussi aussi bête que
+d'éviter de faire un pdf si vous faites
+un PDF vous figez les informations
+updateer le PDF ça prend du temps
+privilégie les Google Doc privilégier
+tout ce qui peut être édité facilement
+faites un wiki interne faites quelque
+chose qui est dynamique c'est comme dans
+Harry Potter et le Prince de s mêlé vous
+savez ROG a un livre de recette de magie
+qui est rempli de notes et de variations
+et de petites choses comme ça un bon
+PlayBook ça doit ressembler à un livre
+de recette magique qui a été modifié par
+les meilleurs sorciers de votre
+entreprise il n'y a rien de pire que de
+figer le savoir-faire de l'entreprise
+d'ailleurs le PlayBook doit être aussi
+une source d'inspiration de ce que vous
+voulez réécrire de zéro un bon exercice
+de PlayBook que j'aime beaucoup faire
+avec les startup les plus matures de the
+family c'est de leur faire réécrire des
+chapitres de zéro par des employés qui
+ne connaissent pas le chapitre en
+question je vous explique l'exercice est
+tout bête imaginez que vous avez un
+PlayBook sur le marketing et
+l'acquisition en ligne donc vous avez un
+processus détaillé qui explique les
+sources de trafic comment les générer le
+type de message et cetera et ben vous
+prenez une nouvelle équipe dans un
+nouveau pays et vous leur refaites
+écrire de zéro un PlayBook et ensuite
+vous comparez cette version du PlayBook
+avec votre version initiale du PlayBook
+et vous fusionnez les deux pour avoir
+une nouvelle pratique ça permet de
+nourrir les autres des découvertes
+faites par cette nouvelle équipe et ça
+permet de nourrir cette équipe par les
+découvertes historiques qui avaient déjà
+été faites comme vous l'avez vu
+le fait d'écrire un PlayBook est un
+processus interactif c'est d'ailleurs
+aussi un processus non hiérarchique je
+m'explique l'erreur la plus courante que
+je vois dans les entreprises de the
+family c'est de croire que l'écriture du
+PlayBook est le monopole des dirigeants
+d'abord le monopole des fondateurs et
+ensuite le monopole de tous ceux que
+vous appelez chef CTO chief marketing
+officer et cetera alors évidemment que
+dans une entreprise toutes les opinions
+ne se valent pas évidemment que
+normalement si les choses sont bien
+faites les gens qui sont à la tête de
+l'entreprise sont en moyenne les gens
+les plus compétents en moyenne les gens
+les plus informés problème des moyennes
+c'est qu'elles ne sont pas forcément pas
+vrai dans 100 % des cas ce qui fait la
+valeur d'une entreprise c'est jamais ce
+que les gens savent c'est toujours ce
+qu'ils ne savent pas par définition
+quelle que soit la taille de votre
+savoir ce savoir est une boîte limitée
+vous avez beau être très très très
+intelligent très très très informé cette
+boîte a une taille forcément limité ce
+qui vous intéresse c'est tout ce que
+vous pouvez rajouter en dehors de cette
+boîte les playbooks sont une occasion
+extraordinaire de faire participer des
+gens qui autrement n'auraient jamais osé
+participer l'anonymat de l'écriture le
+fait de faire un processus itératif et
+démocratique à ce niveau-là vous permet
+d'obtenir les contributions de gens qui
+ne sont pas forcément très haut dans la
+hiérarchie et de gens avec qui vous
+n'interagissez pas forcément souvent il
+n'y a rien de pire dans une organisation
+qui se qu'elle que la hiérarchie mentale
+qu'est-ce que c'est la hiérarchie
+mentale c'est le fait que les gens se
+comportent à la hauteur de leur titre
+les gens ont tendance à se comporter à
+la hauteur de leur titre s'ils ont
+l'impression qu'ils ne peuvent jamais
+exceller au-delà de leur responsabilité
+et quand vous scalez quand vous êtes en
+chaos quand vous êtes en croissance vous
+avez besoin de la moindre contribution
+vous avez besoin que tout le monde se
+sente hyper motivé hyperactif le
+PlayBook peut être un instrument au
+service de ça alors comment faire pour
+que ce soit pas le chaos il suffit de
+faire ce que les dev font avec le
+document et le versioning si vous êtes
+dev et que vous connaissez gthub et que
+vous avez une culture de dev au sein de
+votre entreprise je vous conseille
+d'utiliser gitup si vous n'êtes pas dev
+et vous avez jamais entendu le mot
+GitHub et ben je vais essayer de vous
+expliquer les concepts grosso modo
+l'idée c'est que à chaque fois que
+quelqu'un fasse une version nouvelle du
+PlayBook il propose cette version au
+reste de la la communauté des
+développeurs dans votre cas à vous c'est
+au dirigeant ou à celui qui est
+responsable d'une certaine section du
+PlayBook et ça permet d'écrire plusieurs
+versions en parallèle des fameux fork
+qui ensuite sont merge par un
+administrateur ce merge il a lieu sur la
+base de l'efficacité essayz d'éviter au
+maximum les débats idéologiques rien de
+pire qu'un PlayBook qui est fondé sur
+autre chose que de l'expérience pratique
+et rien de pire que de ne pas essayer
+des choses sous prétexte qu'elles n'ont
+pas marché n'oubliez jamais que c'est un
+processus collectif d'apprentissage par
+exemple à the family on vient très
+souvent proposer des idées que je sais
+qui ne fonctionnent pas pourquoi parce
+que je l'ai fait 100 fois mais il y a
+rien de pire que dire aux gens qui
+viennent vous proposer ces idées que ça
+ne fonctionne pas lorsque vous avez le
+temps lorsque vous avez la ressource
+laissez les gens passer par ces
+expériences pour développer une sorte de
+connaissance collective de ce qui
+fonctionne et ce qui fon fonctionne pas
+alors concrètement pour écrire un
+PlayBook commencez par écrire le plan de
+ce PlayBook commencez par essayer
+d'écrire le plan le plus détaillé
+possible limitez-vous à des Bullet point
+et essayez d'être hyper itératif tous
+les jours sur l'ensemble des sujets que
+vous avez envie de traiter sur cebook et
+ensuite section par section commencez à
+le remplir et remplissez-le à partir des
+journaux intimes de vos employés
+demandez aux gens qui réalisent
+l'international de se poser des
+questions tous les jours et d'écrire
+tous les jours ce qu'ils ont fait dans
+la journée ça vous permettra tous les
+weekends par par exemple de résumer tout
+ça dans un texte et d'unifier l'ensemble
+des journaux intimes dans un certain
+nombre de leçons ensuite c'est leçons
+vous les communiquez aux gens les gens
+les lisent et commencent à itérer et
+faire des propositions de process de
+mieux en mieux et toujours amélioré
+voyez ça doit être véritablement un
+process interactif qui concerne tout le
+monde dans l'entreprise du stagiaire
+jusqu'au CEO ce n'est surtout pas une
+œuvre solitaire que vous faites dans
+votre coin alors il y a plusieurs façons
+d'ailleurs de décrire ce PlayBook soit
+vous faites un PlayBook qui concerne
+toute l'entreprise soit vous le faites
+par département là la question dépend de
+la taille de votre entreprise de la
+taille du PlayBook et évidemment de ce
+que vous voulez passer comme info il y a
+sans doute certaines parties du PlayBook
+qui concerne tout le monde et sans doute
+certains chapitres du PlayBook qui ne
+concernent que certaines équipes à vous
+de faire preuve de jugement et à vous de
+faire en sorte que les gens ne se noit
+pas dans trop d'informations et trop de
+détails alors évidemment les playbooks
+c'est une chose l'écrit c'est très
+important mais derrière tous ces écrits
+il y a des humains et l'international
+représente comme je vous l'ai déjà dit
+un sacré challenge dans la constitution
+des équipes dans la prochaine séance on
+va voir comment constituer une équipe à
+l'international pose des challenges
+nouveaux et comment vous pouvez réussir
+à vous en sortir j'espère que cette
+séance vous a plu n'hésitez pas à
+partager vos plus beaux PlayBook avec
+nous on se fera un plaisir de les
+publier dans la communauté coup d'état

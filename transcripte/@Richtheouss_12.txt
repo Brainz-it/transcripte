@@ -1,0 +1,1342 @@
+[Musique]
+[Applaudissements]
+Benjamin CEO de cahouette couette qui
+est une startup que je suis depuis la
+première promo du camping donc ça fait
+un un bon bail et cwette qui était déjà
+avancé au moment où il est rentré dans
+le camping qui faisait partie des
+startup les plus et donc cahouette en
+fait c'est complètement différent je
+dirais de bunker vous avez l'autre
+versant là c'est la bande de potes qui
+qui monte ensemble une solution hyper
+technique qui aussi partent avec l'envie
+de planter le drapeau en haut de la
+montagne qui serait devenir la one
+billion dollar compagnie je me souviens
+à l'époque il m'avait pitché cahouette
+en me disant bah tu vois les blogs sont
+arrivés sur Internet et ont permis à
+n'importe qui de pouvoir faire de
+pouvoir s'exprimer sur sur sur le web et
+ben nous on va être un peu ça mais pour
+le mobile c'est-à-dire qu'on va
+permettre à n'importe qui de créer une
+application et créer une application
+mobile sera simple comme bonjour grâce à
+cahouette de la même manière que les
+blogs ont permis à n'importe qui de
+pouvoir accéder en fait à Internet enfin
+à s'exprimer en fait et à pouvoir poser
+sa voix sur Internet et c'est un pitch
+qui nous avait vraiment plus à l'époque
+ils ont vraiment et ça il va le raconter
+euh eu enfin ils ont traversé énormément
+énormément de de galères avec un produit
+qui marchait dans un contexte français
+où en fait tu avais je sais plus comment
+il s'appelle mais tu nous parleras de
+ton mobile r c'est ça le gros concurrent
+américain qui lui cartonnit et ils
+étaient techniquement et même en terme
+de produit vraiment meilleur mais même
+on avait fait un audit je me souviens tu
+nous en avais parlé qui montrait à quel
+point ils étaient meilleurs et pourtant
+le business model était super compliqué
+à développer et alors l'histoire de
+cahouette c'est que eux ils vont se
+faire racheter et là ça fait 6 mois que
+Ben a intégré la boîte qui les a racheté
+dans des super conditions et c'est un
+rachat auquel the family en fait a
+largement participé a contribué
+d'ailleurs on a fait la rencontre avec
+avec cette boîte insert et donc c'est
+une belle histoire et c'est une autre
+c'est un autre style d'histoire aussi
+voulez que vous ayez comme histoire
+entrepreneuriale voilà donc Benjamin
+raconte-nous un peu genre le début d'où
+tu viens qui t es et ta bande ta bande
+cahouette
+alors bonjour à tous parle bien fort
+parce que ok je m'appelle Benjamin j'ai
+un profil plutôt technique donc j'ai
+fait epitec j'ai fait Epitech pendant 5
+ans donc j'ai codé pendant 5 ans un
+moment je me suis dit c'est pas du tout
+ce que je veux faire dans ma vie mais je
+pense que ça peut servir un moment donc
+je suis parti en Australie parce que je
+voulais chercher un peu autre chose à
+faire le code j'ai jamais été très très
+bon codeer donc c'est un peu chiant je
+suis parti en Australie avec pas mal de
+potes en France dont des mecs despitc
+qui sont devenus plus tard mes associés
+cahwettes je suis revenu en France en
+2009 j'ai bossé pour une comme beaucoup
+de gens au début en dans une agence
+digitale une agence quoi donc cher à
+canon des heures pas possibles payer
+payer que dal je me suis vite dit que
+c'était vraiment de la merde et je pense
+toujours que les agences c'est c'est une
+bonne par contre c'est une bonne école
+donc tout ça nous amène en fin 2009 et
+fin 2009 ça commence un peu à cartonner
+l'App Store ça commence vraiment à
+prendre il commence à avoir de plus en
+plus d'applis donc avec mon cfondateur
+de l'époque qui était aussi un mec
+d'Epitech on s'est dit bon bah on va
+s'autoformer au développement iOS c'est
+beaucoup plus beaucoup plus sympa que le
+le vieux développement ou ENF le
+développement DNET Java qui nous
+emmerdait un peu parce que le déboucher
+c'est banque assurance ou agence donc un
+peu la peste et le chéra donc du coup on
+s'est lancé dans dans le développement
+iOS et on trouvait ça fun c'était un peu
+plus sympa et au fur à mesure on arrive
+en 2000 début 2010 et on se dit bon bah
+il y a il y a sûrement un marché à
+prendre où il y a on va sûrement trouver
+des clients donc on se lance et on se
+lance dans le développement iPhone donc
+à la base on avait pas du tout
+l'intention de créer un produit start-up
+c'était plutôt une une boîte qui allait
+faire des des application iPhone de fil
+en aiguille ont créé une application
+deux applications C 10 applications pour
+des pour des clients et à chaque fois on
+se rend compte qu'on refaisait tout le
+temps la même chose donc on s'est dit
+bon bah on va faire un truc un outil
+pour nous deux pour pour nous aider à
+développer plus rapidement les
+applications et en fait on se rend
+compte qu'on crée un produit qu'on
+reprend un peu la sauce WordPress et
+cetera d'une plateforme qui permet
+d'automatiser de fluidifier la création
+d'application mobile au fur à mesure ça
+devient un produit qu'on se dit B à un
+moment on va peut-être essayer de le
+vendre on arrive à le vendre une fois
+deux fois trois fois et donc là on se
+dit vraiment on a un
+produit qu'on lance en fin 2010 et à ce
+moment-l
+qu'on je sais pas je remplis le dossier
+le camping un soir une nuit en rentrant
+un peu bourré je me souviens même plus
+pourquoi j'ai rempl ce dossier là non
+mais ce qu'il faut dire c'est que il y a
+il y a il y a un pattern très présent
+chez cahouette s'appelle pas cahouette
+pour rien cahouette c'est cacahuète et
+en fait ils aiment bien faire laapéro
+donc c'est des mecs plutôt chill ils
+sont toujours en TF non mais c'est vrai
+un peu l'esprit et c'est ça fait partie
+de la culture en fait de la boîte
+cahouette et ça a été un atout on va
+dire dans dans la team mais en même
+temps aussi on va le voir ça a été je
+pense com dire symptomatique la
+difficulté à créer des rôles et à
+séparer les rôles quand tu es entre pote
+dans ton
+équipe bah donc c'est un peu le problème
+de donc oui l'alcool c'est un vrai au
+début c'est un
+peu au début c'était un peu la une
+blague c'était voilà kW
+c'était une VI une vidéo d'un mec qui
+buvait une bouteille de pastisce en 10
+minutes là qui prenait des cahouettes et
+pour c'est là d'où vient notre nom au
+début c'était un peu une blague et en
+fait au fur et à mesure c'est c'est
+vraiment devenu un un truc qui nous a
+faitdéré et qui nous a permis de passer
+pas mal d'épreuves où c'était dur on
+s'engueulait on avait pas d'argent on
+savait pas où aller on cherchait la cret
+de sauce on la trouvait pas l'alcool ça
+nous a fédéré ou
+euh non mais à un moment plus plus rien
+de compte et c'est pas grave en fait il
+y a un entrepreneur je sais plus si
+c'est un mec super connu qui disait au
+bout de de bièr je dis oui à tout et
+c'était un peu ça quoi c'était quand il
+y avait un conflit technique je veux
+faire comme ça non je veux faire comme
+ça de trois bières et c'était réglé ça a
+apaisé les conflits en fait et ça a
+permis de casser pas mal de d'abset qui
+se créent dans les boîtes où on se voit
+tous les jours on bosse ensemble mais on
+on se parle pas et il y a des trucs
+sous-jacents qui traînent les problèmes
+de cofondateur ça c'est ça qui fait qui
+détruit des boîtes et nous ça nous a
+permis un peu de de casser toutes ces
+barrières et de de se parler vraiment et
+de partir de un peu de zéro le
+lendemain et alors quand tu veux quand
+tu veux quand il rentre au camping il
+veut tuer mobile rad qui est donc
+l'équivalent US et donc c'est avec cette
+ambition là que tu pars ouais qu'est-ce
+qui se passe après on commence sur un
+marché qui est le mobile et et qui
+commence vraiment à cartonner on se dit
+voilà ça va partir comme les blogs comme
+les les sites tout le monde a besoin
+d'une appli donc on se met à créer la
+plateforme qui permet d'automatiser une
+appli n'importe qui peut aller sur notre
+plateforme créer une application et
+limite la publier tout seul et cetera on
+simplifie et on ets excuse-moi
+parenthèse je pense que vous avez tous
+vu que depuis ce matin et je sens que je
+les ai briefé d'ailleurs chacun va dire
+que le produit est une extension Dee
+même en fait ils ont tous vécu le probl
+ils vont d'abord le faire pour eux et
+ensuite ils vont er d' faire un produit
+que soit l'arrêt de la clope pour
+romainker le powerp et et toi des
+problèmes auquel on a été
+confrontéçon pour lancer un truc faut
+être assez légitime c'est soit on connaî
+hyper bien un marché on a repéré les
+problèmes soit on s'est confronté au
+problèmes nous-même une idée c'est pas
+je vais chercher un truc là ça a l'air
+cool le marché il est
+cool et puis je vais aller et en fait je
+résous pas de
+problème on a vraiment essayé de
+résoudre ce problème de création
+d'application qui était compliqué ça
+demandait beaucoup d'argent beaucoup de
+compétences on voulait le fluidifier et
+le démocratiser et on Lancea il y a une
+une autre grosse boîte américaine qui
+lève beaucoup beaucoup d'argent et euh
+et qui se lance dans la création
+d'applications et toutes les
+applications de donc eux ils sont après
+ils sont un peu calés dans le les
+applications d'artistes donc les
+application Madona machin et cetera
+c'est la même boîte qui après ils ont
+créé un gros partenariat avec Sony UMG
+et cetera et du coup ça a été notre
+premier gros concurrent je crois Queau
+ça fait 2 ans que j'ai pas vu un seul
+article sur eux donc au final ils ont
+pas mieux réussi que nous parce que
+parce qu'en fait il y a c'était un faux
+c'était un faux problème il y a pas eu
+rapidement on est passé de il faut une
+application pour tout à j'ai 10
+milliards d'applications et j'ai pas
+besoin d'application pour tout j'ai pas
+besoin de 25 applications mes 25
+artistes préférés et tout ça c'est fait
+fagociter par facebook au final qui a
+tout pris c'est-à-dire tout ce que que
+ce soit blog application d'artiste
+application vitrine et cetera c'est
+Facebook qui faer to reach toutes les
+Facebook fanpag ont bouffé tout ce
+marché donc nous en 2000 en 2012 on
+commence à se rendre compte de ça on se
+dit bon les applications grand public on
+va arrêter et en fait le marché évolue
+smartphone rentent dans les entreprises
+et d'un coup tout pas mal d'employés ont
+des smartphones dans leur poche et
+peuvent s'en servir pour pour travailler
+du coup on on fait un espèce de pivot
+euh euh pivot yoga move de yoga en fait
+parce qu'on change pas vraiment on
+écarte les jambes et on essaie de
+rapprocher les bous parce que bon t on
+pouvait pas toucheter d'un coup c'était
+pas possible on avait trop de
+opportuniste ouais
+et les ingrédients restent et on change
+on change la recette en fait et on part
+sur le modèle entreprise qui est ce qui
+est maintenant c'est ce qu'on fait
+toujours c'est on a utiliser toute notre
+backend et notre plateforme pour faire
+des applications métiers terrain des
+applications sur des stores internes
+d'entreprise et pas du tout sur les App
+Store et Google Play et c'est comme ça
+qu'on utilise notre techno aujourd'hui
+d'application métier c'est comme ça et
+c'est l'intérêt aussi du rapprochement
+et cetera donc ça en 2012 il a fallu
+qu'on on a changé de marché au final on
+a bien fait nos anciens concurrents sont
+plus là le milieu du développement c'est
+hyper compliqué euh il y a très très peu
+de vainqueurs des outils pour aider au
+développement faut faites pas en fait
+faut pas faire c'est trop compliqué il
+faut beaucoup d'argent faut lever
+beaucoup d'argent faut être aux
+États-Unis donc voilà il faut lever
+beaucoup d'argent être aux États-Unis
+avoir un rich développeur important il y
+a très très peu de gagnants donc il y a
+les gagnants d'aujourd'hui c'est
+accelérator c'est euh pars qui a été
+revendu à Facebook et euh donc je sais
+pas si vous connaissez un peu pars pars
+c'est euh une
+des outils d'aide au développement
+d'applications un peu iPhone Android web
+et cetera c'est un modèle auquel on
+s'est fortement identifié en 2013 on s
+dit bon bah il y a parce qui est
+vraiment des outils d'aide au
+développeurs nous on a des outils d'aide
+au non développeur on a les non
+développeurs à créer des
+applications nous on s'en sort bien mais
+bon eux c'est 60 80 millions à Facebook
+donc je cache pas que c'est pas ce qu'on
+a fait justement alors ça donnait quoi à
+peu prs après le le le chiffre
+d'affaires au meilleur moment de cwette
+on est monté à 250000
+€ 250k en
+étant 5 en
+étant ce qu'on dépense on gagne et ce
+qu'on gagne on le dépense on était
+vraiment line line donc tu faisais payer
+comment c'était quoi le business model
+qu' on est passé sur le modèle
+entreprise on faisait on rentre sur des
+marchés avec des Grands Comptes donc les
+grands comptes ont pas mal d'argent plus
+d'argent que le grand public donc notre
+modèle ça a été euh euh création une on
+crée les application pour les
+entreprises presque gratuitement et
+ensuite on fait payer au à par employé
+par mois donc c'est un peu les les
+modèles Dropbox outil SAS pour
+entreprise donc à du entre 2 et 10 € par
+mois par par employé
+suivant suivant le nombre d'employés et
+euh et voilà donc et ça faut que ça
+scale la mort pour que ça puisse puiss
+rapporter le moindre fa que ça qu'el à
+mort et un autre truc aussi c'est on
+s'est rendu compte que la techno ne vaut
+pas grandchose en fait comme Alice
+disait on est une boî super techno on
+est beaucoup d'ingénieurs à la base donc
+je reviens sur le cas pars pars a vendu
+80 millions à Facebook donc sur un
+modèle très proche du N c'estàdire des
+outils eux pour les développeurs nous
+pour les non développeurs et en fait on
+s'est il y a pas c'est une techno qui
+est assez pauvre finalement il y a pas
+grand-chose sauf que eux ils ont réussi
+à générer une communauté de
+alors je sais pas où ils en sont
+aujourd'hui mais peut-être 200000
+développeurs fidèles qui utilisaient les
+outils et qui faisaient des applications
+avec ces outils là et il y avait
+peut-être 50000 applications sur les
+stores quand ils ont vendus et Facebook
+a pas racheté du tout la techno ils ont
+la techno en 3 jours en ils mettent 10
+in et en 3 jours c'est fait ils
+rachètent les communautés et nous c'est
+c'est une des grosses erreurs qu'on a
+fait on a pas du tout misé sur la
+communauté on a misé sur la techno et la
+techno ça vaut rien
+ce qui coûte une boîte comme facebook
+c'est de racheter du jour au lendemain
+une communauté fidèle de 200000
+développeurs et pas une techno qui se
+refait qui fait ce qui se refait je mets
+un petit bémol à ça parce qu'on connaît
+très bien un des cofondateurs de pars
+alors c'est vrai et en même temps il y a
+pas que ça ce qui fait que Facebook a
+racheté pars c'est aussi parce que
+tyticon est très proche de Marc
+Zuckerberg et que les la proximité
+physique fait que c'est plus facile
+aussi et donc quand on fait
+effectivement ce ce type de boîte vaut
+mieux être dans la Silicon vallée parce
+que ça joue en fait de
+pouvoir se faire racheter
+potentiellement parce qu'on connaît le
+CEO de facebook ouais comme ce qui s'est
+passé pour nous enfin c'est the family
+qui nous a fait rencontrer le CEO de la
+boîte qui nous a racheté c'est c'est pas
+Facebook attendez un an ou
+deux non mais c'est voilà la communauté
+le lieu où on fait faut être mais c'est
+comme Podio par exemple un peu dans un
+peu un peu je sais pas si vous voyez ce
+que c'est Podio non on connaissait bien
+des un des un des fondateur qui
+s'appelle Casper et pareil donc celui
+c'était un Européen nordique et c'était
+un c'était un outil bon plutôt plus euh
+B2C mais si au sens prumer quoi c'est
+comme Dropbox c'est assez professionnel
+comme outil c'est une plateforme qui
+permet de gérer plein d'API enfin bref
+sans rentrer dans les détails on il a
+bougé à San Francisco c'est pareil au
+final ils sont fait racheter par
+sellforce je crois non par euh six Fox
+comment Citrix Citrix exactement
+exactement mais clairement c'est ils ont
+bougé un an après ils se faisaient
+racheter ouais donc c'est euh ouais je
+sais pas si ça marche voilà nous pareil
+on a donc on en revient enfin il y a
+beaucoup de choses on a penser partir on
+on a pas pu partir on était on revient
+un peu sur l'essence de la de la boîte
+nous c'était une boîte c'était une boîte
+faite par accident avec que des amis
+mais c'est-à-dire pas des amis c'est des
+très bons amis en fait c'est on est tous
+très très amis depuis 15 ans on part en
+vacances ensemble on on fait tout
+ensemble et c'était il y a un moment où
+on a eu des opportunités de partir aux
+États-Unis soit lever là-bas soit vendre
+là-bas et c'était pas possible de on
+pouvait pas se per sur sur C s'il y en a
+un qui voulait pas on faisait pas du
+coup ça nous a bloqué pas mal de choses
+donc il y a eu aussi un moment où euh al
+justement est- ce que tu pourrais nous
+dire avant qu'on parle de la du rachat
+et tout de ce que tu as appris toi si tu
+devais remonter une boîte plus tard sur
+la team et les fondateurs et les
+cofondateurs alors c'est
+euh je refer je referai jamais ce que
+j'ai fait de faire une boîte avec cinq
+très très bons amis donc on était six
+pas un mais CQ mais par contre si
+c'était à faire je leur feraai ça a été
+un grand dilemme en 2013 où
+euh je sentais que j'avais la fil
+entrepreneuriale et je l'ai plus que
+tout et maintenant je je reviendrai
+jamais sur un boulot normal entre
+guillemets mais j'ai amené cinq très
+très bons amis qui correspondaient au
+niveau des profils pour faire tout ça il
+y a il y a deux choix soit on fait une
+boîte qui fait une one billion compagnie
+on est prêt à faire beaucoup de
+sacrifices
+c'est-à-dire lever de l'argent quand on
+lève de l'argent il y a des
+investisseurs qui viennent il y a des
+quand il y a des investisseurs qui
+viennent ils prennent le pouvoir ils
+vont dire lui il est pas bon je pense
+que on peut mettre meilleur à ce poste
+là va falloir que tu le vires ou enfin
+plein de choses comme ça qui fait que
+soit on est prêt dès le départ et qu'on
+s'est tous dit on va faire une boîte peu
+importe les sacrifices s'il y en a un
+qui doit sauter il saute si si on doit
+partir à l'étranger on part et cetera on
+se aucune barrière on y va soit on et
+moi c'est ce que je voulais à la base ça
+a été un très conflictuel avec mes mes
+autres fondateurs qui moi j'essayie de
+la boîte était devenue un chemgum moi
+j'essayie de la tirer vers un endroit où
+eux n'avaent pas envie d'aller c'est on
+voulait on voulait rester une team
+soudée fidèle qui prend du plaisir tous
+les jours à travailler à monter un
+produit avoir des clients à le vendre
+euh toute cette satisfaction et ça a
+failli tuer la boîte ou moi je la tirais
+trop d'un côté et eux voulaient pas y
+aller et à un moment euh il ait fallu
+arrêter de se dire on veut lever
+d'argent on veut partir aux États-Unis
+voulait aller à textars on a été refusé
+puis pris et après on a dit ok mais en
+fait non on va pas y aller c'était pas
+compris et parce que c'était sûr que ça
+allait imploser ça allit faire imploser
+la boîte cette boîte n'était pas faite
+pour faire tous les sacrifices qu'il
+faut pour faire une boîte à 10 100
+millions 1 milliard parce que les
+fondateurs parce que les fondateurs
+c'est pas voulez faire c'était une boîte
+c'est une aventure humaine et on a CIT
+une start-up aventure humaine et pas une
+start-up réussite financière mais parce
+que vous regardiez pas dans la même
+direction en fait ouais en fait au début
+ça ça se voyait pas trop parce que dans
+l'euphorie si si si c'est pas vrai en
+fait ça se voyait dès le départ parce
+que dès le départ vous savez il y a dans
+ces guidelines c'est très difficile
+entre les règles et se l'appliquer dans
+la réalité quand vous êtes avec vos amis
+et qu'on vous dit voilà il y a un rôle
+pour chacun il y a celui qui décide
+c'est le CEO c'est lui qui a le fa mot
+de l'histoire et ce CEO faut être faut
+assumer d'être CEO et ça veut dire
+prendre le dessus et quand c'est tes
+potes et qu'on commence l'aventure en
+bande de potes il y a cette question
+d'ego qui est hyper difficile à gérer
+mais qui est fondamental en fait pour
+pour pour pour bah pour que la boîte
+elle soit saine et là ce chewinggum que
+tu décris c'est aussi parce que enfin je
+sais pas peut-être tu me dis si je me
+trompe mais ça a été dur pour toi
+d'assumer les gars ferme vos gueules
+c'est moi qui décide ah ouais ouais
+c'est j'ai jamais pu le faire je l'ai
+fait de manière sousjacente c'està-dire
+sans frontalement le dire aux gens mais
+ou ça a été compliqué de d'être le
+leader alors que tu l'éta le
+soir en allant boire un coup on est tous
+au même niveau donc c'était c'était dur
+d'être dans la vie hors de la boîte
+c'était très
+rare nor au même niveau et dans la vie
+de tous les jours leader et fédérateur
+et donc
+c'est compliqué si tu recommençais une
+boîte là tu le ferais comment justement
+à ce
+niveau-là alors déjà les
+profils les profils de l'entrepreneuriat
+tout le monde n'est pas fait pour ça
+donc il y a des gens de l'équipe de mon
+équipe aujourd'hui alors ça fait 4 ans
+qu'on vit ensemble qu'on dort ensemble
+qu'on part en vacances ensemble qu'on
+boit ensemble donc personne n'a envie de
+bon là en ce moment on continue à bosser
+ensemble mais on a envie un peu de
+bosser avec d'autres gens ce qui est
+normal mais je dans l'équipe tout le
+monde n'est pas fait
+pour n'a pas un
+esprit ça peut être des c'est très bon
+technicien très très bons employés mais
+le début d'une boîte ça demande d'autres
+qualités de savoir prendre des coups de
+se relever
+de de pas
+être de savoir euh trouver que ce qu'on
+fait c'est pas bien de de se remettre en
+question de se dire qu'on est nul et de
+de changer ça et de pas avoir la science
+infuse de c'est beaucoup de petites
+choses qui fait
+que tu as choisi des potes qui qui avant
+de choisir des des vrais cofondateurs
+complémentaires j'ai choisi des gens qui
+étaient déjà avec qui je pouvais avoir
+confiance et qui était bon sur les posts
+dont on avait besoin mais ensuite sur le
+sur le début d'une boîte il y a besoin
+de plus que ça ouais et
+c'est de l'énergie de la rien lâcher
+ouais mais cela dit
+on au final on a quand même réussi et
+ils ont réussi ils ont tous réussi à se
+mettre dans le le pli ou ouais
+complètement donc il y a une techno il y
+a une équipe franchement techniquement
+de ouf il y a un vrai produit un vrai
+produit qui qui marche et qui trouve pas
+forcément son marché et de toute façon
+c'est un marché tu dis qu'il se fait
+bouffer par facebook donc il y a une
+opportunité de rachat assez assez
+logique mais comment est-ce que alors
+avant qu'on en arrive au mariage est-ce
+qu'on quand quand psychologiquement
+comment est-ce que tu fais la le
+cheminement pour dire ok rachat
+qu'est-ce que ça veut dire qu'est-ce que
+ça entraîne et qu'est-ce que ça implique
+et et ça a été quoi toi ton ton ton
+chemin par rapport à ça bah déjà il y a
+un truc hyper important c'est quoi il y
+a 15 jours il y avait le la fête ici et
+d'ouverture ce qui euh euh donc on
+faisait partie du camping saison 1 donc
+on continue beaucoup à se voir et cetera
+et j'en parlais avec d'autres fondateurs
+de boîte du camping saison 1 donc ça
+veut dire que c'est des mecs ont monté
+leur boîte pareil que nous en 2010 donc
+un qui s'est fait racheter récemment par
+Twitter par Twitter ouais mesag magrap
+ouais et au bout de 4 ans déjà l'énergie
+c'est un truc qui n'est
+pas permanent c'estàd que l'énergie
+qu'on a au lancement de la boîte à un
+moment ça s'essouffle ça s'estompe et on
+sen rend pas trop compte et c'est hyper
+dangereux ou parce que le jour où il y
+a le jour où on lâche c'est fini quoi
+c'est que il y a plus de il a fallu pour
+nous il a fallu trouver une porte de
+sortie avant de se dire on va prendre on
+va moi je sentais que j'allais bientôt
+lâcher il fallait trouver vite une
+solution c'est un peu faut pas se faire
+faut pas se faire endormir en fait
+ousama on parle beaucoup quand il parle
+de glisser vers le modèle agence ou ne
+pas s'arrêter ne pas réaliser qu'on
+c'est un échec et ne pas savoir
+s'arrêter c'estàd continuer on nous
+apprend que les cinq trucs de Paul gram
+c'est la la détermination donc
+déterminer à rien lâcher à continuer
+tous les jours à essayer de trouver et
+cetera alors l'énergie s'estompe on se
+fait endormir parce que plus le temps
+passe le rêve ne sera de moins en moins
+accessible parce que moins d'énergie et
+ça c'est hyper important où globalement
+au bout de 3 ans soit ça ça se scale
+bien et ça monte bien soit faut arrêter
+parce que le reste ne sera plus que
+descente et et quand enfin il y a un
+moment quand il y a plus que l'énergie
+et qu'il y a plus d'énergie donc il y a
+plus d'argent il y a plus enfin il y a
+pas de modèle et cetera et qu'il faut
+repartir à zéro et qu'il y a plus
+d'énergie c'est hyper compliqué c'est
+fini quoi différence entre détermination
+et obstination quoi ouais savoir suivre
+des des ces fameuses métriques qui vont
+te qui vont te dire step by step si tu
+as une traction ou pas quoi et pas
+glisser effectivement vers le modèle
+facile qui est le modèle agence où bah
+tu gagnes du fric mais c'est pas du tout
+scalable mais c'est pas c'était pas le
+but quoi si c'est pas le but nous c'est
+ce qui nous est arrivé en 2013 on
+commence à voir que sans le service
+qu'on fournit en plus de nos
+applications on gne pas vraiment
+d'argent donc voilà c'est en 2013 c'est
+assez compliqué c'est dur c'est enfin du
+coup moi je me suis retrouvé un peu tout
+seul parce que faut c'est dur aussi de
+pas montrer aux équipes enfin au mecs
+que ça va pas moi c'était un mois où je
+suis plus je je je j'essaie de pas venir
+j'essaie de justifier des vacances où c
+un peu le fond du trou même plus
+d'alcool
+rien plus rien quoi il y a plus rien
+dans les chaussettes et là c'est faut
+vite trouver une solution en fait c'est
+soit on continue en mode agence mais
+alors ça inéresse personne soit on on
+s'accroche à la petite lueur d'espoir ce
+qui veut dire euh si sa fooire on s'en
+sort alors déjà qu'on a rien gagné comme
+argent pendant 3 ans on a tous fait 24
+mois de chômage avant de donc on a plus
+plus d'argent soit on va s'en sortir
+avec des dettes fermer une boîte quand
+c'est la merde c'est pas du tout
+agréable donc suis sa qu' entre amis on
+va se friter parce que la pression de pu
+avoir d'argent ça devient compliqué il y
+en a deux coups sur coup qui nous
+annoncent qui vont être papa donc alors
+le problème
+d'argent ça devient un problème donc il
+fallait trouver vite une solution et bah
+soit on arrête soit on arrête soit on on
+se laisse l'été en gros pour essayer de
+de revendre de trouver un acheteur
+et c'est un peu compliqué alors les
+choses ont changé mais c'est hyper
+compliqué en
+France alors il y a pas de département
+très peu département MNA en France M
+c'est c'est quoi c'est mer acquisition
+mer acquisition ceux qui rachètent les
+grosses boîtes qui ont de l'argent en
+France pour
+acheter'imag pas pas qui pourrait
+racheter une équipe qui va leur aider à
+ça c'est un très vraiment différent pour
+le coup avec la Silicone Valley parce
+que ce qui crit qu'il a un écosystème
+assez
+vertueux aux États-Unis c'est qu'ils ont
+un truc que nous on n pas qui s'appelle
+le aquaire concrètement 90 % des boîtes
+qui sortent de W combinator elles
+deviennent pas
+dropbx néanmoins en fait elles se font
+racheter quasiment dans les 2 ans à la
+sortie de de W combinator alors c'est
+des équipes souvent très techniques ont
+pas trouvé de marché mais les sales
+force les Google les Amazon ils voi un
+intérêt en fait à acquérir donc c'est
+pour ça qu'on appelle aquarus et ils
+acqu ils veulent acquérir ces boîtes
+pour pouvoir faire des super
+recrutements que c'est des gens qui ont
+une vision et une techno et on va
+pouvoir mettre du sang neuf et innovant
+dans ces grandes boîtes et c'est comme
+ça voyez quand il dit l'énergie c'est ce
+qui compte mais ces grandes boîtes aussi
+elles le savent que ce qui peut les tuer
+c'est de plus avoir cette espèce
+d'énergie et ce souffle nouveau qui en
+fait qui va porter driver l'innovation
+interne et ils ont aucun problème là-bas
+à pluguer des gamins à capuche de moins
+de 30 ans parce qu'il sils ont les les
+les compétences techniques à les faire
+rentrer à des postes clés en fait dans
+les grandes boîes voilà c'est le Aqua on
+a pas ça en France demain LVMH ou enfin
+nos grands groupes ne sont pas capables
+encore de pouvoir acquérir pour pouvoir
+faire du recrutement et encore moins
+intégrer ses gamins à des postes clés
+donc il y a un vrai gap voilà donc
+culturellement en fait en en France ceux
+qui sont capables de pouvoir absorber
+cette cette masse de nouveaux entrants
+euh que sont les start-ups ça va plutôt
+être les PME et les ETI et les PME parce
+que à la tête on a encore des types qui
+ont eu les mains dans le cambouille qui
+ont été entrepreneurs et qui gardent ce
+mindset entrepreneurial donc ils sont
+capables en fait de voir la valeur de
+ces jeunes start-up mais le gap culturel
+entre les grands groupes et les start-up
+françaises est vraiment trop trop grand
+pour qu'il puisse commencer à vraiment
+faire ce mouvement là quoi
+vas-y ouais et ouais je sais pas si
+c'est voué à changer bientôt mais P
+petit à petit quoi dans les ça commence
+à bouger un petit peu mais il faut qu'il
+y ait un renouvellement des des têtes
+pensantes et des exécutives des de ces
+grands groupes qui sont très basés sur
+leur truc classique la lenteur ça fait
+partie du fonctionnement et plus il y
+aura de
+d'acquisition de startup comme Twitter
+qui rachète mesagraph c'est un
+super c'est un super truc qui ce qui
+veut dire voilà il y a des grands
+groupes qui commencent à s'intéresser au
+start-up français c'està dire queil y a
+l'argent va tourner et queil y en aura
+de plus en plus et que voilà on a 10 ans
+de retard sur la vallée et ça commence à
+à venir mais euh on s'est pris euh
+beaucoup de c'est même pas des bâes
+c'était
+euh je sais pas ce que c'était en gros
+il me répondait je sais pas de quoi tu
+parles euh je sais pas comment on fait
+euh pourquoi euh c'était même pas oui et
+non c'était euh euh on fait fait pas
+c'est pas un truc qu'on fait quoi du
+coup d' le rapprochement avec avec
+insert et avec un mec qui qui a racheté
+cette boîte là sur ses fonds propres il
+y a 2 ans et qui sentait
+que tout passe par mettre la techno au
+centre du la restructuration de de boîes
+parenthè je sais pas si vous connaissez
+inert pas forcément parce que c'est pas
+une boîte connue mais c'est une boîte
+hyper intéressante et en fait don de
+famille est proche parce qu'on connait
+bien le mec a racheté cette boîte qui se
+cassait la gueule donc insert
+concrètement c'est des panneaux il
+possède je crois 80 % des panneaux qu'il
+y a dans tous les euh les bars les
+bistros c'est les petits publics enfin
+les trucs physiques quoi où on met des
+petites affichesaffichage urbain piéton
+voà piéton et en fait les mecs étaient
+très très très très mal alors ils
+avaient t cette assette hein qui était
+ces ces espaces publicitaires mais il
+n'arrivaient plus à vendre de publicité
+pour une raison très con c'était une
+raison de business model c'estd que il
+vendait les pubs de manière nationale et
+en fait au moment où nous on les a
+rencontré donc c'est ce type là qui est
+assez techno qui va racheter la boîte
+sur fond propre qui va pas bien qui va
+faire un truc aussi simple que dataiser
+c'est dire géolocaliser exactement tout
+les points de de de d'affichage et qui
+va pouvoir avec pas mal de de de de
+données en fait sur ces points là
+complètement craquer l'offre c'està-dire
+plutôt que de prendre une offre
+nationale qui coûte super cher où je
+vais couvrir tout je vais pouvoir offrir
+des chemins d'affichage c'est-à-dire je
+veux couvrir tous les lycéens qui
+sortent de leur lycée et qui vont
+jusqu'au McDo et ben ça je suis capable
+de le faire parce que j'ai toutes les
+données en fait sur tous les affichages
+c'est dans telle rue dans telle ville
+entre le McDo à 200 m d'un lycée et
+cetera et donc il P fragmenter l'offre
+et créer des campagnes accessibles à des
+prix je crois que c'est le premier prix
+c'est 25000 € il me semble voilà et donc
+tout d'un coup ça va repartir donc c'est
+le même le même asset mais l'offre est
+complètement différente et l'offre enfin
+est acceptible en fait et là on a
+numérisé un truc mais sans que ça change
+quoi que ce soit mais vous voyez comme
+quoi le le numérique peut transformer de
+l'intérieur une boîte et la faire
+repartir et là il y a on voit on voit
+rien de Digital làdans mais derrière
+c'est c'est un mindset c'est un état
+d'esprit et c'est c'est une façon de de
+pouvoir repenser l'offre et la rendre
+accessible et fluidifier complètement le
+le le le
+le le comment dire le process interne
+pour pouvoir pour pouvoir vendre des
+campagnes quoi voilà ça c'est ça c'est
+l'état d'esprit d'iner donc les mecs ils
+savent que la techno c'est fondamentale
+ils savent que on doit pouvoir collecter
+un maximum de données et et donc il ils
+sont hyper intéressé par Kahouette voilà
+les pour la simple raison que c'est la
+donc c'est un concurrent de JC deco donc
+deco c'est vachement de l'affichage
+automobile et insert c'est l'affichage
+urbain piéton et des piétons ont des
+smartphones dans la main et donc le il
+savait très bien que le mobile allait
+devenir un sujet majeur et qu'il fallait
+même si au départ on était pas du tout
+intéressé parce que c'est un univers
+qu'on c'est pas du tout notre truc c'est
+déjà c'est du média on n pas du tout
+dans le média et en plus c'est de la pub
+ça ça nous intéresse pas plus que ça
+donc au début au début la première fois
+que qu'on que je discute je vois pas
+trop l'intérêt en fait mais au final
+c'est il y a tout un un projet voilà un
+projet de rapprochement de prendre toute
+l'équipe donc ça pour moi c un truc
+hyper important de faire confiance à
+toute l'équipe et qu'il y a pas qui a
+pas un seul laisser pour compte de se
+dire dans l'affichage piéton il y a
+beaucoup de mobile et il va y on sait
+pas trop ce qu'on va faire mais on sait
+que on va faire beaucoup de choses que
+c'est un projet entrepreneurial donc lui
+était intéressé par une équipe de 5
+personnes qui qui avait
+un un esprit entrepreneurial le but
+c'était pas de prendre des gens pour
+avoir des employés et leur dire quoi
+faire c'était on on vous intègre dans le
+groupe et vous êtes encore autonome
+débrouiller en gros tout seul sur sur
+les road map communes qu'on qu'on va
+qu'on va C et c'est
+c'était anecdote le mec hyper content
+vient nous voir et nous dit c'est
+génial depuis qu'on a intégré cahouette
+on a un mindset start-up on a une
+culture start-up dis ah ouais comment ça
+se fait bah ouais tu vois c'est con mais
+on fait des apéos le vendredi soir
+il y a tout le monde qui se parle et ça
+change tout quoi ouais donc notre notre
+truc on l'a apportter à cette boîte là
+et o il y avait un peu une ambiance on
+entend les mouches volé dans le bureau
+et euh et nous on bah on fait beaup on
+fait du bruit euh on parle fort on on
+ouvre nos bières à 18h et du coup on a
+commencé à organiser des apéos et c'est
+con mais ça les gens nous ont dit ça il
+y a des gens qui étaient là depuis 10 15
+20 ans disait mais ça fait des années
+depuis que la boîte a des problèmes ça
+fait des années qu'on que les gens ne se
+parlent plus il y a pas tout ça et là on
+a arrivé à fédérer tout le siège à
+discuter et voir casser des barrières le
+laapéro avançant donc enfin
+c'est c'est un vrai truc du coup c'est
+on a vraiment gardé ça entre nous dans
+ce nouveau
+groupe vraiment un peu retourner tout ça
+un rachat dans ce cadre là ça se passe
+comment en fait donc ils reprennent
+l'équipe tu as un loing enin ce qu'on
+appelle un lo c'est tu es obligé de
+rester pour pouvoir intégrer la
+technologie et développer une activité
+autour de technologie c'est le cas par
+exemple pour pour mes agraphes pareil
+qui me disaent bah je vais rester chez
+Twitter pendant je sais pas combien de
+temps tu es obligé avant de pouvoir
+toucher le moindre centime c'est un peu
+ça l'idée en gros en gros à part les
+rachats qu'on voit sur Tech crunch ou 80
+millions ou 16 milliards en cash et
+cetera où il y a pas c'est pas du tout
+les
+mêmes c'est pas du tout la même chose
+donc nous là on a rejoint la
+particularité de notre rapprochement
+avec insert qui est créé le groupe
+Phoenix c'est un projet entrepreneurial
+c'estàd que nous en fait on on donc la
+structure juridique kW reste mais en
+fait on rejoint un nouveau projet
+entrepreneurial où il y a que des gens
+physiques qui travaillent dans la boîte
+au capital de de ce nouveau groupe et
+donc nous on rejoint ce nouveau groupe
+et c'est un vrai projet entrepreneurial
+c'estàd qu'on part sur une nouvelle
+start-up qui est en gros un peu plus
+grosse un peu plus établie qui a moins
+de risque mais qu'on veut scaler le plus
+vite possibleon veut faire grossir le
+chiffre d'affaires le plus vite possible
+donc c'est un c'est un vrai ça aux
+discussions quand on a commencé les
+discussions Sébastien et moi sur le
+rapprochement c'était la philosophie du
+deal c'est va bosser ensemble donc nous
+on est donc c'est du vesting en fait on
+prend on est vesté pendant 2 ans c'estàd
+qu'on le vesting c'est en fait nous on a
+revendu nos pars
+cahouèes en échange de parts de cette
+boîtelà et on sera on va posséder les
+parts de cette boîtel euh effectivement
+dans 2 ans c'estd qu'en fait si ils nous
+rachèteent et que le lendemain on se
+barre ça les intéresse pas on leur vend
+la techno et les gens euh si les gens se
+barrent non seulement les gens se
+barrent mais en plus il y a personne qui
+sait faire fonctionner la techno et il y
+a un peu de cash mais c'est pas la
+majorité du deal c'est en gros on prend
+voilà il y avait trois axes de de
+négociation là-dessus c'était on prend
+un peu de cash histoire de d'ê content
+de se rembourser un peu les 4 ans
+de de misère quoi où c'était où voilà on
+a fait 24 mois de chômage et après on
+s'est payé le minimum minimum pour
+pouvoir faire fonctionner la boîte du
+coup là on a on prend des
+du cash des actions donc un pe ch des
+actions dans qui vont qui qui est la
+vraie ça c'est le vraiif parce que c'est
+une boîte en croissance ils fut combien
+de millions de chiffrre d'affaires euh
+aujourd'hui 20 25 alors qu'ils étaiit
+ils étaient tombés je crois qu'ils
+étaient endettés hein ou ils ét endetté
+il y a en 2012 et la c'est reparti en
+flèche en 2012 donc nous on est arrivé à
+un bon moment
+où c'est pour ça que c'est un dil
+entrepreneurial on espère que le but
+c'est que nos actions prennent beaucoup
+et queon on mette notre on aide à cette
+croissance et B ensuite il y a après il
+y a le reste de la no c'est un peu les
+détails c'est on prend des salaires
+fixes
+enfin après tout ça c'est c un peu
+compliqué aussi de mettre le curseur sur
+le confort c'est-à-dire il y avait d'une
+part c'était moi je voulais un qu'on
+soit confort tous c'est-à-dire ça fait 6
+mois qu'on se payait pas une fois sur
+deux ou avec avec ceux qu' on des gamins
+et cetera c'était plus possible donc il
+fallait un minimum de confort mais pas
+trop de confort non plus sinon on perd
+la cananime un entrepreneur ou si
+c'est pour avoir j' sais rien 15
+semaines de vacances et l'argent pour
+partir en vacances on va pas
+avoir la la nique de l'inconfort aide à
+aide à à se donner quoi ça ça c'est vrai
+qu' il y a
+pendant un certain temps je dirais en
+fait une relation directe entre le le le
+fait de d'être dans une zone d'inconfort
+matériel et la
+créativité il y a zéro tune donc il va
+falloir inventer des nouvelles façons de
+communiquer il y a zéro tune donc il va
+falloir recruter
+différemment en se bougeant pour
+convaincre les gens à rejoindre
+l'aventure et et cette ce moment là en
+fait il est il est il est il est il doit
+être limité mais il est
+source de création de nouvelles idées et
+de de
+de créativité vraiment que vous
+retrouverez plus une fois que vous
+atteignez un certain stade de de confort
+quoi et donc finalement c'est un truc
+dont il faut profiter c'est des gros
+salaires ou pas on peut en parler ou pas
+bah c'est c'est segmenté c'est à peu
+près
+entre entre 60 et 70
+k l'année c'est pas non plus enfin c'est
+pas rien mais c'est pas non plus c'est
+après 4 ans de travailler ouais voilà 4
+ans sans rien quoi et avec beaucoup de
+dettes dire que les premiers salaire là
+c'est tout ça part en remboursement de
+dette mon frère qui est là m'avait pas
+mal prêté d'argent alors alors qu'il est
+plus jeune que moi donc c'était mais il
+faut ouais il y a un juste milieu à
+trouver voilà le le confort de se dire
+j'ai un peu j'ai j'ai du temps alors par
+exemple pour une start-up le temps ce
+qu'on disait tout à l'heure le temps il
+est c'est pas on part avec que X années
+devant c'est moi je pense vraiment qu'on
+part à 3 ans et que ça réduit au fur à
+mesure et qu'à un moment c'est zéro
+c'est fini du coup il y a le le le le
+confort d'avoir du temps c'est on verra
+demain
+bon ce ce ce projet là on verra la
+semaine prochaine euh je vais enfin il y
+a un vrai un confort de temps et
+d'argent et pareil l'argent c'est si si
+je fais pas gaffe
+si c'est pas du bon taf je vais être
+plus plus sympa enfin ça l'inconfort du
+temps et de l'argent permet d'être charp
+d'aller à l'essentiel à l'essentiel d'un
+côté notre structure juridique reste
+c'estd que cwette ne m'appartient plus
+mais kawette existe toujours donc on
+continue à à faire du business sur notre
+modèle à nous qui est vendre des
+applications pour les grands comptes des
+applications métiers donc notre plus
+gros clients c'est la SNCF par exemple
+on continue tout ça on continue à
+générer du cash
+pour bah c'est du cash à faire donc on
+va pas s'en
+passer et d'un autre côté on
+a voilà les les trois donc il y a un on
+était 5 en gros il y a un commercial qui
+s'occupe de toute cette partie là on il
+y a trois Tech qui qui continue à bosser
+sur la plateforme et sur où on a des
+feuilles de route un peu
+rapproché euh qui a une partie aussi où
+voilà les gens qui qui posent les
+affiches insert donc il y a 120000
+affiches en France il y a une force
+terrain de 300 personnes qui tous les
+jours vont poser des affiches et du coup
+bah c'est un nous on répond à leurs
+besoins avec des applications mobile
+métier terrain c'est exactement ce qu'on
+fait pour les SNCF donc du coup on a
+beaucoup de choses qu'on utilise de la
+techno pour leur fluidifier
+leur leur fonctionnement des v pouvoir
+faire plus d'aff ichage les afficheurs
+vont vont mieux travailler et cetera et
+il y a d'un autre côté où moi mon rôle
+c'est un peu
+de de chercher la transformation du
+groupe qu'est-ce que en connaissant
+l'écosystème le marché la techno et en
+comprenant de mieux en mieux leur
+business comment mettre en adéquation
+transformer leur business et le faire
+passer dans le digital sur plein de
+projets donc là c'est
+plutôt moi je fonctionne en un peu en
+Business Unit tout j'it sur des projets
+je vais utiliser mon équipe pour pour
+tester des nouveaux
+produits en ce moment on réfléchit sur
+un un réseau d'écran connecté des on
+travaille beaucoup en ce moment sur les
+objets connectés l'bicon et cetera où on
+comment
+comment faire communiquer les panneaux
+avec les smartphones sur le htech aussi
+on c'est une boîte qui fait de
+l'affichage print et faut qu'elle fasse
+de l'affichage digital c'est le rêve de
+n'importe quelle boîte qui se veut
+innovante c'estàdire d'avoir des des
+geek in house qui réfléchissent hyper
+connectés à toutes les applications
+possibles parce qu'il connaissent super
+bien le fonctionnement interne quoi pour
+pas cher parce qu'au final ça coûte
+beaucoup moins cher enfin même si vous
+coûtez de l'argent vous coûtez beaucoup
+moins cher que les millions et les
+millions qui sont
+investis pour pourou même des
+consultants qui coûtent sûrement plus
+cher que ça pour zéro et qui et on a
+toujours la donc c'est plutôt c'est
+pas boulot 9h 18h
+c'est donc c'est super pour nous
+aujourd'hui c'est super intéressant
+c'est de disrupter
+une c'est c'est c'est à plusieurs étages
+on disrupte une un siège de de gens où
+voilà en ramenant notre
+énergie les gens
+on l'état d'esprit a vraiment changé
+dans la boîte
+et et tout le monde s'en rend compte
+c'est disrupter une boîte dans son
+marché et disrupter un marché aussi
+parce qu'au final on arrive dans un
+marché où les concurrents sont nuls en
+fait c'est comme il y a pas de ils sont
+tous un peu sur leurs Akis ça va hyper
+lentement et tout moi qui connaissais
+pas ce marché je il y a plein de choses
+où ils sont nuls où je fais des trucs
+euh et personne le fait on comprend pas
+pour je comprends pas pourquoi de passer
+d'un truc hyper compétitif avec des gens
+qui font travaillent beaucoup et qui
+font 100 heur par semaine pass
+dans la startup et là sur un sur un
+marché où c'est un peu ronflant
+[Musique]
+pépère je pousse mes pions ça va pas
+vite ouais donc ça c'est c'est un
+plaisir ça ouais peu importe l'avenir
+c'est de toute façon c'est un business
+qui était capé c'està-dire qui qui qui
+qui pouvait plus bouger ils ont 120000
+panneaux ils peuvent plus en poser ils
+ont à peu près parsemé tout le
+territoire un tau de rempl age de 80 90
+% donc un moment 20 millions de CA si
+c'est le maximum en optimisant tout ça
+va être 25 millions le seul moyen de
+continuer à se développer c'est d'aller
+dans le digital c'est le seul moyen de
+de cealer d'augmenter la marge c'est en
+passant dans le digital il y avait pas
+d'autres option donc quoi qu'il arrive
+sur sur la suite il fallait passer par
+la techno c'est là où la marge peut peut
+faire du euh voilà x 2 x 10 x 100 on
+sait rien alors ça c'était un des
+c'était un des petitte petite goutte de
+sur en le jour de la signature c'est on
+va se retrouver avec un chef c'est moi
+en tout cas je me retrouver avec un
+patron même pour l'équipe
+entière donc ça a été toujours le le
+fonctionnement que j'avais réussi à
+adopter avec l'équipe pour être amis et
+collègues c'était on est des chacun un
+pilier dans sa partie et moi je suis pas
+au-dessus de vous c'est moi je m'occupe
+juste de CEO c'est un peu tout quoi
+c'est beaucoup de merde c'est-à-dire
+l'administratif chacun est un pilier
+dans sa partie moi je suis en transvers
+et personne est moi je suis pas plus
+haut que vous j'ai juste un rôle
+différent c'est euh faire beaucoup de
+merde et faire que ça marche et que les
+moi mon rôle c'était de faire en sorte
+que les autres piliers sont focus sur ce
+qu'ils font c'est c'est eux qui qui
+ramène une plusvalue à la boîte pas moi
+moi je je fais en sorte que ils ont un
+coussin sur leur chaise quand ils
+arrivent tout tout tout se passe bien
+quoi et du coup c'était donc il y avait
+pas vraiment de patron donc c'était un
+peu le risque comment on va se retrouver
+est-ce que on va avoir un n + 1 N + 2 N
++
+10 est-ce qu'on va se retrouver dans un
+rouage administratif ça aurait été le
+cas enfin heureusement ENF c'est pas le
+cas donc heureusement et je pense que ça
+c'est les discussions au début sur la
+philosophie du deal et cetera j'ai assez
+senti rapidement que il y aurait pas de
+ça a pas l'air d'être ça ça allait pas
+être le cas d'avoir euh voilà vous allez
+dans ce cubicle machin et puis euh en
+mode voilà euh viande chez Accenture ou
+enfin voilà c'était pas du tout le truc
+donc aujourd'hui c'est euh on est
+autonome et euh il y a pas de souffle
+derrière l'oreille euh des des patrons
+euh euh
+mais c'est tout c'est toute la
+philosophie nous aussi on prouve qu'on
+est autonome que on n pas on fait pas du
+9h 18h que c'est plus qu'un travail
+c'est passion un investissement et eux
+le sentent donc eux nous nous laissent
+autonome et les prises de décision sont
+il y en a pas vraiment en fait c'est
+c'est fluide en fait qu'est-ce que c'est
+que le vesting alors le vesting
+c'est c'est un peu
+comme VO quand tu te maries en gros faut
+être
+fidèle faut faut subvenir financièrement
+machin et cetera c'est c'est un peu
+pareil c'estd l'engagement et
+euh c'est donc un Pact on signe un pacte
+d'associé on se dit bah voilà tu vas
+pouvoir avoir 100 % de ce qui t'est dû
+dans un an ou 2 ans ça c'est sur les
+chiffres et ensuite entre-temps bah faut
+pas par tir faut pas faire n'importe
+quoi donc c'est des clauses de fidélité
+good lever bad lever donc c'est un peu
+toute la complexité d'un de discussion
+d'un deal comme ça c'est on part pour 2
+ans dans 2 ans on aura accès à ce qu'on
+notre package et
+entre-temps c'est là où il faut tout
+cloisonner et tout discuter c'est-à-dire
+si je si un conflit si on se fait virer
+bah bah tu perds tout si tu démissionnes
+tu perds tout le à la base c'est si tu
+meurs tu perds pas tout c'est le seul
+truc mais sinon donc du coup faut c'est
+beaucoup de discussions sur qu'est-ce
+qui se passe dans tous les cas pendant
+ces 2 ans parce que tant que tu as tu
+c'est pas à toi et ben on peut te les
+retirer donc pour nous ça a été discuté
+ok si je suis viré imaginons par exemple
+c'est on s'engueule dans un an il me
+vire sur un faux truc mais je suis quand
+même viré après tu peux aller au prudum
+pour discuter mais tu as quand même en
+gros tout est perdu quoi c'estàdire tout
+le package est perdu donc c'est pour
+éviter d'avoir des des des trucs comme
+ça qui se passent quoi c'est-à-dire bah
+que pour juste motif et cetera enfin
+tous les trucs de et là-dessus ils ont
+plutôt été bon et toi aussi enfin je
+veux dire ça s'est bien passé quoi ça a
+dû il y a pas eu de clash ouis euh ça a
+pas été facile on a un bon avocat
+qu'est-ce tu veux faire après
+ouais c'est pour l'instant c'est euh
+open c'est open on verra soit ça se
+passe super bien et on continue et là il
+y aura on rediscutera de ce qu'on veut
+faire je pense que
+pour le mode entrepreneurial fait que
+c'est sur des segments il faut se donner
+des objectifs c'est pas un truc où euh
+je m'imagine pas dans 2 ans dire bon ben
+on continue Vita mais on va voir c'est
+non non on se on renégocie un truc sur
+bah voilà pendant 2 ans on se fait ça et
+on va aller là il y aura une
+renégociation si c'est passe ça se passe
+toujours super bien on continuera
+sinon
+mais je vais refire une autre boîte
+c'est sûr je sais pas quand mais bon
+bravo cahette merci Benjamin merci

@@ -1,0 +1,2234 @@
+[Musique]
+[Applaudissements]
+cou ok donc qui connaît bunker ah c'est
+cool qui connais pas bonker qui ne
+connaî pas bonker c'est plus simple
+voilà alors on n pas le COO là on a
+autre chose est
+qu'on effectivement on a pas le E c'est
+choisi hein c'est moi qui ai voulu est
+plus grand et plus de barbe il est plus
+méchant c'est Édouard donc toi tu es
+plus
+côté côté market acquisition marque
+comme vous voulez englope plein de
+choses raconte-nous ta vie ton œuvre
+tout ça alors bunker ça fait maintenant
+pas plus fort ça fait maintenant 3 ans
+je pense qu'on qu'on planche dessus à la
+base avec Alexis on se connaît depuis
+depuis notre notre première formation
+après bac on s'est rencontré en DUT
+on a tout de suite une affinité de
+travail de collaboration on était pas
+forcément ami c'est difficile à croire
+aujourd'hui mais on était vraiment pas
+amis on s'appréciait pas plus que ça on
+avait une affinité de boulot qui était
+bah moi j'avais plus une appétence sur
+la création et sur la communication et
+lui avait plus une appétence technique
+donc on se complétait bien et ça
+permettait de faire des projets à deux
+décupler un peu nos forces donc dès le
+début on a commencé à monter des statues
+monter monter des assauts monter des
+boîtes pour pour produire des choses
+c'est quelque chose qui nous tenait à
+cœur pendant nos études après on est
+parti à Paris à la base on est à rouan
+on vient de rouan c'est un peu compliqué
+mais ça fait partie de notre histoire
+vous comprendrez après on est parti
+faire nos études à à à Paris on s'est
+retrouvé en agence de communication tous
+les deux et à côté on continu à faire à
+bosser en freelance on avait un statut
+chacun de notre côté on bossait en team
+et puis on a été vite confronté au
+problème de powerp donc lui travaillait
+était était BISD et consultant pour une
+agence qui se développa à Paris moi
+j'étais chez publiciste conseil au
+planning donc c'est assez drôle parce
+que je travaillais avec la de de rdtox
+ça me fait ça me fait toujours rire
+quand je les vois et donc on était
+confronté au PowerPoint tous les jours
+on s'est dit à un moment donné face à ce
+problème là il y a deux façons de réagir
+soit on se dit ok toute la vie je vais
+subir ça ça fait partie de mon job ça
+fait partie de notre job c'est quoi le
+problème de PowerPoint euh moi j'étais
+au planning donc mon job c'était de
+faire des recommandations pour les
+clients donc forcément on prend un brief
+et ce brief on doit le traduire en en
+slide donc notre job au quotidien c'est
+faire des slides à un moment donné on se
+pose la question est-ce que j'ai fait un
+bac + 5 est-ce que je suis allé si loin
+dans mes études on m'a appris tant de
+choses théoriques à réfléchir à analyser
+des données et là d'un coup mon mon
+métier se résume à produire des slides
+et malheureusement ça va représenter 60
+% de mon taf au quotidien donc on se
+pose la question qui est est-ce que cet
+outil là en tant que tel il a du sens et
+surtout est-ce que pour moi ça m'apporte
+de la valeur donc on a pas mal réfléchi
+autour de ça comment gagner du temps
+autour de de la présentation on a
+regardé tous les acteurs qui existaient
+donc on avait le PRI que tout le monde
+connaît où là finalement on est encore
+sur le support on va s'amuser à zoomer
+plutôt que de slider oui est-ce que
+c'est pri ouais ouais il y avait
+d'autres outils qui permettaient de
+travailler en collaboration il y avait
+et finalement tous se focalisaient sur
+le support et ça c'était quelque chose
+qui nous a marqué c'est qu'on s'est dit
+ok finalement il nous donent tous les
+moyens de passer du temps à créer le
+support mais est-ce que c'est notre job
+nous en tant que consultant en tant que
+créatif en tant que que analyste de
+passer du temps sur le support non notre
+job c'est de réfléchir c'est de trouver
+des idées c'est de proposer des
+solutions à des clients c'est d'analyser
+des données mais c'est pas de faire des
+slides donc à partir de là on s'est dit
+ok le problème que tout le monde essaie
+de résoudre sur PowerPoint les gens ils
+se gourent c'est qu'ils essayent de
+proposer d'autres solutions de de
+manipuler le support sauf que c'est une
+nouvelle raison de perdre du temps
+amusez-vous sur przi vous allez voir
+vous allez perdre encore plus de temps
+que si vous le faisiez sur Powerpoint et
+très rapidement vous allez retourner sur
+votre outil donc nous on s'est dit le
+problème il vient avant ça et bien que
+au moment où on crée nous de la valeur
+on va en perdre on va perdre énormément
+de temps derrière à reprendre tous ces
+éléments et à les mettre dans le support
+donc à partir de là on s'est dit ok on
+va commencer à développer notre petit
+proto puisqueavec Alexis on on a
+toujours eu l'habitude de développer
+nore trucs donc moi je faisais la créa
+et lui a commencé à développer l'outil
+mais pas du tout développeur à la base
+Alexis autodidacte moi je suis pas du
+tout créatif je suis autodidacte aussi
+donc donc on s'est lancé avec nos avec
+juste nos moyens nos compétences de base
+à l'époque et très rapidement on est
+arrivé à un outil qui était un CMS un
+tout simple un
+WordPress dans lequel on pouvait mettre
+les idées mettre tout ce qu'on trouvait
+donc se collecta une base énorme de
+données mutualisé donc c'était
+l'avantage de travailler à deux donc
+chacun mettait enrichissait cette base
+de de connaissance et très rapidement on
+était capable d'en exporter des slides
+donc en fait on avait un moteur de
+recherche sélectionnais ce que je
+voulais et je faisais un export de de
+plein de slide de tout ce que j'avais
+sélectionné attends excuse-moi
+parenthèse de bien cibler le problème là
+si je comprends bien parce que moi tel
+que je je le vois bunker en fait le
+problème mais tu me dis si si je mais
+pour moi le problème et je le vis aussi
+au quotidien c'est que tu fais des
+slides ces slides elles vont être
+partagé avec ton équipe elles vont être
+présentées à l'extérieur et en fait à
+chaque fois tu vas updater tes slides et
+en fait ces slides sont utilisés dans
+d'autres présentations et la slide
+équipe par exemple qui change tout le
+temps à the family puisque il y a il y a
+plus ou moins de gens enfin il y a du
+passage quoi et ben elle est pas ta
+slide équipe dans une dans une pration
+PowerPoint va pas être updaté partout
+pareil parce que je sais pas où est-ce
+qu'elle est partie moi cette slide de
+toute façon et donc ça ça m'emmerde
+profondément parce qu'à chaque fois je
+vois des slides des présentations qui se
+baladent qui sont pas à jour comme je
+voudrais parce que parce que bah il y a
+pas de lien la la slide équipe elle a
+pas été uniformisée partout où est parti
+en fait c'est ça en fait on s'est rendu
+compte très rapidement
+que on avait les données on avait fait
+toute cette tout cet effort de de
+centraliser les choses à un endroit par
+exemple votre équipe si vous utilisez
+angelco vous avez votre équipe qui est
+déjà présentée sur angelco si vous
+utilisez lingin vous pouvez très
+rapidement récupérer tous les membres de
+de votre équipe on s'est rendu compte
+que ces données- là elles existaient on
+avait pas besoin de les de les refaire
+elles existaient que ce soit des données
+d'analyse des données de recherche tout
+ça c'est c'est quelque chose qui existe
+qui est stocké à des endroits vous
+utilisez sûrement evern pour prendre des
+notes pendant vos réunions vous utilisez
+peut-être Pinterest pour mettre de côté
+des images qui vous intéressent vous
+utilisez Youtube pour bookmquer des
+vidéos et on s'est dit finalement on
+passe notre temps à retrouver dans tous
+les outils différents ces données là à
+les enregistrer sur son PC et à les
+remettre dans son PowerPoint et
+finalement c'est là où on perd
+énormément de valeur puisque si on a
+bien fait son taf au début l'analyste il
+a ses tableurs il a ses graphes il a
+tout ça aujourd'hui on passe énormément
+de temps à prendre ses données et à les
+remettre dans son PowerPoint et nous on
+pense qu'à cet endroit-là il y a pas de
+valeur on perd énormément de valeur et
+moi je le voyais dans mon agence c'est
+que il y avait des stagiaires qui
+étaient là uniquement pour faire les
+slides donc on allait les voir on leur
+disait ok bon ben j'ai besoin de tel
+slide avec tel truc j'ai besoin de tel
+sal tel truc et finalement on mettait
+des stagiaires à cet endroit-là parce
+que le temps passé coûte beaucoup coup
+trop cher si on met un planeur si on met
+un consultant si on met quelqu'un qui
+est payé cher au tau horaire donc on
+perd énormément d'argent donc la
+problématique effectivement c'est
+comment je vais récupérer ces données
+très facilement puisque le job est déjà
+fait et comment je vais ça c'est l'étape
+du dessus synchroniser en live les
+données et c'est là où on commence à
+toucher un niveau intéressant de la
+création des slides c'est
+qu'effectivement si ma mon équipe je la
+Gère via mes Google contacts et que
+j'ai toute mon équipe dans
+Google bah dès que je vais rajouter une
+nouvelle adresse email Google
+directement mon équipe va se mettre à
+jour sur ma slide et c'est ça qui
+m'intéresse c'est pas passer de temps
+sur ces choses qui sont des détails qui
+sont importantes et qui n'apportent pas
+de valeur et donc là il y a il y a
+énormément de boulot et donc on s'est
+dit nous on sera pas un outil on sera
+pas le enè outil qui va vous permettre
+de faire des slides différemment s'en
+fiche euh il y en a qui s'amusent à
+faire des cubes en 3D où vous avez les
+slides qui bougent dans tous les sens
+pour nous ça ça n'apporte pas de valeur
+dans votre boulot vous allez pas euh
+enrichir votre vos compétences grâce à
+ça par contre on va revenir un temps
+au-dessus et on va vous permettre
+d'aller plus vite on va vous permettre
+de retrouver toutes vos données de les
+centraliser et de les exploiter très
+rapidement ça c'est hyper technique pour
+des mecs pas techniques et voilà et en
+fait on s'est très vite rendu compte que
+bon on était on était dépassé par le
+sujet c'està dire qu'avec Alexis au
+début c'était juste un proto interne il
+y avait pas de nom il se passait rien
+nous on bossait et on s'est dit comment
+on se crée la compétence la not killer
+features à nous qui fait que demain
+quand on va chercher un taf on sera les
+meilleurs sur la place de de Paris de
+tous les consultants parce que en trois
+clics on fera nos slide et ça c'est un
+avantage concurrentiel que vous
+retrouvez pas si vous arrivez en brief
+en entretien et vous dites ok
+briefez-moi sur votre sujet je suis
+capable de déjà sortir beaucoup de
+choses de tout ce que j'ai déjà book
+marqué à droite à gauche d'un coup je
+prends un avantage concurrentiel sur
+tous les gens qui vont passer
+l'entretien derrière donc c'était
+vraiment ça le but au début parce qu'on
+cherchait à résoudre le problème de
+notre quotidien on s'est dit nous on
+passe du temps à faire ça ça n'a pas de
+valeur comment on prend du galon dans
+notre propre job et donc de là on a
+commencé à à à essayer d'améliorer le
+produit on se rendu compte qu'on était
+très très limité à côté de ça on s'est
+rendu compte que ça intéressait
+énormément de gens qui travaillaient
+avec nous c'est dire que de ce proto qui
+faisaient des choses assez moches assez
+mal tous les gens nous disaient mais
+c'est quoi ton truc comment tu arrives à
+sortir des slides comme ça etve des
+rocos en 5 minutes euh donc on
+commençait à montrer notre outil qu'on
+avait et plein de gens nous ont dit ok
+je veux une connexion à ton outil je je
+suis prêt à payer je veux une connexion
+à ton truc moi faut aussi que je puisse
+mettre mes données il faut que je fasse
+ça faut que tu me donnes un accès tu es
+en train de nous dire que ce que tu
+utilisais pour toi tu étais toujours
+dans ton taf ouais on était toujours on
+était toujours respectivement dans notre
+taf et à ce momentl on a commencé à
+sortir un peu du bois en montrant le
+truc et à partir de là on s'est dit ok
+il y a a il y a deux cas de figure soit
+on arrête de le montrer aux gens on
+garde ce proto et finalement on arrivera
+pas à aller au bout parce que
+techniquement on est limité c'est la
+réalité mais on aura quand même déjà
+gagné un peu de temps sur notre création
+de slide soit on arrête tout on pose
+notre dem tout de suite on cherche un co
+quelqu'un qui est un vrai ingénieur qui
+fait ça depuis des années sur les
+technologies qu'on utilise et on se
+lance à plein temps là-dessus corps et
+âme on aura le chômage on a 2 ans devant
+nous et on risque tout pour trouver la
+solution à ce problème qui apparemment
+concerne pas que nous ça c'était
+important donc à ce moment-là Alexis il
+part écumer un peu les Meetup tech sur
+les techn qu'on qu'on qu' qu'on avait
+décidé de d'utiliser c'est-à-dire le
+HTML5 principalement pucequon croit
+beaucoup à ce support là pour la
+suite et euh on rencontre
+Jean-Christophe de façon assez marrante
+Jean-Christophe il a pas du tout le même
+âge que nous il à l'époque il a 35 ans
+moi j'ai 24 ans Alexis on a 25
+aujourd'hui donc à l'époque on a 22 et
+23 et il a déjà bossé sur des projets
+similaires de collecte de données de
+récupération de données il connaît les
+technologies qu'on veut utiliser par
+cœur il est vraiment en phase avec le
+projet euh et lui attendait le déclic
+aussi de son côté pour dire ok je me
+lance j'ai pas ces compétences euh
+d'acquisition de marketing ou de
+produits que vous avez il est dispo il
+est freelance il est à ce momentl il il
+est en job aussi et donc on réfléchit on
+se dit ok est-ce qu'on va le prendre
+effectivement en freelance est-ce que on
+va s'associer nous on voulait absolument
+s'associer donc on pas mal de
+discussions comment comment tu vois que
+c'est un vrai bon bah parce que déjà bon
+il y a beaucoup de feeling làdedans
+alors on prend beaucoup de risque aussi
+à ce niveau-là on regarde tous ces
+projets qu'il a fait et ça a l'air de
+coller par rapport à ce qu'on veut et de
+toute façon on part sur un mois de test
+avec lui et on voit s'il est prêt à
+s'engager avec nous donc nous après
+après quelques discussions on se dit
+avec Alexis ok c'est le bon et il va
+falloir que il vienne avec nous à rouan
+et on va lui proposer ça et finalement
+s'il accepte ce package c'est déjà il
+est il habite où lui aussi il habite à à
+l'époque et donc quelques semaines après
+je christop dit ok comme bouge quitte
+tout et et en septembre octobre on se
+retrouve tous à r le mec quitte sa vie
+pour venir à Ran voilà donc on quitte
+tous à l'époque à l'époque c'est très
+drôle on habite tous les trois à Paris
+on travaille tous les trois à Paris on a
+des copines et des vies à Paris et on se
+dit ok on repart à Ran on limite les
+coups au max maximum on sait qu'il y a
+beaucoup beaucoup beaucoup de boulot sur
+le produit c'est pour le cashb que vous
+décidez c'est ça on décide pour le
+cashburn on commence à tirer des plans
+et on se dit VO faudrait être fou pour
+rester à Paris puisque en fait on a 9
+mois de vie parce que on on a plus de
+dépenses permanentes dans nos vies
+personnell puisqueà cette époque là il y
+a que vos vies personnelles qu'on des
+coup on a plus de dépenses dans nos vies
+personnelles que ce qu'on est capable de
+de rentrer donc forcément on est dans le
+négatif tous les mois on tire un peu sur
+la corde alors qu'en allant à rouan on a
+la capacité de prendre un très grand
+appart de tous se loger dedans et puis
+de mettre la boîte au centre et de
+réduire les coûts au maximum et d'un
+coup on passe de 9 mois de capacité
+financière à 2 ans donc ça c'est des
+choses aussi où c'est pas négligeable
+sachant que nous on est un produit très
+techno contrairement à à à R dtox et on
+n pas forcément besoin d'être présent à
+Paris aussi contrairement à détox au
+début ils ont beaucoup d'événements
+beaucoup de proximité avec les gens nous
+on se dit on est convaincu à ce
+moment-là que le problème de powerp
+c'est un problème mondial et donc il y a
+pas de raison d'être d'être à un endroit
+plus qu'un autre on sera jamais dans le
+monde autrement que par internet donc on
+soit à rouan à Paris à Toulouse ou
+n'importe où il nous faut une bonne
+connexion internet c'est tout et à
+partir de là on est délivrable on
+communiquera en anglais et on va sortir
+du bois par internet et pas par le fait
+qu'on sera à Paris et qu'on aura des
+bureaux physiques et que ce sera cool et
+vous êtes des petits filou parce que
+vous arrivez à faire kiffer je sais plus
+qui de la région de Roan qui va vous
+donner de l'argent parce que vous êtes à
+ro en plus alors ça c'est la version ça
+c'est la version sympa vrai c'est qu'à
+ce momentl c'est qu'à ce moment-là il se
+passe pas mal de choses à rouan on
+arrive à un moment où c'est assez
+intéressant parce que la région décide
+de d'investir beaucoup dans le domaine
+du
+numérique avant ils avaient beaucoup
+investi dans les biotthques donc a de
+très gros départements biotthch à rouan
+et là il décide de de de faire la même
+chose d'essayer d'avoir la même réussite
+avec le numérique donc nous on va
+arriver dans cette brèche là et donc en
+en 6 mois on arrive à à débloquer
+quasiment 100000 € d'aide en
+prêsdhonneur donc c'est c'est des
+prêdhonneurs vous les prenez à votre
+titre personnel donc il n ont pas donné
+de l'argent mais du coup c'est très
+intéressant parce que là on est dans une
+position on se dit ok nous on a une
+boîte on a 2 ans devant nous pour
+développer la techno et là d'un coup on
+a une une bouffé d'oxygène pour pouvoir
+déjà recruter des gens et ça c'est c'est
+très intéressant parce que d'un coup on
+est dans la croissance et on commence
+déjà à aller vite on commence déjà à
+aller vite sur le produit on commence
+déjà à aller vite dans la réflexion on
+commence déjà à aller vite sur
+l'acquisition ça aussi c'est quelque
+chose qu'on a voulu dès le début c'est
+qu'on s'est dit on va pas attendre 2 ans
+de lancer le produit qu'on a en tête dès
+qu'on va pouvoir sortir quelque chose on
+le sort même si ça marche pas même s'il
+y a encore beaucoup beaucoup de choses à
+faire pour itérer itérer itérer itérer
+itérer il y a beaucoup de gens qui nous
+ont dit ouais mais sortez pas trop tôt
+parce que si votre idée elle est
+vraiment géniale vous allez vous la
+faire voler il y a des gens qui vont
+récupérer ça à l' faire avec plus de
+moyens plus d'argent plus de
+truc la réalité c'est que votre idée
+tout le monde s'en fout soyez en très
+conscient au début c'est que que tant
+que vous avez pas passé un premier cap
+de un million d'utilisateurs de un
+million de chiffres d'affaires ou des
+chiffres qui sont énormes personne n
+envie de vous copier c'est très
+fatiguant de monter une entreprise il
+faut avoir beaucoup de conviction
+vis-à-vis de ça et il y a très peu de
+gens qui partagent au début votre
+conviction et c'est pas grave finalement
+à ce moment-là ce qui est juste
+important pour vous c'est d'itérer c'est
+d'arriver de mettre le minimum en ligne
+même juste une promesse et de voir
+combien de gens s'inscrivent quand on a
+décidé de lanc de se lancer à pleintemps
+sur bunker on a trouvé un nom on a
+trouvé une URL on a mis une landing page
+et on s'est dit ok il y a peut-être des
+gens qui vont tomber dessus et qui vont
+s'inscrire parce que la promesse les
+intéresse donc déjà c'est intéressant
+parce qu'on voit si ça marche ou si ça
+marche pas promesse justement à ce
+moment-là on était très très ambitieux
+et justement on voulait être un peu un
+peu casche pour voir si si si l'idée
+d'automatiser finalement la création de
+slid en temps réel pouvait être
+intéressante et donc on disait créerz
+vos présentations automatiquement donc
+en terme de promesse il y avait pas
+mieux et on s'est dit si à ce moment-là
+si à ce moment-là ça marche pas je rond
+à vre question si à ce moment-là ça
+marche pas c'est peut-être déjà faut
+qu'on se pose des question sur la façon
+d'amener le sujet parce que si nous la
+problématique qu'on a vis-à-vis de ça
+c'est de se
+dire ce qui est important c'est de vous
+faire gagner du temps et que là on leur
+propose carrément d'automatiser la
+création de la présentation et que
+personne s'inscrit c'est qu'il y a un
+problème c'est que la promesse il y a
+personne qui s'intéresse à ça c'est que
+c'est que ça va pas marcher donc ça
+c'est c'est la première démarche à cette
+époque là c'est juste un visuel qui dit
+euh stockz vos données dans le bunker
+donc y a a il y a quelque chose au
+milieu qui je me rappelle plus très bien
+mais qui qui montre que vos données sont
+sont sont centralisées et à la fin en
+fait on a une animation qui montte des
+slides qui sortent automatiquement à ce
+moment-là et c'est là
+où on a dès le début beaucoup brandé nos
+profils c'est qu'on s'est dit finalement
+nous on est déjà en ligne on est déjà
+sur internet on a une visibilité en
+ligne de notre propre personne des gens
+qui nous cherchent vont tomber sur nos
+profils des gens de notre entourage qui
+sont sur Facebook sont aussi des
+professionnels qui font des slides donc
+peuvent tomber là-dessus donc dès le
+début on affiche que on monte bunker que
+on va se lancer on commence à faire un
+petit blog on commence à raconter tout
+ça ça c'est important euh bénéficier de
+de de de votre entourage de l'audience
+que ça peut apporter pour déjà stimuler
+un petit peu votre audience euh ça c'est
+ça c'est quelque chose moi que j'ai j'ai
+beaucoup de mal à comprendre al je
+bossais en agence de communication c'est
+pour ça que j'ai du mal à peut-être
+comprendre les gens qui n'arrivent pas à
+à à assumer sur leur profil même perso
+le fait qu'il MONT une boîte c'est que
+quand vous vous lancez dans ce dans dans
+dans ce dans ce chantier là c'est
+quelque chose qui va vous prendre votre
+vie euh peut-être à tort mais si vous le
+faites pas pour changer les choses parce
+que vous en êtes convaincu et que
+derrière vous êtes pas prêt à l'afficher
+sur vos sur vos profils sociaux
+euh moi je comprends pas la démarche
+même vous vous y croyez pas et ça c'est
+quelque chose que je vois souvent chez
+des entrepreneurs il y en a qui me
+disent oui mais si je le mets sur mon
+profil Linkedin je suis au chômage et
+mon si mon mon mon conseiller àô emploi
+va tomber dessus machin qu'est-ce qu'il
+va me
+dire je sais pas on s'en fout moi je
+l'ai fait dès le début mon conseiller
+pour l'emploi est tombé dessus et je lui
+ai dit voilà j'ai rejoins une une
+entreprise qui gagne rien qui va se
+lancer et je prends le Paris avec eux en
+attendant de trouver un job que ça va
+marcher donc bah j'ai mis ça et puis en
+plus sur mon CV c'est cool parce que ça
+fait pas un trou ah ouais c'est mortel
+c'est génial vous avez raison ok on
+avance il y a toujours des solutions à
+tout ça le premier vecteur de
+communication c'est vous c'est pas pour
+que nous Joris qui doit être là ou qui
+est parti non qui est parti nous on fait
+en sorte que tous les gens qui soient
+dans bunker tous les employé véhicule la
+marque parce que c'est important on n
+pas de moyens dès lors que vous avez pas
+de moyens tous les moyens sont bons pour
+communiquer et ça moi avoir un t-shirt
+sur moi devant vous êtes une petite
+centaine de personnes ça nous coûte rien
+ça me coûte 7 € le t-shirt en plus c'est
+sympa ça me permet de m'habiller et donc
+à travers ça vous allez véhiculer votre
+marque donc c'est ce fait que d'un coup
+quelqu'un va taper bunker il va dire ah
+ok bah je l'ai vu c'est marrant ah tiens
+ils font des pra je fais des prais ok je
+m'inscris tous les moyens sont bons pour
+vous donner de la visibilité pour
+grossir et pour itérer même si une
+personne qui n'a rien à voir avec ce que
+vous faites va sur votre site il va
+pouvoir vous faire des feedback et
+justement ces feedback sont seront
+peut-être bons seront peut-être mauvais
+et peut-être que justement falloir
+segmenter votre message pour que ça ne
+parle plus du tout à ces gens-là et
+qu'il ne viennent plus du tout
+s'inscrire c'est pas grave ce qui est
+important c'est que vous sachiez à qui
+vous communiquez quel message et
+pourquoi et et tout ça il va falloir
+travailler itérer
+améliorer donc ça c'est vraiment
+important donc dès le début landing page
+on commence déjà nous à communiquer sur
+nos profils enfin c'est tout bête hein
+mais vous bossez tous les jours vous
+prenez des photos quand vous êtes avec
+votre famille dire ah bah cet après-midi
+j'étais dans le jardin avec machin bah
+c'est pareil au boulot cet après-midi on
+a développé bunker on y croit toujours
+on avance il se passe quelque chose et
+même pour votre famille pour vos proches
+c'est vachement rassurant ils ont
+l'impression vous faites quelque chose
+de votre vie surtout quand vous avez 22
+ans vous quittez votre taf avec la vue
+sur les
+Champs-Élysées qui est un peu une
+réussite sociale pour la famille pour
+tout le monde qui se dit ok c'est cool
+on a le petit fils OK dans une grosse
+agence de com sur les ChampsÉlysées
+c'est mortel et d'un coup il dit bon en
+fait c'est cool on retourne à rouan on
+se met au chômage on prend un appart
+genre grosse coloque on va travailler là
+à l'arrache et on va monter une boîte
+qui va changer le monde votre famille
+vous dit ok c'est bien vas-y fonce on y
+croit au bout de 3 mois il commence à se
+poser des questions et tous ces tous ces
+vecteurs de communication qui sont
+simples qui sont Facebook Twitter un
+petit blog pour raconter ce que vous
+faites ça va aussi rassurer tout le
+monde autour de vous et de plus en plus
+ils vont comprendre votre projet croire
+en votre projet et au bout d'un moment
+on a des des réactions assez marrantes
+comme là par exemple on a reçu un mail
+de la maman de Joris qui au début se
+disait Joris c'est notre employé qui qui
+s'occupe de toute l'évangélisation de
+bunker il a fait une une grande école de
+de de commerce et il a décidé de
+rejoindre une startup plutôt que d'aller
+dans des entreprises où il aurait été
+beaucoup mieux payé dans des entreprises
+beaucoup plus connues il a pris ce
+risque là et dès le début il me disait
+ouais mes parents comprennent pas trop
+pourquoi j'ai fait ça ils me disent
+quand est-ce que tu vas aller dans une
+entreprise structurée une vraie
+entreprise et ce qui est drôle c'est que
+bah là on commence à passer des des Caps
+on commence à à à grossir donc ça les
+rassure aussi qu'ils soient pas tout
+seul avec juste des associés pour monter
+un business commence à avoir un peu plus
+de presse et et et là il y a il y a przi
+qui s'est lancé en France donc ils ont
+fait tout un plan RP autour de ça et sa
+mère est tombée sur l'article du Monde
+elle a envoyé l'article à Joris et elle
+lui a mis attention un nouvel acteur
+parce qu'elle connaissait pas pris et et
+elle lui met en gras il va falloir aussi
+les tuer maintenant et nous on s'est dit
+waouh c'est génial il se passe quelque
+chose il y a l'émulation autour de ça
+les gens sont fiers de pouvoir nous
+aider quoi donc donc ça c'est important
+et donc c'est pas parce que les gens
+vous comprennent pas au début qu'ils
+vous comprendront pas après et de la
+même façon vous avez tous l'impression
+votre idée est géniale et que si vous la
+sortez tout le monde va vous la piquer
+au début tout le monde s'en fout c'est
+dès lors que vous serez sorti du bois
+que vous aurez un million d'utilisateurs
+et que tout le monde parlera de vous que
+là faudra s'inquiéter vous serez assez
+armé pour pouvoir vous vous vous pour
+pouvoir contrer ça donc dès le début
+hésitez pas à balancer votre
+idée essayz de récupérer le maximum
+d'infos de tous ces gens qui sont autour
+de vous et qui peuvent eux aussi passer
+le message ça c'est très très important
+donc j'avance pas beaucoup dans mon
+histoire donc on est à rouan et puis il
+y a un an parce que y il y a 1 an
+maintenant on se dit ok on va on a notre
+premier proto on a une beta privée qui
+est déjà sortie on a près de 1000
+personnes qui sont sur la beta on se dit
+ok on est à rouan on sent que il va
+falloir commencer à sortir du bois et
+quelqu'un me dit ok il y a des gens qui
+qui qui avaient monté le camping c'était
+génial ils vont monter un autre truc qui
+va être 10 fois plus génial faut que tu
+les rencontres absolument ne serait-ce
+que pour discuter avec Alice et Oussama
+parce que c'est des gens géniaux ils
+vont apprendre plein de choses sur les
+start-up parce que nous à la base on VI
+on vient pas du tout de cet
+environnement là donc j'envoie un email
+à Alice qui à l'époque ne me répond pas
+du
+tout parcequeon a su après qu'en fait il
+y avait d'autres start-ups qui voulaient
+aussi tuer powerp qu'ils avaient recalé
+juste avant et notamment ousama juste
+avant avait recalé une startup en disant
+Alice c'est la dernière fois qu'on prend
+des mecs qui veulent tuer powerpt les
+mecs m'énervent c'est un faux combat
+faut arrêter ça donc j'envoie un email à
+lis à ce moment-là qui ne me répond
+jamais et j'envoie un autre email à
+usama
+en en le pingant en expliquant notre
+petite histoire finalement pourquoi on a
+fait ça d'où on vient qui on est et où
+on en est aujourd'hui et un peu curieux
+il ok ils ont l'air un peu fou ces gensl
+mais je vais les rencontrer et donc je
+prends un café avec Ousama et ama adore
+le truc il dit ok je très sincère avec
+toi j'ai vu des mecs comme toi vouloir
+lancer des concurrents de powerp mais
+vous vous avez peut-être pas trouvé la
+solution j'y crois pas for forcément
+mais en tout cas vous partez du du du
+bon constat et d'un problème que vous
+avez vécu et ça ça a été important dès
+le début pour lui en tout cas c'est ce
+qu' nous a raconté après on SAA jamais
+si c'est la vérité mais c'est que
+finalement on s'était pas lancé parce
+qu'on s'était dit [ __ ] ça a marché à 1
+milliard 5 de personnes donc si on y
+arrive on sera forcément des géants et
+on va gagner beaucoup d'argent on avait
+tout plaqué toute notre situation
+justement parce que on était frustré de
+ça dans notre vie donc on s'est dit bah
+ce problème il va falloir le résoudre
+avant tout pour nous et si ça peut
+résoudre le problème d'autres gens tant
+mieux
+et donc c'est ça qui l'a séduit dès le
+début et dès le début il me disait
+toujours je suis convaincu que ta
+solution est pas la bonne mais je suis
+convaincu que tu trouveras la bonne
+solution donc il va falloir que tu aille
+vite que vous testiez plein de choses et
+que vous avanciz très vite donc on a
+rejoint the family on était pas encore
+lancé vraiment on est encore en Beta
+privé on a fait la soirée the family il
+y a 1 an et un mois après on se lançait
+en V1 chez the family d'ailleurs avec un
+petit lancement presse qui était un vrai
+faux lancement presse puisqueen fait on
+avait invité tous nos tous nos potes qui
+avaient un peu d'influence dans ce
+milieu-là des gens Onon avait pu crocher
+à droite à gauche et puis comme le
+message avait pas avait déjà été un peu
+diffusé d'autres gens de de de cercle un
+peu plus loin qui étaient influents dans
+dans ce milieu-là et donc là très vite
+beaucoup beaucoup beaucoup de tweet sur
+sur les réseaux autour de notre
+lancement on avait fait une petite vidéo
+qui était beaucoup mieux que le produit
+actuel donc on avait plein de gens qui
+venaient de la vidéo et qui venaient la
+voir et à partir de là on a une
+croissance
+constanteprès 5 % toutes les semaines en
+ayant trois gros leviers premier c'est
+la presse puisque c'est quand même une
+bonne machine pour amamener des gens sur
+votre site le deuxième c'est c'est tout
+ce qui va être le le le la
+recommandation puisquen fait on mettait
+énormément de barrières à l'entré dans
+le produit pour que les gens dès qu'ils
+arrivent on leur suggère de partager
+pour gagner des jours d'essai pour
+gagner des trucs on a itéré beaucoup de
+choses sur ce sujet-l on avait 30 % de
+de gens qui arrivaient sur bunker qui
+partageaient le message donc je vous
+laisse je vous laisse réfléchir à ce que
+ça peut faire en terme de de visibilité
+mais on met 100 personnes ça nous fait
+30 personnes qui partagent le message
+qui eux ont en moyenne 100 à 150
+personnes dans leur réseau donc d'un
+coup on avait une croissance constante
+puisque on avait une première boucle
+d'acquisition qui fonctionnait très bien
+donc à partir de là on était lancé et
+puis bah focus produit on ITER on
+améliore et on continue à à à travailler
+sachant que dès le début beaucoup de
+gens nous envoient des messages en nous
+disant votre produit est Naas clairement
+la vision est bien mais votre produit
+est pas là et nous ça nous a servi à
+quelque chose c'est à créer de
+l'engagement avec ces gens-là on leur
+dit ok ok effectivement on est les
+premers à dire que on a à peine 6 mois
+de de développement il y a encore
+beaucoup de choses à faire par contre
+j'aimerais bien avir tes idées
+j'aimerais bien qu'on se voit j'aimera
+qu'on prenne un café j'aimerais bien que
+que tu m'expliques toi ton problème
+fondamental sur la présentation et
+qu'est-ce que tu attends de notre vision
+aujourd'hui et ça ça nous a amené à à
+changer beaucoup de fois de comment dire
+de façon d'aborder le sujet du message
+qu'on avait et très rapidement déjà on a
+tué créé automatiquement des
+présentations parce que on savait que
+que ça parlait pas à tout le monde de la
+même façon voilà à peu près l'histoire
+de donc en fait les les gens te
+faisaient ta Tod list quoi alors le
+problème de ça c'est que ils nous font
+notre todoliste et il faut savoir il y a
+il y a tout dedans faut savoir ce qu'il
+faut ce qu'il faut garder et c'est là où
+une vision forte une conviction forte
+sur un problème fort va à chaque fois
+vous amener à faire du tri euh et ça
+c'est très très très très intéressant
+parce que si vous savez exactement si
+tout le monde dans la boîte c'est où
+vous voulez aller à long terme on sait
+les solutions qui vont marcher et on
+sait les propositions qui sont pas
+faites pour ces utilisateurs là et
+pareil dès le début et ça c'est un long
+débat qu'on a eu avec
+Ousama dès le début qui nous a beaucoup
+servi c'est que on a tendance à être
+sympa avec tout le monde quand on lance
+sa boîte quand on lance son truc parce
+qu'on se dit ah c'est quand même 10
+personnes je peux pas les jeter je peux
+pas leur dire non mais ton c'est de la
+merde merci au revoir va-ten donc on a
+tendance à chaque fois dire ah oui c'est
+vrai bonne idée on la garde on la fait
+bientôt ah c'est mortel ce que tu penses
+ah mais tu vas bientôt pouvoir utiliser
+bunker pour ça on a tendance à être trop
+sympa sur ce sujet là et ousama nous
+disait toujours les gars vous êtes très
+segmentant dans votre communication pour
+ramener les gens sur votre site vous
+êtes très agressif vous voulez tuer le
+problème powerp vous avez des
+convictions sur ce sujet là mais par
+contre une fois que les gens sont chez
+vous vous perdez ça vous êtes dans le
+monde des bisounours et vous êtes gentil
+avec tout le monde et vous adorez tout
+le monde et et ça va pas du tout parce
+que c'est c'est c'est c'est là le pire
+moment parce que vous allez faire croire
+à des gens qui vont pouvoir un jour se
+servir de votre outil alors que
+fondamentalement ce sera pas le cas
+avant 3 ans et surtout ils vont être
+déçus parce qu'à chaque fois ils vont
+vous repigner en vous disant mais quand
+est-ce que ça sort ce truc vous m'aviez
+dit c'est bientôt donc les gens ils vont
+avoir de la frustration permanente par
+exemple quel fure c'est quoi les
+features auquel tu as dû renoncer bah il
+y a beaucoup de gens qui nous ont
+demandé de l'animation parce que
+beaucoup nous disent toujours ouais mais
+moi j'adore faire des animations dans
+mon truc nous c'était vraiment notre
+conviction de départ de dire le support
+c'est pas ça qui fait une présentation
+ce qui fait une présentation c'est le
+contenu et c'est vous pour ce qui est de
+vous on changera pour l'instant pas
+grand-chose on peut rien pour vous
+malheureusement est ce qu'on disait
+souvent si vous êtes mauvais en
+présentation orale on fera pas de vous
+un bon speaker par contre on va vous
+aider à gagner du temps et c'est
+vraiment là-dessus qu'on veut être les
+meilleurs et dès le début beaucoup de
+gens arrivé en disant ouais mais vous
+voyez vous faites que des slides et je
+peux pas faire animer des des choses je
+peux pas faire venir des choses de la
+droite je peux pas et plutôt que de dire
+à ces gens bah non on est convaincu que
+c'est pas là où vous allez progresser on
+est convaincu que c'est pas pour ça que
+votre présentation sera mieux on le fera
+pas mais par contre il y a des outils
+qui le font mieux donc allez les voir et
+tant mieux merci au revoir et ben on
+leur disait oui un jour on mettra des
+animations quel type d'animation
+voulez-vous et donc on mettait ça dans
+dans un coin sachant pertinemment que ça
+fait pas partie de notre vision et et là
+d'un coup on est dans un on devient un
+peu schizophrène parce qu'on se dit
+ouais mais à la fois ces gens-là ils ont
+l'air d'être là et si je réponds à ça
+ils vont rester mais à la fois on se dit
+c'est pas la vision qu'on a donc on doit
+pas aller par là et c'est là où il faut
+être radical il faut se dire soit votre
+vision elle est bonne vous y croyez et
+vous avancez sur votre vision et vous
+êtes très segmentant avec ces gens-là et
+vous leur dites excusez-moi vousvez vous
+avez mal dû comprendre notre projet nous
+on pense que le support c'est fini ce
+qui est important c'est les Data et
+c'est vous on vous aidera là-dessus on
+vous aidera pas sur le support si vous
+voulez faire des zooms dans vos
+présentations je vous conseille un outil
+qui est génial c'est préis mais nous on
+le fera pas parce que c'est pas notre
+vision des choses on va pas s'entêter à
+faire des choses qui pour nous n'ont pas
+de valeur donc merci au revoir bon
+courage sur przi à bientôt et en fait on
+pensait que en adoptant ce ce discours
+là on allait se prendre des taquets avec
+des gens qui partagent sur les réseaux
+ouais les mecs de bunker c'est c'est des
+salot ils n aiment pas ils vont se
+planter et au contraire en fait on s'est
+rendu compte que les gens prenaient
+conscience du fait que bah ah ouais
+c'est vrai la présentation ce qui est
+important c'est les données c'est moi
+c'est peut-être pas le support ou alors
+les gens disaient ah bah merci je
+connaissais pas prés je vais découvrir
+vous êtes super sympa merci de mavoir
+enenté sur un nouvel outil et finalement
+c'est les gens qui restaient derrière
+dans notre communauté sur Facebook et
+sur Twitter et qui reprenaient nos
+messages et qui les diffusaient donc je
+disait c'est marrant le mec est parti
+utiliser pris pourtant il parle toujours
+de moi tout le temps sur les réseaux
+donc ça finalement c'est quelque chose
+qu'il faut bien comprendre c'est que
+vous allez avoir plusieurs types de
+profil vous allez avoir des Core users
+qui seront des gens qui viennent pour le
+produit pour ce que vous êtes et il y a
+des gens qui viendront aussi pour la
+boîte pour le message que vous avez pour
+le combat que vous menez et qui seront
+aussi des ambassadeurs de votre message
+et cela faut pas les négliger et faut
+pas hésiter à leur dire bah on partage
+pas ta vision des choses du produit par
+contre si un jour tu as envie de te
+focaliser sur les données et faire des
+présentations enfin aller plus vite dans
+la création de présentation on sera là
+on sera là pour ça parce queil rien de
+plus frustrant que de dire à quelqu'un
+on va s'occuper de toi et en fait
+malheureusement faut fa nous on sait
+qu'on s'en occupera jamais parce que ça
+fait pas partie de notre vision donc ça
+ça ça ça a été vachement
+important être segmentant radical et
+savoir dire non quoi ne pas forcément
+être dans la politesse c'est ça
+segmentant ça c'est un truc que que que
+j'ai eu du mal à faire au début parce
+que quand vous bossez dans les grosses
+dans les grosses agences pour des
+grosses marques moi jeé pour Orange pour
+la RATP pour la Fnac pour Europe 1 on
+nous apprend à être lisse il faut
+justement pas être segmentant parce que
+dès lors qu'on a un message segmentant
+client il dit ah mais non non non non là
+si je parle comme ça ça va déplaire à
+certain à certaines personnes et donc du
+coup bah je peux pas me permettre moi
+orange qui cible tous les Français de de
+déplaire à certaine parties des français
+puisque Mo massible c'est t les Français
+moi je pense aujourd'hui je suis
+convaincu que c'est une énorme connerie
+parce que le but c'est pas d'être aimé
+de tout le monde si vous cherchez à être
+aimé de tout le monde vous allez être
+Liss et vous allez être aimé de personne
+et ça vous pouvez le voir dans votre
+cercle d'amis il y a des gens qui sont
+lisses qui essayent de pas faire de vagu
+qui sont sympas avec tout le monde qui
+ont aucune aspérité du coup c'est les
+amis vraiment de personne et ces gens-là
+vous les voyez ils passent de de cercle
+d'amis en cercle d'amis sans jamais
+vraiment réussir à imposer qui ils sont
+et il y a rien de pire que que ça parce
+que c'est les personnes qu'on appelle
+pas c'est les personnes que qui nous
+reviennent jamais à l'esprit et d'un
+coup quand vous êtes
+segmentant il faut prendre le le il faut
+prendre partie et vous allez voir que il
+y a des gens qui vont vous détester qui
+vont vouloir votre mort tous les jours
+mais c'est ça qui va vous faire qui va
+faire qu'il y a des gens qui vont vous
+aimer parce que il y a rien de mieux que
+que l'échange et si quelqu'un d'un coup
+vient dire moi je déteste ces gens-là
+bah il parle de vous et ça peut amener
+des gens qui ne partagent pas son avis à
+se dire moi je partage pas ton avis mais
+par contre je les adore et donc là vous
+allez commencer à à à créer un
+engouement à créer quelque chose et
+surtout à créer des échanges et c'est ça
+qui va être important le fait que sur
+les réseaux sociaux quelqu'un va dire de
+vous bunker les mecs qui veulent tuer
+powerp franchement je comprends pas
+c'est des cons powerpint c'est très bien
+machin bah il y a des gens qui vont voir
+ce message là et qui vont dire oh là là
+mec ça attaqu powerp mais c'est génial
+moi je déteste powerp ah mais je suis
+pas d'accord avec toi si ça attaqu à
+powerp bon courage allez-y les mecs
+foncez et là d'un coup ce qui est génial
+c'est que votre marque elle vit sans
+vous vous n'avez plus besoin de dire qui
+vous êtes les gens portent le message à
+votre place c'est bien c'est c'est très
+compliqué parce que bon après le message
+vous ne le maîtrisez plus forcément mais
+ça c'est un truc vraiment mental et pour
+le coup on est moins bon ici en France
+que aux États-Unis ou pour le coup enfin
+c'est beaucoup plus naturel et ça c'est
+un truc qu'il faut apprendre voilà c'est
+c'est c'est difficile au départ d'être
+ça nous paraît comme de l'impolitesse et
+pourtant c'est fondamental quoi il y a
+un autre truc sur lequel j'aimerais bien
+qu'on revienne si ça si ça te va serait
+parler de la la levé de fond ça a été
+assez épique chez vous ça a été un long
+combat on communique pas encore vraiment
+dessus on communique pas dessus voilà
+donc on est en cours de finalisation de
+Lev c'est effectivement quelque chose de
+très épique pour nous on dira pas
+combien ni quoi que ce soit ni avec
+voilà après en fait mais raconte-nous le
+cheminement et en fait c'est ce que ça
+fait partie de c'est dans cette équipe
+il y a quand même que des Grandes
+Gueules ouais c'est aussi ça le truc
+voilà a un grand sujet là-dessus c'est
+que on a une très grosse croissance
+on a eu beaucoup beaucoup d'engouement
+sur les réseaux on a eu un développement
+international qui nous a dépassé
+aujourd'hui on est dans plus de 150 pays
+on a 50000 utilisateurs on a près de
+1000 clients donc c'est quelque chose où
+les 1000 clients il paient combien 3 €
+par mois par utilisateur donc on on a
+été dépassé par par tout ça même si on y
+croyait dès le début que que comment tu
+as fait ton pricing d'ailleurs c'est un
+long
+débat le le le le pricing ça a été aussi
+un gros sujetc kousama on a beaucoup
+beaucoup échangé là-dessus avec usousama
+le pricing c'est un vrai faux sujet
+parce que en tout cas dans notre cas ce
+qui est important c'est développer
+l'usage et dès le début en fait on s'est
+rendu compte on a fait pas mal d'erreurs
+sur le produit et notamment autour du
+pricing c'est que nous beaucoup de gens
+avant qu'on lance le produit nous
+challenge sur vous n'aurez jamais de
+client personne sera prêt à payer pour
+un truc qui est aujourd'hui quasiment
+gratuit parce que c'est craqué parce que
+tout le monde l'a personne sera prêt à
+payer le moindre centime pour votre truc
+donc nous comme en général on essaie
+toujours de de de démontrer les choses
+très rapidement pour faire fermer la
+bouche à certains on s'est dit ok ok on
+prend le challenge on va vous montrer
+qu'il y a des gens qui sont prêts à
+payer pour le produit bunker pour la
+vision qu'on a même si aujourd'hui le
+produit est pas fini donc on s'était mis
+ça en tête et dès le début on s'est dit
+on va mettre des barrières à l'entrée
+qui vont faire que les gens on va les
+brider dans l'usage on va faire en sorte
+qu' qu' utiliseent très peu le produit
+et que très rapidement ils doivent payer
+alors ce qui est intéressant c'est que
+du coup bah on a réussi à mettre pas mal
+de leviers qui font qu'à certains
+moments ils étaient pris au piège donc
+il s'am enfin il payait 3 € c'est rien
+donc il se lançaient là-dedans mais de
+l'autre côté ça a [ __ ] totalement
+l'usage de bunker c'estàd qu'il y a
+plein de gens qui se disaient ok je
+teste ils avaient 35 jours d'essaiis et
+finalement ils s'arrêtent parce que
+cétait pas encore prêt à payer
+l'application était pas encore au
+rendez-vous et donc on perdait ces gensl
+donc le pricing au début il y a eu
+longtemps un sujet d'ego là-dessus o on
+s'est dit il faut qu'on montre aux gens
+qu'on est prêt à avoir des clients parce
+que c'était le le le challenge qu'on
+nous disait tous c'est que c'est cool il
+y a plein de gens qui s'attaquent à à
+des sujets comme powerpo vous allez être
+comme présis vous allez avoir beaucoup
+beaucoup d'utilisateurs mais personne
+sera est prêt à payer comme prési donc
+dès le début on s'est dit ça ça va être
+un vrai sujet faut qu'on leur montre
+qu'on est capable d'avoir comme un
+Dropbox ou comme un Evernote plus d' 1 %
+d'utilisateur payant donc ça ça a été ça
+a été quelque chose d'important on a
+fait varier le prix au début on faisait
+que des packages de groupe sur des
+formules à plusieurs et finalement
+aujourd'hui on se rend compte queon se
+ressente beaucoup plus sur un prix
+simple un
+utilisateur qui peut évoluer au fur et à
+mesure de de de ce que vous voulez mais
+vous pouvez que faire évoluer en
+fonction du nombre d'utilisateurs donc
+en fait ça ça ça a été ça a été
+important donc finalement on a fixé un
+prix on voit qu'aujourd'hui ça marche on
+dans les clou de ce qu'on veut on va
+essayer de l'itérer on n pas encore fait
+d'AB testing sur le pricing parce qu'on
+n pas eu le temps ça fait pas encore un
+an que que le produit existe donc ça
+fait ça fait 6 mois que on a une formule
+payante puis qu'au début c'était gratuit
+on va itérer on va s'amuser avec ça on
+va va voir à quel moment les gens sont
+prêts à payer mais pour ça il faut que
+le produit soit finalisé c'estàdire que
+aujourd'hui on sait que sur la vision il
+y a il y a certaines personnes qui sont
+prêt à payer à ce moment-l parce qu'il y
+a des gens qui pendant un moment arriv
+sur le produit payent sans même
+l'utiliser donc on disait juste sur la
+vision ils sont prêt à payer maintenant
+ce qui va être important c'est plus on
+va rattraper en terme de produit la
+vision plus les gens seront prêts à
+payer en tout cas c'est le but on n'est
+pas encore assez avancer là-dessus pour
+revenir sur le sujet des des des Grandes
+Gueules que qu'évoquit Alice nous on a
+plusieurs problématiques qui sont
+intrinsectes à à notre société c'est
+qu'on on s'attaque à sujet qui qui est
+qui est mondial qui qui est le problème
+powerp qui touche toutes les entreprises
+parce que ça fait perdre beaucoup
+d'argent aux entreprises le temps passer
+sur ces outils là et que aujourd'hui les
+outils tous les outils qui existent
+c'est Google Microsoft Apple les trois
+principaux outils on a PR qui se dégage
+aussi donc on s'attaque à un marché qui
+est énorme avec des enjeux énormes avec
+des marques énorme donc déjà sur ce
+premier point là il y a plein de gens
+qui ont peur de se dire bah faut prendre
+le risque d'aller s'attaquer à des gens
+gigantesques et donc il y a plein de
+gens qui dès le début nous disent non on
+n pas prêt à aller sur ce genre de sujet
+en terme de financement ça paraît touchi
+personne n a réussi avant on y croit pas
+ça va pas marcher donc ça c'est ça c'est
+le premier sujet après nous on compense
+ce sujet là parce que on est des Grandes
+Gueules on est convaincu qu'on va y
+arriver coûte que coûte on lâchera rien
+et donc du coup on est très très
+agressif sur le marché ça nous pose pas
+de problème aujourd'hui de dire que nous
+notre mission c'est de tuer le problème
+powerp c'est c'est tuer la façon les
+gens font leur slide aujourd'hui parce
+que fondamentalement ça se passe pas
+bien il y a quelque chose qui qui coince
+à ce niveau-là et ça c'est quelque chose
+qui fait peur à beaucoup de gens en
+France que ce soit des des des des BA
+des investisseurs des clients ou ba
+c'est business angel des business angel
+parce qu'en fait ils aiment pas le fait
+que on se mette à dos des gens et ça
+effectivement il y a beaucoup moins de
+de réfractaire aux États-Unis ou dans
+d'autres pays c'est que en France on a
+souvent du mal à se dire qu'on va
+réussir à inverser la tendance à
+retourner l'économie actuelle et on voit
+le le le C40 c'est des entreprises qui
+existent depuis beaucoup d'années il y a
+très peu de nouvelles entreprises qui
+ont réussi à à s'introduire en Bourse en
+France qui est pas du tout le cas aux
+États-Unis parce que là-bas on pense
+beaucoup plus au renouveau en France on
+pense plus à protéger les acquis que à
+se renouveler et nous là-dedans c'est
+vrai que bah on Bane dans la culture
+internet on est plus à même de se dire
+nous on n'est pas forcément plus
+français que international euh on
+s'inspire de la culture des séries
+américaines euh on voyage beaucoup plus
+que que nos parents on est beaucoup
+moins touché par ça moi j'ai beaucoup
+moins d' priori sur le fait de de
+d'essayer de préserver les emplois dans
+une économie qui qui qui qui est en
+décroissance permanente j'ai plutôt
+tendance à me dire bah ok il va falloir
+trouver un emploi pour ces gens-là c'est
+quoi les économies croissanceces comment
+on complète ça les vastes communiquants
+ça existe depuis depuis longtemps et et
+et on a toujours été dans l'évolution
+donc pourquoi pas encore aujourd'hui et
+ça ça plaît pas forcément aux gens en
+France et on l' vu en région en région
+beaucoup de gens au début nous ont pris
+pour des fous non mais personne
+utilisera votre truc c'est cool hein les
+gars foncez vous avez la [ __ ] mais
+personne n'y arrivera personne personne
+nutilisera votre truc donc ça c'est un
+problème auquel on a beaucoup été
+confronté c'est le fait que bah nous on
+tu es convaincu qu'on est très agressif
+et peut-être des fois ça peut passer
+pour de l'arrogance et du coup bah pour
+plein de gens on est un peu des fous
+dans notre maison à rouan qui essayent
+de changer le monde et qui n'y
+arriveront jamais et ça c'est des
+discours qui sont difficiles à partager
+avec des
+avec avec des des des gens qui qui
+pensent pas vraiment fondamentalement
+aux économies de rupture parce que
+finalement ils se raccrochent à des
+choses qu'il connaissent tout le temps
+et donc ils vont se dire ok bon ben
+alors je connais ça bon ben on va
+avancer un petit peu sur ce sujet là on
+va être les meilleurs là-dessus et vous
+allez l' d'avoir une idée
+là-dessus nous on pense que pour changer
+powerp il faut pas s'attaquer à ce que
+fait déjà powerp faut radicalement
+changer le problème et et là dans cette
+approche là peu de gens partagent cette
+vision là parce que dis attendez ça fait
+25 ans qu'on fait des slides de cette
+façonl vous êtes en train de me dire
+vous à rouan avec vos 20 ans que vous
+allez changer la façon dont 1 milliard 5
+de personnes font des slides dans le
+monde entier ok cool allez-y les gars et
+donc d'un coup bah beaucoup moins de
+prise de risque beaucoup moins de de
+d'intérêt à aller loin et et presque les
+perspectives d'avenir qu'ils avaient
+pour le projet bunker c'est de se dire
+ok ils ont une croissance qui est
+intéressante ils ont plein de chiffres
+si demain ils arrivent à million je
+pourrais le revendre à quelqu'un je
+pourrais le revendre à un gros parce
+qu'il y a des gros donc il y a de
+l'argent donc ça fera un bon exit et
+nous on les regardait en le disant mais
+en fait ce que vous avez pas compris
+c'est que on veut pas se faire racheter
+par quelqu'un d'autre aujourd'hui ce qui
+nous intéresse c'est pas que demain
+Microsoft nous rachète pour nous couler
+et pour nous donner beaucoup d'argent on
+n pas fait ça pour gagner de l'argent si
+on l'avait voulu gagner de l'argent on
+serait pas reparti à rouan on serait
+resté à Paris on aurait été carriériste
+et on aurait essayé d'être calife à la
+place du calife là on vous parle pas de
+ça on vous parle d'un problème
+fondamental ok on a perdu trop de temps
+on a été trop frustré si demain moi je
+vend ma société à Microsoft et qui la
+tue et qui récupère nos utilisateurs
+parce qu'on les embête je fais quoi je
+repars en agence je me retrouve
+confronté au slide à ce problème de
+powerp et je requitte mon job pour
+remonter un truc à un moment donné nous
+on l'a fait parce qu'on y croyait et pas
+on y croyait pour faire une entreprise
+qui gagne beaucoup d'argent on y croyait
+pour trouver une solution à un problème
+que que que les gens rencontrent dans le
+le quotidien de boulot et quand on a dit
+ça à à à certains certains fonds Alice
+derrière avait de retour de certaines
+personnes qui me disaient Alexis en
+l'occurrence c'est pas moi qui me suis
+occupé de de de la levée de fond c'est
+Alexis et et et des gens disaient mais
+en fait ils sont marrants les mecs de
+bunker mais Alexis nous fait
+peur le mec on lui dit que ce serait
+cool qu'un jour il prenne un gros chèque
+pour se faire racheter par une énorme
+entreprise et il nous dit que
+mais c'est pas ça qu'il veut là il veut
+changer le monde des présentations mais
+le mec il est Faé comment on va réussir
+à gérer ces gens-là et donc ça ça a été
+ça a été un problème donc il y a deux
+façons d'envisager le truc soit on se
+dit ok bah on revoit tous nos plans et
+donc on revoit tout à la bais c'est
+l'objectif c'est pas non ça c'est
+impossible c'est soit tu assumes
+bah mais non mais est que mais non
+évidemment moi il m'a toujours convaincu
+mais ce que je veux dire c'est que quand
+tu es dans un contexte comme ça et que
+les autres te renvoient une image de fou
+en permanence qu'est-ce que tu fais tu
+as deux choix soit tu te barres à
+l'étranger lever à l'étranger c'est ce
+que je soit tu te bats sur place jusqu'à
+trouver le seul fou qui va pouvoir te
+faire
+confiance et ça c'est important si un
+jour vous êtes confronté à ça vraiment
+nous ce qu'on retient de de de de cette
+expérience pas encore fini c'est trouver
+les gens avec qui vous avez envie
+d'avancer si demain vous quittez votre
+vie vous prenez le risque de de monter
+quelque chose de vivre une aventure
+folle c'est pas pour la partager avec
+quelqu'un que vous avez pas envie c'est
+c'est c'est comme un mariage un
+investisseur tu parles ouais trouver un
+investisseur un financeur que ce soit un
+associé ou que ce soit un financeur un
+investisseur trouver des gens avec qui
+vous avez envie de partager ça de vivre
+au quotidien parce que si dès le début
+il y a pas ça ça va s'arrêter très vite
+parce qu'à un moment donné c'est comme
+dans un couple où on partage pas la même
+vision du couple et où finalement on s
+met au début et puis pas pour les mêmes
+raisons vous arrivez pas à avancer
+ensemble parce qu'à un moment donné vous
+aurez des projets qui vont avancer dans
+deux chemins différents et à ce
+moment-là ce qui va se passer ça va être
+très simple c'est que vous allez rentrer
+en conflit et c'est celui qui va euh
+tenir le meilleur bout qui va gagner et
+on veut jamais ce genre de situation là
+donc travailler avec des gens que ce
+soit des employés que ce soit des vos
+associés que ce soit des investisseurs
+avec qui vous partagez la même vision
+fondamentale de des choses ça va vous
+aider à avancer beaucoup plus vite parce
+que d'un coup il y a comme dans un
+couple il y a pas besoin forcément de se
+parler tout le temps pour comprendre
+l'autre et ça c'est important si à
+chaque fois faut faire un point parce
+qu'en fait on était pas d'accord et que
+personne a compris qu'on était pas
+d'accord ça matche pas on est assez
+impressionné en fait par l'alchimie dans
+la team bunker parce que c'est vrai
+qu'il y a des Grandes Gueules ouais
+enfin toi et Alexis surtout vous êtes
+deux grand Grandes Gueules c'estes deux
+mecs qui sont plutôt une formation
+marketing donc tu te dis attends ils
+vont se marcher dessus à un moment ou à
+un autre enfin comment il se
+répartissent les trucs enfin moi c'était
+un peu ma peur au départ et en fait deux
+grandes gueules avec qu'à peu près la
+même formation il y a énormément de
+communication même si vous parlez pas
+forcément mais de respect en SEM et
+chacun trouve sa place parce que parce
+qu'il gère l'ego et ça la question de
+l'ego elle est vraiment bien gérée chez
+vous malgré ces deux grandes gueules où
+on sent que enfin tu tolères totalement
+l'autre enfin vous vous tolérez en fait
+super bien et Alexis c'est vraiment
+celui on va dire qui qui qui qui va
+abattre qui représente le produit
+souvent à l'ex ur qui est encore enfin
+qui est vraiment assez fou dans son dans
+sa façon de il est totalement fou
+totalement fou il a peur de rien enfin
+voilà c'est lui qui pitche aussi les
+investisseurs ouais c'est lui qui gère
+ça il y a quelque chose d'assez
+intéressant dans notre
+relation à tous et tous les employés de
+bunker c'est que on s'est tous mis
+d'accord sur le chemin vers lequel on
+voulait aller le but ultime et à partir
+de là il y a pas de problème tant qu'on
+a tous une mission bien défini qu'on se
+marche pas sur les pieds et qu'on avance
+tous dans la même direction on n'est pas
+là pour se faire racheter quelques
+millions même si on sera tous contents
+d'avoir de l'argent c'est pas ça le but
+c'est ça donc ça ça c'est vachement
+c'est c'est c'est vachement important
+dans dans votre cohésion de pro se
+mettre d'accord sur la vision future
+fondamentale qu'est-ce que tu avec son
+cofondateur c'est quoi ton but qu'est-ce
+que tu veux faire tu veux être acheté à
+plusieurs millions ça une belle vie ou
+est-ce que tu es là pour 20 ans et te
+battre et ça il y a pas de bien ou de
+pas bien c'est être d'accord ensemble
+quoi c'est ça en fait je pense que
+vraiment du couple elle elle est bonne
+c'est que ça peut changer mais il y aura
+une rupture en tout cas si si on est
+plus d'accord si on arrive à changer la
+vision en restant d'accord il y a pas de
+rupture c'est à un moment donné un
+projet de vie ça marche ce qui est juste
+important c'est d'être d'accord et
+d'avoir la même vision et normalement si
+votre vision elle est
+assez elle est assez poussée dans ce que
+vous voulez faire ça devrait pas changer
+la manière d'y arriver va changer et ça
+c'est un c'est un discours que j'avais
+eu
+avec avec la CE de Ka j'adore qui vient
+cet après-midi qui vient cet après-midi
+bon benah vous la verrez cet après qui
+nous disait qu'en fait elle elle elle
+voyait le parcours entrepreneurial euh
+comme une l'ascension de l'Éverest et
+que quand on est en bas l'objectif pour
+tout le monde c'est d'arriver en haut le
+chemin qu'on va parcourir on s'en fout
+et finalement personne retiendra le
+chemin qui a été parcouru ce qu'on
+retiendra c'est si on est arrivé ou si
+on n'est pas arrivé en haut et ça c'est
+important et donc ce qui est important
+de votre team c'est bien délimiter
+l'endroit où vous voulez planter votre
+drapeau à la fin pour dire on y est les
+gars on y est on a réussi donc si c'est
+un exit mettez-le dès le début et dites
+ok on fait une boîte pour faire un exit
+mais sachez-le même si vous le dites
+communiquez pas publiquement et ensuite
+le reste faut juste se mettre d'accord
+sur les chemins de chaque jour et il y a
+que ça qui est important c'est savoir
+demain où on a envie d'être et de savoir
+que chaque jour on avance un peu plus de
+du sommet c'est tout et à partir de là
+vous avancerez toujours un peu plus un
+peu plus un peu plus vers votre but
+ultime et donc je pense que la vision
+d'une boîte elle doit pas changer par
+contre la façon dont on on le fait oui
+ça changera et nous on a déjà changé
+plein plein de fois parce que
+fondamentalement quand vous êtes trois
+dans dans votre appart et qu'aujourd'hui
+on est neuf il y a plein de choses qui
+changent dans la structure dans la façon
+d'avoir les responsabilités dans la
+façon de d'avoir la vision du produit
+aujourd'hui on a 1 an de maturité sur
+notre produit de retour utilisateur avec
+50000 mecs qui nous ont fait des
+feedback on avait pas du tout envisagé
+ça de de de bnkerœur au début pourtant
+on est toujours à à s'attacher à notre
+but qui est changer le problème de
+création de slide et ça ça changera pas
+et et c'est là où on peut avancer de
+façon très claire avec beaucoup moins de
+management quand on est d'accord
+là-dessus parce qu'à partir de là chaque
+personne est responsable de se dire ok
+ça j'ai pas besoin de demander la Val à
+toute la boîte et de faire une réunion
+qui va prendre une heure pour savoir si
+oui non on met ce truc en place non on
+s'en fout on teste parce que lui il est
+convaincu que à ce moment-l il se dit ok
+ça ça va nous rapprocher un peu plus du
+but ultime et peut-être que des fois on
+se rend compte qu'il faut faire deux pas
+en arrière pour remonter après et ça
+c'est pas grave dans les grosses boîtes
+je pense que on essaie trop de de de
+planifier les choses en se disant bah ok
+je vais monter l'Everest donc on fera un
+stop ici un stop ici un stop ici un stop
+ici et on se met tous d'accord et on
+signe tous au bout de la page le
+problème c'est que c'est intéressant
+quand ce chemin est suivi ça va beaucoup
+plus vite mais à partir du moment où il
+y a une averse ou une tempête de neige à
+ce moment-là dans l'ascension qu'est-ce
+qu'on fait faut qu'on change les plans
+il y a un endroit qui est tombé comment
+on fait on fait une réunion on s'arrête
+tous pendant un mois on reprend des
+plans pour refaire un parcours et puis 6
+mois après on se refait un point pour
+c'est quoi le but non nous le but notre
+vision elle est mois par mois jour par
+jour et tous les jours on itère un peu
+plus que la veille et ce qui est
+important c'est d'avancer tous les jours
+un peu plus qu'avant c'est quelque chose
+où the family a joué un rôle énorme pour
+nous c'est d'arriver à nous focaliser
+sur des données hebdomadaires des KP
+voilà en terme de KPI au début on a
+souvent l'envie de se dire ok on fait
+des plans et tout le monde alors en
+France ça c'est ça c'est le le truc que
+tout le monde adore et nous on est été
+obligé de le faire pour tout ce qui est
+prês d'honneur c'est qu'on vous demande
+un business plan à 3 5 ans c'est génial
+l'avantage avec avec Excel c'est que
+vous pouvez tirer les graphes que vous
+voulez et en général je connais personne
+qui a fait un business plan décroissant
+tout le monde est dans une croissance
+exponentielle de malade d'ailleurs je
+pense que vous pouvez même chercher sur
+internet des des des Excel et juste
+mettre le nom de votre boîte et dire ok
+on va faire comme ça donc c'est bien ça
+ça ça peut faire du bien au moral le
+problème de ça c'est que le jour où on
+est plus dans les clous on se fait peur
+quand on se fixe des objectifs
+hebdomadaires bah déjà les objectifs
+sont beaucoup moins important à faire et
+on peut itérer très vite on peut savoir
+si on est dans les clous ou pas
+aujourd'hui nous comment on fonctionne
+chez bunker on a un tableur on a quatre
+mtrix et ces quatre mtrix clés on fait
+en sorte que chaque semaine elles a
+grossiss de 5 % on a on a
+une une croissance de 5 % par semaine
+c'est quoi les maîtr
+les maîtrix qu' qu'on a c'est le signup
+combien de gens s'inscrivent combien de
+gens s'inscrivent combien de gens ont
+fait des présentations le nombre de vues
+sur les présentations au total et le
+nombre de clients voilà et donc en fait
+et c'est ça qui est ça qui est très très
+important sur sur vos mattriques quand
+vous les mettez sur sur un papier de
+passon hebdomadaire bah vous allez avoir
+l'impression que c'est c'est accessible
+c'estd que partez de 10 la première
+semaine rajouez 5 % de croissance chaque
+semaine et vous allez voir que au début
+10 pas beaucoup pour arriver la semaine
+d'après faire 11 puis après faut faire
+un peu plus et donc vous allez grossir
+comme ça étape par étape et faut pas non
+plus croire que c'est parce qu'on est
+une startup et que demain on veut faire
+un million qu'il faut utiliser les
+méthodes des gens qui aujourd'hui sont
+un million pour pour acquérir des gens
+ça c'est une erreur qu'on a fait qu'on
+fait tous il faut pas hésiter au début à
+faire les choses à la main quand votre
+objectif hebdomadaire c'est de faire 10
+sign up
+est-ce que je vais m'amuser à faire une
+campagne est-ce que je vais m'amuser à à
+faire un événement à faire un truc non
+10 je fais une réunion chez de FAM
+family j'ai envie tous les gens de
+Family qui font des slides qui sont
+intéressés je les mets devant là pu je
+leur dis ok bon on fait le test je l'ai
+mon objectif et chaque fois le but c'est
+de le faire et et si j'y arrive personne
+vous jugera personne vous dira ouais
+mais au début les 10 premiers vous les
+avez fait à la main ouais bah super ok
+c'est le problème aujourd'hui on un
+million c'est quoi le problème donc ça
+c'est des réflexions qu'on a qui sont un
+peu absurdes et donc hésitez pas à faire
+à faire cet effort- là parce qu'il y a
+rien de pire que de se dire bon ben
+alors je vais faire comme les comme les
+grosses boîtes donc je vais lancer un CP
+je vais prendre un listing parce que sur
+Internet vous trouvez des listings de
+journalistes assez facilement je vais
+l'envoyer en masse comme font les
+grandes boîtes et comme moi je suis une
+start-up et que je suis cool et que
+machin ils vont parler de moi que vous
+êtes pas une grande boîte personne va
+parler de vous et vous allez arriver le
+jour du lancement avoir lancé vos
+communiqués vous allez dire merde il y a
+personne qui est venu sur mon site alors
+qu'en fait mon objectif c'était 10
+j'aurais pu le faire autrement et donc
+ça c'est ça c'est vachement important
+d'essayer de se de d'ê d'être totalement
+réaliste par rapport aux objectifs qu'on
+s'impose parce qu'en fait ce qui est
+important c'est de se dire bon ok j'ai
+trouvé facilement comment en une journée
+faire 10 sur une semaine bon bah ce truc
+pendant que je peux le faire je continue
+à le faire donc chaque semaine je fais
+des petits Meetup par exemple et puis à
+ça dans la semaine j'ai un peu de temps
+quand même en général les semaines sont
+assez longue qu'est-ce que je vais
+pouvoir mettre en place et donc là faut
+réfléchir à d'autres outils est-ce que
+je vais de par mon groupe facebook faire
+des choses est-ce que voilà et et
+aujourd'hui par exemple sur bunker on a
+dépensé 0 € en communication enfin en
+tout cas en marketing communication fait
+des choses ça c'est la communication ça
+nous coûte de l'argent un peu et ça
+c'est quelque chose qu' qu'on a envie de
+garder aussi longtemps c'est de se dire
+faut qu'on arrive à trouver des leviers
+suffisamment malins à chaque étape de
+notre croissance qui font que on
+dépensera pas d'argent là-dessus parce
+qu'en plus si on a une vision forte et
+qu'on résout un problème les gens pass
+passeront le mot aujourd'hui tout le
+monde sait que l'aspirine ça sert à
+guérir les mals de tête si nous demain
+on sert à guérir le problème de powerp
+tout le monde dira à son pote ah bah tu
+vois tu peux utiliser bunker on s on s
+on s'est basé sur des exemples assez
+simples en fait moi quand je suis arrivé
+quand on a commencé
+bunker j'ai j'ai eu quand même un gros s
+un peu lancé dans le vide et et moi
+j'étais un peu stressé par le fait de me
+dire ok c'est j'ai bossé pour des
+grosses marqu je fais des trucs cool
+j'étais content de ça et là d'un coup je
+me dis ok je monte ma marque et la
+différence fondamentale avec mon job
+d'avant c'est plutôt que de bosser sur
+des budgets entre 100 et 1 million
+d'euros de communication
+là d'un coup j'ai rien c'est pas genre
+un peu c'est rien du tout donc c'est ça
+qui est important à chaque fois bien se
+positionner et dire ok comment on fait
+des choses avec rien et the family c'est
+le meilleur exemple par exemple ils
+arrivent à faire énormément énormément
+énormément de choses en réfléchissant à
+des choses et ça c'est c'est con mais si
+vous avez une tête bien faite vous allez
+rapidement trouver des leviers tout bête
+pour faire des choses qui vous coûteront
+rien parce que dès lors que vous mettez
+de l'argent dans la machine à
+communication vous l'enlèverai jamais et
+donc à partir de de là ben finalement
+c'est deargent que vous mettez pas dans
+votre produit et pour nous c'est
+pas c'est pas une bonne méthode on est
+convaincu que si on trouve une vraie
+solution à un problème qui compte pour
+les gens et qu'on a une place dans cette
+société parce qu'on accompagne les gens
+au quotidien ça ça va partir tout seul
+ici personne a vu une pub de Facebook
+pour s'inscrire sur facebook je pense
+que vous y êtes tous je pense que vous
+avez jamais vu de pub de Dropbox pour
+vous faire un compte Dropbox et je pense
+que vous y êtes tous posez-vous les
+bonnes questions de ces gens-là euh
+comment ils ont fait comment ils sont
+posés pour pour grossir et ça n'empêche
+pas de faire des billions de dollars
+compagnie euh après si vous avez envie
+de de si finalement votre produit peut
+pas fonctionner tout seul parce que vous
+arerez pas à véhiculer du bouche à
+oreille autour de ça vous avez
+posez-vous la question de quelle place
+il a et quelle valeur il apporte ça
+c'est quelque chose qui qui est
+vachement important et et moi qui bossé
+pour pour des grosses marques ça c'est
+quelque chose qui m'a beaucoup frustré
+c'est que quand on bosse que sur la
+partie communication
+finalement on identifie des choses parce
+que nous on est au contact avec le
+finalement le client et la cible et on
+identifie des choses qui ne sont pas
+relatifes à la communication sont
+souvent relatif au
+produit et la grosse frustration des
+gens dans dans les agences de
+communication c'est que finalement pour
+faire changer la marque la notoriété
+l'envie d'aller vers elle bah il
+faudrait changer le produit sauf que
+nous on peut pas toucher à ça donc
+comment on fait bah finalement on touche
+les gens par des budgets médias qui vont
+être de plus en plus élevés qui aont des
+impacts de moins en moins
+donc posez-vous les bonnes questions sur
+l'acquisition allez chercher les bonnes
+personnes là où elles sont et surtout
+faites-les par rapport à vos objectifs
+essayer de découper tout ça dans des
+objectifs atteignables ou parce qu'en
+fait il y a rien de pire que que de dire
+je veux être à 50000 dans 6 mois et puis
+bon on va le premier jour on en a pas
+beaucoup on sait pas trop ce que ça
+représente puis un peu un peu mieux
+après et puis un peu moins et puis et
+puis on sait pas si on est dans les
+clous pour arriver à 50000 et puis on se
+dit toujours ouais mais non parce que là
+de toute façon j'ai un nouveau lancement
+d'un nouveau truc qui va cartonner donc
+ça va marcher problème de faire ça c'est
+que bien souvent ce qu'on a en tête est
+ce qu'on a l'impression que ça va
+dégager pour les gens ça fait souvent
+flop et ça c'est une réalité donc donc
+essayez d'aller petit à petit et de
+rassembler les gens autour de vous
+autour de votre marque autour de votre
+projet on n pas vraiment de de de de
+méthode pour recruter on fait surtout
+appel à notre réseau
+principalement parce qu'on pense que
+déjà pour recruter des
+gens sur des métiers clés il va falloir
+qu'on ait une certaine affinité avec eux
+et qu'il se passe quelque chose d'humain
+pour l'instant les gens qu'on a qu'on a
+recruté c'est des gens qui qui qui
+gravitait autour de nous après il y a
+quelque chose qui a été très très
+important pour identifier si le profil
+collé à bunker ou pas parce qu'on a fait
+une erreur de de recrutement euh c'est
+de poser au clair les valeurs qui qui
+qui structurent bunker quand vous montez
+votre boîte euh vous et vos associés
+vous avez des valeurs que vous partagez
+souvent mais sont des non dit vous avez
+pas besoin de vous dire nous on est des
+guerriers parce que ça fait partie de
+vous donc tous les jours vous levez vous
+avez envie de tuer powerpt et vous avez
+pas besoin de le dire de l'écrire sur
+papier parce que ça fait partie de vous
+et il y a plein d'autres valeurs qui qui
+qui vous
+correspondent et au début on s'est dit
+ce qui est important pour recruter
+quelqu'un c'est ses compétences c'est
+que ce soit le meilleur parce que si
+c'est le meilleur forcément il
+s'adaptera à nous et donc du coup il va
+nous apporter beaucoup et on s'est rendu
+compte que ça suffisait pas parce que
+c'est c'est comme un ami si il est votre
+ami c'est pas juste parce que il est
+brillant dans quelque chose c'est
+surtout parce que vous partagez beaucoup
+de choses vous allez faire des choses
+ensemble vous allez rire sur les mêmes
+blagues vous allez pouvoir échanger le
+midi à la cafète ou des choses comme ça
+et surtout quand vous êtes une start-up
+où vous comptez pas votre temps vous
+allez surtout passer beaucoup beaucoup
+beaucoup de temps ensemble et et c'est
+très dur de passer beaucoup de temps
+avec avec des gens et plus vous allez
+avoir des caractères tremppés plus ça va
+être dur de passer du temps avec
+beaucoup de personnes on a pris une
+journée entière pour poser ce qui est
+beaucoup en tant start-up une journée
+entière c'est pour ça que je marque je
+marque le mot pour poser les valeurs de
+les valeurs de notre boîte et ça c'est
+quelque chose qu'on a mis publiquement
+en ligne aujourd'hui on a cinq valeurs
+qui structurent de A à Z ce ce SK bunker
+et surtout ce qui nous structure
+nous pour juste faire en sorte que les
+gens qui arrivent là c'est ils partagent
+ces valeurs là aujourd'hui les valeurs
+de bkerur sont simple la première chose
+c'est qu'on est une équipe on s'est
+rendu compte de ça assez tard mais c'est
+quelque chose qui qui est là depuis le
+début c'est que comme le disait Alice on
+se marche pas sur les pieds donc on a
+tous un peu notre rôle et donc à partir
+de là chacun a son poste chacun a son
+but et dans une équipe de foot un
+gardien va pas avoir le même rôle qu'un
+défenseur on demandera pas les mêmes
+choses au aux mêmes gens ce qui est
+important dans cette équipe c'est qu'on
+se sert tous les coudes on est tous là
+pour le même but on avance tous dans la
+même direction nous en l'occurrence
+c'est pour tuer pour punt et ça faut
+qu'on le partage dans une équipe s'il y
+a quelqu'un qui partage pas ça qui tous
+les jours va à l'entraînement et se dit
+ouais mais non de toute façon on gagnera
+jamais le championnat j'y crois pas les
+mecs qui sont là ils sont pas bons vous
+gagnerez pas le championnat pas parce
+que les mecs qui sont là sont pas bons
+parce qu'il y en a un qui est là et qui
+croit pas ce qui est important dans une
+équipe c'est que quand le jour où il y a
+quelqu'un qui est moins bon les mecs se
+regagent pas en disant ah ouais lui il
+est moins bon c'est que les mecs il
+viennent l'aider à débugger son truc
+améliorer son truc et ça c'est important
+pour nous on s'en est rendu compte très
+vite parce que c'est comme ça qu'on
+fonctionne qu'on fonctionnait dès le
+début nous 3 c'est que même si moi je
+développe pas on se posait on essayait
+de réfléchir intellectuellement à
+comment on pouvait trouver une solution
+technique à ça et ça pareil dans le côté
+équipe c'est que on a tous la curiosité
+intellectuelle de se dire je m'intéresse
+à cette personn là même si elle fait pas
+les même chose que moi et ça c'est des
+choses aussi qui des fois gangrainent
+les les les boîtes c'est que il y a a un
+clivage entre les profils tech et les
+profils Market et vous de toute façon
+vous êtes des vendeurs de tapis et vous
+de toute façon vous êtes des mecs qui
+écrivent des liges de code et qui
+sortent jamais de votre vie de devant
+votre PC et ça c'est c'est une
+catastrophe de penser ça parce que là on
+est en train de jouer en haut niveau
+contre Google Apple Microsoft si je
+commence à penser ça des mecs qui sont
+dans mon équipe on nrivera pas à avancer
+et donc ça c'est la première la première
+couche la deuxième couche c'est qu'on
+est une équipe de guerriers ça c'est
+quelque chose qui qui nous caractérise
+aussi on est prêt à à se battre pour
+atteindre notre objectif et on nhésitera
+pas à à mourir pour y arriver on a aucun
+scrupule avec ça pour nous on est en
+mission on part en guerre contre ces
+géants là et la métaphore qu'on a
+souvent c'est si si on prend David et
+Goliath on on a pas de souci à David et
+donc dans ce combat on est convaincu que
+on aura peu de chance de lancer la
+pierre on a peu de chance qu'elle arrive
+sur la tête de
+Goliath mais on est convaincu qu'on va y
+arriver et si on n pas cette mentalité
+de guerrier s'il y a quelqu'un dans
+l'équipe qui à un moment donné peut se
+dire non finalement les mecs c'est des
+fous qui pensent que ils arriveront à
+faire ça ça marche pas sil y a quelqu'un
+qui croit pas à ça dans l'équipe on a
+aucun scrupule à lui dire tu fais plus
+partie de l'équipe ça c'est très très
+important alexis est très très bon pour
+ça Alexis c'est notre c'est notre
+guerrier en chef euh alors je vous
+invite à aller voir la presse parce
+qu'en fait nous on adore les films et
+quand on quand on a commencé à bosser
+sur les valeurs à chaque fois qu' avit
+qu'il y avait une valeur qu'on voulait
+exprimer on rattachait ça à un film qui
+nous parlait on dit on veut être ce mec
+là de ce film là donc pour l'équipe
+c'est l'enfer du dimanche si vous
+regarder ce film avec le speech
+d'alpacino qui est une scène mémorable
+où il arrive à ressusciter une équipe
+d'un collectif qui est totalement
+dissocié euh donc ça ça ça ça nous parle
+beaucoup pour l'esprit guerrier bon bah
+c'est les 300in si vous voyez la photo
+d'Alexis vous verrez pourquoi la
+métaphore est est assez bonne et ça
+pareil dans dans cette dans cette idée
+là de de de de de
+300 on pense que faut que tout le monde
+soit à son poste de guerrier il faut pas
+que il y a des potiers qui viennent
+meubler l'équipe je sais pas si vous
+vous rappelez de cette scène là où où il
+y a les Alliés je sais plus c'est quelle
+c'est quelle population qui arrive et
+qui leur
+disent mais vous êtes fous vous êtes
+venus à 300 même nous on est plus que
+vous notre armée est plus grande il lui
+dit c'est quoi le métier de c'est quoi
+ton métier toi il dit je suis potier
+c'est quoi ton métier moi je suis
+forgeron c'est quoi et il pose la
+question à ses troupes et il lui fait
+vous et nous c'est quoi notre métier les
+mecs font W ou et et à ce moment-là il
+regarde et lui dit tu vois je suis venu
+avec plus de guerriers et c'est ça qui
+est important chez nous c'est que faut
+que tout le monde soit dans cette
+dynamique là ce qui est aussi important
+de comprendre dans les valeurs c'est que
+si ça ne matche pas c'est pas grave
+chaque entreprise a ses valeurs il y a
+de la place on est convaincu qu'il y a
+de la place pour tout le monde dans les
+entreprises mais pour autant les gens
+qui rentrent chez nous faut qu'ils
+soient dans cette dynamique là parce que
+même eux à un moment donné ils vont
+imploser c'est ce qui s'est passé avec
+un un de nos employés au
+début on est multiculturel dans notre
+approche et ça a toujours été le le
+quelque chose de fort chez bunker c'est
+que tout le monde nous disait [ __ ] les
+gars vous êtes à Paris lancez votre
+boîte à Paris parce que c'est là où il y
+a l'émulation vous allez pouvoir enfin
+sortir de de ça et grossir dans le monde
+parce que Paris c'est mondial nous on
+s'est dit non c'est une connerie
+franchement vous vous savez exactement
+où sont les locaux de de Dropbox de
+Facebook de buffer de tout ça non
+personne sait on sait qu' sont aux
+États-Unis ou n'importe quoi mais ça
+nous intéresse pas plus que ça et nous
+on était convaincu que depuis ran avec
+une connexion Internet on on arriverait
+à lancer quelque chose de mondial et
+donc dès le début on a eu cette cette
+envie de communiquer de façon en anglais
+pour dire voilà c'est la langue c'est la
+langue du web finalement l'anglais et et
+dès le début on s'est dit faut qu'on
+arrive à toucher des médias
+internationaux faut qu'on arrive à
+intéresser des gens à l'international
+faut qu'on arrive à développer un
+programme ambassadeur à l'international
+parce que nous notre volonté c'est pas
+de faire le le powerp killer de la
+France si demain tous les Français
+utilisent bunker plutôt que powerpt ça
+nous fait de belles jambes mais c'est
+pas très très intéressant nous si on
+s'attaque au problème ça doit être une
+solution pour le monde entier il y a
+plus de frontière aujourd'hui quand vous
+utilisez Facebook vous dites pas V non
+ser bien que j'utilise le facebook
+français pour être non foutez parce que
+demain vous allez voyager vous allez
+rencontrer des gens euh espagnols
+américain brésilien et vous allez avoir
+envie de partager sur le même réseau
+donc là c'est pareil et il y a aussi une
+logique d'acquisition qui est qui est
+qui est beaucoup plus simple c'est de se
+dire si vous focalisez sur un marché euh
+très local bah d'un coup avoir 10000
+mecs c'est compliqué parce que c'est un
+pourcentage énorme de cette population
+locale alors que si vous focalisez sur 2
+milliards d'internautes
+d'un coup finalement 50000 pas
+grand-chose donc c'est ça qui est
+intéressant c'est toujours arriver à
+mentalement s'enlever des barrières si
+vous dites il me faut 60000 personnes en
+France sur 60 millions tout de suite ça
+fait un gros pourcentage dans le monde
+c'est rien et c'est ça qui est important
+et et donc dès le début contre Vance
+desmaré on s'était dit on s'en fout on
+va vous montrer un peu comme le prix on
+va vous montrer qu'on arrivera à faire
+un business à l'international et
+aujourd'hui la France c'est 10 % de nos
+utilisateurs donc nous c'est ce qu'on
+dit aux gens on s'en fout fou de la
+France gens qui me disent ouais ce
+serait bien que vous ayez des
+commerciaux pour vous déplacer pour
+machin mais pourquoi me déplacer enfin
+me déplacer dans 150 pays comment je
+fais des commerciaux je je non moi je me
+déplace par internet c'est beaucoup plus
+simple donc ça c'est la troisième valeur
+et ensuite les deux autres valeurs sont
+beaucoup plus sur l'aspect des
+compétences euh la première chose c'est
+qu'on essaie toujours de cultiver
+l'excellence de ce qu'on fait et ça
+c'est important les gens qu'on recrutent
+il faut qu'ils aient au moins cette
+petite touche d'arrogance qui fait
+qu'ils sont convaincus qu'ils sont les
+meilleurs dans leur domaine
+parce que parce que nous ça nous fait
+avancer tous les jours on est convaincu
+que sur certains points on est très bon
+c'est pas de l'arrogance c'est juste qui
+fait que tous les jours on est convaincu
+que face au soldat d'en face on arrivera
+à les battre donc ça c'est ça c'est
+important quelque chose qui fait partie
+du du du aussi de des valeurs d'avant et
+la dernière partie c'est que rien n'est
+impossible chez nous c'est c'est ce qui
+on l'a mis parce que finalement on s'est
+rendu compte que que ça matchait pas
+avec un de nos employés parce qu'il
+avait dit ça voilà moi j'arriverai pas
+c'est impossible de faire ça ce que vous
+faites c'est impossible rien n'est
+impossible euh si c'est si tout était
+impossible dès le début tous les gens
+qui nous avait dit concurren et powerp
+c'est impossible on aurait arrêté dès le
+premier jour donc c'est quelque chose
+qui est qui est intégré à nous rien
+n'est impossible alors il a des niveaux
+de difficulté plus ou moins dur ce qui
+va juste vous demander c'est de l'argent
+euh des moyens humains et trouver la
+bonne personne pour le faire j'entends
+quelqu'un qui me dit là franchement ce
+sujet là c'est sujet d'un expert euh
+pour développer tel truc truc moi j'y
+arriverai pas par contre ça va nous
+coûter tant et il y a tel mec j'ai
+regardé qui sait le faire j'ai vu sur
+gthub il a fait des des des déposites
+sur ce truc le mec est calé faut qu'on
+le contacte et ça c'est une façon de
+voir que tout est possible et ça c'est
+important parce que c'est ce qui nous
+fait avancer tous les jours c'est ce qui
+fait que tous les jours on se réveille
+pas en disant finalement il y a un truc
+dans notre boîte qui est impossible on
+arrivera jamais ah bah non en fait il y
+a aussi ça qui impossible et puis ça et
+c'est ça c'est ce qui fait
+qu'intellectuellement on arrive jamais
+qui fait que tous les matins on se lève
+et que je dis ok on avance un peu plus
+voilà les valeurs de bu et ça ça nous
+aide beaucoup à structurer et
+aujourd'hui toutes les semaines on
+reçoit 15 candidature juste parce que
+les gens sont tombés sur cette page là
+il j'adore votre philosophie de boîte
+génial ça 15 candidatures par semaine
+ouais donc ça c'est cool et des gens du
+monde entier plein de gens qui disent je
+suis brésilien vous êtes o aux
+États-Unis ah non en fait on est en
+France on est à rang me SAV même pas où
+c'est et ça c'est intéressant et donc là
+c'est ça qui est cool c'est qu'on se dit
+ça marche on a
+faire véhiculer nos valeurs point sur ce
+point bon bravo mec merci
+[Musique]

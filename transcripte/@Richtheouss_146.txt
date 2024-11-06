@@ -1,0 +1,1270 @@
+pour passer d'un bon produit à un
+produit qui a un product market fit à un
+produit vraiment exceptionnel ça demande
+de savoir itérer de la meilleure manière
+possible le plus vite possible et
+constamment pour ça on a vu un peu
+comment faire au sein du feedback loop
+dans l'épisode 5 mais maintenant il faut
+qu'on arrive à organiser ce travail là
+pour qu'il soit le plus efficace
+possible je pense que c'est important de
+d'abord comprendre ce qu'il contient et
+ensuite de savoir l'organiser
+la première chose dont je veux parler en
+terme d'organisation c'est du principe
+de sprint des sprints en gros c'est des
+sessions de travail qui vont durer une
+un temps donné dans lesquel on va
+décider de faire faire certaines choses
+et ne jamais sortir de ces choses-là
+pendant une durée donnée en terme de
+rythme c'est différent en fonction des
+produits que tu vas créer si tu crées un
+produit software
+logiciel tu vas avoir des sprints qui
+vont durer en général 2 semaines une
+semaine ou deux alors que si tu crées un
+produit hardware tu vas avoir des
+sprints qui sont beaucoup plus longs et
+qui te permettent en fait de créer des
+choses que tu vas pouvoir bah ensuite
+modéliser puis créer puis usiner et
+cetera donc ça va prendre prendre plus
+de temps de faire un seul sprint mais
+par contre la logique d'organisation
+reste la même dans cet épisode on va
+parler de software on va parler de la
+manière dont on gère une équipe produit
+si on a un logiciel déjà parce que c'est
+plus facile conceptuellement de
+s'imaginer à quoi ça ressemble
+d'améliorer un un logiciel et aussi
+parce que c'est ça que je sais faire
+j'ai jamais fait de hardware et qu'au
+final c'est plus facile de vous montrer
+ce qu'on peut faire chez coup d'État par
+exemple donc on parle de logiciel mais
+bon tu peux partir du principe que c'est
+la même chose en en produit physique
+juste sur des durées différentes si on
+fait des sprints c'est parce qu'il faut
+arriver à alterner entre planification
+et exécution parce qu'en fait c'est très
+difficile de passer de l'un à l'autre
+régulièrement dans le sens où la
+planification est hyper cérébrale c'est
+quelque chose de c'est un exercice
+intellectuel alors que l'exécution est
+quelque chose de plus concret finalement
+et passer de l'un à l'autre c'est un peu
+ang démon c'est un pe à l'opposé et
+c'est très facile en fait de se perdre
+et de dire je vais commencer à
+construire ce truc je vais commencer à à
+coder ce truc par exemple et ensuite de
+se dire ah il y a une autre opportunité
+je vais y passer et donc au final de
+jamais rien réussir à exécuter le mieux
+pour illustrer ça c'est de vous
+expliquer comment on fait chez coup
+d'État pour organiser le développement
+du produit et comment on fait pour
+travailler le plus vite possible et le
+mieux possible yo du coup bah nous chez
+coup d'État on doit aussi se gérer ce
+problème de dire bah comment est-ce
+qu'on arrive à va faire ce tradeoff
+entre planification donc quelque chose
+qui dépend de l'idée qu'on a en interne
+de son produit et son avenir qui est
+forcément quelque chose de très
+ambitieux et très lourd à développer et
+l'impératif de sortir des améliorations
+les plus rapidement possibles sur ton
+produit donc pour ça on s'appuie sur
+deux choses la première c'est les
+Insight utilisateurs donc quiattendre
+mes uateurs quelles sont leur
+frustration premières et enfin euh
+comment est-ce que les les changements
+que je apporter à mon produit vont
+débloquer ma boîte d'un point de vue
+stratégique c'est ce qui te permet en
+fait d'évaluer le le le rapport entre la
+valeur qu'un qu'une nouvelle feature ou
+l'amélioration d'un d'une fature
+existante apporte versus le coût que ça
+a donc en gros le temps et les personnes
+qui sont mobilisées pour développer ce
+truc et en fait comme ça si tu fais cet
+exercice à des intervalles les plus
+réguliers et les plus resserré possible
+tu t'assures à tout moment de ne
+travailler que sur le sujet le plus
+important dans ta boîte et euh c'est
+pour ça qu'en fait on s'organise en
+sprint donc un sprint euh ça dure entre
+une et 3 semaines généralement c'est
+deux et le but c'est de se dire ok on a
+euh on a analysé euh des choses sur nos
+les besoins de nos clients euh nos
+besoins stratégiques et on sait qu'il
+faut qu'on attaque tel problème et donc
+ensuite on va se dire ok il faut qu'à la
+fin de ces de semaines on est résolu ce
+problèmel euh et qu'on ait développé les
+features nécessaires pour ça ça impose
+quoi ça impose que euh tu sais que tu
+dois délivrer une
+valeur concrète à tes users en 2
+semaines et pas te dire ah j'ai fait la
+première partie d'un d'une feature
+beaucoup plus grosse qui en fait verra
+le jour que dans 3 mois et donc en fait
+j'ai rien apporté en en de mois de
+visible côtéur donc ça c'est vraiment la
+clé du fonctionnement sprint c'est de se
+dire au bout de de semaines il faut
+qu'il y ait quelque chose de livrable
+qu'on appelle en général une User Story
+c'est-à-dire en tant que user je peut
+faire
+nana et donc ça c'est une User Story et
+le fait de garder ça à l'esprit ça fait
+que à la fin tu as forcément développer
+quelque chose qui a amené de la valeur
+aux gens et donc comment est-ce que tu
+organises ça en interne donc tu
+priorises pour faire toute la déterminer
+en fait qu est la prio de ta boîte d'un
+point vue produit à l'instant T ensuite
+tu tu imagines donc des différentes
+solutions produits au problème que tu
+veux résoudre euh et tu optes pour la
+version la plus minimale possible
+pourquoi parce parce qu'en fait tu
+manqueras forcément de temps dans ton
+sprint c'est une une constante absolue
+on essaie toujours de mettre trop de
+choses dedans donc tu tu coupes le
+maximum possible pour arriver vraiment à
+l'essence de ce qui va résoudre ton
+problème et en fait tu le sors et quand
+tu le sors tu vas apprendre des choses
+qui vont permettre d'itérer dessus
+beaucoup plus vite que si tu avais passé
+de semaines ou 3 semaines de plus à
+essayer de l'améliorer isoler en local
+donc en fait c'est c'est que du bénéfice
+le sprint ça te force à délivrer la
+valeur rapidement est directement
+perceptible par tes users et en plus ça
+t'amène à itérer beaucoup plus vite
+dessus bah merci
+[Musique]
+beaucoup alors des outils pour organiser
+tes sprints il y en a vraiment beaucoup
+parce que c'est un gros marché le marché
+des product manager et de tous les gens
+qui veulent organiser leur travail en
+produit en dev et cetera donc il y a
+énormément de boîtes qui sont venu se
+mettre sur le marché pour créer des
+outils qui te permettent de t'organiser
+mieux et de d'optimiser un peu la
+vitesse de développement que tu as et
+tout ce que bah toute ton organisation
+finalement aujourd'hui j'ai envie d'en
+montrer quelques-uns on va pas faire un
+tour d'horizon de tout ce qui existe
+parce qu'il y en a vraiment beaucoup et
+je pense que le choix de cet outil il
+doit se faire un peu arbitrairement au
+final il y a un feeling avec certains
+outils que tu as probablement pas avec
+d'autres il y a certaines personnes qui
+vont être plus sensibles au design
+certaines personnes qui vont être plus
+sensibles la tech il y a des situations
+de ux qui vont être différentes en
+fonction des outils bref l'idée
+aujourd'hui c'est de vous en montrer
+deux donc un premier qui est celui qu'on
+utilise chez coup d'État actuellement
+qui s'appelle notion et un deuxième que
+on utilisait en fait dans ma précédente
+boîte chez MEnu nextdor en produit qui
+s'appelle pivotal tracker l'idée d'un
+outil d'organisation et de et de gestion
+des sprints elle est toujours la même
+c'est qu'en fait il va falloir organiser
+ce qu'on va faire pendant le sprint
+pouvoir le classer correctement et
+pouvoir avoir une vision claire de ce
+qui est en train de se passer de ce qui
+est en train d'être développé à la fois
+pour que la team de dev et la team te de
+de personnes qui sont en produit sachent
+sur quoi bosser et une todo liste claire
+et qu'elles aient le moins
+d'aller-retour à faire possible avec le
+product manager mais aussi pour que le
+product manager puisse communiquer au
+reste de l'équipe ce qui est en train
+d'être développé c'est important parce
+que ça fait partie de la cohérence d'une
+équipe je parle d'équipe parce que
+souvent on utilise ces outils là quand
+on est plusieurs parce que ça permet de
+communiquer plus efficacement et d'avoir
+un point commun auquel se raccrocher je
+pense que quand tu es tout seul c'est
+pas nécessaire forcément d'avoir ça ça
+peut très très bien marcher avec des
+postites même quand tu es pas beaucoup
+dans l'équipe ça peut très bien marcher
+avec juste des postites et et reproduire
+en fait ce qu'on va avoir dans ces
+outils là mais en attendant je pense que
+c'est pas mal de se discipliner et de
+d'avoir un outil quand même parce que ça
+te permet aussi de dès que tu as une
+idée pouvoir l'écarter de ta tête et de
+pouvoir la mettre sur un outil et
+pouvoir y revenir plus tard bon du coup
+on y va no ch no ch c'est le premier
+outil dont on va parler
+notion c'est donc c'est dispose sur le
+site
+notion.so l'idée de notion c'est que ça
+te permet d'avoir un espace de travail
+qui va être commun à toute ton équipe
+peu importe leur métier peu importe ce
+qu'ils font tu vas pouvoir trouver
+l'information qui est nécessaire dans
+nos chînes chez coup d'Éat on s'en sert
+pour énormément de choses on s'en sert
+par exemple pour organiser nos tâches de
+la semaine c'est ce qu'on voit ici voilà
+où on en est ce qu'on veut faire et
+cetera on s'en sert pour prendre des
+notes de réunion parce que ça te permet
+de créer des documents qui sont hyper
+complets de faire des sous-pages de
+faire des sous-catégories en gros tout
+marche au drag and drop donc tu peux
+vraiment déplacer les trucs d'un point à
+l'autre et cetera on s'en sert
+évidemment en produit c'est ce dont on
+va parler là on s'en sert pour en fait à
+peu près toutes les choses qu'on fait
+dès qu'on a besoin de noter quelque
+chose quelque part on ça va dans nos
+chaînes c'est vraiment hyper efficace ça
+sert pas juste à prendre des notes ça
+sert aussi à organiser des opérations
+parce qu'on va voir que ce le fait queon
+puisse drag and droer à peu près tous
+les contenu dans nos chaînes d'une page
+à l'autre c'est hyper pratique
+concentrons-nous du coup sur
+l'organisation de euh la du
+développement du produit en
+développement produit on a plusieurs
+choses qui sont utiles en terme de page
+de nos chaîne qu'on a créé déjà la
+première c'est les observations donc
+dans les observations on note toutes les
+les choses qu'on a pu observer du coup
+dans dans nos relations avec les
+utilisateurs dans les tests utilisateurs
+qu'on a pu faire et cetera donc ça c'est
+c'est intéressant mais c'est pas
+organisé du tout c'est vraiment de la
+prise de notes pure ensuite il y a une
+deuxième page qui s'appelle sprint c'est
+celle qui va nous intéresser en premier
+lieu en fait en sprint et ben on on on
+essaie donc tu vois jusqu'à maintenant
+donc depuis que Thomas est arrivé au
+produit on organise ça en sprint et en
+gros euh l'idée c'est que là donc on en
+a fait cinq jusqu'à maintenant et donc
+comme on le voit chaque sprint a un
+titre ici euh sprint 001 c'était le
+lancement d'en one can scale donc notre
+formation euh pour permettre au aux PME
+et au business de service de pouvoir
+scaler euh c'était lancement donc il y
+avait tout tout à développer par rapport
+au lancement ensuite le de c'était
+vendre plus des new one can scale on a
+un sprint qui s'appelle Tunas où on a
+optimiser en fait les contributions et
+cetera mais voilà on a un sprint édition
+de contribution mensuelle et on a un
+sprint préparation commentaire bon ça
+c'est c'est genre à l'heure où on fait
+cette vidéo c'est quand même plutôt
+secret voilà qu'est-ce qui est important
+là-dedans c'est qu'en fait chaque sprint
+a un titre et un objectif qui est clair
+genre VO voilà ce qu'on fait pendant ce
+sprint ça empêche pas de rajouter des
+petites choses à droite à gauche qui
+vont pas rentrer dans le scope général
+du sprint mais en attendant ça nous
+permet de savoir cette semaine là voilà
+ce qu'on a fait et de pouvoir revenir
+par la suite sur les métriques pour voir
+si l'impact qu'on voulait avoir a
+vraiment eu lieu et après bon on se
+prend pas la tête on a un sprint qui
+s'appelle Tunas quoi genre vraiment
+c'est on n'est pas en train de chercher
+midi à 14h le but c'est vraiment juste
+d'avoir un truc clair sur lequel on peut
+tous se mettre d'accord et que toute
+l'équipe comprend si on rentre dans le
+détail d'un sprint donc le sprint en
+cours c'est celui de la préparation des
+commentaires donc on va inclure la
+communauté dans le produit maintenant
+pour que vous puissiez commenter et
+apporter de la valeur aux autres gens
+qui regardent coup d'État l'idée c'est
+que dans un sprint on va avoir tout un
+tas de tâches qui sont décomposées en
+cartes qui sont à faire en gros donc en
+début de sprint on va dire voilà ce
+qu'on va faire on va prendre les
+décisions et ensuite on va toutes les
+mettre dans la colonne no status donc
+ici on voit qu'il y en a encore
+quelques-unes tant que c'est dans la
+colonne no States ça veut dire dire
+qu'on n pas déterminé combien de temps
+ça allait nous prendre et combien de
+ressources et donc en fait c'est
+important de faire ce travail là au fur
+à mesure de ton sprint dans l'idéal tu
+le fais au début là on va voir que bah
+en terme de d'organisation produit on
+n'est pas forcément dans dans l'idéal et
+en même temps bah enfin je pense qu'il y
+a pas beaucoup de team produits qui sont
+vraiment au top du top hyper organisé
+genre il y a toujours des problèmes
+genre là je vous donne des conseils mais
+il y a toujours des problèmes en fait
+liés à l'organisation et c'est normal
+parce qu'on veut aller le plus vite
+possible il y a pas de de faut pas avoir
+honte de ça genre on peut pas être tout
+le temps parfait être tout le temps
+comme dans les livres par contre euh
+c'est important d'avoir un minimum
+d'organisation donc ce qu'on fait c'est
+qu'on met d'abord tout dans la colonne
+no stages jusqu'à ce qu'on ait défini
+combien de temps ça allait nous prendre
+de réaliser une tâche donc par exemple
+ici on voit qu'il y a une tâche bouton
+de partage LinkedIn ça implique de
+développer du front donc de développer
+du du design vraiment de l'interface et
+du bac parce que il y a forcément des
+trucs à à faire en logique derrière la
+façade et en fait on peut ouvrir cette
+carte là et voir qu'il y a des
+commentaires donc là on dit que bah
+voilà on veut faire ce bouton là parce
+qu'il y a déjà des utilisateurs qui le
+font avec des screenshots et donc on
+explique un petit peu pourquoi et on
+peut venir et commenter et vraiment on
+peut discuter à plusieurs et en général
+on se pose tous autour on fait une
+petite réunion vite fait on se pose tous
+autour des cartes différentes et on dit
+ok ce trucl combien de temps tu crois
+que ça va nous prendre et on essaie de
+dire bah écoute
+il y a ça à faire il y a ça à faire ça
+va prendre tant de temps si on met un
+petit peu de marge et que on estime que
+ça va nous prendre un petit peu plus de
+temps que ce qu'on prévoit dans nos
+têtes normalement on devrait tomber
+assez juste sur notre estimation du
+temps de développement donc on peut le
+passer en tout doux une fois que tu as
+euh estimé le temps que ça allait te
+prendre de développer une des cartes tu
+la passes dans la colonne toutd et
+ensuite la colonne to do bah tu la vides
+et en fait tu la tu passes de Tod à In
+Progress tu passes de une progresse à
+tout stage donc stage c'est
+vraiment stage en fait c'est le c'est ce
+qu'on c'est mettre en staging et en
+staging en fait c'est une version du
+site qui est différente et qui nous
+permet de tester comme si c'était en
+live comme si c'était en production sur
+le site officiel mais c'est une version
+qui est pas disponible au public pour
+que nous on puisse tester et voir en
+situation réelle si tout fonctionne
+avant de déployer quelque chose qui ce
+qui potentiellement est cassé ensuite il
+y a toute la phase où c'est stage donc
+c'est en staging et tous les trucs qui
+ont été déployés pendant le sprint donc
+là on voit qu'on en a quand même pas mal
+dans le sprint actuel c'est tous les
+trucs qui sont finis et ils sont en
+production ils sont disponible sur le
+site et c'est bon l'idée donc c'est de
+d'abattre le plus de taf possible et
+d'aller le le plus rapidement possible
+donc ici si on regarde ici une vraie
+page profil et ben voilà on voit que là
+la tâche a été estimée donc on va avoir
+la liste des choses à faire la liste des
+choses qui sont importante dont il faut
+se rappeler quand on va développer la la
+la feater l'idée c'est dans dans C C
+cartes là et dans cette organisation là
+de manière générale c'est d'arriver à
+avoir des titres qui sont
+compréhensibles par vos parents en gros
+c'est vraiment ça c'est quelqu'un qui
+est complètement extérieur au business
+doit pouvoir venir et dire ok je
+comprends ce qu'il y a à faire là
+maintenant et ce qui est en train d'être
+fait dans le sprint actuellement
+implémenter une vraie page Profil c'est
+plutôt clair lancement travail espace
+commentaire c'est un petit peu moins
+clair bon Thomas va me détester mais
+mais mais en tout cas voilà on voit
+qu'il y a il y a des choses qui sont un
+peu plus claires que d'autres mais
+l'enjeu c'est de faire en sorte que le
+product manager ou la product manager de
+l'équipe en
+l'occurrence toi quand tu es au tout
+début et que tu et que tu travailles
+soit seul soit avec peu de personnes que
+tu puisses communiquer au reste de
+l'équipe ce qui est en train d'être fait
+à tout moment si quelqu'un te demande et
+que tu puisses avoir en tête tout ce qui
+se passe donc c'est intéressant d'avoir
+un outil comme celui-là maintenant dans
+l'organisation du sprint il y a d'autres
+choses qui viennent euh rentrer en
+compte dans nos chîn dans la partie
+produit on a d'autres pages que les
+pages de sprint on a les pages de
+feature request qui sont en fait la
+liste de tout ce qu'on de tout ce que
+les utilisateurs nous demandent donc ça
+c'est vraiment une page importante où
+dès que quelqu'un nous demande quelque
+chose hop on va le mettre dans la liste
+si on regarde à quoi ça ressemble c'est
+une grosse liste où on a à la fois nos
+propres idées qui viennent de nous euh
+et qui ont pas été demandé par la
+communauté et à la fois toutes les
+choses qui ont été demandées là par
+exemple on voit que avoir un résumé
+texte de l'épisode en dessous de la
+vidéo pour retrouver les infos sans
+regarder tout l'épisode il y a 16
+personnes qui nous ont demandé ça
+récemment et c'est probablement plus
+parce qu'on augmente pas toujours le
+compte mais en attendant voilà on a une
+une liste de ce qui nous a été le plus
+demandé et donc de ce qui est le plus
+prioritaire l'intérêt de cette page et
+l'intérêt de notion c'est que si on
+décide là maintenant de de développer
+cette feature là et ben j'ai juste à
+ouvrir produit sprint sprint actuel et
+en fait à glisser ici
+la carte directement dans le sprint 5 et
+donc quand je vais dans le sprint 5 hop
+ici on a avoir un résumé texte de
+l'épisode en dessous de la vidéo pour
+retrouver les infos sur regarder tout
+l'épisode et en fait ça nous permet de
+pas avoir à réécrire les cartes et ça
+nous permet de passer d'une page à
+l'autre et de dire ok bah ça on sait
+qu'on doit le faire les gens nous l'ont
+demandé hop ça part dans le sprint
+actuel et ça nous permet de faciliter
+vraiment l'organisation de nos tâches en
+début de sprint ensuite dans la partie
+produit il y a d'autres choses il y a
+tout ce qui est ingénierie donc c'est la
+même chose que les feature request sauf
+que ça a pas forcément une valeur
+directe pour le business par contre
+c'est des choses qu'on doit faire euh en
+en terme de Tech pour s'assurer que bah
+ça va ça va être propre et qu'on va
+pouvoir construire par-dessus donc par
+exemple on a des choses de de rapidité
+de chargement on a un projet
+potentiellement de déplac de changer de
+lecteur de vidéo pour passer à JW Player
+plutôt que sur Vimeo voilà c'est des
+idées qui sont là et il y a des moments
+où dans un sprint quand on a un petit
+petit peu d'espace on va se dire ok
+peut-être que là maintenant c'est le
+moment de faire ce truc là parce que on
+a eu des gens qui se sont plains parce
+que on se rend compte que ça affecte les
+performance du site c'est pas forcément
+le truc qui va changer la phase du
+business mais ça va nous permettre de
+construire sur une base plus solide ça
+veut dire que cette partielà
+ingénierie on essaie de la regarder le
+moins possible et surtout on essaie d'en
+inclure le moins possible dans les
+sprints mais on le fait quand c'est
+nécessaire quand ça nous empêche de
+construire quelque chose une couche de
+plus on le fait et ensuite ce qui est
+trop bien c'est que dans nos chaînes tu
+vas pouvoir vraiment avoir plein
+d'autres pages donc on a la liste de nos
+meeting produits avec les notes qui ont
+été prises au fur à mesure des meeting
+produits on va avoir les ressources avec
+toutes les tous les outils qu'on utilise
+donc voilà il y a ça c'est quand on don
+bord un nouveau développeur et ben on a
+juste à lui envoyer ça et il voit ce
+qu'il doit utiliser comme texte qu' doit
+installer comme chos voilà en vrai dans
+No ch tu peux vraiment rassembler tout
+ce dont tu as besoin pour que toute
+l'équipe soit au courant de ce qui se
+passe en terme de produit et c'est un
+outil qui est vraiment extrêmement
+performant après c'est l'outil qu'on
+utilise chez coup d'État parce que on a
+un peu d'affect avec le le le design et
+l'interface de cet outil là je trouve
+que la feature de drag and drop est
+absolument ouf et du coup bah on s'en
+sert vraiment tout le temps pas qu'en
+produit en plus donc ça nous permet
+aussi des fois de faire passer des
+choses de du contenu donc de toutes les
+vidéos qu'on produit de de ce dont
+Dimitri s'occupe à les choses en produit
+enfin voilà genre vraiment il y a
+énormément de trucs que tu peux faire
+avec nos chaînes ça vaut le coup d'y
+jeter un œil c'est assez simple à
+prendre en main et et c'est efficace et
+promis je suis même pas sponsorisé pour
+parler de tout ça maintenant qu'on a
+parlé de notion on va parler d'un autre
+outil qui s'appelle pivotal tracker et
+qui est en fait développé donc par une
+boîte qui s'appelle PIV votal et qui est
+un un outil de d'organisation de dev qui
+est peut-être un peu moins intuitif que
+noon ne peut l'être mais qui est quand
+même hyper performant et qui va t'aider
+en fait à à scaler la vitesse de ton
+travail grosso modo en tant qu'équipe
+produit donc dans P vattal tracker ça va
+marcher en fonction des projets donc
+c'est pas comme nos chaînes qui va
+rassembler vraiment l'ensemble des
+connaissances de la boîte c'est vraiment
+focus sur comment organiser tes sprints
+et le développement de ton produit ici
+donc on va créer un
+projet on va l'appeler test
+project donc voilà à quoi ça ressemble
+pivotal tracker en gros ça te permet
+donc de créer ce qu'on appelle des
+stories donc qui sont les cartes comme
+j'ai mon mon dans nos chaînes juste
+avant ça permet de créer des stories
+donc une story en général ça prend la
+forme de bah soit ce qu'on a vu dans nos
+ch c'estàdire une carte où on explique à
+peu près ce qu'on fait dans l'idéal une
+User Story donc vraiment le fait de
+développer un bloc qui va apporter de la
+valeur à un utilisateur ça s'écrit de la
+manière suivante on va dire en tant que
+en tant qu'utilisateur donc on commence
+par en tant que je peux
+regarder un épisode et le marquer comme
+vu afin
+de
+garder afin de garder une trace de ce
+que j'ai regardé ce qui est intéressant
+dans P battle tracker et qui n'est pas
+le cas dans notion c'est qu'il y a une
+notion de productivité et de vélocité la
+notion de vélocité elle est très utile
+en développement software parce qu'elle
+te permet de dire ok là j'ai j'estime
+que cette tâche là elle va me prendre
+soit zéro soit une soit deux soit trois
+barres tu peux changer l'échelle de ça
+enfin voilà mais si par exemple ici je
+décide que je peux regarder un épisode
+et le marquer comme vue ça va me prendre
+un certain temps je vais estimer le
+temps que ça va me prendre et je vais
+dire ok ça correspond à deux points une
+fois que j'ai je commence à développer
+cette User Story je clique sur Start une
+fois que j'ai j'ai fini de développer je
+clique sur Finish je dis que c'est bon
+je l'ai délivré et que je l'ai mise en
+staging donc c'est vraiment le process
+qu'on a vu avant et ensuite le Product
+Manager peut venir et dire ok j'accepte
+la feature est bonne pour moi ou je
+rejette je trouve qu'il y a encore un
+truc à modifier si tu rejettes tu vas
+pouvoir ajouter un commentaire pour dire
+pourquoi la personne qui développe la
+feature va pouvoir revenir dessus donc
+si je fais rejeter que je fais
+euh ça marche pas par exemple ce qui est
+un très mauvais commentaire et ben hop
+la personne qui développe la feature
+peut venir et cliquer sur restart redire
+finish redire deliver jusqu'à ce que
+laffature soit acceptée et ensuite elle
+passe dans toutes les features qui sont
+acceptés et on a accompli deux des deux
+points qu'on avait estimés ça permet
+quoi ça permet que dans le backlog donc
+le backlog c'est vraiment la liste des
+tâches à accomplir dans le backlog de
+l'itération actuelle donc là on parle de
+vraiment du feedback loop et de de la
+boucle générale ça te permet de regarder
+euh
+ok combien j'ai de choses à faire et pas
+seulement en terme de nombre de tâches
+mais en terme de point de temps de
+développement que ça va prendre et
+l'idée c'est qu'en fait pivotal tracker
+va créer des graphes à partir de de du
+nombre de points que tu abats par
+semaine et va estimer ensuite
+directement en fonction du nombre de
+points que tuassignes à une certaines
+carte combien de temps ça va te prendre
+de développer cette feature parce que il
+va dire ok en moyenne pour cette
+personne développer une feature qui qui
+coûte de points ça lui prend une journée
+donc là je vois que dans sa liste de
+tâches il a six featur qui coûtent de
+points donc je vais pouvoir lui afficher
+les dates auxquelles il va normalement
+devoir délivrer son travail et ça te
+permet en fait d'automatiser ça et
+progressivement l'outil apprend à
+connaître ton équipe à connaître les
+gens qui la composent à connaître leur
+vélocité de travail et te permet de toi
+agir directement sur la vélocité de
+travail de de des membres de ton équipe
+pour pouvoir les aider ensuite il y a
+une deuxième colonne qui est l'icebx
+dans laquelle tu vas mettre toutes tes
+idées qui sont pas à développer
+maintenant mais que tu pourras
+développer plus tard et ça te permet
+donc comme on fait dans No chaîne avec
+les feature request ou l'engineering de
+pouvoir drag and drop donc si là
+j'ajoute une story où je
+dis changer le player Vimeo ce qui Fa
+encore un très mauvais nom de de story
+je vais pouvoir le mettre dans LaBox ça
+me fait une espèce de grosse todo list
+je peux éventuellement déjà estimer le
+temps que ça va me prendre et quand on
+va organiser le sprint je vais pouvoir
+drag and drop la la story directement
+là-dedans jusqu'à ce que quelqu'un
+décide de soit l'estimer soit la faire
+qu'est-ce qu'il faut savoir à propos de
+ces deux outils ce qu'il faut savoir
+c'est que c'est très facile de se perdre
+dans ces outils là et d'essayer
+d'optimiser le temps de travail alors
+que c'est pas nécessaire au départ je
+pense que déjà prendre en main l'outil
+et s'en servir c'est intéressant je
+pense que que que ce soit notion ou
+pivattle tracker il faut apprendre à
+utiliser l'outil pour l'organisation et
+ensuite se servir des features un peu
+plus poussés pour bah essayer
+d'améliorer la vélocité de développement
+essayer d'améliorer tous ces trucsl mais
+en attendant faut surtout pas se perdre
+dans l'optimisation de cet outil là
+parce que ce qui compte c'est de
+développer des choses qui sont
+intéressantes pour tes utilisateurs et
+pas nécessairement de essayer d'avoir
+une équipe de dev la plus performante
+possible alors oui ça peut l'être mais
+en général c'est un un métier
+particulier on en parlera dans l'épisode
+7 en tout cas là je pense qu'avec ces
+deux outils là notion et P votal tracker
+tu as une bonne idée de ce qui se fait
+en terme d'organisation de sprint parce
+que tout se ressemble un autre truc qui
+marche très bien c'est très l il y a je
+connais des gens qui utiliseent to doist
+pour pour organiser leur sprint vraiment
+c'est c'est toi qui décide c'est très
+arbitraire passer du temps à choisir un
+outil plutôt qu'un autre c'est une perte
+de temps j'en suis absolument convaincu
+je pense qu'il faut choisir un outil et
+s tenir parce qu'en fait ça va pas
+impacter tellement ton business
+et et il faut avoir une certaine
+affinité avec l'interface de l'outil
+pour pouvoir l'utiliser je pense que
+c'est vraiment ça en tout cas apprendre
+à utiliser à utiliser ces outils là
+quand tu es tout seul ou quand tu es une
+petite équipe c'est très utile parce que
+ça va te permettre ensuite de pouvoir
+déléguer la gestion de l'équipe produit
+quand va venir le moment de le
+[Musique]
+faire bon ça c'est pour l'organisation
+en sprint l'idée de faire des sprints
+c'est que ça te permet en fait de voir
+assez
+rapidement l'impact qu'à ton travail sur
+l'amélioration de ton produit un truc
+qui te permet de voir ça aussi c'est de
+bien suivre l'évolution de tes mattrixes
+vraiment genre quand on parle
+d'organisation de travail et qu'on
+essaie de de faire en sorte que notre
+travail soit plus efficace c'est
+important d'avoir un suivi des métriques
+qui est constant pour ça il faut déjà
+choisir une maîtrique principale
+demande-toi ce qu'est ta maîtrique
+principale très souvent elle est Corré
+est soit au revenu parce que c'est ce
+qui est important pour ta boîte soit à
+l'usage si tu as un produit gratuit par
+exemple ou si tu as un produit comme
+facebook vous Vaz avoir des utilisateurs
+d'un côté qui ne payent pas et d'autres
+gens les annonceurs qui vont payer pour
+un pour un usage en fonction de du
+nombre de gens qui utilisent
+gratuitement des exemples de métriqu
+principal donc vraiment le KPI le key
+performance indicator par exemple chez
+Facebook la KPI ça va être le nombre de
+users actifs sur une durée donnée
+chez uber ça va être le nombre de
+courses par semaine par exemple sur une
+durée donnée aussi chez coup d'État on
+va être aussi sur le nombre de users
+actifs donc voilà vraiment ça va être
+différent genre sur sur un business
+comme FMO ça va être le nombre de
+culottes vendu et le revenu qui a été
+fait donc ça dépend vraiment du produit
+mais en tout cas c'est important d'avoir
+une métrique principale et c'est
+important de connaître cette métrique
+principale en tout temps moi je sais que
+par exemple sur coup d'État le nombre de
+users actifs le mois dernier c'était
+4000 je sais que le nombre de users
+actifs sur la semaine dernière c'était
+730 mais vraiment je pense que c'est
+important en tant que entrepreneur en
+tant que bâtisseur de produits entre
+guillemets c'est important de se
+connaître tout le temps cette métrique
+principale pour savoir si le travail
+qu'on effectue et qu'on abat au fur et à
+mesure des sprints il a de l'impact sur
+le business ou si pas du tout quand tu
+planifies ce que tu vas faire dans un
+sprint en fait il y a pas mal de choses
+à prendre en compte déjà c'est très
+facile de se perdre dans des données qui
+sont spécifiques qui sont
+vraiment des choses des détails dans
+l'application des optimisations que tu
+peux mettre en place c'est bien de
+regarder ces détails là mais c'est
+toujours bien de les comparer aux
+métriques général du business donc je
+vais revenir sur le tableau que j'avais
+montré dans l'épisode 4 qui est le
+tableau dans lequel on rassemble toutes
+les données du business de coup d'état
+et en fait le le processus par lequel on
+passe quand on veut prendre des
+décisions par rapport au produit c'est
+toujours de regarder d'abord ce tableau-
+là ensuite de se poser des questions sur
+pourquoi les maétriques sont telles
+qu'elles sont est-ce qu'on est en
+croissance est-ce qu'on est en
+décroissance comment ça se passe et et
+ensuite prendre des décisions en
+fonction de la data un peu plus précise
+un peu plus détaillé par rapport à ces
+trucs là donc pour donner un exemple je
+vais passer dans le tableau et te
+montrer un peu genre tout ce qu'on a
+comme métriques qui sont répertorié dans
+ce truc donc on a tout ce qui est lié
+aux vues donc on va avoir toutes les
+vues avec les nombres de vues qui ont
+été
+ajouté par semaine donc vraiment en
+absolu avec la croissance par rapport à
+la semaine précédente et avec le nombre
+de vue complète c'est une donnée qui
+nous est donnée par Vimeo et donc en
+fait voilà là on n'est pas que dans mix
+panel ça vient de de de Vimeo qui nous
+donne des stats et en fait on va aller
+sourcer la data du business dans plein
+d'outils différents qui qui sont pas
+forcément traqués par notre app mais en
+tout cas elles sont importantes ces
+données- là parce qu'elles nous
+permettent de voir si le business est en
+bonne santé s'il est en croissance ou
+pas donc tu vois voilà je vais aller
+dans Vimeo je vais regarder et puis je
+vais voir le nombre de vues au fur et à
+mesure et puis je vais aller le le le
+répertorier semaine après semaine dans
+le tableau Excel du coup voilà donc on a
+tout ce qui est lié aux vu on a tout ce
+qui est lié aux utilisateurs donc
+combien utilisateur actif par semaine
+c'est un truc qu'on a commencé à traquer
+un peu sur le tar euh parce que il
+fallait comprendre en fait ce qui était
+un utilisateur actif ce qu'on voulait
+être un utilisateur actif en tout cas et
+voilà au fur et à mesure ce tableau il
+s'améliore donc on a des données qu'on a
+pas forcément historiquement mais on a
+commencé à les traquer depuis le 28
+janvier
+donc on a quelques semaines pour voir
+comment le nombre d'utilisateurs actif a
+évolué les signup le nombre de gens qui
+s'inscrivent le nombre de gens qui ont
+regardé un épisode parmi les gens qui
+s'inscrivent le nombre de gens qui ont
+contribué à coup d'État donc qui ont
+fait qui on sont inscrit à un abonnement
+mensuel pour dire bah merci et et nous
+aider en fait à à soutenir le business
+financièrement le revenu que ça a généré
+le nombre de formations payantes qu'on a
+vendu les les podcasts le nombre
+d'écoutes de podcast semaine après
+semaine tous les gens qui sont venus à
+des événements quand il y en a l'argent
+que ça a rapporté euh mail Chimp la
+newsletter combien à combien de gens on
+a envoyé la newsletter combien ont
+cliqué dans la newsletter et cetera
+voilà vraiment il y a toutes les
+métriques du business et en fait ça nous
+permet quoi ça nous permet déjà de
+pouvoir voir semaine après semaine
+est-ce qu'on a fait mieux que la semaine
+précédente et c'est toujours notre
+objectif en fait par rapport au business
+c'est que dans tout ce qu'on fait on
+fasse mieux que la semaine précédente on
+bosse semaine après semaine et et on
+regarde si jamais on a fait moins bien
+que la semaine précédente on va se poser
+la question de pourquoi pourquoi on a
+fait moins bien que la semaine
+précédente si jamais on a fait mieux que
+la semaine précédente on va aussi se
+poser la question de pourquoi et on va
+se poser la question de comment faire
+encore mieux et donc par rapport à ça ça
+nous permet de brainstormer ça nous
+permet de discuter et de dire ok euh là
+je vois que le nombre de vues complètes
+entre la semaine du 1103 et la semaine
+du 403 euh il a baissé de 14,45 %.
+pourquoi et là il y a tout un tas de
+questions qui vont se poser genre est-ce
+que c'est parce que la qualité des
+épisodes était un peu moins bonne est-ce
+que c'était parce que on a changé
+quelque chose oui non est-ce qu'on a
+changé quelque chose dans le produit
+dans le processus d'barding ou est-ce
+qu'on a on a changé la page et ça a fait
+baisser la métrique et cetera ça n'est
+possible que parce qu'on a quand même
+des datas qui sont conséquentes on a un
+certain nombre de personnes qui vont
+regarder nos vidéos et du coup on peut
+tirer des conclusions parce que si était
+10 ça ne permettrait pas de de de
+conclure quoi que ce soit avec 14 14 %
+d'écart mais en tout cas là ils sont
+beaucoup donc on peut se demander mais
+pourquoi donc il y a une baisse à ce
+niveau-là et on peut émettre des
+hypothèses dans ce cas-là honnêtement
+c'est difficile pour moi d'émettre des
+hypothèses je vais pouvoir croiser ça
+avec des feedback que j'ai eu sur
+l'épisode de la semaine dernière je vais
+pouvoir poser des questions aux
+l'utilisateurs sur comment comment ça se
+fait que vous avez pas forcément regardé
+les épisodes en entier enfin voilà mais
+en tout cas le fait d'avoir cette data
+du business qui est pas forcément une
+data trackée par mix panel mais par
+d'autres outils ça me permet de prendre
+des décisions par rapport à euh bah la
+réalité du terrain et et ce que les gens
+font vraiment avec l'application couétat
+du coup voilà et en fait on va se poser
+la question pour tout un tas de trucs si
+on prend un autre exemple et qu'on prend
+MailChimp bon MailChimp on envoie grosso
+modo une newsletter à 60000 personnes
+toutes les semaines mais c'est en baisse
+parce qu'il y a toujours des gens qui se
+désinscrivent c'est une base email qu'on
+a construite depuis 5 ans donc il y a
+des gens qui ont entendu parler de coup
+de taille à 5 ans sont inscrits à cette
+base email reçoivent nos mails
+aujourd'hui donc ils se désinscrivent
+donc c'est normal ça fait quelques
+semaines qu'on perd chaque semaine
+beaucoup de gens dans cette newsletter
+mais c'est normal il faut que les gens
+bah on leur laisse le choix en fait on
+leur laisse le choix de rester abonnés à
+la newsletter ou non s'ils aiment le
+contenu tant mieux s'ils aiment pas le
+contenu tant pis on va pas les forcer il
+y a pas de il y a pas de de de design
+chez coup d'État qui veut forcer les
+gens à rester chez nous c'est pas du
+tout le but mais par contre donc on peut
+regarder ok là par exemple la semaine du
+403 on a eu 19 9590 personnes qui ont
+ouvert le mail qu'on a envoyé contre eu
+13120 la semaine précédente donc c'est
+bien ça veut dire qu'on a amélioré
+quelque chose ça veut dire que vraiment
+peut-être que le titre de la newsletter
+était intéressant peut-être que voilà et
+en fait on peut corréer ça directement
+comme c'est dans le même tableau c'est
+hyper facile on peut regarder genre là
+on a eu donc 13120 personnes qui sont
+qui ont ouvert le mail 927 personnes qui
+ont cliqué dans le mail et comment ça a
+influencé
+on peut faire une hypothèse sur le fait
+que ça ait influencé le nombre de signup
+donc si on regarde donc ici on est la
+semaine on est la semaine du
+2502 si on regarde le nombre de gens qui
+sont inscrits à ce moment-là et ben hop
+on va voir qu'il y a eu 600 signup et
+c'est mieux que la semaine précédente
+donc peut-être qu'on peut émettre une
+hypothèse qui est quand on fait une
+bonne newsletter et que elle est
+beaucoup ouverte et que le titre de la
+newsletter est bon et bah ça va amener
+plus de ça up et en fait ça c'est un
+exercice qu'il faut faire constamment
+c'est recroiser les données entre elles
+se poser la question et une fois que tu
+as croisé les données de ce tableau
+entre elles tu peux rentrer un peu plus
+dans les détails et aller dans un outil
+comme mix panel pour regarder en fait
+bah ok est-ce que mon hypothèse est
+juste est-ce que le nombre de de signup
+a effectivement été influencé par le
+nombre de gens qui ont cliqué sur la
+newsletter une fois que tu as mis cette
+hypothèse là et que tu te dis ok
+potentiellement la newsletter nous a
+rapporté plus de signup bon ça a l'air
+d'être ok mais je pense que c'est
+important de le vérifier on va aller
+dans mix panel on va aller regarder une
+propriété qui est un peu plus en détail
+donc on va aller dans le dans le signup
+dans le signup funnel le truc où on va
+voir le la différence entre signup et
+episode watched donc on a 2742 personnes
+qui ont sign up et en fait on peut aller
+trier et regarder si les gens qui se
+sont inscrits récemment étaient par
+exemple euh inscrits à la newsletter
+coup d'étard et donc on voit que euh
+est-ce que c'est vrai ou faux on en a
+682 qui ont sign up avec le le le qui
+était abonné à la newsletter Co état sur
+2742 en tout donc potentiellement ça
+veut dire que ça fonctionne ça veut dire
+que c'est vrai en gros mon argument au
+global c'est de dire qu'il faut tout le
+temps se poser sur les matriques du
+business celles qui sont les plus larges
+possibles et qui sont importantes et et
+qui
+peuvent démontrer d'un impact sur la
+bonne santé du business et ensuite se
+poser les questions dans des outils
+comme mix panel qui sont un peu plus
+précis de savoir pourquoi ces métriqu
+varient comme elle va
+et il faut observer ça le faire le plus
+régulièrement possible et en général on
+le fait en début de sprint pour pouvoir
+décider ce qu'on va construire après par
+rapport à ces observations là et sans
+jamais partir à l'aveugle à partir de
+juste une idée qu'on a ou de juste un
+feedback utilisateur un peu isolé parce
+que on a besoin d'avoir de mettre en
+place des choses qui vont aider la
+croissance du business en plus de ça
+pour bien suivre les métriques je pense
+qu'il faut se poser la question très
+régulièrement chez coup je le fais
+toutes les de semaines de comment on
+fait le suivi du FUNEL
+donc vraiment se poser la question de ok
+en acquisition où on en est en
+activation où on en est qu'est-ce qu'on
+peut améliorer en rétention où on en est
+en référal en revenu et se poser
+vraiment la question le plus
+régulièrement possible pour challenger
+constamment euh les idées qu'on peut
+avoir et les hypothèses qu'on peut
+émettre et avoir cette discipline de se
+remettre sur le FUNEL art et de réécrire
+des choses et de rebrainstormer dessus
+régulièrement ça te permet de planifier
+de la meilleure manière en fait c'est ça
+qui a comme intérêt avec les matriques
+c'est un bon suivi de matriqu et ça te
+permet de planifier de la meilleure
+manière sans perdre de temps et de
+limiter les mauvaises décisions que tu
+peux
+[Musique]
+prendre chez coup d'État comme disait
+Thomas on fait c on fait ces weekly
+meeting où une semaine sur deux ça va
+être le lancement d'un nouveau sprint
+donc on va parler de toutes les idées
+qu'on a de comment on priorise et cetera
+et une semaine sur deux ça va être juste
+un petit point sur où on en est dans le
+sprint actuel mais en fait ça nous per
+permet d'avoir des moments où on va
+émettre des hypothèses en fonction des
+chiffres en fonction de tout ce qu'on a
+appris pendant nos observations au fur
+et à mesure et donc de et ensuite de
+pouvoir se focus et d'exécuter le plus
+rapidement possible donc la combinaison
+sprint et métrique en fait elle te
+permet d'assurer un développement du
+produit qui est optimal en terme de
+timing et en terme de de force de frappe
+finalement organiser son travail c'est
+important c'est important de savoir
+comment gérer son timing et cetera un
+autre truc qui est très important dans
+l'entrepreneuriat en général mais aussi
+dans la création d'un produit c'est de
+savoir prendre les bonnes décisions j'
+dirais même jusqu'à dire que c'est le
+truc le plus important une bonne
+décision produit c'est une décision qui
+amène de la croissance point est-ce que
+cette décision amène de la croissance
+oui on le fait est-ce que cette décision
+n'en amène pas non on le fait pas
+vraiment c'est essentiel c'est la base
+de tout le mieux c'est de brainstormer
+en fait au début de chaque sprint
+d'émettre des hypothèses en fonction de
+la data en fonction des observation et
+de dire ok quelles sont les idées qu'on
+a qui vont nous permettre d'avoir de la
+croissance pour ça pour pour faire un
+brainstorm il y a un concept qui est
+intéressant qui est un concept qui a été
+un peu théorisé par plein de gens
+différents et qui est très utilisé en
+design thinking même si je suis pas un
+grand fan de ça qui est le le Double
+Diamond donc le double diamant c'est
+vraiment une méthodologie qui dit ok on
+va partir des problématiques qu'on a on
+va partir d'une observation et on va
+ouvrir le champ des possibles et donner
+toutes les idées possibles et toutes les
+hypothèses possibles sans en exclure
+aucune
+ensuite on va refermer le premier
+diamant en disant OK dans ces idées-là
+lesquelles sont potentiellement les plus
+intéressantes lesquells sont
+potentiellement les plus techniquement
+faisables et cetera et ensuite une fois
+qu'on a fait le tri et qu'on a un nombre
+limité d'idées et d'hypothèses qu'on
+pourrait développer on réouvre le
+diamant en disant ok comment on peut
+faire pour euh améliorer ces idéeslà
+faire en sorte qu'elles soi encore plus
+riches et que ce soit des encore
+meilleures hypothèses et une fois qu'on
+a ça et qu'on a un nombre qui est de
+nouveau satisfaisant mais qui est un peu
+plus précis et un peu plus pertinent on
+va refermer le diamant et dire bon
+maintenant comment on fait concrètement
+et comment on fait techniquement pour
+mettre en place ces solutions et
+qu'est-ce qui est le plus intelligent
+dans le sens où ça va prendre le moins
+de temps le moins d'effort le moins
+d'énergie et où ça va rapporter le plus
+de valeur à la boîte donc le plus de
+croissance on fait ça à chaque début de
+sprint pour se poser la question de ce
+qui est le plus intéressant à développer
+et essayer d'avoir un focus qui est
+maximal et qui va être le plus pertinent
+pour la boîte quand tu vas faire des
+hypothèses par rapport à tout ça il y a
+deux source d'inspiration qui sont
+importantes la première la plus
+essentielle c'est les feature request
+c'est ce que les utilisateurs qui
+viennent te
+voir te demande concrètement les gens
+qui viennent te voir et qui te disent
+j'aimerais avoir ça ça c'est une liste
+que tu dois garder constamment une liste
+que tu dois prioriser régulièrement
+éventuellement nous chez céat on garde
+le nom de tous les gens qui nous font
+des feature request et comme ça quand on
+sort ce qu'ils nous ont demandé on peut
+les contacter et leur dire c'est sorti
+mais en tout cas tout ça c'est vraiment
+important parce que ça te permet toi de
+quand tu veux émettre des hypothèses par
+rapport à à des observations de te dire
+ok bah c'est peut-être avec ce qu'on
+nous a demandé qu'on peut régler ce
+problème là la deuxième source
+d'inspiration elle va être vraiment dans
+les idées que tu as toi et qui viennent
+de toit qui ont pas forcément été
+demandé par cet utilisateur et pour ça
+bah il faut essayer d'aller valider ses
+hypothèses donc encore une fois
+commencer petit peut-être juste avec une
+maquette ou peut-être juste avec un
+prototype qui a été fait rapidement pour
+voir mais en tout cas il faut se poser
+et brainstormer au début de de de chaque
+sprint pour se poser la question de
+qu'est-ce qui va être le plus
+intéressant à développer et prendre les
+bonnes décisions si tu arrive à instaer
+un principe de sprint qui fonctionne qui
+est sur un bon timing et que pour chaque
+sprint tu prends des bonnes décision qui
+sont vraiment éclairé en fonction des
+données que tu as collecté en fonction
+des discussions que tu as pu avoir avec
+tes users et que tu euh sais vraiment
+comment prioriser ton travail et qu'en
+plus de ça à chaque itération tu
+améliores ton produit et qu'il plaît à
+de plus en plus de monde je pense que tu
+as fait le tour de tout ce qu'il y a à
+savoir sur la création d'un produit
+vraiment tout ça c'est la méthode
+concrète de comment on crée un produit
+de la meilleure manière possible c'est
+la méthode qui est utilisé à quelques
+exceptions prês et à quelques
+différences prês par tous les
+entrepreneurs que j'ai pu voir qui
+avaient bâti des produits exceptionnel
+maintenant il reste une dernière chose à
+faire une fois que tu le maîtrises
+toi-même et c'est ce que tu fais en fait
+quand tu maîtrises un job toi-même en
+tant qu'entrepreneur c'est qu'il faut le
+déléguer et pour déléguer le job de la
+gestion du produit il faut construire
+une équipe entière ça se fait
+progressivement et il y a des bonnes
+manières de le faire et c'est ce qu'on
+va voir dans l'épisode 7 le dernier
+épisode de cette saison

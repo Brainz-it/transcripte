@@ -1,0 +1,231 @@
+bienvenue dans cette vidéo aujourd'hui
+on va parler de comment créer une
+séquence d'email comme j'en ai parlé
+dans la vidéo principale de ce
+module une des choses importantes en
+email marketing c'est de savoir créer
+des séquences d'email automatisées vous
+pouvez bien sûr les tester à la main à
+la base sur votre audience mais ce qui
+est quand même bien c'est de pouvoir
+automatiser et de mesurer les
+performances groupées de mails
+similaires qui sont envoyés à une masse
+de gens au même moment donc on va voir
+comment faire ça avec l'outil mail Chimp
+aujourd'hui hein donc MailChimp c'est un
+des outils les plus puissants du marché
+et qui sont les plus utilisés
+aujourd'hui sur le marché euh qui vont
+nous permettre de automatiquement
+envoyer une chaîne d'email en fonction
+de différentes dates à partir du moment
+où quelqu'un rentre dans notre audience
+c'est l'exemple qu'on va prendre donc on
+va aller directement sur MailChimp si
+vous avez un compte vous êtes
+normalement sur cette page-là principale
+de MailChimp et on va aller dans
+l'onglet automate dans l'onglet
+automaate vous allez vouloir créer une
+campagne d'email
+et cette campagne d'email elle va être
+basée sur la
+date ici on a audience addit date donc
+on va envoyer nos emails basé sur le
+nombre de jours qui se sont écoulés à
+partir du moment où la personne est
+rentrée dans notre base email donc on va
+cliquer
+là-dessus on va l'appeler séquence email
+1 et on va l'envoyer à une audience
+spécifique
+comme coup d'État
+plateforme ici donc vous avez votre
+éditeur de séquence il y a déjà un
+premier email qui a été créé
+automatiquement par mil team qui
+s'appelle welcome to the newsletter et
+qui est triggered un jour après que les
+subscribers et rejoint l'audience ça se
+passe tous les jours à 9h du matin et on
+peut choisir de l'envoyer à juste un
+segment ou un tag de notre audience
+alors j'en ai pas parlé là mais le le
+sujet des audiences et des tags je l'ai
+abordé rapidement dans l'autre vidéo sur
+comment créer newsletter MailChimp qui
+va vous aider à comprendre un peu
+comment créer les emails et cetera je
+vous invite à regarder ça d'abord si
+vous vous posez la question mais là ça
+vous permet de voir à quoi ça ressemble
+de créer une séquence email donc hop je
+vais choisir un tag si je si je
+veux et je vais prendre tous les gens
+qui ont acheté trouvé des clients par
+exemple ici cet email là vous allez
+pouvoir le
+designer ça va se passer comme dans
+l'autre vidéo de ce module j'explique
+comment écrire une newsletter sauf que
+ça va être un mail
+spécifique il va falloir
+faire donc ici ça c'est le nom de votre
+email en interne donc on va on va
+laisser on on va l'appeler bienvenue
+dans la
+newsletter et ensuite il y a le sujet de
+votre email donc vous choisissez le
+sujet de votre
+email le preview texte c'est la même
+chose que dans l'autre vidéo dont je
+parle depuis tout à l'heure
+et ensuite le from name et le fromil
+adresse c'est la même chose vous allez
+de la même manière que dans les
+newsletter devoir choisir un template à
+utiliser pour votre
+email et vous allez vous retrouver de
+nouveau dans l'éditeur d'email de
+MailChimp à cet endroitlà il y a énorm
+de chose que vous pouvez faire je vais
+enlever le gros logo coup d'État je
+pense que le truc que vous devez
+comprendre et qui est essentiel ici
+c'est le principe de merch tags autant
+dans la newsletter c'est pas forcément
+le plus pertinent parce que vous allez
+envoyer à beaucoup de gens d'un coup le
+même email autant ici vous voulez avoir
+un feeling de d'email personnalisé si
+vous faites une séquence qui est envoyé
+chaque jour régulièrement ou une fois
+par semaine mais qui est censé être
+personnalisé pour la personne peut-être
+que vous allez vouloir appeler la
+personne par son prénom par exemple et
+donc là dans dans ce cas-là vous allez
+pouvoir utiliser ce qu'on appelle les
+merch tags les merch tags ils sont
+disponibles ici et vous allez pouvoir
+choisir si vous avez l'adresse email de
+la personne son prénom son adresse son
+phone number et cetera et cetera tout ça
+c'est des infos que vous devez bien sûr
+récupérer quand vous ajouter les gens à
+une audience et pour ça bah vous allez
+avoir les formulaires de mailam qui sont
+dispo donc là hop hello
+FNAME et donc quand vous allez envoyer
+l'email à la personne et même quand vous
+allez faire un preview test vous allez
+voir si ça a fonctionné ou pas faites
+attention quand vous faites ce genre de
+chos à bien voir si votre email s'envoie
+avec le le bon format si je m'envoie un
+email test
+maintenant voilà donc là on voit qu'il y
+a écrit hello test first name et ce truc
+là vous voyez bien que c'est pas le même
+que ce truc donc ça veut dire que ça a
+marcher et que votre merch tag il est
+fonctionnel donc faites-y bien attention
+pour pas vous retrouver avec un truc
+avec marqué hello FN un truc cassé euh
+mais par contre ça peut vous permettre
+d'avoir bah des infos personnalisées au
+sein de votre mail notamment le prénom
+donc vous écrivez votre email vous
+faites en sorte que ce soit quelque
+chose qui fonctionne et qui soit dans la
+suite logique de votre expérience vous
+cliquez sur Save and
+continue et votre email est prêt donc
+celui-là il est envoyé un jour après que
+les gens aient rejoint l'audience
+mailchim dans laquelle vous les avez
+mises et puis vous pouvez ajouter
+d'autres emails donc ici si on en fait
+un deuxième et ben celui-là il va être
+envoyé 2 jours après donc le lendemain
+et peut-être que vous allez pouvoir
+faire un email de relance sur quelque
+chose et puis ensuite un autre email qui
+va peut-être être envoyé celui-là 7
+jours
+après et donc là vous avez un premier
+mail un jour après l'inscription à
+l'audience puis un deuxième mail le
+lendemain puis un troisième mail qui va
+arriver une semaine plus tard qui va
+peut-être dire un autre sujet un autre
+message et cetera donc ça c'est vraiment
+la la manière la plus simple de créer
+une séquence d'email évidemment il y a
+pas que MailChimp il y a plein d'autres
+outils qui nous permettent de faire ça
+mais là je pensais que c'était vraiment
+pertinent de vous montrer ça parce que
+c'est à la portée de n'importe qui de
+créer tout ça là melchim va checker un
+peu toutes les les choses qu'il faut
+confirmer avant d'envoyer votre séquence
+donc par exemple ici on voit que le
+trigger est bon la subject line c'est
+bon que le preview texte est bon mais
+par contre j'ai pas changé le contenu
+par défaut donc il faut que je le change
+sinon ma chim va pas m'autoriser à
+envoyer je vais pas le faire ici dans
+cette vidéo parce que je pense que vous
+avez compris l'idée par contre euh donc
+là vous aurez juste à cliquer sur Start
+sending et les gens vont commencer à
+recevoir les emails à partir du moment
+où il rentrent dans les conditions que
+vous avez définies ici donc tous les
+gens qui à partir de maintenant vous
+rentrez dans l'audience MailChimp sur
+laquelle vous avez créé votre automation
+et ben ils vont recevoir un mail un jour
+après un mail de jour après un mail 7
+jours après et vous avez votre première
+séquence email si je vous montre tout ça
+en accéléré c'est pour bien vous faire
+prendre conscience que c'est simple à
+mettre en place c'est très facile ça va
+vite c'est une question de date c'est
+une question d'écrire les flots et c'est
+une question avant tout de créativité et
+de créer une expérience qui est
+pertinente pour les gens par email les
+gens aiment pas forcément être
+sollicités par email donc il faut leur
+apporter de la valeur il faut leur
+apporter quelque chose qui les intéresse
+il faut pas les spammer pour rien c'est
+un outil qui a utiliser avec des
+pincettes vous pouvez facilement vous
+faire bannir ou vous faire mettre en
+spam de tout MailChimp l'email marketing
+comme je l'ai dit dans la vidéo
+principale de ce module c'est une
+discipline à part entière où il y a
+énormément de gens qui ont théorisé
+dessus je vous invite à vous renseigner
+un peu partout sur internet nous on va
+faire probablement des contenus plus
+poussés plus tard sur l'email marketing
+en particulier en tout cas j'espère que
+cette vidéo vous aura plu que ça vous
+aura fait prendre conscience que vous
+pouvez commencer à envoyer des email
+automatiquement aux gens qui rejoignent
+votre newsletter et que l'email
+marketing c'est un canal que vous pouvez
+mettre en place facilement et que c'est
+un canal que vous pouvez utiliser tout
+au long de votre fenellele de vente pour
+transformer vos leads en clients et
+trouver des clients bon courage

@@ -1,0 +1,412 @@
+bienvenue dans cette vidéo sur comment
+lancer sa première pub Facebook alors
+aujourd'hui on va parler de la création
+d'une campagne de pub Facebook et d'une
+pub en elle-même on va voir ce que ça
+veut dire de le faire et euh ce que je
+vous invite à faire si vous l'avez pas
+déjà fait c'est à regarder la vidéo sur
+comment mettre en place le pixel
+Facebook sur son site parce que à partir
+du pixel Facebook vous allez pouvoir
+créer des audiences et ces audiences
+c'est celle que vous allez targeter dans
+la création de vos pubs donc je vais pas
+en parler ici donc si vous l'avez pas
+fait regardez d' d'abord la vidéo sur le
+pixel Facebook donc ici on est de
+nouveau dans le business manager et donc
+ce qu'on va faire c'est qu'on va aller
+dans le menu principal et directement
+dans ADS manager alors le ADS manager ça
+va regrouper pas mal de choses c'est une
+interface un peu particulière avec ces
+quatre onglets donc vous avez le count
+overview sur laquelle vous allez avoir
+pas mal de d'insight et pas mal de
+chiffres donc vous allez avoir votre
+rich notamment qui a été fait sur via
+vos pub Facebook en fonction des
+campagnes que vous avez lancé euh
+l'argent que vous avez dépensé les
+impressions le nombre de clics qui ont
+été fait sur vos pubs bref vraiment une
+une vue général sur les performances de
+vos pub et ensuite donc il y a les trois
+autres onglets les campagnes les adsets
+et les ADS ce qu'il faut comprendre
+c'est que la logique des pubs Facebook
+elle se décompose comme des poupé russes
+il y a d'abord la grande poupé rus qui
+est la campagne dans la campagne vous
+avez des adsets et dans les adsets vous
+avez des ADS on va voir ensemble ce que
+c'est un implique de faire chacune des
+choses ce qu'il faut bien comprendre
+c'est que pour votre première expérience
+de pub Facebook le ce qui importe
+vraiment c'est d'avoir une ad ce sera
+déjà pas mal mais donc ici donc on a des
+campagnes donc à la base vous allez
+devoir créer votre première campagne
+parce que vous avez besoin de ça pour
+pouvoir mettre une ad dedans donc on va
+créer notre campagne avec le bouton
+Create ici et on va commencer par
+choisir un objectif l'objectif il est
+pas définitif vous avez pas mal de
+choses vous pouvez avoir de la brand
+awareness donc ça va optimiser la pub
+pour avoir des gens qui vont voir votre
+pub donc par exemple si vous faites une
+vidéo explicative de votre service pas
+sans forcément avoir un C to action et
+vous voulez juste que les gens entendent
+parler de vous c'est le bon c'est le bon
+objectif à choisir il y a du rich c'est
+la même chose avoir du trafic c'est pour
+avoir des gens qui cliquent sur la pub
+et qui viennent sur votre site avoir de
+l'engagement c'est pour avoir des gens
+qui mettent des likes des réactions des
+commentaires avoir des gens qui
+installent votre app ça parle par
+eux-même avoir des vues sur les vidéos
+avoir des leads qui sont générés avoir
+des messages qui son envoyer sur votre
+page Facebook avoir des conversions sur
+votre site avoir des sales sur votre
+e-commerce avoir du du trafic sur votre
+store Facebook enfin bref il y a pas mal
+de choses il y a des il y a plein de
+petits outils d'aide dans cette page là
+c'est une partie qui est assez bien
+faite comme vous le voyez sur le côté
+ici on est dans la campagne et ensuite
+en dessous on aura les adsets et les ADS
+pour l'instant c'est loqué parce qu'on n
+pas d'abord choisi l'objectif de la
+campagne donc choisir un objectif c'est
+pas le le truc le plus essentiel dans le
+sens où euh c'est pas toujours aligné
+genre si vous voulez par exemple avec
+votre pub avoir des achats le premier
+réflexe c'est de dire je veux des
+conversions mais peut-être que ce qui
+marche mieux c'est de faire un poste qui
+veut du rich sur lequel les gens vont
+cliquer quand même c'est pas parce que
+facebook optimise pour un objectif
+spécifique que c'est la meilleure
+manière pour vous d'avoir un maximum de
+Rich c'est très opaque ce qui se passe
+derrière les pubs Facebook donc le plus
+important c'est de tester donc quand
+vous faites votre première campagne
+choisissez le truc qui vous paraît le
+plus logique il y a pas de bonne réponse
+vraiment entre le rich les conversions
+les engagements et cetera donc
+choisissez le truc qui vous plaît le
+PLUS qui vous parle le plus et à
+l'avenir quand vous ferez d'autres pubs
+et que vous voudrez tester d'autres
+campagnes avec d'autres objectifs vous
+pourrez voir et comparer voir ce qui
+marche le mieux donc ici nous on va
+faire une pub qui a un objectif de
+Reach cette campagne on va l'appeler
+rich trailer trouver des clients
+vous pouvez commencer à faire un AB test
+pour voir comment faire différentes
+choses et cetera mais pour pour cette
+première campagne je vous le conseille
+pas et ensuite campaignne budget
+optimisation et ensuite vous allez
+pouvoir choisir un budget quotidien qui
+va avoir une certaine valeur et ça ça va
+dépendre évidemment de l'argent que vous
+êtes prêt à mettre l'argent que vous
+êtes prêt à mettre j'en ai parlé dans la
+vidéo principal de ce module bah il
+dépend de l'argent que vous allez gagner
+en convertissant un lead donc fixez-vous
+un budget déterminer ce qui est
+intéressant pour vous de mettre comme
+budget initial et à quel moment ça
+devient pertinent pour vous en terme de
+conversion et faites des
+expérimentations partez du principe que
+cet argent est perdu mais que si ça
+marche bah vous avez potentiellement
+gagner un nouveau canal d'acquisition
+qui fonctionne donc ici on va mettre un
+budget quotidien de 25 € on va laisser
+par défaut et on va cliquer sur continue
+ensuite vous avez un adset et c'est à
+cet endroitlà que vous allez pouvoir
+choisir
+comment va être distribué votre pub donc
+vous avez la campagne qui a un objectif
+général que ce soit du reach de la
+conversion de l'engagement peu importe
+et en dessous vous avez l'adset qui va
+vraiment venir définir comment vous
+distribuez le contenu de vos pubs
+comment ça veut dire via quelle page et
+à quelle audience donc ici moi j'ai
+qu'une page he c'est la page de coup
+d'état donc là moi ici je vais utiliser
+une custom audience donc une des
+audiences que j'ai déjà créé auparavant
+donc je vais prendre les gens qui ont
+visité la Land
+can scale les 180 derniers
+jours hop et donc ça ça va être mon
+audience donc ici mon adset name je je
+vais dire que c'est fr 18+
+ACS landending visited last 180
+days ici vous avez énormément de choses
+avec lesquelles vous pouvez jouer vous
+pouvez utiliser une custom audience
+comme je viens de le faire mais vous
+pouvez aussi créer des nouvelles
+audience euh en faisant une custom
+audience ici par exemple à partir bah de
+votre website donc c'est à partir du
+Facebook pixel à partir d'une liste CSV
+ou TXT que vous envoyez de de clients
+vous allez pouvoir le faire à partir de
+d'activités offline il y a des choses
+genre est-ce que les gens ont regardé
+votre vidéo sur facebook pendant x temps
+euh tu vois si je clique sur vidéo ici
+c'est les gens qui ont regarder
+euh qui ont par exemple vu votre vidéo
+au moins 10 secondes en choisissant une
+des vidéos que vous avez publié sur
+votre page Facebook enfin bref il y a
+énormément de choses que vous pouvez
+mettre en place pour targetter
+précisément les gens que vous voulez
+avec votre adset ensuite vous allez
+pouvoir choisir les localisations l'âge
+le genre rajouter euh des centres
+d'intérêt euh donc par exemple ici moi
+je veux les gens qui sont intéressés par
+l'entrepreneuriat et donc ici vous allez
+pouvoir sauver votre audience comme ça
+vous pourrez euh la la réutiliser plus
+tard dans d'autres adsets et pour
+pouvoir bah distribuer à ce même type de
+personne sur des campagnes différentes
+alors j'espère que c'est clair jusqu'à
+maintenant vous avez donc votre audience
+vous avez votre la page sur laquelle
+vous publiez là ici vous allez pouvoir
+choisir le placement ce que je vous
+conseille c'est de faire un placement
+automatique hein Facebook optimise très
+très bien ce genre de truc et ensuite
+vous allez pouvoir choisir quand la pub
+est démarrée donc là on voit que la pub
+est optimisé pour le rich hein comme on
+l'a défini dans la campagne juste avant
+comme on n pas mis un budget très très
+gros il y a pas cost control et ensuite
+vous pouvez choisir de lancer votre pub
+à partir de maintenant ou de choisir une
+date de départ et une date de fin tout
+ça c'est la façon de créer un adset ça
+doit pas prendre 1000 ans le truc sur
+lequel vous devez vous attarder
+absolument c'est l'audience en elle-même
+pour l'audience c'est toujours bien
+d'avoir une audience custom à partir du
+Facebook pixel mais vous pouvez aussi
+utiliser tous les outils qui sont à
+votre disposition ici ça n'est qu'une
+question de
+test ensuite vous allez pouvoir
+continuer et passer sur la pub en
+elle-même sur la pub en elle-même comme
+vous le voyez pendant que ça charge ici
+il y a énormément d'informations qui
+vont vous être demandées ce qui est
+intéressant sur cette page c'est que
+c'est le le moment où on va choisir à la
+fois la tête que va avoir votre pub et
+l'expérience de votre pub en elle-même
+mais aussi sur quels endroits elle va
+être publiée à quels endroits elle va
+être poussée à l'audience que vous avez
+choisi dans votre adset et ici ce qu'on
+voit c'est que bah vous pouvez choisir
+la page Facebook qui va publier cette
+pub et vous pouvez choisir aussi le
+compte Instagram parce que ouais le la
+première pub Instagram que vous faites
+elle se fait directement depuis le
+facebook business manager aussi si vous
+voulez faire de la pub sur Instagram
+même si c'est uniquement sur Instagram
+ça va passer par là c'est pour ça qu'il
+y a qu'une seule vidéo dans Ce module
+pour parler des pubs Facebook et des
+pubs Instagram donc ici vous allez
+pouvoir choisir le format de votre poste
+donc soit ça va être un carousel avec
+plusieurs images que les gens vont
+pouvoir faire slide de gauche à droite
+que ce soit sur Instagram que ce soit
+sur Facebook ou alors juste une image ou
+une vidéo il y a aussi tout un système
+d'instant experience où en fait ça fait
+une vidéo et les le poste s'ouvre la
+vidéo reste en haut et c'est une page
+web spéciale je m'attarde pas dessus je
+vous invite à regarder et à fouiller si
+jamais ça vous intéresse là on va
+s'intéresser avec à une pub qui est
+juste une sigle une single
+image là ensuite vous allez pouvoir
+choisir le média donc le média c'est le
+le la photo qui va être utilisée pour
+votre poste donc ici je vais cliquer sur
+change image et je vais choisir une des
+images que j'ai dans mon compte facebook
+où je vais en uploader une spécifique
+donc par
+exemple je vais prendre cette image
+là je vais la
+sélectionner et ensuite je peux choisir
+bah d'avoir euh différents formats pour
+les différents endroits et cetera pour
+l'instant moi je vais utiliser que
+celle-ci
+pour mon ma pub Facebook en elle-même je
+clique sur Continue et donc là bon il y
+a des Best Practices et cetera mais
+donc et donc et donc vous avez votre
+image qui est dans votre pub Facebook le
+truc c'est que il va y avoir énormément
+de formats différents d'images en
+fonction des différents réseaux et des
+différents endroits où vous allez
+publier ici il y a un outil qui est
+assez récent qui a été créé par facebook
+qui vous permet de customiser votre
+image pour tous les réseaux différents
+donc par exemple vous pouvez choisir
+d'avoir pour les stories donc si vous
+faites des pub stories Instagram ou des
+pub stories Facebook ou les deux et ben
+vous allez avoir un outil d'édition de
+l'image qui va vous permettre de mettre
+l'image à la bonne taille pour les
+Facebook
+stories vous voyez même à quoi ça
+ressemble ça vous permet de comprendre
+euh si ça fonctionne bien ou pas vous
+allez pouvoir changer l'image en
+elle-même vous allez pouvoir faire un
+peu tout ce que vous voulez je vous
+invite encore une fois à fouiller
+ensuite une fois que votre image est
+uploadée vous allez pouvoir choisir le
+texte qui va être affiché au-dessus de
+votre image donc par exemple nous on va
+dire un truc
+comme faites des choses vous êtes
+entrepreneurs hop c'est simple c'est
+direct on va pouvoir ajouter une url
+vers un
+site qui va être qui va apparaître en
+dessous de la page donc hop on va mettre
+l'URL de coup d'état juste ici on va
+mettre une headline qu'on va dire
+apprendre à entreprendre non apprend à
+entreprendre et puis une
+description ton compagnon pour te lancer
+voilà peu importe je mets des trucs un
+peu au hasard vous pouvez même rajouter
+un bouton si vous voulez donc par
+exemple ici on va mettre learn
+more et vous voyez votre pub qui se crée
+en fait en direct à côté et vous pouvez
+la voir sur tous les différents Devic et
+cetera donc là on a sur le mobile
+newsfeed sur le desktop newsfeed ça va
+ressembler à ça si c'était une vidéo on
+aurait tous les trucs vidéo si c'était
+des Facebook stories bah on pourrait
+voir à quoi ça
+ressemble sur Instagram même chose vous
+allez pouvoir voir à quoi va ressembler
+votre pub dans le feed Instagram bref
+vous avez déjà une très bonne
+prévisualisation d'à quoi va ressembler
+l'expérience de votre pub c'est là que
+votre créativité entre en jeu c'est là
+que vous devez faire l'effort le plus
+important c'est créer une pub qui est
+très bonne et qui va parler aux gens que
+vous avez sélectionné dans votre adset
+au départ donc une fois que vous avez
+fait tout ça vous avez créé votre pub en
+elle-même vous allez pouvoir choisir si
+vous avez plusieurs langues et vous
+allez pouvoir choisir comment elles sont
+traquées en général pour ça il faut un
+pixel c'est pour ça que je vous ai dit
+de regarder la vidéo sur le facebook
+pixel d'abord et puis ensuite bah vous
+choisissez comment c'est traqué vous
+pouvez mettre des paramètres d'URL si
+vous voulez avoir des UTM par exemple
+comme dans la vidéo sur comment utiliser
+les UTM dans le dans le module
+fonctionnement d'un canal d'acquisition
+bref vous pouvez faire plein plein de
+choses c'est très puissant et ensuite
+vous n'avez plus qu'à confirmer voilà et
+donc là votre pub elle est en attente de
+validation Facebook va mettre un petit
+temps à la valider pour vérifier que il
+y a pas trop de texte pour vérifier pas
+mal de critères pour que Facebook ne
+publie pas des pubs qui sont
+complètement à côté de la plaque je vais
+la désactiver maintenant parce que j'ai
+pas envie nécessairement de publier
+cette pub ici et voilà grosso modo on a
+fait le tour de ce que ça veut dire de
+créer sa première pub Facebook
+évidemment je suis pas rentré dans les
+détails mon objectif c'était pas de vous
+montrer très très précisément et
+granulairement comment créer une pub
+Facebook et carton on fera ça très
+probablement dans une autre formation
+vraiment accès social ADS plus tard sur
+coup d'État en attendant je pense
+queavec ça vous avez vraiment les clés
+pour commencer à tester à tatonner à
+regarder ce qui se fait d'autres en
+terme de pub Facebook et avec les deux
+vidéos qui sont dans ce module sur
+comment installer le pixel Facebook et
+comment créer sa Pr pub Facebook et
+Instagram je pense que vous avez déjà
+toutes les clés pour vous y mettre parce
+que c'est encore une fois ça le plus
+important c'est de vous y mettre c'est
+de faire les trucs c'est de tester c'est
+de voir si l'argent que vous avez
+investi dans ces campagnes là il va
+valoir le cooup en terme de retour sur
+investissement parce que si c'est le cas
+vous avez trouvé un nouveau canal
+d'acquisition et d'ici là bah je vous
+souhaite un tout bon courage pour vous y
+mettre

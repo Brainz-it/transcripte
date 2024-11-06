@@ -1,0 +1,364 @@
+bienvenue dans cette séance de coup
+d'état aujourd'hui on va parler de la
+machine de recrutement alors pourquoi on
+parle de machine parce que le but du jeu
+quand scale c'est que le recrutement
+soit comme l'ensemble des process de
+votre entreprise au maximum automatisé
+au maximum répliqué et qui vous
+permettent d'accélérer quand on parle de
+scale dans le recrutement on parle de
+changer de dimension dans le recrutement
+des boîtes qui scalent sont en général
+des boîtes qu' on besoin d'embaucher 10
+20 40 50 60 salariés dans le mois et
+donc ça veut dire que vous allez avoir
+besoin d'un process et de bonnes
+pratiques pour réaliser ces
+recrutements avant de commencer
+comprenons d'abord pourquoi la machine
+de recrutement est essentielle à votre
+scale elle est essentielle parce que la
+ressource humaine est rare étant donné
+que c'est dur de trouver des talents
+étant donné que c'est dur de trouver des
+gens compatibles avec votre entreprise
+étant donné que ça prend énormément
+d'énergie et énormément de temps vous
+avez besoin de réussir un résultat pas
+facile du tout ce résultat c'est qu'une
+bonne boîte k scale c'est une boîte par
+laquelle tous les gens qui applaent à un
+job ont envie de recommander à leurs
+amis d'y travailler même lorsqu'ils ont
+été refusés par exemple chez stripe qui
+est l'une des meilleures entreprises en
+terme de scale de recrutement qui existe
+sur le marché chez stripe ils regardent
+combien ils ont de candidats qui
+proviennent de la recommandation de
+candidat qu'ils ont refusé c'est la
+métrique ultime chez stripe concernant
+le recrutement pourquoi parce que si
+quelqu'un qui passe par votre process
+trouve le process tellement bien qu'il a
+envie de recommander quelqu'un pour
+travailler chez vous alors que lui-même
+a été refusé alors là vous avez atteint
+le Graal pourquoi parce que comme un
+petit virus les candidats vont devenir
+virau ils vont répliquer et porter la
+Bonne par du process à leurs amis et
+peut-être que le candidat de vos rêves
+est un de leurs amis ou un ami de leurs
+amis c'est pour ça que le process de
+recrutement dans les boîtes k scel est
+pensé comme un produit avec exactement
+le même FUNEL
+arrr que dans un produit vous avez une
+étape d'acquisition des candidats vous
+avez une étape d'activation des
+candidats vous avez une étape de
+rétention des candidats et vous avez une
+étape de référol des cand candidat de
+plus si vous êtes sur un marché
+concurrentiel sur lequel les talents
+sont très demandés par les autres
+entreprises la vélocité de ce process et
+votre capacité à réaliser un process
+humain clair et rapide fera la
+différence plus vous pouvez le faire
+rapidement plus vous pouvez le faire
+avec humanité et plus vous pouvez le
+faire dans la joie et la bonne humeur et
+plus les candidats seront vos meilleurs
+ambassadeurs qu'ils aient été recrutés
+ou pas alors comment on fait pour avoir
+un super processus de recrutement
+d'abord comme toujours ça démarre dans
+le bon mindset si vous êtes le CEO d'une
+boîte qui recrute vous devez montrer
+l'exemple en étant toujours en mode
+recrutement vous êtes dans le train à
+côté de quelqu'un c'est l'occasion d'un
+d'un entretien de recrutement caché vous
+êtes dans l'avion avec quelqu'un c'est
+l'occasion de voir si cette personne est
+potentiellement une bonne personne pour
+votre équipe vous êtes en vac au
+restaurant et vous rencontrez quelqu'un
+c'est peut-être une opportunité vous
+avez des amis qui recherchent un travail
+vous leur parlez systématiquement vous
+avez besoin d'adopter ce mindset du
+always be hiring pour être capable de
+montrer l'exemple en interne et vous
+avez besoin de faire comprendre à tout
+le monde que faire rentrer des leads
+dans votre funnel de recrutement c'est
+la chose la plus importante avant de
+qualifier les lead il faut que un
+maximum de gens passent par votre
+process et à ce stade-là évidemment il
+s'agit pas d'être trop précis dans la
+qualification des gens encore une fois
+je vous ai dit un bon process de
+recrutement qui scale c'est un produit
+qui donne envie aux gens refusés de
+recommander des offres d'emploi à
+d'autres gens ce n'est donc pas une
+perte de temps de faire passer le
+process à quelqu'un qui n'a que 80 ou 70
+% de Chan de le réussir pourquoi parce
+que même si vous avez 30 % de doute sur
+cette personne si la personne passe un
+bon process elle devient quelqu'un qui a
+envie de recommander votre entreprise et
+la réputation de votre processus de
+recrutement est essentielle les erreurs
+de débutants que je vois toutes les
+start-up de the family faire les unes
+après les autres sont toujours les mêmes
+c'est toujours les trois mêmes erreur de
+débuton numéro 1 l'arrogance alors c'est
+un peu normal d'être arrogant qu'and on
+a une boîte qui sequelle qui est passée
+de 10 à 50 salariés qu'on a l'impression
+d'être le roi du monde parce que les
+choses se passent bien mais l'arrogance
+est l'ennemi quand on passe de 50 à 5000
+salariés pourquoi parce que ces étapes
+là du scale sont de plus en plus dur
+n'oubliez pas que les 20 premiers
+recrutements sont infiniment plus
+simples que les 20 derniers recrutements
+de votre boîte plus votre boîte grandit
+et plus les recrutements sont durs
+deuxème erreur des processus de
+recrutement c'est de ne pas standardiser
+les étapes de recrutement et penser que
+le recrutement peut être fait comme au
+début de façon informelle le recrutement
+informel ne fonctionne qu'à la condition
+que dans votre entreprise vous n'ayez
+pas beaucoup de postes à pourvoir à
+partir du moment où vous avez besoin de
+rentrer dans un process quasi automatisé
+vous avez besoin de mesurer toutes les
+KPI à toutes les étapes et vous avez
+besoin de rendre quelqu'un responsable
+du fonctionnement de ces KPI il ne
+s'agit pas de dire que votre directeur
+des ressources humaines devient la
+personne qui choisit tous les gens qui
+travaillent chez vous mais votre
+directeur des ressources humaines
+devient l'orchestre de la qualité du
+processus de recrutement il devient le
+chef d'orchestre qui permet de vérifier
+que tout est fait correctement et que
+les choses avancent à leur rythme si
+vous dites à un candidat que vous lui
+répondez lundi vous lui répondez lundi
+troisième chose que toutes les
+entreprises font c'est de ne pas être
+franc sur les raisons pour lesquelles
+vous ne prenez pas quelqu'un les gens
+valorisent énormément l'honnêteté et
+notamment l'honnêteté intellectuelle
+vous avez un milliard de raisons de
+refuser quelqu'un pour un job et de
+temps en temps ça fait pas plaisir
+d'entendre pourquoi on a été refusé
+pourtant c'est toujours quelque chose
+qui fait grandir si vous le faites
+correctement si vous le faites gentiment
+vous aurez la possibilité d'avoir des
+gens qui vous remerceront pour ce
+feedback et qui utiliseront peut-être ce
+feedback pour en faire quelque chose
+d'autre alors évidemment ça ne marchera
+pas sur 100 % des gens un bon processus
+de recrutement c'est pas un processus de
+recrutement dans lequel 100 % des
+candidats refusés vous recommande
+quelqu'un c'est un process dans col 100
+% des candidats refusés et intelligents
+vous recommandent quelqu'un il y aura
+toujours des imbéciles ne les écoutez
+pas ne vous concentrez pas sur eux
+concentrez-vous avant tout sur votre
+process la deuxième étape c'est que si
+vous avez créé le bon mindset pour que
+tout le monde mette des leads en
+permanence dans cette machine et que
+vous avez une bonne acquisition passe
+l'étape d'activation alors qu'est-ce que
+ça veut dire activer un candidat activer
+un candidat c'est susciter chez lui le
+désir de vous rejoindre je sais que ça
+va paraître très contreintuitif mais il
+vaut mieux vendre sa boîte avant de
+sélectionner les gens qu'après pourquoi
+parce que vous voulez que chacun des
+candidats donne le meilleur de lui-même
+pour donner le meilleur de lui-même il a
+besoin d'être extrêmement motivé il a
+besoin de se dire que le job en question
+et le job de ses rêves et ça passe par
+une phase d'activation qui est une phase
+de séduction donc prépareer une vidéo
+avec vos employés prépareer une super
+page sur votre culture mettez en avant
+vos valeurs vos vraies valeurs mettez en
+avant tout ce que vous pouvez mettre en
+avant pour susciter chez le candidat un
+désir ardent de rentrer dans votre
+entreprise il est super important d'être
+sûr que la personne qui vous rejoint a
+envie de vous rejoindre et mettra le
+maximum de Chan de son côté lors du
+process ensuite passe la phase de
+rétention alors l'équivalent de la
+rétention par rapport à un utilisateur
+quand on passe en mode recrutement c'est
+comment faire en sorte que le candidat
+et la patience d'attendre la durée de
+votre processs les candidats ont en
+général d'autres offres d'ailleurs les
+candidats vont vous mettre sous pression
+en disant qu'ils ont une autre offre
+ailleurs et cetera c'est là où les
+personnes de votre équipe direction des
+ressources humaines sont essentielles
+ils doivent annoncer clairement le
+process ils doivent à chaque étape
+annoncer au candidat comment ça se passe
+et ils doivent donner une date claire
+qui permet au candidat d'être sûr
+d'avoir une réponse à un moment donné il
+vaut mieux donner une mauvaise réponse à
+un candidat et faire des faux positifs
+que crée de la frustration de retard je
+m'explique imaginons que pour une raison
+inconnue ou une raison connue d'ailleurs
+vous n'avez pas réussi à prendre une
+décision à un instant T votre process
+doit prendre en compte le fait que aucun
+retard n'est admissible et vaut mieux
+dire non à un candidat auquel vous
+auriez peut-être dit oui si vous aviez
+pris un peu plus de temps plutôt que
+dire non à quelqu'un qui a pris trop de
+temps pour recevoir ce nom et qui
+développe de la frustration
+l'élément le plus essentiel d'une
+machine de recrutement qui scale c'est
+le fait d'accepter l'idée que de temps
+en temps vous passerez à côté de
+personne parce que vous avez un doute
+parce que vous n'avez pas réussi à vous
+faire une conviction assez forte assez
+rapidement c'est très important dans le
+design d'un process qui scale encore une
+fois la scanabilité est un jeu des
+grands nombres le but du jeu n'est pas
+de recruter absolument le meilleur
+candidat le but du jeu est d'avoir un
+process qui fonction dans 80 % des cas
+si vous cherchez les 100 % de perfection
+vous allez passer votre temps à faire
+des entorses à vre process et vous allez
+passer du temps à déstandardiser votre
+process de recrutement il n'y a rien de
+pire que déstandardiser l'une des
+meilleures leçon que j'ai prise à the
+family c'est de voir des CEO extrêmement
+focus être capable de dire non à de très
+bons candidats qui avait des conditions
+particulières qui les empêchent de
+rentrer dans le process pourquoi parce
+qu'il savent qu'il vaut mieux perdre
+individuellement un bon candidat que
+collectivement changer un process qui
+fonctionne pourquoi parce qu'encore une
+fois le Scale est un jeu des grands
+nombres vous n'êtes pas à la recherche
+du performeer magique qui va faire la
+différence vous êtes à la recherche
+d'avoir un process qui assure une
+qualité moyenne correcte à l'ensemble
+des gens qui sont recrutés dans votre
+boîte et encore une fois on ne parle pas
+du recrutement d'un top exécutive qui
+peut être parti parul on parle du
+recrutement dans la machine de la
+plupart des gens qui vont travailler
+chez vous ensuite lorsque la rétention a
+été bonne vous pouvez donner une réponse
+positive ou une réponse négative réponse
+positive passe à l'étape d'intégration
+dont on a déjà parlé réponse négative
+passe à la question est-ce que vous êtes
+prêt à me recommander des gens et c'est
+le moment de laisser le candidat pouvoir
+faire un feedback actif et un feedback
+qui peut être donné à l'ensemble des
+gens lors qui ont participé au process
+de recrutement il est très important
+d'être itératif dans ces process de voir
+qu'est-ce qui a frustré les gens et tout
+ce que vous pouvez améliorer l'améliorer
+au fur à mesure encore une fois les
+outils habituels du scale doivent être
+mis au service du recrutement tout ce
+que vous pouvez standardiser dans le
+process vous devez le standardiser tout
+ce que vous pouvez mettre à l'écrit vous
+devez mettre à l'écrit tout ce que vous
+pouvez automatiser vous devez l'
+l'automatiser et évidemment vous ne
+devez laisser c'est aucune distance à la
+négociation l'une des parties les plus
+délicates et les plus importantes d'un
+processus de recrutement c'est la
+rémunération et je vous encourage à
+faire une grille de rémunération
+standard qui soit la même pour tout le
+monde pour éviter les discussions
+individuelles dans une entreprise qui
+scale et qui n'a pas le temps pour
+l'individualité il n'y a rien de pire
+qu'avoir des rémunérations qui suivent
+une logique individualiste vous avez
+besoin d'avoir une logique claire
+concernant vos rémunérations et si un
+candidat ne rentre pas dans cette grille
+vous devez simplement maintenir votre
+grille personne n'est assez bon à scale
+pour faire une différence telle que le
+process n''est pas besoin d'être suivi
+et si quelqu'un très bon envie de venir
+travailler chez vous c'est pas une
+différence de 2 ou 3000 € par an sur son
+salaire qui fera la différence ne vous
+faites pas avoir par des gens qui se
+vendent très bien et ne vous faites pas
+avoir par des gens qui réclament de la
+spécificité la spécificité risque de
+tuer votre process et de vous mettre en
+difficulté sur le long terme donc vous
+voyez le processus de recrutement c'est
+comme tous les autres processus de votre
+entreprise c'est un processus qui doit
+être pensé comme un produit le produit
+c'est votre entreprise les les candidats
+sont les clients et vous avez envie de
+leur donner la meilleure expérience
+possible évidemment le meilleur moyen de
+faire ça c'est d'avoir une culture forte
+dans la prochaine séance de coups d'État
+on va voir comment développer la culture
+de votre entreprise et comment faire en
+sorte que la culture de votre entreprise
+soit au top du top merci à bientôt

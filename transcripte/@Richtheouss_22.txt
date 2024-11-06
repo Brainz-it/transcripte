@@ -1,0 +1,1946 @@
+bonjour tout le monde euh donc
+aujourd'hui on va parler comme l' dit
+balthazer on va parler
+de comment définir l'expérience
+utilisateur de son produit parce qu'on
+pense que c'est quelque chose qui est
+essentiel donc rapidement qui on est on
+s'appelle Poel studio on est un studio
+de design et on travaille quasiment
+exclusivement avec des start-ups des
+entrepreneurs ça fait un peu moins d'un
+an qu'on existe donc on est trois trois
+designers euh venant de la même école à
+Nantes on a fait on a fait nos chemins
+et cetera et en début d'année 2015 on
+s'est dit bon allez on va faire quelque
+chose on va aller aider les start-up à
+développer des produits qui marchent euh
+via justement l'éducation sur le les
+process de de user experience et cetera
+et communiquer aussi sur le fait que le
+design ça va être un peu le fil rouge de
+de notre présentation le design c'est
+c'est pas que du visuel c'est pas faire
+une belle leing page et faire une
+landing page qui marche par exemple donc
+première première grande partie d'abord
+c'est pourquoi on parle de de produit et
+de de user experience d'expérience
+utilisateur il y a une il y a une très
+belle phrase qui vient de aon
+Walter le directeur of uxix chez M team
+qui dit il y a pas de place aujourd'hui
+pour des produits qui marchent pas et
+avec une expérience qui est qui est
+super galère euh c'est euh c'est
+vraiment un point qui est intéressant
+c'estàd
+qu'aujourd'hui on sait on a des outils
+une start-up qui commence il va faire du
+gross hacking il va il va monter une
+landing page et cetera il va faire du
+marketing il va il va Builder une tech
+et cetera mais aujourd'hui un des
+éléments différen enfin si on prend deux
+produits je sais pas par exemple deux
+Abes de paiement euh l'un des l'un des
+facteurs qui va faire que les
+utilisateurs vont déjà venir sur sur sur
+ton app et ensuite rester et pas aller
+chez le concurrent ça va être
+l'expérience utilisateur c'est-à-dire
+que si j'arrive sur l'App que
+l'onboarding il est il est super super
+frein il m'explique bien comment ça
+marche ensuite j'arrive sur l'App et et
+et tout cool de source concrètement j'ai
+aucun intérêt à aller télécharger une
+autre app pour aller encombrer mon mon
+hom screen de de mon iphone euh il y a
+on va vous passer juste un trailer d'un
+d'un d'un documentaire qui a été fait
+par invision qui est un des outil un peu
+phare maintenant et un peu clé
+obligatoire pour les designers donc
+c'est une plateforme où en fait on peut
+créer des prototypes des prototypes
+clicab et cetera et eux ils sont très
+dans la diffusion et la bonne parole à
+propos du design c'estàd qu'ils ont fait
+un outil pour les designers pour avoir
+pour améliorer les process et cetera et
+donc en fin d'année ou début d'année
+prochaine ils vont sortir un
+documentaire qui s'appelle design
+distruptors où en fait ils expliquent
+bien au combien c'est important d'avoir
+une équipe de design ou de s'entourer de
+designer et cetera et ce facteur là
+c'est ce que je disais juste avant que
+le design en fait c'est une arme de
+destruction massive pour pour sortir
+sortir l'un des meilleurs produits que
+tu puiss sortir qu'aujourd'hui ça ça
+fait ça fait partie dans des des
+éléments de concurrence hyper hyper
+puissant donc on va montrer
+le le
+trailer est-ce qu'on a du
+[Musique]
+son ary times over the last five years
+there's been several billion dollar
+companies started by designers and
+that's a new phenomenon companies are
+starting to get closer to the idea that
+if you can create an amazing experience
+it's going to help improve your business
+engineers think about computers and
+think about systems does this actually
+functionally work where designers have
+to think about people and their
+emotional state and their quirks and
+idiosyncries at its best design is human
+it's not about does it have drop Shadows
+is it pretty it's more about the
+connection I have to it when we think
+about designing products we're trying to
+tap into things that are natural and to
+like and share things these are things
+that existed well before Facebook did we
+arejusting the infancy of developing a
+whole language around gestures the first
+time that I zoomed it was like oh
+fantastic i almost want to get to a
+point canass products because that's
+humane I don't click
+people we're going to draw three panels
+of a solution what we want to do is
+think about how a user is actually going
+to navigate through an interface we can
+quickly build stuff and test it with
+users so we'll know when something has
+subtly has changed about our environment
+and a new thing is possible and that's
+when you can be very very powerful very
+dangerous to the
+incumbent even the best companies in the
+world that just have amazing processes
+they're vulnerable if they haven't
+thought about design there's less space
+today for
+theue done theend of the day we to know
+is howig human areving questions now AR
+can we build it more and more yes we can
+build anything is what is theuture that
+we want toild together me that's the of
+design
+[Musique]
+d'un documentaire qui va sortir là dans
+les dans les prochains mois je sais pas
+si vous
+m'entendez plus près ah ouais ok merci
+donc c'est un un un commentaire qui va
+sortir donc je vous invite à suivre un
+peu parce que c'est ils expliquent
+beaucoup de choses dans lequell on croit
+et il ils mettent des mots sur ce qu'on
+observe aujourd'hui qui est on a plus
+les utilisateurs sont beaucoup moins
+indulgents avec les applications qui
+vont pas très bien fonctionner on est
+les premiers à D qu'on a une app
+application qui crache ou qui est pas
+bien faite on se dit ok c'est pas grave
+je vais en trouver une autre il y a des
+start-ups entières qui sont basé
+là-dessus donc le meilleur exemple
+souvent c'est Captain train qui est le
+le gros de ce qu'ils apportent c'est
+finalement une meilleure expérience que
+va va apporter voyage CNCF donc c'est
+vraiment quelque chose qui est en train
+de devenir important et de plus en plus
+on se rend compte que c'est le design
+c'est une arme qui est au service du
+business c'est pas juste on va protéger
+l'utilisateur et nous on n'est pas en
+train d'expliquer que il faut penser
+utilisateur et comme s'il y avait une
+pensée utilisateur une pensée business
+c'est beaucoup plus le design va va
+renouer le business avec avec la pensée
+utilisateur et se dire si mon
+utilisateur est plus content s'il passe
+plus de temps sur ma page et que il va
+parler de mon produit à côté et ben
+c'est sûr que ça va être bon pour pour
+mon business donc c'est en ce sens-l que
+nous on partage une vision qui est
+vraiment le le design au cœur de au cœur
+de la réflexion et comme et comme outil
+pour pour se
+développer euh très bien dit euh donc
+grosso modo euh ce qu'on note c'est
+quand nous on rencontre des start-ups
+avec qui qui ont un travail c'est qu'en
+général ils sont très préparés sur
+beaucoup de choses donc ils ont en
+général un peu commencé à penser comment
+ils allaient faire leur business euh
+comment ils allaient développer leur le
+leur techno enfin leur application euh
+comment ils allaient aller acquérir de
+nouveaux utilisateurs à travers la grow
+grow hacking et cetera quel network ils
+allaient viser et cetera quel event ils
+allaient faire et et du coup très
+rarement il ils arrivent ils se disent
+ben non c'est vrai qu'on est pas du on n
+pas du tout préparé sur la partie design
+c'est pour ça que nous on on existe
+aujourd'hui mais on est persuadé que de
+plus en plus ça devrait faire partie un
+peu de la tool belt de l'entrepreneur
+c'est de commencer à penser à toutes ces
+choses là et de commencer au début du
+process de de
+création d'une start-up de d'intégrer
+une partie design donc que ce soit un
+Advisor que ce soit juste des cours des
+cours en ligne ou ce genre de chos
+commencer à à l'intégrer sur sur la
+startup
+checklist allez
+il y a un bon exemple bon du coup c'est
+pas une startup c'est c'est plus loin
+une startup c'est c'est une grosse boîte
+mais c'était Virgin America qui il y a
+quelques temps de ça a fait une refonte
+complète de leur de leur plateforme de
+de booking en ligne et c'est en fait
+c'était assez incroyable parce que
+c'était l'un des des premiers sites de
+de enfin depuis longtemps de de de
+booking en ligne qui clairement et
+visiblement avait fait appel à des
+designers pour pour créer l'expérience
+dire qu'on est passé de ça qui ressemble
+clairement à tous les les sites de
+booking en ligne à à quelque chose comme
+ça où clairement on on voit la direction
+qu'ils ont pris c'estàd ils se sont
+poser la question qu'est-ce que
+qu'est-ce qu'un utilisateur vient faire
+sur ma plateforme pour pour pour prendre
+de ma plateforme America Virgin America
+mais ils viennent commander des des des
+tickets d'avion donc la première chose
+qu'on qu'on leur montre en gros et en
+vraiment en explicite c'est euh c'est
+bah combien vous êtes où vous allez de
+d'où vous partez et où vous allez et bom
+on va sur sur l'expérience là clairement
+on se rend compte que le design est au
+service du process de booking ils ont
+évidemment redesigné le process donc
+c'est il y a moins d'étapes les étapes
+sont moins difficile à à réaliser et et
+le design va venir maximiser cette
+transformation là les informations sont
+beaucoup plus claires on a enlever
+toutes celles qui venaient polluer
+visuellement le but premier et du coup à
+la fin on montre on montre quelques
+stats mais le le résultat c'est que
+Virgin America a réussi à transformer
+plus 10 % de de leur trafic en achat de
+billets d'avion donc donc c'est des
+vrais les les les modifications en terme
+de design ont des vraies conséquences
+sur le business sur le business derrière
+donc c'est c'est en ça que c'est une
+arme pour une arme pour pour pour se
+développer eu quand on préparait la
+présentation on on discuta entre nous et
+c'est vrai que souvent les gens viennent
+nous voir parce que ils veulent avoir
+quelque chose de plus joli quelque chose
+de de plus attractif pour pour avoir de
+l'acquisition et bah par exemple
+l'exemple de de de Virgin America ce que
+ça montre c'est que le design est aussi
+au service de la retention c'est-à-dire
+que bah si euh ok si c'est joli ça va ça
+va attirer les utilisateurs mais
+derrière si ça marche bien et que ça
+sert le but le but premier de de
+l'application bah les gens vont rester
+et les gens vont rester et
+potentiellement ils vont acheter et en
+un sens le design c'est aussi un peu de
+la technique parce que en repensant les
+interfaces on se rend compte qu'on est
+capable d'alléger le le site et du coup
+d'alléger le temps de chargement et
+puisqu'on raconte pas des informations
+qui vont pas intéresser l'utilisateur on
+a pas besoin de les charger et du coup
+on est plus rapide on est plus on est
+plus efficace au moment de au moment de
+du chargement du site et passage entre
+les différentes pages
+ok donc du coup deuxième partie on va un
+peu plus rentrer dans la définition de
+ce que c'est donc euh l'expérience
+utilisateur on en parle depuis tout à
+l'heure mais concrètement qu'est-ce que
+c'est on va essayer de l'expliquer de la
+manière la plus simple nous si on devait
+illustrer ce qu'est l'expérience en
+général c'est ce qui se passe entre un
+produit un produit et un utilisateur
+donc c'est d un produit tout seul n'a
+pas d'expérience un utilisateur tout
+seul n'a pas d'expérience à partir du
+moment où on donne cette cette
+télécommande et ben il va se passer
+quelque chose et il va se passer du
+ressenti va se passer est-ce que je
+comprends comment ça marche est-ce que
+le l'outil l'outil est explicite est-ce
+que je prends un plaisir à l'utiliser
+est-ce que un moment donné je suis perdu
+est-ce que comment est-ce que comment
+est-ce que j'interagis avec avec ce
+produit et l'expérience c'est vraiment
+toute cette partielà c'est souvent
+quelque chose que euh nous on travaille
+parce que c'est pour nous c'est aussi
+important le produit quand on travaille
+sur des interfaces on travaille
+énormément sur l'expérience mais c'est
+pas quelque chose qui est réservé à des
+designers souvent c'est du bon sens
+souvent c'est se poser les bonnes
+questions et souvent c'est avoir une une
+espèce d'honnêteté par rapport au
+produit et être capable de dire ça ça
+fonctionne ça ça fonctionne pas euh
+essayer de pas être biaisé parce que
+parce que c'est notre produit pour
+présenter un peu plus euh comment est-ce
+que le système fonctionne euh quand on
+est dans dans une organisation avec
+plusieurs produits qui est souvent le
+cas quand on monte un une start-up c'est
+que on a soit une application mais
+souvent on va avoir une newsletter qu'on
+va envoyer aussi on va avoir un site web
+donc il va aussi se passer des choses
+sur le site web euh et du coup nous on
+identifie deux types d'expériences donc
+ce qu'on appelle ux user experience donc
+expérience macro ça va être euh euh dans
+l'organisation globale si je passe de
+l'application au site Web et qu'après
+j'appelle l' outline et que je reçois
+une newsletter comment est-ce que ça se
+passe comment est-ce que je peux
+illustrer l'ensemble de cette expérience
+là donc ça ça t toute l'expérience macro
+qui a beaucoup de sens quand on parle de
+services euh par exemple je sais pas si
+vous utilisez Autolib mais il y a
+clairement des gens qui ont réfléchi à
+qu'est-ce que je fais sur mon téléphone
+qu'est-ce que je fais sur la borne
+qu'est-ce que je fais dans la voiture
+donc tout ça ça va être de l'expérience
+macro et ensuite y a l'expérience micro
+où là on va plus être sur vraiment
+l'interface ou l'ergonomie de la
+télécommande ça c'est de l'expérience
+micro puis que je suis en train
+d'utiliser juste le produit c'est une
+expérience qui est vraiment attaché au
+produit là où l'expérience macro elle
+est attachée plutôt au servic au
+services que vous rendez euh et nous
+dans une approche donc dit une une
+approche de designer nous ce qu'on nous
+a toujours appris en école et que
+maintenant on raconte aux gens c'est que
+la manière la plus évidente de répondre
+de de de de concrétiser une expérience
+et en partant de l'utilisateur en
+identifiant ses besoins c'est les choses
+je suppose que tout le monde vous
+raconte mais identifier ses besoins
+identifier ses problèmes et adapter
+l'expérience et du coup le produit à
+l'utilisateur et pas sortir à l'inverse
+souvent quand on lance des produits on
+attend on lance des boîte on a tendance
+à se dire on j'ai une idée géniale ça va
+être une application qui fait ça ça ça
+avant de se dire en fait quel est le
+problème que je vais réseau que je vais
+résoudre euh qu'est-ce que mon
+utilisateur euh n'arrive pas bien à
+faire et du coup peut-être que la
+réponse sera unea peut-être que c'est
+autre chose peut-être que la réponse ce
+sera juste un numéro parce qu'en fait la
+meilleure réponse à apporter à ce
+problème là c'est un c'est un numéro
+donc c'est c'est pas évident à faire ce
+switch là parce que souvent les les deux
+arrivent en même temps mais c'est
+quelque chose qu'il faut essayer de se
+forcer à faire et euh c'est toujours
+plus simple de penser au problèmes qu'on
+va résoudre plutôt que de de penser à au
+produits euh qu'on va essayer de caler
+sur sur un problème existant
+euh un exemple on a aussi une vidéo pour
+parler de cet exemple là c'est un
+travail qui a été fait par l'agence ido
+donc une agence hyper connue
+internationale qui fait du du design
+global en tout genre et BVA donc qui est
+une banque et en fait ensemble ils ont
+redesigné l'expérience de retrait
+d'argent et on peut lancer la vidéo
+parce que le texte c'est pas non on a
+pas c'est pas très grave le son euh et
+dans cette dans cette vidéo c'est c'est
+évident que dans leur process ils se
+sont beaucoup plus attardés aux craintes
+des utilisateurs quand on de l'argent
+qui vont être des craintes de privacy
+qui vontêre des craintes de j'ai pas
+envie derrière quelqu'un qui me vole qui
+me vole ma carte et ils ont d'abord
+repensé à ça avant de repenser aux
+interface ou avant de redesigner le
+produit donc vous verrez en fonction en
+fait mets un petit peu de son parce
+que en fait ça peut avoir du sens
+point de départ c'était observer comment
+est-ce que les gens utilisent c'est quoi
+leur frein et comprendre l'existant on
+fait pas mal de de prototypes donc vous
+voyez des prototypes un peu dégux avec
+du carton parce que c'est pas ce qui
+importe à cette étape là et en fait ce
+qu'ils ont ce qu'ils ont proposé
+c'est dans l'expérience un peu spatiale
+ils ont simplement tourné le
+distributeur donc on plus les personnes
+n'arrivent plus par derrière les
+personnes vont arriver sur le côté donc
+ça permet de pouvoir voir le client
+suivant enfin la personne suivante on
+peut la voir on est sûr qu'elle voler
+nos nos coordonnées après évidemment ils
+ont retravaillé le produit pour queil
+soit plus il soit plus agréable à
+toucher plus grand écran et après ils
+ont fait le travail du coup sur les
+interfaces pour que les interfaces
+soient plus soient plus explicites et
+que les informations soient plus soit
+plus lisible mais il y a vraiment eu un
+travail initial qui était euh quels sont
+les craintes et quels sont les problèmes
+liés au au retrait d'argent avant de
+commencer à travailler sur l'interface
+puisque c'est pas l'interface toute
+seule qui va résoudre le problème c'est
+probablement une compréhension globale
+de de cette
+expérience en gros ce que ce qu'on pour
+essayer de résumer tout ça c'est c'est
+très important de pas construire une
+expérience utilisateur seul dans son
+coin faut dire que cette expérience
+utilisateur s'inscrit dans un contexte
+c'estd qu'on utilise une certaine un
+certain dans un certain contexte et
+c'est encore plus plus important quand
+on parle avec des objets des objets
+connectés ou ce genre de ce genre de
+techno c'est toujours dans un
+environnement et c'est c'est très bien
+de de commencer on en parlera de wirefer
+ses interfaces de de penser son service
+mais c'est très important au début du
+projet de l'intégrer dans un contexte
+voilà on reviendra un peu plus en détail
+là-dessus mais mais voilà c'est quelque
+chose qu' qu'il faut qu'il faut marteler
+par exemple une autre chose
+dont on résoudre c'est toute la question
+de je sais pas exactement ce que je vais
+avoir comme petite coupure ou comme je
+sais pas s'il va me donner un billet de
+50 ou si je vais avoir plusieurs donc
+pour ça qu'il mettait en avant le côté
+visuel dès le début je vois mes mes
+billets qui sont du coup schématisés sur
+sur l'interface mais je comprends quand
+ils vont arriver je comprends à quoi ils
+vont ressembler et en fait c'est tout ce
+travail qui ensuite a liidé le le
+développement du produit donc c'est des
+personnes qui ont pas commencé à
+construire quoi que ce soit avant de se
+dire ok on sait à quoi est-ce que ça va
+ressembler fin de la vidéo là tu parlais
+tu parlais d'utilisateur et cetera tout
+à l'heure un truc qui est important et
+que nous on essaie de ressasser quand
+quand on travaille avec des des startup
+qui qui nous parle d'aller faire des
+tests avec des utilisateurs et
+cetera souvent un bon moyen de de de de
+casser son expérience utilisateur c'est
+ça va paraître bizarre de dire ça mais
+c'est d'écouter ses utilisateurs dire
+que souvent quand on va présenter un
+produit les gens ils vont faire ah c'est
+cool ce serait cool si et il vous donne
+une liste de Fe
+voilà et en gros si le le meilleur moyen
+de casser son expérience c'est de de
+prendre ses listes de featur et
+directement les mettre dans sa roadmap
+alors qu'en vrai il vaut mieux aller
+voir ses utilisateurs les faire tester
+ça c'est important des utilisateurs ou
+même juste des tests auprès de des amis
+de la famille et
+cetera mais c'est plus important de le
+demander ok où est-ce que tu as souffert
+dans le process o où est-ce que ça pas
+marcher c'est c'est cool si tu as des
+idées mais je vaux probablement pas les
+écouter je vais plutôt prendre les
+points où ça a pas marché parce que ça
+c'est vraiment intéressant c'est la
+matière où sur bah sur mes maps de
+process comme parla bathazard je vais
+pouvoir dire ok bah ce ce bloc là il a
+pas marché donc ben on va le changer
+plutôt que d'ajouter des blocs c'est
+plus intéressant souvent de les
+retravailler retravailler
+l'existant
+hop c'est moi
+quiap
+tiens quelques slides euh je je laisser
+Alex expliquer en fait vas-y ouais euh
+du coup donc ça c'est encore on essaie
+de rabâer un peu un message souvent donc
+on comme je disais tout à l'heure on on
+fait appel à du design quand quand on va
+voir quelque chose qui qui claque pour
+faire une grosse campagne derrière pour
+dire voilà on a fait une refonte de
+notre site Web et cetera venez venez
+venez venez donc souvent ça c'est un peu
+l'attente qu'on qu'on a de des designers
+nous ça nous arrive c'estàd qu'on veut
+des trucs hyper stylés des trucs qu'on
+on peut mettre sur dribble qu'on peut
+communiquer avoir des super beaux
+visuels euh en réalité la plus enfin la
+plupart du temps de nos journées c'est
+c'est beaucoup moins sexy c'est des
+feuilles de papier c'est c'est c'est des
+grisbouilis on on surligne vite fait
+pour mettre des couleurs et dire bon bah
+ça c'est ça ça c'est ça en fait c'est
+design dans le sens premier c'est c'est
+concevoir et en vrai c'est c'est c'est
+le le sens premier de concevoir une une
+expérience utilateur c'est des systèmes
+c'est qu'on on construit des systèmes on
+construit des building block qui vont se
+connecter entre eux et cetera et si la
+mécanique elle tourne bien
+potentiellement vous pouvez mettre
+n'importe quelle couche graphique euh
+avec des styles complètement différents
+vous pouvez avoir des fleurs vous pouvez
+avoir des carrés rouges euh si derrière
+la mécanique elle est bien huilée ça va
+marcher euh c'est c'est les quatre
+grands piliers euh c'estàd que quand
+vous dites ok bon maintenant je je suis
+un peu convaincu je vais je vais
+intégrer du design dans mon process dans
+dans ma startup et cetera euh il il y a
+quatre il y a quatre grands piliers il y
+a ces quatre grandes étapes couches
+c'est d'abord on va on va essayer de de
+comprendre le besoin donc on va aller
+voir des utilisateurs on va aller on va
+vraiment faire une étude euh du marché
+des utilisateurs quis sont de quoi ils
+ont besoin c'est c'est ou quand est-ce
+qu'il souffre au moment de des process
+et cetera euh ensuite on va ce que je
+disais juste un instant c'est on va
+construire des building blocks on va
+faire des systèm on va connecter des
+grands des des grands des grandes étapes
+entre elles et on va dire OK bon benah
+là ça marche à peu près là ça marche
+super bien et là par contre ça marche
+pas du tout donc comment comment on
+réajuste ensuite on va on va
+s'intéresser euh aux interactions c'est
+là où on va passer sur la partie
+wireframe on va faire nos maquettes de
+produits euh on en parlera en détail
+tout à l'heure et cetera on va voir les
+interactions les interactions entre les
+écrans ou ou entre les différents
+produits et et app et cetera et là on va
+voir ok bon voà ça marche bien là on
+peut améliorer après hop ça c'est
+quelque chose qu'on peut mettre dans les
+mains de de de de friends and family and
+fools qui sont là ah ok qui vous donnent
+des retours et ensuite à la fin là on se
+fait plaisir et on balance une couche
+graphique pour rendre le truc attractif
+et avoir l'acquisition et cetera et
+cetera voilà donc maintenant la partie
+intéressante c'est qu'on va vous dire
+comment le faire comment faire tous ces
+concepts ces beau concepts de ok on va
+rendre nos utilisateurs heureux c'est
+bien gentil de le dire mais faut faut
+derrière il y a quand même des des des
+grandes étapes à faire
+euh première grande chose c'est
+contextualiser les usages j'en parlais
+tout à l'heure c'est faut vraiment ok
+moi je je crée un service je sais pas je
+crée un service de paiement dans quel
+contexte il il
+s'inscrit quelques il y a il y a
+quelques VO l'année dernière au début de
+PO studio moi j'étais pas là mais
+Guillaume et Raman ont travaillait sur
+un projet qui était un un système de
+paiement type Lidia et cetera euh mais
+juste entre amis c'était comment
+globalement c'était comment on rembourse
+on rembourse no no nos amis euh et ça
+bah il y a eu un gros travail de
+réflexion je sais pas tu peux peut-être
+en parler un peu je pense que c'est
+intéressant
+oui donc rapidement on a pas de visuel
+parce que parce que bon à la base je
+pensais pas en parler mais on a on a
+travaillé du coup sur cette application
+qui s'appelait GRP et qui permettait de
+se rembourser entre amis et en fait le
+point de départ c'était de se dire il y
+a beaucoup d'applications qui existent
+euh qui me permettent de mieux calculer
+ou qui me permettent de faire des
+paiements directement depuis
+l'application mais toutes ces
+applications partent age la même
+friction qui est à la base faut que ce
+soit une entrée manuelle pour déclarer
+le montant que que j'ai payé avec avec
+les différentes personnes et donc on
+répondait à un concours avec la deutche
+Bank et on s'est dit si une banque
+l'intègre on va pouvoir récupérer
+l'ensemble des des des des transactions
+qu'il y a sur sur la la carte bancaire
+et il faudra simplement dire cette
+transaction elle a été faite avec ces
+personnesl donc on a plus besoin de dire
+de souvenir quel est le quel est le
+montant où c'était avec qui c'était je
+voulais que que je voulais partager on a
+simplement à regarder son ses dépenses
+et se dire cette dépense là c'est quand
+j'ai payé des coups à tout le monde et
+du coup cette dépense je la signe à C
+ces personnesl et du coup puisque c'est
+une application qui venait d' d'un d'une
+banque c'était plus simple après
+derrière de pouvoir se de pouvoir se se
+se rembourser et on avait pas de système
+de RIB on avait pas de système d'ajout
+de carte parce que tout était fait et ce
+qu'on a fait c'est qu'on a designé une
+on a identifié dans l'expérience
+actuelle où étaient tous les freins donc
+les freins qui sont on naime pas
+demander à ses potes de nous rembourser
+on naime pas se battre pour quelques
+petits centimes on a toujours peur
+d'oublier d'oublier un montant ou pas on
+a essayé d'identifier tout ça et de voir
+comment est-ce que nous on pouvait y
+répondre donc par exemple demander à des
+amis bah d'un coup c'est devenu des
+notifications qui sont envoyé par
+l'application donc qui sont pas perçus
+comme le copain qui veut absolument se
+faire rembourser et qui est un petit peu
+chiant à la longue parce qu'il demande
+tout le temps et d'un coup c'est une
+notification comme regarde cette
+nouvelle information parce que
+notification qui vientent du du du
+système donc elle est pas perçu pareil
+donc on a nous on a identifié ces usages
+et c'est comme ça qu'on est arrivé à
+développer à designer l'application
+finale basé principalement sur les
+frictions que aujourd'hui proposait le
+système actuel même avec les
+applications qui permettent de se
+rembourser donc pour ça c'est souvent un
+bon un bon point de départ euh nous on
+fait on travaille très peu avec chez
+Studio on travaille très peu avec des C
+des charges euh en général on commence
+tous les projets par des workshops et
+pendant ces workshop là euh on va poser
+toutes ces grandes questions puisque
+définir euh son expérience utilisateur
+ça passe un par utiliser les bons outils
+on va vous en présenter quelques-uns
+mais ça passe aussi par je vous parlais
+d'honnêteté tout à l'heure mais aussi
+d'une compréhension très précise de du
+contexte dans lequel vous vous inscrivez
+savoir exactement ce que qui sont vos
+utilisateurs où est-ce que ils se ils se
+bloquent euh qu'est-ce qui se passe
+c'est quoi le qu'est-ce qui se passe
+aujourd'hui c'est c'est quoi
+l'expérience que je peux avoir
+aujourd'hui si jeux veux réserver un
+billet de de train j'ai pas différents
+choix et puis quand je vais sur le site
+voy SNCF quelles sont les informations
+qu'on me demande où est-ce que c'est des
+pain point où est-ce que c'est des
+points de souffrance et où est-ce que ça
+passe assez bien idéalement copier les
+trucs où ça se passe assez bien parce
+que il y a pas beaucoup d'intérêt de de
+réinventer la roue et concentrez-vous
+sur ce que les autres font mal et si
+vous vous arrivez à faire ça un peu
+mieux et ben d'un coup votre expérience
+votre expérience elle va être beaucoup
+plus fluide
+et réussir à à à porter des vraies
+réponses et à creuser ces différents ces
+différents points euh c'est crucial pour
+pouvoir après derrière proposer une
+bonne une bonne expérience vous pouvez
+pas proposer une bonne expérience sur
+une analyse un petit peu superficielle
+de votre contexte et de vos utilisateurs
+et de des problèmes que vous essayez de
+résoudre ça c'est un ça c'est un peu un
+template qu'on a nous quand on commence
+des projets c'està qu'on commence
+toujours avec un workshop où on pose ces
+questions comme ça on les on les pose
+une par une euh mais derrière c'est
+c'est pas non plus facile d'obtenir une
+réponse c'est-à- direire qu'il y a
+beaucoup d'éléments vous vous avez vous
+avez bossé sur votre produit depuis un
+an et cetera vous avez eu tellement
+d'input de de partout que ça peut être
+un peu confus et un peu difficile de
+répondre comme ça de brut en blanc mais
+par exemple si on prend un cas existant
+juste pour pour faire une petite
+démonstration rapidement Captain train
+donc c'est un peu dur parce qu'on va
+parler en leur nom donc ça se trouve on
+n pas on n pas forcément vrai euh mais
+juste pour pour l'exercice donc Captain
+train ils ont tout le monde est d'accord
+avec ça commander un ticket train sur la
+SNCF c'est c'est lourd c'est ça prend du
+temps il enregistre je pas souvent mes
+données et je suis toujours obligé de
+refaire les mêmes les mêmes et les mêmes
+process donc ça c'est le statut quo
+c'est genre il faut que ce soit très
+simple faut que le problème que vous
+essayez de résoudre soit vous essayez de
+raccourcir c'est en gros c'est la
+proposition de valeur faut faut essayer
+de la raccourcir au maximum pour qu'elle
+ait de l'impact et qu'elle soit surtout
+genre très compréhensible donc euh
+booker un ticket de train c'est chiant
+aujourd'hui c'est le statut quo ensuite
+qui sont mes utilisateurs qui est mon
+utilisateur bah typiquement là c'est un
+peu plus compliqué à répondre pour
+Captain 3 mais globalement c'est bah
+c'est le c'est c'est le jeune qui a qui
+a son smartphone et cetera qui qui est
+prêt aller dans ce sens-là je pense pas
+que ma mamie même si elle prend le train
+elle irait sur CT train euh comment ça
+se passe aujourd'hui bah là typiquement
+on va sur la VoyaG sncf.fr et on teste
+on teste on fait ok quand ça se passe si
+sur tris semain je fais par inice voilà
+est-ce que le le site il enregistre mes
+données et cetera on établit toute cette
+map là donc on va vous parler de de de
+map d'expérience on montre juste après
+donc ça va être ça ensuite quels sont
+les points de friction bah là on prend
+un stylo rouge Balthazard parlait de
+d'outil tout à l'heure nous on le fait
+sur papier et mais vous si vous pouvez
+le faire via n'importe quel média ça
+peut être Keynote ça peut être
+PowerPoint papier ou lucid chart et là
+on on on met en rouge bah tout ce qui se
+passe mal et ensuite on se dit bah ok
+c'est quoi le cas principal donc sur
+Captain train aujourd'hui il pourrait
+faire la même chose pour bah quand
+j'arrive je m'occupe j'ai un hôtel et
+cetera mais non ils ont décidé de se
+concentrer sur le fait donc je fais
+parinis si je le fais trois fois bah je
+je serai capable en deux clics de
+commander trois fois le même ticket et
+ça me prendra pas beaucoup de temps donc
+voilà donc ça c'est important souvent on
+voit on parle à des startups qui mais
+qu'est-ce qui se passe si en fait bah le
+mec il veut arriver il veut commander un
+un autre ticket train ou un ticket bus
+ou un hôtel pour rester dans la ville
+oui mais c'est quoi le use case
+principal qu'est-ce que qu'est-ce que
+ton utilisateur il vient pourquoi il
+s'inscrit pourquoi il clique sur le
+bouton au départ vraiment au tout départ
+il s'inscrit pour acheter un ticket de
+train donc concentre-toi fabrique ton
+expérience sur le ticket de train et
+ensuite tu verras une fois que tu auras
+5 milliards 5 millions d'utilisateurs
+pour un peu
+diversifier ton truc cette partie elle
+s'intéresse à comment est-ce qu'on peut
+soigner son utilisateur euh aujourd'hui
+on va vous présenter trois outils euh
+qui peuvent aller on un espèce de petit
+style graphique qui montre que qu'on va
+vers vers plus de précision euh c'est
+pas toujours le cas mais euh mais en
+général ça l'IT on a des expériences map
+euh donc vous allez voir c'est des
+schémas vous en faites vous en faites
+sûrement des enchaînements des systèmes
+c'est très macro c'est c'est ce qu'on
+tout à l'heure sur la partie 2 c'est ce
+qu'on appelé l'expérience macro ceent on
+va regarder on va survoler euh l'état de
+fait et notre service ce qu'on propose
+dans sa généralité sans aller dans le
+détail de du bouton et cetera c'est
+c'est vraiment on a une overview de
+notre produit et on sait justement dans
+quel contexte on on va s'imbriquer c'est
+hyper important pour pour avoir une une
+incarnation de euh du contexte dans
+lequel vous vous appliquez en général
+euh on sait qu'on veut proposer un
+service qui fait ça ça ça euh mais on
+sait jamais trop comment est-ce que ça
+s'organiseent comment les futures
+s'organisent entre elles comment les
+produits se parlent à quel moment dans
+le dans dans le parcours donc c'est ça
+qu'on va voir ensuite on a les
+storyboards qui sont un peu plus précis
+euh et qui vont pouvoir rendre compte de
+l'utilisation soit d'un produit physique
+ou soit d'un produit spatial si euh euh
+je je je veux redesigner le parcours
+dans un centre commercial il y a de
+grandes chances que les storyboard
+m'aideent à comprendre euh où est-ce que
+sera mon cl quand qu'est-ce qui se passe
+quand mon client est à la caisse
+qu'est-ce qui se passe quand mon client
+est rentre dans le magasin qu'est-ce qui
+se passe quand mon client essaie de
+prendre un produit euh et ensuite les
+wireframe donc qui permettent de euh
+construire qui qui est un peu le
+squelette de toute de toute interface
+web ou ou mobile on yeviendra on y
+viendra après mais du coup pour
+commencer sur sur l'expérience map
+est-ce que je peux avoir la merci on a
+pris un exemple qui euh qui est hyper
+intéressant qui a une une expérience map
+faite par Starbucks et qui concerne les
+utilisateurs qui vont au Starbucks pour
+travailler/ash prendre un café qui fait
+partie de une grosse partie de la cible
+la cible de Starbucks euh la partie la
+plus importante et la première à
+regarder je dirais c'est celle-là c'est
+euh c'est c'est toute la ligne qui prend
+l'utilisateur au début donc vous voyez
+le premier le premier point c'est je
+discute avec ma team pour savoir pour
+trouver un un coffei pour trouver un un
+un un un endroit pour boire du café
+juste à côté de chez moi et c'est le le
+le première partie de de l'expérience de
+Starbucks ça se passe pas encore à
+Starbucks ils sont probablement pas
+encore en train de parler de Starbucks
+mais pour Starbucks c'est là que ça
+commence ça veut dire que
+potentiellement derrière il y a des gens
+qui sont dit il faut qu'on seit
+référencier sur yalp sur Google Map il
+faut qu'on soit visible sur ces
+plateformes là parce que euh
+l'utilisateur qui va venir boire un café
+chez nous euh lui va considérer que si
+Starbucks n'est pas trouvable euh
+Starbucks a pas bien fait son travail
+alors qu'on n pas du tout sur le site de
+Starbucks alors que on n'est pas encore
+dans l'expérience Starbucks donc le
+l'expérience commence assez tôt on a à
+chaque fois les des grandes étapes qui
+sont anticipate enter donc c'est
+vraiment quand je vais rentrer
+physiquement dans le dans le dans le euh
+dans le dans le Starbucks engage donc
+c'est tout ce qui va se passer entre le
+moment où je vais donner ma commande où
+je vais payer où je vais boire mon café
+où je vais partir enfin jusqu'à jusqu'à
+j'ai pris la décision de partir ensuite
+on a exite et ensuite on a
+reflect sur la partie supérieure euh
+Starbucks a identifié les expériences
+les les les moments qui sont plutôt
+positifs et les moments qui sont plutôt
+négatifs donc typiquement payer c'est le
+moment où sortir sa carte ils ont ils
+ont noté un moment que c'est un
+personnel euh c'est pas une bon c'est
+pas une une bonne Brive de d'ex
+expérience le moment où tu payes parce
+que d'un coup tu es bah c'est jamais
+très cool de payer et ils ont identifié
+au-dessus par contre tout ce qui était
+du bonus donc ça va être les arômes
+quand on rentre dans le Starbucks et ben
+on est content parce que ça sent bon
+donc ça c'est une expérience un peu
+améliorative euh ils ont mis leurs
+produits ils ont mis le wifi ils ont mis
+ils ont essayé de de mapper l'ensemble
+des choses qui sont plutôt des plus et
+l'ensemble des choses qui sont plutôt
+des moins et de se voir et de voir
+comment est-ce qu'on intègre comment
+est-ce qu'on peut intégrer soit répondre
+à l'in par répondre à à quelque chose de
+négatif par quelque chose de positif ou
+en tout cas euh avoir une vue hyper
+précise de l'expérience que vont vivre
+mes utilisateurs et ça tout à l'heure je
+je disais que c'est c'est hyper
+intéressant pour euh pour pouvoir
+éclaircir un peu le flou qu'on va avoir
+euh c'est que si on fait pas ce
+travail-là euh on n'est pas du tout
+capable de euh de savoir que euh euh que
+les utilis on s'est pas posé la question
+de euh la friction euh que que va avoir
+un utilisateur au moment où il va
+rentrer dans le dans le Starbucks pour
+savoir si c'est si par exemple il y a de
+la place où il y a pas de place
+disponible si si on fait pas cet effort
+de de mapper l'ensemble de de
+l'expérience c'est très difficile
+d'identifier ces ces frictions là juste
+rapidement ce que montre aussi ce cette
+expérience map euh c'est bon depuis tout
+à l'heure on a parlé un peu des
+graphiques de de process de système et
+cetera où c'était assez simple euh
+souvent sur ce genre de document ça ça
+en tout cas cas ça devrait être un peu
+un document de référence pendant tout le
+développement du produit jusqu'à ce que
+il y ait un un un chi enfin une
+itération et cetera mais au moins au
+départ ça devra document de référence et
+donc là ce qu'on voit c'est que ils ont
+pas du tout hésité à mettre du texte euh
+ça peut paraître un peu illisible mais
+c'est pas très grave parce que ça c'est
+un document qui est en interne c'est pas
+forcément quelque chose que vous allez
+communiquer et donc faut pas hésiter
+c'est en terme de juste de faisabilité
+si cet après-midi vous faites une
+expérience map donc vous pouvez
+commencer à tracer des graphiques ce
+genre de choses mais faut pas hésiter à
+implémenter du texte faut que vraiment
+que ce ce document soit très clair et
+très exhaustif sur l'ensemble de
+l'expérience donc mettre du texte c'est
+pas c'est pas quelque chose qui est
+déconnant et c'est quelque chose qui est
+même utile parce que derrière vous allez
+retirer votre map vous l'avez affiché au
+mur qu'est-ce qui se passe c'est vrai
+qu'est-ce qui se passe au début c'est
+vrai qu'on avait défini ça comme ça
+est-ce que c'est toujours vrai ou pas
+voilà donc c'est une couche de détail
+qui est quand même assez
+importante un autre exemple donc là pour
+le coup qui est vraiment du du process
+c'est une une customer journ map sur
+l'achat d'un téléphone d'un téléphone
+portable donc on a un point de départ on
+a deux points de de sortie qui sont soit
+la vente c'est effectuée en magasin soit
+la vente s effectué par par téléphone
+par sur Internet et puis on va avoir
+évidemment des liens parce que de temps
+en temps on va voir en magasin et puis
+au final on achète sur Internet ou alors
+on va d'abord voir sur internet et puis
+après on va en magasin mais je dirais
+que la partie la plus importante c'est
+l'endroit où ils ont mis des couleurs
+euh ce qui est l'illustration de
+d'émotion euh c'est-à-dire qu'ils ont
+essayé d'identifier à quel moment mon
+utilisateur il avait peur à quel moment
+il était confus à quel moment il avait
+besoin d'être réassuré euh et ça leur
+permet de euh de pouvoir y mettre en
+face encore une fois de de de de sortir
+des chantiers et dire bah le vendeur
+quand il accueille un client euh on sait
+euh que la personne va être confuse pu
+que va être confuse parce que d'un coup
+il y a 30 téléphones qu'elle peut
+acheter donc elle va être un petit peu
+perdue euh et du coup qu'est-ce qu'on
+met en place pour que euh on réponde à
+cette confusion ça va pas être de la
+peur parce que quand on rentre dans le
+magasin on on sait on sait qu'on va être
+accueilli donc on va pas avoir peur mais
+par contre ça va être une autre émotion
+et comment est-ce qu'on peut y répondre
+et encore une fois ça permet de mettre
+des mots euh enfin pour le coup là des
+des schémas sur quelque chose qui est
+euh qui est assez peu tangible che
+quelque chose qui est très propre à
+l'expérience utilisateur c'est que euh
+c'est pas quelque chose qui est tangible
+comme une interface euh où on parle en
+terme de pixel c'est quelque chose qui
+est beaucoup du ressenti c'est quelque
+chose qui euh euh qui est une
+compréhension hyper fine de ce qui se
+passe et tous les outils qui permettent
+de le de l'illustrer euh vont permettre
+de de mieux de mieux le voir on avait
+euh on avait une slide qu'on a enlevé
+sur avec Albert Einstein qui disait euh
+euh si euh si je peux pas le l'illustrer
+je peux pas le comprendre et euh et
+c'est assez vrai euh l'expérience si on
+fait pas cet effort de euh si on fait
+pas cet effort de d'essayer de le
+dessiner ou de ou de de l'illustrer et
+ben c'est très difficile de savoir où
+est-ce qu'on en est si on fait les
+bonnes choses et de d'avoir une vue
+globale h euh tout à l'heure dans
+pendant le trailer du documentaire il y
+avait une une designer qui qui disait
+qu'aujourd'hui on a on a le choix on a
+un grand nombre de choix de
+d'applications de services de de site
+web pour pour pour beaucoup de choses et
+qu'est-ce qui fait qu'aujourd'hui nous
+on a nos outils préférés pour travailler
+on on utilise Netflix plus que Canal
+Play ou ce genre de chos euh c'est parce
+qu'on se sent connecté au produits on ça
+veut dire qu'on a on a littéralement une
+sorte de de sentiment pour pour un
+produit qui est qui est digital un
+service qui est qui est pas tangible
+mais on a un ressenti c'estàd moi
+aujourd'hui euh quand quand je veux
+regarder Netflix andil je vais me poser
+sur mon cadapé et regarder quelque chose
+à la télé clairement je vais pas
+forcément allumer la TNT je vais je vais
+allumer Netflix parce que je me sens
+connecté au truc et je me dis ouais
+clairement je trouverai mon compte
+là-dessus l'expérience est hyper fluide
+quand je lance une série ça ça décout
+tous les épisodes c'est dangereux
+d'ailleurs mais tous les épisodes se
+déroulent les uns la suite des autres
+j'ai pas besoin d'aller me lever d'aller
+choisir d'aller télécharger et cetera et
+cetera donc l'expérience est tellement
+fluide je pense que Netflix en terme de
+ressenti d'ailleurs il y a même un même
+autour de ça c'est Netflix and shield
+c'est devenu une expression courante
+c'est que les gens ils sont tellement
+connectés au produit que que voilà ça
+fait partie un peu du quotidien ça fait
+partie de peu partie de nous et et ben
+cette map là le montre bien c'est qu'il
+a des il y a des fois où
+c'est j'ai un sentimentun peu de peur et
+il y a des fois où j'ai un sentiment de
+rassurance et cetera et ça c'est le
+genre de données que vous vous pouvez
+avoir en parlant à vos utilisateurs en
+parlant à vos amis à vos familles et
+cetera sur sur votre produit euh un
+autre exemple euh c'est un travail qui a
+été fait par Nike donc c'est moins sur
+le ressenti euh mais c'était
+illustration de ce qui se passe entre
+lesexériences en ligne les expériences
+in store donc en magasin et puis out of
+store donc tout ce qui va être pop-up
+store et événement un peu enfin tout ce
+qui est événementiel euh et en fait
+comment est-ce que c'est toutes ces
+différentes bulles sont connectées entre
+elles et ils ont fait l'effort de euh
+enfin le partiprix c'est illustré
+qu'est-ce qui fait partie du dreaming
+donc tout ce qui va être un peu image de
+marque embarquer l'utilisateur dans le
+le délire entre guillemets de de Nike et
+tout l'univers de de Nike donc on se
+rend compte que tout ce qui est popup
+Store c'est clairement ça qui est
+recherché exploring donc c'est là où on
+va je vais pouvoir aller un petit peu
+plus loin donc dans certains cas je peux
+aller plus loin et et cette cette map
+permet de savoir que potentiellement mon
+utilisateur qui était sur nik.com et ben
+après il a été faire il a été au n TR
+van donc peut-être que ça peut être
+intéressant de de faire un lien depuis
+nike.com en disant en pouant
+particulièrement cet événement en
+donnant un code pour pouvoir récupérer
+une sorte de goodies là-bas mais ça
+permet de de comprendre quels sont les
+liens qu'on va pouvoir faire entre les
+différents éléments et de comprendre
+comment c'est c'est
+organisé ce qui juste ce qui est marrant
+à voir c'est que du coup ce qui est en
+violet c'est clairement ce qui est plus
+relié à la vente et ce qu'on voit c'est
+qu'il y a énormément de chemins entre le
+côté
+sentiment marque et cetera exploration
+du du produit et que bah il y a il y a
+qu'un chemin il y a qu'un chemin qui est
+vraiment spécifique un peu la vente donc
+tout ça c'est un système et c'est pour
+ça qu'on parle de contexte depuis tout à
+l'heure c'est que bah tout le contexte
+fait que bah au final ce ce chemin de
+d'achat bah il va devenir il va beaucoup
+plus ressortir parce que bah je me suis
+attaché à l'environnement et au
+contexte un autre exemple c'est un
+travail qui a été fa fait par Lego donc
+c'est pas un produit qui qui existe mais
+c'était pendant leur le leur moment de
+recherche euh donc l'ego identifie au
+milieu un une personne un contexte parce
+que on a besoin quand même de ça pour
+pour parler de quelque chose de de
+précis et ensuite à représenter donc de
+manière circulaire l'expérience commence
+principalement là au début before et et
+en fait ce que fait ce document il
+identifie tous les tous les éléments
+toutes les étapes toutes les les
+sous-étapes dans là c'est un voyage
+c'est une personne qui qui voyage pour
+New York pour le travail euh et on voit
+que le début de l'expérience c'est
+contacter le département voyage de de la
+compagnie ensuite c'est booker les
+ticket ensuite c'est les recevoir
+ensuite c'est checkin à la train station
+ensuite c'est checkin enfin aller
+jusqu'à l'aéroport de HRO donc on a on a
+toutes ces différentes étapes à chaque
+fois il y a un petit smiley qui qui
+traduit si c'est plutôt quelque chose
+qui va être positif ou si c'est plutôt
+quelque chose dans lequel l'utilisateur
+va être moyen content comme comme il
+l'explique et qui identifie aussi les
+moments où on va avoir de l'espace ici
+des des break moment donc des moments
+soit où il y a des cassures ou soit des
+moments où euh où l'utilisateur va avoir
+du temps pour faire quelque chose et
+potentiellement là où Lego aurait un
+intérêt à proposer euh imaginons euh ils
+décident de travailler au moment où on
+attend avant de rentrer dans la dans
+l'avion et ben là ils vont se dire ok on
+a une on a une ouverture pour pouvoir
+proposer un pour pouvoir proposer une
+une application ou un jeu parce qu'on
+sait que dans toute l'expérience il y a
+pas d'autres il y a pas trop trop
+d'autres ouvertures donc s'il faut
+proposer quelque chose euh ça va être à
+cet endroit-là donc pour le coup c'est
+un travail qui est hyper précis et hyper
+décomposé de l'expérience de voyage pour
+quelqu'un qui voyage dans le cadre de
+son
+business pour pour rebondir sur ces sur
+ces break moment
+euh récemment on a on a téléchargé une
+application au boulot pour juste pas
+pour le tester mais aussi c'est c'est
+intéressant c'est une ça s'appelle IV je
+je vous le recommande d'aller voir ça
+s'pp ça s'appelle hi Vy c'est ça euh et
+gros modo c'est une c'est une
+application qui qui vous permet de de
+mettre les les vacances au boulot et
+cetera de poser ses congés directement
+sur sur une application euh et donc
+c'est une application globalement on
+s'en sert pas tous les jours parce qu'on
+posste pas tous les jours des congés euh
+c'est vraiment bon bah ou alors dommage
+euh mais c'est c'est vraiment une
+application qui est qui est assez
+temporaire on l'utilise une fois tous
+les 3 mois une fois tous les 4 mois et
+concrètement ce que eux ils ont fait et
+c'est qu'ils ont pensé à ces breakp euh
+ils nous ont euh là c'était c'était hier
+il nous envoyé une notification sur nos
+téléphones ou par email
+euh disant c'est bientôt c'est vendredi
+euh tu as un peu de temps sûrement à la
+fin de ton boulot c'est vendredi pense à
+poser tes congés pour Noël donc
+typiquement ça c'est un breakp dans dans
+le dans dans le dans le userfow c'est un
+moment où on était pas actif on
+utilisait pas activement l'application
+euh mais ceci dit cétait pile pooil au
+bon moment c'était un vendredi donc
+potentiellement un vendredi soir en plus
+il était 18h donc euh j'allais
+potentiellement arrêter de travailler
+donc j'avais je pouvais prendre minutes
+pour poser mes congés ils ont utilisé ce
+breakp où j'utilisais pas l'application
+pour me ramener intelligemment à
+utiliser le
+service euh et on va présenter ouais on
+va présenter un travail qu'on a fait
+pour pour une start-up avec laquel on
+travaille qui propose leur leur
+présentation rapide c'est euh réussir à
+prévoir la période de dépendance pour
+les personnes âgées basé sur la donnée
+captée par des objets connectés donc ils
+ont une balance connectée ils ont un un
+actimètre et puis ils ont une tablette
+qui pose quel questions donc c'est une
+expérience qui est assez complexe parce
+qu'il y a plusieurs produits c'est une
+expérience qui est assez longue aussi
+parce que potentiellement l'utilisateurs
+va l'utiliser pendant des mois euh et du
+coup le premier travail qu'on a réalisé
+avec eux c'était identifier donc comme
+sur la la map de Starbucks les grandes
+étapes donc on a une décision d'achat on
+a un achat on a l'installation de de
+tout le de tout l'environnement le
+premier usage et l'usage récurrent dans
+ces étapes on a plusieurs sous-étapes
+donc la décision d'achat elle peut se
+faire euh soit on peut découvrir le le
+le produit sur une brochure suite à une
+démonstration par téléphone sur le site
+web donc on est capable de savoir toutes
+les les moyens d'entrée euh on a un
+questionnaire d'éliggibilité parce qu'on
+va pas vendre un produit si la personne
+ne fait pas partie de la cible ensuite
+dans l'achat on a l'ajout de formation
+les formules le paiement on a en fait
+tout tout ce process qui est qui est
+illustré et ici on retrouve euh le rôle
+qu'on va que va avoir les différents
+acteurs de l'expérience qui sont le
+partenaire donc là dans l'occurrence
+c'est un assureur l'utilisateur
+qu'est-ce que l'utilisateur doit faire
+qu'est-ce que le médecin doit faire et
+quand est-ce qu'il intervient et
+qu'est-ce que la team yelf doit faire
+c'est-à-dire proposer probablement du
+support au moment de l'installation
+proposer un numéro sur le llet qui dit
+vous arrivez pas à installer à
+synchroniser votre balance app ce numéro
+là et de réussir à mettre en place t
+tous les toutes les les fonctionnalités
+qui vont permettre une expérience du
+coup fluide sans cassure une expérience
+qui va bien se passer là vous voyez un
+visuel qui est qui est plutôt plutôt
+stylé en vrai le le matériel de base
+qu'on utilisait pour bosser avec Elf é
+était beaucoup moins beaucoup moins
+designé c'était juste des blocs type
+lucid chart où on avait juste les
+connexions on pouvait se permettre de de
+mettre des trucs en rouge de poser des
+questions directement de se dire bah là
+on sait clairement on sait pas trop il
+va falloir qu'on teste ou là clairement
+il y a une friction ou ce genre de chose
+voilà euh pour faire une petite
+transition avec de avec ce qui vient
+donc on on va passer sur les storyboards
+on va rentrer encore dans un niveau un
+nouveau niveau de détail euh ça c'est
+c'est aussi ce qu'on ce qu'on peut
+appeler une expérience map euh mais qui
+est sur un niveau de détail un peu plus
+précis
+euh je vais vous raconter une anecdote
+qui s'est passé cette semaine et
+pourquoi ce document existe aujourd'hui
+euh clairement qu'on travaille sur sur
+un projet assez long terme avec une une
+start-up euh qui qui tourne autour de
+prendre un screenshot sur mobile et
+comment on optimise cette expérience euh
+et donc on avait eu plein de meeting des
+process enfin on appliquit toujours le
+même process on fait des wireframe on
+fait un coup du hi on lance
+l'application on teste sur les les
+centaines d'utilisateur qu'on a et et là
+on on faisait une grosse refonte une
+sorte de V2 sur l'application on est
+parti plein de balle sur sur les
+wireframe euh et en début de semaine je
+commence à à me mettre à faire la couche
+graphique sur sur sur l'application je
+présente je présente le le produit à
+Adam avec qui on travaille et il me fait
+non mais il y a un problème qu'est-ce
+qui se passe là qu'est-ce qui passe là
+et qu'est-ce qui se passe là je ben non
+mais je suis pas d'accord c'est pas du
+tout la vision qu'on avait de la vision
+globale du produit et en fait on avait
+juste loupé un peu cette étape de
+mapping où on avait une vue globale des
+fonctionnalités du de comment ça se
+passait et cetera ce qui fait que bah
+tous les deux on avait une idée un petit
+peu subjective de de l'application on
+est parti sur quelque chose de de faux
+donc même en appliquant des process des
+fois c'est assez facile de se perdre
+dans l'expérience utilisateur parce que
+bah comme on l'a dit avant ça c'est des
+fois c'est c'est sur le ressenti ce
+genre de chos donc c'est hyper important
+d'être carré et notamment sur sur
+l'expérience map parce que ça ça va être
+ça doit être un document de référence
+donc là on a détail des des
+fonctionnalités qu'est-ce qui se passe
+quand je copie une URL ou quand je suis
+sur la home ok j'ai tous mes trucs quand
+qu'est-ce qui fait quand quand je tape
+bah j'ai j'ai ces ensembles de
+fonctionnalités et cetera et cetera
+voilà donc c'est très important euh
+rapidement pour finir cette partie euh
+s'il y a des choses à retenir pour que
+pour cet après-midi réussir à faire à
+faire des des des expériences map euh
+c'est un utiliser les identifier les
+grandes étapes donc comme je vous ai
+montré souvent il y a découvert décisons
+d'achat achat ou euh découverte création
+de compte deuxème connexion il va y
+avoir des des grandes étapes comme ça et
+dans lesquels vous allez pouvoir après
+rentrer plus dans les détails c'est quoi
+les les sous-parties mais c'est
+important d'avoir les grandes les
+grandes parties raconter l'histoire de
+gauche à droite c'est très bête et
+méchant mais c'est euh je vous ai montré
+quelques quelques choses qui sont un peu
+plus illustré c'est toujours un petit
+peu plus dangereux de partir sur les
+trucs circulaires et tout pour de la
+visibilité donc gardez les choses assez
+simples illustrer les paramètres qui ont
+le plus de sens par rapport à votre
+service essayer de pas tout mettre
+dedans tout à l'heure je vous ai montré
+le rôle du médecin le rôle de l'assureur
+le rôle de l'utilisateur c'est parce
+qu'il y avait un vrai enjeu de réussir à
+faire communiquer ces différentes
+personnes si vous sur votre service
+l'enjeu il est récolté de la data ça
+peut être plus intéressant de dire
+qu'est-ce que je récolte au moment où le
+mec se connecte la première fois
+qu'est-ce que je récolte au moment où le
+mec crée son compte qu'est-ce que je
+récolte au bout de la 3ème connexion de
+la 5e connexion donc ça dépend vraiment
+de de de quel est votre service et
+ensuite utiliser la couleur seulement
+sur les élément à mettre en valeur ça
+c'est un peu une grande règle de de
+design ou de représentation c'est
+essayer de essayer d'identifier de de de
+mettre l'accent sur sur ce qui va avoir
+avoir de la valeur et et souvent la
+couleur c'est un bon moyen de le faire
+euh si vous voulez aller plus loin il y
+a un très bon très bon ebook qui a été
+écrit par adaptive path euh s'appelle
+mappingexperience.com donc c'est c'est
+des c'est des documents que moi j'adore
+lire mais peut-être qu'il peuvent être
+un petit peu lourds mais si vous voulez
+creuser un peu ce ce sujet hésitez pas
+hésitez pas à y aller euh et maintenant
+on va parler du coup rapidement de
+storyboard donc qui vient après
+l'expérience map au sur l'expérience map
+on a une vision qui était très Macron on
+rentrait pas vraiment dans le dans le
+détail le storyboard va faire ce
+travail- làà va préciser un peu plus ce
+qui se passe clairement euh encore une
+fois c'est pas du tout le niveau de
+dessin qui va compter mais beaucoup plus
+ce que vous allez illustrer ou euh
+comment est-ce que vous allez illustrer
+euh donc là c'est un storyboard rapide
+pour une application qui propose des
+deals euh pour pouvoir les transformer
+après au store donc principalement du
+texte et des des dessins qui sont un
+petit peu dégueux mais qui racontent une
+histoire et qui permettent de savoir
+quand est-ce que l'utilisateur va sortir
+son application qu'est-ce qu'il va être
+en train de faire à ce moment-là comment
+est-ce que ça se passe quand il va
+checkout euh donc c'est toutes ces là
+c'est un autre exemple qui est pas très
+loin même si c'est de sources différente
+mais euh c'est un dessin qui est très
+très simple voyez c'est des ronds et des
+carrés
+c'est pas compliqué à réaliser et
+pourtant ça va raconter facilement une
+histoire que ce soit pour discuter avec
+votre team ou avec vos futures
+utilisateurs ou avec des investisseurs
+si si vous avez besoin mais en quelques
+quelques coup de trayon on a compris que
+a priori la personne il est au
+supermarché il est en train de choisir
+un article il pense à acheter du lait au
+moment où il va chercher du lait il y a
+un autre personnage parce que l'autre
+personnage est en orange donc on
+comprend que c'est un autre personnage
+qui lui vole son paquet et du coup
+qu'est-ce qui se passe à ce moment-là
+donc l'histoire est pas très très
+pertinente mais la qualité de la la
+capacité à l'illustrer a beaucoup de
+valeur parce que d'un coup on est
+capable de mettre des des mots ou des on
+est capable de d'illustrer une
+expérience qui encore une fois est
+difficile à illustrer puis que on parle
+pas d'une interface qui se calcule en
+pixel on parle de de quelque chose qui
+de quelque chose qui se vit nous on a
+fait ce travail là pour pour justement
+yelf donc la même la même start-up sur
+les objets connectés pour le coup il
+avait un peu la double double objectif
+avec ce storyboard c'est un comprendre
+et préciser qu'est-ce qui se passe
+clairement quand qu notre utilisateur
+commande reçoit son kit d'objets
+connectés et l'installe chez lui mais
+qui avait aussi le l'objectif de pouvoir
+le présenter à des utilisateurs et aux
+investisseurs c'est pour ça on a passé
+un peu plus de temps à l'illustrer c'est
+pas obligatoire d'avoir un niveau un
+niveau
+de un niveau graphique aussi poussé mais
+c'est aujourd'hui la meilleure manière
+qu'on a pour expliquer une expérience
+que les gens vont vivre c'est juste
+représenter les gens en train de la
+vivre et euh et c'est quelque chose que
+vous pouvez faire qui est je dirais
+primordial si vous avez des objets
+connectés ou si vous vous inscrivez dans
+un espace ou s'il se passe quelque chose
+dans un dans un environnement pour si
+vous travaillez juste sur une
+application mobile ça peut être
+intéressant d'y réfléchir si
+l'utilisation de l'application mobile
+c'est pas juste sur son canape devant la
+télé mais c'est potentiellement dans la
+rue c'est
+potentiellement je sais pas dans un
+avion peu importe par exemple
+l'expérience avec save l'expérience sur
+les sur les
+stands a probablement dû ou aurait dû
+être
+euh storyboardé au début pour vraiment
+genre comprendre de cas le client il
+arrive il dit bonjour et cetera et
+comment chaque étape qui passe et au
+moins c'est visuel c'est humain et c'est
+facile à comprendre c'est très bons
+support de communication ouais c'est les
+bons support de communication et il
+permett d'illustrer euh je dirais dans
+le dans l'expérience map le moment le
+plus important ou le moment où il risque
+d'y avoir plus de friction vous allez
+pas vous amuser à illustrer l'ensemble
+du du parcours parce qu'il y a beaucoup
+d'écrans qui servent à rien euh mais par
+contre les moments où il y a le plus
+d'enjeux quand on va repasser dans le
+physique ou quand on va repasser dans le
+sur une application et ben peut-être que
+ces momentsl il nécessit un peu plus de
+travail et réussir à faire ce travail là
+peut-être que ça vous peut vous paraître
+du bonus mais toutes les questions que
+vous allez vous poser pour pouvoir
+dessiner ça et ben ça veut dire préciser
+votre expérience et ça veut dire avoir
+une meilleure compréhension donc encore
+une fois c'est pas forcément le résultat
+qui compte mais c'est c'est le fait de
+de se mettre dans cette démarche là et
+de se poser les questions question les
+questions que que que vont rencontrer
+les vos utilisateurs euh et là pareil
+s'il y a quelques points à retenir c'est
+privilégier plusieurs coursessay pas de
+faire une histoire qui raconte tout du
+mec du début jusqu'à la fin quitte le
+service dites juste ok qu'est-ce qui se
+passe sur l'banding et ben le mec on le
+contacte on lui donne notre carte de
+visite on lui envoie un mail une semaine
+après et voilà ça c'est l'expérience
+onbarding après il y a l'expérience
+comment est-ce qu'on travaille sur le
+projet avec des clients ça c'est une
+notre expérience et l'expérience
+potentiellement comment est-ce que
+projet se termine c'est une autre
+expérience et essayer de de tout de tout
+connecter euh encore une fois raconter
+l'istoire de gauche à droite de haut en
+bas c'est un classique et pas essayz
+hésiter à utiliser du texte euh il y a
+des certaines choses qui sont difficiles
+à représenter visuellement euh vous
+écrivez vous faites un gros point
+d'interrogation et vous metettes gros
+questionnement et voilà vous essayez pas
+de d'illustrer le le personnage qui va
+essayer de qui va être qui va être un
+peu confus parce que ça sert à rien il y
+a certaines choses gardez-le en texte
+pour que pour que ça a bien euh là
+pareil de deux livres à lire donc là
+c'est encore plus lourd c'est vraiment
+si vous avez du temps et que vous adorez
+ça mais ce livre d service design
+thinking qui est très cool qui explique
+justement qui va un peu même sur
+l'expérience map et qui va qui va aussi
+un peu sur le wire framing mais qui
+explique le les parcours utilisateurs et
+comment c'est de de concevoir un service
+et design of everyday thing de Donald
+Norman qui qui est un peu la Bible la
+bible du designer euh Mo c'est une ce ce
+bouquin c'est juste un basique il il est
+vraiment très cool c'est c'est un c'est
+un bon bouquin de chevet en plus euh
+c'est juste le sorte de minds que de
+mindset qu'on nous on a un peu c'est
+genre essayer de de de réfléchir juste
+d'observer comment ça marche et et de de
+réfléchir un peu sur les mécanique euh
+et ce bouquin il est vachement bien
+parce qu'il explique les mécaniques sur
+n'importe quoi euh sur une poignée de
+porte sur euh sur une taillère et cetera
+et et pourquoi pourquoi c'est fait comme
+ça et pas autrement ou si si ça avait
+été fait autrement bah
+comment ça aurait été fait et est-ce que
+ça aurait été pratique à utiliser ce
+genre de chos donc c'est c'est c'est un
+bon bouquin de chevet qui qui permet
+d'un peu avoir ce mindset utilisateur
+quand quand on réfléchit un produit ou
+un service et enfin on va finir sur les
+wireframe donc si on suit la progression
+vous avez d'abord une vue vous avez eu
+une vue très globale de qu'est-ce qui se
+passe sur l'ensemble sur sur
+l'expérience globale ensuite dans
+certains cas qu'est-ce qui se passe les
+cas que vous les traitez
+particulièrement et en fait du
+storyboard ça va être beaucoup plus
+simple de faire du de faire les
+wireframe et de de savoir qu'est-ce que
+l'interface doit dire quelle information
+doit être sur l'écran à quel moment
+parce que vous savez dans quel contexte
+est-ce que l'écran va l'application va
+être ouvert vous savez pourquoi est-ce
+que l'appli l'utilisateur ouvrera
+l'application donc c'est c'est toutes
+ces informations qui vont permettre de
+faire le travail de wireframe beaucoup
+plus
+facilement là encore c'est pas du tout
+le niveau de dessin c'est des souvent
+c'est des choses aussi dégueulasses
+qu'on fait qui sont des carrés gris et
+du texte ou du faux texte mais qui vont
+permettre de valider deux choses qui
+sont un les inter action hyper
+importante de entre les différents
+éléments euh si je clique sur cet
+élément qu'est-ce que je vais avoir donc
+d'avoir une première vue de pouvoir
+commencer à dessiner l'application avant
+qu'elle existe vraiment et et de aussi
+définir l'enchaînement des informations
+qu'est-ce quel type d'information on va
+mettre sur la première moitié de page en
+dessous qu'est-ce qu'on raconte en
+dessous qu'est-ce qu'on raconte encore
+avant de commencer à le raconter
+vraiment c'est c'est tout ce travail
+souvent on dit que les WIF c'est le
+squelette de l'application euh c'est la
+structure un un travail sur les
+wireframe qui a pas été bien fait ça
+annonce forcément un travail sur le
+design final qui est pas bien fait parce
+que il y a quelque chose qui va pas bien
+tourner il y a quelque chose je devais
+avoir cette information avant et en fait
+je l'ai eu trop tard et ben d'un coup
+mon expérience elle est nulle pas parce
+que l'interface est pas joli pas parce
+que le logo est pas joli mais simplement
+parce que c'est c'est pas logique et ça
+suit pas ma ça ça pas suivi mon mon
+déroulement donc donc passez maximum de
+temps là-dessus euh cherchez pas essayer
+de faire du beau tout de suite c'est
+vraiment pas ça qui a d'importance si
+vous avez quelque chose qui tourne très
+bien des wirefram qui tournent très bien
+et ben ça fera le ça fera beaucoup plus
+le job que si vous avez une mauvaise
+expérience et et des beaux écrans donc
+on est on est limite un peu plus reste
+sur cette slide un peu plus extrémiste
+que ça c'est V que nous sur les
+wireframe quand on travaille on essaie
+d'enlever un maximum de fluff pour pour
+éviter toute subjectivité entre
+guillemets donc c'est pour ça qu'il y a
+très peu de couleurs et cetera et on va
+même plus loin c'estàd qu'on on enlève
+tout le texte qui est pas nécessaire
+c'està-dire bah par exemple ici là on a
+une partie profil clairement on n pas on
+a même pas mis un faux nom ou ce genre
+de chose parce que c'est pas un niveau
+de détail qui est intéressant là on a
+mis du texte c'est sur c'est sur la
+partie le titre de la partie on voit pas
+très bien ici mais le titre de la partie
+et le call to action parce que les deux
+les deux sont intéressants de commencer
+à penser au au wording ce genre de chos
+et puis même en terme de communication
+c'est bien de de voir un mot sur un call
+to action mais par contre le nom du du
+du nom sur le prof film Mo concrètement
+on s'en fout donc autant euh élaguer
+cette partie là parce qu'elle est pas
+utile et de se concentrer sur sur les
+choses vraiment importante donc ça c'est
+un travail qu'on a fait pour pour une
+start-up avec laqu on travaille où on a
+identifié du coup sur le dashboard
+qu'est-ce qui se passe quand je clique
+sur sur ce gros carré on sait pas
+exactement à quoi ça ressemble on sait
+pas s'il va y avoir de la couleur dessus
+si c'est une photo si le texte il sera
+en 15 ou en 16 mais on pour le coup on
+s'en fout complètement on veut savoir
+que quand on clique là-dessus on a une
+deè page et qu'on a une structure qui
+est un dashboard avec à l'intérieur des
+boards et que sur les boards on peut
+ouvrir un écran pour avoir des
+screenshots et dessus pour pouvoir
+consulter le le screenshot et dessus
+avoir des commentaires avoir des choses
+comme ça mais ce qu'on souhaite valider
+à ce moment-là c'est que oui il y aura
+des
+commentaires grosso modo le
+l'organisation de la page elle sera
+comme ça il y a l'écran à gauche et puis
+les commentaires à droite c'est ça qu'on
+ve valider avant que on commence à
+réaliser à à designer vraiment à
+proprement parler à quoi est-ce que à
+quoi est-ce que ça va servir donc tout
+ce travail de d'identification des zones
+c'est c'est pas très loin du zoning si
+vous êtes un peu à l'aise avec la
+différence entre wireframe zoning mais
+c'est clairement ce qu'on essaie de
+faire aujourd'hui
+c'est réussir à voir à comment à ça
+commencer à voir à quoi est-ce que le
+produit va va ressembler avant de de le
+faire typiquement ce genre de parce que
+je pense qu'on est on est bon après il y
+a d'autres exemples euh ce ce genre de
+chose vous pouvez enfin nous on le fait
+sur nos outils de de designos mais euh
+si vous avez pas Photoshop ou sketch ou
+peu importe euh c'est des choses que
+vous pouvez faire hyper simplement par
+exemple avec PowerPoint ou Keynote ù en
+plus on peut ajouter un niveau
+d'animation genre de chos d'avoir
+l'enchaînement entre les entre les
+écrans sinon on vous recommande des
+choses type balsamique qui fait très
+bien le taf donc balsamique avec un Q à
+la fin je crois euh et une fois que vous
+avez vos écrans vous pouvez vous pouvez
+les porter et nous nous on travaille
+uniquement avec un outil qui s'appelle
+invision donc la boîte qui a produit le
+le documentaire de tout à l'heure euh et
+en fait cette invision vous permet de
+mettre des des JPEG sur sur invision et
+ensuite de tracer des zones clicable
+donc ce qui ce qui est bien avec ça bon
+là là c'est c'est un exemple où on avait
+pas besoin de d'expliquer le contexte
+parce que c'était un document entre
+entre nous et le client la start-up mais
+si vous voulez tester bah hésitez pas à
+mettre un peu plus de texte pour donner
+du contexte et vous expliquez aux
+utilisateurs ou à vos amis et family euh
+et ensuite genre mettez-le sur invision
+ou sur Keynote où on peut avoir
+l'enchaînement des écrans et et et aller
+montrer sur votre iPad sur sur votre
+laptop ou ou Quiou quoi euh pour pour
+essayer de le faire tester c'est les
+prototypes ça c'est une phase où on peut
+essayer on peut tout casser on peut
+recommencer et cetera parce que
+justement on s'est pas embêté à mettre
+des couleurs euh on n'a pas réfléchi à
+des à des codes graphiques à des des
+typographie et ce genre de choses donc
+c'est hyper facile de de casser de
+recommencer c'est c'est vraiment hyper
+flexible comme outil donc pareil les
+choses à retenir commencer par des
+wireframe à main levé donc pareil le
+dessin nous on fait on fait beaucoup de
+dessins avant de commencer à à faire des
+choses des petites boxes gris valider
+d'abord les interactions les structures
+de page donc c'est ce que je vous ai dit
+tout à l'heure enlever toutes les
+couleurs typographie photos ne vous
+inquiétez pas de ça c'est une bonne
+expérience elle passe un peu par par du
+du contenu visuel mais elle passe
+beaucoup par un enchaînement et par la
+bonne information au bon moment euh plus
+que plus que la formation belle et mis
+en valeur et a tout ça donc rendre les
+wiframe quickable donc c'est exactement
+ce que Alexis raconte il y a des outils
+très simples qui permettent de
+prototyper vous définissez des zones
+vous dites quand je clique sur ce
+boutonl ça m'amène à cette à cette autre
+page utiliseer ça au maximum parce que
+toutes les réponses que vous allez avoir
+sur l'expérience à ce niveau-là euh
+c'est des réponses que vous avez eu avec
+très peu de d'effort très peu de moyens
+à partir du moment où vous mettez euh de
+de l'effort graphique par-dessus si la
+page elle a pas d'intérêt et ben d'un
+coup vous avez perdu 3 jours puce que
+c'était 3 jours de discussions avec des
+designers pour faire une belle page
+alors qu'en fait la page de base devait
+pas exister elle a aucun sens dans
+l'expérience donc faites bien attention
+à pas aller trop trop trop rapidement
+là-dessus euh et du coup c'est c'est le
+dernier point travailleer lu des
+interfaces que une fois que euh vous
+êtes sûr que les écrans euh semble
+fonctionner ou vous voulez les tester ou
+c'est pour pour aller chercher euh c'est
+pour aller chercher des réponses mais
+pas euh mais ne le faites pas surtout
+faites le travail du X avant de faire un
+travail du I et faites pas un travail du
+I trop tôt ou ou pour des mauvaise
+raison qui sont je veux avoir quelque
+chose de beau je vais avoir quelque
+chose qui claque tout ça c'est c'est pas
+ça qui va faire que que derrière les on
+est tous en train d'utiliser snapchat et
+pourtant snapchat moi je trouve que
+c'est dégueulasse et pourtant
+l'expérience de snapchat est super bien
+donc moi j'ai envie de l'utiliser euh il
+y a des gens qui m'envoient des snap
+donc je reviens et au final c'est pas
+c'est c'est pas parce que l'application
+est belle euh Facebook a essayé de faire
+hyperhot un snapchat un peu plus joli et
+au final ça ça fonctionnait pas
+principalement pour d'autres raisons
+mais encore une fois lui vous permet pas
+de c'est c'est pas la réponse à toutes
+les questions là où l'UX est beaucoup
+plus beaucoup plus euh pareil si vous
+voulez lire quelque chose euh uxux pin
+qui est un logiciel qu'on n'utilise pas
+mais qui permet de faire de faire de
+l'UX qui écrit beaucoup de ebook et ils
+ont notamment écrit un ebook sur sur les
+wireframe donc si vous savez pas
+exactement comment faire hésitez pas à
+lire à lire ce ebook euh c'est pas très
+très long et puis ça va vous apprendre
+ça va vous donner les bases pourin qui
+qui est aussi un bon outil à utiliser
+pour faire des des wireframes c'est
+c'estz puissant euh voilà n'hésite pas à
+à les regarder voilà j'espère qu'on a
+pas été trop trop long et trop trop
+utiliser un jargon designer que vous
+avez pu un peu comprendre

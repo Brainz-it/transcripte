@@ -1,0 +1,625 @@
+salut tout le monde bienvenue pour cette
+nouvelle vidéo retour d'expérience avec
+aujourd'hui Anaï donc qui est de la team
+coup d'État ce qui est marrant c'est que
+quand on a créé anyone Cancale au départ
+il y avait plein de concepts qui étaient
+un peu flous aussi pour nous dans la
+team et qui venaient d'Ousama et qui
+était un peu voilà on apprend en même
+temps que vous c'est ça qui est trop
+chouette aussi dans le fait de faire
+coup d'État et donc il y a plein de
+concepts d'automatisation de
+standardisation de déléguer aux clients
+des choses dont on parle dans an1 can
+scale canï a commencé à processer canï
+elle s'occupe de la communauté chez coup
+d'État et elle a com P à mettre en place
+tout un tas de différents outils pour
+arriver à être plus efficace dans son
+travail à pas avoir à recruter une team
+de 5 personnes pour gérer la communauté
+aujourd'hui elle gère la communauté any1
+can scale toute seule et elle est pas
+complètement sous l'eau parce qu'elle a
+mis en place plein de process automatisé
+aujourd'hui dans cette vidéo va vous
+présenter un peu tout ça donc comment
+elle a appliquer les conseils one can
+scale à son job à sa partie de la boîte
+coup d'État à la partie de la communauté
+voilà je pense qu'il y a beaucoup de
+valeur aussi dans cette nouvelle vidéo
+donc
+[Musique]
+[Musique]
+salut moi c'est Anaï du coup je suis
+head of community chez coup d'État euh
+et en gros si je dois résumer mon job
+c'est vraiment le C de toute la
+communauté euh et en particulier aussi
+donc il y a donc la communauté couptao
+global mais aussi ceux qui ont acheté
+anyone k scale parce que du coup il y a
+un process qui est assez particulier qui
+on a mis en place du coup pour pour ces
+personnesl donc quand je suis arrivée
+chez coup
+d'État en fait il y
+avait déjà les préommandes qui avaient
+commencé d winken scale mais il y avait
+rien qui avait été mis en place ensuite
+donc les gens juste achetaient anyone
+can scale et voilà et on avait un non on
+avait un spreadsheet où on avait juste
+les noms des gens enfin les mails des
+gens qui avaient acheté anyone can scale
+donc ça c'est vraiment la situation
+initiale quand je suis arrivée et l'idée
+ça a été en fait finalement de
+construire un process automatiser et
+standardisé pour justement me permettre
+de me focus sur le C des gens et non pas
+sur remplir des cases dans des tableau
+Excel au début en gros j'avais ça
+j'avais donc tous les gens qui avaient
+acheté anyone can scale avec leur mail
+et donc l'idée c'était ben voilà que tu
+rentré à la main que je rentrer à la
+main parce que je les reprenais depuis
+le slack ici quand je voyais qu'il y
+avait une vente hop tac je vais Allis
+voir qui c'était je prends le mail je le
+rentre à la main et je me retrouve
+ici donc j'avais l'email nom de famille
+machin et cetera l'idée c'était bon la
+date d'achat de faire parce que c'était
+en précommande donc anyone can scale
+n'était pas sorti de faire un premier
+coach pour savoir bah du coup comment
+ils avaient connu et cetera pour nous
+avoir du feedback derrière et ensuite
+l'envoie du love package ça CIT vraiment
+tes deux étapes de C de étapes de
+l'boarding des premiers clients scale ok
+exaement euh donc du coup je le
+remplissais à la main euh hop dès que
+j'avais fait le call je mettais la
+petite croix je mettais tous mes
+commentaires sur bah la discussion qu'on
+avait eu et cetera et après dès que
+j'avais renvoyé le package ensuite on a
+fait le typ form euh pour le premier
+épisode gratuit et donc du coup j'avais
+extrait depuis type form sur un Google
+sheet donc toutes les questions et ce
+que je faisais donc c'est que j'allais
+hop chercher je faisais un contrôle
+C hop
+ici contrôle F recherche contrô V voilà
+il est là et donc là je copier ma ligne
+ici contrôle
+C et j'allais à partir de là hop et je
+faisais un contrôle V qui me remettait
+en fait parce que j'avais exactement les
+mêmes cases et donc du coup c'était mon
+fichier client ouais c'était ton espèce
+de CRM pour suivre un peu qui avait
+acheté alors du coup effectivement donc
+quand je suis arrivée il y avait ce
+tableau où j'avais donc les gens qui
+avaient acheté la formation la première
+chose que j'ai faite c'est que j'ai
+commencé à appeler tous les gens qui
+avaient acheté la formation pour savoir
+en fait qu'est-ce qu'ils attendaient de
+WIK scale qu'est-ce qu'ils attendaient
+de nous aussi à travers cette
+formation comment ils avaient connu
+aussi pour savoir un petit peu bah quels
+étaient même pour nous les canaux
+d'acquisition possiblebl et donc ça ça
+étit la première étape donc pareil à la
+base je me suis mis à la mano ok une
+colonne avec des croix ok j'ai appelé
+telle personne telle personne telle
+personne et ensuite ça a été la deuxième
+étape on s'est dit de toute façon ce
+qu'on veut faire c'est du car donc
+qu'est-ce que c'est c'est aussi leur
+envoyer un petit mot personnalisé à la
+main parce que c'est quelque chose qui
+fait toujours plaisir avec des petits
+stick
+et ça montre que bah justement chaque
+personne est importante et c'est pas
+voilà une personne parmi tant d'autres
+un numéro et cetera donc pareil j'avais
+ma deuxième colonne avec sur mon même
+tableau excel avec mes petites tris que
+je remplissais au fur à mesure que
+j'envoyais eu et en fait ce que j'ai
+essayer de comprendre c'est finalement
+bah ok la formation elle va vous servir
+à quoi exactement parce que au final on
+na vendu une formation alors évidemment
+pour standardiser automatiser enfin
+vraiment scaler les boîtes mais quelles
+étaient les problématiques individuelles
+parce que finalement on voit que tout se
+recoupe que les problématiques de chaque
+personne c'est pas des problématiques
+uniques mais c'est des problématiques
+qu'on peut justement mettre dans un
+moule entre guillemets donc ça a été de
+dire ok ben comment à partir de là moi
+je vais
+pouvoir créer un process de C finalement
+pour les zon border dans anyone can
+scale et pour leur dire ok ben déjà un
+vous me connaissez pas donc coucou c'est
+moi de je t'envoie un petit mot on se
+fait un call tu m'expliques un peu tes
+problématiques je comprends qui tu es et
+cetera et cetera mais sans le faire à la
+mano parce qu'au début ça me prenait
+énormément de temps en fait d'aller
+chercher les différentes infos qui
+étaient en fait dans plein de fichiers
+différents donc finalement l'idée ça a
+été de tout regrouper et d'essayer de
+faire quelque chose bah le plus
+standardisé automatisé possible au début
+c'était l'idée de dire moi je veux que
+ces gens qui ont acheté la formation
+soit hyper content euh de l'équipe coup
+d'État du fait que on soit là pour les
+soutenir s'ils ont besoin de parler on
+est là c'est ce que je leur disais à
+tous n'hésite pas si tu as une question
+ou quoi tu peux m'appeler enfin ils
+avent tous mon numéro d'ailleurs
+certains sétonné que je les appelais pas
+en privé non je les appelais avec mon
+téléphone donc tout le monde a mon numé
+de téléphone pareil les mails et cetera
+parce que l'idée c'était vraiment ça
+c'était de dire au début bah c'est de
+bah qu'iser la meilleure expérience
+possible et ensuite ça ça a été de se
+dire ok comment on va standardiser cette
+expérience là mais au début c'était pas
+l'idée de me dire tout de suite je crée
+un process je savais même pas de quoi de
+quoi j'avais crit un process quoi je me
+suis rendu compte que c'était le moment
+de standardiser euh quand j'ai commencé
+à voir que euh ce qui me prenait plus de
+temps presque c'était l'organisation de
+qui j'allais appeler où est-ce que
+j'allais trouver son téléphone comment
+je trouvver son mail que vraiment ben
+l'école en eux-même le fait d'envoyer
+les petits mots à la main et cetera
+c'était plus la partie orga que la
+partie car et du coup là je je me suis
+dit bah il y a un problème c'est mon job
+c'est le C je n'ai absolument aucune
+valeur ajoutée à faire je contrôle F
+pour rechercher telle personne et cetera
+et donc c'est là où on s'est dit ok il y
+a un truc à faire sur la standardisation
+mais au départ c'était pas la volonté
+première mais il fallait que je me
+concentre plus sur le fait d'appeler les
+gens comprendre leur problématiqu plutôt
+que sur le fait de dire telle personne
+alors c'est quoi déjà sa boîte ah oui il
+faut que j'aille chercher dans l'autre
+fichier et si là et son téléphone ah il
+est encore dans un autre truc donc là
+c'était plus possible et même pour les
+love packag c'était la même chose
+package j' allais trouvver l'adresse
+postale c'était encore dans un autre
+truc donc je devais aller chercher
+l'adresse postale pour envoyer donc oui
+bon ben j'en avais pour une demi-heure
+par personne avant de pouvoir faire un
+col ou envoyer un un petit mot
+personnalisé du coup bah ce que j'ai mis
+en place ça a été bah plusieurs outils
+en fait notamment zapierur qui a
+révolutionné ma vie non non mais ça a
+été plusieurs choses notamment bah le
+fait effectivement d'utiliser des apps
+pour permettre euh finalement d'aller
+chercher les différentes infos qu'on
+avait un peu éparpillé à droite à gauche
+et tout regrouper dans un pipeedrive et
+avoir un peu comme un CRM finalement de
+suivi de chaque personne qui achetait
+anyone can scale pour pouvoir les
+unborder au mieux pour pouvoir les
+suivre au mieux savoir qu'ils étai et ne
+pas passer 10 ans à chercher dans des
+tableaux X Y Z du coup il y avait déjà
+un premier process qui était tu les
+Coles et ensuite euh enfin je les colle
+et ensuite je leur envoie le Love
+package donc ça c'était un peu le
+premier première étape et j'ai commencé
+à utiliser pipedrive en mettant ces deux
+étapes là en disant ok ils sont user ACS
+donc il faut qu'ils arrivent ici ils ont
+acheté ils ont acheté donc ils sont user
+ACS là les colonnes ont changé parce que
+du coup ça a évolué depuis mais les
+premières colonnes c'était co envoie
+love pack voilà ok donc le Love package
+c'est la petite carte c'est la petite
+carte que vous avez tous reçu j'espère
+oui après normalement c'est bon
+normalement c'est bon et au départ
+c'était pas encore vraiment automatisé
+c'est-à-dire que
+euh j'ai commencé par les rentrer parce
+que du coup tout ce que j'avais sur mon
+Excel j'ai créé des petites fiches user
+à la mano pour les rentrer un à un sur
+mon P Drive et ensuite je faisais
+glisser de colonne en colonne en disant
+bon bah il est user ACS je l'ai appelé
+ok je lui envoyé le Love pack ok il est
+là bon sauf qu'après ça a été bon ben
+oui mais ça commence à faire un peu
+beaucoup à rentrer en les les users dès
+qu'ils ont acheté ok je regarde machin
+et cetera et c'est là où merveilleux ça
+a changé ma vie j'ai découvert Z pur
+grâce à toi et où là en fait on s'est
+dit ok mais en fait on peut carrément
+automatiser à partir du moment où ils
+achètent zapur te permet de directement
+créer la carte client ici et ils
+arrivent directement en user donc au
+final ça a été de mettre en place euh un
+zap qui permettait de aller chercher les
+différentes infos d'une personne qui
+achetit anyone can scale euh et de
+regrouper ça dans des des deals des ils
+appellent ça des deals mais c'est des
+petites fiches hein finalement c'est
+comme des
+fiche dans PEP drive où j'ai ben le
+téléphone l'email c'est quoi ta boîte
+combien cette personne qui tu es est-ce
+que tu es founder ou autre et cetera et
+en plus de ça me mettre des petits
+rappel en disant bah telle personne tu
+dois lui envoyer le Love package telle
+personne il y a un col de prévu à telle
+date et ainsi de suite pour pouvoir du
+coup les suivre au mieux donc le
+Zap la première chose c'est par rapport
+à ce type form enfin le type form qui
+débloque le premier épisode gratuit on
+peut faire directement depuis type form
+ça envoie dans un spreadsheet une ligne
+à chaque fois donc ça c'est un premier
+une première chose qui est sur notre
+drive donc ce qu'on va faire pour le Zap
+c'est commencer par donc aller chercher
+dans la liste maim parce que quand donc
+on achète anyone can
+scale on il y a une ligne de code qui
+fait que ça va automatiquement dans une
+ligne dans une liste pardon mail shimpf
+donc moi je vais aller chercher un
+nouveau subscriber dans cette mailim
+donc je sais qu'il vient d'acheter one
+can scale à partir de là je vais faire
+une recherche de ce user par son
+email hop ici voilà par son email dans
+euh le Google sheet ici donc pour avoir
+c ça donc ça c'est tous les résultats du
+typeefor ou le typeformor il vient avant
+l'achat d' newk scale il est rempli donc
+ça rempl automatiquement cette Google
+sheet là oui et toi tu récupères en fait
+via zapier tu vas chercher dans cette
+liste là le mail de la personne pour
+voir pour avoir des infos en plus quoi
+exactement et pour avoir donc ces infos
+une par une qui vont ensuite être dans
+le P drive mais ok j'arrive euh donc là
+voilà je vais rechercher cette personne
+là comme ça on a les infos de cette
+personne ouais donc comment ça comment
+tu fais ça tuindiques la spreadsheet
+ouais où est-ce qu'il se trouve tu dis
+où c'est machin et ensuite tu dis bah
+regarder juste la colonne email et
+chercher la valeur du de l'email de de
+mail chimpimp exactement très bien euh
+et à partir de ça dans euh mon pipeline
+ici ça va me créer une nouvelle personne
+ok parce que donc P drive fonctionne
+comme ça pipedine fonctionne avec
+euh des personnes qui sont en gros tes
+clients dans une personne tu vas avoir
+une offre c'est ça donc en gros tu vas
+avoir un client et peut-être que tu
+auras plusieurs offres parce que c'est à
+la base c'est un CRM donc tu veux lui
+vendre peut-être plusieurs trucs
+différents
+donc toi tu en as qu'une seule mais donc
+du coup à chaque fois tu dois créer la
+personne lui assigner une offre et
+ensuite lui assigné des activités au
+sein de cette offre qui sont peut-être
+faire un call ou ces trucslà ok donc
+donc comment tu fais ça donc la première
+étape c'est créer cette personne donc
+créer cette personne ça veut dire par
+son prénom son nom qui ça je récupère
+dans MailChimp on voit avec ici oua
+ensuite je vais rajouter son email et
+ensuite parce que moi ça va me servir
+pour les call et cetera je vais
+récupérer aussi son numéro de téléphone
+où là c'est pris
+dans le spreadsheet c'est pour ça que tu
+as été chercher la spreadsheet avant
+exactement et pour d'autres infos qu'on
+va voir ensuite mais en tout cas déjà
+une première étape c'est le téléphone ok
+ensuite donc à partir de là c'est donc
+trouver cette personne pour ensuite
+créer donc ce deal dont on disait enfin
+l'offre
+euh ici donc là ça me dit ok donc j'ai
+trouvé cette personne par son nom donc
+on retrouve la personne qui était là je
+nomme le deal euh nom enfin prénom nom
+pardon et je rajoute à CS derrière comme
+ça je sais
+euh à quel euh stage euh je le vais le
+faire rentrer à quel moment en
+fait là forcément je le mets invit to
+slack parce que je vais tout de suite
+l'inviter sur slack via ce zap
+là et donc ici par contre ce qui est
+voilà intéressant c'est que j'ai toutes
+mes infos du type form que je vais
+rentrer dans mon offre donc c'est-à-dire
+à quelle date il a rempli le typeform et
+ensuite toutes ces infos de boîte
+c'està-dire tout ce qu'on a là donc
+nombre de personnes l'année de la
+création de la boîte le secteur
+d'activité le type de société son rôle
+tout ce qu'il a rempli je vais moi tout
+retrouver dans le P drive sans avoir
+besoin d'aller chercher là qui c'est et
+cetera et cetera donc quand on a créé la
+personne en fait l'idée il y a toujours
+cette étape de recherche où on va devoir
+donc on l'a créé il va falloir la
+rechercher pour pouir le fameux
+bricolage de zapier quoi c'est que tout
+est pas toujours parfait donc tu es
+obligé de trouver un peu un un hack quoi
+qui dit j'ai créé la personne ça ça ça
+me propose pas de créer un deal
+directement avec cette personne il faut
+d'abord que je la trouve entre les deux
+quoi exactement donc là c'est retrouver
+la personne pour ensuite créer le deal
+si on récapitule là rien qu'avec cette
+étap là si on enlève activity et invite
+new user là ça veut dire que dès que
+quelqu'un tombe dans la liste mail Chimp
+c'est déjà fait automatiquement dans
+dans la plateforme coup d'État dès qu'il
+tombe dans la liste mail Chimp toi tu
+vas récupérer ces infos et créer un deal
+de pipeedrive qui va tomber du coup ici
+dans cette colonne c'est ça dans la
+colonne user CS oui euh pour que tu
+puisses commencer à éventuellement bah
+les appeler làil y a invitation à SLAC
+et cetera mais c'est les les appeler euh
+les leur envoyer le Love package et
+cetera mais ça te permett d'avoir
+automatiquement toutes les infos dans
+une seule liste qui est une liste qui
+est pas un Google sheet et qui te permet
+de gagner du temps quoi complètement
+rien que ça et ensuite tu as encore
+modifié ce ce truc là c'est ça
+exactement parce que du coup l'idée
+maintenant c'est de dire ok en plus de
+ça euh alors moi ce qu'il va falloir
+faire c'est que je leur envoie le Love
+package donc ça c'est la priorité euh
+donc j'ai créé une activité pour pas
+parce que du coup effectivement là ils
+vont être invités dans le slack en même
+temps que ce zap là parce qu'on voit là
+invite new user en revanche moi ce que
+je voulais c'était une petite notif
+quelque chose qui me disent ah mais à
+lui tu lui as pas envoyé le Love package
+donc j'ai créé une activité qui va me
+dire en fait euh ici que à cette
+personne là donc qui est un nouveau user
+anyone can scale il va falloir lui send
+love pack et donc à partir de là je me
+mets donc cette même personne qu'on a
+recherché qu'on a créé et cetera une
+tâche et en disant quand est-ce que je
+veux que cette tâche me soit notifiée
+next Monday at 10 am donc voilà donc le
+lundi d'après ça me notifie comme quoi
+ah attention à lui tu dois lui envoyer
+et ici moi j'ai dans les activités hop
+les personnes à qui je dois envoyer le
+Love package et donc après je Val et
+C et enfin la dernière étape qui
+constitue dans le mzap c'est inviter le
+user au slack anyone can scale donc
+pareil ici en fait via son email ça va
+directement lui envoyer une invitation
+au slack ici any can scale au départ ça
+a été de me dire ok mes deux actions
+c'est les call et l'envoi de Love
+package donc ça va être mes colonnes col
+en love package et je bougeais mes
+petites cartes à la mano comme ça sur
+chacune des colonnes comme ça je suivais
+sauf que bah on a rajouté des choses
+parce que bah du coup on a sorti la
+formation en kenscale donc on a rajouté
+le fait de inviter des personnes au
+slack au tout début c'était pareil quand
+on a sorti le slack j'ai invité tout le
+monde à la main à la main j'ai importé
+un fichier excel dans slack pour inviter
+les gens mais l'idée ça a été de dire
+rapidement de dire bon bah attends
+comment est-ce que je peux arriver à
+faire que la personne tout de suite euh
+elle rentre dans mon P drive mais que
+j'ai pas à chaque fois me dire ah elle
+il faut que je prenne son mail et que je
+l'invite via le slack donc euh le Zap
+bah j'ai rajouté une étape dans le Zap
+qui permettait de inviter
+automatiquement une personne euh dans le
+slack anyone Cancale et en parallèle de
+ça parce que
+euh tu reçois un mail slack qui parfois
+va dans les spam et cetera c'était
+l'idée de dire depuis mon mail perso je
+veux leur envoyer un petit mail en leur
+disant bah coucou trop cool tu es là euh
+euh je t'ai envoyé un petit mail euh
+pour euh enfin je t'ai envoyé un une
+invitation slack vraiment regarde dans
+tes spam si jamais tu l'as pas reçu et
+cetera parce qu'il y en a plusieurs qui
+m'avaient remonté le le problème et euh
+et du coup via pipedrive on peut aussi
+faire une automatisation en disant bah
+dès qu'une personne arrive dans le
+pipedrive ça envoie un mail depuis ma
+Gmail euh pour dire bah voilà exactement
+ce mail là et donc c'est pareil et donc
+du coup j'avais plus rien à
+faire parfois l'invitation slack peut
+aller dans les spam et cetera j'ai une
+automatisation sur P
+Drive qui euh
+ici qui leur envoie un petit mail depuis
+mon mail
+Gmail en leur disant parce que donc on
+peut créer aussi des automatisations
+j'ai pas voulu le faire par zapierur
+parce que je me suis dit bah tant qu'à
+faire c'était directement gérable depuis
+ici et ça évitait d'avoir un zap en plus
+côté zapierur mais là donc l'élément
+déclencheur c'est quand une offre entre
+euh dans le pipeedrive avec invitation
+au slack ça envoie un petit mail depuis
+mon mail propriétaire en disant hello
+hello machin je viens de t'envoyer une
+invitation pour le slack n'hésite pas à
+bien vérifier dans tes spam et tout ça
+ok voilà donc ça c'est en plus si on
+récapitule tu vois le le gros avantage
+en fait c'est qu'ici toi tu as
+directement à partir de ce subscriber
+MailChimp tous les gens qui tombent
+automatique via zapier dans ton
+pipedrive ouais depuis pipedrive tu peux
+aussi créer des nouvelles
+automatisations en fonction de ton
+process et tout ça et donc tu as tu as
+un process qui est automatisé ouis tu as
+gagné du temps ah complètement j'ai
+gagné beaucoup de temps et du coup ça ça
+te permet aussi toi de prendre ce
+process là qui estah clair et de venir y
+apporter des modifications de
+l'améliorer un peu comme tu veux en
+modifiant à chaque étape parce que tout
+est gravé dans la la tech
+quoi exactement combien de temps ça ça
+m'a fait gagner je saurais pas dire
+exactement combien de temps mais en tout
+cas vraiment peut-être vraiment s sans
+rire peut-être au moins 2 jours par
+semaine ce qui est quand même
+énorme parce que bah je passais beaucoup
+de temps sur aller chercher les infos à
+droite à gauche et honnêtement même mon
+mon ordi il y avait 10000 fichiers
+ouverts c'était un peu un bordel pas
+possible là tout est regroupé au même
+endroit et tout est automatisé et j'ai
+même plus de mail one Toone à envoyer
+donc je dirais franchement il a minima
+de jours par semaine si je devais
+retenir une leçon de tout ça
+euh je dirais que avant même de mettre
+en place des process il faut essayer de
+comprendre quel process tu vas mettre en
+place parce que c'est ça le truc c'est
+que souvent on a dans sa tête une idée
+mais qui ne va pas être la réalité euh
+on peut se dire ah oui moi je veux que
+ce soit comme ça comme ça comme ça et
+puis en fait tu te rends compte que pas
+du tout parce que les gens vont te dire
+ah mais le problème c'est ça ou le
+problème c'est ça donc bon première
+chose déjà c'est ce que j'ai fait au
+tout début faire les Coles parler aux
+user et cetera et après pour moi c'est
+de vraiment construire au fur et à
+mesure les étapes c'est-à-dire que c'est
+pas besoin d'avoir une étape de 1 à 10
+hyper précise et cetera si tu as que
+deux étapes au début comme moi j'avais
+les col et envoie la pquet j'avais que
+deux étape et au fur à mesure et ben j'y
+terre sur le truc et je le fais évoluer
+peut-être que demain ça va encore
+changer peut-être que demain on va
+rajouter un truc et et je vais rajouter
+des étapes dans mon process
+d'automatisation mais c'est ne pas avoir
+un truc figé dans le marbre parce que ça
+c'est souv un peu le truc c'est figé
+dans le marbre j'ai fait ça ça m'a pris
+10h donc je ne vais plus le toucher non
+ça va tout le temps bouger alors ben moi
+je pense que ce qui est hyper important
+alors c'est pas parce que je suis head
+of community mais je pense que la
+communauté est vraiment ultra importante
+aujourd'hui que on apprend aussi
+beaucoup parce qu'on fait les les autres
+et donc j'invite vraiment si vous avez
+des expériences à partager ou euh des
+justement des process que vous avez mis
+en en place à pour partager avec les
+autres et du coup en apprendre bah les
+uns par rapport aux autres à venir le
+faire
+[Musique]
+[Musique]

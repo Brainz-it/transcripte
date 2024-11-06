@@ -1,0 +1,1515 @@
+[Musique]
+[Applaudissements]
+C donc Serge startup de the family
+bonjour
+bienvenue on commence par la démo et
+ensuite on parle de toi et et et ta vie
+ton œuvre
+ouais alors pour ceux qui connaissent
+pas to tooc c'est un service qui est
+très simple qui vous permet de vous
+faire
+livreer tout ce que vous pourriez
+vous-même acheter dans le commerce de
+proximité sauf que en réalité vous
+pouvez déléguer vos achats ou déléguer
+un cadeau donc en fait ça fonctionne un
+peu comme uber c'estàd que vous passez
+commande et il y a un Runner qui est
+habilité formé équipé pour acheter en
+magasin vos commandes votre commande qui
+va acheter pour vous et vous livrer et
+vous remettre les biens avec le ticket
+de caisse qui va bien parce qu'en fait
+c'est le client est un mandat en fait le
+runur et donc en fait c'est une
+expérience très urbaine simple immédiate
+puisqueon livre en moyenne en 35 minutes
+c'est extrêmement rapide avec la
+possibilité bien sûr de noter le
+runnerner pour que la qualité de service
+qui est au centre de du service perdure
+donc là par
+exemple donc on peut se faire livrer un
+burger là je je prendre n'importe
+quoi par exemple voilà donc en fait en
+temps réel j'ajoute n'importe quoi dans
+mon cadi on a 250000 référence
+aujourd'hui dans le catalog log 200
+partenaires qui qui nous font qui nous
+font confiance maintenant pas mal de
+grandes chaînes et aussi beaucoup
+d'indépendants notamment sur le Food
+donc là par exemple on me dit qu'on peut
+me faire livrer enfin que je peux me
+faire livrer en 33 minutes et là en
+temps réel alors j'avais déjà saisi en
+fait mon adresse juste avant mais en
+gros j'ai des adresses favorites et
+comme j'avais déjà the family hop je
+sélectionne donc je vous montre un petit
+peu le flot qui est très simple en trois
+clics donc là en fait en temps réel le
+système géolocalise une projette en fait
+quel serait mon runur si je passais
+commandes effectivement là maintenant
+avec une tranche de livraison on voit le
+lieu où en fait le runur va a priori
+acheter je peux combiner différents
+achats dans un dans une même commande on
+peut aller jusqu'à quatre achats
+différents donc ça peut être des fleurs
+des macarons et puis on finit par du
+show burger en passant par du
+doliprane donc là voilà je continue je
+un petit recap voilà donc une bouteille
+j'ai déjà ma CB donc en fait c'est one
+click je m'endate j'accepte et je
+commande c'est fini voilà et en fait je
+vais être notifié d'un comme quoi la
+commande a été accepté par un Runner je
+vais pouvoir recevoir je vais recevoir
+un sms et je vais pouvoir le suivre en
+temps réel et en fait on me remet un
+code d'authentification qui est
+obligatoire pour que le runur remette la
+marchandise au client final puisqueen
+fait lui ne connaît pas la référence
+mais l'application métier qu'il a et qui
+lui permet de dérouler tout le flot du
+process lui permet d'authentifier le
+client pour éviter les fraudes et aussi
+parce que les runers sont habillé aux
+couleurs de toc toc toc qui représente
+la marque n'importe qui peut peut
+prétendre que c'est pour lui euh voilà
+donc là je reçois un
+sms tac et là voilà je peux suivre le
+runnerner qu' donc en fait c'est
+transparent bien sûr là je c'est ludique
+au début les premières commandes les
+clients aiment beaucoup de suivre le le
+runur en temps réel mais aussi vous
+recevez des SMS à chaque étape clé
+notamment lorsqu'il a acheté les achats
+comme ça vous êtes notifié que et et
+aussi quand il TOC à la porte donc là
+vous recevez un troisème SMS donc c'est
+super simple ça marche très très bien
+parce que c'est on en on va reparler
+mais beaucoup de de de d'itération et de
+technologie derrière tout ça voilà cool
+merci pour la démo alors raconte-nous un
+peu comment comment s'est passé comment
+tu t'es lancé qu'est-ce qui t'a donné
+l'idée le le démarrage de toc toc toc en
+fait c'est quand et c'est quoi euh
+c'était alors c'était il y a 3 ans ça va
+faire bientôt 3 ans en janvier j'étais
+dans dans une dans mon ancienne société
+que voilà et euh et en fait je bon pour
+la petite histoire j'avais revendu mon
+ancienne société donc du coup j'étais
+dans un groupe qui était très très
+enrichissant mais j'avais j'avais besoin
+de recréer de la valeur en tout cas de
+lancer ce service qui était une vieille
+idée que j'avais mais avant l'iPhone et
+c'est vrai que le mobile permet beaucoup
+d'un point de vue métier et aussi
+expérience et euh ouais donc là on a un
+profil d'entrepreneur assez particulier
+d'accord c'est un sériel entrepreneur il
+s'est déjà fait la main on va on va y
+revenir justement sur comment tu es
+rentré dedans et tout
+parce que avant on a eu plutôt des
+primos entrepreneurs en fait des gens
+qui qui se lançaient et et donc toi tues
+profil particulier donc il y a 3 ans tu
+démarres tu te dis ok toc toc toc et com
+qu'est-ce qui te fait te dire qu'il y a
+un problème en fait c'est enfin tu vois
+qu'est-ce qui te fait dire le
+marché il est intéressant il va grandir
+il est gros euh alors ça part souvent
+d'une d'une intuition moi j'ai pas mon
+permis je suis un Parisien donc c'est
+c'est un peu saoulant finalement de de
+subir même si c'est c'est la vie enfin
+c'est un choix malgré moi soit c'est le
+taxi soit c'est le vélo soit c'est le
+métro et ça prend du temps et et en fait
+il y a un paradoxe de aujourd'hui en
+2014 enfin à l'époque il y a 3 ans mais
+je veux dire c'est avec l'iPhone la
+mobilité la technologie les la manière
+dont le flux est optimisé ou pas
+vraiment optimisé de rester chez soi et
+d'attendre et de subir une livraison
+Amazon en 3 He enfin on est bloquer chez
+soi pendant une tranche sans sans
+transparence sans vraiment savoir quand
+est-ce qu'il va arriver ça paraît assez
+fou alors que il y a déjà de la
+disponibilité dans les magasins dans les
+villes que cette disponibilité elle est
+énorme en fait elle est vraiment massive
+et que elle ne sert pas forcément les
+les les marchands qui d'ailleurs pour
+des draés périssables doivent déstocker
+donc en fait il y a une perte qui
+d'ailleurs dans le modèle du textile et
+du foot et qu'on peut pas
+finalement dstocker assez facilement ou
+en tout cas euh piquer dans le sens
+picking pour délivrer un client qui
+aurait un besoin une envie voilà donc en
+fait je dirais
+que j'étais en demande en fait de
+service tout simplement dans une culture
+franco-française enfin parisienne qui
+est pas forcément en adéquation en tout
+cas je pense qu'elle est en demande mais
+qu'on n pas forcément dans cette culture
+là et que les clients n'attendent que du
+service parce que c'est l'usage c'est
+l'urbain on a de moins en moins de temps
+et que et il y a une vraie disponibilité
+donc il y a une opportunité de fludifier
+les les flux mais tout le monde essaie
+de le faire ce truc à ce moment-là et
+toujours d'ailleurs alors il y avait
+beaucoup des tas c'est un peu dans le
+mouvement des tasbit voilà tascrabit
+pour ceux qui connaissent pas c'est une
+boîte américaine qui permet à n'importe
+qui de répondre à un petit
+job salut je m'appelle Alice là tout de
+suite j'ai besoin d'un déménageur qui
+vienne tel jour tel heure hop quelqu'un
+qui s'est inscrit sur tasrabit chope ce
+petit job dit pour combien il le ferait
+et si ça m'intéresse on y va et et et
+voilà et c'est une manière de de de
+d'utiliser la masse de gens qui ne font
+qui sont disponibles pour des besoins
+que je vais avoir c'est très compliqué
+en
+France alors en fait en France c'est
+particulier parce que tascrabit ça
+ressemble un peu à c'est du service à la
+personne de particulier en particulier
+donc ça rejoint des modèles CUS de
+chaque emploi service où en fait on a
+une exonération de 50 % sur donc en gros
+on piee des charges pour le particulier
+qui qui qui est un micro salarié de
+l'employeur client c'est très lourd en
+fait administratif c'est pas simless ou
+voilà donc nous d'ailleurs
+originellement ça partait sur un
+mouvement un peu à la Tasque Rabit qui
+était mon idée originale de en 2006 donc
+au départ tu veux faire ça en France
+voilà c'est ça c'est clairement c'est
+c'est vraiment l'intermédiation de
+particulier à particulier ou mais créer
+en fait une logique prestataire client
+ou particulier à particulier qui rendre
+service c'est la c'est la base en fait
+et le problème de
+l'intermédiation euh c'est la confiance
+c'est le trust euh accordé à la marque
+ou en tout cas à la plateforme qui va
+assurer euh finalement une relation d'un
+inconnu euh chez un particulier et ça
+pour bâtir une marque en gros nous on a
+un petit peu on s'est un petit peu
+recentré finalement sur un un canal qui
+est le delliver donc on fait que de la
+livraison alors j'aime pas dire
+livraison parce qu'en fait on va d'abord
+acheter euh pour le compte du client
+c'est un mandat c'est extrêmement
+spécifique c'est une obligation de
+résultat euh on il y a aucune
+improvisation c'est interdit donc rouge
+c'est rouge et c'est pas noir et et une
+cuisson bien cuite c'est pas c'est pas
+saillant donc en
+fait j'ai perdu le fil un peu de ce que
+je dire mais ça c'est tout le
+démarrage tu dis finalement ok donc il y
+a la notion de confiance et moi je vais
+me baser uniquement sur la livraison
+donc en fait nous on a du coup plutôt
+misé sur on va fournir des équipements
+pour représenter une marque et que les
+clients adhèrent à une marque parce que
+les premiers ambassadeurs sont les
+runneurs qui eux-mêmes sont équipés et
+cetera donc il portent une tunique son
+ça c'est le secret c'est que tu piges
+très vite que comme uber le costard la
+grosse voiture les petits bonbons et les
+et les serviettes c'est important que le
+type il soit sur sa mobylette c'est une
+mobylette d'ailleurs qui l' c'est il y
+en a qui sont en rollur vélo ah oui
+c'est vrai qui sont en rollur ils ont
+tous le sac à dos toc toc toc la
+casquette toc toc toc ils sont censés
+l'avir ouais ouais on va voir on va voir
+attention en tout cas ils sont censés se
+prés en fait nous ce qu'on voulait
+c'était apporter de la qualité de
+service donc ça on y reviendra mais la
+qualité de service c'est fondamental
+c'est c'est l'ADN mais c'est surtout la
+c'est ce qui conditionne des pour nous
+du du du trust en fait les gens
+attendent quelque chose qui marche et il
+se soucient pas de comment ça marche ils
+veulent juste que ça arrive la promesse
+tenue et cetera et ça passe par vraiment
+des des des sommes de petits
+détails moi je suis assez maniaque
+là-dessus toi tu kiffes le design déjà
+ouais ouais je suis un tu un vrai fan de
+design je
+ça se voit la façon s
+exécuté quand même enfin vous l'avez vu
+c'est super propre quoi ouais sachant
+que techniquement on voit qu'il y a
+quand même pas mal de réflexion sur le
+laette notion de service et d'échange
+qui est quand même assez complexe c'est
+c'est ah bien sûr ça a pris beaucoup de
+temps il y a pas de d'ailleurs ça ét
+plus ou moins dit mais je veux dire
+c'est on a énormément itéré on pe on
+part sur une une base minimale et on
+doit impérativement récup RÉR le
+feedback en tout cas être à l'écoute de
+toutes les parties parce que il y a des
+marchands il y a des runers il y a des
+clients donc c'est une vraie Marketplace
+tripartite qui crée des des des
+complexités c'est inhérent au maillage
+ou à ces logiqu là donc on a énormément
+itéré on a énormément de fait de veill
+légal aussi parce que c'est c'est
+nouveau en fait ce qu'on fait c'est
+person qu'est-ce qui avait d'illégal
+dans ce que tu faisais
+euh Ahou alors je précise que ah c'est
+lui qui a dû t'appeler j'ai pas fait
+attention avait pas euh donc quand il y
+a un défaut de produit en magasin il
+appelle le client normalement je dois
+être joignable Ctait marqué donc il va
+essayer de me rejoindre enfin de de Me
+reconacter et il me suggère une
+alternative donc on enregistre l'appel
+il passe par un numéro tierce qui pas
+tier pardon qui donc lui il a pas ton
+numéro direct en fait ça c'est làdessus
+on est
+assez
+catégorique fait uber il a mon numéro
+direct ouioui mais c'est en fait nous ce
+qu'on fait c'est beaucoup plus
+confidentiel puisqueen fait on va
+acheter des biens privés confidentiels
+et on va vous livrer ement chez vous
+ouais au bureau chez des amis et cetera
+donc c'est extrêmement confidentiel
+ouais donc le Runner nous c'est même pas
+en rêve il va il va avoir en fait il a
+l'identité du client pour le livrer à un
+instant T mais on orchestre tout pour
+qu'il n'it plus cette identité après et
+surtout qu'il a même pas le numéro de
+téléphone parce que il y a des y a tout
+en fait il y a Madame Michu il y a des
+people et cetera
+bon ça c'est la base et c'est aussi ce
+qui fait que les gens ont confiance on
+revient toujours à la confiance accordée
+à une marque qui exécute qui qui assume
+d'ailleurs la qualité de service les
+échecs donc on rembourse on est très
+proactif là-dessus on le client c'est le
+client il a raison c'est c'est c'est un
+obraineur tout à l'heure on avait une
+plateforme aussi pas une place de marché
+enfin non pardon une plateforme on avait
+des praticiens et des clients et la clé
+c'était d'abord de s'attaquer au
+praticiens toi tu dis tu as trois
+parties tu as les magasins finalement
+qui sont indirect parce que c'est c'est
+juste là où on va acheter tu as tes
+runers et tu as tes clients quand tu
+démarres toc toc toc tu vas chercher qui
+en
+premier alors en fait nous quand on
+démarre une ville on va dire une ville
+tu penses par ville oui alors là c'est
+parce qu'on en train de lancer une
+notutre ville à l'étranger mais on a
+besoin de d'ailleurs que c'est ce que
+fait uber on a besoin d'une
+disponibilité parce que les clients vont
+pas attendre qu'il y ait un match avec
+une disponibilité si on si on si on se
+l'offre pas donc ça veut dire quoi ça
+veut dire qu'en fait on on paye de la
+disponibilité de gens qui sont connectés
+tout le temps jusqu'à ce qu'il y ait un
+usage une récurrence client et et donc
+une adoption et et du coup de plus en
+plus de commandes qui fait que on change
+le modèle et les gens sont payés
+finalement à la à la tâche donc en fait
+il y a plusieurs façons de voir la chose
+soit on alors en fait c'est aussi lié à
+la manière enfin la version numéro 1
+qu'on avait à l'époque qui n'était pas
+comme celle-ci où en fait on inspirait
+les les gens là il y a beaucoup de
+Discovery on peut on essaie de pousser
+de l'envie en fait c'est un peu notre
+métier mais à l'époque c'était un search
+et on avait des on avait sourcé un petit
+peu de manière spontanée on avait
+scrappé on avait fait un peu de truc on
+avait fait des deals on on a créé le
+l'usage en fait donc on pouvait pas
+facilement on va dire séduire un
+marchand en lui disant que ça va être
+génial sans avoir même prouvé le
+fonctionnement ou de et et encore on
+était vraiment en phase itérative on
+voulait vraiment que ça se fasse
+peut-être un petit peu l profile pour
+valider twcker et améliorer et ensuite
+prétendre à donc tu vas chercher combien
+de mainant c'est un peu différent parce
+que on donne on a on a un format qui
+donne envie donc on est plutôt
+sur on vend quelque chose qui est qui
+est qui a une vraie valeur de toute
+manière pour le retail tu dire que les
+gens aujourd'hui ils vont utiliser toc
+toc toc par que moi la première fois que
+j'ai utilisé toc toc toc c'était un
+besoin de cigarette à 2h du matin
+s'en fait plus et là tu vois c'est
+chiant tu as pas envie de sortir donc ça
+se justifie complètement mais maintenant
+ce que tu dis c'est que ça ça céit que
+moi j'en faisais ce que tu me dis c'est
+que c'est en train de se transformer
+vers finalement on va sur toc toc toc
+pour regarder les suggestions et euh il
+il y a les deux en fait ton usage
+restera le pour tout le monde ceux qui
+ont une idée une idée pardon précise ils
+ront dans le search et ils vont taper et
+puis si ça matche tant mieux même si là
+dans la V2 bientôt qu'on va sortir il y
+aura ce qu'on appelle le any picking
+donc en fait on pourra sortir du
+catalogue désigner un Zara ou le boucher
+du coin qui est même pas sur Internet et
+spécifier de manière spontanée je veux
+de côes de bœuf ou je veux tel et je
+vois qu' y a il y a un deuxième usage
+que j'ai vu que j'ai constaté à de
+Family qu'on a un compte de Family sur
+toc toc toc c'est quand on veut pas
+aller finalement faire la queue dans un
+magasin à la FNAC où que ce soit et que
+on est livré à domicile quoi voilà il y
+a vraiment tout tous les cas d'usage il
+y a il y a l'urgence il y a le besoin il
+y a l'envie il y a le plaisir partager
+parce que souvent voilà là ça coûte pas
+très cher mais euh même si ça monte à 8
+ou 10 € je veux dire si on est plusieurs
+c'est c'est pas c'est très très
+accessible etors le cadeau ou le cadeau
+aussi ouais le cadeau bien sûr parce que
+uber par exemple va se focuser sur tu me
+disais tout à l'heure le uber pop
+c'estàd le particulier celui qui est
+capable de de de rentabiliser sa voiture
+et de faire le service uber toi c'est
+pareil tu veux tu veux te focusser sur
+les gens comme enfin les jeunes
+étudiants qui veulent un petit
+job alors ouais ça c'est la c'est la
+target le but c'est de de d'avoir
+tellement de runur qu'en fait c'est
+c'est on peut même plus revenir en
+arrière dans l'absolu par rapport à un
+Amazon pour un match de catalogue
+disponible chez nous chez eux sans
+compter que on fait le Food donc
+là-dessus c'est pas c'est pas
+concurrentiel parce que en fait le le
+délai de livraison est tellement court
+et le l'accessibilité le coût est
+tellement faible
+que on change de on change les usages en
+fait et je la tend
+elle est mobile elle est instantanée
+attendez juste je je vais
+écouterou
+aciceette
+la
+pourter allô oui allô bonjour monsieur
+je suis votre to bonjour je suis
+actuellement repè de vacus et il se
+trouve que le le vin que vous avez
+demandé n'est plus disponibleis
+prenez-moi n'importe quoi oui à la place
+propose un au même prix bah c'est
+parfaitou
+ais super très
+bienrouve tout à
+l'heure non il c'est pas non
+je bien bien
+[Applaudissements]
+éduqué j'imagine il y a un temps de
+formation pour les mecs ah c'est petit
+détail là en l'occurrence en fait on a
+fait un test je je vais vous dire
+comment je vais vous dire pourquoi
+pourquoi il se présente c'est tout bête
+c'est en fait le temps de mise en
+relation téléphonique c'est un temps de
+formation non dire qu'il entend au
+téléphoneil a un robot ENF une voix
+enregistrée qui lui dit n'oubliez pas de
+vous donc c'est très court donc c'est
+hyper speed n n'oubliez pas de vous
+présenter exemple je suis John votre toc
+toc toc les meilleurs sont récompensés à
+la fin de du mois avec des primes des et
+tu fais des primes de 4000 € c'est ça le
+meilleur ouais le meilleur le meilleur
+il se fait 4000 € avec ta toc toc toc
+ouais elle est belle l'histoire
+parce qu'en fait en gros par mois par
+mois par mois oui bien sûr mais un runur
+il est payé à la course et il va se
+faire en à peu près 8 € par course c'est
+variable mais c'est ça doit être à peu
+près ça ouais et ça lui prend 30 35
+minutes ouais c'est variable aussi mais
+entre 20 en moyenne c'est 35 minutes oua
+mais il peut il peut ouais il peut
+prendre 6 € en 20 minutes et c'est un
+contrat autoentrepreneur qui signne avec
+toi non non c'est c'est des contrats
+d'intermédiation
+prestataire en fait donc ils sont tous
+en
+microociété ils accomplissent un cahier
+dechgge qui est assez strict parce que
+voilà qualité de service char
+déontologique confid donc tu les formes
+pas à l'entrée tu les formes pendant si
+si alors la présélection enfin je veux
+dire c'est il y a un double check quier
+compagnie l'idée étant de de composer
+avec des gens de bonnne facture qui
+veulent faire de la qualité qui ont m ça
+c'est la clé quand même le sourcing
+ouais ouais ouais mais après après c'est
+un effet c'est une mas qui fait que les
+gens en parlent parce que il y a des il
+y a des reward il y a des plans
+d'incentive l'idée étant de leur faire
+goûter à la performance et à la qualité
+puisqueen fait les deux conditions leur
+donnent accès à des ce que on appelle
+des facturations exceptionnelles ou des
+bonus qui les poussent vers le haut en
+fait et de toute manière à la fin de la
+course enfin à la fin de la journée j'ai
+envie de dire le client c'est client qui
+a raison s met 5 sur 5 c'est c'est qu'il
+était bon bon aujourd'hui tu suis quoi
+comme maîtrix c'est quoi toi tes les les
+données que tu tu tu que tu surveilles à
+la
+semaine c'est le nombre de commandes
+nombre de commandes le plus important
+pour nous c'est vraiment l'attraction
+qui qui qui qui donc c'est l'attraction
+en terme de rétention c'estàd que les
+gens que tu as déjà est-ce qu'ils sont
+addicted à toc toc toc quoi alors
+aujourd'hui il y a 40 % de la base qui
+consomme tous les mois ouais 2,5 fois
+par mois en moyenne ça c'est en moyenne
+les gens qui ont testé le service plus
+d'une fois consomment qure fois par mois
+OK et ça ça monte parce que ça monte
+parce qu'on a plus de produits de
+catalogue de partenaires là on est en
+train de faire rentrer des très belles
+enseignes en fait ça rentre dans une
+dans une nouvelle dynamique pour les
+retailers les marchands de d'être
+distribué sur un nouveau canal de
+distribution nous en fait on est un
+petit peu comme une un nouveau canal de
+distribution on concentre le l'offre
+marchande locale et on la fludifie parce
+que il y a une disponibilité parce qu'il
+y a une ressource à côté parce qu'il y a
+un besoin client et c'est et c'est
+instantané c'est simple c'est c'est
+voilà tu fais gagner du chiffre
+d'affaires à des burgers quoi ah oui
+enfin pas que des burgers mais on envoit
+beaucoup de de Lead à beaucoup de
+commerces en réalité c'est un moyen pour
+eu soi d'avoir un nouveau client donc
+voilà c'est du Discovery ah ça l'air
+sympa parce qu'on met en valeur leur
+produit on fait le shooting et cetera et
+c'est aussi un moyen de fidéliser une
+clientèle qui n'a pas envie de se
+déplacer parce qu'il pleut ou parce que
+c'est un c'est juste trop loin ou et
+aussi de déstocker quoi de déstocker de
+créer du revenu donc nous notre
+stratégie c'est vraiment de faire
+fédérer tout un écosystème retailer en
+leur donnant accès à la data client bien
+évidemment anonyme mais mais analytique
+pour mieux comprendre le client parce
+que le le client peut noter la marque
+donc ça c'est très important nous on
+note le client note le runur bien
+évidemment mais il note aussi la marque
+c'est
+extrêmement qui é de valeur euh alors
+nous notre stratégie c'est de la rendre
+accessible par défaut ouais pour
+leverager en fait la compréhension du
+retailer sur ses clients pour ensuite
+mieux marketer et c'est ce marketing qui
+fait que les retailers sont acteurs de
+la de de l'accessibilité du service par
+que l'idée c'est que demain to to ça
+coûte 5 € tout le temps parce que il y a
+un spons par que pour l'instant c'est
+c'est quoi c'est 8 € en plus là c'était
+6 € et quel je me souviens plus trop
+mais en plus du prix du truc bien sûr
+parce que on achète au prix en vigueur
+en magasin donc ça c'est comme si cl et
+comment tu calcules le prix de la course
+en fonction de la distance ça fait un an
+et demi qu'on qu'on est si je dis pas de
+bêtis ça fait un an et demi qu'on est
+live euh
+depuis la betêa j'entends et en fait ça
+fait un an et demi qu'on collecte la
+data du temps effectif passé en magasin
+par les runurs qui déclarent quand
+est-ce qu'il rentrent quand est-ce qu'il
+sort et qui conditionne donc l'heure de
+la journée et jour de la semaine qui ne
+se ressemble absolument pas et quel que
+soit le commerce donc en fait on est
+capable de dire de prédire le temps
+qu'il y aura en magasin et que le client
+n'aura pas à passer par ailleurs donc ça
+valorise aussi la délégation euh et qui
+conditionne le délai qu'on estime sur
+lequel on est extrêmement euh sur sur
+enfin c'est ce qui conditionne notre
+promesse et sur lequel on price parce
+que c'est ça qui est extrêmement
+important c'est que nous on apporte une
+expérience de regarder on va arriver à
+l'heure à plus ou moins 5 minutes mais
+c'est surtout le prix que le client
+connaît qui est corrélé à notre
+estimation donc si on se rate sur cette
+estimation sur sur sur le prédictif euh
+on rate beaucoup de la de la promesse ok
+donc ça c'est une vraie barrière à
+l'entrée hein parce que ça fait quand
+même un an et demi de collecte de data
+on sait quel est le temps d'attente
+moyen chez Nespresso tel tel endroit tel
+jour de la semaine tu connais les de
+n'importe quel magasin quo non enfin il
+y a des démarrages à froid mais dans
+l'absolu c'est plus on envoie du du
+business du lead de la commande dans tel
+point de point de vente plus on on F
+tune en fait la prédictabilité qui
+conditionne toute l'expérience
+utilisateur ok donc ça fait un an et
+demi que vous êtes live ça fait 3 ans
+que vous avez lancé le truc donc pendant
+et demi tu étais dans ta cave pour
+pouvoir coder vous êtes combien
+aujourd'hui on est 17 17 combien de
+fondateur euh je suis le fondateur mais
+on est 4 C associés bon ok produit
+extrêmement
+impressionnant la la la courbe de
+traction elle est elle est elle est
+clairement en train de monter alors on
+peut poser autant de questions qu'on
+veut aussi hein sur le produit
+évidemment c'est hyper intéressant mais
+juste sur toi parce que tu tuas un
+profil un peu particulier le le il y a
+il y a le design il y a le hacking et il
+y a le fait de commencer très jeune
+est-ce que tu peux revenir sur sur sur
+ton parcours tu as 17 ans qui tu es tu
+fais quoi qu'est-ce qui t'éclate dans la
+vie
+euh bah ce qui me plaît c'est le alors
+je suis un c'est vrai que je suis un
+designer à la base euh c'estàdire tuaim
+t photoshoper des ouais voilàou PHH
+ouais ouaisà ENF Photoshop le design
+c'est c'est plus profond que ça c'est
+vraent sur je
+caricature je suis d'accord d'accord
+mais je je je je tiens à souligner que
+le design c'est beaucoup plus profond
+dans dans le ce n'est pas que du
+graphique ouais bien sûr c'est pas de
+l'esthétique voilà surtout pas ça c'est
+beaucoup plus conceptuel euh jusqu'à
+arriver à des flots des
+expériences des des des
+ergonomies donc à 17 ans bah en fait
+j'ai j'ai monté mon premier business à
+18 18 ans 18 ans ça commenca en fait en
+par un défi entre copains ouais on s'est
+dit le premier qui fait un site comme ça
+en html c le déb donc c 98
+euh il a gagné donc en fait j'ai c'est
+un site qui faisait quoi c'est un site
+de musique d'accord c'est un site pirate
+euh pirate pour télécharger de la
+musique ouais d'accord à l'époque il
+fallait bien fallait bien se faire la
+main donc ça bon ça c'était une ancienne
+histoire mais euh enfit c'était des MP3
+des MP3 à l'époque mais rapidement en
+fait donc bref ça commencait comme ça
+j'ai mis le pied à l'é trié sur un sur
+un simple défi et j'ai j'ai pris
+beaucoup goût donc ça c'était vraiment
+le html fallait rentrer dans le truc je
+comprenais pas très bien donc je copiais
+j'essayie de comprendre et puis j'ai
+j'ai vu mes limites donc j'ai fait un
+eut eng génieer informatique donc là
+j'ai eu la casquette développeur donc
+que je suis toujours je ça dure combien
+de temps un eut un ingénieer
+informatique bah c'est un cycle de 2 ans
+2 ans d'ailleurs moi j'ai pas fait j'ai
+en fait en parallèle je commencais
+beaucoup à faire du freelance donc j'ai
+monté différentes boîtes en parallèle
+donc j'ai même pas fait ma première
+année d'é enfin j'ai fait ma première
+année d'ité mais j'ai pas continué parce
+que j'étais déjà à fond dans le business
+à monter des boîtes à à créer des
+systèmes d'information à l'époque
+c'était très root fallait se bouffer des
+des bouquins en anglais et il y av que
+c'était que du du CGI pour ceux qui
+connaissent à l'époque donc c'était très
+très old school donc j'ai vraiment mis
+la main dans dans le dans dans le
+système en fait pour vraiment le
+décortiquer le comprendre et et en faire
+élitérer ou faire mes mes propres
+programmes euh jusqu'à ce que bah je
+monte une première boîte je me fais la
+main sur plein de trucs donc là c'était
+vraiment une web agency donc je en fait
+j'avais la chance de pouvoir
+conceptualiser mettre en en forme
+graphique et développer tout le système
+d'
+tu avais toute la chaîne quoi de
+développement et donc tu vas faire des
+sites internet pour voilà pour des
+intranet des des Volvo des machins des
+truc comme ça enfin bon je des clients
+quoi des desoua tout seul ouais tout
+seul ouais ouis tout seul donc ça
+c'était bon bien sûr beaucoup de boulot
+beaucoup de nuit blanche et tout mais
+très très très enrichissant euh en
+parallèle j'étais un fan de gaming donc
+j'ai j'avais j'ai acheté enfin une
+armoire et j'avais plein de serveurs de
+jeu donc je dmais pas je
+compilais mes mes routes mais mes
+carnels sur les serveurs et j'optimisais
+des serveurs de jeux que je donnais donc
+j'essayis d'amortir la location c'était
+pas du tout rentable enfin j'arrivais à
+l'équilibre c'està-dire tuas fait un
+business de location de jeux vidéo ouais
+enfin de location de serveur de jeux de
+serveur de jeux vidéo oua pour ceux qui
+connaissent Counter Strike comme ça à
+l'époque don à faire tout ça ça ça
+marchait pas non mais c'était j'ai
+appris j'ai appris les systèmes
+d'information enfin les systèmes réseau
+système tout court et puis en fait bref
+tout ça pour dire que en en 2004 je suis
+parti en Suisse
+monter une plateforme de logo sonnerie à
+l'époque ça marchait bien ah bah tiens
+il y a Monsieur toc toc toc qui est là
+ouais
+[Applaudissements]
+vous avez reçu les SMS le pauvre n'ai
+pas peurin c'est juste pour une démo
+t'inquiète donc c'est 798 c'est ça ouais
+c'est
+ça donc il a la casquette il a le
+t-shirt il a le le sac à dos tu es venu
+en en vélo ou écolo en plus et pouvez
+faire signer le le monsieur n'importe
+voà va faire
+signer c'était quoi que tu as pris une
+bouteille c'est ça du coup je sais plus
+qu'est-ce qu'il a pris parce que j'ai
+c'était juste pour la ah voilà
+ok merci
+beaucoup merci beaucoup merci beaucoup
+c'est gentil donc tu as 17 ans tu tu ok
+donc là 26 minutes il a mis 6 minutes 26
+minutes 26 minutes ouais sur 33 annoncés
+ah c'est bien on essaie de s'engager sur
+voilà plus ou moins 5 minutes d'être fin
+là-dessus notre ' inintéresse c'est pas
+de dire plus ou moins un quart d'heure
+c'est pas c'est c'est la la fiabilité du
+système qui fait que les gens assimilent
+la marque comme quelque chose
+d'extrêmement puissant quoi en fait
+expérience euh donc voilà en 2004 je
+pars enfin je monte des des logos
+sonneries en Suisse ça marche super bien
+parce que c'est tout le monde à ce
+moment-là personnalise son téléphone
+donc ça je vends cette boîte là à un
+groupe suisse euh en au bout d'un an et
+demi ça va assez vite finalement c'était
+euh
+donc je deviens actionnaire de ce groupe
+suisse parce que je j'aime bien me
+projeter sur la sur la durée en général
+donc je je repars pour un nouveau tour
+en faisant un transfert d'actif
+euh et donc en fait je deviens de ce
+groupe-là qui 6 ans plus tard d'ailleurs
+s'est fait aait spinofé entre-temps aux
+US et s'est revendu à eBay pour
+plusieurs centaines de millions de de
+dollars donc à ce moment-là j'ai j'ai
+enfin 6 ans plus tard j'ai gagné pas mal
+d'argent euh tu as quel âge quand à ce
+moment-là à ce moment-là j'ai tu veux
+dire quand j'ai quand quand tu spinof
+quand ça spinof et que ça ça revend à
+eBay ah ça c en 2011 2011 j'avais 31 ans
+31 ans donc là tu as un peu de cash qui
+arrive ENF même pas mal oui oui oui tu
+es content tu es libre ou oui oui mais
+après c'est entre temps enfin en 2006
+moi j'étais rentré en France pour monter
+un un nouveau business qui est qui
+s'appelait Nomao qui s'appelle toujours
+Nomao enfin ah ben ça c'est connu ça
+fait quoi déjà Nomao c'est un moteur de
+recherche locale pour les voisins non
+excusez-moi je confond avec
+rien à voir euh Nomao c'était en fait à
+la base c'était comme un un yalp ah oui
+voilà une s review de plateforme de
+review de restaurant entre autres mais
+pas que forme de de blogging pour pour
+les adresses et tu vas découvrir c'est à
+ce moment-là que tu découvres que tu
+mets des tu mets des faux numéros qu'on
+appelle ah oui on a créé ça ouais ouais
+ça c'est dégueulasse ça c'est un bon
+business alors voilà le mec qui a créer
+les numéros intermédiaires qui sont pas
+les 01 mais qui sont les 08 vous pouvez
+l'engueuler c'est lui vous savez quand
+vous cherchez sur Google un restaurant
+et vous tombez sur un 08 en fait voilà
+0899 ouais ouais parce que en fait le le
+but c'est que c'est c'est c'est de s'en
+sortir en fait donc on trouve des on
+essaie de trouver des solutions et comme
+j'étais on partageait des bureaux avec
+des anciens les anciens d'alopas euh qui
+sont des amis
+euh je me suis dit je suis sûr que les
+gens il praient dès lors qu'ils arrivent
+sur une page ciblée euh
+sans sans tromper l'utilisateur je c'est
+marqué il y a des mention tarifaires oui
+non bien sûr c'est juste que tu tu
+tombes sur cette page là en premier quoi
+parce qu'on est en SIO donc ça CIT notre
+métier c'est faire beaucoup de trafic
+par que tu tombes même plus sur le 01 en
+fait ouais ouais c'est ça que les gens
+mais les gens payaient au lieu d'aller
+enfin au lieu je pense que en fait ça
+c'est c'est culturel par rapport à la
+France parce que la France c'est
+historiquement le Minitel et les
+entreprises qui payent donc en fait le
+business c'était que les gens au bureau
+taper dans Google arrivriver sur une
+page en fait ils appelaient depis le
+bureau c'est ça le business en fait
+c'est que c'est même pas les clients qui
+payent c'est les entreprises donc ça
+c'est un énorme business et ça c'est
+c'est c'est structurel ça a toujours
+existé de à commencé par le Minitel donc
+bon Nao voilà ça c'est on est monté
+jusqu'à 6 million de vu par mois donc ça
+marchait bien on on a on a quand même
+pivoté quand on est allé aux US parce
+qu'on s'est dit voilà ça va être
+compliqué de faire un yalp parce qu'on
+voulait être global euh donc on a dit ok
+stop on arrête on va craoller le web on
+va agréger la data donc beaucoup
+beaucoup de générique quand même on
+collit jusqu'à 150 millions de pages par
+par jour et en fait on faisit il y avit
+beaucoup de machine learning pour
+homogénéiser la data parce que fallait
+que ça soit intelligible compréhensible
+et donc bien structuré pour faire du bon
+SEO donc ça ça a bien marché on a vendu
+ça avec mes associés à à ebuszing Don on
+dont on est actionnaire donc encore une
+fois hop l'histoire se répète et donc
+c'est c'est chez ebzing où j'étais avant
+de de quitter donc j'ai j'ai continué un
+petit peu dans le groupe c'était très
+sympa
+euh à à développer ça un petit peu à
+l'international et puis et là tu
+remontes un business toc toc toc parce
+que ce qui ce qui t'anime c'est ça c'est
+de créer créer des solutions à des
+problèmes quoi ouais et alors il y a il
+y a ousama qui me raconé une histoire
+pas il a ousama qui me raconé une
+histoire une fois il était au resto avec
+toi il est revenu auri en me disant ce
+mec est fou ce mec est malade c'est vrai
+c'est un vrai entrepreneur le service
+était mal fait quand tu parles de design
+et de services qui sont au cœur il me
+dit non mais en fait il le vit vraiment
+intensément c'està direire qu'il a il
+s'est engueulé avec la serveuse qui ne
+faisait pas bien ne faisait pas bien le
+service non je non je m'engueule
+rarement déjà
+euh mais j'ai du
+mal to avec les gens qui n'assument pas
+leur métier en fait j'aime bien la
+culture américaine pour ça ouais par
+voilà c'est le client il paye et en fait
+il paye donc il y a un échange il y a
+comme un protocole donc pourquoi pas le
+respecter puisquil est il est il est
+designé pour ça le protocole donc c'est
+pas normal il y a un problème il un bug
+il y a un truc qui passe pas dans le
+tuyo en fait faut faut bien faire les
+choses c'est si on n pas content VI le
+choix on part on est tous libres de
+faire ce qu'on veut donc on fait un truc
+qui nous plaît d'ailleurs je pense même
+que tout le monde a quelque chose qui
+lui plaît qui fait qu'il serait
+excellent si si si si peut-être
+il prenait le courage de demain pour
+vraiment faire ce qu' ce qu'il a envie
+de faire et donc la sererveuse qui est
+pas contente B elle fait autre chose en
+fait elle devrait faire autre chose
+c'est c'est même elle a pas à te faire
+subir son son non mais je c'est
+attention je je suis je suis diplomate
+et je passe par l'ironie pour pour faire
+comprendre les choses mais
+ouais ça me tient à cœur
+[Musique]
+de voilà en tout cas moi je je de
+designer un service qui soit parfaitf
+tout ça pour dire que c'est un truc qui
+est l'extension toi-même toc toc toc en
+fait que c'est quelque chose que tu
+portes en toi cette cette notion de
+service et que c'est hyper important
+d'aller chercher quelque chose qui nous
+ressemble en fait quand on monte sa
+boîte pour qu' soit quelque chose soit
+pas qu' soit une obsession personnelle
+en fait pour ne pas s'ennuyer parce que
+tous les jours il va faire du toc toc
+toc quoi
+ouais ouis je pense que il faut être
+avant tout passionné foncer être habité
+par le truc il y a pas de de toute
+manière c'est tellement j'ai envie de
+dire j'ai j' dire un peu ingrat quand on
+prend du recul l'entrepreneuriat c'est
+c'est besogneux c'est rép c'est
+forcément des galères donc pour pas les
+voir il faut faire preuve de réalisme
+pour pas s'entêter non plus il faut
+savoir pivoter faire preuve d'humilité
+mais si on n'est pas habité sincèrement
+c'est on pourrait ça pourrait être
+effrayant de savoir ce qui nous attend
+vaut mieux vaut mieux foncer et se dire
+on va y arriver et puis si on est si on
+est chou c'est pas moi tous les business
+que j'ai monté c'est pas ça pas été des
+des succs storyies
+euh mais par contre j'étais habité donc
+j'ai énormément appris en fait ouais
+c'est c'est ça le plus important allez
+les questions les amis on est super en
+retard là voilà on a une heure de retard
+c parti ça démarre vas-y tiens tiens
+tiens
+JECI concernant le financement sachant
+que justement tu as eu plusieurs
+business juste avant et que tu as pu
+lever un petit peu enfin tu as pu
+récupérer un peu de de capital est-ce
+que tu tu l'as utilisé pour euh pour
+pour toc toc toc ou est-ce que tu as
+fait différemment ah ouais j'ai j'ai
+financé euh pendant queluteur
+500000 j'ai tu as mis 500000 au
+démarrage de toc toc toc ouais de ta
+poche ma poche ouais ok et après euh
+après bon il y a beaucoup de financement
+il y a en fait au-delà du
+financement c'est relatif mais je dirais
+qu'il y a beaucoup il y a eu beaucoup de
+temps parce qu'en fait le problème de la
+qualité de service pour arver un truc
+vraiment millimétré chirurgical même si
+je moi je connais tous les tous les
+trucs à perfectionner donc ça ça me rend
+fout déjà mais
+euh c'est que c'est très difficile de
+d'avoir le le oui du client si on a pas
+imaginer tous les petits détails qui
+font que la personne elle est dingue en
+fait du service et ça ça prend
+énormément de temps parce que c'est soit
+on se crame soit on a un truc positif
+donc c'est ça prend vraiment beaucoup de
+temps et c'est ce tempsl qui qui a coûté
+avant de de relever un peu d'argent pour
+répartir le risque et donc faire appel à
+des gens qui soit qui sont prêts à
+partager le risque en vérité c'est parce
+que moi le le risque je prends tous les
+jours et puis après quand quand il y a
+quelque chose qui commence vraiment à
+décoller que ça devient sympa là on
+rentre dans un cycle un peu plus
+classique de venture capital où là on
+lève vraiment pour développer beaucoup
+plus que du prototype et du produit fini
+qui marche il va forcément amélioré au
+au fur et à mesure mais on parle plus de
+business pour le coup moins de produit
+même si le produit est central de toute
+manière mais en termme de business
+développement c'est donc ouais
+oui une question sur le produit on a
+parlé donc du fameux TripTic qui fait
+que la mayonnaise prend donc les runners
+les retailers mais aussi les clients moi
+ma question c'est au niveau des clients
+pour en fait leur donner confiance
+comment tu fais pour effectivement
+comment tu as fait pour les les attirer
+et aussi communiquer sur toute C cette
+phase de confidentialité pour que ce
+soit simple pour eux qui comprennent
+vraiment
+que on saura pas qui ils sont en fait ce
+que je vous dis personne le sait il y a
+il y a pas un client qui sait que le
+Runner il passe par une gateaway
+peut-être qui s'en doute parce qu'ils
+vont à 01 mais on le dit même pas parce
+qu'en fait il faut juste que la commande
+elle soit passée et que ça marche c'est
+c'est binaire c'est super basique le
+client il veut juste voir un Runner qui
+lui sourit et qui lui donne des trucs
+dans le timing et puis euh
+et puis c'est cool en fait et ça
+s'arrête là on veut même pas
+complexifier le message en fait il faut
+que ça soit tellement c'est moi je
+prends souvent l'exemple d'Apple
+euh c'est ça ça paraît simple en fait
+quand on voit un laptop comme ça il y a
+une petite lumière une pe une petite
+pomme mais derrière c'est c'est du
+délire en fait tout ce qu'il y a d'
+point du software et
+hardware et ça ça marche c'est c'est
+tout si on met en veille on l'ouvre ça
+marche tout de suite il y a que ça qui
+compte le client il a même pas besoin
+c'est je pense que ça serait le il aime
+le service parce que c'est simple et si
+on lui passait enfin si on voulait entre
+guillemets se vanter de de tout ce qu'on
+a mis en place pour vraiment le
+protéger ça ça complexifierait
+énormément le process en fait donc en
+réalité
+euh c'est comme un un feeling de
+quand même ça doit être ça doit être
+difficile mais il a quand même
+acheté pour pour moi parce que bon il a
+une carte prépayée qui est crédité en
+temps réel il transfert de cash et
+cetera il paye enfin il tout de sécurité
+partout euh donc c'est très très très
+lourd en terme de logistique de flow de
+de process énormément de process parce
+que ça reste quand même des humains
+l'humain est faillible il des erreurs
+humaines tous les jours donc en fait
+l'usine à gaz derrière tototc c'est
+vraiment le process toutes les quatre
+figures les machins et cetera il y a
+défaut euh je pour en parler des heures
+mais il y a il y a il y a des sacs
+différents il y a des typologies de de
+de runur il y a des produits fragile
+chaud froid surgelé on peut pas combiner
+deux achats chaud froid surgelé dans
+différents pickup différents il y a
+forcément un volume c'est c'est c'est un
+container fini le sac une pizza ça va
+pas se transporter dans son sac à dos
+donc en fait ça dispatché en temps réel
+sur un autre honneur et cetera avec plus
+ou moins de d'efficacité parce qu'il est
+en rollur il est en scoo enfin c'est
+c'est si je rendre dans ce détail là le
+client il vient fou
+ENIT je l' fait inverse paradoxalement
+et ensuite pour répondre à l'autre
+question
+c'est on a communiqué c'est que du
+bouche à orille aujourd'hui l'attraction
+qu'on a qui qui est à peu près entre 4
+et 5 % de croissance par par semaine
+c'est que du bouche à oreille bien sûr
+il y a un coût d'acquisition par le fait
+qu'on sponsorise la première livraison
+première
+expérience donc là on commence le
+marketing mais la la en réalité la
+stickiness d'un service elle est parce
+que on prend le temps de faire un truc
+de qualité parce qu'on prend le temps
+aussi de bâtir une marque et ça prend du
+temps ça coû ça coûte de l'argent mais
+si on croit dans cette vision que pour
+changer les usages qui sont profondément
+ancrés dans la manière dont on consomme
+dans les villes bah ça passe par une
+marque parce qu'il y a du trust et une
+qualité de service qui prend du temps et
+qui se finance les choses se font de
+façon assez organique et ensuite après
+on développe du business parce qu'on va
+on va lever plus de fonds pour rentrer
+mass market faire participer le la
+marketplace et les retailers comme je le
+disais parce qu'ils vont sponsoriser et
+cetera et là c'est c'est c'est c'est
+c'est la continuité j'ai envie de dire
+tant qu'on assure la qualité de service
+oui oui alors moi je bonjour déjà merci
+pour la présentation je trouve que ton
+service est super
+innovant je rebondissais sur la question
+la dernière remarque d'Alice et je
+voulais savoir si il y a pas une
+tentation quand on a ce niveau de entre
+guillemets d'exigence de créer carrément
+un label ou de labelliser parce que tu
+tu vas toucher à un moment donné à des
+produits on va dire frais sensible
+est-ce que tu es pas tu as pas la
+tentation un moment donné de de de créer
+un label ou de je sais pas labelle
+qualité voilà c'est ça non si déjàur se
+prononce pour enfin nous sollicite
+pardon pour se référencer chez nous et
+donc pour être distribué par nous en
+fait en quelque sorte c'est déjà une
+première preuve de
+qualité pas un label à proprement dit
+mais une confiance dans le service dans
+ce qu'on a entendu du service par X ou Y
+et que ça puisse nous nous apporter du
+business donc c'est le côté vertueux de
+l'effet de masse mais le label euh pas
+vraiment c'est plutôt nous on est plutôt
+sur une stratégie de référencement de
+catalogue pour que vous ayez le choix
+euh avec tout ce qui va à côté parce que
+plus de runur donc probabilité pour que
+vous soyez livrés plus rapidement et
+cetera c'est un peu ça en vérité c'est
+le la confiance qui fait que les gens
+viennent à nous et qu'on les référence
+et qu'on
+aujourd'ui to to to ça très bien ça
+référen des produits qui éai hyper qual
+quand je parl toi avec business
+c'étaitag
+ouais ouais il y a un peu de tout ouais
+et
+pâtisseries la pâtisserie des
+rêves on on fait rentrer des grandes
+enseignes je peux pas vous
+dire oui tu parlais à l'instant du
+bouche à oreil qui avait permis de qui
+permet de générer la croissance moi ce
+qui m'intéresse c'est de savoir comment
+tu as identifié les early adopteurs
+les les premiers consommateurs ouais en
+fait on commence par un cercle d'amis
+parce qu'en fait en vra en vraie phase
+de prototype ou de MVP c'est c'est très
+bancal si je reviens il y a un an et
+demi en arrière même si on a bossé un an
+avant tout le process et on veut pas
+trop cramer des cartouches sur des vrais
+clients donc on fait des premiers
+cercles d'amis puis cercle d'amis d'amis
+et après quand quand quand c'est sympa
+c'est un peu plus sticky il y a il y a
+des early adopters en fait parmi ces
+gens-l qui sont prêts en fait à betta
+tester entre guillemets en plus du fait
+que la beta privée est propice à à
+titirer les gens qui sont toujours un
+petit peu à vide de moi je vais être le
+premier à tester un truc privé en plus
+c'est génial donc ça les valorise en
+fait c'est mécanique
+d'g qui qui est qui voilà par la
+sélection de la beta privée fait que des
+gens sont en demande de de pouvoir
+participer donc le le la beta privé par
+invitation est un mécanisme qui marche
+bien et qui peut être initié par les
+premiers cercles d'amis d'amis qui eux
+ont nous ont permis d'arriver à un
+certain niveau de qualité pour encore
+plus stresser des gens qui
+eux seront exigeants mais tolérants
+parce que ba privé c'est le sens de la
+beta privée bonjour pourquoi est-ce que
+tu as choisi de rejoindre family alors
+tuas c'est ça alors que tu as déjà
+vachement d'expérience alors c'est
+simple on travaille main dans la main
+c'est pas tout à fait le
+[Musique]
+même voilà c'est mais en moi j'aime bien
+the family je suis entrepreneur je j'ai
+j'ai beaucoup investi dans des sociétés
+aussi je je suis je fais partie de
+j'aime aidé en fait je trouve que la
+mission de The Family est ce qui manque
+ça
+répond à une nouvelle air je pense de
+gens qui sont en attente en demande qui
+ont du talent et parfois un petit peu
+perdu et juste leur apporter une route
+des connaissances et de partager en fait
+donc du networking qui extrêmement
+important aussi c'est euh c'est c'est
+c'est ça fait partie de ce que je ce en
+quoi je crois et ensuite bien sûr on se
+rend des services à à la base en fait à
+la base Serge on l'avait invité à un
+dîner du jeudi avec nos entrepreneurs
+pour qu'il vienneent présenter sa boîte
+à nos entrepreneurs et après le fit
+s'est fait comme ça et on s'est dit en
+fait son truc il est génial on a voulu
+le suivre et puis il se trouve que lui
+il avait des besoins et que c'est ousama
+qui l'a accompagné sur certains trucs et
+donc voilà quoi ça fait comme ça en gros
+voil
+SP euh ouais autre question donc en fait
+tu es une tu es une Marketplace donc par
+définition multiface avec AC trois faes
+en plus là avec tes retailer tes runers
+tes tes clients finaux euh la question
+que je me pose moi c'est comment tu fais
+en fait pour démarrer ton truc enfin
+c'est un peu toujours la question de
+l'œuf et la poule laquelle t'attaques en
+premier et comment tu fais pour rester
+focus et pour mener tout de front en
+fait
+euh alors en fait la réponse
+c'est le premier
+c'est c'est le Runner et en fait c'est
+la
+dispo euh s'il y a pas de dispo il y il
+y aura jamais un client qui va dire en
+fait il y aura jamais un client qui
+pourra jouer avec le service en se
+disant en rajoutant un truc dans son CAD
+il verra une promesse donc il pourra pas
+se projeter de ah je peux me faire
+livrer en 20 minutes donc en fait il
+faut acheter la dispo faut acheter
+vraiment un truc voilà ça gravite dans
+Paris tu sais pas vraiment où
+ouais par ville ouais ouais donc en gros
+c'est des gens qui sont payés à l'heure
+et donc tuachètes la la dispo et là à
+partir de ce moment-là les clients
+peuvent potentiellement jouer si t que
+tu as un catalogue produit encore une
+fois nous quand on a commencé laav1
+c'était un peu différent parce que
+c'était il fallait avoir une idée de de
+ce qu'on voulait pour matcher un
+catalogue là aujourd'hui on est en train
+de rajouter ENF obligé en fait d'aller
+séduire des marchands et de faire un
+effort certainement commercial sur un
+référencement pour en plus donner envie
+donc on a une double problématique
+aujourd'hui en effet c'est la dispo et
+c'est le catalogue mais après le client
+c'est que du marketing c'est ce qui est
+le moins compliqué dans l'absolu il y a
+y a ça reste toujours un ça reste
+toujours compliqué un business hein euh
+mais c'est le moins compliqué les driv
+est-ce que tu les vois comme un
+potentiel concurrent ou euh ou
+partenaire comment tu comptes euh ni
+l'un ni l'autre nous on nous on opère
+dans des villes urbaines en centre-ville
+et le drive est une typologie euh de
+périphérie majoritairement parce que
+adosser souvent au au supermarchés qui
+eux-mêmes sont déjà excentrés ça rejoint
+pas le modèle de je vais piquer dans la
+ville une disponibilité
+produit mais il y a il y a la la
+disponibilité en fait nous on on va
+acheter en magasin comme si le client
+l'avait fait lui-même donc les
+supermarchés vont jamais disparaître
+enin moi je crois pas en fait dans dans
+ça parce que les villes sont saturées de
+trafic donc je crois plutôt en fait un
+vrai service qui qui qui bypasse le
+traffic et qui est
+accessible par la disponibilité par la
+rapidité parce que enfin moi j'ai pas
+mon permis je je vois pas l'intérêt
+d'avoir mon permis à
+Paris je vois l'intérêt autrement bien
+sûr mais donc en fait je pour moi ça
+rentre pas dans les nouveaux usages de
+tout ce compresse c'est pas bon Serge si
+tu avais un conseil à donner à tous les
+gars qui sont là les filles
+qui sont tous dans une phase où ils ont
+le temps encore de réfléchir à l'idée tu
+vois c'est ce moment un peu cool où tu
+brainstorm avant de te lancer de te
+focuser et d'exécuter qu'est-ce que tu
+leur donnerais comme conseil dans cette
+phase là pour avancer on dit souvent
+qu'il faut pas avoir peur de citer des
+évidences mais c'est c'est important de
+le
+dire bon je pense que être habité comme
+je le disais c'est un motif qui qui nous
+pousse naturellement vers l'avant et de
+toute manière il va falloir charbonner
+et
+galérer donc je pense que un truc quand
+même assez important dans un dans un
+business c'est quand même l'association
+donc c'est les condateurs voilà ça c'est
+quand même la base parce que moi je me
+suis mal associé plusieurs fois ouais et
+c'est c'est vraiment galère ça a fini en
+divorce
+[Musique]
+euh j'ai j'ai j'ai j'ai ça c'est ouais
+j'ai rendi le truc donc ça c'est quand
+même mais c'est mais c'est c'est des
+galères pour rien et en plus dans des
+business en moi j'ai je sais pas si j'ai
+eu le la chance ou le la malchance mais
+j'ai toujours eu des procès
+euh j'ai toujours gagné mais j'ai
+toujours eu des procès mant MP3 à 17 ans
+enfin à 18 ans c'est normal non ça c'est
+non ça ça rien à voir parce que là je
+pense que j'ur jeis peut-être un casier
+euh là enfin j'ai fait pire que ça mais
+bon ça c'est une ancien histoire encore
+une fois quo
+mais non on m'a demandé 15 millions
+d'euros 5 millions d'euros euh c'était
+du délire en fait puis quand on a 24 ans
+ça c'est un gros coup de Massu donc en
+fait quand on n pas cétait pour Nomao
+euh ouais ça on m'a demandé 15 million
+ou euh avant les sonneries on m'avait
+demandé 5 millions
+pourquoi parce que
+parasitisme concurrence en fait donc si
+suite tu tombes sur un un déglingué et
+s'il est pas content ben voilà c'est
+c'est c'est c'est un jeu d'ailleurs je
+j'ai beaucoup souffert de cette période
+là et c'était très dur notamment parce
+qu'en plus c'est empilé des problèmes
+d'associé donc l'association c'est quand
+même un truc fondamental de bien
+s'associer mais vraiment quoi et s'il
+faut prendre le temps prenez le temps
+mais parce que quand parce que il a y a
+forcément des LO en fait dans le
+business si c'est un procès ça peut
+bloquer ralentir des des levés de fond
+moi j'ai quand même dû attendre
+d'ailleurs de de les déboter quand
+j'étais en Suisse et en fait il m'a
+donné donner 1 € je lui ai donné 1 €
+alors qu'il me demandait 5 millions et
+c'est à partir de ce moment-là de ce
+jugement là au fond au tribunal que j'ai
+vendu ma boîte par exemple mais j'étais
+en standby enfin c'est des petits
+détails mais ça ça bloque le business
+donc bien s'associer c'est aussi être
+plus fort dans dans dans l'adversité les
+problèmes au quotidien et on peut pas
+tout faire tout
+seul ça veut dire quoi bien s'associer
+alors tout à l'heure doc doc doc
+avait dit un un truc mais qui est qui
+qui est qu'estce que je pense c'est que
+euh la base c'est quand même la
+communication donc il faut être franc
+parce que le manque de transparence est
+un est un frein c'est une perte de temps
+sèche de transparence voilà c'est des
+nonit on crève l'absèe ça fait mal et
+tout bon une communication continue
+c'est quand même beaucoup plus efficace
+ça c'est chacun a des personnalités
+différentes mais je pense que ça mange
+pas de pain de simplement s'ouvrir et ti
+les choses franchement euh tout le monde
+gagnera et ensuite complémentarité
+complémentarité c'est important même
+pour séduire parce que ça ça crée moins
+de conflit hein ça dépend la nature de
+la boîte si c'est trè te qui bon il peut
+y avoir différents casquet technique
+mais idéalement c'est qu'elle se
+complète même elle-même
+euh parce que c'est ce qui apporte du
+sens et qui légitime le rôle de chacun
+euh parce que tout le monde doit trouver
+une place en fait dans une association
+il y a personne doit être lisé et se
+sentir mal parce que c'est l'humain on a
+besoin de s'accomplir d'exister et
+cetera voilà donc tout le monde doit
+s'épanouir et quand on s'épanouit bah
+forcément bah on est encore plus aspiré
+par aller plus loin et être porteur du
+projet et et c'est c'est c'est vraiment
+un aspirateur quoi ça se fait euh c'est
+c'est vertueux quoi ça ça vraiment de la
+richesse donc là une bonne association
+c'est presque du bon sens presque j'ai
+envie de dire c'est on s'entend bien on
+réfléchit on se remet en question on est
+humble et euh et on on doit aller vite
+donc il faut rester quand même vachement
+pragmatique pas trop rêver là il y a il
+y a
+euh ça reste
+toujours un combat quand même je pense
+que c'est quand même un combat il y a
+différents niveaux de combat mais
+euh faut faut s'armer et être donc un
+bloc plus fort c'est quand même la base
+de tout business je pense bon Serge
+merci pour Cees précieux conseil
+franchement c'éit un bonheur de
+connaître ton histoire bravo à
+toi merci beaucoup
+[Musique]

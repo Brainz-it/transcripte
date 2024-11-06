@@ -1,0 +1,844 @@
+dans anyone can scale on a décidé dans
+cette première partie de commencer par
+les individus avant de vous montrer
+comment une PME une TPE une grande
+entreprise peut scaler comment on scale
+une équipe on a pensé que c'était
+important de vous montrer au niveau le
+plus micro que le Scale ça démarre par
+une attitude personnelle pour ça on a
+suivi le quotidien de quatre personnes
+dans leur travail et on les a aidé à
+performer et à travailler plus
+efficacement avec des méthodes de
+scale on a suivi Léa l'avocate Lavia le
+médecin Fabien développeur et Guillaume
+développeur aussi et ce qu'on a voulu
+faire en suivant ces gens c'est vous
+montrer que tout le monde peut mettre un
+peu de scale dans sa vie bienvenue
+[Musique]
+[Musique]
+aujourd'hui on va commencer cette
+formation à par comprendre le concept de
+scalabilité essayer ensemble de le
+décortiquer et voir concrètement les
+grandes étapes pour permettre de rendre
+votre business calable alors la première
+question qu'on doit poser pour rentrer
+tout de suite dans le vif du sujet c'est
+qu'est-ce que ça veut dire la
+scalabilité alors c'est un peu un
+running hack pour moi parce que j'ai eu
+l'impression de l'expliquer pendant 5
+ans à tout le monde qu'est-ce qui était
+une boîte scalable notamment dans mon
+travail à the family et pourtant à
+chaque fois que je pose la question à
+quelqu'un de m'expliquer la scalabilité
+c'est assez catastrophique donc c'est
+très simple il y a un schéma tout bête à
+à comprendre la scalabilité c'est une
+structure économique dans laquelle les
+coûts fixes sont plus ou moins fixes il
+peuvent être plus ou moins élevés mais
+en tout cas vous avez cette structure de
+coût fixe qu'est-ce que c'est les coûts
+fixes c'est les ingénieurs euh les
+développeurs euh votre salaire votre
+loyer euh tout ce qui fait que votre
+business peut opérer tous les besoins
+fixes que votre business a pour opérer
+ensuite si vous êtes vraiment scalable
+vous avez des coûts variables qui sont
+décroissants comme ça avec une jolie
+courbe de décroissance alors évidemment
+ils vont pas décroître à zéro mais petit
+à petit servir un nouveau client ça va
+vous coûter moins cher et vos revenus
+par client eux ils sont
+croissants normalement de façon
+asymptotique c'estàd qu'ils vont monter
+comme ça et donc si vous avez coût fixe
+coût décroissant revenu croissant à
+chaque fois que vous rajoutez un client
+alors vous êtes parfaitement scalable ça
+c'est la scalabilité la plus pure c'est
+Google Google la première fois que
+quelqu'un tape une requête sur Google
+cette requête il faut rembourser la
+recherche et développement les
+ingénieurs tout ce qui a amené jusqu'à
+ce
+moment-là la deuxème requête elle coûte
+deux fois moins cher la trè requête
+coûte TR fois moins cher la 4ème requête
+et cetera jusqu'à la milliardiè de
+roquett et en plus Google apprend de
+plus en plus sur vous donc optimise à de
+plus en plus de Cl a des effets réseaux
+et ces effets réseaux lui rapportent de
+plus en plus d'argent et comme il
+optimise ses serveurs et cetera ses
+coûts variables à eux sont décroissants
+cette structure qui est la scalabilité
+c'est un peu la structure économique de
+l'Internet pour nous l'internet c'est
+une révolution qui change complètement
+la façon dont les business sont opérés
+l'Internet a changé de nature la façon
+dont les business peuvent être créés
+peuvent être opérés peuvent se
+développer et scalabilité et internet
+c'est un peu les cousins germains
+l'Internet a permis l'apparition de
+business parfaitement scalable alors
+classiquement les gens qui ont commencé
+à réfléchir à la scalabilité ils se sont
+dit la scalabilité c'est le virtuel
+parce que dans quel monde vous avez
+cette structure parfaite de croissance
+de votre revenue par client de
+décroissance de vos coûts et de coûts
+fixes qui sont fixes et ben c'est tout
+simplement les services Internet les
+services 100 % virtuels le software tout
+ce qui est autour du software les SAS
+les abonnements les médias tout ça en
+fait sont des objets parfaitement
+scalables et puis des sociétés ont
+commencé à appliquer ce concept de
+scalabilité en dehors de l'Internet
+et notamment le cas le plus célèbre
+c'est uber ù uber est une société
+scalable qui opère des chauffeurs qui ne
+le sont pas vous pouvez voir uber comme
+une société mèire qui elle a une
+scalabilité parfaite et qui a des
+filiales les chauffeurs qui eux ne sont
+pas scalables et cette première rupture
+dans le modèle a fait réfléchir des gens
+et notamment mon associé Nicolas Collin
+avec ce concept de face nord face sud
+dans les business grosso modo ça veut
+dire quoi ça veut dire que cette vision
+de qu'est-ce qui est scalable et
+qu'est-ce qui est pas scalable en
+l'opérant sur un seul objet était un peu
+simpliste
+peu comment dire limité parce que ça ne
+reflète pas la complexité de
+construction d'un business or la bonne
+question c'est que quand on construit un
+business on devrait se poser la question
+qu'est-ce qui dans mon business est
+scalable et qu'est-ce que dans mon
+business n'est pas scalable quelle
+partie de mon business est scalable et
+quelle partie de mon business ne l'est
+pas or dans 100 % des business et ça
+c'est une information c'est une c'est
+une hypothèse un peu bold qu'on va faire
+ensemble 100 % des business ont une face
+nord scalable même si elle est toute
+petite même si elle est réduit à un
+aspect assez accessoire du business il y
+a là des engagements et des
+améliorations de productivité
+extraordinaire qu'on peut faire ensemble
+le but d' one can scale c'est de vous
+donner cette méthodologie de vous faire
+comprendre que tout business peut scaler
+si vous comprenez comment le démonter
+voir quelles sont les étapes logiques
+dans votre business et vous permettre de
+prendre les parties les plus facilement
+scalable alors on va faire plusieurs
+choses ensemble première chose c'est que
+on va étudier des types de business on
+va regarder des gens qui avaient des
+business traditionnellement pas
+scalables et qui sont devenus un peu
+plus scalables on va étudier des
+business modelles pour voir les chemins
+de comment la valeur est créée et
+comment la valeur est transmise à
+l'inérie des business et puis surtout on
+va avoir des témoignages on va avoir des
+des des gens qui sont dans l'action
+qu'on a pris et qu'on a forcé à ce qu'
+est pour vous montrer que c'est possible
+quel que soit votre métier je m'appelle
+l je suis inscrite au Barreau de Paris
+depuis 6 ans maintenant je m'appelle
+Guillaume je suis développeur freelance
+je m'appelle Lavinia Unita je suis
+médecin je suis installée à Londres où
+je fais de la médecine fonctionnelle je
+m'appelle Fabien de maist je suis
+devveloppeur web en OGS principalement
+en bac mes grosses problématiques
+aujourd'hui c'est dégager du temps parce
+que j'ai l'impression que les dossiers
+ils s'empilent comme ça et que les
+dossiers les plus anciens il s'en
+foncent encore plus et que je gère gère
+en fait les priorités au quotidien moi
+en perso c'est pas c'est pas travailler
+moins et gagner du temps pour pour ma
+vie perso à côté c'est c'est évolué dans
+mon métier à prendre des choses que je
+sais pas prendre des clients peut-être
+un peu plus gros qui ont des sociétés un
+peu à droite à gauche des choses un peu
+plus complexes conseiller plus de gens
+voir vraiment que mon travail il est
+utile pas rentrer dans une routine de
+travail je pense que ça ça tue tout le
+monde la base du scale c'est
+l'investissement le premier concept que
+vous devez comprendre c'est la
+différence entre ce qu'on appelle les
+CAPEX et les
+Opex CAPEX c'est un mot dérivé de l'
+qui veut dire capit exp OPEX c'est
+operating exp grosso modo ça permet de
+dissocier les dépenses qui ont un
+rendement les CAPEX vous faites un
+investissement qui vous rapporte quelque
+chose des OPEX qui sont des pures
+liability c'estàd des pures coûts qui
+n'ont aucun rendement en dehors du fait
+que le service a été rendu alors pour
+prendre un business très
+simple pour voir qu'est-ce qui est du
+CAPEX et qu'est-ce qui est du OPEX gross
+modo les CAPEX c'est tous les
+investissements que vous avez besoin de
+faire une fois et qui vont vous
+rapporter dans le temps par exemple
+acheter un immeuble si vous achetez
+votre immeuble de bureau ça c'est un
+gros CAPEX ensuite vous avez pas besoin
+de payer un loyer si vous payez un loyer
+ça c'est un OPEX donc vous voyez la
+nature entre savoir si quelque chose est
+un CAPEX ou si quelque chose est un OPEX
+c'est pas simplement la fonction c'est
+aussi la nature financière que vous avez
+avec cet objet est-ce que vous êtes
+propriétaire de cet objet où est-ce que
+vous louez l'objet la révolution de
+l'Internet est ce qui est en train de se
+passer dans les business actuellement
+est en train de transformer énormément
+de choses qui étaient des CAPEX en OPEX
+grosso modo avant vous aviez besoin de
+capital pour démarrer maintenant vous
+pouvez louer l'accès à des ressources
+avant il fallait acheter ces serveurs
+maintenant vous pouvez louer vos
+serveurs avant fallait acheter ces
+bureaux maintenant vous pouvez aller
+dans un coworking avant il fallait
+acheter des machines industrielles
+maintenant vous pouvez louer dans un
+FabLab l'accès à ces machines là le
+phénomène
+d'opexisation c'est un mot barbare le
+phénomène d'opexisation a permis à de
+réduire la barrière à l'entrée des
+entreprises grosso modo ça veut dire
+quoi ça veut dire que maintenant pour
+démarrer vous avez plus besoin de
+convaincre quelqu'un de vous donner de
+l'argent vous avez juste besoin de de
+créer un business model suffisamment
+rentable suffisamment rapidement pour
+pouvoir louer les ressources dont vous
+avez besoin l'époque est à se faire
+payer d'avance et payer ses fournisseurs
+le plus tard possible si vous arrivez à
+faire ça si vous arrivez à collecter de
+l'argent avant de payer vos cût et qu'en
+plus vous avez pas besoin d'avoir des
+capital expense pour vos services et vos
+biens et ben grosso modo vous pouvez
+utiliser vos clients et l'argent de vos
+clients pour croître si le bénéfice que
+vous faites sur un client vous permet
+d'en servir de nouveau ça vous permet
+d'en avoir deux puis 4 puis et cetera
+cette différence entre CAPEX et OPEX
+elles sont super importantes à
+comprendre pour comprendre où est le
+levier du scale le levier du scale il
+vient d'un truc tout bête qui est que de
+temps en temps au lieu de rendre un
+service bêtement au lieu de faire une
+parce qu'il y a une urgence à la faire
+c'est simplement de faire une pause de
+prendre le temps et de se dire comment
+je peux transformer mon action en
+quelque chose qui me prendra moins de
+temps dans le futur si aujourd'hui
+j'investis un peu plus de temps grosso
+modo c'est comprendre que parce qu'on a
+plus d'investissement financiers dans
+les entreprises et qu'on en a de moins
+en moins qu'on a besoin d'investir de
+plus en plus intelligemment son temps
+investir son temps ça passe par quoi ça
+passe par réussir à transformer ce temps
+que l'on met d'habitude pour servir les
+clients directement en quelque chose qui
+nous permet de réduire le temps avec
+lequel on va servir les gens dans le
+futur alors prenons un exemple très
+concret et très simple grosso modo un
+avocat vend son temps c'est-à-dire que
+il factureent à ses clients le temps
+qu'il passe à résoudre leurs problèmes
+il y a un petit désalignement parce que
+ça veut dire quoi ça veut dire que plus
+un avocat passe de temps à travailler
+plus il gagne de l'argent et plus il
+prend de temps pour faire les choses
+plus ça coûte cher aux clients les
+avocats traitent ça traditionnellement
+en étant raisonnable en étant honnête le
+problème c'est que être honnête et
+raisonnable c'est pas universellement
+partagé c'est un rapport de force un peu
+compliqué et les clients sont pas tous à
+la même enseigne autour de ce sujet il y
+a des clients qui acceptent d'être
+facturé des heures pour rien il y a des
+clients que ça rend très nerveux si vous
+êtes un avocat et que vous avez envie de
+ceeler quel est votre premier challenge
+votre premier challenge est de vous dire
+que même si vous avez un alignement
+d'intérêt avec vos clients à passer
+beaucoup de temps grosso modo vous
+gagnez de plus en plus d'argent plus
+vous passez de temps vous devez
+comprendre que ce gain de court terme a
+un impact de court terme extrêmement
+pervers parce parce que vous allez être
+limité dans vos revenus par le temps
+maximum que vous avez passé c'est la
+dissociation entre la valeur et le coût
+peut-être que vous allez passer un peu
+de temps sur un sujet mais ça a beaucoup
+de valeur pour le client donc il est
+prêt à vous donner beaucoup d'argent
+peut-être que vous allez passer beaucoup
+de temps sur un sujet et ça a faiblement
+de la valeur pour le client cette
+différence entre valeur et coût elle est
+hyper importante à comprendre ce que
+vous avez besoin de faire si vous avez
+envie de scaler c'est de vous dire
+comment je peux investir mon temps up
+front au maximum pour
+préparer mes clients à me prendre le
+moins de temps possible et donc c'est de
+diviser toutes les étapes les templates
+les modèles tout votre processus
+industriel en ayant comme seule volonté
+seule optimisation de vous dire comment
+y passer le moins de temps possible et
+pour ça il y a trois outils qui sont
+trois outils qu'on utilise dans tous les
+cas de anyone can
+scale l'outil numéro 1 c'est de faire
+travailler les clients Ikea a inventé ça
+Ikea qui fait il fait bosser les gens
+comme monteurs à la fin il vous reste
+toujours une pièce dans la main vous
+savez pas quelle est cette pièce mais
+vous avez bossé gratuitement pour Ikea
+c'est quoi le deal quand vous achetez un
+meuble Ikea c'est ce meuble il est moins
+cher que ce qui devrait être parce que
+toutes les emmerdes de montage c'est
+vous qui allez les faire ou du moins
+quelqu'un que vous allez payer pour le
+faire mais c'est pas le problème d'Ika
+ça c'est le premier outil je pense que
+beaucoup de freelance beaucoup d'avocats
+beaucoup d'entrepreneurs ne se rendent
+pas compte à quel point les clients
+peuvent travailler pour eux et ne savent
+pas créer les conditions favorables à
+capter la valeur des utilisateurs si
+vous voulez l'exemple ultime de ça c'est
+Facebook Facebook c'est une entreprise
+qui a transformé des milliards de
+personnes en créateur de contenu qui
+pris n'importe qui et la transformer en
+quelqu'un qui est capable de faire de la
+valeur et du trafic pour Facebook et ben
+cette logique là vous pouvez l'appliquer
+dans beaucoup de business on reprend
+notre petite histoire d'avocat vous êtes
+un avocat ça veut dire quoi bah ça veut
+tout simplement dire que vous allez
+mettre en place des process standards
+des formulaires des questionnaires pour
+éviter une mauvaise compréhension du
+besoin client beaucoup trop de business
+de service ont tendance à ne pas
+standardiser leur approche et les
+questions qu'elle pose aux clients et
+résultat chaque client est aussi
+productif que le client veut bien l'être
+il y a des gens qui sont très
+bordéliques ces gens-là vous avez passer
+beaucoup de temps à comprendre ce qu'il
+y a dans leur tête il y a des gens qui
+sont très très efficaces et si vous
+penser un peu en justice sociale ça veut
+dire quoi ça veut dire que grosso modo
+aujourd'hui dans les business de service
+les gens efficace subventionne les gens
+qu' sont pas grosso modo ça veut dire
+que vous allez passer des heures et des
+heures à parler avec des gens qui sont
+incapables d'exprimer clairement leurs
+besoins et simplement sous prétexte que
+vous les avez pas forcé à standardiser
+leur approche et leur questionnaire donc
+ça c'est l'outil numéro 1 faire
+travailler les clients et il y a plein
+de façons de le faire l'outil numéro 2
+de la scalabilité c'est
+l'automatisation alors
+l'automatisation c'est un petit peu le
+côté magique vous savez du geek dans le
+film qui tape sur l'ordinateur et là il
+y a des trucs qui apparaissent à l'écran
+et il se passe des trucs magiques parce
+que le type il tape très très vite ça ça
+a créé une sorte d'image où en fait
+l'automatisation était réservée n'était
+le monopole que de gens extrêmement
+spécifiques ingénieur fa être bon en
+math faut avoir fait des longues études
+faut savoir coder pourtant depuis 10 ans
+il y a un phénomène très intéressant qui
+s'appelle le No code qui sont tous ces
+outils qui permettent à des non codeurs
+d'avoir des pouvoirs de codeur ces
+outils là ils sont méconnus en France
+ils sont méconnus par la plupart d'entre
+vous qui regardez ces vidéos et c'est
+bien dommage parce que ces outils vous
+permettent justement de mettre dans
+votre business de l'automatisation de
+mettre dans votre business cette
+capacité à faire que les robots
+travaillent pour vous l'image que j'aime
+bien me répéter
+c'est
+que il y a une armée secrète qui est
+apparue sur terre qui est l'armée des
+robots les robots sont déjà là ils sont
+partout et la différence qui fait la
+différence aujourd'hui c'est la capacité
+à les utiliser ou à ne pas les utiliser
+outil numéro 3 la
+standardisation alors ça c'est un peu le
+sujet tabou c'est marrant dans cette
+expérience de faire anyone can scale à
+chaque fois qu'on parle de
+standardisation avec les gens les gens
+ont une sorte de de
+répulsion quasi instinctive du genre non
+mais moi je fais que du surmesure moi je
+fais que du standard je ne fais jamais
+de standard chaque client est unique
+chaque être humain est précieux
+incroyablement différent je je je je ne
+veux pas entendre parler de ces
+histoires de standardisation alors
+ok c'est sympa pour le côté esthétique
+de la chose pourtant la standardisation
+c'est un outil hyper libérateur d'
+d'ailleurs en général les gens qui me
+disent qu'ils sont contre la
+standardisation ils ont un iPhone dans
+leur poche il me semble pas que qui que
+ce soit aille acheter un
+iphone fait par un artisan au coin de la
+rue qui a été personnalisé pour soi à la
+taille de sa main est-ce que quand vous
+allez chez Apple on mesure la taille de
+votre main en vous disant est-ce que ce
+téléphone et pourtant les gens trouvent
+que l'objet iPhone est un objet
+magnifique il y a des gens qui tueraient
+pour un iPhone j'en connais on a des
+noms à coup d'état euh entre
+autres mais mais il faut comprendre que
+la standardisation est de réussir à
+savoir qu'est-ce qu'on peut standardiser
+qu'est-ce qu'on peut pas standardiser
+c'est la clé pour savoir si on peut ce
+qu'er ou pas
+skaler comment ça marche de ce qu'el
+est c'est assez simple faut avoir de la
+méthode faut être patient et il faut
+avoir le long terme comme ami il n'y a
+pas de recette miracle qui transforme un
+business non scalable en business
+scalable overnight ça ça n'existe pas si
+vous voulez acheter ce genre de
+formation miraculeuse il y a des liens
+en dessous il y a des gens qui vont vous
+promettre des choses qui n'existent pas
+SK est ça demande du travail ça demande
+de la patience ça demande du temps et ça
+demande toujours le même process process
+numéro 1 analyser c'est quoi ma chaîne
+de valeur c'est quoi mes étapes c'est
+quoi ma toutdo cachée de toutes les
+actions que je fais dans une journée je
+vous encourage tous à faire cette toutdo
+au moins pendant une semaine ou de
+semaines à chaque fois que vous faites
+quelque chose aussi futile que CLR aussi
+détail que CLR vous le mettez dans votre
+calendrier et ça va vous permettre
+d'avoir une visualisation de où tout le
+monde dans votre entreprise passe du
+temps la base de l'optimisation c'est
+l'information l'information et la
+représentation de la chaîne de valeur
+c'est-à-dire les étapes entre le client
+et la livraison de ce client par où ce
+client vient comment il a été contacté
+comment il a acheté comment on a produit
+le service ou le produit qu'on va lui
+offrir vraiment liste toutes ces étapes
+ensuite une fois que vous avez ce schéma
+avec toutes ces étapes vous pouvez faire
+deux choses vous pouvez taguer ce qui
+est face Nord et ce qui est face sud
+face nord c'est tout ce qui peut scaler
+face sud c'est tout ce qui peut pas
+scaler alors c'est qu'est-ce qui est la
+différence entre quelque chose qui peut
+scaler ou qui peut pas sealer c'est tout
+simplement passer chacune de ces étapes
+à la moulinette des trois outils on se
+pose la question est-ce que cette étape
+elle aurait pu être mieux faite par le
+client si le client avait travaillé
+plutôt que moi-même par exemple est-ce
+que si je lui avais envoyé un
+questionnaire standard pour lui poser
+des questions à la définition de ses
+besoins ça aurait été mieux fait que si
+c'est moi qui définit les besoins
+moi-même est-ce que à tel endroit
+j'aurais pu l'envoyer sur un site
+internet où il aurait pu se selfsve
+est-ce que j'aurais pu à ce moment-là
+lui faire faire du travail à l'intérieur
+du process qui aurait apporté de la
+valeur à l'ensemble du process donc ça
+c'est étape numéro 1 donc dans votre
+arbre vous vous demandez est-ce que le
+client peut travailler est-ce que le
+client peut pas travailler si le client
+peut travailler faut mettre ça en place
+si le client peut pas travailler il faut
+se poser la question c'est est-ce que
+c'est standardisable ou pas est-ce que
+vous avez moyen de rendre cette étape
+standard c'est-à-dire copiercoller
+est-ce que le nombre de choix poss
+possible n'est pas limité et est-ce que
+vous êtes pas perdu dans votre
+abstraction et dans votre vision que que
+tout ça est
+incroyablement précis incroyablement
+personnalisable est-ce qu'il est
+possible de standardiser et s'il est pas
+possible de standardiser ou s'il est
+possible de standardiser commence le 3è
+outil est-ce que c'est automatisable ou
+est-ce que ça l''est
+pas donc il y a dans la matrice de SK il
+y a deux faces il y a est-ce qu'il est
+possible de standardiser et
+d'automatiser est-ce qu'il est possible
+de standardiser et de faire faire par
+les clients si c'est pas automatisable
+et si c'est pas possible de faire faire
+par les clients alors c'est la PH suute
+de votre business tout ce qui n'est pas
+scalable c'est tout ce que vous ne
+pouvez pas automatiser et tout ce que
+vous ne pouvez pas faire par les clients
+mais que vous
+ou pas l'étape numéro 1 c'est évidemment
+la standardisation standardiser les
+choses et vous forcez à voir les choses
+un peu dans un process industriel de
+vous demander ok qu'est-ce que je peux
+faire pour que ça soit moins complexe
+moins aléatoire plus prédictible ça ça a
+énormément de
+valeur vous savez si j'ai appris quelque
+chose c'est qu'on a tendance à
+sous-estimer la valeur de ce qu'on est
+capable de faire sur le long terme et à
+surestimer ce qu'on est capable de faire
+sur le court terme et pourquoi c'est
+parce que biologiquement on n'est pas
+apte à comprendre une exponentielle
+alors on va jouer un petit jeu de mat
+ensemble la valeur d'exponentielle en 1
+c'est
+2,7 la valeur d'exponentielle en en 5
+c'est
+143 la valeur d'exponentielle en 10
+c'est
+20000 c'est quoi l'exponentiel en 30
+vous avez 3 secondes réfléchissez pensez
+à un chiffre dans votre tête pensez au
+chiffre je recommence 2,7 143 20000
+trois fois plus de 10 à 30 c'est combien
+la valeur d'exponentielle et ben c'est
+8700 milliards vous l'avez pas vu venir
+celle-là et ben dans la vie c'est la
+même chose le Knowledge et le savoir que
+vous pouvez acquérir fonctionne
+exactement comme une exponentielle au
+début
+c'est dur ça a du mal à partir et
+ensuite petit à petit vous avez des
+intérêts composés ça compound comme
+disent les anglosaxons et ça
+s'additionne et ça s'additionne de plus
+en plus vite et toute démarche de
+scalabilité au sein d'une entreprise et
+avant tout une démarche d'apprentissage
+et c'est pour ça que l'étape numéro 1
+c'est d'avoir confiance c'est d' croire
+faut faire semblant de SCER et bientôt
+vous scerez et la deè chose deuxème
+blocage qui était vraiment fascinant à
+voir avec nos amis c'est que
+fondamentalement il y a une confusion
+entre scale et
+industrialisation fondamentalement les
+gens pensent que une usine c'est
+scalable parce que ça produit des
+millions de choses scalable ça veut pas
+dire quantité vous pouvez très bien
+avoir envie de faire les choses à une
+échelle locale vous pouvez très bien
+avoir envie de les choses à petite
+échelle garder votre cabinet tranquille
+vivre la belle vie avoir un bon
+lifestyle il faut pas confondre ambition
+et croissance la croissance c'est
+l'outil de développement de votre
+entreprise mais le niveau de croissance
+que vous voulez atteindre et le niveau
+final de votre entreprise ça c'est un
+choix ce que nous on essaie de faire
+c'est de vous donner les moyens de votre
+choix on essaie pas de vous dire que
+tout le monde doit bâtir le prochain
+Facebook si tout le monde bâtissait le
+prochain Facebook personne ne serait
+Facebook il faut comprendre que si
+Facebook est Facebook c'est parce qu'il
+y a des millions d'entreprises qui ne le
+sont pas non ce qui compte c'est que
+vous soyez satisfait de vous et heureux
+et que vous dites j'ai j'ai réussi à
+atteindre le maximum que je m'étais fixé
+comme objectif je pourrais pas faire
+beaucoup mieux évidemment que il y a une
+phase dans laquelle vous investissez
+évidemment il y a une phase dans
+laquelle vos profits sont utiliser à
+l'échelle de cette ambition à vous de
+définir le moment où ça s'arrête et vous
+décidez de prendre les fruits de
+cettecalabilité tout ce qu'on a abordé
+c'est la face émergé de
+l'iceberg cet iceberg de la scalabilité
+il est géant et il y a plein de choses
+qu'on va voir ensemble évidemment on va
+rentrer à fond dans l'automatisation
+vous allez voir comment on a réduit le
+temps de travail de Léa par 10 en
+standardisant l'ensemble des documents
+legau sur lesquels elle travaille et en
+créant des template intelligent et
+flexible qui lui donne la liberté
+d'aller plus vite vous allez voir
+comment on a automatisé la prise de
+rendez-vous la gestion des rendez-vous
+et l'ensemble de la génération de Lead
+pour la viinia vous allez voir comment
+avec Guillaume et Fabien on a utilisé
+leur pouvoirs de dev pour obtenir coup
+plus de leurs clients et se concentrer
+sur le marketing et tout ça va vous
+montrer que l'automatisation que vous
+soyez dev ou Lavinia qui est l'autre
+extrême de l'automatisation et ben c'est
+possible vous pouvez le faire la
+deuxième chose c'est qu'on va vous
+montrer concrètement comment on
+standardise et notamment en revenant sur
+des pratiques historique par exemple les
+avocats la façon d'écrire les documents
+n'est pas codifié par la loi c'est
+l'usage et l'usage vient d'un temps où
+les documents n'étaient pas pensés pour
+être standard ils étaient pensés pour
+être écrit de façon custom par un avocat
+le simple fait de remettre cette
+hypothèse cachée en cause que le format
+d'un document d'avocat peut changer vous
+allez voir ça ouvre des perspectives
+quand vous êtes médecin vous avez
+l'impression que le suivi de vos
+patients passe forcément par un
+rendez-vous avec vous pourtant l'email a
+été inventé le SMS a été inventer
+comment Lavinia peut suivre ses patients
+bien après qu'il soit allé dans son
+cabinet bien après que leur traitement
+démarré et vous allez voir qu'en fait ce
+type de scale ce type de standardisation
+ne réduit pas l'expérience utilisateur
+ne réduit pas la magie du contact humain
+au contraire il augmente dans la
+standardisation vous allez aussi voir
+comment des devs qui peuvent tout faire
+doivent faire des choix ils doivent se
+limiter être compréhensible par leurs
+clients faire l'effort d'arrêter de dire
+que tout est possible et simplement
+forcer les clients à comprendre de quoi
+ils ont besoin et de limiter leurs
+ressources et leurs capacités de
+développement à ces clients les plus
+pertinents évidemment on va aussi
+aborder concrètement les sujets de faire
+travailler les clients pour vous euh on
+va vous montrer que on sous-estime à
+quel point les utilisateurs ont envie
+d'être engagés il y a quelque chose
+d'assez troublant c'est l'idée que d'un
+côté il y a le service provider qui a le
+savoir il est sur sa montagne et il y a
+le petit client là qui est en bas comme
+ça s'il te plaît donne-moi toi savoir
+non on vit dans un monde où les gens
+sont à égalité cette égalité
+a comme force de permettre au service
+provider au freelance à l'avocat au
+médecin de faire rentrer ses patients
+ses clients euh les gens qui utilisent
+les services dans un processus actif
+aujourd'hui un patient en sait autant
+que son médecin sur sa maladie et c'est
+une bonne chose évidemment de temps en
+temps il lit dooctissimo et c'est la
+catastrophe mais n'empêche lire
+dooctissimo ça fait partie du process si
+vous êtes médecin et que vous refusez
+cette réalité ça va pas bien se passer
+pour vous dans Coup d'État anyone can
+scale on a commencé par aborder le sujet
+de la scalabilité des individus pourquoi
+parce que si vous voulez changer les
+choses si vous voulez changer le monde
+faut d'abord changer soi-même avoir les
+précepts de scalabilité en soi c'est le
+meilleur moyen de pouvoir les
+transmettre ensuite dans le chapitre
+numéro 2 se posera la question de
+comment scale une entreprise on va
+prendre des exemples très concrets
+kimono qui vend des vêtements Lon qui
+forme des gens Pathfinder qui fait du
+conseil et on va vous montrer que ces
+entreprises traditionnelles qui sont
+l'archétype de la société de service ont
+en fait des champs de scalabilité hyper
+fort qu'on peut aller chercher pour les
+rendre plus rentables plus fortes
+évidemment ça ça nous amène au chapitre
+numéro 3 qui est comment passer d'un
+leaders obsédé par la scalabilité à
+toute une équipe obsédé par ascalabité
+si chaque personne dans votre équipe
+comprend cette philosophie si vous êtes
+capable de la transmettre de la faire
+vibrer au sein de votre entreprise les
+possibilités sont infinies puisque les
+idées de scalab ne viendront plus de
+vous mais viendront de tout le monde et
+évidemment ça ça nous amènera à ma
+partie favorie la partie la plus mégalo
+c'est comment on peut créer un empire
+comment internationaliser et comment
+répliquer dans tous les pays ce que vous
+avez créé un endroit alors évidemment la
+question c'est vous allez me dire moi il
+y a que le 1 qui m'intéresse ou le 3 qui
+m'intéresse non c'est important de
+comprendre tout le process parce que
+même si vous le faites pas en entier ça
+servira d'inspiration ça servira
+d'ambition et ça vous aidera à faire de
+meilleurs choix alors anyone Canale
+c'est quoi c'est la théorie en clair moi
+qui radote la pratique en clair moi qui
+parle avec des gens et qui le essae de
+les pousser dans le retranchement et de
+l'observation et des outils pour vous
+montrer concrètement comment ça a été
+implémenté alors évidemment chacune de
+ces quatre grandes
+parties est les individus les entreprise
+ce quel est votre votre équipe et ce
+qu'el est le monde seruront des épisodes
+chaque chapitre sera à peu près 5
+épisodes à peu près vous savez à quel
+point on adore les règles nous ici les
+règles c'est fait pour être cassé mais
+grosso modo la bonne attitude la bonne
+démarche c'est prenez un cahier prenez
+des notes vous regardez les épisodes et
+vous essayez de faire vous essayez
+d'implémenter et surtout vous nous
+parlez on est là pour vous on est là
+pour vous nous posez des questions on
+est là pour transformer ça en quelque
+chose d'actif là on va sortir un peu de
+l'expérience Netflix et rentrer un peu
+dans l'action dans on va chercher de la
+scalabilité on va chercher des progrès
+on va les célébrer d'ailleurs les
+meilleurs moments on les prendra et ça
+donnera peut-être des épisodes des caméo
+on viendra vous voir si certains d'entre
+vous font des choses extraordinaires on
+vous mettra en avant on vous filera ce
+petit moment de kiff parce que ça nous
+fait grave kiffer à très vite pour la
+suite
+[Musique]
